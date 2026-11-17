@@ -10,6 +10,8 @@ Es un shiur de Guemará (Masejet Berajot, a veces Likutey Moharán, Zohar, Nedar
 - Si `data/segments/{id}.json` tiene `"source": "fal"`, la base es Fal Scribe v2 (mejor calidad). Si existe `data/md/{id}.md` (transcripción Plaud de la misma clase, con timestamps), úsala SOLO como segunda opinión para palabras dudosas (los timestamps coinciden aprox.). Nunca copies segmentos de Plaud; corriges los segmentos de Scribe.
 - Si la clase ya fue pulida antes (existe `data/polished/{id}.json` o partes), es un RE-PULIDO: borra `data/polished/parts/{id}/` y empieza de cero sobre los segmentos nuevos. Al renombrar, el nombre actual en Drive es el `newName` anterior (consúltalo con mcp__Google_Drive__get_file_metadata); si el nuevo título es igual, no renombres. Agrega las entradas nuevas al log existente `data/rename-log.d/{id}.json` (no borres las anteriores).
 
+- Scribe a veces se "pierde" al inicio de un bloque de 19 min (timestamps estirados, texto repetido o traducido al español en vez de hebreo/arameo, o letras hebreas). Corrige solo el texto usando Plaud y Sefaria; no toques timestamps.
+
 ## 1. Entender el contexto
 Lee TODA la transcripción primero (con Bash: `python3 -c` imprimiendo `i | mm:ss | text`, en bloques de ~250 segmentos si es larga). Identifica: qué daf/amud se estudia, la Guemará citada, nombres (Rabí Yojanán, Rav Huna, Bilam, David hamélej…), temas.
 Trae el texto del daf de Sefaria (la red lo permite):

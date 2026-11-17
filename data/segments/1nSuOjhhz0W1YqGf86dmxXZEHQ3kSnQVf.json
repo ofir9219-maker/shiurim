@@ -1,1554 +1,2201 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 0,
-"endMs": 9000,
-"speaker": "Speaker 1",
-"text": "Vamos Rabi Shua dice la hermana Rabi Shua Omer Achalosh Shahut. Amarabiduama Shmuel."
+"startMs": 700,
+"endMs": 1180,
+"text": "Vamos."
 },
 {
-"startMs": 9000,
-"endMs": 11000,
-"speaker": "Speaker 2",
-"text": "Estamos hablando. Estamos hablando de."
+"startMs": 2720,
+"endMs": 3360,
+"text": "Rabi Yehoshua."
 },
 {
-"startMs": 11000,
-"endMs": 27000,
-"speaker": "Speaker 1",
-"text": "La mañana. Se puede decir hasta la tercera hora, porque los separan hasta esa hora. Dice Amarabiduama Shmuel a la jaque Rabi Shua. Nos salvamos si no."
+"startMs": 4820,
+"endMs": 17500,
+"text": "Dice la Gemara: Rabi Yehoshua Omer ad shalosh shaot. Amar rabina Shmuel Shalosh shaot estamos hablando, estamos hablando de Krias Shema de la- Krias Shema de la mañana, se puede decir hasta la tercera hora, porque los bnei haMelajim se paran hasta esa hora."
 },
 {
-"startMs": 27000,
-"endMs": 28000,
-"speaker": "Speaker 2",
-"text": "Y no era cuando."
+"startMs": 18420,
+"endMs": 23140,
+"text": "Dice: Amar rabina Shmuel, halajá keRabi Yehoshua. La halajá es como Rabi Yehoshua,"
 },
 {
-"startMs": 28000,
-"endMs": 39000,
-"speaker": "Speaker 1",
-"text": "Nos perderíamos muy seguido, Dice."
+"startMs": 24380,
+"endMs": 25060,
+"text": "nos salvamos."
 },
 {
-"startMs": 39000,
-"endMs": 67000,
-"speaker": "Speaker 1",
-"text": "Sí, es como dice Rashi, y está muy raro que ir main de la mishena a ponerme eso. Tipo, ya, si lo lees después de que se te fue el tiempo, no pierdes. Es como si estuviera hasta ahora. Ya sé que es como si estuviera hasta ahora. Sí, pero."
+"startMs": 26300,
+"endMs": 31940,
+"text": "Si no... Si no era cuándo- Todos perderíamos van Krias Shema muy seguido."
 },
 {
-"startMs": 67000,
-"endMs": 82000,
-"speaker": "Speaker 2",
-"text": "Pero entonces, ¿cuál es el punto? Sí, sí, pero lo que está escrito en la mitad de mi Guemará de juro que sí, de que lees eso como que prueba toda."
+"startMs": 33200,
+"endMs": 33480,
+"text": "Dice:"
 },
 {
-"startMs": 82000,
-"endMs": 113000,
-"speaker": "Speaker 1",
-"text": "Pero esto es pasout, que aulai no es. No es Torá. No, y estudia otra cosa. Por eso, que lo que no es Torá, y si es Torá, pero yo puedo estudiar. A ver, vamos a ver que dice la llamada. Y más que eso, es algo que revuelve. Académicamente la cloeif sit. Entonces mashma lo hace muy shitki. Ah, no pasó nada! Es que el no pasó nada. Y justamente, solo explica la llamada, dice “me ovat luego jaleitcon”."
+"startMs": 34880,
+"endMs": 41180,
+"text": "hakore mi kan ve'eilach lo ifsid. Es que koreh vaTorá, ¿no? Sí, es como koreh vaTorá."
 },
 {
-"startMs": 113000,
-"endMs": 121000,
-"speaker": "Speaker 2",
-"text": "Ya, no hay takana, no es como la midaki, no hay ni hache time, ahí esto."
+"startMs": 43060,
+"endMs": 53840,
+"text": "Dice Rashi: hakore mi kan ve'eilach lo ifsid, sharehu queadam shekore achat mi kol ha'parshiot shebaTorá, vafalpi lo yatza yedei Krias Shema, yesh lo kibud sajar ke'osek baTorá."
 },
 {
-"startMs": 121000,
-"endMs": 144000,
-"speaker": "Speaker 1",
-"text": "Entonces me voy a lo de Holy Kong y justo acá te dicen \"Mikama es la loif sit\". Ahora te dicen \"No, me daikif sit el crashema\". Y sobre lo que sí te dicen loif sit está raro exactamente a qué se refiere. Entonces vamos a tratar de entender. Dice la mamara \"Amar rofjita amar mor ukva\". Ubil bache el hoyo Mario ser or."
+"startMs": 54080,
+"endMs": 61180,
+"text": "Está muy raro, porque maini de la Mishna va a ponerme eso. Tipo, ya, si lo lees después de que se te fue el tiempo, no pierdes."
 },
 {
-"startMs": 144000,
-"endMs": 178000,
-"speaker": "Speaker 1",
-"text": "Dice, pero que ya no diga la baraja de ellos ser or. Nosotros sí decimos. No, sí. Si se te va a desmantir fila. Ah, ya no. Si se te va a crear chema, así. Mejor. Entonces dice. Ah, rojita, mar morujo, ubilbache el hoyo Mario ser or. Me iti ve a core mi kama, ahí la cloeif sit que adam su koreba tora. Entonces acá este quiere decir. Entonces acá está muy, muy a mok."
+"startMs": 61560,
+"endMs": 68120,
+"text": "Es como si estudias Torá. Ya sé que es como si estudias Torá. Sí, pero kilu- Pero entonces, ¿cuál es el punto? Ashelat sipuelo."
 },
 {
-"startMs": 178000,
-"endMs": 220000,
-"speaker": "Speaker 1",
-"text": "Porque son las berajot de que se dicen sobre un “keriat shema” fuera de tiempo. Que ya no sales del smalcrea shema. Entonces cuando te dicen “Louifstit que adama koréva tora” no te están diciendo que es “Bueno, le fajot que anto mi trata al mutora” pero yo no puedo decir “las berajot”. Entonces te dicen “Louifstit que adama koréva tora” quiere decir que “Bemet” puedes decir. Las berajot de Yotzer y ese es el Hidush. Ahora, entonces, según Amar Morukhva, está raro. Entonces vamos a ver qué contesta en la morada, dice: Tiufte de Rafjiz de Tiufta, ya me me chela, ica de hambre, hay quien lo dice así: Amar Morukhva, Mai Luifzit, Luifzit, Sheloifzit, Brajot."
+"startMs": 68880,
+"endMs": 75080,
+"text": "Chita que-- o safta, pero un kilu ulom absid de que vas a decir Shema. No, chita que es sata el Krias Shema es chita."
 },
 {
-"startMs": 220000,
-"endMs": 256000,
-"speaker": "Speaker 1",
-"text": "Entonces viduk al revés, ¿qué es Loifzit, que Loifzit, Brajot? Dice entonces está."
+"startMs": 75700,
+"endMs": 85460,
+"text": "Lo que está escrito en la Mishna, va, eh, mi kan ve'eilach lo ifsid, quiere decir que lo-- sí, de que lees eso como que koreh vaTorá. Pero a veces es pasut, que aulai no es, no es, no es Torá."
 },
 {
-"startMs": 256000,
-"endMs": 292000,
-"speaker": "Speaker 1",
-"text": "Esto está aquí muy interesante. Qué pasa si yo agarro un lulav después de su costo? Digo, berajot, no dices nada. Por qué? Porque no estás haciendo nada, estás agarrando unas plantas. Entonces acá, ¿por qué puedo decir las berajot de keriat shema? Entonces el hidush aquí de la Mishná, la keriat shema y la cloeif sit. O sea que hay dos gris de otro en Ravgiz de la primera grisá pensó loif sit que Adama Koreba Torah, pero jamás es Koreba Torah, pero no puedes decir berajot."
+"startMs": 85700,
+"endMs": 90940,
+"text": "No, y estudia otra cosa. Por eso, kilu que no es Torá. Y sí es Torá, pero yo puedo estudiar, eh, Babakama."
 },
 {
-"startMs": 292000,
-"endMs": 303000,
-"speaker": "Speaker 1",
-"text": "Y eso la llamarada le pregunta que dice es mamá bright and fureshet, que es loif sit las berajot. Luego dicen otro hija de hambre, otro nusak en Ravgiz."
+"startMs": 92920,
+"endMs": 101000,
+"text": "A ver, vamos a ver qué dice la Gemara. Y más que eso, es algo que revuelve. Hakore mi kan ve'eilach lo ifsid. Entonces, mashmá kilu, hacemos un shitjí: «Ah, no pasó nada»."
 },
 {
-"startMs": 303000,
-"endMs": 337000,
-"speaker": "Speaker 1",
-"text": "Entonces hay que entender cuáles son los dos nusjaot de Ravgizda. Sí, cuáles son los dos nusjaot de Ravgizda. Y hay que entender, Mapi Tom no tiene razón, el primer nuso de rabhita, que realmente si perdiste, perdiste. Ahora, ¿qué la Mishná nos viene a decir? Porque dice \"loif sit que adama koreba tora\", aikar hacer minas efer. Tú viniste a decirme \"loif sit eta berajot\". Y más que me dices, no, loif sit que adama koreba tora, ser te van a pagar por talmu torá."
+"startMs": 101180,
+"endMs": 110420,
+"text": "Que trae para el Isaac. Sí, es que lo no pasó nada. Y justamente, eso explica la Gemara, dice me'uvat..."
 },
 {
-"startMs": 337000,
-"endMs": 369000,
-"speaker": "Speaker 1",
-"text": "Pero entonces las berajot sit sats. Entonces quiere decir que la Mishná misma se presta a explicarse bepashtut, como dijo Rabjista al principio, porque hay carajas terminas efer, te dice, no te dice, te dice, te dice afilu de la dama, mashma, que pierdes legambre a filu las berajot, piensa que legambre a filu las berajot. Ahora, la hermana acaba con algo muy manial, una membrana de Rahmani y dice,"
+"startMs": 110680,
+"endMs": 112220,
+"text": "Lo yoja litkón Lo yoja litkón."
 },
 {
-"startMs": 369000,
-"endMs": 380000,
-"speaker": "Speaker 1",
-"text": "Entonces, ¿qué viene a decir?"
+"startMs": 113800,
+"endMs": 118440,
+"text": "Ya no está kanav jajal. No es como la midá, kilu hay mijá shetaim, hay esto."
 },
 {
-"startMs": 380000,
-"endMs": 383000,
-"speaker": "Speaker 1",
-"text": "No entendí, pues haré,"
+"startMs": 122040,
+"endMs": 129900,
+"text": "Entonces, me'uvat lo yoja litkón. Y justo acá te dicen mi kan ve'eilach lo ifsid. Ahora te dicen: «No, vadai que ifsid Krias Shema»."
 },
 {
-"startMs": 383000,
-"endMs": 416000,
-"speaker": "Speaker 2",
-"text": "No está muy amor. Quieres que te diga una? Quieres que tenga una pirja? Areca tú, que hay una de las que hay que levanté el transmutorá para hacer mitzvot, si no se puede salir de Jeri, mi cara me hilal. Es mucho más jaxú. Pero hay una alhaja, que hay una alhaja de que el Tosec va mitzva, que hay que levantar talmu torá para ir a hacer mitzvot. Entonces se lo mer, que es más jaxú que el talmu torá."
+"startMs": 130419,
+"endMs": 136820,
+"text": "Y el, y lo que, y sobre lo que sí te dicen lo ifsid está, está raro exactamente a qué se refieren. Entonces, vamos a tratar de entender."
 },
 {
-"startMs": 416000,
-"endMs": 420000,
-"speaker": "Speaker 2",
-"text": "Yo te estoy preguntando. Ajá. Levanta?"
+"startMs": 137300,
+"endMs": 142520,
+"text": "Dice la Gemara: Amar rav Jizda amar mor ukva, ubilvat shelo yomar yotzer or."
 },
 {
-"startMs": 420000,
-"endMs": 422000,
-"speaker": "Speaker 1",
-"text": "No, no entendí, no entendí."
+"startMs": 144800,
+"endMs": 151240,
+"text": "Dice: «Pero que ya no diga la berajá de yotzer or». Nosotros sí decimos."
 },
 {
-"startMs": 422000,
-"endMs": 424000,
-"speaker": "Speaker 2",
-"text": "Llega la número y dice."
+"startMs": 151620,
+"endMs": 153340,
+"text": "Sin Shem haMaljut. No, sí."
 },
 {
-"startMs": 424000,
-"endMs": 425000,
-"speaker": "Speaker 1",
-"text": "Es mejor Bonata?"
+"startMs": 155140,
+"endMs": 163540,
+"text": "Si se te va el zaman tefilá. Ah, ya no. Si se te va Krias Shema, sí. Entonces, dice: Amar rav Hizda amar mor ukva, ubilvat shelo yomar yotzer or."
 },
 {
-"startMs": 425000,
-"endMs": 456000,
-"speaker": "Speaker 2",
-"text": "Es Mejor Bonata estudiar Torá. Es mejor la mitzvá que el estudio de la Torá? El mitzvá al quién te dijo? Por qué? Porque hay realidad de que lo hice, mashmá es de dievet que hacerlo, aquí la transacta. Entonces estás estudiando Torá, pero pues si te quiere mitzvá, no es jazúa. Para cualquier mitzvá hay que llevarte el talmo Torá. Entonces, en realidad, de que es más importante, que es más jazú,"
+"startMs": 164280,
+"endMs": 172660,
+"text": "Me'iti ve-- hakore mi kan ve'eilach lo ifsid, queadam shehú kore baTorá. Dice: aval mebarej hu shtaim lefanav ve'achat lajaria."
 },
 {
-"startMs": 456000,
-"endMs": 465000,
-"speaker": "Speaker 2",
-"text": "Que es más jazúl la mitzvah que le hemah que lo de que el simplemente hay una laja."
+"startMs": 172720,
+"endMs": 182960,
+"text": "Entonces, acá este inyán de lo ifsid quiere decir-- entonces, acá está muy, muy amok, porque son las berajot de Krias Shema que se dicen sobre un Krias Shema fuera de tiempo."
 },
 {
-"startMs": 465000,
-"endMs": 498000,
-"speaker": "Speaker 1",
-"text": "Sí, está bueno Dashuela, está bueno Dashuela. Ahora, y en el y en el chat pasut era mani también está muy raro. Qué está diciendo, vihla? O sea, ¿qué está diciendo? O sea, que no es pasut, que es mejor que digas que era Shema Bismana, porque es mitzvá, sí, el otro está estudiando, pero sin mitzvá de que era Shema. Aquí está muy raro, te dice, es más grande el que dice crea Shema Bonata, se lo ve Bonata, hubiera pensado."
+"startMs": 183040,
+"endMs": 192500,
+"text": "Que ya no sales del zaman Krias Shema. Enton-- sí, entonces, cuando te dicen lo ifsid queadam hakore baTorá, no te están diciendo que es-- bueno, le fajot ki anto mitsvat talmud Torá."
 },
 {
-"startMs": 498000,
-"endMs": 506000,
-"speaker": "Speaker 2",
-"text": "Un lai que es igual,"
+"startMs": 193080,
+"endMs": 202460,
+"text": "Pero yo no puedo decir las berajot. Entonces, te dicen lo ifsid queadam hakore baTorá, quiere decir que be'emet puedes decir las berajot de yotzer, y ese es el jidush."
 },
 {
-"startMs": 506000,
-"endMs": 511000,
-"speaker": "Speaker 1",
-"text": "No dice eso, no dice eso."
+"startMs": 203340,
+"endMs": 211100,
+"text": "Ahora, entonces, según rav Hizda amar mor ukva, está raro. Entonces, vamos a ver qué contesta la Gemara. Dice: tiufta de rav Hizda, tiufta."
 },
 {
-"startMs": 511000,
-"endMs": 514000,
-"speaker": "Speaker 1",
-"text": "Gadol la core criache ma."
+"startMs": 211400,
+"endMs": 218100,
+"text": "Ya, be'emet she'ela. Ika deambre, hay quien lo dice así. Amar rav Hizda amar mor ukva: ma hi lo ifsid?"
 },
 {
-"startMs": 514000,
-"endMs": 519000,
-"speaker": "Speaker 2",
-"text": "Cuándo Dices cuántos ecuatoras? Estamos epatora. No, no, no."
+"startMs": 218160,
+"endMs": 231960,
+"text": "Lo ifsid, shelo ifsid berajot. Entonces, biduk harabés. Ken lo ifsid, shelo ifsid berajot. Dice: ta inyan hameajia, hakore mi kan ve'eilach lo ifsid, queadam shekore baTorá, aber mebarej hu shtaim lefanav ve'achat lajaria."
 },
 {
-"startMs": 519000,
-"endMs": 532000,
-"speaker": "Speaker 1",
-"text": "Dice. Gadol la core criache ma Bonata y uterme o sek batora. Qué está diciendo? Estoy entendiendo. Adif que que tal motorá entiendo Yo."
+"startMs": 232780,
+"endMs": 240240,
+"text": "Dice: amar rav Imani, gadol hakore Krias Shema be'onata yoter mehaosek baTorá."
 },
 {
-"startMs": 532000,
-"endMs": 541000,
-"speaker": "Speaker 3",
-"text": "Adif que tal motorá."
+"startMs": 240860,
+"endMs": 247420,
+"text": "Mi dektane hakore mi kan ve'eilach lo ifsid, queadam hakore baTorá, mijlal de kore be'onata, adif."
 },
 {
-"startMs": 541000,
-"endMs": 550000,
-"speaker": "Speaker 3",
-"text": "Y dijo eso? Pues que no dice eso. Y dijo que Giacho Mabe Bonata es arriba de, o sea, una mitzvá más? Qué?"
+"startMs": 248960,
+"endMs": 250240,
+"text": "Sí, pero no es lo pasut, kilu."
 },
 {
-"startMs": 550000,
-"endMs": 556000,
-"speaker": "Speaker 3",
-"text": "Alex Coll, Danilo Movine, Ravisimo Mario Sánchez, que no interrumpía para decir, Crea Shema Bonata, estaba estudiando por ahí."
+"startMs": 253800,
+"endMs": 254160,
+"text": "To está--"
 },
 {
-"startMs": 556000,
-"endMs": 591000,
-"speaker": "Speaker 1",
-"text": "No, cómo no, Crea Shema sí de sí. A que Shema sí? Sí. Tallas mittot no? Crea Shema sí. No, no, no, déjame tratar de explicar la pregunta. Gadola kore criache va Bonata y hoter mea korevatora? Vamos a hacerlo según como tú preguntaste con tu pregunta, ¿qué está diciendo acá? Nos está diciendo acá que es mejor una mitzvá que tal mutora?"
+"startMs": 256519,
+"endMs": 264700,
+"text": "esto está aquí muy, muy interesante. ¿Qué pasa si yo agarro un lulav después de Sucot?"
 },
 {
-"startMs": 591000,
-"endMs": 622000,
-"speaker": "Speaker 1",
-"text": "No, porque tal mutora, entonces es mejor tal mutora. Entonces acá, ¿qué viene a decirnos con Wadola, Core, crea Shema Bonata y yoterme a core batora? Ahora, ¿con quién se compara? Con el que lee, crea Shema shlovis, mana, porque de ahí es subraya, porque Mikam va ahí la klovishtit que adama kore batora. Sí, entonces con eso lo está comparando y con eso es batay, que es mucho mejor. Bonata porque es mitzvá."
+"startMs": 264900,
+"endMs": 268400,
+"text": "Digo berajá o no hago berajá. No dices nada. ¿Por qué? Porque..."
 },
 {
-"startMs": 622000,
-"endMs": 637000,
-"speaker": "Speaker 1",
-"text": "Me explico, es mejor Bonata porque es mitzvá, entonces, ¿qué quieres? El amá que negue con la toracula. Bueno, pero no me traigas allá de acá, porque acá estás comparando el Crea Shema con el otro Crea Shema. Me explico? Este Crea Shema es Mitzvá."
+"startMs": 269640,
+"endMs": 272000,
+"text": "Porque no estás haciendo nada, estás agarrando unas plantas."
 },
 {
-"startMs": 637000,
-"endMs": 648000,
-"speaker": "Speaker 2",
-"text": "No, pero yo sí siento. Yo sí siento que la hermana quiere tener raya de que, así como vemos acá, que la hermana te compara cuando hay que ir a Chua Bismaná y cuando no hay Bismaná."
+"startMs": 273340,
+"endMs": 281420,
+"text": "Entonces, entonces acá, ¿por qué puedo decir las berajot de Krias Shema? Entonces, el jidush aquí de la Mishna, hakore mi kan ve'eilach lo ifsid."
 },
 {
-"startMs": 648000,
-"endMs": 671000,
-"speaker": "Speaker 1",
-"text": "Bueno, entonces regresamos a tu pregunta, que aquí es mejor porque es Mitzvá. O sea, no es mitzvá, pero mitzvá nitge, talmutorah nitge por la mitzvá, filo que el talmutorah es mejor. Sí, entonces yo creo que aquí está escrito algo muy manian, muy amuk. Cuál es el guether de la mitzvá de criacheema?"
+"startMs": 281840,
+"endMs": 291760,
+"text": "Entonces, acá hay dos guirsot de rav Hizda. Rav Hizda en la primer guirsá pensó lo ifsid queadam hakore baTorá, pero namás es ko, kore baTorá, pero no puede decir berajot."
 },
 {
-"startMs": 671000,
-"endMs": 673000,
-"speaker": "Speaker 3",
-"text": "Cuál es el guether de."
+"startMs": 292200,
+"endMs": 301540,
+"text": "Y a eso la Gemara le pregunta que dices-- es mamash, braita enfurecet, que es lo ifsid las berajot. Luego dice otro ikadeambre, otro nusaj de rav Hizda."
 },
 {
-"startMs": 673000,
-"endMs": 678000,
-"speaker": "Speaker 1",
-"text": "La mitzvah del Krachema?"
+"startMs": 303420,
+"endMs": 310380,
+"text": "Entonces, hay que entender cuáles son los dos nusajot de rav Hizda. ¿Sí? Cuáles son los dos nusajot de rav Hizda."
 },
 {
-"startMs": 678000,
-"endMs": 710000,
-"speaker": "Speaker 1",
-"text": "Entonces, la Jabara, el guede de que de Krachema es Kabalah to el Maju Chamai. Yo creo que aquí está escrito algo diferente, un poco que Kanira es lo mismo, hay que entender que es Kabalah to el Maju Chamai. El guede de la mitzva de Krachema no es mitzva, eso no es el guede, no es mitzva, el a e esta el Mutora Krachema, la mitzva esta el Mutora. Sí, Krachema es Bezzem Talmut Torá, es."
+"startMs": 310960,
+"endMs": 318480,
+"text": "Y hay que entender, ma, mapitom no tiene razón el primer nusaj de rav Hizda, que realmente, pues si perdiste, perdiste."
 },
 {
-"startMs": 710000,
-"endMs": 713000,
-"speaker": "Speaker 2",
-"text": "Leer un pedazo de Torá,"
+"startMs": 319840,
+"endMs": 325860,
+"text": "Ahora, ¿qué la Mishna nos viene a decir? Porque dice: «Lo ifsid queadam hakore baTorá». Hay carjaser min haSefer."
 },
 {
-"startMs": 713000,
-"endMs": 746000,
-"speaker": "Speaker 1",
-"text": "OK, y entonces leer un pedazo de Torá no es nada más que esa es la mitzvah, porque si la mitzvah fuera leer un pedazo de Toráh, y pero acá esquilo hay 2 cosas que estoy cumpliendo 2 mitzvot, una está estudiando y a la vez estás mekabell ol mal juchamai. Y la mitzva es la capelor majo chamain. Si fuera así, la hermana no tiene sentido de principio a fin. El fin no tiene sentido por tu pregunta. Por qué? Porque tú dices. Bueno, pero es mitzva."
+"startMs": 326420,
+"endMs": 329940,
+"text": "Tú viniste a decirme: «Lo ifsid et haBerajot»."
 },
 {
-"startMs": 746000,
-"endMs": 753000,
-"speaker": "Speaker 1",
-"text": "O sea, ¿qué quieres? Tipo está La Mitzva."
+"startMs": 331340,
+"endMs": 336800,
+"text": "Y mashmá que me dices: «No, lo ifsid queadam hakore baTorá». Sí, te van a pagar por talmud Torá."
 },
 {
-"startMs": 753000,
-"endMs": 779000,
-"speaker": "Speaker 1",
-"text": "Pero si me dices que no, que el guerra es lil motorá, bezda, guedesh el que hache ma, lil motorá. Entonces mi mail acá me meta y acá hay 22 de Talmutora, una cuando estudias cumples la mitzvah de Talmutora, que es decir que hache mah, que es estudiar Tora, ese es el guer de la mitzvah. Y otro que era de la amistad es cuando estudias."
+"startMs": 338140,
+"endMs": 347500,
+"text": "Pero entonces las berajot sí ifsad. Entonces, quiere decir que la Mishna misma se presta a explicarse be, be'pastut, como dijo rav Hizda al principio."
 },
 {
-"startMs": 779000,
-"endMs": 787000,
-"speaker": "Speaker 2",
-"text": "Esa cámara, el que no puede traer, el que no fue el que está trabajando."
+"startMs": 348240,
+"endMs": 361560,
+"text": "Porque hay carjaser min haSefer. Te dice: «Lo ifsid queadam hakore baTorá», y no te dice «lo ifsid et haBerajot». Te dice, te-- afilu el adam hakore baTorá, mashmá- Es el Krias Shema ...que, que pierdes legambre, afilu las berajot."
 },
 {
-"startMs": 787000,
-"endMs": 802000,
-"speaker": "Speaker 2",
-"text": "La raga. Exactamente. Y si. Gam Helleck del que no decía que no decía que nada."
+"startMs": 362280,
+"endMs": 372596,
+"text": "Pierdes legambre, afilu las berajot. Ora, la gemara acaba con algo muy manian, uno me embrujada de Ramani y dice: \"Gadol hakore kriat shema beonata yoter meosek batorah\"."
 },
 {
-"startMs": 802000,
-"endMs": 804000,
-"speaker": "Speaker 1",
-"text": "Más decía que."
+"startMs": 373436,
+"endMs": 378876,
+"text": "Mire, está en el core de mi cama y lo que lo hiciste que adam ocore batorah, mijlal de core beonata adif. Claro, sí, perfecto."
 },
 {
-"startMs": 804000,
-"endMs": 810000,
-"speaker": "Speaker 2",
-"text": "No, porque acá es cuando la Torá."
+"startMs": 380396,
+"endMs": 386516,
+"text": "Entonces, entonces, ¿qué viene a decir? No entendí. Pues hare. No, está. Está, está muy amok. Al revés, te voy a decir una pirja."
 },
 {
-"startMs": 810000,
-"endMs": 843000,
-"speaker": "Speaker 1",
-"text": "Se convirtió en mitzvah, nombre que agarraste la el Mitzvah Talmut Torá y la convertiste en un jefe de mitzvah, pero el jefe del Mitzvah es la Torá Béatmah. Entonces hay Torá y hay mitzvot, sí, hay Torá y hay mitzvot y acá el jefe de la mitzvah es ese es la Torá Béatmah. Ese es el jefte de la mitzva. Y entonces mi mail acá te pregunta. Entonces por eso mi mail le dice a la mishna que nunca dice. Y si se te va el tiempo de Krachema, puedes decir las berajot."
+"startMs": 386516,
+"endMs": 394916,
+"text": "¿Quieres que te diga una pirja? Claro, quiere decir con Ramani. ¿Quieres que te diga una co-- quieres que te diga una pirja? Hare katú, que hay una halajá que hay que levantar el talmutorah para hacer mitzvot, para que mitzvot."
 },
 {
-"startMs": 843000,
-"endMs": 873000,
-"speaker": "Speaker 1",
-"text": "Por qué puedes decir las berajot? Porque es que Adama Qurava Torá, pero eso se lo va que haré también antes era que Adama Qurava Torá. Y ahorita también estoy diciendo Adama Qurava Torá. Bareza Jefte es el Krachema. Nada más que se te fue el onata. Del Krachema, que es pues de Inian de estudiar esta esta parte de la Torá. Sí, en ese sman como mitzvah. Entonces mi mei le ese es el sman Krachemah."
+"startMs": 394956,
+"endMs": 401276,
+"text": "Si no se puede salir de ajerín, ni cara me gilal, es gamar me pureshit. Así ni shuel, ula y veme tosek batorah es mucho más jashuv."
 },
 {
-"startMs": 873000,
-"endMs": 897000,
-"speaker": "Speaker 1",
-"text": "Entonces mi mei le parece así y con eso se entiende la membrana de ramani. A nivel Kalmud Torá Aim es mejor el de ahorita o es mejor el de después? No es de nivel mitzvah. Entonces de lo que dice Loibzit, Mashma, que este es mejor, entonces hay que entender acá el eficiente de meternos más al Omek, Makhatuká."
+"startMs": 401936,
+"endMs": 410176,
+"text": "Pero hay una halajá que, que hay una halajá de que tosek va mitzvá, patur, que, que si no viene tosek va mitzvá, que hay que levantar talmutorah para ir a hacer mitzvot."
 },
 {
-"startMs": 897000,
-"endMs": 902000,
-"speaker": "Speaker 2",
-"text": "Y Qué es esa Torá? Yo creo que es la Torá de Ijuda Shem, no, que te lleve a Eso."
+"startMs": 410876,
+"endMs": 416896,
+"text": "Entonces, zeló mer, ani omer, zeló mer que es más jashuv que el talmutorah. Ani shuel shelá."
 },
 {
-"startMs": 902000,
-"endMs": 917000,
-"speaker": "Speaker 1",
-"text": "Vamos a ver, entonces Kilo, acá es como que el de la Torá, es la esencia, es cuando tocas la esencia de la Torá y cuando tocas la esencia de la Torá, necesitas tocarlo bismanu, porque si no lo tocas bismanu."
+"startMs": 416996,
+"endMs": 419556,
+"text": "Uh, yo te estoy preguntando. Ajá. ¿Me entiendes?"
 },
 {
-"startMs": 917000,
-"endMs": 920000,
-"speaker": "Speaker 2",
-"text": "Entonces Se te fue."
+"startMs": 420936,
+"endMs": 427876,
+"text": "No, no entendí. No entendí. ¿Por qué la gemara dice...? Es mejor beonata que lo beonata. Es mejor beonata que estudiar torá."
 },
 {
-"startMs": 920000,
-"endMs": 931000,
-"speaker": "Speaker 1",
-"text": "Sí, entonces, entonces, por eso Vemet, la hermana que dices tú, la hermana de Darim, que dice vaguita voy o manva laila, como a tal y usted dejo va al ir."
+"startMs": 428576,
+"endMs": 442196,
+"text": "Es mejor la mitzvá de kiriat shemá beonata que el estudio de la torá. Ani shuel quién te dijo. ¿Por qué? Porque es la allá de que lo ifsit, más ma que es de bien, que hace lo-- y lo torá sata, tú estás estudiando torá, pero si te quedan siete que ocho más, no ocho más jashuvá."
 },
 {
-"startMs": 931000,
-"endMs": 933000,
-"speaker": "Speaker 2",
-"text": "Create ahora Vemet,"
+"startMs": 442476,
+"endMs": 450936,
+"text": "Esa es mala, esa es mala. Mhm. Ani shuel shelá. A ver, para cualquier mitzvá hay que levantar el talmutorah. A ver, para mí, cara me gilá, mitzvá de Ramón."
 },
 {
-"startMs": 933000,
-"endMs": 974000,
-"speaker": "Speaker 1",
-"text": "De dónde se aprende todo el linean de Talmud Torah? A quién Crea Shema? Todos estos que es todo el libreto ahora. Que donde está en lebaneja, vedibertaba, veteja. Entonces mi meile todo el linean de Talmud Torah, que tucan, aquí que tucan, entonces acá más que está esta que se llama el Shema Israel, el precioso que siempre que tú estás estudiando Torah, estás tú escuchando el Bara Shem."
+"startMs": 450976,
+"endMs": 458396,
+"text": "Entonces, en ejreaj, en reajá de que es más importante, que es más jashuv, que es más jashuv la mitzvá de kiriat shemá que lo, que el talmutorah."
 },
 {
-"startMs": 974000,
-"endMs": 977000,
-"speaker": "Speaker 1",
-"text": "Tú estás escuchando el Bara Shem,"
+"startMs": 458456,
+"endMs": 459276,
+"text": "Simplemente, hay una halajá,"
 },
 {
-"startMs": 977000,
-"endMs": 984000,
-"speaker": "Speaker 2",
-"text": "Entonces acá la mitzvah es ser el que escucha el Bara Shem."
+"startMs": 460756,
+"endMs": 464336,
+"text": "hay una halajá que hay que levantar el talmutorah para hacer mitzvot. Mhm."
 },
 {
-"startMs": 984000,
-"endMs": 1014000,
-"speaker": "Speaker 1",
-"text": "Acá está la nekuda donde te dicen Shma Israel, tú tienes que entender a Shema lo que no es Shema Ha. Ome, que eso es lo que tú tienes que escuchar en cualquier lado. Cuando tú escuchas cualquier Sugya que estás estudiando, cualquier Torah que estás estudiando, cualquier línea que estás viviendo, que todo el todo es Torah. Realmente, como lo dice el paso, siempre tienes que estar escuchando ahí, entonces mi meile le defiende las cosas en el."
+"startMs": 465596,
+"endMs": 473196,
+"text": "Sí, está buena la shelá. Está buena la shelá. Ora, y, y en el, mmm, y en el psat pasut de Ramani también está muy raro."
 },
 {
-"startMs": 1014000,
-"endMs": 1018000,
-"speaker": "Speaker 2",
-"text": "Mundo, tendrías que entender que te está."
+"startMs": 473216,
+"endMs": 481196,
+"text": "¿Qué está diciendo, Bijlan? Sí. O sea, ¿qué está diciendo, Kilo? O sea, que no es pasut, que es mejor que digas kiriat shemá bismaná porque es mitzvá."
 },
 {
-"startMs": 1018000,
-"endMs": 1056000,
-"speaker": "Speaker 1",
-"text": "Diciendo si es libreto. Entonces, acá si ya regresamos a eso, mi meile todo esto le está dando una entendimiento más profundo a toda nuestra subida, porque nuestra subida de que estaba hablando ahí arriba del ismog. Yula Litzfila, yula es el creatzema y tefila, yula ahorita y es el creatzema y le fide que es el que es creatzema Torah sí es Torah es Torah es Memash, es el es el la Torahh, es de la vagina de la jet, que es el seh el seh, es la jojma, es la Torahh."
+"startMs": 481936,
+"endMs": 488876,
+"text": "Sí, el otro está estudiando, pero sin mitzvá de kiriat shemá. Talmutorah que negue et kula. Sí, o sea... No, no por el talmutorah."
 },
 {
-"startMs": 1056000,
-"endMs": 1063000,
-"speaker": "Speaker 1",
-"text": "Entonces mi meile y todo eso tienes que le mojo todo a la Tefila."
+"startMs": 490336,
+"endMs": 498376,
+"text": "aquí está muy raro. Te dice: \"Es más grande el que dice kiriat shemá beonató shel lo beonató\". No, no, no. Ah, había pensado un like, es igual."
 },
 {
-"startMs": 1063000,
-"endMs": 1067000,
-"speaker": "Speaker 3",
-"text": "Qué diferencia hay entre el limud Torah del Shema y el resto del limud Torah?"
+"startMs": 498616,
+"endMs": 506276,
+"text": "No, no, no, no. Eso es lo katú, eso es lo katú. Katú algo más. Katú que es más importante. O sea, es kiriat shemá, que están estudiando torá."
 },
 {
-"startMs": 1067000,
-"endMs": 1071000,
-"speaker": "Speaker 2",
-"text": "Entonces, ¿cuál es."
+"startMs": 506716,
+"endMs": 513816,
+"text": "No, no dice eso. No dice eso. Amar Ramani: \"Gadol hakore kriat shemá\"."
 },
 {
-"startMs": 1071000,
-"endMs": 1079000,
-"speaker": "Speaker 1",
-"text": "La diferencia entre Shema y el otro limud?"
+"startMs": 513916,
+"endMs": 523775,
+"text": "¿Cuá-cuándo dice, cuándo sepa torá? ¿Tam o sepa torá? No. No, no está. O sea, torá es torá. Dice: \"God-gadol hakore kriat shemá beonata yoter mehaosek batorah\"."
 },
 {
-"startMs": 1079000,
-"endMs": 1100000,
-"speaker": "Speaker 1",
-"text": "Entonces la diferencia entre Shema La diferencia entre Shema y otro limut es así que si tú dices Shema y si tú dices Shema, Ya la hermana te considera como si todo el día está estudiando, porque cuál es el librei Torah que hay en Crea Shema,"
+"startMs": 524236,
+"endMs": 530456,
+"text": "Mi dictamen, hakore vekama el ajloif sit, que adam hakore batorah, mijlal de kore beonata adif. ¿Qué está diciendo?"
 },
 {
-"startMs": 1100000,
-"endMs": 1134000,
-"speaker": "Speaker 1",
-"text": "Todo Es Torah exactamente, que todo es Torah. Entonces Meile, si tú dices Crea Shema en la mañana, entonces tú te despiertas y dices Crea Shema, entonces sí, claro, en la mañana, en la noche, cuando cuando empieza el día, cuando acaba el día y durante todo el día. Entonces quiere decir, por qué no se lee? Crea Shema o blakhavaderek también te dice, llegas a tu casa, sales a trabajar, te despiertas, te acuestas."
+"startMs": 530476,
+"endMs": 531196,
+"text": "No estoy entendiendo."
 },
 {
-"startMs": 1134000,
-"endMs": 1169000,
-"speaker": "Speaker 1",
-"text": "Por qué no es así? Es porque es como un sandwich. Sí, si entendiste, que es el que estamos hablando aquí, largada del kol. Exactamente, estás hablando de la largada del kol, sí que es kol, el shara ha mishim, sí, bejol, lebabeja, bejol, nafsheja, bejol, meodeja, ese es el kol, el kol es que es ashemelo que no, asheme jad, entonces mi meile dentro de todo ese loquenu que es ves en todo tu día a día, todo tu sí, es como si fuera asheme, es el que ha hecho mal la mañana, el lo que no es minja."
+"startMs": 532496,
+"endMs": 538736,
+"text": "Yo siento que... Adif que talmutorah. ¿Mmm? Adif que tal-talmutorah, entiendo yo. Adif que talmutorah."
 },
 {
-"startMs": 1169000,
-"endMs": 1174000,
-"speaker": "Speaker 1",
-"text": "Si, y Ashem es el Crea Shema de la noche, es como cierras todo, empiezas todo, cierras todo."
+"startMs": 540296,
+"endMs": 548476,
+"text": "Bueno, si dijo eso, es que no dijo eso. Si dijo que kiriat shemá beonatá es arriba de, o sea, mmm, una mitzvá magna."
 },
 {
-"startMs": 1174000,
-"endMs": 1177000,
-"speaker": "Speaker 2",
-"text": "Es la chita que habíamos visto del sandwich, ahorita me estoy acordando."
+"startMs": 550116,
+"endMs": 556516,
+"text": "Alef col, a mí no me viene Rabí Shimon Bar Yojai, que, que no, no interrumpía para decir kiriat shemá beonatá, está estudiando torá."
 },
 {
-"startMs": 1177000,
-"endMs": 1182000,
-"speaker": "Speaker 1",
-"text": "Y es cuando todo se unen, Ashemu a Elokim, Ashemu a Elokim. Que?"
+"startMs": 556556,
+"endMs": 562516,
+"text": "No, ¿cómo no? Kiriat shemá sí dice. Ah, ¿kiriat shemá sí? Sí. Todas las mitzvot no, kiriat shemá sí."
 },
 {
-"startMs": 1182000,
-"endMs": 1187000,
-"speaker": "Speaker 2",
-"text": "No, es la chita que habíamos visto que el Crea Shema de la noche, lo digamos después de la mirada."
+"startMs": 564116,
+"endMs": 567536,
+"text": "No, no, no, déjame ex-- eh, tratar de, de explicar la pregunta."
 },
 {
-"startMs": 1187000,
-"endMs": 1189000,
-"speaker": "Speaker 1",
-"text": "Sandwich Mamash, revish avenlei."
+"startMs": 569056,
+"endMs": 578296,
+"text": "Gadol hakore kriat shemá beonatá yoter mehakore batorah. Entonces, va-va-va-va-vamos a hacerlo según como tú preguntaste, según tu pregunta."
 },
 {
-"startMs": 1189000,
-"endMs": 1195000,
-"speaker": "Speaker 2",
-"text": "Y todo en medio de esta fila, no hay una chita que es cuando mamash acuestas. Tipo que ya acabas, no cuando es noche."
+"startMs": 582916,
+"endMs": 585356,
+"text": "¿Qué está diciendo acá? Nos está diciendo acá"
 },
 {
-"startMs": 1195000,
-"endMs": 1212000,
-"speaker": "Speaker 1",
-"text": "El mismo Rabbi Leivy, el mismo Rabbi Leivy que sostiene que es en Arvit Pilay Shema, él es el que dice que hay que decir Crea Shema es el aila. No, eso es Bechama y dice que hay que decir acostado, Crea Shema hay que decirlo acostado mamash."
+"startMs": 586956,
+"endMs": 587696,
+"text": "que es mejor"
 },
 {
-"startMs": 1212000,
-"endMs": 1215000,
-"speaker": "Speaker 2",
-"text": "Ahora, Pero ¿cuál es el punto acá?"
+"startMs": 589256,
+"endMs": 597356,
+"text": "una mitzvá que talmutorah. No, porque talmutorah que negue et kula. Entonces, es mejor talmutorah."
 },
 {
-"startMs": 1215000,
-"endMs": 1219000,
-"speaker": "Speaker 1",
-"text": "Entonces Acá es mamás esto está pele porque es mamás la Dargá."
+"startMs": 598156,
+"endMs": 604536,
+"text": "Entonces, entonces, acá, ¿qué viene a decirnos con gadol hakore kriat shemá beonatá yoter mehakore batorah?"
 },
 {
-"startMs": 1219000,
-"endMs": 1221000,
-"speaker": "Speaker 2",
-"text": "Es la."
+"startMs": 604956,
+"endMs": 609176,
+"text": "Ahora, ¿con quién se compara? Con el que lee kriat shemá shel lo bismaná."
 },
 {
-"startMs": 1221000,
-"endMs": 1255000,
-"speaker": "Speaker 1",
-"text": "Argá del Coll, Coldabar, Coldabar es. Veafta Tashem, que es Lidabek, Leove Tashem, entonces mi meile es Veafta, ya que es Hashem Meja, sí, ya que es Hashem Meja, mi meile, Veafta quiere decir que en cualquier lugar, exactamente, el Bejoldraja, Bejoldraja es Bejoldraja eso es que me que meirlo, meir lo que es dentro de dentro de lo que nu."
+"startMs": 610476,
+"endMs": 621616,
+"text": "Porque de ahí es su rayá. Claro. Porque mikán veil ajloif sit que adam hakore batorah. Claro. ¿Sí? Entonces, con eso lo está comparando y con eso es batá y que es mucho mejor beonatá, porque es mitzvá."
 },
 {
-"startMs": 1255000,
-"endMs": 1261000,
-"speaker": "Speaker 2",
-"text": "Ahí está, ¿cómo nos vas a alcanzar?"
+"startMs": 621616,
+"endMs": 628156,
+"text": "¿Me explico? Es mejor beonatá, porque es mitzvá. Entonces, ¿qué quieres? El hamá que negue et kula torá kula."
 },
 {
-"startMs": 1261000,
-"endMs": 1266000,
-"speaker": "Speaker 2",
-"text": "Cómo? A ver, hay que me sirve los nervios."
+"startMs": 628576,
+"endMs": 636216,
+"text": "Bueno, pero no me traigas rayá de acá, porque acá estás comparando el kiriat shemá con el otro kiriat shemá. ¿Me explico? Este kiriat shemá es mitzvá."
 },
 {
-"startMs": 1266000,
-"endMs": 1287000,
-"speaker": "Speaker 3",
-"text": "Para llegar a Raven. Vas a conectar ahorita con Limpsorn F? Sí. Porque ayer, ayer me quedé pendiente con eso, o sea, cómo llegamos de la va, Limpsorn F y ahorita mamá, en un momento el Limpsorn F. O sea, cómo conectas, La va conductor, te quiero tanto que doy mi vida por ti."
+"startMs": 637596,
+"endMs": 647936,
+"text": "No, pero yo sí siento, otra vez, Vigila, yo sí siento que la gemara quiere tener rayá de que así como vemos acá, de que la to-- que la gemara te compara cuando hay kiriat shemá bismaná y cuando no hay bismaná."
 },
 {
-"startMs": 1287000,
-"endMs": 1302000,
-"speaker": "Speaker 1",
-"text": "Claro, sí, que no me veo existente separado a ti, por eso estás dispuesto a dar la vida. Es que te vas a matar. Mañana es la que si es vivir separado o morirse, morirse."
+"startMs": 647996,
+"endMs": 657376,
+"text": "Bueno, entonces regresamos a tu pregunta, que aquí es mejor porque es mitzvá. Sí. O sea, no es mitzvá, pero mitzvá nidje, talmutorah nidje por la mitzvá, filo que el talmutorah es mejor."
 },
 {
-"startMs": 1302000,
-"endMs": 1306000,
-"speaker": "Speaker 1",
-"text": "Dice que es la lía, es la lía."
+"startMs": 657436,
+"endMs": 659456,
+"text": "Sí. ¿Sí? Okey."
 },
 {
-"startMs": 1306000,
-"endMs": 1325000,
-"speaker": "Speaker 2",
-"text": "Qué estábamos pasando acá? No, ya nos van a volver a quitar. No, no. Lo vamos a bajar y nos vamos a pedir que no nos bajen. Ya, pero sigo ahorita ya. Si, pero vamos a pasamelos. Para que lo bajes si son cinco veces. Es que este nieve que ya no lo estás cumpliendo. Ah. Lo estás cumpliendo en esa Larga."
+"startMs": 660756,
+"endMs": 667016,
+"text": "Mmm, sí. Entonces, yo creo que aquí está escrito algo muy manian, muy amuk."
 },
 {
-"startMs": 1325000,
-"endMs": 1329000,
-"speaker": "Speaker 1",
+"startMs": 667136,
+"endMs": 669336,
+"text": "¿Cuál es el gueder de la mitzvá de kiriat shemá?"
+},
+{
+"startMs": 670776,
+"endMs": 677356,
+"text": "Eso, eso, hay algo en kiriat shemá que lo hace eso. ¿Cuál es el gueder de la mitzvá del kiriat shemá? Cabala tolma. Claro."
+},
+{
+"startMs": 678396,
+"endMs": 686776,
+"text": "Entonces, la cabala, el gueder de que de kiriat shemá es cabala tolma judiamai. Yo creo que aquí está escrito algo diferente un poco, que canira es lo mismo."
+},
+{
+"startMs": 687296,
+"endMs": 695416,
+"text": "Hay que entender qué es cabala tolma judiamai. El gueder de la mitzvá de kiriat shemá no es mitzvá, eso no es el gueder, no es mitzvá."
+},
+{
+"startMs": 696156,
+"endMs": 705556,
+"text": "El a es, es talmutorah. Kiriat shemá, la mitzvá es, es- Es hijos talmutorah ...es talmutorah ve etzem."
+},
+{
+"startMs": 706376,
+"endMs": 712716,
+"text": "¿Sí? Kiriat shemá es ve etzem talmutorah. Claro. Es- Haré es un jelek de la torá. Sí."
+},
+{
+"startMs": 712816,
+"endMs": 720816,
+"text": "Leer un pedazo de torá. Okey. Y entonces, leer un pedazo de torá no es nada más, eh, que esa es la mitzvá."
+},
+{
+"startMs": 721236,
+"endMs": 728928,
+"text": "Porque si la mitzvá fuera leer un pedazo de torá. Y-- pero acá, esquilo, hay dos cosas, que estoy cumpliendo dos mitzvot."
+},
+{
+"startMs": 729068,
+"endMs": 735588,
+"text": "Una, estás estudiando y a la vez estás «mekabel ol maljut shamayim». Y la mitzvá es de «kabel ol maljut shamayim»."
+},
+{
+"startMs": 735928,
+"endMs": 742268,
+"text": "Si fuera así, la Gemara no tiene sentido, de principio a fin. El fin no tiene sentido por tu pregunta. ¿Por qué?"
+},
+{
+"startMs": 742628,
+"endMs": 749308,
+"text": "Porque tú dices: «No, \"golel g'dol la'koreh krias Shema b'yismá\". Bueno, pero es mitzvá, o sea, ¿qué quieres? Tipo, está la mitzvá»."
+},
+{
+"startMs": 749568,
+"endMs": 768128,
+"text": "Ahora hay que le bater el Talmud Torá para mitzvá. Sí, hay que le bater el Talmud Torá para mitzvá. Hasta filo que el Talmud Torá que nadie esculamos. Pero si me dices que no, que el «kriat Shema» es lil mod Torá, desdeá, que desde el «kriat Shema», lil mod Torá, entonces mi mail acá vehemet, hay acá- Hay dos suguim de Talmud Torá Dos mitzvot de Talmud Torá."
+},
+{
+"startMs": 768468,
+"endMs": 776308,
+"text": "Una, cuando estudias, cumples la mitzvá de Talmud Torá, que es decir «kriat Shema», que es estudiar Torá, ese es el guerd de la mitzvá."
+},
+{
+"startMs": 776868,
+"endMs": 786348,
+"text": "Y otro guerd de la mitzvá es cuando estudias- Es muy furaz una Gemara, dice la Gemara, el que no puede trabajar, el que no puede- Efemo ... el que está trabajando puede decir la Gemara, «ej, ej ju yotzeh livjoja devenutzat hamakom»."
+},
+{
+"startMs": 786388,
+"endMs": 798408,
+"text": "De «va'guita boyoman va'laila». Dice la Gemara, «kriat Shema bayom vekriat Shema bayele». Exactamente. Y ni sea te-- te yotzeh livjoja de Talmud Torá, que si se-- gam ki-- gam jelek del «kriat Shema» es, es estudiar Talmud Torá."
+},
+{
+"startMs": 798548,
+"endMs": 808288,
+"text": "Pero la Gemara de rabí Shimon decía que no decía tefilá, nada más decía «kriat Shema». Bidiuk. Pero no, no. Bidiuk, ainé. No, no, no, pero ahí la Gemara dice como que si frenaba de su estudio, va a decir «kriat Shema»."
+},
+{
+"startMs": 809008,
+"endMs": 819108,
+"text": "Si e-- si eran dos tipos de Torá. Porque acá es cuando la Torá se convirtió en mitzvá. Entonces, tome, que agarraste la mitzvá Talmud Torá y la convertiste en un jefte de mitzvá."
+},
+{
+"startMs": 819468,
+"endMs": 833608,
+"text": "Pero el jefte de la mitzvá es la Torá ve'atzma. Entonces, hay Torá y hay mitzvot, ¿sí? Hay Torá y hay mitzvot, y acá el jefte de la mitzvá es, es el, es la Torá ve'atzma, ese es el jefte de la mitzvá."
+},
+{
+"startMs": 833928,
+"endMs": 843488,
+"text": "Y entonces mi mail acá te pregunta, entonces por eso mi mail le dice la Mishná- Que nunca existe el tiempo Dice: «Y si se te va el tiempo de kriat Shema, puedes decir las berajot»."
+},
+{
+"startMs": 843608,
+"endMs": 853408,
+"text": "¿Por qué puedes decir las berajot? Porque es que Adam ha Koré va Torá. Lo ifsí, que Adam ha Koré va Torá, pero eso es lo bar, que Are también antes era que Adam ha Koré va Torá."
+},
+{
+"startMs": 853748,
+"endMs": 867968,
+"text": "Y ahorita también sigue siendo Adam ha Koré va Torá, pero ese jefte es el kriat Shema. Nada más que se te fue el onatá del kriat Shema, que es pues de inian del, de estudiar es-- esta, esta parte de la Torá, ¿sí?"
+},
+{
+"startMs": 868048,
+"endMs": 877488,
+"text": "En ese esmán, como mitzvá, entonces mi mail ese es el, el, el, esos, es esmán kriat Shema. Entonces, mi mail por eso es así y con eso se entiende la memrá de Romani."
+},
+{
+"startMs": 877928,
+"endMs": 884428,
+"text": "Entonces, tome, a nivel Talmud Torá, ¿ahí me es mejor el de ahorita o es mejor el de después?"
+},
+{
+"startMs": 884728,
+"endMs": 891048,
+"text": "No es a nivel mitzvá. Lo que dice el oifsín... Entonces, lo que dice el oifsín, mashmá, que este es mejor."
+},
+{
+"startMs": 891368,
+"endMs": 897808,
+"text": "Bismaná. Yo. Entonces, hay que entender acá el fise de meternos más al omek má, maquetuca. ¿Y qué es esa Torá?"
+},
+{
+"startMs": 897868,
+"endMs": 908128,
+"text": "Yo creo que es la To-- Torá de Hijod Hashem, ¿no? Eso. La Torá que te lleve a eso. Eso, vamos, vamos a ver. Entonces, quilo acá es como que el nekudat ha tamtzit de la Torá, es la esencia."
+},
+{
+"startMs": 908708,
+"endMs": 920068,
+"text": "Es cuando tocas la esencia de la Torá, y cuando tocas la esencia de la Torá, necesitas tocarlo bismanó, porque si no lo tocas bismanó, entonces te fue el- Ya, eso va a ser Javakuka, Emuná y todo eso."
+},
+{
+"startMs": 920828,
+"endMs": 932108,
+"text": "Sí, sí, sí, sí, sí. Entonces, entonces por eso, behe'emet, la Gemara que dices tú, la Gemara de Nadarim, que dice: «Va'guita boyoman va'laila, cómo ata yotzeh livjoja aliez kriat Shema»."
+},
+{
+"startMs": 932108,
+"endMs": 939948,
+"text": "Kriat Shema bayom va'eyek. Ora, behe'emet, ¿de dónde se aprende todo el inian de Talmud Torá? Aquí en kriat Shema. «Ve'ahavta et Hashem elokeja, kol levavja, kol נפש'ja, y kol modejá."
+},
+{
+"startMs": 939988,
+"endMs": 947448,
+"text": "Ve'yu hadevarim ha'ele». Todos estos dwarim, que es todo el dibre Torá, «shenejanim et havja ayom, que dónde está en aleveveja»."
+},
+{
+"startMs": 947468,
+"endMs": 954908,
+"text": "«Ve'shinantam levaneja, ve'libarta bam, ve'shivteja beветеja». «Ve'hilejeteja baderej, shomreja u'kumeja»."
+},
+{
+"startMs": 955368,
+"endMs": 966808,
+"text": "Entonces, mi mail es todo el inian de Talmud Torá, katuv kan, aquí katuv kan. Entonces, acá más ve'ome que está la nekudá esta que se llama el Shemá Israel, Shemá Israel."
+},
+{
+"startMs": 967048,
+"endMs": 973828,
+"text": "Shemá Israel, pirush halavar, que siempre que tú estás estudiando Torá, ve'ome, estás tú escuchando el D'var Hashem."
+},
+{
+"startMs": 974508,
+"endMs": 976228,
+"text": "Entonces, que estás escuchando el D'var Hashem."
+},
+{
+"startMs": 977528,
+"endMs": 984547,
+"text": "Entonces, entonces acá la mitzvá es ser el que escucha el D'var Hashem."
+},
+{
+"startMs": 984607,
+"endMs": 991588,
+"text": "Entonces, tome, acá está la nekudá donde te dicen Shemá Israel. Tú tienes que entender Hashem lo que no Shemé Ja."
+},
+{
+"startMs": 992408,
+"endMs": 1005908,
+"text": "Ve'ome que eso, eso es lo que tú tienes que escuchar en cualquier lado. Cuando tú escuchas cualquier suguia que estás estudiando, cualquier Torá que estás estudiando, cualquier inian que estás viviendo, que todo, todo lo es Torá, realmente, como lo dice el pasuk: «Ve'shivteja beветеja ulejteja baderej»."
+},
+{
+"startMs": 1006268,
+"endMs": 1012308,
+"text": "Entonces, mi mail siempre tienes que estar escuchando ahí, be'etem, dibre Torá, que cuál es el dibre Torá, Shemá Israel lo que no Shemé Ja."
+},
+{
+"startMs": 1012608,
+"endMs": 1019108,
+"text": "Entonces, mi mail le fise... O sea, filo cuando no estás estudiando Torá, las cosas que están pasando en el mundo son dibre Torá, tendrías que entender qué te está diciendo Shemá."
+},
+{
+"startMs": 1019248,
+"endMs": 1031748,
+"text": "Sí, es, es dibre Torá, es... Efemo, efemo. Entonces, acá si ya regresamos a eso, mi mail, todo esto le está dando un entendimiento más profundo a toda nuestra suguia, porque nuestra suguia, be'etem, ¿de qué estaba hablando ahí arriba?"
+},
+{
+"startMs": 1032228,
+"endMs": 1039288,
+"text": "Del ismoj. Giulá litfila. Giulá es el kriat Shema, y fila es fila. Giulá ahorita es, es el kriat Shema."
+},
+{
+"startMs": 1039708,
+"endMs": 1045788,
+"text": "Y le fise que es el, que es kriat Shema. Torá. Sí, es Torá. Y Shmua."
+},
+{
+"startMs": 1046308,
+"endMs": 1053448,
+"text": "Es Torá, es memash, es el, es el-- la Torá es de la bjina de la jet, que es el shej que hay en Bejolavar."
+},
+{
+"startMs": 1053508,
+"endMs": 1060228,
+"text": "El jiyun, la jojmá. Es la jojmá, es la Torá. Entonces, mi mail, todo eso tienes que lismojoto a la tefilá."
+},
+{
+"startMs": 1060348,
+"endMs": 1069548,
+"text": "O sea, la soj mi Torá tilot. ¿Qué diferencia hay entre el limud Torá del kriat Shema y el resto del limud Torá?"
+},
+{
+"startMs": 1069608,
+"endMs": 1075848,
+"text": "Si kriat Shema es-- ¿Qué? Sí, sí. Entonces, es la soj mi Torá tilot. Entonces, ¿cuál es la diferencia entre kriat Shema y el otro limud?"
+},
+{
+"startMs": 1076268,
+"endMs": 1077868,
+"text": "Que es la soj mi Torá tilot, es mismo criat Shema."
+},
+{
+"startMs": 1079828,
+"endMs": 1081768,
+"text": "Entonces, la diferencia entre kriat Shema--"
+},
+{
+"startMs": 1082968,
+"endMs": 1087628,
+"text": "la diferencia entre kriat Shema y otro limud es así, que si tú dices kriat Shema,"
+},
+{
+"startMs": 1088968,
+"endMs": 1096448,
+"text": "que si tú dices kriat Shema, ya la Gemara te considera como si todo el día estás estudiando. Porque ¿cuál es el dibre Torá"
+},
+{
+"startMs": 1097708,
+"endMs": 1107608,
+"text": "que hay en kriat Shema? Escuchar el dibre Shema en todo el día. Que todo es Torá, exactamente, que todo es Torá. Entonces, mi mail, si tú dices kriat Shema en la mañana, entonces tú te despiertas y dices kriat Shema."
+},
+{
+"startMs": 1108028,
+"endMs": 1116708,
+"text": "Entonces, que-- sí, claro, en la mañana, en la noche, sojojá u komejá, cuando, cuando empieza el día, cuando acaba el día y durante todo el día."
+},
+{
+"startMs": 1117448,
+"endMs": 1121168,
+"text": "Entonces, entonces quiere decir, ¿por qué no se lee kriat Shema ulejteja baderej?"
+},
+{
+"startMs": 1123368,
+"endMs": 1134028,
+"text": "Aretamente dice sojojá, ve'shivteja beeteja, ulejteja baderej, sojojá u komejá, debería ser. Llegas a tu casa, kriat Shema, sales a trabajar, kriat Shema, te despiertas, kriat Shema, te acuestas, kriat Shema."
+},
+{
+"startMs": 1134368,
+"endMs": 1144495,
+"text": "¿Por qué no es así? Es porque es como un sándwich, be'etem, ¿sí? Acama si entendiste behe'emet... Que es el-- que estamos hablando aquí, la Dargá del Kol."
+},
+{
+"startMs": 1145135,
+"endMs": 1155655,
+"text": "Exactamente. Estás hablando de la Dargá del Kol, ¿sí? ¿Qué es Kol? El Sha'ar Ha-Hamishim. ¿Sí? Bejol levaveja, bejol nafsheja, bejol meodeja."
+},
+{
+"startMs": 1155835,
+"endMs": 1164435,
+"text": "Ese es el Kol. El Kol es que es Hashem, Eloquenu, Hashem ejad. Entonces, mi mele dentro de todo ese Eloquenu, que es béetzem todo tu día a día, todo tu-- ¿Sí?"
+},
+{
+"startMs": 1164535,
+"endMs": 1174495,
+"text": "Es como si fuera Hashem es el Kiriat Shema de la mañana, Eloquenu es minja, ¿sí? Y Hashem es el Kiriat Shema de la noche, es como cierras todo, empiezas todo, cierras todo."
+},
+{
+"startMs": 1174515,
+"endMs": 1180855,
+"text": "Ah, es la cita que habíamos visto del sándwich, ahorita me estoy acordando. Y ejad lo hemos hablado. Y ejad es cuando todo se une. Hashem o Elohim, Hashem o Elohim."
+},
+{
+"startMs": 1180855,
+"endMs": 1186895,
+"text": "¿Qué? No, es la cita que habíamos visto, que el Kiriat Shema de la noche lo digamos después de la- Después de la minian. Para que sea sándwich mamash."
+},
+{
+"startMs": 1186915,
+"endMs": 1194315,
+"text": "Sándwich mamash. Mamash. Rabí Shimon Ben Yai. Kiriat Shema de la noche y todo en medio es tefilá. No, y hay una cita, tefilá, que es cuando mamash te acuestas, tipo que ya acabaste."
+},
+{
+"startMs": 1194775,
+"endMs": 1206195,
+"text": "No cuando es noche. No, el mismo Rabí Shimon Ben Yai, el mismo Rabí Shimon Ben Yai que sostiene que es el an-- es-- el, el Narbit, filá y Shemá, él es el que dice que hay que decir Kiriat Shema shelail."
+},
+{
+"startMs": 1206355,
+"endMs": 1212915,
+"text": "Acostado. Acos-- No, eso es beschama y dice que hay que decir acostado, Kiriat Shema hay que decirlo acostado mamash. Ahora, pero ¿cuál es el punto de acá?"
+},
+{
+"startMs": 1212935,
+"endMs": 1219195,
+"text": "Entiende, como que ya acabaste, mamash. Entonces, acá es mamash, esto es apele, porque es mamash la Dargá."
+},
+{
+"startMs": 1219435,
+"endMs": 1230955,
+"text": "Cuando te acuestas mamash y todo en medio. Es la Dargá del Kol. Se hace que es bekol davar, ¿sí? Kol davar es-- ve'ahavta et Hashem-- kede she'azó lo lehidabek baShem itbaraj, kol ez que lehidabek, le'ahov et Hashem."
+},
+{
+"startMs": 1231235,
+"endMs": 1240575,
+"text": "Entonces, mi mele es ve'ahavta, ya que es Hashem ejad, ¿sí? Ya que es Hashem ejad, mi mele, ve'ahavta, quiere decir que en cualquier lugar."
+},
+{
+"startMs": 1240575,
+"endMs": 1250395,
+"text": "Mi mele, bejol derajav. Exactamente, bejol derajav. Bejol derajav es ve'lechteja ba derej, ve'lechteja ba derej, shomer ja guumeja, bejol derajav."
+},
+{
+"startMs": 1250475,
+"endMs": 1254915,
+"text": "Ese es-- que me-- que me hirlo, me hirlo que es dentro de, dentro de lo Quenu."
+},
+{
+"startMs": 1256715,
+"endMs": 1259475,
+"text": "Todos los gruesos del rabino. Ahí está, ¿cómo nos vas a alcanzar?"
+},
+{
+"startMs": 1261015,
+"endMs": 1263835,
+"text": "¿Cómo? Está bien, hay que-- me subo el nervio para llegar a rabino. Oh."
+},
+{
+"startMs": 1265935,
+"endMs": 1272955,
+"text": "Ya, ya, no, no me-- Ahorita lo hago. ¿Vas a conectar ahorita con, eeeh, Limzor Nefesh?"
+},
+{
+"startMs": 1273675,
+"endMs": 1281615,
+"text": "Sí. Porque ayer, ayer, ayer me quedé pendiente con eso. O sea, ¿cómo llegamos de la Java Limzor Nefesh? Y ahorita es mamash, un momento de Limzor Nef-- Kiriat Shema."
+},
+{
+"startMs": 1281975,
+"endMs": 1289695,
+"text": "O sea, ¿cómo conectas la Java con Limzor Nefesh? Te quiero tanto que doy mi vida por ti, literal. Claro, sí, que no me veo existente separado a ti."
+},
+{
+"startMs": 1290355,
+"endMs": 1300335,
+"text": "Por eso estás dispuesto a dar la vida. No es que te vas a matar ma-- ma-- mañana. Es la que si, si, si, si es vivir separado o, o morirse, morirse."
+},
+{
+"startMs": 1302415,
+"endMs": 1304715,
+"text": "Dice que es la alia. Es la alia. Es la alia."
+},
+{
+"startMs": 1306235,
+"endMs": 1312275,
+"text": "Si quieres te las vas pasando acá. No, ya las van a volver a quitar. No, no, las vamos a agarrar y les vamos a pedir que no nos bajen. Ya, pero sí, ahorita, ya ahorita."
+},
+{
+"startMs": 1312315,
+"endMs": 1315775,
+"text": "Sí, pero nada más pásame dos, pa' que no bajes esas cinco veces."
+},
+{
+"startMs": 1317135,
+"endMs": 1324715,
+"text": "Es que este lieber, que ya no lo estás cumpliendo. Ah. Lo estás cumpliendo en esa Dargá. ¿Entendiste lo que te estoy diciendo?"
+},
+{
+"startMs": 1325095,
+"endMs": 1326035,
 "text": "Sí, ni flan, ni flan."
 },
 {
-"startMs": 1329000,
-"endMs": 1334000,
-"speaker": "Speaker 1",
-"text": "Claro. No se grabó."
+"startMs": 1329375,
+"endMs": 1331015,
+"text": "Ver que todo el libreto era. Claro."
 },
 {
-"startMs": 1334000,
-"endMs": 1343000,
-"speaker": "Speaker 3",
-"text": "Nada ni. No sé qué pasó. Ya lo tengo,"
+"startMs": 1334035,
+"endMs": 1337555,
+"text": "No se graba nada aquí. No sé qué pasa. Yo lo tengo, yo lo tengo."
 },
 {
-"startMs": 1343000,
-"endMs": 1379000,
-"speaker": "Speaker 1",
-"text": "Ya Lo tengo. Entonces es la nicoda del Crea Chema, que una vez de alcohol. Entonces acá el punto de Crea Chema es llegar a la RGM Ciut Nefesh. Cuando llegas a la RGM Ciut Nefesh, mi mail le haces, Que el Tujibur Hashem, la Torá, no es no es algo específico, si no es algo específico. Me explico, si no habría Kriat Shema, Bet-sem no habría Torá, en cierto aspecto, Bet-sem no habría Torá."
+"startMs": 1341895,
+"endMs": 1346655,
+"text": "Igual falta mucho. Entonces, entonces es la nezikah del Kiriat Shema"
 },
 {
-"startMs": 1379000,
-"endMs": 1412000,
-"speaker": "Speaker 1",
-"text": "Todo lo que hay Torá, vemos que es porque hay Kriat Shema. Sí, pero Kriat Shema tiene que ser Torá. Entonces, si no habría Kriat Shema, entonces la Torá sería muy, estaría en un lugar superficial. Me explico cómo se venden toros? Así se venden toros, pero en casualmente entró la Torá porque había una necesidad de enseñarte cómo se venden toros. Pero qué te dice que no hay un aspecto que a fuerzas tiene que haber un libret Torá sobre cómo se venden toros?"
+"startMs": 1348795,
+"endMs": 1349015,
+"text": "que,"
 },
 {
-"startMs": 1412000,
-"endMs": 1450000,
-"speaker": "Speaker 1",
-"text": "Es a fuerzas, sí, entonces mi mele, esa fuerza es que hay un libret Torá sobre cada cosa y cosa que pasa en el mundo. Entonces, ¿qué es lo que te dice que a fuerza hay un libret Torá? Otra vez, cuando estudias Torah, es lo que te ayuda a cómo conocer a Shem y conocer a Shem. Ese es el She'air Long Holdrajah. Entonces, para el Idabek Vashem, entonces quiere decir que cada cosa y cosa en el día. Bethzem es libre de Torah. Qué es lo que hace que cada cosa Bethzem sea libre de Torah? El Khrahshem Ma. Ahora, si no habría Bethzem Khrehma, entonces faltaría Beomek en el estudio de todo el día."
+"startMs": 1351015,
+"endMs": 1354855,
+"text": "que un ajvez de haKol. Entonces, acá"
 },
 {
-"startMs": 1450000,
-"endMs": 1460000,
-"speaker": "Speaker 1",
-"text": "Entonces Ulay se puede entender así. Ama ratmani Gadol a core crea chomaba o natai o terme o se ecuatorá? Sí, entonces, qué es Gadol?"
+"startMs": 1356615,
+"endMs": 1371635,
+"text": "el punto de Kiriat Shema es llegar a la Dargá de Mizvot Nefesh. Cuando llegas a la Dargá de Mizvot Nefesh, mi mele haces que el-- tu hibura Hashem, la Torá, no es, no es algo específico, ¿sí?"
 },
 {
-"startMs": 1460000,
-"endMs": 1463000,
-"speaker": "Speaker 3",
-"text": "Esto Es lo que hace que esto no dice Adif,"
+"startMs": 1371775,
+"endMs": 1378775,
+"text": "No es algo específico, ¿me explico? Si no habría Kiriat Shema, béetzem no habría Torá, en cierto aspecto. Béetzem no habría Torá."
 },
 {
-"startMs": 1463000,
-"endMs": 1494000,
-"speaker": "Speaker 1",
-"text": "Dice Gadol, Gadol, entonces Gadol, pero dice la llamara aquei Gadol, Umai Katan, Ela, Gadol, besamuh al suhanabi que Katanda Katan, besamuh al suhana Tzmo Gadol. Sí, los muertos, ¿qué es Gadol y qué es Catán? Gadol es el que dependen de él y Catán es el que depende de los demás. Creachema es Gadol."
+"startMs": 1378815,
+"endMs": 1392475,
+"text": "Todo lo que hay Torá, ve'omek es porque hay Kiriat Shema, ¿sí? Pero Kiriat Shema tiene que ser Torá. Entonces, si no habría Kiriat Shema, entonces la Torá sería muy-- estaría en un lugar superficial, ¿me explico?"
 },
 {
-"startMs": 1494000,
-"endMs": 1514000,
-"speaker": "Speaker 1",
-"text": "Sí, Creachema Bismana es Gadol. Por qué Creachema Bismana es Gadol? Porque todos, no en el aspecto que estamos hablando, que todos los dibret Torah vienen de este libret Torah. Este es uno de los heleck del libreto, era que cole el todos los libreto que hay. Me explico,"
+"startMs": 1392795,
+"endMs": 1395535,
+"text": "Ah, ¿cómo se venden toros? Así se venden toros."
 },
 {
-"startMs": 1514000,
-"endMs": 1517000,
-"speaker": "Speaker 3",
-"text": "Aquí es lo mismo,"
+"startMs": 1397215,
+"endMs": 1403515,
+"text": "Pero en-- casualmente entró la Torá porque había una necesidad de enseñarte cómo se venden toros."
 },
 {
-"startMs": 1517000,
-"endMs": 1521000,
-"speaker": "Speaker 1",
-"text": "No sé qué te refieres con llave,"
+"startMs": 1404575,
+"endMs": 1412515,
+"text": "Pero ¿qué te dice que no hay un aspecto que a fuerzas tiene que haber un libreto de Torá sobre cómo se venden toros?"
 },
 {
-"startMs": 1521000,
-"endMs": 1526000,
-"speaker": "Speaker 3",
-"text": "Pero acá es como que todo se convierte en libreto,"
+"startMs": 1413075,
+"endMs": 1419095,
+"text": "Es a fuerzas, ¿sí? Entonces, mi mele, es a fuerzas que hay un libreto de Torá sobre cada cosa y cosa que pasa en el mundo."
 },
 {
-"startMs": 1526000,
-"endMs": 1559000,
-"speaker": "Speaker 1",
-"text": "No es que lo un punto donde está todo. Si por la Torá necesita hacer missirut nefesh, no a veces missirut nefesh. Si la Torá se trataría nada más de cómo vender toros y nada más llega hasta ese hasta ese nivel. No haces mesirut nefesh. Me explico? Por qué no haces mesirut nefesh? Porque no necesariamente necesito vivir vendiendo toros. Me explico? Pero si la Torá be'etzem tiene mesirut nefesh, mi mail de vender toros. Es Helek de la Torá mamash, que también haces mesirut nefesh por eso."
+"startMs": 1419415,
+"endMs": 1428295,
+"text": "Entonces, ¿qué es lo que te dice que a fuerzas hay un libreto de Torá? Que otra vez, cuando estudias Torá, es, es lo que te ayuda a cómo conocer a Hashem, ver el galut de Hashem y conocer a Hashem."
 },
 {
-"startMs": 1559000,
-"endMs": 1581000,
-"speaker": "Speaker 1",
-"text": "Pero si no hay una en el kudá donde haces mesirut nefesh, Entonces quiere decir que todo lo demás se queda en un lugar superficial. Si el Yahadut no tiene la necesidad del mesirut nefesh, Be'emet, si no habría que el kimeil, aveirot chamurot, chayav, mesirut nefesh, entonces Be'etzem quiere decir que la Torá nunca toca la esencia de la vida, nunca toca la."
+"startMs": 1428915,
+"endMs": 1435415,
+"text": "Ese es el, el, el she'air lo, bejol derajá. Entonces, para el hidabek va'Hashem."
 },
 {
-"startMs": 1581000,
-"endMs": 1583000,
-"speaker": "Speaker 2",
-"text": "Esencia de la vida,"
+"startMs": 1435455,
+"endMs": 1441595,
+"text": "Entonces, quiere decir que cada cosa y cosa en el día, béetzem es libreto de Torá. ¿Qué es lo que hace que cada cosa béetzem sea libre de Torá?"
 },
 {
-"startMs": 1583000,
-"endMs": 1613000,
-"speaker": "Speaker 1",
-"text": "Exactamente, si puedo, si no puedo, no puedo, pero dónde te ves de que no existe sino en el punto del mesirut nefesh. Entonces el punto de mesirut es no existo, sino. Entonces mi email de todos, todo mi sí existo es existo dentro de eso. Entonces es el omek de Kriat Shema bismana. Entonces Kriat Shema bismana es ki koreva Torá. Entonces aquí es algo muy amor. Si tú lees Kriachema, entonces que koreva Torá es otra operación en la Torá, es algo pele."
+"startMs": 1441975,
+"endMs": 1449855,
+"text": "El Kiriat Shema. Ahora, si no habría béetzem Kiriat Shema, entonces faltaría ve'omek en el, en el, en el estudio de todo el día."
 },
 {
-"startMs": 1613000,
-"endMs": 1644000,
-"speaker": "Speaker 1",
-"text": "Si es Bisma'amá, si no logras decir Bisma'amá, exactamente, es chelek del centro del sándwich. Pero no está en esta no es los panes, no es el no es las esquinas. Entonces mi mail acá es aquí lo que el otro es libre Torá, pero aquí ya es libre Torá, como todos los libre Torá, pero se te fue el ma'am de Kriat Shema, que allá kolel, incluyendo el dibur de Kriat Shema, de ese lobisma'ama."
+"startMs": 1450315,
+"endMs": 1458835,
+"text": "Entonces, ulai se puede entender así. Amar Ramani: gadol hakore Kiriat Shema ve'ahonata, yoterme haosek baTorá, ¿sí?"
 },
 {
-"startMs": 1644000,
-"endMs": 1680000,
-"speaker": "Speaker 1",
-"text": "Me explico? Puede ser que te tocó estudiar la subida de la persona de Kriat Shema. Todo lo que Kriat Shema es Kriat Shema, esa cama que está en el lugar que se llama Kol y entonces cuando esquive a Kol, el otro Kriat Shema es un Kriat Shema sin me estoy explicando, entonces acá es el Kriat Shema del mesirut nefesh, entonces el Kriat Shema del mesirut nefesh es el que está bonata exactamente que es apenas te despiertas, si tú ya existes y luego dices Kriat Shema."
+"startMs": 1459115,
+"endMs": 1465675,
+"text": "Entonces, ¿qué es gadol? Esto es lo que hace que esto sea Dios. No dice adif, dice gadol, gadol."
 },
 {
-"startMs": 1680000,
-"endMs": 1684000,
-"speaker": "Speaker 1",
-"text": "Entonces no dijiste Kriat Shema bien, ya lo dijiste después."
+"startMs": 1465835,
+"endMs": 1472675,
+"text": "Entonces, gadol, pirush ha davar, dice la Gemara, ¿qué-- ela mai gadol umai katán? Ela."
 },
 {
-"startMs": 1684000,
-"endMs": 1685000,
-"speaker": "Speaker 2",
-"text": "De que existe."
+"startMs": 1473595,
+"endMs": 1480515,
+"text": "Gadol ve'samuj al shulján aviv, que katanda. Katán ve'samuj al shulján atsmo, gadol."
 },
 {
-"startMs": 1685000,
-"endMs": 1686000,
-"speaker": "Speaker 1",
-"text": "Exactamente Viduy,"
+"startMs": 1480515,
+"endMs": 1490435,
+"text": "¿Sí? Sí. Entonces, un momento, ¿qué es gadol y qué es katán? Que no depende. Gadol es el que dependen de él, y katán es el que depende de los demás."
 },
 {
-"startMs": 1686000,
-"endMs": 1691000,
-"speaker": "Speaker 2",
-"text": "Pero entonces según eso tendría que ser Kriat Shema el ashtaa uno,"
+"startMs": 1491035,
+"endMs": 1493415,
+"text": "Kiriat Shema es gadol,"
 },
 {
-"startMs": 1691000,
-"endMs": 1712000,
-"speaker": "Speaker 1",
-"text": "El de Rabbi Eliezer y ese sí, por eso estamos, o sea, Davka te lo pone acá, o sea, justo después de Rabbi Yehoshua, que entiendes que también Rabbi Yehoshua es el batayik, el otro es el que te dijo atrás batikin y que es mamash. Es Él es el que él es el que somech ulalit fila be'emet, es el que somech ulalit fila be'emet,"
+"startMs": 1494755,
+"endMs": 1507695,
+"text": "¿sí? Kiriat Shema abismana es gadol. ¿Por qué Kiriat Shema abismana es gadol? Porque tienes que depender de-- Porque todos No, no, en el aspecto que estamos hablando, que todos los Divrei Torah vienen de este Divrei Torah."
 },
 {
-"startMs": 1712000,
-"endMs": 1720000,
-"speaker": "Speaker 2",
-"text": "O sea, tú dices, para eso lo dijo la bitsua, para que gane."
+"startMs": 1508255,
+"endMs": 1514635,
+"text": "Entonces, este es uno de los Jelek del Divrei Torah que colel todos los Divrei Torah que hay. ¿Me explico?"
 },
 {
-"startMs": 1720000,
-"endMs": 1751000,
-"speaker": "Speaker 1",
-"text": "La bitsua, es que no es la de argá de original, original, original, que es mamash el sándwich, pero la bitsua que extiende esas 2 horas aquí en la nekuda, yo creo que es como que una transición. Antes de batikin, es kol kulo, bejefte es gula, es bejefte, es es Atzmo, después es Torá bismana, ¿no? Y después ya es Kadma Koreva Torá. Son tres, son tres de argot."
+"startMs": 1514835,
+"endMs": 1524835,
+"text": "Esta es la llave o es, es este el que colel. Aquí es lo mis-- es-- no sé que te refieres con llave, pero acá- Como que a partir de eso ya tienes derecho, como que todo se convierte en Divrei Torah."
 },
 {
-"startMs": 1751000,
-"endMs": 1787000,
-"speaker": "Speaker 1",
-"text": "Sí, todavía la libra porque haré cualquier libre Torá, es libre Torá. Entonces mi email es el hombre de la ciudad de Rabbi Yehoshua. Sí que es libre Torá, si lo dices. Antes de existir mamash, antes del lens. Entonces, mi mail y mamash dijiste, hubo más ornata que Kriat Shema. Me explico? Es más la esencia del Kriat Shema. Acá en las esas dos horas es el Kriat Shema de directa hora, pero adayin, ya que estás adayin, hay gente que todavía duerme, hay gente que hasta estudiando."
+"startMs": 1525075,
+"endMs": 1531955,
+"text": "Eh, pues está bien. No, es, es kilo-- un punto donde está todo. Si por la Torá necesitas hacer Mesirut Nefesh,"
 },
 {
-"startMs": 1787000,
-"endMs": 1817000,
-"speaker": "Speaker 1",
-"text": "O sea, hay gente que está en el ma'am de la gula, sí, pero acaba que hay gente que todavía duerme, todavía tienes un chibur, porque si no fuera la mitzva, que en la esencia es Kriat Shema, que está el meTorá, ulay se estuviera ido, me explico, ya se estuviera ido, pero ya mi cama, me sirve para las berajot, te sirve para las berajot, porque todo el linean de las berajot de meter a eso, todo el linean de las berajot."
+"startMs": 1533555,
+"endMs": 1543975,
+"text": "entonces no, no haces Mesirut Nefesh. Si la Torá se trataría nada más de cómo vender toros y nada más llega hasta ese, hasta ese nivel, no haces Mesirut Nefesh."
 },
 {
-"startMs": 1817000,
-"endMs": 1833000,
-"speaker": "Speaker 1",
-"text": "Son alineando a esa operación específica de Kriat Shema, entonces primero que le digas como parte de esa operación específica de Kriat Shema,"
+"startMs": 1544175,
+"endMs": 1551155,
+"text": "Los dos puntos finales. ¿Me explico? ¿Por qué no haces Mesirut Nefesh? Porque no necesariamente necesito vivir vendiendo toros, ¿me explico?"
 },
 {
-"startMs": 1833000,
-"endMs": 1851000,
-"speaker": "Speaker 2",
-"text": "Entonces dice como 7 u 8 veces, tú lo dirás nomás. Y luego dice también la palabra."
+"startMs": 1551795,
+"endMs": 1558815,
+"text": "Pero si la Torá ve tiene Mesirut Nefesh, mi mail de vender toros es Jelek de la Torá Mamash, que también haces Mesirut Nefesh por eso."
 },
 {
-"startMs": 1851000,
-"endMs": 1854000,
-"speaker": "Speaker 1",
-"text": "Segel, segel, Escol,"
+"startMs": 1559795,
+"endMs": 1566175,
+"text": "Pero si no hay una Nekudá donde haces Mesirut Nefesh, entonces quiere decir que todo lo demás se queda en un lugar superficial."
 },
 {
-"startMs": 1854000,
-"endMs": 1877000,
-"speaker": "Speaker 2",
-"text": "Escol, escol, que si lo hace, si, si, si, cuantos lo dijo antes que sean los mismos que la, por eso pensé, pensé que lo empecé a contar para ver si los mismos del."
+"startMs": 1566835,
+"endMs": 1576255,
+"text": "Tú merece-- si el Yadut no tiene la Nekudá de Mesirut Nefesh, bemet, si no habría que el Gimel Averot Jamurot, Atajayab Nimsor Nefesh."
 },
 {
-"startMs": 1877000,
-"endMs": 1880000,
-"speaker": "Speaker 2",
-"text": "No, y no, y todas las."
+"startMs": 1576715,
+"endMs": 1583735,
+"text": "Entonces, Betem quiere decir que la Torá nunca toca la esencia de la vida, nunca toca la esencia de la vida. Si puede, está muy bonito, eh."
 },
 {
-"startMs": 1880000,
-"endMs": 1918000,
-"speaker": "Speaker 1",
-"text": "Torá del jet y el nun, que nun suma col y jet es la es el tamtzit del col, o sea, es la letra jet, es lo mismo que la letra nun, es el 8, el 8 es el que no es uno de los días, si es el 7, es Shemelo Kim, ahora el 8 es lo que está Betsem arriba. Y entonces primero ya lo que está arriba es lo que colé la call. Entonces la diferencia entre 8 y 50 es que 8 es la vaginal del Crea Hema, que es Kilo, la nekuidad del Tamtit de que hay algo que se llama call, me explico, y es la nekuidad de Betsem también."
+"startMs": 1584015,
+"endMs": 1591435,
+"text": "Exactamente. Si puedo, puedo. Si no puedo, no puedo. ¿Pero dónde te ves de que no existes si no en el punto del Mesirut Nefesh?"
 },
 {
-"startMs": 1918000,
-"endMs": 1935000,
-"speaker": "Speaker 1",
-"text": "Ahora el 50 es cuando ve ves el 8 reflejado en el 7, pero ya que se refleja no en una parte del 7, sino en todas las partes del 7, quiere decir que cada parte y parte del 7 Betsem se está reflejando el 8, que es la HET. Entonces Mimeli este es el número 50, entonces por eso sí, toda la Torá,"
+"startMs": 1591835,
+"endMs": 1597975,
+"text": "Entonces, el punto de Mesirut Nefesh es no existo si no. Entonces, mi mail de todos, todo mi sí existo es existo dentro de eso."
 },
 {
-"startMs": 1935000,
-"endMs": 1947000,
-"speaker": "Speaker 2",
-"text": "Tiene que ser Torá, según esto tiene que ser Torá, no pues en la B. A qué te refieres? Ramban, porque puso esa Torá, no es por orden cuando las digo."
+"startMs": 1598895,
+"endMs": 1605895,
+"text": "Entonces, es el Omek de Criatchéma Bizmana. Entonces, Criatchéma Shelo Bizmana es Kikoreba Torá. Entonces, aquí es algo muy Amok."
 },
 {
-"startMs": 1947000,
-"endMs": 1949000,
-"speaker": "Speaker 1",
-"text": "Ah, claro, este es Torá,"
+"startMs": 1606275,
+"endMs": 1608035,
+"text": "Si tú lees Criatchéma Shelo Bizmana,"
 },
 {
-"startMs": 1949000,
-"endMs": 1951000,
-"speaker": "Speaker 2",
-"text": "Porque es Krea Shema."
+"startMs": 1609235,
+"endMs": 1617875,
+"text": "entonces Kikoreba Torá es otra Parashat en la Torá, es algo Pele. Si es Bizmana, si no logras decir Bizmana- Es el sándwich."
 },
 {
-"startMs": 1951000,
-"endMs": 1954000,
-"speaker": "Speaker 1",
-"text": "Este es."
+"startMs": 1618615,
+"endMs": 1626855,
+"text": "Exactamente, no, es Je-- es Jelek del centro del sándwich, pero no está en el sándwich Basmo, no es los panes, no es el, no es las esquinas."
 },
 {
-"startMs": 1954000,
-"endMs": 1959000,
-"speaker": "Speaker 3",
-"text": "Torá, es pele."
+"startMs": 1627175,
+"endMs": 1633974,
+"text": "Entonces, mi mail acá es-- afilo que el otro es Divrei Torá, pero aquí ya es Divrei Torá como todos los Divrei Torá."
 },
 {
-"startMs": 1959000,
-"endMs": 1967000,
-"speaker": "Speaker 1",
-"text": "Sí, pele, playa."
+"startMs": 1634295,
+"endMs": 1644235,
+"text": "En Oif Sid, que Adam ha Koreba Torá. El Divrei Torá. Pero se te fue el Zman de Criatchéma, que allá con él, incluyendo el Dipur de Criatchéma, de Shelo Bizmana."
 },
 {
-"startMs": 1967000,
-"endMs": 2002000,
-"speaker": "Speaker 1",
-"text": "Entonces, cuáles son las 2:00 en la ciudad de Rabjitta? Primero pensaba Rabjitta, que es lo ibzit de estudiar Torá, pero berajot ya no dices, y luego el otro y cada hambre es no, lo ibzitla es berajot, entonces porque behemet creía Shema, está behemet en 2 lugares, por un lado parece el libre Torá. Como el libre Torá de para ti, de los pues, de los para ti."
+"startMs": 1644235,
+"endMs": 1651795,
+"text": "¿Me explico? Puede ser que te tocó estudiar la Zvia, estudiar la, la Parashat Criatchéma. De Najram, Abel hasta el Omer Criatchéma."
 },
 {
-"startMs": 2002000,
-"endMs": 2034000,
-"speaker": "Speaker 1",
-"text": "Entonces acá Ulai eso ya te hace perder mehmet, las berajot del Krea Shema, porque su fosh no es el libre Torá. Pero el segundo y cada hambre te dice no, todavía. En la esencia es lo mismo, no es que uno es la expresión, esto es la esencia, uno es la jet y otro es la nun. Entonces Mimeli es uno es la esencia, otro es la expresión. Y eso es lo que dice Ramban, Ramban te dice, Qué bien es un Gadol! Acore. Sí, el Krea Shema Bismaná es Gadol. El otro es Katán, pero es lo mismo."
+"startMs": 1652255,
+"endMs": 1660035,
+"text": "De otra Parashat Torá. Todo lo que Criatchéma es, es Criatchéma, es Atkama que está en el lugar que se llama Kol."
 },
 {
-"startMs": 2034000,
-"endMs": 2042000,
-"speaker": "Speaker 1",
-"text": "Estamos hablando de la misma parashá en nivel Gadol y en nivel Katán."
+"startMs": 1660855,
+"endMs": 1668155,
+"text": "Y entonces cuando Esquivijol, el otro Criatchéma es un Criatchéma sin Mesirut Nefesh. ¿Me estoy explicando? Claro, claro."
 },
 {
-"startMs": 2042000,
-"endMs": 2051000,
-"speaker": "Speaker 1",
-"text": "Qué bonito."
+"startMs": 1668215,
+"endMs": 1674675,
+"text": "Entonces, acá es el Criatchéma del Mesirut Nefesh. Entonces, el Criatchéma del Mesirut Nefesh es el que está Veonatá."
 },
 {
-"startMs": 2051000,
-"endMs": 2054000,
-"speaker": "Speaker 3",
-"text": "Oporto! ¿Un like?"
+"startMs": 1675175,
+"endMs": 1682335,
+"text": "Exactamente, que es apenas te despiertas, si tú ya existes y luego dices Criatchéma, entonces no dijiste Criatchéma bien."
 },
 {
-"startMs": 2054000,
-"endMs": 2059000,
-"speaker": "Speaker 2",
-"text": "No, no podemos decir que ya es el final. Ya nos enseñaste."
+"startMs": 1682695,
+"endMs": 1690495,
+"text": "Ya lo dijiste después de que existías. Es como decirte filá después de comer. Exactamente, Vidiuc. Pero entonces, según eso tendría que ser Criatchéma el, el Hashitá uno."
 },
 {
-"startMs": 2059000,
-"endMs": 2068000,
-"speaker": "Speaker 1",
-"text": "100% Es lo que cada vez regresamos a Torá Alex y te das cuenta que en un duende de Torá Alex ¿En clic o queda real?"
+"startMs": 1691915,
+"endMs": 1707975,
+"text": "El de Rabiel y ese. Sí, así es. Sí, por eso estamos, o sea, Dafka te lo pone acá, o sea, justo después de Rabie Ishua, que entiendes que también Rabie Ishua, Betem, es el, el-- Vadaike, el otro, es el que te dijo atrás Vaticín y que es Mamash, es, él es el que- Antes de que empiece el día."
 },
 {
-"startMs": 2068000,
-"endMs": 2069000,
-"speaker": "Speaker 4",
-"text": "Si, pele,"
+"startMs": 1708035,
+"endMs": 1714295,
+"text": "Él es el que Somej Geulalit Filá Beemet, es el que Somej Geulalit Filá Beemet. Gam Rabie Ishua, Gam quien es esta..."
 },
 {
-"startMs": 2069000,
-"endMs": 2078000,
-"speaker": "Speaker 1",
-"text": "Todo el tiempo regresamos, entonces ahora regresamos,"
+"startMs": 1715135,
+"endMs": 1736415,
+"text": "¿Mm? O sea, tú dices, para eso lo dijo Rabie Ishua, para que Gam Rabie Ishua sea el... Es Criatchéma Bizmana, filu que no es la Dargá de Somej Geulalit Filá original, original, original, que es Mamash el sándwich, pero Rabie Ishua que extiende esas dos horas, aquí en la Nekudá, yo creo que es como que una transición."
 },
 {
-"startMs": 2078000,
-"endMs": 2087000,
-"speaker": "Speaker 2",
-"text": "Regresamos Pele, pelado Me gustaría que te activen más ¿Por qué?"
+"startMs": 1737615,
+"endMs": 1744815,
+"text": "Antes de Vaticín, Escolculo, Bajefte es Geula, es Bajefte, es, es Hashem Beatzmó."
 },
 {
-"startMs": 2087000,
-"endMs": 2104000,
-"speaker": "Speaker 2",
-"text": "Tremendo, ¿no? A ver, hay Torá, tú estás diciendo que hay Torá, De los para ti na gib, que es la Torá es la verdad número 3 y está la Torá uno o 2 de que de que es la Torá que cole la cole, como pero por qué o como porque es el Shema."
+"startMs": 1745235,
+"endMs": 1751295,
+"text": "Después es Torá Bizmanó y después es que Adam ha Koreba Torá. Son tres, son tres Dargot."
 },
 {
-"startMs": 2104000,
-"endMs": 2132000,
-"speaker": "Speaker 1",
-"text": "Porque ahí porque cola Torá kula es entender que Shemloq no ha Shemejad, entonces mi mele en cada nekuda de Torá tienes que entender que su punto más esencial es que estás entendiendo que Shemloq no ha Shemejad, todos los libres de Torá para que. O sea, la única manera en cómo ve mets libret todo el mundo es libret ahora es porque con la libret ahora veetzem ashemlo que no eshemeja."
+"startMs": 1751355,
+"endMs": 1760035,
+"text": "Sí. Entonces, Rabie Ishua todavía la libra, porque haré cualquier Divrei Torá, haré Divrei Torá. Entonces, mi mail, el Omek de la ciudad de Rabie Ishua."
 },
 {
-"startMs": 2132000,
-"endMs": 2146000,
-"speaker": "Speaker 1",
-"text": "Sí, todos los libret ahora veetzem tienen que tocar ese punto, ashemlo que no eshem hadijud ashem. Entonces, cuando toca, cuando entiendes que todo el libret ahora toca ese punto, entonces mi mele, por eso es Así."
+"startMs": 1760815,
+"endMs": 1774635,
+"text": "Sí, que, que Betemarei, Criatchéma Sofos Lovar es Divrei Torá. Si lo dices antes de existir, Mamash, antes del Etz, entonces mi mail, Mamash dijiste-- hubo más Onatá que Criatchéma, ¿me explico?"
 },
 {
-"startMs": 2146000,
-"endMs": 2148000,
-"speaker": "Speaker 2",
-"text": "Qué te hacemos el Bismaná? Cómo?"
+"startMs": 1774695,
+"endMs": 1784295,
+"text": "Es más la esencia del Criatchéma. Acá, en las esas dos horas, es el Criatchéma de Divrei Torá, pero Adán, ya que estás-- Adán, hay gente que todavía duerme,"
 },
 {
-"startMs": 2148000,
-"endMs": 2161000,
-"speaker": "Speaker 1",
-"text": "Un sándwich. Sí, que estás al principio del día, que no, ya empezaste el día y una de las cosas que hiciste fue estudiar tu ahora. No, ya comiste. No, tú tienes que entender que cuando estás estudiando,"
+"startMs": 1785595,
+"endMs": 1800455,
+"text": "hay gente que ya está estudiando, o sea, hay gente que ya está en el Zman de la Filá. ¿Sí? Pero Atkama que hay gente que todavía duerme, todavía tienes un Jibúr, porque si no fuera la Mitzvá, que en la esencia es Criatchéma, que es Talmut Torá, Ula ya se te hubiera ido."
 },
 {
-"startMs": 2161000,
-"endMs": 2164000,
-"speaker": "Speaker 2",
-"text": "Es el ya comiste que acabamos de estudiar."
+"startMs": 1801215,
+"endMs": 1808055,
+"text": "¿Me explico? Ya se te hubiera ido. Pero, pero yamikava, eh, la Floif Sid, cada me acuerdo de otro. Esto, esto, esto, esto es Zvia."
 },
 {
-"startMs": 2164000,
-"endMs": 2165000,
-"speaker": "Speaker 1",
-"text": "Sí, sí, claro,"
+"startMs": 1808555,
+"endMs": 1822155,
+"text": "Me sirve para las Brajot, te sirve para las Brajot, porque todo el Lineande las Brajot Beemet era eso. Todo el Lineande las Brajot, entonces, son Shurot, Dafka, Lineande a esa Parashá específica de Criatchéma."
 },
 {
-"startMs": 2165000,
-"endMs": 2168000,
-"speaker": "Speaker 2",
-"text": "Sí, es famoso."
+"startMs": 1822455,
+"endMs": 1828175,
+"text": "Entonces, mi mail, Atkama que le digas como parte de esa Parashá específica de Criatchéma. Entonces, Adaraba, ¿ze tó?"
 },
 {
-"startMs": 2168000,
-"endMs": 2187000,
-"speaker": "Speaker 2",
-"text": "No, el que me vine a Nekudá, no puedes tomar ni agua. Ya se entiende el tequipú de repente. No tomas nada. Por qué? Porque es la base de todo."
+"startMs": 1830135,
+"endMs": 1845075,
+"text": "Ze, ah, ze, Ulay, Ulay, la Nekudá, no sé qué tú... Creo que dice como siete u ocho veces. Tú lo leerías nada más así: «Da, que al final de Torá nos encontramos con todas las Tefilot, con todas las Bakashot, que los judíos dicen, y me deja la sensación de que Israel debe estar frente a todo lo que necesitan los espirituales y los oficiales,"
 },
 {
-"startMs": 2187000,
-"endMs": 2197000,
-"speaker": "Speaker 2",
-"text": "O sea ya entendimos que es el primer líquido de la hot. O sea, el segundo. O sea, en Alahale, el Saif Guiman."
+"startMs": 1846755,
+"endMs": 1852975,
+"text": "que ahora los rabinos... Pa, pa, pa, pa. Y lo dice: «Que Israel necesita siempre mirarse en todo». Se-- no, y también la palabra Sejel."
 },
 {
-"startMs": 2197000,
-"endMs": 2200000,
-"speaker": "Speaker 2",
-"text": "O sea, es muy base, es base, base."
+"startMs": 1853015,
+"endMs": 1863275,
+"text": "Sejel es Kol. Es Kol. «De toda cosa, y vincularse a sí mismo a la sabiduría y al entendimiento que hay en toda cosa, para que siga el entendimiento que hay en toda cosa, y vincularse a la Torá por medio de esa cosa»."
 },
 {
-"startMs": 2200000,
-"endMs": 2206000,
-"speaker": "Speaker 1",
-"text": "Después de Respevet. Claro. O sea, el primer líquido."
+"startMs": 1863735,
+"endMs": 1871535,
+"text": "Sí, sí, sí, sí Que hace el jugador, pero ahí lo ve Holder a Javi. Claro. ¿Cuántas veces lo dijo? Esta pele, hay diálogo. No sé. Antes que sean los mismos que la Shemá."
 },
 {
-"startMs": 2206000,
-"endMs": 2208000,
-"speaker": "Speaker 1",
-"text": "También nos están acudando."
+"startMs": 1871795,
+"endMs": 1878215,
+"text": "Por eso pensé, pensé que-- lo empecé a contar para ver si eran los mismos del Shemá. Barur, ¿qué tiene? O sea, Barur, Barur."
 },
 {
-"startMs": 2208000,
-"endMs": 2219000,
-"speaker": "Speaker 2",
-"text": "El que ve el teje seco, logra ver. Fue la mejor que vimos aquí arriba, que si. El que está ahí en el teje seco, puede ver. La esposa de."
+"startMs": 1878835,
+"endMs": 1887035,
+"text": "Sí, sí, sí. ¿Cuál es decir Bekol, Bekol? No, no, y toda la Torá es el Jet y el Nun, que Nun suma Kol y Jet es, es, es la, es, es del Tamtzit, del Kol."
 },
 {
-"startMs": 2219000,
-"endMs": 2222000,
-"speaker": "Speaker 1",
-"text": "Ve el sándwich. Cómo se llama la esposa?"
+"startMs": 1887355,
+"endMs": 1894555,
+"text": "O sea, es la letra Jet, es lo mismo que la letra Nun. Es el ocho, Betzem. El ocho es el que no es uno de los días."
 },
 {
-"startMs": 2222000,
-"endMs": 2225000,
-"speaker": "Speaker 2",
-"text": "Bruria. Ve el sándwich."
+"startMs": 1894695,
+"endMs": 1902435,
+"text": "Claro. ¿Sí? Sheshe-- Shiva yamim bereishit es el siete, es Shem Elohim. Ahora, el, el ocho es lo que está Betzem arriba."
 },
 {
-"startMs": 2225000,
-"endMs": 2233000,
-"speaker": "Speaker 1",
-"text": "Bruria. Ve el principio, el medio y el fin. En el medio me metai makum al ra. O sea, y esto otra."
+"startMs": 1902875,
+"endMs": 1914815,
+"text": "Y entonces, Mimel, ya es lo que, lo que está arriba es lo que Kol es la Kol. Entonces, la diferencia entre ocho y cincuenta es que ocho es la aljina del Kria Shemá, que es quilo-- la Nekudá del Tamtzit, de que hay algo que se llama Kol."
 },
 {
-"startMs": 2233000,
-"endMs": 2266000,
-"speaker": "Speaker 2",
-"text": "Vez lo vuelvo a repetir porque está importante. Cuando te estás, te fuiste al trabajo, estoy en organización, entonces bajas, bajas a este mundo, Kiwi. Yo siempre pensé, están porque está muy jazúes, que cuando la mamá te dice, están una persona que obedeparnasató, dice, no, uy, yo soy de jovaco en la mañana y la noche. Estoy diciendo un pedieve, está diciendo, sabes qué, no puedes, no puedes, estás trabajando, es un pedieve. En la mañana y en la noche dijiste un libretora, entiéndeme. Ya nada más pasé el libre Torá y algo de libre Torá para que no pase el día sin libre Torá."
+"startMs": 1915315,
+"endMs": 1931635,
+"text": "Me explico, y es la Nekudá, Betzem también, Mesirus Nefesh, Rejúl. Ahora, el cincuenta es cuando ve-- ves el ocho reflejado en el siete, pero ya que se refleja no en una parte del siete, sino en todas las partes del siete, quiere decir que cada parte y parte del siete, Betzem, se está reflejando el ocho, que es la Jet."
 },
 {
-"startMs": 2266000,
-"endMs": 2295000,
-"speaker": "Speaker 2",
-"text": "Dijiste un libre Torá en la noche para que no pase en la noche sin libre Torá. Pero le dice, no es a fuj, esto me casé en el todo con la mañana, el sándwich me casé en el tokkol. Entonces estás a la mitad trabajando con las telas o con lo que sea y ahí mismo estás en el de jubar totalmente. El quería Shema es un gibur total."
+"startMs": 1931855,
+"endMs": 1938095,
+"text": "Entonces, Mimel, este es el número cincuenta. Entonces, por eso sí, toda la Torá, sí, sí, sí. Tiene que ser Torá. ¿Mmm?"
 },
 {
-"startMs": 2295000,
-"endMs": 2299000,
-"speaker": "Speaker 3",
-"text": "Él tiene."
+"startMs": 1938435,
+"endMs": 1945515,
+"text": "Según esto tiene que ser Torá. No puede ser la Bet. ¿A qué te refieres? Ramnoson, ¿por qué puso esa Torá en Alef?"
 },
 {
-"startMs": 2299000,
-"endMs": 2323000,
-"speaker": "Speaker 1",
-"text": "Una oficina arriba, Sí, No sé Exactamente Dónde."
+"startMs": 1945955,
+"endMs": 1953595,
+"text": "No es por orden cuando la dijo. Ah, claro, esta es Torá Alef, Betzem. Es Torá Alef, porque es Kria Shemá. Este es, es, sí, es Torá Alef, Betzem, sí."
 },
 {
-"startMs": 2323000,
-"endMs": 2341000,
-"speaker": "Speaker 2",
-"text": "Este es el principio. Es el principio. Pues están haciendo Jeta de Guel."
+"startMs": 1953635,
+"endMs": 1960515,
+"text": "Es el Alef de la Torá. Me hilo Bejol drajá, es pele. Pele. Sí, pele, pelayo."
 },
 {
-"startMs": 2341000,
-"endMs": 2344000,
-"speaker": "Speaker 1",
-"text": "Este Es el centro que ve este Mashemu a Elokim."
+"startMs": 1961775,
+"endMs": 1962315,
+"text": "Pele, pele."
 },
 {
-"startMs": 2344000,
-"endMs": 2360000,
-"speaker": "Speaker 2",
-"text": "Ben Abon Shayak Laim Klal Klalo. El que ve el short es el que ve el Kriat Shema este, no ve a Berajot. Por eso todo el día es."
+"startMs": 1967255,
+"endMs": 1975295,
+"text": "Ay, ay. Entonces, lefizé. ¿Cuáles son las dos lados en la shitá Rab Jizda?"
 },
 {
-"startMs": 2360000,
-"endMs": 2369000,
-"speaker": "Speaker 3",
-"text": "Como si Es Ecuatorial."
+"startMs": 1975395,
+"endMs": 1985775,
+"text": "Korei mikav haelaj lo ifsid, que Adam akore va Torá. Primero pensó Rab Jizda que es lo ifsid de estudiar Torá, pero brajot ya no dices."
 },
 {
-"startMs": 2369000,
-"endMs": 2392000,
-"speaker": "Speaker 1",
-"text": "Si alguien ve, diría Kriat Shema con su cabana a mitit. Entonces, después, cuando baja al Maamad Matán, no está bajando al Maamad Matán. Está yendo a Shemelo Kim, donde existes y hay un balagán, pero ves en su primiout, está agarrado el Kriat Shema antes, está agarrando el Kriat Shema después."
+"startMs": 1986355,
+"endMs": 1993795,
+"text": "Y luego, la otra y cada hambre, no, lo ifsid las brajot. Entonces, porque Bemet Kria Shemá está Bemet en dos lugares."
 },
 {
-"startMs": 2392000,
-"endMs": 2394000,
-"speaker": "Speaker 3",
-"text": "Lo que queda decidente."
+"startMs": 1994235,
+"endMs": 1995895,
+"text": "Por un lado, parece el libre Torá,"
 },
 {
-"startMs": 2394000,
-"endMs": 2406000,
-"speaker": "Speaker 2",
-"text": "Es que les gusta."
+"startMs": 1997135,
+"endMs": 2010215,
+"text": "como el libre Torá de Prati, de los-- de los Prati. Entonces, a Kaulái, eso ya te hace perder, Bemet, las brajot del Kria Shemá, porque su fósum daban no es el libre Torá."
 },
 {
-"startMs": 2406000,
-"endMs": 2423000,
-"speaker": "Speaker 2",
-"text": "Quién sabe a los a los estos los hace mejor que a los refunjimos hace que lo es? Wow! ¿O pesa?"
+"startMs": 2010915,
+"endMs": 2019015,
+"text": "Pero el, el segundo y cada hambre te dice: \"No, areí, en la esencia es lo mismo, es que uno es la expresión y otro es la esencia, uno es la Jet y otro es la Nun\"."
 },
 {
-"startMs": 2423000,
-"endMs": 2425000,
-"speaker": "Speaker 2",
-"text": "Sukoto?"
+"startMs": 2019655,
+"endMs": 2028715,
+"text": "Entonces, Mimel, ya que es uno es la expre-- esencia y otro es la expresión, y eso es lo que dice Ramani. Ramani te dice que Betzem Gadol a Korei, ¿sí?"
 },
 {
-"startMs": 2425000,
-"endMs": 2443000,
-"speaker": "Speaker 2",
-"text": "Yo creo que pesa. Esa es la la Torá que cae decir yo también? Para que se convierten en."
+"startMs": 2028975,
+"endMs": 2028995,
+"text": "El"
 },
 {
-"startMs": 2443000,
-"endMs": 2462000,
-"speaker": "Speaker 1",
-"text": "Libretora, porque todo lo que hubo un problema de José Mixpot es porque se salió de ser libretora. Entonces, pero no es que no hay libretora, sino las letras están revueltas como en Torá Dale, y entonces mi mela hay que llevarlo a convertirlo todo de regreso en libretora."
+"startMs": 2032515,
+"endMs": 2037795,
+"text": "otro es Katán, pero es lo mismo. Estamos hablando de la misma Parashá en, en nivel Gadol y nivel Katán."
 },
 {
-"startMs": 2462000,
-"endMs": 2491000,
-"speaker": "Speaker 2",
-"text": "Que eres la son de que dice que tienes que estar tu tu maxabá estar me kushera tal libreto y solamente el tu maxabá alma saomata tú vives en el Kriat Shema ajá si el 90% en el libreto no el 10% no más para que para que estés pero tienes que estar me kushara al libreto claro."
+"startMs": 2039715,
+"endMs": 2051995,
+"text": "O sea, es su guía. Beezrat Hashem. Qué bonito punto. ¿Un like?"
 },
 {
-"startMs": 2491000,
-"endMs": 2499000,
-"speaker": "Speaker 1",
-"text": "De Olam. Bechama y Ombrim, tienen Mishná? Vamos."
+"startMs": 2054475,
+"endMs": 2065715,
+"text": "No, no podemos decir que ya es el final. ¿Mmm? Ya nos enseñaste. Cien por ciento. Es lo que cada vez regresamos a Torá Alef y te das cuenta que no entendiste Torá Alef, ¿no?"
 },
 {
-"startMs": 2499000,
-"endMs": 2503000,
-"speaker": "Speaker 2",
-"text": "Ya? Esto muy bueno. Ah, Si ya Mishná."
+"startMs": 2067855,
+"endMs": 2069795,
+"text": "Cada vez-- No empezaste a entender Torá Alef. No."
 },
 {
-"startMs": 2503000,
-"endMs": 2508000,
-"speaker": "Speaker 1",
-"text": "Mishná, hay que ser Sium."
+"startMs": 2075395,
+"endMs": 2079534,
+"text": "Sí, pele. Todo el tiempo regresamos. Todo el tiempo, ah, regresamos, regresamos, regresamos. Pele pelador."
 },
 {
-"startMs": 2508000,
-"endMs": 2512000,
-"speaker": "Speaker 1",
-"text": "Vamos. Hay que ser Sium. Ahí Está Mishná."
+"startMs": 2080835,
+"endMs": 2084415,
+"text": "Pele pelador. Me gustaría que, que te entendiera más. ¿Por qué?"
 },
 {
-"startMs": 2512000,
-"endMs": 2516000,
-"speaker": "Speaker 2",
-"text": "Pero Ya tenemos libro y medio, Eh?"
+"startMs": 2087815,
+"endMs": 2094074,
+"text": "Remendo, ¿no? A ver, hay Torá, tú estás diciendo que hay Torá de los Pratim Naguid, que es la Torá, es la Torá número tres."
 },
 {
-"startMs": 2516000,
-"endMs": 2528000,
-"speaker": "Speaker 1",
-"text": "Canela seguimos a la mitad del tema. Ya vamos a acabar el Perek también. No creo que antes del Sman es \"Yud Gimel\" Estamos en \"Yud Dalet\" Como Shane quiera,"
+"startMs": 2095755,
+"endMs": 2102835,
+"text": "Y está la Torá uno o dos de que, de que es la Torá que cole la cola. ¿Cómo, cómo? ¿Pero por qué o cómo?"
 },
 {
-"startMs": 2528000,
-"endMs": 2544000,
-"speaker": "Speaker 2",
-"text": "Vamos a hacerlo Los que nos subimos a la mitad se llama que estamos Porque el principio y el final estás de cruzar Estoy alineando el Shema también puede ser Como puede ser que los que llegan al final del Shema se les cuenta todo Va a haber algo a moka."
+"startMs": 2102875,
+"endMs": 2103695,
+"text": "¿Por qué es Shemá?"
 },
 {
-"startMs": 2544000,
-"endMs": 2545000,
-"speaker": "Speaker 1",
-"text": "A ver pásate un \"Humaswamitbar\""
+"startMs": 2105035,
+"endMs": 2115995,
+"text": "Porque ahí es el-- Porque cola Torá Kulá es entender que Hashem lo que no es semejado. Entonces, Mimel, en cada Nekudá de Torá tienes que entender que su punto más esencial es que te hace entender lo que Hashem lo que no es semejado."
 },
 {
-"startMs": 2545000,
-"endMs": 2561000,
-"speaker": "Speaker 2",
-"text": "Cuál es el borde? Qué? Que los que llegan al Shema es como si, No estabas? Podemos ver es eso? Dónde está el mejor? Qué es lo que es el videojuego?"
+"startMs": 2117075,
+"endMs": 2127415,
+"text": "Con todos los que has-- Todos los libre Torá, para que, o sea, la única manera en cómo Bemet, libre-- todo el mundo es libre Torá, es porque cola libre Torá, Betzem, Hashem lo que no es semejado."
 },
 {
-"startMs": 2561000,
-"endMs": 2566000,
-"speaker": "Speaker 1",
-"text": "Het?"
+"startMs": 2127415,
+"endMs": 2130195,
+"text": "¿Verdad? No más lo único que dice."
 },
 {
-"startMs": 2566000,
-"endMs": 2571000,
-"speaker": "Speaker 1",
-"text": "Creo, o el Run, el Run ahí lo Trae."
+"startMs": 2132175,
+"endMs": 2146275,
+"text": "Sí, todos los libre Torá, Betzem, tienen que tocar ese punto, Hashem lo que no es semejado, Yijuda Hashem. Entonces, cuando toca, cuando entiendes que todo el libre Torá toca ese punto, entonces, Mimel, por eso es así, que Betzem es-- ¿Para qué te hace más el Bismaná?"
 },
 {
-"startMs": 2571000,
-"endMs": 2572000,
-"speaker": "Speaker 1",
-"text": "Levaté El Tamitsu."
+"startMs": 2146275,
+"endMs": 2155695,
+"text": "¿Mmm? ¿Qué te hace más el Bismaná? Un sándwich. Sí, que estás al principio del día, que no ya empezaste el día y una de las cosas que hiciste fue estudiar Torá."
 },
 {
-"startMs": 2572000,
-"endMs": 2581000,
-"speaker": "Speaker 2",
-"text": "Levaté el Tamitsu Entonces."
+"startMs": 2155855,
+"endMs": 2163835,
+"text": "No ya comiste y viniste. No, tú tienes que entender que cuando estás estudiando... Oh, es el, es el ya comiste que, que acabamos de estudiar."
 },
 {
-"startMs": 2581000,
-"endMs": 2597000,
-"speaker": "Speaker 1",
-"text": "Te voy a traer una raya impresionante, lo que tú dijiste ahí, dijo, dijo que ellas tenían a Dain, dijo que Betsem el que ve el primero de la nachamo de Am Israel."
+"startMs": 2164035,
+"endMs": 2167455,
+"text": "Sí. Sí, claro. Sí, es famoso. Ni agua."
 },
 {
-"startMs": 2597000,
-"endMs": 2608000,
-"speaker": "Speaker 1",
-"text": "Eso Es Lo Que Bilam logró ver. Ya les dije, Bilam acá no que con el ojo izquierdo viene hasta el final. Cuántica. Todos son los que conocían."
+"startMs": 2169015,
+"endMs": 2179295,
+"text": "Oh. No, el que me viene Nekudá, no puede tomar ni agua. Ya, ya, ya se entiende el Tekifú, de repente, Morá, no tomas nada, Maimá, filo."
 },
 {
-"startMs": 2608000,
-"endMs": 2611000,
-"speaker": "Speaker 2",
-"text": "Lo dijiste por arriba el domingo."
+"startMs": 2179295,
+"endMs": 2182415,
+"text": "¿Por qué? Porque es el Shejol Davar, Torá Alef."
 },
 {
-"startMs": 2611000,
-"endMs": 2654000,
-"speaker": "Speaker 1",
-"text": "Entonces el que Bilam con el ojo izquierdo que se quiere ir hasta el final. Y cuando se va hasta el final. Él quiere le que atrei. Entonces él no quiere. Si le dice no, el más está mal. No, no, yo quiero llegar y que no que el más se fue en mes. No creo fue el maestro. Entonces la esencia dice. Pero quieres que te enseñe la esencia? Lo invite aven, ve Yakov, el horraam, al beistrail. Pues hay una llamada, no me acuerdo dónde, que dice la vale la pena estudiarla, porque Kasur mucho con lo que Tuki Sharta ahorita crea Chema con eso, con el la nicudad esta del dice que habría que decir todos los días Krias Shema y Parashat Bilam."
+"startMs": 2183735,
+"endMs": 2185295,
+"text": "Ese es, ese es la base de todo."
 },
 {
-"startMs": 2654000,
-"endMs": 2658000,
-"speaker": "Speaker 1",
-"text": "Sí, deberías decir todos los días,"
+"startMs": 2187755,
+"endMs": 2195135,
+"text": "O sea, ya, ya entendimos con más-- Es el primer Likutá Lajot, o sea... Ah, es el primer Likutá Lajot. Seguro. O sea, en la, en la Alef, Saif Guimal."
 },
 {
-"startMs": 2658000,
-"endMs": 2663000,
-"speaker": "Speaker 2",
-"text": "Para Krias Shema."
+"startMs": 2198075,
+"endMs": 2204415,
+"text": "O sea, es muy base, es base, base. Después de Rash Pevet. Claro. El primer Likudá Lajot es Rash Pevet."
 },
 {
-"startMs": 2663000,
-"endMs": 2670000,
-"speaker": "Speaker 2",
-"text": "Recuerda De ser Balak. Sí, pero hay."
+"startMs": 2206335,
+"endMs": 2215235,
+"text": "Sí, claro. También es esta Nekudá. El, el que ve el Shejol Davar logra ver. Fue la Majló que tuvimos aquí arriba, que si lo-- Jatu, eh, Jatu, eh- Jataim Rotim."
 },
 {
-"startMs": 2670000,
-"endMs": 2685000,
-"speaker": "Speaker 1",
-"text": "Una hermana que dice que hay y que ve mi cara din."
+"startMs": 2215775,
+"endMs": 2218915,
+"text": "El que está ahí, en Shejol Davar, puede ver. La esposa de..."
 },
 {
-"startMs": 2685000,
-"endMs": 2686000,
-"speaker": "Speaker 2",
-"text": "Deberíamos De haber leído."
+"startMs": 2220375,
+"endMs": 2227915,
+"text": "Sfinle, Seifer. Ve el sándwich. ¿Cómo se llama la esposa? ¿Brulia? Ve el sándwich. Brulia. Ve el principio, el medio y el fin."
 },
 {
-"startMs": 2686000,
-"endMs": 2695000,
-"speaker": "Speaker 1",
-"text": "Todos los días y por todo hay que hay que leerlo adentro."
+"startMs": 2228635,
+"endMs": 2230355,
+"text": "En el medio ve Metaim Akum al Rab."
 },
 {
-"startMs": 2695000,
-"endMs": 2728000,
-"speaker": "Speaker 1",
-"text": "Sí, no me acuerdo, no me acuerdo, ahorita no las busca Gabriel, ahora acá hay algo muy menim, acá en Parashat Balak, fíjense esto, fíjense este Lashon, aquí le suena, dicen."
+"startMs": 2231795,
+"endMs": 2239615,
+"text": "Estoy, estoy limpiando. O sea, y esto otra vez lo vuelvo a repetir porque es muy importante. Cuando estás, te fuiste al trabajo, esto lo vuelve a mencionar."
 },
 {
-"startMs": 2728000,
-"endMs": 2739000,
-"speaker": "Speaker 2",
-"text": "Berajot, Sí, Daf. Esta aquí adelante, ¿No? Judgimel. No me dio el daf. Un segundo. Judbet, Judbetta, Mudbet."
+"startMs": 2239675,
+"endMs": 2242654,
+"text": "Entonces, bajas, bajas a este mundo, Kiviajol. Kilu."
 },
 {
-"startMs": 2739000,
-"endMs": 2742000,
-"speaker": "Speaker 1",
-"text": "Judbet. Si."
+"startMs": 2244255,
+"endMs": 2252675,
+"text": "Yo siempre pensé, Stan, porque está muy Jasues, que cuando la mamá te dice-- Stan, una persona que obedece Pernazató, dice: \"No, uy, yo te dejo bajo en la mañana y la noche\"."
 },
 {
-"startMs": 2742000,
-"endMs": 2748000,
-"speaker": "Speaker 1",
-"text": "Ah, Vamos, Estamos a un paso."
+"startMs": 2253315,
+"endMs": 2262555,
+"text": "Estoy diciendo un Bedieve. Estoy diciendo: \"¿Sabes qué? No puedes, no puedes, estás trabajando\". Es un Bedieve. En la mañana y en la noche dijiste un Libre Torá, ¿entiendes?"
 },
 {
-"startMs": 2748000,
-"endMs": 2751000,
-"speaker": "Speaker 2",
-"text": "Si."
+"startMs": 2262915,
+"endMs": 2270215,
+"text": "Ya nada más para decir Libre Torá, di algo de Libre Torá para que no pase el día sin Libre Torá. Dijiste un Libre Torá en la noche para que no pase la noche sin Libre Torá, Bezeu."
 },
 {
-"startMs": 2751000,
-"endMs": 2758000,
-"speaker": "Speaker 1",
-"text": "Por eso no nos ve mi quiere kan ire. Ni kan ira vamos a seguir en la misma subida. Ok. Están deprimiendo está."
+"startMs": 2271075,
+"endMs": 2277795,
+"text": "Pero lefizé. No es... No es a-- afuj, esto me casi otro todo con la mañana, el sándwich me casi otro col."
 },
 {
-"startMs": 2758000,
-"endMs": 2763000,
-"speaker": "Speaker 2",
-"text": "Bueno el paso que el paso que es el oh a mí sí me da miedo."
+"startMs": 2278095,
+"endMs": 2284325,
+"text": "Entonces, estás a la mitad trabajando con las tres O con lo que sea. Y ahí mismo estás en el j-- el jujar totalmente."
 },
 {
-"startMs": 2763000,
-"endMs": 2774000,
-"speaker": "Speaker 1",
-"text": "Eso en am que la vi yakum uke aris na asalu ish caba dios haltrev dama que."
+"startMs": 2285385,
+"endMs": 2288745,
+"text": "El, e-e-el criat shemaba es un jibur total."
 },
 {
-"startMs": 2774000,
-"endMs": 2811000,
-"speaker": "Speaker 1",
-"text": "La Vi sí, entonces aquí dice Rashi fíjense yakum que es que es yakum ukumeja y que es, Ahora aquí lo explica. Entonces, ¿qué está diciendo acá?"
+"startMs": 2290865,
+"endMs": 2293185,
+"text": "Disculpa la, la saliva que me sale."
 },
 {
-"startMs": 2811000,
-"endMs": 2844000,
-"speaker": "Speaker 1",
-"text": "Está diciendo por qué las por qué? A fuertes vela ne cuda más primiut de Am Israel y de repente dice lo invita a Abenbe hakol, ra am a lo de Israel porque son el am que dice que era chema babo querubaer. Entonces mamas cuando trajiste ese mejor suena mamas suenan las berajot de Bilam, dice el que mamas ve el premiut, dice están rejuki mamas, es lo que ve Bilam, que él buscó ver el premiut. Banasheva Mizbejot tocó el 8, que es el kol."
+"startMs": 2294565,
+"endMs": 2300625,
+"text": "Está abajo en el gris. ¿No va con el gris? No, espera. La que está atrás es- Él tiene una oficina arriba."
 },
 {
-"startMs": 2844000,
-"endMs": 2862000,
-"speaker": "Speaker 1",
-"text": "Sí, Bilam se quiere ir al ocho. Ah, te quieres ir al ocho. Ah, Neshama. Es el punto de la Neshama, donde cada cosa del goof es una expresión. Betsem de la Neshama. Entonces Ulay a veces se los olvida, pero en la esencia Betsem de la Neshama."
+"startMs": 2300745,
+"endMs": 2307065,
+"text": "Ah, ¿tiene otra? Sí. Sí. No, no sé exactamente dónde. Es que ellos van a saber mejor. Ellos, yo creo que saben mejor ellos."
 },
 {
-"startMs": 2862000,
-"endMs": 2869000,
-"speaker": "Speaker 2",
-"text": "Entonces Nada más cuadra también cañón que todo el Balatania dice cuando quieres destaquen Keri. Vimos, kir, keri. Es en Creache mala mitad."
+"startMs": 2308585,
+"endMs": 2318665,
+"text": "Abajo en... el caminito de atrás. ¿Pasó ahí? No. Después del baño, una puerta. Es un cuarto estudio que estudia él a veces ahí, pero no, tiene una oficina arriba."
 },
 {
-"startMs": 2869000,
-"endMs": 2870000,
-"speaker": "Speaker 1",
-"text": "La mitad es que,"
+"startMs": 2319465,
+"endMs": 2327365,
+"text": "No sé exactamente dónde. ¿Qué es el postre de esto? Solo. \"Barajmán kazeora como sherabel, ki uaia manig Israel, uiia manig leatin\"."
 },
 {
-"startMs": 2870000,
-"endMs": 2872000,
-"speaker": "Speaker 2",
-"text": "Que me metan, al principio, dice."
+"startMs": 2327685,
+"endMs": 2333985,
+"text": "Sándwich. Entonces, esperate. \"Ki mi sheodia que ushat Israel, maem em lekujim\". Entonces, el principio. El principio."
 },
 {
-"startMs": 2872000,
-"endMs": 2901000,
-"speaker": "Speaker 1",
-"text": "Y por eso me hablim todos los masdikin, porque todos los masdikin son, nada más entran en la parte del medio del sándwich. Me explico? Entonces, no tiene coach, no tienen coach en el principio, en el fin. En Codenabria, Blajarabria. Ahí hay, ve, como, como Ramnahan, dicen, ahora no un Alef. Aval. Codema, briá, a ella, culoe, ja, de culo tov. Y me la habría y ha colejado. Entonces, vamos a Preparar."
+"startMs": 2333985,
+"endMs": 2340745,
+"text": "\"Ve odea rujaníut vedakut shel Israel, ui oda shi Israel em rejokim legamre meabon\". Después están haciendo jeta egel."
 },
 {
-"startMs": 2901000,
-"endMs": 2912000,
-"speaker": "Speaker 1",
-"text": "Y ahí hay raya, hay esto y el otro. Sí, pero ¿qué es el hat, el main de la mañana es. Es conectarte con. Cómo dijiste tú?"
+"startMs": 2341205,
+"endMs": 2351605,
+"text": "Ese es el centro, que es \"betzem Hashem ua Elokim\". \"Ven abon sheiaj laem klal klalo, lefí gode que ushotam mi shorsham y gode dakutam berujaníutam\"."
 },
 {
-"startMs": 2912000,
-"endMs": 2919000,
-"speaker": "Speaker 2",
-"text": "Hacerme Lo que no hacer? Hacemos lo que no hacer. Claro. Y al final me la habría de estas."
+"startMs": 2351605,
+"endMs": 2357985,
+"text": "\"Ve alquem kol haitsurim sheba olam, en an ajshavim lemasoj kinég el masoj el kered shel abonot jad ve shalom, bejamana lifta\"."
 },
 {
-"startMs": 2919000,
-"endMs": 2950000,
-"speaker": "Speaker 1",
-"text": "Cosas como decimos. Sí, sí, mamá. Y el Sim Shalom es Kenege, el Sim Shalom es Kenege las primeras 3 brajot, que es el Shebah. Estás hablando de Shem Beatzmo antes de nosotros, luego hablas de nosotros y luego regresas todo, que todo lo que queremos acá en todo este lo que no lo queremos hasta el final, que es y por eso acabas y después de Sim Shalom."
+"startMs": 2358005,
+"endMs": 2367085,
+"text": "¿Qué? ¿Cuál es el principio que dijiste? El que, el que ve el, el shoreh, el que ve el criat shema este, no ve ahora berot."
 },
 {
-"startMs": 2950000,
-"endMs": 2980000,
-"speaker": "Speaker 1",
-"text": "Te acabas con Gebula y antes de empezaste con Gebula Gala Israel, entonces es el malaj, entonces el Olam del Dibur, el Olam del Dibur es el Olam de Shem Lokim, es el Olam donde hay Diburim Tobim, Diburim, Raim, pero hay un Olam que es el primut. Sí, es el nigun, el Olam del nigun es el Olam del KH más el Olam de arriba del este del shofar, exactamente donde no hay letras."
+"startMs": 2367505,
+"endMs": 2377785,
+"text": "Zehu. Por eso todo el día es como si fuese cuatro. El que-- y si alguien ve, me diría criat shema, con su kabana amitit, entonces después cuando baje al masá umatán, no está bajando al masá umatán."
 },
 {
-"startMs": 2980000,
-"endMs": 3014000,
-"speaker": "Speaker 1",
-"text": "Entonces, en ese en ese Olam, este makol top, entonces este makera una madrigada más guá, que son los jazimba richonim, que tenían que antes de la tfila conectarse mamás swaim shahad a un Olam le malame adibur, porque cuando dices la ghulá es la ghulá. Bibhinata Dibur, porque al final lo dices con Dibur, entonces vete en ellos necesitaban shoin shahad kordenbat fila, entonces cuando es entonces me mail es el y entonces por eso sutoramic barejet."
+"startMs": 2378465,
+"endMs": 2390465,
+"text": "Es-está yéndose a Shem Elokim, donde existes y hay, hay un balagán, pero betem en su primihut, está agarrado el criat shema de antes, está agarrado el criat shema después."
 },
 {
-"startMs": 3014000,
-"endMs": 3026000,
-"speaker": "Speaker 1",
-"text": "Dice, y no se les olvida, ¿por qué? Porque acaba que ellos están ocuparin algo que está en la mala manera. Entonces hacen que todo el desmán."
+"startMs": 2391285,
+"endMs": 2394405,
+"text": "Sí. ¿Y la de, y la de, y la de? ¿La de Jitzchak? Sí."
 },
 {
-"startMs": 3026000,
-"endMs": 3031000,
-"speaker": "Speaker 2",
-"text": "Se hace la mala man. Ellos sí, su Talmud Mitkayem."
+"startMs": 2401645,
+"endMs": 2402645,
+"text": "Lo que acaba de decir es tal--"
 },
 {
-"startMs": 3031000,
-"endMs": 3065000,
-"speaker": "Speaker 1",
-"text": "Sí, es que un alargama más gua en kilo para llegar al Kreatche más real y Mimela la fila de la manera correcta. Entonces necesitan tocar el lugar más primi, más amok. Arriba del Dibur, arriba de La Habana, tipo el Ejat del Create Chema, que es el Misiur Nefesh, pero ellos lo tocan ahí y luego llegan, me metan, sólo eso les permite llegar a la al real, más mi mail no está, no se les pasa nada por la cabeza mientras están en el diciendo el Create Chema, no se sienten así mismo,"
+"startMs": 2404725,
+"endMs": 2410865,
+"text": "Entonces, doctor, que él sabe-- a los, a los-- esto nos hace rejoquim, a los refujimos hace que lo... ¿Ya ve?"
 },
 {
-"startMs": 3065000,
-"endMs": 3066000,
-"speaker": "Speaker 2",
-"text": "Sólo sienten acá,"
+"startMs": 2410865,
+"endMs": 2412965,
+"text": "¡Guau!"
 },
 {
-"startMs": 3066000,
-"endMs": 3100000,
-"speaker": "Speaker 1",
-"text": "Entonces mi mail, ellos, su toda mi pareja, que es mi pareja, mi pareja, pero eso es lavar, es como lo Janino en 2. Él comía un gramo de Kab Harubin en erev Shabbat y ya, le alcanzaba para toda la semana. Cuál es el omec? Él no comía Harubin. Otra vez, es una encuevada de Enzov. El Tomete, él veía que en el Haru, Munaj, es como dijimos que el Avata Shem, el amor, que alcanza para todo. Entonces mi meile, él con eso se llenaba y por eso todo el mundo, ni son del sville."
+"startMs": 2414205,
+"endMs": 2417605,
+"text": "Sucot, ¿jola moet Sucot? Me iba a decir. ¿Eh? O Pesaj, ¿jola moet Pesaj?"
 },
 {
-"startMs": 3100000,
-"endMs": 3117000,
-"speaker": "Speaker 1",
-"text": "De Robjani Mendoza, Udailo de Carl Harubi, Meref Shabata, el que estaba vestido en ese mundo de Carl Harubi, entonces todo el mundo ni son, todo el mundo ni son por él, porque él está en jugar, él está en jugar ahí a esa, a esa. Cómo se entiende mucho a esa necuda?"
+"startMs": 2419625,
+"endMs": 2421105,
+"text": "Jola moet, vaya antes Pesaj."
 },
 {
-"startMs": 3117000,
-"endMs": 3124000,
-"speaker": "Speaker 2",
-"text": "Exactamente, que todo el mundo ni son inglés. Entonces mi mail."
+"startMs": 2423665,
+"endMs": 2424105,
+"text": "Sucot, ¿no?"
 },
 {
-"startMs": 3124000,
-"endMs": 3157000,
-"speaker": "Speaker 1",
-"text": "Eso es lo que hace que todo se convierta de Gashmi. De donde a Rujani, Aba, sí, exactamente, entonces mi mail, el que es ve meta, sí, entonces no necesita más que un Kaf Harubi. Me explico, necesita un Kaf Harubi, si necesitaría más de más de un Kaf Harubi, quiere decir que el ni son, no del si necesitaría una manzana."
+"startMs": 2425725,
+"endMs": 2427525,
+"text": "Sucot o... Sucot o Pesaj."
 },
 {
-"startMs": 3157000,
-"endMs": 3165000,
-"speaker": "Speaker 1",
-"text": "Sí, y si Rojanino Mendoza necesitaría una manzana, entonces ella le daría hambre, me explico, le daría hambre,"
+"startMs": 2430965,
+"endMs": 2444265,
+"text": "Esa es la, la Torá que acaba de decir yo también. \"Va zaymarim lo shekol hamasá umatán u Torá, que ashav nasa, meacol din Torá kanal, que daiut se lejaba ikol havarim, afilu kol hamashavot lefí hadayanim, ki mj-eh, cuando- Para que se conviertan en Diba de Torá."
 },
 {
-"startMs": 3165000,
-"endMs": 3168000,
-"speaker": "Speaker 3",
-"text": "O sea, en lugar de Jarub dices, además de Jarub,"
+"startMs": 2444845,
+"endMs": 2451645,
+"text": "Porque todo lo que hubo un problema de Joshen Mishpot es porque se salió de ser Diba de Torá. Entonces, la sotiót balbelú."
 },
 {
-"startMs": 3168000,
-"endMs": 3181000,
-"speaker": "Speaker 1",
-"text": "No, además, en vez, Jarub es lo más, es lo más mínimo, que es calculo, nada más un portador. De un jiut, pero en sí no tiene nada,"
+"startMs": 2452405,
+"endMs": 2456105,
+"text": "Pero no es que no hay Diba de Torá, sino las letras están revueltas, como en Torá Dalet."
 },
 {
-"startMs": 3181000,
-"endMs": 3182000,
-"speaker": "Speaker 2",
-"text": "No tiene nada."
+"startMs": 2457525,
+"endMs": 2461225,
+"text": "Y entonces, Mimel, hay que llevarlo a convertirlo todo de regreso en Diba de Torá."
 },
 {
-"startMs": 3182000,
-"endMs": 3186000,
-"speaker": "Speaker 1",
-"text": "Es Harub, Harub es mi madre gura que."
+"startMs": 2462905,
+"endMs": 2469885,
+"text": "Que es la shonde que dice que tienes que estar, tu me-- tu mashavá está en mekúsheret al Diba de Torá y solamente el hitshimiut de tu mashavá, al masá umatá."
 },
 {
-"startMs": 3186000,
-"endMs": 3192000,
-"speaker": "Speaker 2",
-"text": "Estamos haciendo, no tienen un Harub,"
+"startMs": 2470505,
+"endMs": 2478585,
+"text": "Tú vives en el criat shema. Ajá. Eh, si-- ¿Cómo hago ishadut? Así el noventa por ciento en el Diba de Torá."
 },
 {
-"startMs": 3192000,
-"endMs": 3200000,
-"speaker": "Speaker 1",
-"text": "Harubín empieza con G, pero Harub es el que me hace que gura."
+"startMs": 2479405,
+"endMs": 2485505,
+"text": "No, el diez por ciento, no más para, para, para que estés vainianim, tipo. Pero tienes que estar mekushar al Diba de Torá."
 },
 {
-"startMs": 3200000,
-"endMs": 3203000,
-"speaker": "Speaker 2",
-"text": "Sí, Entonces no,"
+"startMs": 2485965,
+"endMs": 2486625,
+"text": "Claro."
 },
 {
-"startMs": 3203000,
-"endMs": 3208000,
-"speaker": "Speaker 1",
-"text": "Dailov Kab Harubin dice nada."
+"startMs": 2493925,
+"endMs": 2500785,
+"text": "¿Tienen Mishná? ¿Vamos? Oh. ¿Ya? Todo muy bueno."
 },
 {
-"startMs": 3208000,
-"endMs": 3253000,
-"speaker": "Speaker 1",
-"text": "Entonces, él es el que el que no ve la bria, él ve el Saher Sri Roholdavar, el no ve el la bria en su matzat before. Él ve el Dibur, Mishamar la Shemen beit lock. Otra vez estás en el Shabá también, sí, y Omar la Hometz beit lock. Si tú ves al Hometz como un portador y no como algo beatzmo. Entonces mi maile con col, el harub te puede llenar completamente y el jomes puede prender porque no tiene nada encima que él es el que está aportando y mi maile ya que es así entonces sí, jet nun, janina, jet nun, nun como Rohana se me antoja."
+"startMs": 2501605,
+"endMs": 2502685,
+"text": "Ah, sí, ya, Mishná."
 },
 {
-"startMs": 3253000,
-"endMs": 3255000,
-"speaker": "Speaker 2",
-"text": "Tener un hijo para ponerle janina o."
+"startMs": 2504005,
+"endMs": 2505405,
+"text": "Mishná. Hay que hacer shiur."
 },
 {
-"startMs": 3255000,
-"endMs": 3257000,
-"speaker": "Speaker 1",
-"text": "Janania janania."
+"startMs": 2507325,
+"endMs": 2508785,
+"text": "Vamos. Hay que hacer un shiur."
 },
 {
-"startMs": 3257000,
-"endMs": 3280000,
-"speaker": "Speaker 2",
-"text": "Janania es conyuk al final está tremendo está bien, Está algo muy bajado que esas que me gusta, pero hay comer por ansiedad, existe lo que se llama comida de ansiedad. Es ansiedad que es es lo leal por ti, por ti no hay un hibur, no hay hibur, no hay ni mi mela de ansiedad y mi mela taxi comiendo y no es los regalos cuando está ayer, tiene que ver con el amor,"
+"startMs": 2510185,
+"endMs": 2518085,
+"text": "Está Mishná. Pero ya tenemos libro y medio, ¿eh? ¿Eh? Desde a beta de Yud. Canera seguimos a la mitad del tema."
 },
 {
-"startMs": 3280000,
-"endMs": 3285000,
-"speaker": "Speaker 1",
-"text": "Con todo claro, si comer por ansiedad es virginato no es makanote,"
+"startMs": 2518745,
+"endMs": 2521745,
+"text": "Ya vamos a acabar el perek también. No creo que antes del dman."
 },
 {
-"startMs": 3285000,
-"endMs": 3295000,
-"speaker": "Speaker 2",
-"text": "Es amigos sin comida, yo, yo, yo cuando cuando estás a veces te voy a comer ya se te claro, claro. No hay que bajar por las papas,"
+"startMs": 2523285,
+"endMs": 2530505,
+"text": "Es Yud Guímel. Estamos en Yud Alef. Es hasta Shem, como Shem quiera, vamos a hacer. Los que nos fuimos a la mitad se llama que estamos, ¿no?"
 },
 {
-"startMs": 3295000,
-"endMs": 3330000,
-"speaker": "Speaker 1",
-"text": "Sí, imagínate si un me dijiste ahorita amigos que un niño que no le interesan los amigos, le interesa ver a quién le quitan, a ver quién le saca el este trae papas de lunch, el otro trae no sé qué, el lunch, pero no busca Bijlal socializar, no busca nada, esa es la largadez de del al revés Ohev Matanot, sí, al revés de Sonei Matanot y el que Sonei Matanot es el que Ohev. Abba es el Coeba Abba y entonces Rabbenu Najman Mendoza, él vivía kol kulo en ese mundo."
+"startMs": 2532345,
+"endMs": 2538785,
+"text": "Porque, anian ajrum haminim de el principio y el final. Tas de kushar. Esto delineando el shiur, ¿no?"
 },
 {
-"startMs": 3330000,
-"endMs": 3359000,
-"speaker": "Speaker 1",
-"text": "Entonces mi maile lo llenaba lo más mínimo, lo llenaba porque era kol kulo, se llenaba de amor, o sea, está muy romántico, se llenaba de amor. Y Todah Lolah, No, Porque porque todo lo que hay en el Olam, porque todos los Olam ni son por Rabbenu Najman Mendoza, porque me mete todo lo que hay en el Olam en su Nekudata Tachzit. Es la va que Ashan nos está dando, yo no manda manzanas, manda brazos,"
+"startMs": 2538865,
+"endMs": 2545445,
+"text": "También puede ser. ¿Cómo puede ser que los que llegan al final del shiur se les cuente? Se les cuenta todo. Ha de haber algo a moca. A ver, pásate un Jumas va a Midbar."
 },
 {
-"startMs": 3359000,
-"endMs": 3362000,
-"speaker": "Speaker 3",
-"text": "No, entonces mi meile en su comida, no comida nada más para él,"
+"startMs": 2545445,
+"endMs": 2551685,
+"text": "¿Cuál es el borde eso? ¿Qué? Que los que llegan al final, como si estudiaran toda la Masa-- ma que Shenotavas."
 },
 {
-"startMs": 3362000,
-"endMs": 3382000,
-"speaker": "Speaker 1",
-"text": "Si a él le alcanza para toda la semana quiere decir que le alcanza a todo el mundo en eso, él es el que el que el que agarra, el que agarra be'etzem el punto del gibor del de la de arriba del gul al gul."
+"startMs": 2551925,
+"endMs": 2560045,
+"text": "Mmm. ¿Dónde está el mechor? Yo me amaráis, eh, va yomu va laila de que salu yejova el Talmud Torá."
 },
 {
-"startMs": 3382000,
-"endMs": 3390000,
-"speaker": "Speaker 1",
-"text": "Agarra el lo que es de arriba del no pasa el gur."
+"startMs": 2560305,
+"endMs": 2563385,
+"text": "Neharim Daf Het. ¿Het? Amud Alef."
 },
 {
-"startMs": 3390000,
-"endMs": 3394000,
-"speaker": "Speaker 3",
-"text": "El Blickburg. Pero espérate, eso es él, el Olam Communison."
+"startMs": 2566245,
+"endMs": 2572345,
+"text": "Creo. O el Ran, el Ran ahí lo trae. Nishva, nishva be, nishva... Nishva le, levatel ta mitsué."
 },
 {
-"startMs": 3394000,
-"endMs": 3436000,
-"speaker": "Speaker 1",
-"text": "Otra vez, si con él le alcanza. No, no se hayas que alcanza Harub para alimentarte una semana, ¿no? Entonces quiere decir que cabe en ese Harub nada más lo de toda la semana o Ulai ya alcanza con la ola. Cabe con la ola. En el Harub. Claro, entonces mi mail le quiere decir que cola Olam Be'etzem, el abrazo de se lo da a Rabbenu, se lo da a todo el mundo, entonces cada uno a uno llegó manzanas, al otro llegó parnasah, al otro llegó esto, al otro luego jitomates, cada uno le llegó otra cosa, me explico, entonces por medio de él, que él es el que te ofes la nekuda, lo que habla, lo que dijo Gabriel, que es lo que hace, que si no ves el kilo, estás agarrado la nekuda del Chitah Newton."
+"startMs": 2572505,
+"endMs": 2574805,
+"text": "Levatel ta mitsué, lekayem ta mitsué. Ajá."
 },
 {
-"startMs": 3436000,
-"endMs": 3464000,
-"speaker": "Speaker 1",
-"text": "Pues yo como como él, entonces afilo que mi comida sí es comida y la de él es Harub. Sí, pero yo tengo que entender que en mi comida Be'etzem es el Harub de él, ese es el man kilo, es el man, los tzadikim comen man, es lo que dijimos arriba, que lo rakeri, Nora es Vubikeri, Be'etzem es el que el que agarra todas las cosas en ese short es más gavoha m'dak, Increíble."
+"startMs": 2576705,
+"endMs": 2577665,
+"text": "Entonces..."
 },
 {
-"startMs": 3464000,
-"endMs": 3466000,
-"speaker": "Speaker 3",
-"text": "Qué estamos viendo? Entonces aunque la vi como le dije."
+"startMs": 2581645,
+"endMs": 2591825,
+"text": "Te voy a traer una raya impresionante a lo que tú dijiste. Ahí dijo, dijo que ellos tenían azain, dijo que betsem el que ve el primihut de la neshamot de Am Israel."
 },
 {
-"startMs": 3466000,
-"endMs": 3471000,
-"speaker": "Speaker 1",
-"text": "A la es la de Maraki que habla Que."
+"startMs": 2592205,
+"endMs": 2600225,
+"text": "Rue que rejokim meod. Rejokim meod, meod min hajet. Me la hem rejotil de klalo. Eso es lo que Bil'am logró ver."
 },
 {
-"startMs": 3471000,
-"endMs": 3474000,
-"speaker": "Speaker 1",
-"text": "No vamos a llegar ya mero vamos a llegar."
+"startMs": 2600865,
+"endMs": 2607785,
+"text": "Ya les dije Bil'am acá, ¿no? Que con el ojo izquierdo ve hasta el final. La cuántica, todo eso lo dejé con ustedes."
 },
 {
-"startMs": 3474000,
-"endMs": 3482000,
-"speaker": "Speaker 3",
-"text": "A ver, ubica en la otra."
+"startMs": 2607785,
+"endMs": 2609745,
+"text": "Sí, lo dijiste con Or Israel arriba del dominio."
 },
 {
-"startMs": 3482000,
-"endMs": 3490000,
-"speaker": "Speaker 1",
-"text": "Donde estás."
+"startMs": 2611185,
+"endMs": 2618765,
+"text": "Entonces, el, eh, que Bil'am, con el ojo izquierdo, ese quiere ir hasta el final. Y cuando se va hasta el final- Él quiere lecatrey."
 },
 {
-"startMs": 3490000,
-"endMs": 3545000,
-"speaker": "Speaker 1",
-"text": "Pero ese es el punto de emperazat bil am y el Kesher con Kreatche Mah mamash teleploin, porque si otra vez, si el que dice Kreatche Mav vamos a ver, entonces quiere decir, quiere decir que él tocó la nekudata tamchi tapilu que en el día se le olvidó de que está estudiando doctora, pero él puso que en el Tapsit esto ahora, o sea, ese es su respevet, me explico, ese es un kuda. Primit, Mautit, que ahí es el las mamas acá, dice, lo invita a bembeyakov, loraam albisrael, ashemelokab y mo, utroat melekmo, que es ashemelokab, como ashemelokenu de tomate, siempre está con él y ya que hay ashemelokenu."
+"startMs": 2619205,
+"endMs": 2626785,
+"text": "Brojes. Entonces, él no quiere-- si le dicen: \"No, el máset está mal\". \"No, no, yo quiero llegar y que-- no que el máset fue mesí\"."
 },
 {
-"startMs": 3545000,
-"endMs": 3577000,
-"speaker": "Speaker 1",
-"text": "Email ellos, afilo que en el dentro del Elokenu se les olvida el Hashem, me explico, pero ellos ya que écheme esa Hashem Elokenu, entonces mi email lo invitaba, lo roba mal Luis Israel, a ellos, fíjense aquí como esto es mamá, la cuadra Rabbenu Najman Mendoza, que uno alguien le trató de hacer un kishuf, dijo, no te voy a ayudar porque todo el volante del kishuf agarra. Nada más en el mundo de Elokim."
+"startMs": 2626845,
+"endMs": 2631985,
+"text": "Que la esencia. No que fue el esto. Entonces, la esencia, dice: \"¿Tú quieres que te enseñe la esencia?\" Brojes."
 },
 {
-"startMs": 3577000,
-"endMs": 3628000,
-"speaker": "Speaker 1",
-"text": "Ahora todos el que están en el olvido, entonces Lefajov les agarra, el Kishuf les puede agarrar en su Nekuda, en el temporal del olvido. Sí, pero él dice no, Einon Milvado Ikti es lo que le dijo a Rojo, no te va a servir porque Einon Milvado Ikti dice la llamará Rabbenu Najman Nafiz Jute, él porque no tenía hashash, porque el mamá vivía, El ashemelo kabimo, troatmelekbo, que es troatmelokbo, shofar, tenemos el kol, tenemos el shofar, tenemos el lo que está arriba del Dibur, sí, entonces te dice el nigun, tenemos así, el respuestas del nigun, dice ketya mela kol, Israel, el mapa al que él en am que la viyakum karit nasá, el oixcabe de hojalteref, dice Bedau khalimichte,"
+"startMs": 2635405,
+"endMs": 2637005,
+"text": "Entonces, hay una Gemara, no me acuerdo dónde,"
 },
 {
-"startMs": 3628000,
-"endMs": 3653000,
-"speaker": "Speaker 1",
-"text": "Sí, Es el primer día del año, por eso dijimos el shofar es. Es no, no, es el principio del año, es el principio y y mi mail el final también. Sí? Es el principio del final a la vez. Es la que cuando dijiste al final va a haber otra. Y una razón, Israel,"
+"startMs": 2638905,
+"endMs": 2647321,
+"text": "que dice, vale la pena estudiarla Eh, porque mucho con lo que tú, Kishardo, ahorita crea Shemá con eso, con el-- la anécdota esta del..."
 },
 {
-"startMs": 3653000,
-"endMs": 3678000,
-"speaker": "Speaker 4",
-"text": "Al final."
+"startMs": 2648241,
+"endMs": 2655201,
+"text": "Dice que habría que decir todos los días: \"Crea Shemá y Parashat Balak\". ¿Sí?"
 },
 {
-"startMs": 3678000,
-"endMs": 3686193,
-"speaker": "Speaker 2",
-"text": "Vamos."
+"startMs": 2655341,
+"endMs": 2663061,
+"text": "Deberías decir todos los días para crear Shemá- Una de las , una de las es una mitzvá. Recordá de decir Balak."
+},
+{
+"startMs": 2663161,
+"endMs": 2672701,
+"text": "Es más que Asá Bil'am Balak, eh, la Sote- Laftana. Sí. Dejorna. Dejorna, te siger-- eh, Yad-- eh, Balak."
+},
+{
+"startMs": 2673521,
+"endMs": 2684041,
+"text": "Ben Sipor, que trajo Bil'am, no sé qué. Sí, pero hay, hay, hay una Gemará que dice que hay ni-- que, que-- be-- Mi Caradin deberíamos de haber leído..."
+},
+{
+"startMs": 2685161,
+"endMs": 2691421,
+"text": "Está buena para verla. Todos los días crea, crea Shemá y Parashat Balak, y por Torax Tiburno."
+},
+{
+"startMs": 2691881,
+"endMs": 2698461,
+"text": "Hay que, hay que leerlo adentro. ¿Dónde está? Yo la vi. Sí, no me acuerdo, no me acuerdo. Ahorita nos las busca Gabriel."
+},
+{
+"startMs": 2700161,
+"endMs": 2703361,
+"text": "Ahora, acá hay algo muy menen. Acá en Parashat Balak..."
+},
+{
+"startMs": 2704681,
+"endMs": 2705441,
+"text": "Fíjense esto"
+},
+{
+"startMs": 2708221,
+"endMs": 2710741,
+"text": ". Fíjense este, este lashón. ¿A qué les suena?"
+},
+{
+"startMs": 2717281,
+"endMs": 2717721,
+"text": "Dicen..."
+},
+{
+"startMs": 2720041,
+"endMs": 2721241,
+"text": "Creo que es Berajot, estoy seguro"
+},
+{
+"startMs": 2726801,
+"endMs": 2730201,
+"text": ". Berajot. ¿Sí? Sí. ¿Daf?"
+},
+{
+"startMs": 2731981,
+"endMs": 2737401,
+"text": "Parashat Balak en Kriat Shemá. Está aquí a la anda, ¿no? ¿Yud Guimel? ¿qué? ¿Yud Guimel? No, me--"
+},
+{
+"startMs": 2738841,
+"endMs": 2740861,
+"text": ". ¿No? Yud Bet, Yud Guimel."
+},
+{
+"startMs": 2742181,
+"endMs": 2743681,
+"text": "Yud Bet . Yud Bet."
+},
+{
+"startMs": 2745921,
+"endMs": 2746121,
+"text": "Sí."
+},
+{
+"startMs": 2747841,
+"endMs": 2749441,
+"text": "Ah, estamos a un paso. Sí."
+},
+{
+"startMs": 2750981,
+"endMs": 2758741,
+"text": "Sí, por eso no, no, no es Bemikre Canere. Ni Canere vamos a seguir en la misma subida. ¿Ah, sí? Estaban deprimiéndose ."
+},
+{
+"startMs": 2758761,
+"endMs": 2769021,
+"text": "Y está bueno el pasuk, ¿eh? El pasuk es el- ¡Oh! A mí sí me había llegado . Eso. En Am Kelevi Iakúm, uquearit nasal, o ishkabad iokal tevedam halim mishte."
+},
+{
+"startMs": 2770961,
+"endMs": 2777221,
+"text": "Es el pasuk que usó Bibi y esto. Sí. Ah, Am Kelevi. Am Kelevi. Estaba escribiendo el cóctel. Sí."
+},
+{
+"startMs": 2777821,
+"endMs": 2785901,
+"text": "Entonces, aquí dice Rashi, fíjense: \"Iakúm\", ¿qué es? ¿Qué es Iakúm? Ubkumeja. ¿Y qué es Ishkav besojbeja?"
+},
+{
+"startMs": 2786501,
+"endMs": 2794741,
+"text": "Ahora, Rashi aquí lo explica: \"Kshehen omdim mishnatam shajrit, hen mitgavrin kelavi uke'arij lachtov et hamitzvot, lilboş talit y ligroet Shemá, ulaniaj tefilin."
+},
+{
+"startMs": 2795001,
+"endMs": 2802141,
+"text": "Lo ishkav balaila al mitato ad shehu ojél umehavel kol mazik shebá leitol vokeitzad, koreit Shemá al mitato, mufkid ruchó ve'iya lemakom\"."
+},
+{
+"startMs": 2802161,
+"endMs": 2808601,
+"text": "¿Sí? \"Bamahané vegais lazikam, hakadosh baruj hu shomrá veniljam miljamotam umapil jalalim."
+},
+{
+"startMs": 2808901,
+"endMs": 2823601,
+"text": "Devar ajén, en Am Kelevi Iakúm, ketargumó\". Entonces, ¿qué está diciendo acá? Está diciendo, ¿por qué las Brajot-- por qué Bil'am a fuerzas ve la Nekudamas Primith, de Am Israel, y de repente dice: \"Lo invité al rey Israel\"?"
+},
+{
+"startMs": 2824181,
+"endMs": 2834001,
+"text": "Porque son el Am que dice: \"Crea Shemá, ve-- babokru ba'éret\". Entonces, Mamás, cuando trajiste ese mekor, suena-- mamá suena las Brajot de Bil'am."
+},
+{
+"startMs": 2834181,
+"endMs": 2843461,
+"text": "Dice: \"El que-- Mamás ve el Primihut\", dice: \"Están Rejukí, Mamás\". Es lo que ve Bil'am, que él buscó ver el Primihut, bana Sheva Mizbejot, tocó el ocho, que es el col."
+},
+{
+"startMs": 2843481,
+"endMs": 2849761,
+"text": "¿Sí? Bil'am sí quiere ir al ocho. Ah, ¿te quieres ir al ocho? Shmoné Neshamá. Ah, Neshamá."
+},
+{
+"startMs": 2850101,
+"endMs": 2856721,
+"text": "Tome-- Es, es el punto de la Neshamá, donde cada cosa del gufo es una expresión, vehem de la Neshamá."
+},
+{
+"startMs": 2857441,
+"endMs": 2867561,
+"text": "Entonces, Ulaia a veces se los olvida, pero en la esencia vehem la Neshamá. Entonces- Nada más cuadra también cañón, que todo el Balatanya dice: \"¿Cuándo quieres ataquen Keri?\" Vimos Kir, Keri."
+},
+{
+"startMs": 2867921,
+"endMs": 2878741,
+"text": "Es en Criá Shemá la mitad. Es en Criá Shemá la mitad. La meta es que, que de meta najno mejovarim al principio, ¿oíste? Sí. Y por eso mejavlim todos los Masikim, porque todos los Masikim son-- nada más entran en la parte del medio del sándwich."
+},
+{
+"startMs": 2878741,
+"endMs": 2886221,
+"text": "¿Me explico? Entonces, vehem no tiene Koja, no tienen Koja en el principio ni en el fin. En kodem habría, velajar habría."
+},
+{
+"startMs": 2886761,
+"endMs": 2893681,
+"text": "Ahí, ahí, ah, ve-- ¿Cómo, cómo Rab Nahún dice en Torá Nun Alef? Abal kodem habría, haya kuló ejad ve kuló tov."
+},
+{
+"startMs": 2893941,
+"endMs": 2901461,
+"text": "Velajar habría, y ha kol ejad, ve kol tov. Entonces, ve hem tsabría, hay shnai. Entonces- Hay un Guimel ."
+},
+{
+"startMs": 2901601,
+"endMs": 2911201,
+"text": "Ajá. Y ahí hay Rai, y ahí esto, y el otro. Sí. Pero ¿qué es ejad? Shema Israel, Elohenu, Hashem echad. Entonces, Shemá de la mañana es, es conectarte con..."
+},
+{
+"startMs": 2912401,
+"endMs": 2919601,
+"text": "Hashem, Elohenu, Hashem. Hashem, Elohenu, Hashem. Claro, ejad. ejad, que me jabe de tacón. Es como el Sim Shalom laie. Eh, sí."
+},
+{
+"startMs": 2919601,
+"endMs": 2930161,
+"text": "Sí, sí, sí, mamá. Es que el Sim Shalom es que negue, es, es- Sim Shalom es el ejad. El Sim Shalom es que negue las primeras tres Brajot, que es, es el Sheva."
+},
+{
+"startMs": 2930401,
+"endMs": 2949681,
+"text": "Estás hablando de Hashem Be'atzmó, antes de nosotros. Luego hablas de nosotros y luego regresas todo, que todo lo que queremos acá, en todo este Elohenu, vehem lo queremos de jabé, a Hashem Havaya hasta el final, que es vehem Sim Shalom, y por eso acabas, y después de Sim Shalom: \"Ihu la ratzón befi bigión libi lefaneja, Hashem tzuri vegoali\"."
+},
+{
+"startMs": 2950021,
+"endMs": 2957561,
+"text": "Que acá es con Geula, y antes de Hashem shfatay tiftaj, empezaste con Geula, Gal Israel. Entonces, es el, es el malaj."
+},
+{
+"startMs": 2957901,
+"endMs": 2967681,
+"text": "Entonces, jasidim harishonim, muy amok. Ay, uh. Entonces, el, el olam del dibur, el olam del dibur es el olam de Shem Elohim, es el olam donde hay diburim tovím, diburim raím."
+},
+{
+"startMs": 2968321,
+"endMs": 2978241,
+"text": "Pero vehem hay un olam más gabá, que es el Primihut. ¿Sí? Es el Nigun, el olam del Nigun es el olam del Kriat Shemá, es el olam de, de, arriba del este, del shofar, exactamente."
+},
+{
+"startMs": 2978801,
+"endMs": 2995841,
+"text": "No hay letras. Donde no hay letras. Entonces, entonces, en ese, en, en ese olam, vehem es macol tov. Entonces, vehem aquí hay una madrega más, más gabá, que son los jasidim harishonim, que tenían que antes de la tefilá conectarse mamásh, shoaim sha'ahat a un olam lema lamehadibur."
+},
+{
+"startMs": 2996301,
+"endMs": 2997961,
+"text": "Porque cuando dices la Geula,"
+},
+{
+"startMs": 2999201,
+"endMs": 3016165,
+"text": "es la Geula bibijinat hadibur, porque al final lo dices con dibur. Entonces, vehem ahí es donde estaban shoaim sha'ahat kodem la tefilá, velajar la tefilá Entonces, cuando es-- entonces, mi mail es, es el-- Y entonces por eso su Torá mitvareje, dice, y no se les olvida."
+},
+{
+"startMs": 3016225,
+"endMs": 3019805,
+"text": "¿Por qué? Porque acaba que ellos están Está en el jal."
+},
+{
+"startMs": 3064345,
+"endMs": 3071785,
+"text": "Sí. No se sienten a sí mismos, solo sienten a que es Baruj Sí. Entonces, mi mail ellos, su Torá mitvarejet. ¿Qué es mitvarejet? Mitvarejet, pues sus lavares como Rab Hanina ben Dosa."
+},
+{
+"startMs": 3072605,
+"endMs": 3081105,
+"text": "Él comía un gramo de... Carav, carav jarubin. Carav, carav jarubin en Erev Shabat. Y ya, le alcanzaba para toda la semana."
+},
+{
+"startMs": 3081105,
+"endMs": 3093525,
+"text": "¿Cuál es el omek? Que no comía jarubin. Es otra vez, es una nekudá del ensof. Es decir, él veía que en el jarub, munaj, vede, es como dijimos, que el haba de Hashem, el amor-- Tapúa."
+},
+{
+"startMs": 3093725,
+"endMs": 3101905,
+"text": "Que alcanza para todo. Entonces, mi mail, él con eso se llenaba. Y por eso todo el mundo nizón del shvil de Rab Hanina ben Dosa."
+},
+{
+"startMs": 3102585,
+"endMs": 3109585,
+"text": "Hudailo. BeKarav Jarub, Erev Shabat, Erev Shabat. Entonces, él que estaba en betem en ese mundo de Karav Jarub, entonces todo el mundo nizón."
+},
+{
+"startMs": 3110105,
+"endMs": 3116805,
+"text": "Todo el mundo nizón por él, porque él está mejubar, él está mejubar ahí a esa, a esa, a esa nekudá."
+},
+{
+"startMs": 3116985,
+"endMs": 3123725,
+"text": "La Torá de Kol Hashpal-- al tzadik y todo eso, es por, por esa línea. Está mejubarim a esa nekudá. Exactamente."
+},
+{
+"startMs": 3123745,
+"endMs": 3133445,
+"text": "Que todo el mundo nizón en inglés. Entonces, mi mail, eso es lo que hace que todo se convierta de gashmi, de, a, a, ruhani, a aba, así, a ejad."
+},
+{
+"startMs": 3133465,
+"endMs": 3139985,
+"text": "A hijut. Sí. Todo el mundo nizón, él es Bishvil Janina. Está en el, ensof. Exactamente."
+},
+{
+"startMs": 3140024,
+"endMs": 3146245,
+"text": "Entonces, mi mail, él, él, él que es de betem así, entonces no necesita más que un kav jarubin. ¿Me explico?"
+},
+{
+"startMs": 3146785,
+"endMs": 3147885,
+"text": "Él necesita un kav jarubin."
+},
+{
+"startMs": 3149385,
+"endMs": 3156105,
+"text": "Si necesitaría más de, más de un kav jarubin, quiere decir que el nizón no del... Si necesitaría una manzana."
+},
+{
+"startMs": 3157385,
+"endMs": 3163865,
+"text": "Si, si, si Rab Hanina ben Dosa necesitaría una manzana, entonces, entonces a él le daría hambre. ¿Me explico?"
+},
+{
+"startMs": 3164545,
+"endMs": 3173745,
+"text": "Le daría hambre. O sea, ¿en lugar de jarub, dices? ¿Mmm? Además de jarub. No además, en vez. Jarub es lo más, es, es-- Lo mínimo."
+},
+{
+"startMs": 3174105,
+"endMs": 3180345,
+"text": "Lo más mínimo que es cálculo, nada más un portador de un hijut, pero en sí no tiene nada."
+},
+{
+"startMs": 3180585,
+"endMs": 3187865,
+"text": "Ni un sabor, ni un... No tiene nada, es jarub. Jarub es en guimatria gevura. Es gevurá la nekudá que estamos diciendo. O sea, no tiene sabor, no tiene mucho sabor."
+},
+{
+"startMs": 3188225,
+"endMs": 3194465,
+"text": "No tiene nun. ¿Eh? Jarub. Jarubín, ah. Jarubín. Empieza con jet, acaba con nun."
+},
+{
+"startMs": 3195725,
+"endMs": 3202885,
+"text": "Pero Jarub es, es, es en guimatria gevura. Sí, y él es Jarub ejad, no Jarubín. Sí, entonces... Comía uno, con dos ya no."
+},
+{
+"startMs": 3202945,
+"endMs": 3213585,
+"text": "No, dailo be-- kav jarubin, dice. Ah. Normal es de jarub. Sí, jarubín. ¿Dónde lo inventé? Entonces, shuv, él es el que, el que no ve la briá, él ve el Se"
+},
+{
+"startMs": 3282885,
+"endMs": 3332005,
+"text": "llenaba"
+},
+{
+"startMs": 3335765,
+"endMs": 3342605,
+"text": "de amor. O sea, es tan un romántico. Se llenaba de amor. Sí, dime. No necesitaba hijil. Y todo lo-- No necesitaba nada más."
+},
+{
+"startMs": 3343165,
+"endMs": 3349465,
+"text": "No, porque-- En otra Torá que dijo, dijo: «Los puedo dejar sin comida» Porque todo lo que hay en el olam, ¿por qué todo el olam nizón por Rab Hanina ben Dosa?"
+},
+{
+"startMs": 3349945,
+"endMs": 3357485,
+"text": "Porque veme todo lo que hay en el olam, en su nekudat hatamtzit, es la aba que Hashem nos está dando. Hashem no manda manzanas."
+},
+{
+"startMs": 3358545,
+"endMs": 3366885,
+"text": "Manda abrazos. Porque hay que hacer algo con él, con que él es tan, él es tan la aba kulot, así, le gamri. No, entonces, mi mail, munaj en su comida, no comida nada más para él."
+},
+{
+"startMs": 3366945,
+"endMs": 3379985,
+"text": "Si a él le alcanza para toda la semana, quiere decir que le alcanza a todo el mundo en eso. Él es el que, el que, el que agarra, el que agarra betem el punto del jibur, del, del, del, de la, de arriba del gul al gul."
+},
+{
+"startMs": 3382985,
+"endMs": 3386585,
+"text": "Agarra el, lo que es de arriba del gul, lo pasa al gul."
+},
+{
+"startMs": 3389145,
+"endMs": 3400305,
+"text": "El blig gul-- Pero espérate, eso es él, el olam como nizón. Otra vez, si con él le alcanza, no, no shallaj que alcance jarubín para alimentarte una semana, ¿najón?"
+},
+{
+"startMs": 3400985,
+"endMs": 3407565,
+"text": "Entonces, ¿quiere decir que, que cabe en ese jarub nada más lo de toda la semana o ulai ya alcanza con la olam?"
+},
+{
+"startMs": 3407685,
+"endMs": 3415845,
+"text": "Cabe con la olam. Cabe con la olam. En el jarub. Claro. Entonces, mi mail le quiere decir que con la olam betem, el abrazo de Hashem se lo da a Rab Hanina."
+},
+{
+"startMs": 3415965,
+"endMs": 3423915,
+"text": "Mi mail al de Rab Hanina se lo da a todo el mundo. Entonces, cada uno, a uno le llegó manzanas, al otro le llegó pan. A los le llegó esto, al otro le llegó jitomates. Cada uno le llegó otra cosa, ¿me explico?"
+},
+{
+"startMs": 3424095,
+"endMs": 3435555,
+"text": "Por medio de él Entonces, por medio de él, que él, vehechem, es el que te ofende, la nekudá, de lo que habla-- lo que dijo Gabriel, lo que es lo que hace que, que si no, vehechem, Kilo, estás agarrando la nekudá del Jitoniyut."
+},
+{
+"startMs": 3435975,
+"endMs": 3445274,
+"text": "Pues yo como, como él, entonces, afilo que mi comida sí es comida y la de él es jarub, ¿sí? Pero yo tengo que entender que en mi comida, vehechem, e-es el jarub de él."
+},
+{
+"startMs": 3445774,
+"endMs": 3447995,
+"text": "Ese es el man, Kilo, es el man."
+},
+{
+"startMs": 3449254,
+"endMs": 3458495,
+"text": "Es lo que dijimos arriba, que en Lo Raakeri, en Lo Ra-- es Zuvi Keri, vehechem, es el que, el que agarra todas las cosas en ese shoresh más gavoha matá."
+},
+{
+"startMs": 3462335,
+"endMs": 3468515,
+"text": "Increíble. De bekut. ¿Qué estamos viendo? Entonces, aunque la vi, ¿cómo le llamo? Ah, es la Gemara aquí que habla que..."
+},
+{
+"startMs": 3468615,
+"endMs": 3474815,
+"text": "¿Es de la Gemara de Beto? No, vamos a llegar, ya mero vamos a llegar. ¿Qué más será?"
+},
+{
+"startMs": 3476395,
+"endMs": 3476674,
+"text": "Okey."
+},
+{
+"startMs": 3479435,
+"endMs": 3481674,
+"text": "A ver, ubica la, la hoja donde estás."
+},
+{
+"startMs": 3483274,
+"endMs": 3483955,
+"text": "Eh..."
+},
+{
+"startMs": 3485794,
+"endMs": 3488575,
+"text": "Un momentaco, no, para acá."
+},
+{
+"startMs": 3490214,
+"endMs": 3511835,
+"text": "Pero ese es el punto en Parashat Bil'am y el Kesher con Kriat Shemá, mamásh, pele ploin. Porque si-- otra vez, si el que dice Kriat Shemá babó kerub ha'erev, ma'aleh al ha'bakabtu kilu kerá Kriat Shemá col hayom, entonces quiere decir, eh, kilu olamá Torá col hayom, quiere decir que vehechem él tocó la nekudá tatamtsit, afilu que en el día se le olvidó de que está estudiando Torá."
+},
+{
+"startMs": 3512015,
+"endMs": 3520315,
+"text": "Pero él puso que en el tapsit es Torá. O sea, ese es su Resh Pe Bet, ¿me explico? Esa es su nekudá primit, mautit, que ahí es el..."
+},
+{
+"startMs": 3533254,
+"endMs": 3539435,
+"text": "Entonces, mamásh acá dice: Lo hibi taven be Yaacov y lo raá mal be Israel. Hashem Elokav imó utroat melej bó."
+},
+{
+"startMs": 3539694,
+"endMs": 3549935,
+"text": "¿Qué es Hashem Elokav? Como Hashem Elokenu. Es decir, Hashem siempre está con él. Y ya que hay Hashem Elokenu, mi méile ellos, afilu que en el dentro del Elokenu se les olvida el Hashem, ¿me explico?"
+},
+{
+"startMs": 3551015,
+"endMs": 3560694,
+"text": "Pero ellos, ya que vehechem es Hashem Elokenu, entonces mi méile Lo hibi taven be Yaacov y lo raá mal be Israel. Kel motziam im Israel que tavajó trem lo, ki lo najas be Yaacov y lo quesen be Israel."
+},
+{
+"startMs": 3561254,
+"endMs": 3568634,
+"text": "A ellos, fíjense aquí como esto es mamásh la nekudá Rav Janina Mendoza, que uno, un, un-- alguien le trató de hacer un kishuf."
+},
+{
+"startMs": 3569174,
+"endMs": 3576095,
+"text": "Dijo: «Azov, lo istaya miltá», no te va a ayudar, porque todo el olam del kishuf agarra nada más en el mundo de Elokim."
+},
+{
+"startMs": 3577375,
+"endMs": 3587915,
+"text": "Ora, todos el que están en el olvido, entonces, Lefajot les agarra, el kishuf les puede agarrar en su nekudá, en el, eh, eh, temporal del olvido, ¿sí?"
+},
+{
+"startMs": 3588295,
+"endMs": 3594634,
+"text": "Pero él dice: «No, en od milvado ictiv», es lo que le dijo Rav-- «Azvi, no te va a servir»."
+},
+{
+"startMs": 3594634,
+"endMs": 3606475,
+"text": "¿Por qué? En od milvado ictiv, dice la Gemará: Rav Janina na fisjute. ¿Él por qué no tenía jashás? Porque él mamásh vivía el Hashem Elokav imó, utroat melej bó."
+},
+{
+"startMs": 3606535,
+"endMs": 3608694,
+"text": "¿Qué es troat melej bó? Shofar."
+},
+{
+"startMs": 3610055,
+"endMs": 3618154,
+"text": "Tenemos el col, tenemos el shofar, berro shoshaná, tenemos el, el lo que está arriba del dibur, ¿sí? Entonces te dice-- el nigun tenemos, ¿sí?"
+},
+{
+"startMs": 3618174,
+"endMs": 3626234,
+"text": "El Resh Pe Bet hace el nigun. Dice: Kaet yamele a col Israel mapa al quel en am que la vi Yaacov mujerit nasá, el o ishkab de ojalteref."
+},
+{
+"startMs": 3626875,
+"endMs": 3637055,
+"text": "Dice: Vedam jalim ishvé. Parece el primero del año. Sí, es el primer día del año. Por eso dijimos, el shofar es-- es kiah, truá, shvarim, kiah."
+},
+{
+"startMs": 3637455,
+"endMs": 3637555,
+"text": "Es--"
+},
+{
+"startMs": 3639015,
+"endMs": 3645754,
+"text": "no, no es el principio del año, es el principio y, y mi méile el final también, ¿sí? Es el principio y el final a la vez."
+},
+{
+"startMs": 3646475,
+"endMs": 3653915,
+"text": "Es la tkiah que, que, que cuando dijiste tkiah, al final va a haber otra tkiah. Y ulá razón, matim el gal Israel vegoali al final."
+},
+{
+"startMs": 3660254,
+"endMs": 3663214,
+"text": "Pele peleot. ¿Sí? Mamásh."
+},
+{
+"startMs": 3672654,
+"endMs": 3673754,
+"text": "¿Probamos? ¿Me doy ya?"
+},
+{
+"startMs": 3678754,
+"endMs": 3682955,
+"text": "Mamásh. Mishné. Mishná. Be'ezrat Hashem."
 }
 ]
 }

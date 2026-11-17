@@ -1,420 +1,631 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 3000,
-"endMs": 52000,
-"speaker": "Speaker 1",
-"text": "En la noche hay que decir en la mañana hay que decirlo parado. Dice, Beshá, a, estaba en el camino y se acostó, se frenó a la mitad del camino, a decir acostado como Vechamai."
+"startMs": 1320,
+"endMs": 2040,
+"text": "Aquí estoy."
 },
 {
-"startMs": 52000,
-"endMs": 75000,
-"speaker": "Speaker 1",
-"text": "Él podía decir como Vetile, entonces dice, Besi Kanti Beatzmin Be Prey Alistim. Y me metí en Sakaná por Listín. Entonces dice ahí está Jaya mitad porque no hiciste como Betile,"
+"startMs": 3460,
+"endMs": 4160,
+"text": "Bet Shammai omrim:"
 },
 {
-"startMs": 75000,
-"endMs": 77000,
-"speaker": "Speaker 2",
-"text": "Aunque Beto no pasó nada,"
+"startMs": 5920,
+"endMs": 12680,
+"text": "ba'erev kol adam yate ve-ykra. En la noche que decir acostado ממש. Ube-boker ya'amod."
 },
 {
-"startMs": 77000,
-"endMs": 81000,
-"speaker": "Speaker 1",
-"text": "Pero queda ahí está, no le pasó nada, pero queda ahí ahí está,"
+"startMs": 13240,
+"endMs": 22520,
+"text": "En la mañana y que decirlo parado. Shene'emar: beshokhveja ubkumeja. Ube-Hillel omrim: kol adam kore kedarkó."
 },
 {
-"startMs": 81000,
-"endMs": 85000,
-"speaker": "Speaker 3",
-"text": "Ya ni se ahorita la carroza se frenó y es peligroso, tenía que seguir,"
+"startMs": 23320,
+"endMs": 29500,
+"text": "Shene'emar: uvlechteja baderej. Im ken, lama ne'emar beshokhveja ubkumeja? Beshá'a."
 },
 {
-"startMs": 85000,
-"endMs": 108000,
-"speaker": "Speaker 1",
-"text": "Entonces aquí está Amok. Que por un lado dijo Crea Chemai, Crea Chema protege de los Mazikin y de los Listín y de todo, pero acá quiere decir que en el momento que hizo como Bechamai, Bin Comsche y es lazot que vicilen, entonces quiere decir que se metió a Sakaná, quiere decir que como que se desconectó, vamos a llamarle del Mahut de Crea Chema en cierto aspecto,"
+"startMs": 30060,
+"endMs": 44020,
+"text": "Bize-- beshá'a shebnei adam shochvim ubeshá'a shebnei adam omdim. Amar Rabbi Tarfon: ani hayiti ba-- baderej ve'etetí likrot kedibrei Bet Shammai."
 },
 {
-"startMs": 108000,
-"endMs": 117000,
-"speaker": "Speaker 2",
-"text": "Hay que entender por qué, pero con todo y todo no le pasó nada."
+"startMs": 44640,
+"endMs": 51460,
+"text": "Entonces, estaba en el camino y se acostó, se frenó a la mitad del camino a decir acostado como Bet Shammai."
 },
 {
-"startMs": 117000,
-"endMs": 148000,
-"speaker": "Speaker 1",
-"text": "Jayab, Jayamita, dice: Altzido, ya te altzido, besojoja, derej, quedarko, dice: Obekima, obeshquiva, obeyeshiva, omehalek. Sí, Ahora que hay algo muy menen, Vetile luce la palabra, koladam kore, quedarko, que es quedarko, sí, y lo aprende de ahí. Y Robtarfon, cuándo fue?"
+"startMs": 52160,
+"endMs": 61240,
+"text": "Él podía decir como Bet Hillel. Entonces, dice: ve-sikanti be'atzmi mipne ha'listim. Y me metí en sakana por listim."
 },
 {
-"startMs": 148000,
-"endMs": 169000,
-"speaker": "Speaker 1",
-"text": "Sí, que le pasó a ese Zibur, dice. Entonces piensen, piensen que interesante. Nosotros dijimos, ¿qué es? Qué es, en qué momento del día? Es el momento de Kreachoemaus, el momento de Tfila, es."
+"startMs": 62120,
+"endMs": 74800,
+"text": "Amru lo, kedai hayita lajov be'atzmeja, shavarta dibrei Bet Hillel. Entonces, dice: hayita jayá mittah be'etem, porque no hiciste como Bet Hillel."
 },
 {
-"startMs": 169000,
-"endMs": 172000,
-"speaker": "Speaker 3",
-"text": "El del medio,"
+"startMs": 75240,
+"endMs": 81280,
+"text": "Aunque de momento no le pasó nada. Pero kedai hayita. No, no le pasó nada, pero kedai hayita."
 },
 {
-"startMs": 172000,
-"endMs": 176000,
-"speaker": "Speaker 1",
-"text": "Es el del medio. Entonces, ahí cuando él estaba Derek en cierto aspecto, no,"
+"startMs": 81960,
+"endMs": 88080,
+"text": "Ya, ni seguro está la carroza, se frenó y es peligroso. Tenía que haber seguido. Entonces, entonces aquí está amuk, ki ve'jal."
 },
 {
-"startMs": 176000,
-"endMs": 180000,
-"speaker": "Speaker 2",
-"text": "Él está en el."
+"startMs": 88120,
+"endMs": 99820,
+"text": "Que por un lado dijo Kria Shammai, que Shammai proteja de los mazikin y de los listim y de todo. Y luego cómo- Pero acá quiere decir que en el momento que hizo como Bet Shammai, bincom šeies la'asot kebe-Hillel, u..."
 },
 {
-"startMs": 180000,
-"endMs": 186000,
-"speaker": "Speaker 1",
-"text": "Tiempo, está excelente, está en."
+"startMs": 100800,
+"endMs": 108480,
+"text": "Entonces, quiere decir que se metió a sakana. Quiere decir que como que se desconectó, vamos a llamarle, del majut de Kria Shemmai en cierto aspecto."
 },
 {
-"startMs": 186000,
-"endMs": 188000,
-"speaker": "Speaker 2",
-"text": "El tiempo,"
+"startMs": 108700,
+"endMs": 116620,
+"text": "Hay que entender por qué. Hay que entender por qué, ¿eh? Pero con todo y todo, no le pasó nada. ¿Qué es la lan lajov be'atzmeja?"
 },
 {
-"startMs": 188000,
-"endMs": 203000,
-"speaker": "Speaker 1",
-"text": "Sí, no, pero acá no, pero no, este no es el problema, ese no es el problema. El problema es que le fide el kreache made hilel es el que mete en el sojehau kumeha que mete."
+"startMs": 116840,
+"endMs": 119520,
+"text": "Lajov. ¿Qué es lajov? Jayav, jayá mittah."
 },
 {
-"startMs": 203000,
-"endMs": 216000,
-"speaker": "Speaker 1",
-"text": "El Derek sí o no? Ilel, quién está más en medio y quién está más en las esquinas? Quién o quién? Shamai son."
+"startMs": 120980,
+"endMs": 127240,
+"text": "Dice al sidó, yate al sidó. Beshokhveja derej shjiva, ya'amod ikti bevkumeja kedarkó."
 },
 {
-"startMs": 216000,
-"endMs": 218000,
-"speaker": "Speaker 2",
-"text": "Las esquinas."
+"startMs": 127860,
+"endMs": 135700,
+"text": "Dice: o bekimá o beshjiva o beyeshiva o meháleh. Como quién. Como estés nada más la hora. Sí. Ahora, ahora acá hay algo muy menen."
 },
 {
-"startMs": 218000,
-"endMs": 256000,
-"speaker": "Speaker 1",
-"text": "Shamai agarra las esquinas, agarra kolculo a las esquinas. Exactamente, Ilel del sándwich, Ilel agarra, dice, no necesitas más. Ahora, ¿por qué? Porque yo aprendo de Belejtejava Deneg que en el Soguejau Kumeja puedes Behmet decir cómo estés. Entonces quiere decir que Beth en el Creache Made Hilen es un Creache Ma más de un gibur hacia el día."
+"startMs": 136080,
+"endMs": 144660,
+"text": "Bet Hillel usa la palabra kol adam koré kedarkó. ¿Qué es kedarkó? Baderej. ¿Sí? Y lo aprende de ahí, de uvlechteja baderej."
 },
 {
-"startMs": 256000,
-"endMs": 259000,
-"speaker": "Speaker 1",
-"text": "Me explico más hacia más hacia lat fila."
+"startMs": 145640,
+"endMs": 153560,
+"text": "Y Rab Tarfon, ¿cuándo fue? ¿Sí? Que le pasó ese tsibur. Dice amar Rab Tarfon: ani hayiti ba-baderej."
 },
 {
-"startMs": 259000,
-"endMs": 263000,
-"speaker": "Speaker 3",
-"text": "Rapiel en el día puedes conectar con, o sea, al nivel de la mañana."
+"startMs": 154500,
+"endMs": 161440,
+"text": "Abal ité. Entonces, entonces piensen, piensen qué interesante. Nosotros dijimos, ¿qué es levteja baderej?"
 },
 {
-"startMs": 263000,
-"endMs": 292000,
-"speaker": "Speaker 1",
-"text": "Sí, ahora en la misión, como dijeron muy bien, la misionera pasada, Rabiel y Esder es más estilo de Chamai y Rabi Yushua es más estilo hile y me metes así. Rabiel Esder está en mi de Chamai y Rabi Yushua está en mi de Hile. Sí, ahora Raptarfon estaba en el Derek, ahora estando en el Derek, él necesita protegerse por medio de quién. De hile porque hile es el que me deja verlo,"
+"startMs": 162060,
+"endMs": 169440,
+"text": "En el camino caminando. ¿Qué es? ¿En qué momento del día? ¿Es el momento de Kria Shema o es el momento de tefilá? ¿El baderej?"
 },
 {
-"startMs": 292000,
-"endMs": 293000,
-"speaker": "Speaker 2",
-"text": "Al final."
+"startMs": 169740,
+"endMs": 176440,
+"text": "Sí. Dijimos que era lo del medio. Es el del medio. Es el del medio. Entonces, ahí cuando él está baderej, en cierto aspecto..."
 },
 {
-"startMs": 293000,
-"endMs": 295000,
-"speaker": "Speaker 1",
-"text": "En el Derek Bechem,"
+"startMs": 176760,
+"endMs": 186420,
+"text": "Ya tendría que haber-- ya se le fue el tiempo, me gir. No, bueno, ya es de noche, estaba llegando. No, shita. No, no, no, no, no. No, él está en el tiempo, está excelente, está doscientos, ni que varayon, ¿entendí?"
 },
 {
-"startMs": 295000,
-"endMs": 305000,
-"speaker": "Speaker 2",
-"text": "Yo pensé por la lajá, allá Raúl, allá que lo quede porque la lajá es como Visile, es que pero no me estás haciendo con el estado de Betile que."
+"startMs": 186440,
+"endMs": 192700,
+"text": "En el tiempo, en el rayón no está en el tiempo. Sí, sí, no, pero, pero acá-- no, pero no, este no es el problema. Ese no es el problema."
 },
 {
-"startMs": 305000,
-"endMs": 339000,
-"speaker": "Speaker 1",
-"text": "Es que Kanire, la lajá es como Visile porque estamos en el Derek, porque la tit lavó cuando acabe el Derek, la lajá va a ser como Bechamai y entonces ahorita que estamos. No en el Olam de Bechamai, que es en el sándwich. Entonces estamos en el Derek. Entonces, si tú no dices el Kreache Madehile, entonces te está faltando el Kreache Ma del Derek. Entonces, si te falta el Kreache Ma del Derek, entonces en el Derek hay mucha sakanot. Shamai te puede permitir decir su Kreache Ma porque él no está en el Derek, en el Derek no hay sakanot."
+"startMs": 192920,
+"endMs": 201760,
+"text": "El problema es que lefi de... El Kria Shema de Hillel es el que mete en el shokhveja uvkumeja, ¿qué mete?"
 },
 {
-"startMs": 339000,
-"endMs": 370000,
-"speaker": "Speaker 1",
-"text": "Entonces mi mail él dice, yo estoy antes del Derek acabando el Derek. Entonces, pero el que está en el lugar donde Alajá, que es Alajá, Blejtejá, sí, Kebeisilen, entonces está en el está en el Derek, en Alajá, en está en el Derek. Entonces, si te si te vas como Shamay, entonces te estás yendo a las esquinas y mi email, el Derek se entra en Sakana, pero ya que hiciste Lefajot te hiciste como Shamay, sí."
+"startMs": 204000,
+"endMs": 211060,
+"text": "El derej. Sí. ¿Sí o no? Hillel, ¿quién está más en medio y quién está más en las esquinas?"
 },
 {
-"startMs": 370000,
-"endMs": 382000,
-"speaker": "Speaker 1",
-"text": "Hiciste como se llama, y entonces no te mataron, no te mataron porque desoporte ahora estás en el ome que estás protegido, pero el necesitarías entender que no necesitas estar en."
+"startMs": 211080,
+"endMs": 217940,
+"text": "¿Quién o quién? En las esquinas Bet Shammai barur. Shammai son las esquinas. Bet Shammai matim más kilo, rab Losho."
 },
 {
-"startMs": 382000,
-"endMs": 383000,
-"speaker": "Speaker 3",
-"text": "El lugar de."
+"startMs": 218640,
+"endMs": 225600,
+"text": "Shammai agarra las esquinas, agarra kol kuló a las esquinas, exactamente. Hillel, del sándwich."
 },
 {
-"startMs": 383000,
-"endMs": 388000,
-"speaker": "Speaker 1",
-"text": "Y sí, entonces muy bomek,"
+"startMs": 226860,
+"endMs": 228680,
+"text": "Hillel agarra"
 },
 {
-"startMs": 388000,
-"endMs": 396000,
-"speaker": "Speaker 2",
-"text": "No es Robtar, no es Robtar,"
+"startMs": 230220,
+"endMs": 244620,
+"text": "y dice: «No necesitas más shokhveja uvkumeja». Ahora, ¿por qué? Porque yo aprendo de velechteja baderej que en el shokhveja uvkumeja puedes be'emet decir como estés."
 },
 {
-"startMs": 396000,
-"endMs": 405000,
-"speaker": "Speaker 1",
-"text": "Fon quién era?"
+"startMs": 245020,
+"endMs": 250020,
+"text": "Entonces, quiere decir que be'etem el Kria Shema de Hillel es un Kria Shema más de un jibur"
 },
 {
-"startMs": 405000,
-"endMs": 460000,
-"speaker": "Speaker 1",
-"text": "Por Aquí Hay algo muy. Vean acá, dice, fíjense el paralelo, Tania. Ven a la zona acá, ven ven acá la zona de raptarfon, sí."
+"startMs": 251240,
+"endMs": 251800,
+"text": "hacia"
 },
 {
-"startMs": 460000,
-"endMs": 468000,
-"speaker": "Speaker 1",
-"text": "Entonces también está en el Derek. Se desvía del Derek a una curva."
+"startMs": 253140,
+"endMs": 262780,
+"text": "el, el, el, el, el, el, el día. ¿Me explico? Más hacia, más hacia la tefilá. O sea, que la tefilá en el día puedes conectar con, con, o sea, al nivel de la mañana."
 },
 {
-"startMs": 468000,
-"endMs": 498000,
-"speaker": "Speaker 1",
-"text": "Entonces acá se desvía del Derek a un lugar donde hay listim. Sí, hay listim. Lo mismo. Ahora ve que ve que todo en lo he liado. Le dice a Marti lol, lich palé, la mamá le hai aleja lich pal el va derej. Claro. Tenías que ir para el va derej. Es mamá la tan a raptarfon. Necesitarías decir que era chema. Va derej. Con el black de Java Derek, no con el dice no, porque en el Derek hay obredrahim."
+"startMs": 262820,
+"endMs": 274200,
+"text": "Sí. Ahora, en la-- como dijeron muy bien, en la Mishna pasada, Rabbi Eliezer es más estilo Bet Shammai y Rabbi Yehoshua es más estilo Hillel y be'emet es así."
 },
 {
-"startMs": 498000,
-"endMs": 538000,
-"speaker": "Speaker 1",
-"text": "Yo prefiero estar betsem en mi en mi esquina, no separarme del mundo, no estar en el mundo y estar menu tag del mundo para decir ait fila, dice bamarle, bamarle, ay al jalit pal el tfilak tara, beotasha la mati mi menus los advarim. Sí, ahora, ¿por qué no? Mitzpalelin va Derek dice la hermana hasta abajo, entonces paralela a más no poder, sí, paralela a más no."
+"startMs": 274840,
+"endMs": 283300,
+"text": "Rabbi Eliezer es talmid de Shammai y Rabbi Yehoshua es talmid de Hillel. ¿Sí? Ahora, Rab Tarfon estaba en el derej."
 },
 {
-"startMs": 538000,
-"endMs": 574000,
-"speaker": "Speaker 1",
-"text": "Poder Esta hermana, entonces y necesitaba de haber dicho en el Derek, o sea, si ya ves eso. Si ya ves este paralelo que ves como que una historia extremadamente igual que con las palabras iguales y con los conceptos iguales y repetido, entonces quiere decir que no estábamos soñando y cuando estábamos diciendo que raptar fue un en el Dere, o sea, léela así como sea, y o sea, sin la explicación, dirías ya Stam, Stam fue que sin querer y que es Listín, no es Listín, me jallero, trabajo, badera, comicolvo y no, pero en el otro me dice, sí, es, o sea, el."
+"startMs": 283360,
+"endMs": 291740,
+"text": "Ahora, estando en el derej, ¿él necesita pro-pe-protegerse por medio de quién? De Hillel, porque Hillel es el que meja berjo."
 },
 {
-"startMs": 574000,
-"endMs": 596000,
-"speaker": "Speaker 1",
-"text": "Cuando dices Filata Derek, sí estás pidiendo por los Listim y las Jairo Drout que están en el Derek. Entonces, si el crea de el entonces la mishinata está explicando, la mishinata está explicando el homec de Beicile. Me explico, entonces hay algo muy amok, muy demasiado amok."
+"startMs": 292180,
+"endMs": 302020,
+"text": "Que afíl en el derej puede- Afíl en el derej, be'etem... Yo pensé por la halajá. Kilu, allá, allá Rab Uh, allá kilu amru lo que de-- porque la halajá es como be-Hillel."
 },
 {
-"startMs": 596000,
-"endMs": 604000,
-"speaker": "Speaker 1",
-"text": "Entonces aquí hay algo muy amok con Nabiois y Raptarfon."
+"startMs": 302080,
+"endMs": 310280,
+"text": "Es que-- Pero no me interesa la halajá, me interesa que tú estás diciendo con la ciudad de, de Bet Hillel, que en el momento- Es que kaniré, la halajá es como be-Hillel porque estamos en el derej."
 },
 {
-"startMs": 604000,
-"endMs": 632000,
-"speaker": "Speaker 1",
-"text": "A qué le suena a Joysi aquí en la Torá? Estamos Josi en Gimatria Elokim, pero a qué le suena a Joysi, a Joseph, sí, y a qué le suena Darfon, qué le pasó a Joseph, Taruf Toraf, sí, Kimat, Kimat, los Listim lo agarraron."
+"startMs": 311040,
+"endMs": 322580,
+"text": "Porque latit lavó, cuando acabe el derej, la halajá va a ser como Bet Shammai. Y entonces, ahorita que estamos no en el olam de Bet Shammai, que es en el sándwich, kodem habriá uve'ahar habriá."
 },
 {
-"startMs": 632000,
-"endMs": 634000,
-"speaker": "Speaker 2",
-"text": "Sí, También Joseph fue en el de."
+"startMs": 323040,
+"endMs": 330080,
+"text": "Entonces, estamos en el derej. Entonces, si tú no dices el Kria Shema de Hillel, entonces te está faltando el Kria Shema del derej."
 },
 {
-"startMs": 634000,
-"endMs": 663000,
-"speaker": "Speaker 1",
-"text": "También Josef fue en el de. Si Yehuda y Josef, uno es Gebula y uno es Tfilá, ¿quién es quién? Josef es Gebula. Sí. Y quién es Tfilá? Yehuda, David, es el que llore, el que cae hasta abajo. Y si se separa Josef, cae más, más. Y si tiene a Josef, entonces así. Entonces acá es así."
+"startMs": 330980,
+"endMs": 339820,
+"text": "Entonces, si te falta el Kria Shema del derej, entonces en el derej va a tomar mucho sakanot. Shammai se puede permitir decir su Kria Shema porque él no está en el derej, en el derej no hay sakanot."
 },
 {
-"startMs": 663000,
-"endMs": 703000,
-"speaker": "Speaker 1",
-"text": "Tú no puedes betzen ser, decidir ser nada más como Joseph. Tú no puedes decidir ser nada más como Joseph y decidir vivir nada más en la gula, que eso es lo que hace Rabi Isic, que en la jurba quiere decir y le dice, no hay nada que en el exactamente que en el mismo Derej, no te estanques de que teníamos Beit Hamikdash, queremos Beit Hamikdash y ven time, no hay nada. No necesitas en el Derej, una en Ajina, me ahí es la atfila de la gula, pero necesitas betzen de para llegar a una gula a otra gula."
+"startMs": 339900,
+"endMs": 348940,
+"text": "Entonces, mi mail, él dice: «Yo estoy antes del derej y acabando el derej». Entonces, entonces, pero el que está en el lugar donde halajá, ¿qué es halajá?"
 },
 {
-"startMs": 703000,
-"endMs": 732000,
-"speaker": "Speaker 1",
-"text": "Si tú no haces un Tikún en el Derej, que esa es la ciudad de Beit Silen, que toda la ciudad de Beit Silen es el Derej, Shamai dice, oye, enséñame toda la Torá kula al rey de la hat, dice en Kasadabar, hay toda la Tora o no toda la Tora y él te dice, hay Derej o K ven. Hata la roja como ha dice Alef, Beth, Gimel, Dale, de repente le enseña todo, toda la cita de Hilen es la cita de Rajmi."
+"startMs": 349340,
+"endMs": 358080,
+"text": "Vlechteja, ¿sí? Que be-Hillel. Entonces, está en el, está en el derej, en la halajá, están en el derej. Entonces, si te f-- si, si te vas como Shammai,"
 },
 {
-"startMs": 732000,
-"endMs": 739000,
-"speaker": "Speaker 1",
-"text": "Es El Shamain, sí, es Rajmi Meskilu, que hay un Tahlij de Tikún hasta llegar al Tajlit,"
+"startMs": 359300,
+"endMs": 369600,
+"text": "entonces te estás yendo a las esquinas y mi mail, el derej se entra en sakana. Pero ya que hiciste lefajot y hiciste como Shammai ¿Sí?"
 },
 {
-"startMs": 739000,
-"endMs": 742000,
-"speaker": "Speaker 3",
-"text": "Es el camino para llegar al mañana."
+"startMs": 370200,
+"endMs": 376220,
+"text": "Hiciste como Shammai, entonces no, no te mataron, no te mataron, porque de esa forma ahora estás en el ome que estás protegido."
 },
 {
-"startMs": 742000,
-"endMs": 778000,
-"speaker": "Speaker 1",
-"text": "Entonces mi mente yo acepto exactamente, Shamai es el perfecto. Es o todo o nada. Para hacer todo o nada necesita estar o al principio o al final. Entonces, y si se fue en el Malaj de Gile. Viene y le dice, se fue en el Malaj de Shaman. Sí, está Joseph. Dejó el mundo. Que es la gula. Sí, que es el que le ayuda al demasiado con David. Cada uno la agarra. Joseph es el que vive en el mundo elevado. El mundo de la. Joseph nunca cayó. Nunca cae, nada más que no caen a Vero, nunca cae su mazabrúa."
+"startMs": 377260,
+"endMs": 383460,
+"text": "Pero el, el, eh, necesitarías entender que no, necesitas estar en el lugar de- Cuando estás en el derej puede entrar a Beis Din."
 },
 {
-"startMs": 778000,
-"endMs": 803000,
-"speaker": "Speaker 1",
-"text": "Sí, exactamente, está viviendo en Nezaj constante, Josef. Entonces, entonces Betzen, Josef nunca, nunca pasó por el centro. El Betzen está en las esquinas. Entonces acá, Noptarfon, Noptarfon es Virginate está Virginada, no es nada más de este Zipur, no hay muchos, pero del Shayhut, con Tarothor of Josef."
+"startMs": 383560,
+"endMs": 389700,
+"text": "Y-- sí. Entonces, muy bien, omeq. Está raro porque Rav Tarfon, ahorita no se me vino. Sí."
 },
 {
-"startMs": 803000,
-"endMs": 817000,
-"speaker": "Speaker 1",
-"text": "Sí, yo se va al camino, es igual, no, igualito que Rabi El siempre En."
+"startMs": 389740,
+"endMs": 391640,
+"text": "Habías visto todo el project de brojes de Rav Tarfon."
 },
 {
-"startMs": 817000,
-"endMs": 828000,
-"speaker": "Speaker 1",
-"text": "La curva, en la curva y él está buscando, si no hay gula, no hay nada. No hay gula, no hay nada."
+"startMs": 393240,
+"endMs": 402380,
+"text": "O no era este Rav Tarfon. No, no es Rav Tarfon. No es Rav Tarfon. ¿Quién era? ¿Eh? Rav-- Rav Bangambliel y Rav Mishum Bangambliel."
 },
 {
-"startMs": 828000,
-"endMs": 830000,
-"speaker": "Speaker 2",
-"text": "Tiene que existir una persona que es otra."
+"startMs": 403120,
+"endMs": 411820,
+"text": "Que tenía tu, tu bientôt y era- Bangambliel. Ahora, aquí hay algo muy meanién. Vean acá, en el 100f, Hamud Alef."
 },
 {
-"startMs": 830000,
-"endMs": 834000,
-"speaker": "Speaker 1",
-"text": "Tiene, tiene que existir alguien que ve. Estamos viviendo."
+"startMs": 418820,
+"endMs": 425780,
+"text": "Dice: \"Amar Rab Yoisi\". Fíjense el paralelo. Guimel Hamud Alef. Tania."
 },
 {
-"startMs": 834000,
-"endMs": 844000,
-"speaker": "Speaker 2",
-"text": "En Galut y tenemos que saber que estamos en Galut. Hay gente que puede estar ahí. Que fuerte,"
+"startMs": 426740,
+"endMs": 429540,
+"text": "Amar Rab Yoisi: \"Pam ajat haiti mealek ba derej\"."
 },
 {
-"startMs": 844000,
-"endMs": 851000,
-"speaker": "Speaker 1",
-"text": "Que duro. Y venimos de lo mismo, o sea, la Germana de antes."
+"startMs": 430760,
+"endMs": 438980,
+"text": "Vean el lashón acá. Lejurvá. Vean, vean acá el lashón de Rav Tarfon, ¿sí? \"Amar Rabí Tarfon, ani haiti ba, ba derej\", ¿sí?"
 },
 {
-"startMs": 851000,
-"endMs": 860000,
-"speaker": "Speaker 2",
-"text": "Yo estaba luego de lo mismo. Nada más empezamos la Mishná y ya está el de este, imagínate. Yo dije ya otra vez visita nueva."
+"startMs": 438980,
+"endMs": 446280,
+"text": "\"Amar Rab Yoisi: 'Pam ajat haiti mealek ba derej, ve nijchnasti lejurvá ajat mijurvót Yerushalaim lehitpalel."
 },
 {
-"startMs": 860000,
-"endMs": 865000,
-"speaker": "Speaker 2",
-"text": "Nada, Acabamos de esto sigue."
+"startMs": 447080,
+"endMs": 453780,
+"text": "Ba Eliyahu, zachar l'tov, y shavat li al ha-petaj, mespélot, עד שסיימתי את תפילתי. לאחר שסיימתי את תפילתי, אמר לי: \"שלום עליך, רבי\"."
 },
 {
-"startMs": 865000,
-"endMs": 872000,
-"speaker": "Speaker 2",
-"text": "Acuchillaron a un de Cubaron. En Israel? Si, entraron, acuchillaron."
+"startMs": 453860,
+"endMs": 458920,
+"text": "ואמרתי לו: \"שלום עליך, רבי אמורי\". ואמר לי: \"בני, מפני מה נכנסת לחורבה הזו?\"\"."
 },
 {
-"startMs": 872000,
-"endMs": 873000,
-"speaker": "Speaker 1",
-"text": "En dónde?"
+"startMs": 460220,
+"endMs": 465200,
+"text": "Zoto meret, entonces también está en el derej, se desvía del derej a una jurvá."
 },
 {
-"startMs": 873000,
-"endMs": 885000,
-"speaker": "Speaker 2",
-"text": "Ahí se llama Pida, uno en Italia. Esta vivo? No, lo mataron. De Neta. Te acuerdas? Esta rarisimo."
+"startMs": 466780,
+"endMs": 472960,
+"text": "Se desvía del derej a una jurvá. Entonces, acá se desvía del derej a un lugar donde hay listím. Sí, hay listím."
 },
 {
-"startMs": 885000,
-"endMs": 886000,
-"speaker": "Speaker 2",
-"text": "Nunca subió,"
+"startMs": 473540,
+"endMs": 479920,
+"text": "Ahora, ve que, ve que esto en lo Eliyahu. Dice: \"Amarti lo, lehitpalel\". Amar li: \"Hai aleja lehitpalel ba derej\". Claro."
 },
 {
-"startMs": 886000,
-"endMs": 900000,
-"speaker": "Speaker 3",
-"text": "Ya nunca subió de estado, hoy quería cortaron así al Kodesh y no sé qué, muy loco. Entraron a su casa, a su Midrash, a acuchillarles y salió."
+"startMs": 479980,
+"endMs": 487460,
+"text": "Tenías que lehitpalel ba derej. Es mamad zatana Rav Tarfon. Necesitarías decir que Hatshalá ba derej."
 },
 {
-"startMs": 900000,
-"endMs": 903000,
-"speaker": "Speaker 2",
-"text": "Un Arabeo, un intento así."
+"startMs": 487780,
+"endMs": 495340,
+"text": "Zoto meret, con el blej dejava derej, no con el shoj dejavukumeja kitzoni. Dice: \"Amarti lo, mitiare haiti Shemay aftsikuvia ovred ajim\"."
 },
 {
-"startMs": 903000,
-"endMs": 915000,
-"speaker": "Speaker 3",
-"text": "Sabes a quién le pasó? En Baltimore en Baltimore, entraron y a Rafrán, a Rafrán lo acuchillaron pero no se murió, entró un loco en Baltimore."
+"startMs": 495820,
+"endMs": 509300,
+"text": "No, porque en el derej hay ovred ajim. Yo prefiero estar, vechem, en mi, en mi esquina, no separarme del mundo, no estar en el mundo y estar menutak del mundo para decir hay tefilá."
 },
 {
-"startMs": 915000,
-"endMs": 918000,
-"speaker": "Speaker 3",
-"text": "Judith estaba medio loco,"
+"startMs": 509860,
+"endMs": 522200,
+"text": "Dice: \"Ve amar le, ve amar le: 'Hai aleja lehitpalel tefilá ktsará'. Ve otá shá lamati miménu shlosha dvarim. Lamati shelo nijchnasim lejurvá, ve lamati shemitpalelim ba derej, ve lamati shemitpalel ba derej, mitpalel derej tefilá ktsará\"."
 },
 {
-"startMs": 918000,
-"endMs": 926000,
-"speaker": "Speaker 2",
-"text": "Este dice que masía, algo decía hasta loco o que dijo Mas."
+"startMs": 522320,
+"endMs": 533260,
+"text": "O sea, que cuando llegas a lehitpalel ba derej, que sea ktsará. Sí. Ora, ¿por qué no mitpalelim ba derej? Dice la Gemara Taba Jotá Nu Rabana: \"Mipnei shlosha dvarim en nijchnasim lejurvá: mipnei achshav, mipnei hamapólet u mipnei hamazikim\"."
 },
 {
-"startMs": 926000,
-"endMs": 938000,
-"speaker": "Speaker 3",
-"text": "Lo agarraron o al. Sí, sí. Bueno, allá está Gabriel."
+"startMs": 533920,
+"endMs": 544180,
+"text": "Entonces, paralela a más no poder. ¿Sí? Paralela a más no poder. Donde están los problemas. Esta Gemara. Entonces, entonces-- y necesitaba de haber dicho en el derej."
 },
 {
-"startMs": 938000,
-"endMs": 940000,
-"speaker": "Speaker 2",
-"text": "Qué tal? Cómo es."
+"startMs": 544240,
+"endMs": 558040,
+"text": "O sea, si ya ves eso, si ya ves este paralelo, que ves como que una historia extremadamente igual, que con las palabras iguales y con los conceptos iguales y repetido, entonces quiere decir que no estábamos soñando ahí cuando estábamos diciendo que Rav Tarfon en el derej, que el listím..."
 },
 {
-"startMs": 940000,
-"endMs": 945000,
-"speaker": "Speaker 1",
-"text": "El me sirve otra vez?"
+"startMs": 558580,
+"endMs": 567480,
+"text": "Puedes, pe-- ve-- o sea, leerla así como sea y, o sea, sin, sin la explicación. Dirías: \"Ya, stam, stam fue que sin querer y que es listím\"."
 },
 {
-"startMs": 945000,
-"endMs": 955000,
-"speaker": "Speaker 1",
-"text": "O sea, el lava va Total."
+"startMs": 567940,
+"endMs": 577460,
+"text": "No, no, no, es listím, jejai otro ba derej, jumikol vi no, pero me dijo-- Sí, es, o sea, el-- cuando dices filata derej, ¿sí?"
 },
 {
-"startMs": 955000,
-"endMs": 986203,
-"speaker": "Speaker 1",
-"text": "Es Como Abraham me vino, me entrego por completo. Dio todo, no guardo nada para él, por nada de él. Es lava que darte es recibir, entonces mi mail esa es lava. Te doy todo y para mí eso es todo, no me falta nada contra todo. Luego, luego. Claro. Si no llegas a la largada del problema."
+"startMs": 577520,
+"endMs": 586840,
+"text": "Estás pidiendo por los listím y las jai otro que están en el derej. Entonces, si el creador del-- entonces, la Gemara te está explica-- la Mishna te está explicando el ome de Beis Ile."
+},
+{
+"startMs": 586840,
+"endMs": 590000,
+"text": "¿Me explico? Entonces, acá, que algo muy amok."
+},
+{
+"startMs": 591460,
+"endMs": 592920,
+"text": "Muy, demasiado amok."
+},
+{
+"startMs": 596620,
+"endMs": 601040,
+"text": "Entonces, aquí hay algo muy amok con Rab Yoisi y Rav Tarfon."
+},
+{
+"startMs": 604840,
+"endMs": 611300,
+"text": "¿A qué le suena Yoisi? ¿A quién en la Torá? Stam, Yoisi en Guimatria de Elohim. Pero ¿a qué le suena Yoisi?"
+},
+{
+"startMs": 611300,
+"endMs": 617360,
+"text": "¿Yosef? A Yosef, sí. ¿Y a qué le suena- Tarfon. Tarfon?"
+},
+{
+"startMs": 617400,
+"endMs": 623720,
+"text": "¿Yehuda? ¿Qué le pasó a Yosef? Tarfuto, taruf Torá. Taruf Torá, Yosef."
+},
+{
+"startMs": 624640,
+"endMs": 626039,
+"text": "Sí. Kimat."
+},
+{
+"startMs": 628560,
+"endMs": 635520,
+"text": "Kimat, los listím lo agarran a Rav Tarfon, ¿sí? ¡Guau! También Yosef fue en el derej. Órale. También Yosef fue en el derej."
+},
+{
+"startMs": 635740,
+"endMs": 642200,
+"text": "A Rabí Tarfon, ¿por qué Kimat? Si Yehuda y Yosef, uno es Gueulá y uno es Filá, ¿quién es quién? Yosef es Gueulá."
+},
+{
+"startMs": 642260,
+"endMs": 648580,
+"text": "Yosef es Gueulá. \"Atem jasavtem alai l'rai, elokim jasav alata va, u kol kulo jai ve olam shel haGueulá\". Al kol. ¿Sí?"
+},
+{
+"startMs": 648580,
+"endMs": 656760,
+"text": "¿Y quién es Filá? Yehuda, David, es el que lloré, el que cae hasta abajo y si se separa de Yosef, cae más, más, más, más, más, más."
+},
+{
+"startMs": 657220,
+"endMs": 661600,
+"text": "Y si tiene a Yosef, entonces así. Entonces, acá es así. Vechem,"
+},
+{
+"startMs": 663460,
+"endMs": 665840,
+"text": "tú no puedes, vechem, ser,"
+},
+{
+"startMs": 667260,
+"endMs": 678460,
+"text": "decidir ser nada más como Yosef. Tú no puedes decidir ser nada más como Yosef y decidir vivir nada más en la Gueulá, que eso es lo que hace Rab Yoisi, que nijchnas la jurvá, quiere decir: \"Ani rak mitpalel ala Gueulá\"."
+},
+{
+"startMs": 678840,
+"endMs": 686700,
+"text": "Le dice: \"No, hai aleja lehitpalel filá ktsará ba derej, filá ktsará ba derej\". Necesitabas- Con los ovred ajim. Que en el-- exactamente, que en el mismo derej te taquenta derej."
+},
+{
+"startMs": 687220,
+"endMs": 699660,
+"text": "No te estanques de que teníamos Bet Hamicdash, queremos Bet Hamicdash, y bentain, no hay nada. No, necesitas en el derej una fil-- en ajina meah is la filá aruka, pataik la filá amitit, la filá de la Gueulá."
+},
+{
+"startMs": 699980,
+"endMs": 710720,
+"text": "Pero necesitas, vechem, de-- para llegar de una Gueulá a otra Gueulá, si tú no haces un tikún en el derej be'atsmó, que esa es la shitá de Beis Ile, que toda la shitá de Beis Ile es el derej."
+},
+{
+"startMs": 711260,
+"endMs": 718700,
+"text": "Zoto meret, Shammai dice: \"Oye, enséñame toda la Torá kulá al rejela ajat\". Dice: \"En kasde abar\". ¿Hay toda la Torá o no toda la Torá?"
+},
+{
+"startMs": 719040,
+"endMs": 728580,
+"text": "Hilel te dice: \"Hay derej\". Okey, ven, rafta la raja comoja, dice Alef, Bet, Guimel, Dalet, Hei, Vav, ta, ta, ta, y de repente le enseña todo."
+},
+{
+"startMs": 728940,
+"endMs": 735960,
+"text": "Toda la shitá de Hilel es la shitá de Rahme. Shammai es el que saca todo, ¿no? Es, eh, la-- Shammai, sí, es Rahmim es quilu, que hay un talij."
+},
+{
+"startMs": 736620,
+"endMs": 744240,
+"text": "De Tikún hasta llegar al Tajlit. Es el Tajlit, el camino. Es el camino para llegar al, al, al mañana. Entonces, mi mail y yo acepto."
+},
+{
+"startMs": 744900,
+"endMs": 752220,
+"text": "Exactamente. Shama es el perfecto. Es o todo o nada. Para ser todo o nada necesitas estar o al principio o al final."
+},
+{
+"startMs": 752460,
+"endMs": 758640,
+"text": "Entonces, Rabióyiz se fue en el malaj de Hile. Viene Eliyahu y le dice: \"Se fue Rabióyiz y fue en el malaj de Shama\"."
+},
+{
+"startMs": 758920,
+"endMs": 767180,
+"text": "Claro. Sí, está Yosef. Dejó el mundo. Que es la Geulá. Sí, que es el Shminat HaBrit, que le ayuda al Mashíaj con David, que es la-- cada uno la agarra."
+},
+{
+"startMs": 767240,
+"endMs": 774680,
+"text": "Yosef es el que vive en el mundo elevado, el mundo de la-- Yosef nunca cae, nunca cae. Te lo digo, no más que no cae en averos."
+},
+{
+"startMs": 774700,
+"endMs": 781240,
+"text": "Está en las esquinas. Nunca se cae su Mazahrúaj. Netzaj. Sí, exactamente. Está viviendo en Netzaj constante, Yosef."
+},
+{
+"startMs": 781840,
+"endMs": 791760,
+"text": "Entonces, entonces, Bet Shem, Yosef nunca, nunca pasó por el centro. El Bet Shem está en las esquinas. Entonces, acá, Robtarfon, Robtarfon es, eh,"
+},
+{
+"startMs": 792960,
+"endMs": 799340,
+"text": "Bibjinat Esta, Bibjiná, no, no, no es nada más de este Zipur, Robtarfon, hay muchos, pero- Rabitarfon."
+},
+{
+"startMs": 799400,
+"endMs": 805460,
+"text": "Del Shayejud con Tarof Torof Yosef. Y Yosef estaba en el camino cuando lo agarró. Sí, Yosef se fue al camino."
+},
+{
+"startMs": 805660,
+"endMs": 813620,
+"text": "Y Rabitarfon es igual, ¿no? Sí, es exactamente lo mismo. Es igualito que Rabióyiz. Exactamente lo mismo. Nada, te estoy-- digo que Rabí Acovades es ese man."
+},
+{
+"startMs": 814280,
+"endMs": 823200,
+"text": "¿Eh? Rabí Acovades con el culo de Shama, tipo. Ya, él es, el-- Mitpalel siempre en la Jurva. Mitpalel en el Kotel, en la Jurva, Mitpalel."
+},
+{
+"startMs": 823240,
+"endMs": 830580,
+"text": "Y él está buscando-- si no hay Geulá, no hay nada. Nada. Si no hay Geulá, no hay nada. Tiene que existir una persona cazota, Shama."
+},
+{
+"startMs": 830700,
+"endMs": 837100,
+"text": "Tiene, tiene que existir alguien que ve Bet Shem, este, este-- Oye, estamos viviendo en Galut."
+},
+{
+"startMs": 837260,
+"endMs": 842320,
+"text": "Tenemos que saber que estamos en Galut. Tape. Nada más que el Tape. Hay gente que puede estar ahí."
+},
+{
+"startMs": 843700,
+"endMs": 845020,
+"text": "Qué fuerte, qué bueno. Tape."
+},
+{
+"startMs": 846980,
+"endMs": 855080,
+"text": "Y es-- y venimos de, de lo mismo. O sea, la, la Guemará de antes. Yo esta-- Lo mismo. Nada más empezamos la Misná y ya está el de este."
+},
+{
+"startMs": 855540,
+"endMs": 862800,
+"text": "Imagínate, digo. Yo dije: \"Ya, otra vez Misná nueva, a ver qué\". Nada, acabamos de contar todo. Ay, papacito, esto sigue."
+},
+{
+"startMs": 862800,
+"endMs": 868920,
+"text": "¿Cuántos años tiene? Acuchillaron a un, eh, a un ocupante muy grande. Sí, Shama."
+},
+{
+"startMs": 869320,
+"endMs": 876400,
+"text": "¿En Israel? Sí, entraron, lo acuchillaron. ¿En dónde? Allá se llama Pida, uno en Netania."
+},
+{
+"startMs": 876400,
+"endMs": 881800,
+"text": "¿Está vivo? No, lo mataron. ¿De Netania? ¿Te acuerdas, baba, de la edad?"
+},
+{
+"startMs": 883120,
+"endMs": 891240,
+"text": "Está rarísimo. ¿La edad de la ocupación? Está rarísimo. ¿Un judío? Ya nunca subió, ya nunca subió de status. Hoy quería-- cortaron así al, al codex y no sé qué, muy loco."
+},
+{
+"startMs": 892020,
+"endMs": 898380,
+"text": "Qué loco. ¿Entraron a su casa? A su Midrash, lo acuchillaron y se salió. ¿Que un árabe o un tipo? No, que entraron alguien, jolines, eso."
+},
+{
+"startMs": 898420,
+"endMs": 905440,
+"text": "Sí, algo. ¿En dónde? ¿En Israel? ¿Te acuerdas que con Rob Stein había un intento así? ¿Sabes a quién le pasó? En Baltimore, Eris Troel."
+},
+{
+"startMs": 906180,
+"endMs": 914760,
+"text": "Una vez entraron y a, y a este, al Fa-- a Rafrán. A Rafrán lo acuchillaron, pero no se murió. Entró un loco en Baltimore y lo acuchilló."
+},
+{
+"startMs": 914760,
+"endMs": 922080,
+"text": "¿Un goy? Creo. ¿Judío? Creo. Estaba medio loco. Este dice que Mashíaj, algo decía este, está loco, que dijo Mashíaj."
+},
+{
+"startMs": 922100,
+"endMs": 924960,
+"text": "¿Lo agarraron al...? Sí. Sí."
+},
+{
+"startMs": 926720,
+"endMs": 927080,
+"text": "Bueno, ojalá"
+},
+{
+"startMs": 939960,
+"endMs": 943820,
+"text": "¿Cómo es el meter un nepes otra vez, de Grach Man?"
+},
+{
+"startMs": 945860,
+"endMs": 951660,
+"text": "O sea, el Aba, el Aba total es- ¿Cómo me enseñas a usar el, eh- ¿Dónde está todo esto? Este..."
+},
+{
+"startMs": 953000,
+"endMs": 953420,
+"text": "Mucho."
+},
+{
+"startMs": 954660,
+"endMs": 956540,
+"text": "Aba total es- Como Abraham Avinu."
+},
+{
+"startMs": 957740,
+"endMs": 962180,
+"text": "Me entrego por completo. Dio todo, no guardó nada para él, nada de-- es el Aba, que"
+},
+{
+"startMs": 963420,
+"endMs": 970360,
+"text": "darte, darte es recibir. Entonces, mi mail ese es el Aba. Te doy todo y para mí eso es todo. No, no me falta nada cuando te doy todo."
+},
+{
+"startMs": 970740,
+"endMs": 975100,
+"text": "Dejartá luego, luego. Claro. Dejartá es pura Aba. Sí."
+},
+{
+"startMs": 978080,
+"endMs": 979200,
+"text": "Ejad es en Mazrá Aba."
+},
+{
+"startMs": 981880,
+"endMs": 985160,
+"text": "Si no llegaste a la, a la larga del Flornes, no estás, eh..."
 }
 ]
 }

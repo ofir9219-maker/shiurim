@@ -1,2136 +1,2081 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 1000,
-"endMs": 18000,
-"speaker": "Interlocutor 1",
-"text": "Vamos. Entonces vemos que ya no se va a recordar,"
+"startMs": 480,
+"endMs": 8480,
+"text": "Bams. Tani amar lahem Ben Zoma la-jajamim, ki meskirin Yetziat Mitzrayim lehol ha-leilot hashé'a, v'ha-kojan ha-ne'eman, iné, yamim ba-im le'um ha-Shem, lo yumru od \"jaye Hashem shel Ohelai\"."
 },
 {
-"startMs": 18000,
-"endMs": 28000,
-"speaker": "Interlocutor 1",
-"text": "Eh? Dijimos que esa es la cita."
+"startMs": 8600,
+"endMs": 17040,
+"text": "\"Bnei Israel mi'eretz Mitzrayim\", ki im \"jaye Hashem shel Ohelai ha-sheviv et zer'a veit Israel mi'eretz tzefona mikol ha-aratzot asher hiddachtim sham\"."
 },
 {
-"startMs": 28000,
-"endMs": 56000,
-"speaker": "Interlocutor 1",
-"text": "Porque es el leishitato, porque es el que sostiene, que mas kirim, y es mi train, valeilot, si ata mas kirim, valeilot quiere decir que yo voy a convertir que también la noche sea virjinat y es mi train, entonces mi mele y es mi train que es en el día ya no ni bjene, ni ni keret, entonces quiere decir que Benzoma ve en el gilui de la titla bong, gilui que va a leir todos los leilots, laila que yo voy a ir."
+"startMs": 18880,
+"endMs": 24880,
+"text": "Entonces vemos que ya nos va a recordar Yetziat Mitzrayim, la shitá de Ben Zoma."
 },
 {
-"startMs": 56000,
-"endMs": 67000,
-"speaker": "Interlocutor 1",
-"text": "Que Nemar el pesaje y Nemar a la que volatidad entonces mi maile según él, no va a haber."
+"startMs": 26280,
+"endMs": 33980,
+"text": "Dijimos que es de shitató. ¿Por qué es de shitató? Porque él que sostiene que masgirín Yetziat Mitzrayim ba-leilot."
 },
 {
-"startMs": 67000,
-"endMs": 82000,
-"speaker": "Interlocutor 1",
-"text": "No porque no, sino porque para eso nos vamos a dar cuenta que tanto el Shibut y tanto la GTA los dos fueron virginad la GTA Batsma entonces dice."
+"startMs": 34580,
+"endMs": 41440,
+"text": "Si estás masgir Yetziat Mitzrayim ba-leilot, quiere decir que yo voy a convertir que también la noche va a ser bijinat Yetziat Mitzrayim."
 },
 {
-"startMs": 82000,
-"endMs": 87000,
-"speaker": "Interlocutor 1",
-"text": "Lose te aqueri te a mitraim en coma, el echote, el shibut no aljoyotikarb, te admitraim y tafelo."
+"startMs": 41460,
+"endMs": 47660,
+"text": "Entonces, mi mele, Yetziat Mitzrayim, que es en el día, ya no nivjenet y no nikeret. Entonces, quiere decir que"
 },
 {
-"startMs": 87000,
-"endMs": 91000,
-"speaker": "Interlocutor 1",
-"text": "Dice, no, va a haber shibut no aljoyoto, eso va a ser ikaim."
+"startMs": 48920,
+"endMs": 59880,
+"text": "Ben Zoma ve en el gilui de la tit laván un gilui que va a leair todas las leilot, lailas que íbán a air, que néemar al el Pesaj y néemar a la Geulá Atidá."
 },
 {
-"startMs": 91000,
-"endMs": 101000,
-"speaker": "Interlocutor 1",
-"text": "Esa es la guibula tira. Y te admitraim, tafelo, y se va a recordar, y te admitraim va a ser tafel, a."
+"startMs": 60520,
+"endMs": 62380,
+"text": "Entonces, mi mele, según él, no va a haber"
 },
 {
-"startMs": 101000,
-"endMs": 112000,
-"speaker": "Interlocutor 1",
-"text": "A shibut no aljoyot, aa, a,"
+"startMs": 64599,
+"endMs": 66180,
+"text": "zejér a Yetziat Mitzrayim."
 },
 {
-"startMs": 112000,
-"endMs": 123000,
-"speaker": "Interlocutor 1",
-"text": "Altiskeru rishonot. Wekadmoniot altit bonanu. Dice altiskeru rishonot. Wekadmoniot, altit bonanu,"
+"startMs": 67440,
+"endMs": 77140,
+"text": "No porque no, sino porque pasut nos vamos a dar cuenta- Tanto el gilui. Que, que de emet, tanto el shivud y tanto la yetziá, los dos fueron bibjinat la yetziá ve atsmá."
 },
 {
-"startMs": 123000,
-"endMs": 129000,
-"speaker": "Interlocutor 1",
-"text": "Theytiat mitrain. Inneni us, hadasha, atatitsmach."
+"startMs": 77920,
+"endMs": 87140,
+"text": "Entonces, dice: \"Lo sheta'aker Yetziat Mitzrayim min komá, elé sheteh el shivud maljutot ikar veYetziat Mitzrayim tafel lo\"."
 },
 {
-"startMs": 129000,
-"endMs": 141000,
-"speaker": "Interlocutor 1",
-"text": "Sana rabiosef, do milhamez goggumagog, mashale madar domeh, de Adamshiyame, alejodeh, wagabus de eblin, ni tal mi menu."
+"startMs": 87900,
+"endMs": 95200,
+"text": "Dice: \"No, ba aver shivud maljutot\", eso va a ser ikar. Ese es la Geulá Atidá. \"VeYetziat Mitzrayim tafel lo\"."
 },
 {
-"startMs": 141000,
-"endMs": 145000,
-"speaker": "Interlocutor 1",
-"text": "Pero el gabo nahas benichalem menushajaj mas eshnehem,"
+"startMs": 95900,
+"endMs": 102600,
+"text": "Y se va a recordar Yetziat Mitzrayim, va a ser tafel a, eh, a, a shivud maljutot."
 },
 {
-"startMs": 145000,
-"endMs": 153000,
-"speaker": "Interlocutor 1",
-"text": "Rayam isaper, beoleg masen hahasha, Avkaj, Israel, charot hakroonot, meshakijot, eta, rishon."
+"startMs": 102640,
+"endMs": 111360,
+"text": "Ca yo sé, vo'atá omén: \"Lo ikaré shimjá od Ya'akov, ki im Israel yehe shiméja\". Lo she'yaker Ya'akov min komó, elé Israel ikar, veYa'akov tafel lo."
 },
 {
-"startMs": 153000,
-"endMs": 156000,
-"speaker": "Interlocutor 1",
-"text": "Entonces, nosotros,"
+"startMs": 112260,
+"endMs": 125320,
+"text": "Ve-jen, hu omér: \"Al tizkerú rishonot vekadmoniot al titbonenu\". Dice: \"Al tizkerú rishonot\", es shivud maljutot, \"vekadmoniot al titbonenu\", de Yetziat Mitzrayim."
 },
 {
-"startMs": 156000,
-"endMs": 167000,
-"speaker": "Interlocutor 1",
-"text": "Pues, que el pasad pasud de la hermanastam, cuando trae el pasad de Jacob Israel, es que hay algo igual,"
+"startMs": 125780,
+"endMs": 131800,
+"text": "\"Hinéni osé jadashá, atá tizmach\". Tani Rabbi Yosef, zom miljamet Gog uMagog."
 },
 {
-"startMs": 167000,
-"endMs": 194000,
-"speaker": "Interlocutor 1",
-"text": "Pero Como siempre nos gusta, es entender las cosas más, que es no es Tamun Kesher Hitsoni, sino Betzem, tiene que ser que es lo mismo. Pues por eso quería abrir ahí ese Perek de Shyamim Gimmel. Quiere decir que el Lineam, que se llama Jacobi Israel, va a ser paralelo a Altis Keru Richonot, que no se quita el primer Shem,"
+"startMs": 132060,
+"endMs": 139620,
+"text": "Mashal lema'ahá dar domé, le'adam she'hayá ma'alej odéj, pagávo ze'ev, ni-nitsal miménu. Ve'hayá mesapér ve'oléj ma'asé ze'ev, pagávo ari, y ni-nitsal miménu."
 },
 {
-"startMs": 194000,
-"endMs": 213000,
-"speaker": "Interlocutor 1",
-"text": "Sí, no, Mitgalel, el segundo Shem y el primer Shem se hace Tafel al segundo Shem. Jacob, no es que Nedekar, sino el Shem Ikari es Israel, pero Jacob se sigue usando. Pues tienen Yeshame un Gimmel."
+"startMs": 139620,
+"endMs": 148060,
+"text": "Ve'hayá mesapér ve'oléj ma'asé ari, pagávo najash, y ni-nitsal miménu. Shejaj ma'asé shnéiem. Ve'hayá mesapér ve'oléj ma'asé najash."
 },
 {
-"startMs": 213000,
-"endMs": 230000,
-"speaker": "Interlocutor 1",
-"text": "Yeshame un Gimmel es el es el pasoup de altisquero richornot. Sí, Jacob Israel es un pasoup que ahora en Bereshit."
+"startMs": 148220,
+"endMs": 154980,
+"text": "Av kaj Israel, tzarot ajronot meshakejut et harishonot. Entonces, nosotros,"
 },
 {
-"startMs": 230000,
-"endMs": 232000,
-"speaker": "Interlocutor 1",
-"text": "Ya abrieron?"
+"startMs": 156440,
+"endMs": 157560,
+"text": "pues, no, que--"
 },
 {
-"startMs": 232000,
-"endMs": 235000,
-"speaker": "Interlocutor 1",
-"text": "Yo aquí veo,"
+"startMs": 159700,
+"endMs": 166300,
+"text": "el peshat pasuk de la Gemara está, es que cuando trae el pasuk de Ya'akov y Israel es que lo-- que hay algo igual."
 },
 {
-"startMs": 235000,
-"endMs": 248000,
-"speaker": "Interlocutor 1",
-"text": "Con todos. No, llegas."
+"startMs": 167480,
+"endMs": 178100,
+"text": "Pero como siempre nos gusta es entender las cosas más, que es-- no es tam mun kesher jitzoni, sinoóó betem-- tiene que ser que es lo mismo."
 },
 {
-"startMs": 248000,
-"endMs": 253000,
-"speaker": "Interlocutor 1",
-"text": "Claro, tú. No tiene mucho brillo, ¿no? Amén."
+"startMs": 178660,
+"endMs": 201260,
+"text": "Entonces, por eso quería abrir ahí ese pérek de Yeshayahu mem guímel. Quiere decir que el inian que se llama Ya'akov y Israel va a ser paralelo a \"Al tizkerú rishonot vekadmoniot al titbonenu\", que no se quite el primer shem, sino mitva-- mitgalé el segundo shem y el primer shem se hace tafél al, al segundo shem."
 },
 {
-"startMs": 253000,
-"endMs": 259000,
-"speaker": "Interlocutor 1",
-"text": "No? Pero es en Pasukyukima ¿no?"
+"startMs": 201720,
+"endMs": 208480,
+"text": "Entonces, Ya'akov no es que niéikar, sino el shem ikarí es Israel, pero Ya'akov se sigue usando."
 },
 {
-"startMs": 259000,
-"endMs": 263000,
-"speaker": "Interlocutor 1",
-"text": "No, bueno, el Pérez. Coño, se terminan las reglas del cupo."
+"startMs": 208640,
+"endMs": 210620,
+"text": "¿Tú tienes Yeshayahu mem guímel?"
 },
 {
-"startMs": 263000,
-"endMs": 265000,
-"speaker": "Interlocutor 1",
-"text": "Qué pasa?"
+"startMs": 213940,
+"endMs": 221420,
+"text": "Yeshayahu mem guímel es el, es el pasuk de \"Al tizkerú rishonot\", ¿sí? Ya'akov y Israel es un pasuk que ajá en Bereshit."
 },
 {
-"startMs": 265000,
-"endMs": 278000,
-"speaker": "Interlocutor 1",
-"text": "Qué? No, por este pasuk, que es la regla. Yo no estoy abriendo el pasuk de la llamada de Jacob Israel. Pasuk de Jacob Israel la llamada lo trae en Bereshit, no en Yeshaya. Shaya es el de."
+"startMs": 230280,
+"endMs": 230880,
+"text": "¿Ya abrieron?"
 },
 {
-"startMs": 278000,
-"endMs": 281000,
-"speaker": "Interlocutor 1",
-"text": "La llamada solo trae."
+"startMs": 232180,
+"endMs": 239080,
+"text": "Yo aquí veo como todo. No, ¿llevas? Claro. Tú. Eh. Para Juan Antonio."
 },
 {
-"startMs": 281000,
-"endMs": 301000,
-"speaker": "Interlocutor 1",
-"text": "Jacob Israel para decir que ah hay algo igual que que es esto está aquí en Miguel está el de Richonote que este es el tema. Abres el Perek y de qué te habla el Perek? Dice Jacob, Biotsereja, Israel."
+"startMs": 242840,
+"endMs": 245320,
+"text": "No tiene mucho brillo, ¿no? Amén."
 },
 {
-"startMs": 301000,
-"endMs": 311000,
-"speaker": "Interlocutor 1",
-"text": "Altiraki, altija, karati besimjá liata. O sea no nada más que está. Sí. Yo te llamé tu nombre."
+"startMs": 247940,
+"endMs": 249040,
+"text": "Ya está. Ve'atá."
 },
 {
-"startMs": 311000,
-"endMs": 316000,
-"speaker": "Interlocutor 1",
-"text": "O sea, es más más paralelo al passut, ya sabes. Y aparte de todos los brillos."
+"startMs": 250380,
+"endMs": 256660,
+"text": "Ko'amar Hashem vor ajá Ya'akov, viyotzéjéja Israel. ¿Sí?"
 },
 {
-"startMs": 316000,
-"endMs": 326000,
-"speaker": "Interlocutor 1",
-"text": "Dice \"Loi Kare Shim Hao de Yaakov, Kim Israel, Iezhem Ha\" está muy paralelo a la zona acá. Dice Karati Bishim Ha, Liata."
+"startMs": 257240,
+"endMs": 263400,
+"text": "Pero, ¿por-- es en pasuk yu guímel, no? Da, bueno, vamos a ver el pérek. Espera, espera. Coño, se traen las reglas del grupo. Sí, sí."
 },
 {
-"startMs": 326000,
-"endMs": 328000,
-"speaker": "Interlocutor 1",
-"text": "O sea, yo fui el que te llamé el nombre."
+"startMs": 263420,
+"endMs": 271660,
+"text": "¿Qué pasa? ¿Qué? No, eh, por, por este pasuk es la regla, eh. Estoy-- yo no estoy abriendo el pasuk de la Gemara de Ya'akov e Israel."
 },
 {
-"startMs": 328000,
-"endMs": 330000,
-"speaker": "Interlocutor 1",
-"text": "Entonces acá, ahí está Nezcuda,"
+"startMs": 272060,
+"endMs": 277440,
+"text": "El pasuk de Ya'akov e Israel, la Gemara lo trae en Bereshit, no en Yeshayahu. Yeshayahu es el de--"
 },
 {
-"startMs": 330000,
-"endMs": 332000,
-"speaker": "Interlocutor 1",
-"text": "Vemos."
+"startMs": 278960,
+"endMs": 285240,
+"text": "La Gemara solo trae Ya'akov e Israel para decir que, ah, hay algo igual queee..."
 },
 {
-"startMs": 332000,
-"endMs": 344000,
-"speaker": "Interlocutor 1",
-"text": "Y Galatija, Guebulá, mejor, mejor nuevo. Entonces tenemos Jacob, Israel, Guebulá y Kriachem. Abres el perek, el primer pasuk, y pum."
+"startMs": 285260,
+"endMs": 293520,
+"text": "Kadmoniot. Que es esto. Está aquí en Yeshayahu mem guímel está el de rishonot vekadmoniot. Ese es el tema. Abres el pérek, ¿y de qué te habla el pérek?"
 },
 {
-"startMs": 344000,
-"endMs": 346000,
-"speaker": "Interlocutor 1",
-"text": "Entonces vamos a ver este perek."
+"startMs": 294060,
+"endMs": 295980,
+"text": "Ve'atá koamar Hashem vor ajá."
 },
 {
-"startMs": 346000,
-"endMs": 348000,
-"speaker": "Interlocutor 1",
-"text": "Kitavorba main,"
+"startMs": 297480,
+"endMs": 306100,
+"text": "Dice Ya'akov, viyotzéjéja Israel. Al tirá ki galtijá, karati beshimjá li atá."
 },
 {
-"startMs": 348000,
-"endMs": 356000,
-"speaker": "Interlocutor 1",
-"text": "Itjani. Ah, es la canción. No estabaisuma main?"
+"startMs": 306520,
+"endMs": 313460,
+"text": "O sea, no nomás que está- Karati beshimjá li atá. Sí, yo te llamé tu nombre. O sea, es mamash paralelo al pasuk que la Gemara trae."
 },
 {
-"startMs": 356000,
-"endMs": 364000,
-"speaker": "Interlocutor 1",
-"text": "No está ahí. Benny Fitman, pero más adelante."
+"startMs": 313460,
+"endMs": 320280,
+"text": "Ya saliste de la primera mitzvá. Y aparte de la Geulá. Dice: \"Lo ikaré shimjá od Ya'akov, ki im Israel yehe shiméja\"."
 },
 {
-"startMs": 364000,
-"endMs": 369000,
-"speaker": "Interlocutor 1",
-"text": "Anda ese perek?"
+"startMs": 320760,
+"endMs": 327900,
+"text": "Está muy paralelo a la razón acá. Dice: \"Karati beshimjá li atá\". O sea, yo fui el que te llamé el nombre."
 },
 {
-"startMs": 369000,
-"endMs": 375000,
-"speaker": "Interlocutor 1",
-"text": "No, es Abraham Free.¿Abraham Free? El hijo ah. No, un tío."
+"startMs": 328780,
+"endMs": 334880,
+"text": "Entonces, acá ya está nejudá. Entonces, vemos- Y galtiija, ¿no? Y galtiija. Y galtiija, Geulá. Najón, najón, najón."
 },
 {
-"startMs": 375000,
-"endMs": 383000,
-"speaker": "Interlocutor 1",
-"text": "El hijo lo hizo pero. Ah, no lo conoces. Ahí esta, esta abajo. Si, si esta?"
+"startMs": 335300,
+"endMs": 343920,
+"text": "Entonces, tenemos Ya'akov, Israel, Geulá y Kriat Shem. O sea, pasut-- abres el pérek, el primer pasuk y ¡pum!"
 },
 {
-"startMs": 383000,
-"endMs": 386000,
-"speaker": "Interlocutor 1",
-"text": "No, no, no."
+"startMs": 344760,
+"endMs": 349920,
+"text": "Entonces, vamos a ver este pérek. Ki ta'abor bamáyim, itjaní. Itjaní."
 },
 {
-"startMs": 386000,
-"endMs": 397000,
-"speaker": "Interlocutor 1",
-"text": "Quita Abraham me late que soy. Me late que esas son palabras que inventó. Ah, si. Ulaino, Ulai alguien o algún jaja. No se si es en el."
+"startMs": 351500,
+"endMs": 360760,
+"text": "Vane'orot lo ishtefúja. Ahí está la canción. Iseilej be'om yesh. Lo izjirjo el neorot, lo ziro rot."
 },
 {
-"startMs": 397000,
-"endMs": 402000,
-"speaker": "Interlocutor 1",
-"text": "Es que esas palabras están raras."
+"startMs": 361320,
+"endMs": 371912,
+"text": "Ba'esh ubamáyim No estaba ahí su mamá ahí No está ahí Benny Friedman, pero más sabe Ándese Berek No, es Abraham Fried ¿Abraham Fried?"
 },
 {
-"startMs": 402000,
-"endMs": 415000,
-"speaker": "Interlocutor 1",
-"text": "Entonces, ¿qué le está diciendo? O sea, tipo, ¿qué le está diciendo? Está diciendo que. Pero ¿cuál es el Mashmout? Hashem le dice a Jacob: Te llamé Israel. Le dijo, no, primero le dice: Comar Hashem,"
+"startMs": 371912,
+"endMs": 376352,
+"text": "¿El hijo? No, el tío El hijo lo hizo, pero..."
 },
 {
-"startMs": 415000,
-"endMs": 426000,
-"speaker": "Interlocutor 1",
-"text": "Hashem Boraja Jacob y Yastareja Israel. Yo fui el que barati otra, Jacob, yo fui al que ya estar tiotra, Israel."
+"startMs": 379992,
+"endMs": 382672,
+"text": "Ah, no lo tengo Ahí está ¿Sí, sí está?"
 },
 {
-"startMs": 426000,
-"endMs": 430000,
-"speaker": "Interlocutor 1",
-"text": "Altira, no temas, que altija."
+"startMs": 386232,
+"endMs": 393852,
+"text": "Kitabor mamá, no, me late que eso ya- No, es Babamai Babamai, me late que esas son palabras que inventó- Ah, sí No, Ulay alguien, ¿no?"
 },
 {
-"startMs": 430000,
-"endMs": 439000,
-"speaker": "Interlocutor 1",
-"text": "Si, dice Karati Bishi, tu nombre es para mi. Tu nombre es para mi.¿A que nombre se refería?"
+"startMs": 393952,
+"endMs": 395932,
+"text": "Algún jajam. No sé si es el-"
 },
 {
-"startMs": 439000,
-"endMs": 440000,
-"speaker": "Interlocutor 1",
-"text": "Israel o."
+"startMs": 397592,
+"endMs": 398812,
+"text": "Es que esas palabras están raro"
 },
 {
-"startMs": 440000,
-"endMs": 449000,
-"speaker": "Interlocutor 1",
-"text": "No se, dice los dos. Itjani, cuando pasas por el agua estoy contigo."
+"startMs": 402912,
+"endMs": 409212,
+"text": "Entonces, ¿qué, qué, qué le está diciendo? O sea, ¿qué? Tipo, ¿qué? ¿Qué le está diciendo? Está diciendo que- A ver, ¿cuál es el mashmaut?"
 },
 {
-"startMs": 449000,
-"endMs": 473000,
-"speaker": "Interlocutor 1",
-"text": "Ahora cuando le esta hablando la Ghula o el Galut.¿El Galut? Este me esta hablando en el Galut. No tengan miedo. No, Gyaltija. Si, por eso está en el Galut, va a tener miedo hacia Megalut, este tipo de Kie, te voy a salvar, te voy a ganar la guerra, te voy a salvar, estás en el Galut. Entonces sale acá, que vesten está en el Galut y le dice, yo yaga al diut, yo yaga al diut."
+"startMs": 409252,
+"endMs": 414172,
+"text": "Hashem le dice a Jacob: te llamé Israel Le dijo, She-- no, primero le dice:"
 },
 {
-"startMs": 473000,
-"endMs": 485000,
-"speaker": "Interlocutor 1",
-"text": "Entonces si tu entiendes, vestenme esta nekuda, que se llama. Pregunta este dinero, le esta diciendo Yoshayahu a Mizra'el? No, a Shem, a Yaakov, pero yo soy yau. Bueno, Yoshayahu dice la nova de Hashem."
+"startMs": 418452,
+"endMs": 424432,
+"text": ". Yo fui el que paratiotja, Jacob- Yo fui el que yatsartiotja No tengas miedo Israel."
 },
 {
-"startMs": 485000,
-"endMs": 507000,
-"speaker": "Interlocutor 1",
-"text": "Quamarashem, así dijo Hashem, quien dijo Hashem, pero Hashem, así dijo Hashem, pero Hashem, ahorita no hay ya que le está diciendo todo Misael que está en el Galu. Ah, por eso, le está diciendo no es un diálogo de Hashem con Jacob, sabe que voy, es un diálogo de Yezayaw con el pueblo de Israel."
+"startMs": 426352,
+"endMs": 438252,
+"text": "Al tira, no temas, que Galtija. ¿Sí? Dice: karate besemja li atá Tu nombre, tú eres para mí Tu nombre es para mí ¿Y qué nombre, y qué nombre se refería a eso?"
 },
 {
-"startMs": 507000,
-"endMs": 517000,
-"speaker": "Interlocutor 1",
-"text": "Pero eso explica que es en Yitzael Mitraim."
+"startMs": 438252,
+"endMs": 444112,
+"text": "¿Israel o...? No sé, dice los dos It hani, cuando pases por el agua, estoy contigo."
 },
 {
-"startMs": 517000,
-"endMs": 542000,
-"speaker": "Interlocutor 1",
-"text": "Kitawama, kisabarta, beyam zu vit haiti. Narot is sefujaan, gartamenin mitrin, babbablim, home rubim kemina, blueklu, le jale jalot. Kitelegh mo ezlatit la bokini, ayon baboer katanur. Shaktir jamala reseim beloe totan, eion mambag, gamloti have, ula basis rofet kolum, eta humok, como sanai mar. Beiu a mi, Mr. Fotzin, game hi, lotib arbach."
+"startMs": 445332,
+"endMs": 446812,
+"text": "Es petuja Guau."
 },
 {
-"startMs": 542000,
-"endMs": 545000,
-"speaker": "Interlocutor 1",
-"text": "And todos los matsabim,"
+"startMs": 449092,
+"endMs": 458972,
+"text": "Ahora, cuando-- le está hablando en la gulá, en el galut En el galut Ve, te lo está hablando en el galut No tengas miedo No, Galtija Sí, por eso ¿Por qué va a tener miedo si ya me galá Galtija?"
 },
 {
-"startMs": 545000,
-"endMs": 552000,
-"speaker": "Interlocutor 1",
-"text": "Ya sean los del Gallute, ya sea la Titlabo, cuando salga el Esh, que a quemar a los Roshaim,"
+"startMs": 458972,
+"endMs": 470552,
+"text": "¿Es tipo de qué? Vas a empezar- Tipo gatón, tipo- Te voy a salvar Ganar la guerra Te voy a salvar, estás en el galut Leo, entonces sale acá, que ve que está en el galut y le dice: yo ya Galtiot."
 },
 {
-"startMs": 552000,
-"endMs": 558000,
-"speaker": "Interlocutor 1",
-"text": "A Borajaya Coco, aleja de Israel, no le pasa absolutamente nada."
+"startMs": 471272,
+"endMs": 478812,
+"text": "Yo ya Galtiot. ¿Sí? Entonces, si tú entiendes, ve este mesta nekudá, que se llama- ¿Tú no estás diciendo, le estás diciendo Yoshayahu a Am Israel?"
 },
 {
-"startMs": 558000,
-"endMs": 566000,
-"speaker": "Interlocutor 1",
-"text": "Entonces, entonces acá quiere decir."
+"startMs": 479072,
+"endMs": 485132,
+"text": "No, Hashem a Jacob Hashem a Jacob, pero es Yoshayahu Le está como a Hashem Bueno, Yoshayahu dice la nueva de Hashem."
 },
 {
-"startMs": 566000,
-"endMs": 576000,
-"speaker": "Interlocutor 1",
-"text": "Quiere decir acá, si tú entiendes esta enercuda que se llama Borajaya Covid, sereja de Israel, entonces mi mail, tienes que no tener miedo A donde pasas."
+"startMs": 485872,
+"endMs": 500912,
+"text": "Como a Hashem, así dijo Hashem. ¿Quién dice? Por eso, pero a Akshav no... Como a Hashem, así dijo Hashem. Sí Pero a Akshav no, o sea, a Akshav ahorita, no a Jacob Le está diciendo a toda Am Israel que está en el galut Ah, por eso, le está diciendo a Am Israel, no es un diálogo de Hashem con Jacob, ¿sabes a qué voy?"
 },
 {
-"startMs": 576000,
-"endMs": 589000,
-"speaker": "Interlocutor 1",
-"text": "Ahí Hashem está. También en la oscuridad no tienes mucho. No tienes ningún full. Sí, no tienes ningún full. Ya sea Katawur Bamain, ya sé que Banarot, ya sea que vayas en el fuego. Fuego no quema Hashem."
+"startMs": 500952,
+"endMs": 503252,
+"text": "Es un diálogo de Yoshayahu con el pueblo de Israel"
 },
 {
-"startMs": 589000,
-"endMs": 595000,
-"speaker": "Interlocutor 1",
-"text": "Entonces dice, dice Karati Bishimuhaliata."
+"startMs": 507532,
+"endMs": 509332,
+"text": "Por eso explica que es en Yetsiat Mitzrayim"
 },
 {
-"startMs": 595000,
-"endMs": 601000,
-"speaker": "Interlocutor 1",
-"text": "Yamed tu nombre. Tu nombre es. Tú eres para mí. Tú eres mío."
+"startMs": 517192,
+"endMs": 526392,
+"text": "Ki taomer, ki shavarta veyam suf yitjáhití. Narot yesefujá, garta bene mitzrim ba bavlim hamiruvim keminah, ve lo ajlo lejal halajot."
 },
 {
-"startMs": 601000,
-"endMs": 602000,
-"speaker": "Interlocutor 1",
-"text": "Tú eres mío."
+"startMs": 526792,
+"endMs": 541632,
+"text": "Ki telej bemo esh latit lavó, ki nahayom ba bo erkat anur, shagdil jamá a los reshaim y lo etotam, eyom ba gam lo tijave, ulehava shishrof et kol et haumot, como se me amar, veiu hamim misrefot sin, gam í, lo tibar bach."
 },
 {
-"startMs": 602000,
-"endMs": 605000,
-"speaker": "Interlocutor 1",
-"text": "Dice Kiani haxemero queja."
+"startMs": 541772,
+"endMs": 550912,
+"text": "Es decir, en todos los matzavim, ya sea los del galut o ya sea la tit lavó, cuando salga el esh a quemar a los reshaim,"
 },
 {
-"startMs": 605000,
-"endMs": 614000,
-"speaker": "Interlocutor 1",
-"text": "Dos Israel mosiaja. Natati kofreja mitraim kusuwataktek."
+"startMs": 552252,
+"endMs": 561452,
+"text": "a Borajaya, Jacob, o a Aleja Israel, no le pasa absolutamente nada. Entonces, entonces acá quiere decir..."
 },
 {
-"startMs": 614000,
-"endMs": 615000,
-"speaker": "Interlocutor 1",
-"text": "Qué dice?"
+"startMs": 566212,
+"endMs": 575412,
+"text": "Quiere decir acá, si tú entiendes esta nekudá que se llama Borajaya, Jacob y Tzeleh a Israel, entonces mi maile, tienes que no tener miedo a donde pasas."
 },
 {
-"startMs": 615000,
-"endMs": 652000,
-"speaker": "Interlocutor 1",
-"text": "Saledetxurateja atzmit, veshem Israel, karatija veshem de amoré killiata. Senekha natun tagata tevarrakta. Tajat hash gajame iuhgedel, so no lo mar, mitzat chuborajayakov iejuyab shalotie, tajat mistrat asarima taktonim shelgalut babelo paraas, mitzat chuyo trajaisel iuhav shalotie, tajat memshelet tazarima elyonim tsvah shamaim mistereim. Entonces dice uno es mitzatyakov es que los sarima taktonim o sea los reyes físicos no tienen fuerza de ti y mitzat tu nombre Israel."
+"startMs": 575432,
+"endMs": 582652,
+"text": "¿Sí? Shem está Ahí Shem está Y también en la oscuridad, también en la noche No tienes ningún bul. Sí, no tienes ningún bul."
 },
 {
-"startMs": 652000,
-"endMs": 661000,
-"speaker": "Interlocutor 1",
-"text": "Así explica el Malvin. Está su nombre Israel, es que afilu toda la zanagota arriba del Shamain, de los Cohamin, los Manzaloa."
+"startMs": 583092,
+"endMs": 589952,
+"text": "Ya sea que está Borbamain, ya sea que Ben-Harot, ya sea que vayas en el fuego. Fuego no quema, Hashem. Mejalón."
 },
 {
-"startMs": 661000,
-"endMs": 672000,
-"speaker": "Interlocutor 1",
-"text": "No puedo. No hay, no hay el tema, tú estás en la mala.¿Es el nombre de Israel? Es lo que dice. Israel es mala. Israel es mala."
+"startMs": 590252,
+"endMs": 600192,
+"text": "Entonces, dice, dice: karate besemja li atá. O sea, llamé tu nombre, tu nombre es-- tú eres para mí, tú eres mío."
 },
 {
-"startMs": 672000,
-"endMs": 674000,
-"speaker": "Interlocutor 1",
-"text": "Está un poco Malvin."
+"startMs": 601032,
+"endMs": 603052,
+"text": "Tú ere-tú eres mío. Dice:"
 },
 {
-"startMs": 674000,
-"endMs": 677000,
-"speaker": "Interlocutor 1",
-"text": "Sí, es lo que quería ver arriba un poco."
+"startMs": 614352,
+"endMs": 616312,
+"text": "¿Qué dice? Shem, que Shem"
 },
 {
-"startMs": 677000,
-"endMs": 679000,
-"speaker": "Interlocutor 1",
-"text": "A ver qué dice el Malvin."
+"startMs": 641812,
+"endMs": 649932,
+"text": "Entonces, dice: uno es, mi tzay Jacob, es que los sarim atajtonim, o sea, los reyes físicos, no tienen fuerza de ti."
 },
 {
-"startMs": 679000,
-"endMs": 687000,
-"speaker": "Interlocutor 1",
-"text": "A ver, abran el Malvin, lo vemos nada más aquí.¿Y tú qué sacaste ahí? Sefaria Malvin. Velo, velo, ahí lo abre aquí.¿Ahí en Sefaria?"
+"startMs": 650612,
+"endMs": 660852,
+"text": "Y mi tzay tu nombre Israel, así explica el Malbim. Mi tzay tu nombre Israel, es que a Filu, toda la sanagota arriba del Shamaim, de los Kojavim, los Mazalot-"
 },
 {
-"startMs": 687000,
-"endMs": 693000,
-"speaker": "Interlocutor 1",
-"text": "Sí, lo aprietas y le pones ahí mal.¿Sí? Hay un 44 me fashion."
+"startMs": 662072,
+"endMs": 672212,
+"text": "No Y no hay, no hay el teba, tú estás le mala me amazal, le mala me ataló ¿Es el nombre Israel? Es lo que dice Israel, le mala me amazal Israel, Israel, le mala me amazal."
 },
 {
-"startMs": 693000,
-"endMs": 695000,
-"speaker": "Interlocutor 1",
-"text": "Se ve que."
+"startMs": 672772,
+"endMs": 679812,
+"text": "Así Está un poco Malbim, pero Sí, es lo que quería ver arriba un poco. A ver qué dice el Malbim ¿Qué tal te explique?"
 },
 {
-"startMs": 695000,
-"endMs": 697000,
-"speaker": "Interlocutor 1",
-"text": "Alti tiene."
+"startMs": 679852,
+"endMs": 692212,
+"text": "A ver, ábranme el Malbim, lo, lo vemos nomás aquí ¿Tú qué sacaste ahí? ¿Sefaria Malbim? Velo, velo, ya lo abrí aquí Ahí en Sefaria Sí, la apretas y la pones ahí Malbim Sí, hay un-- cuarenta y cuatro me fal-- sí"
 },
 {
-"startMs": 697000,
-"endMs": 700000,
-"speaker": "Interlocutor 1",
-"text": "Mejores de tantito."
+"startMs": 693892,
+"endMs": 698232,
+"text": "Se ve que el... Ah, te tiene Dejó de-- está el título"
 },
 {
-"startMs": 700000,
-"endMs": 711000,
-"speaker": "Interlocutor 1",
-"text": "Trae como una dama primero, después empieza el paso. El pereg cuesta el.¿El libra Milot o el normal? No, normal."
+"startMs": 700772,
+"endMs": 709672,
+"text": "Te va, te va como una Dama primero, después, después empieza el bazuca Es que el pas-- el perek pasado- Ahí está, el del Ben Poré, el Yotsé Empieza, empieza con la- ¿El libro Milot o el normal?"
 },
 {
-"startMs": 711000,
-"endMs": 714000,
-"speaker": "Interlocutor 1",
-"text": "Sí, ese es el chula."
+"startMs": 710492,
+"endMs": 716172,
+"text": "No, normal Sí, ese es otra captura ¿Te cuelgo? Es libro... ¿Te cuelgo?"
 },
 {
-"startMs": 714000,
-"endMs": 724000,
-"speaker": "Interlocutor 1",
-"text": "Tienen. El pereg de antes habló de las tarot, de las tarot del Galut,"
+"startMs": 718472,
+"endMs": 728988,
+"text": "Tienen-- el perek de antes habló de las Sarot, de las Sarot del Galut Dice: \"Yorit aavienea kalmar nos Hashem\", dice: \"Ve'ata vejol jot al titiaesh."
 },
 {
-"startMs": 724000,
-"endMs": 729000,
-"speaker": "Interlocutor 1",
-"text": "Dice y ahorita viene a calmarnos a Shem, dice."
+"startMs": 729528,
+"endMs": 736808,
+"text": "Ko amar Hashem boraj jaiaqov. Yesh evdel ven bore ve'en yotzer, shebore hu otsaat jomer a'davar veyotzer hu otsaat hatsura\"."
 },
 {
-"startMs": 729000,
-"endMs": 741000,
-"speaker": "Interlocutor 1",
-"text": "Y por la materia prima es boré."
+"startMs": 737608,
+"endMs": 738768,
+"text": "Tipo la materia prima"
 },
 {
-"startMs": 741000,
-"endMs": 746000,
-"speaker": "Interlocutor 1",
-"text": "Sí, y hacer."
+"startMs": 740088,
+"endMs": 752948,
+"text": "es bore. ¿Sí? Y hacer- Yotzer or uvore joshech, como dice. Sí. Entonces, cuando va a ser la materia prima, tú no puedes hacer me-materia prima, porque tú no puedes ser bore."
 },
 {
-"startMs": 746000,
-"endMs": 761000,
-"speaker": "Interlocutor 1",
-"text": "Entonces cuando va a ser la materia prima, tú no puedes hacer materia prima, porque tú no puedes ser boré. Hacer madera, no puedes hacer madera, pero darle forma a la madera si puedes. Entonces una cosa Brilla es sacar la materia prima."
+"startMs": 753488,
+"endMs": 760608,
+"text": "La-- hacer madera, no puedes hacer madera, pero darle forma a la madera sí puedes. Entonces, una cosa, briá es sacar la materia prima."
 },
 {
-"startMs": 761000,
-"endMs": 770000,
-"speaker": "Interlocutor 1",
-"text": "Entonces, ¿quién es la materia prima entre Jacob e Israel? La materia prima es Jacob. Pero esa materia prima todavía no toma forma."
+"startMs": 761688,
+"endMs": 769348,
+"text": "Entonces, ¿quién es la materia prima entre Yaakov e Israel? La materia prima es Yaakov, pero esa materia prima todavía no toma forma."
 },
 {
-"startMs": 770000,
-"endMs": 782000,
-"speaker": "Interlocutor 1",
-"text": "Jacob está caminando, yendo hacia tomar forma.¿Cuándo toma la forma completa? Cuando se llama Israel, esa es la forma que toma."
+"startMs": 770008,
+"endMs": 776288,
+"text": "Sí, Yaakov está cam-caminando, yendo hacia tomar forma. ¿Cuándo toma la forma completa?"
 },
 {
-"startMs": 782000,
-"endMs": 784000,
-"speaker": "Interlocutor 1",
-"text": "Ahora si se fijan,"
+"startMs": 776988,
+"endMs": 780588,
+"text": "Cuando se llama Israel, esa es la forma que toma."
 },
 {
-"startMs": 784000,
-"endMs": 789000,
-"speaker": "Interlocutor 1",
-"text": "Si se fijan, si se fijan,"
+"startMs": 781928,
+"endMs": 785148,
+"text": "Ahora, si se fijan- Para permitir el contenido. Si se fijan,"
 },
 {
-"startMs": 789000,
-"endMs": 795000,
-"speaker": "Interlocutor 1",
-"text": "Ves el nombre de las cosas,"
+"startMs": 787348,
+"endMs": 788048,
+"text": "si se fijan,"
 },
 {
-"startMs": 795000,
-"endMs": 798000,
-"speaker": "Interlocutor 1",
-"text": "La forma que tienen las cosas."
+"startMs": 789267,
+"endMs": 789868,
+"text": "eh,"
 },
 {
-"startMs": 798000,
-"endMs": 802000,
-"speaker": "Interlocutor 1",
-"text": "A la Marisha le puso de cada quien según la. Es la tzura."
+"startMs": 792028,
+"endMs": 798388,
+"text": "betsem, el nombre de las cosas kashur davka a la forma que tienen las cosas, ¿sí?"
 },
 {
-"startMs": 802000,
-"endMs": 838000,
-"speaker": "Interlocutor 1",
-"text": "Por ejemplo, a esto no le llamas madera.¿Le llamas mesa? Porque tiene tzura. Porque esa es la forma que en cierto punto dejó de ser madera. Eso es churá. Aunque es madera. Siempre el nombre de las cosas se toma según la forma. Entonces también el pasuk que acaba dice Karati Bishimha Liata quiere decir que yo te llamé tu nombre que cuál es el nombre que Hashem le llamó Israel cuando cuando se llamó Liata o sea cuando tomó forma Yaacobo de Liata ese es un nombre que se llama."
+"startMs": 798448,
+"endMs": 805468,
+"text": "HaLamaryon le puso de cada quien según la... La, es la tsura, ¿sí? Por ejemplo, a esto no le llamas madera."
 },
 {
-"startMs": 838000,
-"endMs": 842000,
-"speaker": "Interlocutor 1",
-"text": "Israel.¿Sí me explica? Sí."
+"startMs": 806008,
+"endMs": 812028,
+"text": "Mesa. Le llamas mesa. Porque tiene tsura. Porque esa es la forma que- En cierto punto dejó de ser madera."
 },
 {
-"startMs": 842000,
-"endMs": 854000,
-"speaker": "Interlocutor 1",
-"text": "Cuando la madera se convirtió en esta forma, se llama mesa.¿Me explico? Entonces, ¿cuál es la forma que toma la persona que se llama Iaco? Liata."
+"startMs": 812148,
+"endMs": 827768,
+"text": "Eso es tsura. No. Aunque es madera. Es madera. Siempre el nombre de las cosas se toma según la forma. Entonces, también el pasuk que acaba, dice: \"Karati besimjá li'ata\", quiere decir que yo te llamé tu nombre, que ¿cuál es el nombre que Hashem le llamó?"
 },
 {
-"startMs": 854000,
-"endMs": 859000,
-"speaker": "Interlocutor 1",
-"text": "Cómo se llama ese Liata? Israel.¿Sí me explico? Sí."
+"startMs": 827988,
+"endMs": 839228,
+"text": "Israel. ¿Cuándo? Cuando se llamó li'ata. O sea, cuando tomó forma Yaakov de li'ata, ese es un nombre que se llama Israel."
 },
 {
-"startMs": 859000,
-"endMs": 891000,
-"speaker": "Interlocutor 1",
-"text": "Ahora vamos a ver cómo dice el malvin, dice: \"Et shem ben madre ga ketana, vi Israel y creubo et shem be hashibut mit nah gin bedere knes, ruto no lo más y mitzat gilata vayatam, el homera uma ver shita vayatam em Yacob, mitzaad, zuratama atzmiit em Israel, sarimu mushlim alateva viniana. Eso es Israel, es el zar,"
+"startMs": 839228,
+"endMs": 847668,
+"text": "¿Sí me expliqué? Entonces, hombre, cuando la madera se convirtió en esta forma, se llama mesa."
 },
 {
-"startMs": 891000,
-"endMs": 901000,
-"speaker": "Interlocutor 1",
-"text": "Somos el zar de Hashem en el mundo, somos el los representantes, también somos los sarim, estamos sobre todo el mundo,"
+"startMs": 847668,
+"endMs": 853988,
+"text": "¿Me explico? Entonces, ¿cuál es la forma que toma el, la persona que se llama Yaakov? Li'ata."
 },
 {
-"startMs": 901000,
-"endMs": 907000,
-"speaker": "Interlocutor 1",
-"text": "Dice, dice,"
+"startMs": 854007,
+"endMs": 860588,
+"text": "¿Cómo se llama ese li'ata? Israel. ¿Sí me explico? Entonces, ahora vamos a ver cómo dice el Malbim."
 },
 {
-"startMs": 907000,
-"endMs": 917000,
-"speaker": "Interlocutor 1",
-"text": "Dice, dice Komar Boraja Jacob."
+"startMs": 860628,
+"endMs": 860848,
+"text": "Dice: \""
 },
 {
-"startMs": 917000,
-"endMs": 931000,
-"speaker": "Interlocutor 1",
-"text": "Y eso, \"Keneget\" está escrito \"altiraki g'altija\".¿Me explico? O sea, está oyendo que la primera parte del pasuk va contra la segunda parte. Luego Israel, \"Beget\" Israel va a hacer \"Keneget karati vishem jale ata\"."
+"startMs": 888928,
+"endMs": 896388,
+"text": "\". Ese Israel es el tsar, somos el tsar de Hashem en el mundo. Somos el, los, los representantes."
 },
 {
-"startMs": 931000,
-"endMs": 961000,
-"speaker": "Interlocutor 1",
-"text": "Me explico?\"Gualeja\" es que yo estoy contigo en el galut y yo te voy a salvar. Y luego \"Keneget\" Israel es ya se llama \"Karati vishem já\". Entonces dice \"Ko amar barajayako altiraki g'altija\".\"Simitzatr rechita vayata se behar jale Mi gulat Mitzraim, hijoa, ijuyabshi galekha shenit, kilibne israelabadim, beload de Nebuhannezzar, mitsachu yotztreja Israel, karati vesim jaliata, seliet, suratejasmid, vesem Israel, karatija vesem de amoré, killiata, shenekhat."
+"startMs": 896448,
+"endMs": 900008,
+"text": "Entonces, mi mele, también somos los tsarim, estamos sobre todo el mundo."
 },
 {
-"startMs": 961000,
-"endMs": 996000,
-"speaker": "Interlocutor 1",
-"text": "Tú eres mío, no puedes estar debajo de Nebuhannezzar. Si estás de Nebuhannezzar, falta elliata.¿Me explico? Entonces dice, shenekhan atun tagata teva, raktagata ashkahame youhel. Pero Chonol Omar, Israel, sí, no puede estar debajo de un zar, no puede estar debajo de un zar, dice. Entonces no sé si leer todo el Malvin porque va a estar largo,"
+"startMs": 901968,
+"endMs": 902308,
+"text": "Dice,"
 },
 {
-"startMs": 996000,
-"endMs": 1004000,
-"speaker": "Interlocutor 1",
-"text": "Aunque está bonito, pero ahorita vamos viendo que Pezukin vemos Malvin y que Pezukin vemos Rashim, sí."
+"startMs": 906108,
+"endMs": 906108,
+"text": ","
 },
 {
-"startMs": 1004000,
-"endMs": 1006000,
-"speaker": "Interlocutor 1",
-"text": "Entonces,"
+"startMs": 909068,
+"endMs": 914268,
+"text": "dice: \""
 },
 {
-"startMs": 1006000,
-"endMs": 1024000,
-"speaker": "Interlocutor 1",
-"text": "Fíjense, quiere decir que acá es \"lose te aqueri et si admi trainim coma el hace te shibut mal joyo ti kar, it si admi train tafelo\" eso va a ser paralelo como dice la llamada a Yacobi Israel fíjense ¿Qué significa Israel según el malvin?"
+"startMs": 915948,
+"endMs": 915948,
+"text": "\"."
 },
 {
-"startMs": 1024000,
-"endMs": 1031000,
-"speaker": "Interlocutor 1",
-"text": "Ness y ¿Qué más? Israel que nosotros somos los Sarim Iliata no puede haber nadie debajo de nosotros."
+"startMs": 917588,
+"endMs": 925228,
+"text": "Y eso, kenéged, está escrito al tiraki gealtija. ¿Me explico? O sea, está yendo-- que la primera parte del pasuk va contra la segunda parte."
 },
 {
-"startMs": 1031000,
-"endMs": 1051000,
-"speaker": "Interlocutor 1",
-"text": "Entonces eso, en otras palabras, lo que la Mara le llamó \"Shibut malhoyot\" pero Yetziat Mitzraim no es ajeno llegar a la dalgá que se llama Israel, sino ahí a cada uno creó el homer gelen, el homer gelen de Am Israel, la materia prima de Am Israel es la bria,"
+"startMs": 925308,
+"endMs": 926188,
+"text": "Luego, Israel,"
 },
 {
-"startMs": 1051000,
-"endMs": 1082000,
-"speaker": "Interlocutor 1",
-"text": "No, es la bria es la materia y entonces falta la yetzia a donde llegan a la madrega de que se llamen Israel que llegan a la daga de Shibut no alhoyot, es la daga que llegaron matantora. Pero no lograron llegar a la daga de Israel Bishlemut hasta que llegaron matantora, pero eso se rompió. Entonces mi meile de nosotros siempre somos Yacob, que busca llegar a Tlatzura, que se llama Karati Bishimhaliata, que no hay nadie debajo de nosotros."
+"startMs": 927448,
+"endMs": 935468,
+"text": "eh, Israel va a ser kenéged karati besimjá li'ata. ¿Me explico? Goaleja es que yo estoy contigo en el galut y yo te voy a salvar."
 },
 {
-"startMs": 1082000,
-"endMs": 1089000,
-"speaker": "Interlocutor 1",
-"text": "Somos legambre de Ashem, mi meile de todo el mundo está debajo de nosotros."
+"startMs": 935968,
+"endMs": 939848,
+"text": "Y luego, kenéged Israel es, ya se llama karati besimjá. Entonces, dice: \""
 },
 {
-"startMs": 1089000,
-"endMs": 1099000,
-"speaker": "Interlocutor 1",
-"text": "Entonces dice, eso yo creo que Hashem se lo está hablando a Yakov."
+"startMs": 961368,
+"endMs": 968128,
+"text": "\". Tú eres mío, no puedes estar debajo de Nebucadnezar. Si estás debajo de Nebucadnezar, falta el li'ata. ¿Me explico?"
 },
 {
-"startMs": 1099000,
-"endMs": 1101000,
-"speaker": "Interlocutor 1",
-"text": "Me explico?"
+"startMs": 968748,
+"endMs": 969728,
+"text": "Entonces, dice: \""
 },
 {
-"startMs": 1101000,
-"endMs": 1116000,
-"speaker": "Interlocutor 1",
-"text": "Sí o no?¿Por qué? Porque está aquí en cuando hay. O sea, le está diciendo a Yakov, tú eres Israel.¿Me explico? Piensas que eres Yakov pero eres Israel. Entonces me dice, si tú crees que vas a ser Israel,"
+"startMs": 993228,
+"endMs": 1001568,
+"text": "\". Entonces, no sé si leer todo el Malbim, porque va a estar largo, aunque está bonito, pero ahorita vamos viendo qué pesukim vemos Malbim y qué pesukim vemos Rashi"
 },
 {
-"startMs": 1116000,
-"endMs": 1145000,
-"speaker": "Interlocutor 1",
-"text": "No existe quita ahora va mai, mitja narot narot, dice quita lego moi, loti, hablaba, loti baba.¿Por qué? Porque eres Israel, que aniashé me lo queja, liata.¿Me explico? El aniashé me lo queja es liata. Dice que dos israelmos yaja, natati, cofreja, Mitzraim, kushus va, tajteja. Todos los leumim, todos los goim, ya sea Mitzraim, kushus se va, están tajteja, hasta esa que larga es."
+"startMs": 1004828,
+"endMs": 1010928,
+"text": ", ¿sí? Entonces, entonces fíjense, quiere decir que acá es: \""
 },
 {
-"startMs": 1145000,
-"endMs": 1153000,
-"speaker": "Interlocutor 1",
-"text": "Neva. No, larga de Israel. Todos los goims están en Tajteja."
+"startMs": 1016688,
+"endMs": 1023328,
+"text": "\". Eso va a ser paralelo, como dice la Gemara, a Yaakov y Israel. Fíjense, ¿qué significa Israel según el Malbim?"
 },
 {
-"startMs": 1153000,
-"endMs": 1183000,
-"speaker": "Interlocutor 1",
-"text": "Y por eso el pasuk le llama dos Israel, que anía se me lo queja, eso es Macbil a Matan Tora, a Nojia se me lo queja,¿sí o no? Es la Lagbois de Nojia se me lo queja, ahí llegaron a la Lagbois Lagbois, a Nojia se me lo queja, y entonces ahora dice dos Israel. Entonces soy musiaja y entonces mi maile, que todos están debajo de ti,"
+"startMs": 1023468,
+"endMs": 1030468,
+"text": "Nes. Nes, ¿y qué más? Israel, que nosotros somos los tsarim. Li'ata, no puede haber nadie debajo de nosotros."
 },
 {
-"startMs": 1183000,
-"endMs": 1208000,
-"speaker": "Interlocutor 1",
-"text": "Dice, dice y. Kilo los quite a ellos de ser como que los principales en el mundo, los mate a ellos y te puse a ti como el principal. Cofreja, cofreja,¿no? Cofreja, cofre.¿Viste como le paso que al señor dice puras cosas naturales, Israel le sale mal la de la naturaleza? Claro. Frío, fue."
+"startMs": 1030968,
+"endMs": 1048828,
+"text": "Entonces, eso en otras palabras, lo que la Gemara le llamó shivut maljuyot. Pero yetiats mitraim nos ajino llegar a la dalga que se llama Israel, sino ahí Hakadosh Baruj Hu creó el jomer guelen, el jomer guelen de Am Israel, la materia prima de Am Israel."
 },
 {
-"startMs": 1208000,
-"endMs": 1210000,
-"speaker": "Interlocutor 1",
-"text": "Sí, sí, sí."
+"startMs": 1049748,
+"endMs": 1061488,
+"text": "Es la briá. No, es la briá, es la materia- Pero falta la yetzirá. Y entonces, falta la yetzirá, a donde llegan a la madregá de que se llamen Israel, que llegan a la dalga de shivut maljuyot, es la dalga que llegaron Matán Torá."
 },
 {
-"startMs": 1210000,
-"endMs": 1216000,
-"speaker": "Interlocutor 1",
-"text": "Dice “measher yakarta veina hay mijbalta, venia havtija,"
+"startMs": 1061948,
+"endMs": 1069448,
+"text": "Pero afilo, yetiats mitraim betzmám, no lograron llegar a la dalga de Israel Bishlemut hasta que llegaron Matán Torá, pero esa se rompió."
 },
 {
-"startMs": 1216000,
-"endMs": 1221000,
-"speaker": "Interlocutor 1",
-"text": "Vete nadame takteha, ulumina takteha”."
+"startMs": 1069588,
+"endMs": 1082068,
+"text": "Entonces, mi mele, nosotros siempre somos Yaakov, que busca llegar a la tsura, a mitzvá Sh ná\", que se llama Karati besimjá li'ata, que no hay nadie debajo de nosotros."
 },
 {
-"startMs": 1221000,
-"endMs": 1234000,
-"speaker": "Interlocutor 1",
-"text": "Siempre yo soy el que pone el que yo soy el que quita todos los Adam,"
+"startMs": 1082428,
+"endMs": 1086008,
+"text": "Somos legamre de Hashem y mele todo el mundo está debajo de nosotros."
 },
 {
-"startMs": 1234000,
-"endMs": 1239000,
-"speaker": "Interlocutor 1",
-"text": "Sí, y los pongo debajo de ti,"
+"startMs": 1088268,
+"endMs": 1088788,
+"text": "Entonces, dice: \""
 },
 {
-"startMs": 1239000,
-"endMs": 1247000,
-"speaker": "Interlocutor 1",
-"text": "Dice Rashi, me asher y akarta, dice el methudo, dice."
+"startMs": 1095688,
+"endMs": 1102128,
+"text": "\". Eso yo creo que Hashem se lo está hablando a Yaakov. ¿Me explico? ¿Sí o no?"
 },
 {
-"startMs": 1247000,
-"endMs": 1258000,
-"speaker": "Interlocutor 1",
-"text": "De qué está hablando acá?"
+"startMs": 1102428,
+"endMs": 1109068,
+"text": "Sí. ¿Por qué? Porque está aquí lo-- en, en cuando hay-- o sea, le está diciendo a Yaakov: \"Yaakov, tú eres Israel\"."
 },
 {
-"startMs": 1258000,
-"endMs": 1275000,
-"speaker": "Interlocutor 1",
-"text": "Voy a recolectarlos de todos los lugares. Omar latzafón."
+"startMs": 1109068,
+"endMs": 1117188,
+"text": "¿Me explico? Piensa que eres Yaakov, pero eres Israel. Entonces, mi mele, si tú, si tú crees que vas a ser Israel, entonces betsem no existe"
 },
 {
-"startMs": 1275000,
-"endMs": 1290000,
-"speaker": "Interlocutor 1",
-"text": "Leini. Entonces yo hablo de Mizraj y está hablando del Marab. Ahora va a hablar del norte Zafón. Ultaimán es Darom, siempre Teimán es Darom. Ultaimán, Altihlei."
+"startMs": 1119028,
+"endMs": 1120488,
+"text": ". Dice: \""
 },
 {
-"startMs": 1290000,
-"endMs": 1293000,
-"speaker": "Interlocutor 1",
-"text": "Dice."
+"startMs": 1122928,
+"endMs": 1129928,
+"text": ". ¿Por qué? Porque eres Israel, que Anía Hashem eloqueja, li'ata, ¿me explico? El Anía Hashem eloqueja es li'ata."
 },
 {
-"startMs": 1293000,
-"endMs": 1300000,
-"speaker": "Interlocutor 1",
-"text": "Sí, está hablando como el Pasuk de Shirashiri. Mira Mizraj."
+"startMs": 1130548,
+"endMs": 1143229,
+"text": "Dice que dos Israel Mashiájá, Natati kofreja Mizraim, kushusvá, tajteja. Todos los leumím, todos los goim, ya sea Mitzrayim, Kush, y Seba están «taj teja»."
 },
 {
-"startMs": 1300000,
-"endMs": 1323000,
-"speaker": "Interlocutor 1",
-"text": "Donde dice, tiene el viento del chafón y el viento del tamán tienen que soplar.¿Qué significa soplar? Que todos, que traigan a todos los yudios, al gan, a Fiji Kani. Que llegan todos al gan,"
+"startMs": 1143229,
+"endMs": 1144609,
+"text": "¿Sabes a qué larga es?"
 },
 {
-"startMs": 1323000,
-"endMs": 1326000,
-"speaker": "Interlocutor 1",
-"text": "Todos los que están fuera del gan,"
+"startMs": 1145889,
+"endMs": 1153409,
+"text": "Tevah. No, larga de Israel. Ah, con todo abajo, claro. Todos los goim están taj teja, ¿sí?"
 },
 {
-"startMs": 1326000,
-"endMs": 1338000,
-"speaker": "Interlocutor 1",
-"text": "Todos los que están. todos los que están fuera del gar. Que se meta. Dice, dice así. Notay mikita. Kola nikra bishmi."
+"startMs": 1153789,
+"endMs": 1160749,
+"text": "Y por eso el pasuk le llama Kadosh Israel. Que ani Hashem eloqeja, eso es makbil a Matán Torá."
 },
 {
-"startMs": 1338000,
-"endMs": 1343000,
-"speaker": "Interlocutor 1",
-"text": "Belik body. Qué pezukin,¿Eh? Perati vietzarti."
+"startMs": 1162569,
+"endMs": 1169849,
+"text": "Anojí Hashem eloqeja, ¿sí o no? Es la largada de Anojí Hashem eloqeja, ahí llegaron a la larga, la guad, Anojí Hashem eloqeja."
 },
 {
-"startMs": 1343000,
-"endMs": 1347000,
-"speaker": "Interlocutor 1",
-"text": "Los pezukin.¿Sí te gustaron?"
+"startMs": 1170189,
+"endMs": 1176809,
+"text": "Y entonces, ahora dice Kadosh Israel. Entonces, soy Moshiajá. Y entonces, mi mele, natati kofraga Mitzrayim, Kush, y Seba."
 },
 {
-"startMs": 1347000,
-"endMs": 1350000,
-"speaker": "Interlocutor 1",
-"text": "Dice Rashi. Kolatzadikin."
+"startMs": 1176849,
+"endMs": 1186849,
+"text": "Es decir, que todos están debajo de ti, dice Rashi: «Shevejoréem metu ve'ani ve'ata bnim jorim nitzalta, vehitem jaim kle'ah»."
 },
 {
-"startMs": 1350000,
-"endMs": 1355000,
-"speaker": "Interlocutor 1",
-"text": "Anicraim bishmi."
+"startMs": 1186949,
+"endMs": 1198429,
+"text": "Como dice Matía Lehem, Betox Eretz Mitzrayim. Dice-- y, y-- «Que yo los quité a ellos de ser como que los principales en el mundo, los maté a ellos y te puse a ti como el principal del mundo»."
 },
 {
-"startMs": 1355000,
-"endMs": 1373000,
-"speaker": "Interlocutor 1",
-"text": "Vienen o no? Sí. Todo lo que pasaba en la gula,"
+"startMs": 1198449,
+"endMs": 1205989,
+"text": "Se cofreja, se cofreja, ¿no? Cofreja, sí. Cofre. Oye, ¿viste cómo el pastor canciller dice puras cosas naturales? Israel sale mal de las naturalezas."
 },
 {
-"startMs": 1373000,
-"endMs": 1381000,
-"speaker": "Interlocutor 1",
-"text": "Aún que pasaron todo lo que pasaron, les prepare toda la gula. Ahora dice aquí el malvín, dice."
+"startMs": 1206029,
+"endMs": 1220189,
+"text": "Claro. Río, fuego, mar, todo. Sí, sí, sí, sí. Dice: «Me'asher iakarta ve'einay nichbalta, ve'ani ahavtija, ve'eten Adam taj teja ulumim tagan naf teja»."
 },
 {
-"startMs": 1381000,
-"endMs": 1413000,
-"speaker": "Interlocutor 1",
-"text": "Eh perdón el metudo dice que se llaman Beetzem Israel mechudot dice de nuestros kolen krabishmi, colistraen nicraim, beshem, amachem entonces yo creo que Beetzem es el Shem Israel ¿Qué?¿No tienes metudo? Sí, sí, sí, pero es un balazo en lo que cambia de rash a mechudot se nos complica dice."
+"startMs": 1222069,
+"endMs": 1227569,
+"text": "Dice Rashi: «Ve'eten Adam tamid ani ragil bekaj». Siempre yo soy el que pone--"
 },
 {
-"startMs": 1413000,
-"endMs": 1417000,
-"speaker": "Interlocutor 1",
-"text": "Ya,"
+"startMs": 1229029,
+"endMs": 1229389,
+"text": "el que--"
 },
 {
-"startMs": 1417000,
-"endMs": 1434000,
-"speaker": "Interlocutor 1",
-"text": "Se abre o no? Estos son los cuatro olamuts,"
+"startMs": 1231229,
+"endMs": 1234389,
+"text": "yo soy el que quita todos los Adam, ¿sí?"
 },
 {
-"startMs": 1434000,
-"endMs": 1436000,
-"speaker": "Interlocutor 1",
+"startMs": 1235809,
+"endMs": 1237229,
+"text": "Y los pongo debajo de ti."
+},
+{
+"startMs": 1239169,
+"endMs": 1255449,
+"text": "Dice Rashi- Tamid ani ragil bekaj. «Me'asher iakarta», dice el Metsudot, dice: «Ba'abur asher iakarta ve'einay me nichbalta mikol olam, ve'ani ahavtija, ulezder dargil liten bnei Adam ajerim taj teja ule'umim, kefel adaver, me'ot shonot, komer ka'asher asití lesha'avar, ken osif lasot ot»."
+},
+{
+"startMs": 1255969,
+"endMs": 1263349,
+"text": "Dice: «Al tira ki itja ani, mimizraj avi zarah'ajá u memoirs árav akav tjejá»."
+},
+{
+"startMs": 1263409,
+"endMs": 1273649,
+"text": "De qué está hablando acá. Que si en luz galuyá. ¿Sí? Que no te va a recolectar. Voy a recolectarlos de todos los, los, eh, los lugares."
+},
+{
+"startMs": 1273789,
+"endMs": 1280829,
+"text": "Omar la Tsafón Teini. Entonces, ya habló de Mizraj y está hablando del Maharav."
+},
+{
+"startMs": 1281529,
+"endMs": 1289129,
+"text": "Ahora va a hablar del norte, Tsafón. Ulteimán es Darom. Siempre Teimán es Darom. Ulteimán, al tijleí."
+},
+{
+"startMs": 1290449,
+"endMs": 1291189,
+"text": "Dice..."
+},
+{
+"startMs": 1293209,
+"endMs": 1306069,
+"text": "Sí, está hablando como el pasuk de Shir Hashirim, dice Rashi. Mira Mizraj. Oi Tsafón uoi Teimán. Ki Israel Shegalú la'ertsot haMizraj, shema'aser et ha'shvatim, en om nufuzarim, en om tsijim kibutz, ki ioshvim kulam makom ejad."
+},
+{
+"startMs": 1306069,
+"endMs": 1314709,
+"text": "¿Sí? Lo dice así. Sí. Donde dice-- tiene-- o sea, el viento del Tsafón y el viento del Tamán tienen que soplar."
+},
+{
+"startMs": 1314909,
+"endMs": 1322709,
+"text": "¿Qué significa soplar? Que todos, que traigan a todos los judíos al Gan, a fij y ganí, que llegan todos al Gan."
+},
+{
+"startMs": 1322969,
+"endMs": 1329969,
+"text": "Todos los que están fuera del Gan, todos los que están-- . Todos los que están fuera del Gan."
+},
+{
+"startMs": 1330369,
+"endMs": 1339089,
+"text": "Para Sadeh. Que se, que se meta. Dice, dice así: «Notay mikitz ha'arets, kol hanikrá bishmi velivodi»."
+},
+{
+"startMs": 1339729,
+"endMs": 1346249,
+"text": "Qué, qué, qué pesukim, ¿eh? «Berativ, ietsartiv, af asitiv». Dos pesukim. ¿Sí te gustaron?"
+},
+{
+"startMs": 1347509,
+"endMs": 1349789,
+"text": "Dice Rashi: «Kol ha'tsadikim"
+},
+{
+"startMs": 1351049,
+"endMs": 1361749,
+"text": "hanikraim bishmi». ¿Tienen o no? Sí. Dice: «Kol ha'tsadikim hanikraim bishmi, vekol a'asui lichvodi, ietsartiv, af asitiv."
+},
+{
+"startMs": 1362269,
+"endMs": 1370469,
+"text": "Tejan tí bejol ha'tsarij lo, vejan tí hakol. Klomar, af al pi que abru ba'agolá u'atsará, כבר ichanti lahem kol tzorjei ge'ulatám»."
+},
+{
+"startMs": 1371189,
+"endMs": 1378509,
+"text": "Es decir, todo lo que pasaron la Geulá, aun que pasaron todo lo que pasaron, béetzem ya les preparé toda la Geulá."
+},
+{
+"startMs": 1379009,
+"endMs": 1380609,
+"text": "Ahora dice aquí, el Malbim dice--"
+},
+{
+"startMs": 1381909,
+"endMs": 1389789,
+"text": "eh, perdón, el Metsudot dice: «Kol hanishmá kra bishmi, kol Israel hanikraim beshem Am Hashem». O sea, que se llaman béetzem Israel."
+},
+{
+"startMs": 1390929,
+"endMs": 1399189,
+"text": "Metsudot. ¿Metsudot o Rashi? Metsudot. Rashi era . Dice-- dice Metsudot: «Kol hanikrá bishmi, kol Israel nikraim beshem Am Hashem»."
+},
+{
+"startMs": 1399528,
+"endMs": 1406769,
+"text": "Entonces, digo que béetzem es el Shem, Shem Israel. ¿Qué? ¿No tienes Metsudot? Sí, sí, sí, pero es un halajá. En lo que cambia de Rashi a Metsudot se nos complica."
+},
+{
+"startMs": 1409029,
+"endMs": 1412969,
+"text": "Dice: «Ulichvodi». ¿Ya? ¿Se abrió o no? Sí."
+},
+{
+"startMs": 1417749,
+"endMs": 1427669,
+"text": "«Kol hanikrá bishmi, kol Israel hanikraim beshem Am Hashem. Velichvodi, ana'ase litkaved ulitfaer baem, como se néemar: Israel shebija itfaer berativ»."
+},
+{
+"startMs": 1428329,
+"endMs": 1432489,
+"text": "Eso lo mar-- «Kvar ichanti lo kol tzorjei geulá, en jachsor»."
+},
+{
+"startMs": 1434649,
+"endMs": 1441469,
+"text": "Estos son los cuatro olamots, ¿sí? «Kol hanikrá bishmi» es atsilut. «Berativ» es britjá. «Ietsartiv», yetzirá."
+},
+{
+"startMs": 1441729,
+"endMs": 1449089,
+"text": "«Af asitiv». Asiá. Eso lo llama Asiá. Es que ahora el Malbim cómo lo explica, porque no me queda tan claro Rashi en Metsudot."
+},
+{
+"startMs": 1449109,
+"endMs": 1455209,
+"text": "Está en el lashón de Borei de... Claro, claro, Borei Yetzer. Pero ahorita se aumentó atsilut y asiá."
+},
+{
+"startMs": 1455209,
+"endMs": 1460789,
+"text": "¿El Malbim lo cerraste? ¿Eh? ¿El Malbim lo cerraste? No, no hice eso. No hice eso."
+},
+{
+"startMs": 1462309,
+"endMs": 1462869,
+"text": "No hice eso."
+},
+{
+"startMs": 1466509,
+"endMs": 1467909,
+"text": "No lo cerré, no sé de dónde salió."
+},
+{
+"startMs": 1470329,
+"endMs": 1477109,
+"text": "Porque hacen los caminos y no tienen gente, ¿no? O sea, nada. Por eso es que aquí hay un efecto, nosotros llamamos- No, no, no explica mucho el Malbim."
+},
+{
+"startMs": 1477269,
+"endMs": 1481969,
+"text": "Toda la britjá es-- ¿Quién no está el nombre de Hashem? Yo no, no, no lo entendía."
+},
+{
+"startMs": 1485289,
+"endMs": 1492549,
+"text": "O sea, ¿toda la britjá? O sea, ¿todo el midjájas Hashem o no? O hay lugares, ¿no?"
+},
+{
+"startMs": 1492549,
+"endMs": 1493129,
+"text": "¿No es lo que ustedes dicen?"
+},
+{
+"startMs": 1499549,
+"endMs": 1509857,
+"text": "Bueno, ahorita si no entendemos más, ahorita a ver si entendemos más ese paso. Dice: «Otzim Am Iver ve'einayim yesh ve'chereshim ve'oznayim ra."
+},
+{
+"startMs": 1509877,
+"endMs": 1514597,
+"text": "¿Qué pasuk es? Pasuk J. Pasuk ¿Cuál es el maldín?"
+},
+{
+"startMs": 1530777,
+"endMs": 1536197,
+"text": "No, el pasuk. Ah, el pasuk. Pasuk J, dice: Ozi am Iver ve'oznayim yesh."
+},
+{
+"startMs": 1537557,
+"endMs": 1548237,
+"text": "Saqué del galut- Ve'einayim yesh. Ve'einayim yesh. Saqué del galut a un pueblo ciego, aun siendo que tienen ojos."
+},
+{
+"startMs": 1548717,
+"endMs": 1555377,
+"text": "Saqué a un pueblo sordo, aun siendo que tienen oídos. ¿Puedes creer que eso está escrito en nosotros?"
+},
+{
+"startMs": 1556057,
+"endMs": 1565857,
+"text": "Pues sí, sí lo puedo creer. Claro. O sea, en la Geulá te vas a dar cuenta que hasta ahorita estás ciego. Claro, claro, claro. Y aunque tenías ojos, te vas a dar cuenta que estabas sordo, aunque tenías oídos."
+},
+{
+"startMs": 1565917,
+"endMs": 1575817,
+"text": "Oídos tipo literal. Conoces, por ahí, a un señor Yid Hakimal, ¿o no? Una vez lo vimos. Bletter. ¿No? Claro. Que viene el Bletter, que parece ciego, que parece cojo, que parece esto."
+},
+{
+"startMs": 1575857,
+"endMs": 1581797,
+"text": "Y es porque no escucha los colores de acá, porque está... Pero justo el, el, lo, la falta que se ve, justamente es el tikún más grande que hay."
+},
+{
+"startMs": 1583517,
+"endMs": 1592417,
+"text": "La falta de-- Trae ciego y trae todo y dice cada quien quién es. Jacob, Moshé, Yosef. Que ellos eran los ciegos. Que parecen ser ciegos, parecen cojos, parece no sé qué, pero obviamente..."
+},
+{
+"startMs": 1593377,
+"endMs": 1600337,
+"text": "Yo creo que Betzem, esta es la Dargá de salir de-- la Dargá que se llama Jacob a la Dargá que se llama Israel."
+},
+{
+"startMs": 1603817,
+"endMs": 1604877,
+"text": "Yo escucho, yo escucho."
+},
+{
+"startMs": 1606737,
+"endMs": 1607717,
+"text": "No, agárrate ahí, ahí, ahí."
+},
+{
+"startMs": 1610637,
+"endMs": 1620177,
+"text": "Yo creo que esta es la Dargá de Jacob a Israel, fíjense. Porque si Jacob es el homer y Israel es la tsura, entonces quiere decir: Oznayim, einayim yesh."
+},
+{
+"startMs": 1621137,
+"endMs": 1628477,
+"text": "Hay homer de einayim, pero si no ves, falta tsura. Tienes, tienes oznayim, pero no tienen todavía la tsura de oznayim."
+},
+{
+"startMs": 1628637,
+"endMs": 1636217,
+"text": "Claro, el ciego y el, y el físicamente tiene, pero no ve. Todo, todo es seperek, ¿no? Es sobre los goim. Es el mismo concepto."
+},
+{
+"startMs": 1636817,
+"endMs": 1644117,
+"text": "El sordo en el mundo tiene orejas. Mmm, sí. O sea. Tiene homer, pero no tiene tsura. Entonces, quiere decir acá,"
+},
+{
+"startMs": 1645397,
+"endMs": 1653057,
+"text": "cuando usamos y llegamos a la Dargá de Israel, es que ya se usan todos los oznayim, los einayim, para representar el Tzelem Elohim."
+},
+{
+"startMs": 1653577,
+"endMs": 1661737,
+"text": "Ojo. Que es la Dargá de Israel, que es la Dargá más boa de Am Israel. Entonces, dice: ¿Y qué va a pasar? Kol ha-gojim nikbetzu yajdav."
+},
+{
+"startMs": 1662577,
+"endMs": 1667397,
+"text": "Se van a unir, reunir todos los goim alrededor de ustedes, ve-yesfu le'umim."
+},
+{
+"startMs": 1669397,
+"endMs": 1675976,
+"text": "Dice: Ki bahem yegidut zot, yegid zot. ¿Qué dice acá?"
+},
+{
+"startMs": 1676797,
+"endMs": 1677577,
+"text": "Esta es la Geulá,"
+},
+{
+"startMs": 1679017,
+"endMs": 1679497,
+"text": "eh, final, ¿no?"
+},
+{
+"startMs": 1681417,
+"endMs": 1689377,
+"text": "Dice: Mi el nejar bajem sheyagid ve'davar ze yavo keshem sheani magid al kol sheaden lo yetze ve'etavalo."
+},
+{
+"startMs": 1689437,
+"endMs": 1701097,
+"text": "Nigid utenem yavo ki hu yevne iri ve'galuti. O sea, puede ser también que esté hablando de, de Geulá Baichanin, pero pashtut, todo se ve del-- nuestra Dargá de Avodah, que se ve que está hablando de la Geulá Tidham Purash."
+},
+{
+"startMs": 1701677,
+"endMs": 1709617,
+"text": "Y también, fíjate los tsukim, se ve que es eso. Claro, porque se va a olvidar. Arba Kafot y todo. Claro. Dice: Kol ha-gojim nikbetzu yajdav ve'esfu le'umim."
+},
+{
+"startMs": 1709677,
+"endMs": 1717497,
+"text": "Yibaen yegid zot verishonot tishme'unu. Itnu edehem ve'hitzdaku. Ve'yashmi'u ve'yomru emet."
+},
+{
+"startMs": 1718237,
+"endMs": 1722577,
+"text": "O sea, como que van a entregar sus coronas. ¿Me entienden, no?"
+},
+{
+"startMs": 1724897,
+"endMs": 1731377,
+"text": "Hitzdaku ve'yishmu. O van a poner como que testigos para atestiguar que la verdad siempre estaba..."
+},
+{
+"startMs": 1731456,
+"endMs": 1744597,
+"text": "Por eso, se van a quitar sus coronas de ellos y se las van a dar a Israel, yo creo, ¿no? Sí, o, o van a poner testigos, van a como que atestiguar de que ellos, dice: Ve'rotzon amar yavi'u edim sheyishmi'u davar at lo, at lo bavazi yu."
+},
+{
+"startMs": 1746857,
+"endMs": 1755317,
+"text": "Dice: Tzadikim bedibrem yishme'u. Oh, yishme'u ma sheomar hanavi yomru emet hadavar komar hanevi edim. Entonces, dice: Atem eidai, neum Hashem."
+},
+{
+"startMs": 1755317,
+"endMs": 1762776,
+"text": "¿Esta qué Dargá es? Israel. Atem eidai. Atem eidai es-- pashtut, betah, betah Am Israel y betah Hashem."
+},
+{
+"startMs": 1763476,
+"endMs": 1770417,
+"text": "Nosotros somos los que atestiguamos sobre- La presencia de Hashem. La presencia de Hashem en el mundo. Atem eidai, neum Hashem."
+},
+{
+"startMs": 1771097,
+"endMs": 1778377,
+"text": "Dice: Ve'avdi asher bajarti. Lema ante dehu beta'aminu li, ve'tavinu ki ani hu."
+},
+{
+"startMs": 1778997,
+"endMs": 1788677,
+"text": "Lefanai lo nosar el, ve'afanai lo... Esta, esta Dargá es la Dargá la que todo el tiempo estamos hablando, del, del Ijud Bet."
+},
+{
+"startMs": 1789277,
+"endMs": 1797397,
+"text": "Que yo siempre estaba. Entonces, cuando se revele la Dargá de Israel, va a salir-- cuando somos Jacob, no somos Edim."
+},
+{
+"startMs": 1797397,
+"endMs": 1806217,
+"text": "¿Sí o no? Claro. Entonces, vean qué atzún. Pero Jacob, areh, es Israel. ¿Qué?"
+},
+{
+"startMs": 1806257,
+"endMs": 1813877,
+"text": "Pasuk Yud Alef. Yud Alef. No lo leí. Pues leímos el Yud. Entonces, tenemos la Dargá, todo el galut fuimos Jacob."
+},
+{
+"startMs": 1815057,
+"endMs": 1823517,
+"text": "En Jacob, vean qué profundo, en Jacob no somos Edim. ¿Por qué no somos Edim? Porque están los goim de arriba, de arriba de nosotros."
+},
+{
+"startMs": 1824037,
+"endMs": 1826757,
+"text": "No sé ya si tú eres el representante de Hashem que alguien te pise."
+},
+{
+"startMs": 1828757,
+"endMs": 1835657,
+"text": "Pero luego se revela que Jacob Betzem es Israel. Y entonces, cuando se revela que Jacob Betzem es Israel, entonces quiere"
+},
+{
+"startMs": 1836937,
+"endMs": 1843877,
+"text": "decir que Atem Edai. Ahora, si Atem Edai, ¿qué pasa con Jacob? Areh, Jacob es Israel."
+},
+{
+"startMs": 1844417,
+"endMs": 1851437,
+"text": "Entonces, quiere decir ahorita que akama que somos los que Betzem representamos el nombre de Hashem, quiere decir que siempre lo representamos."
+},
+{
+"startMs": 1851437,
+"endMs": 1858817,
+"text": "¿Me explico? Entonces, lo que dice el pasuk: Atem Edai, neum Hashem, ve'avdi asher bajarti. Avdi es la Dargá de Jacob."
+},
+{
+"startMs": 1858837,
+"endMs": 1864197,
+"text": "¿Sí? Avdi es la-- Edai es la Dargá de Israel. Ve'avdi, even, es--"
+},
+{
+"startMs": 1865937,
+"endMs": 1873117,
+"text": "estás trabajando, estás estudiando. Jacob. Lema ante dehu beta'aminu li, ve'tavinu ki ani hu. Lefanai lo nosar el, ve'afanai lo..."
+},
+{
+"startMs": 1873476,
+"endMs": 1883517,
+"text": "Entonces, entonces, el edut que Gorem Israel es que siempre, desde que eran Jacob. ¿Sí? \"Anokí, Anokí Hashem, ve'en mivelaadai moshiá\"."
+},
+{
+"startMs": 1884177,
+"endMs": 1893297,
+"text": "Dice: \"Anokí higadeti ve'hošati, ve'ishmati, ve'en bajem zár, va'atem edai'u Hashem va'ani keli\"."
+},
+{
+"startMs": 1893337,
+"endMs": 1898857,
+"text": "\"Anokí, Anokí, Anokí\", por esto. Dice- ¿Qué significa?"
+},
+{
+"startMs": 1902937,
+"endMs": 1909057,
+"text": "No, no, no, sigue, sigue. Dice: \"Anokí higadeti ve'hošati\". ¿Qué es Anokí higadeti? Dice Rashi: \"Galut le'Avraham\"."
+},
+{
+"startMs": 1909956,
+"endMs": 1921697,
+"text": "Entonces, mire, si fuera-- aquí es algo muy amor. Arei está hablando de que el galut yo lo dije antes de que pase."
+},
+{
+"startMs": 1922777,
+"endMs": 1930137,
+"text": "Si el galut solo empezó después de que empezó... Claro, entonces no sería siempre-- Entonces- No lo podía haber mencionado."
+},
+{
+"startMs": 1930157,
+"endMs": 1938117,
+"text": "Entonces, el galut fue una fase. Claro. Pero si yo dije el galut que va a pasar antes de que pase, entonces, ¿quién está debajo de quién?"
+},
+{
+"startMs": 1939397,
+"endMs": 1956857,
+"text": "O sea, Paró- Todo este era-- estaba bajo Hashem. Sí. Paró era el títere de Hashem. Paró fue el títere, ¿me explico? Entonces, nosotros aún siendo que estamos en galut, entonces, cuando se revela al final la verdad de Israel, sale que Yaacov, lo que se-- lo que explicamos, que Am Yisrael cuando estaban en Mitzráim, aún siendo que eran abadím,"
+},
+{
+"startMs": 1958117,
+"endMs": 1965897,
+"text": "en el gilú de la tit la'om, vala y galut de Mafrea, que, que el héroe era Paró, que Paró, bé'etem, él nos estaba puliendo, nos estaba haciendo."
+},
+{
+"startMs": 1966577,
+"endMs": 1968897,
+"text": "Ora, otra vez, eso no se quita el Shem de Yaacov."
+},
+{
+"startMs": 1970177,
+"endMs": 1977097,
+"text": "Porque no es que nosotros teníamos la shlitá sobre ellos. Claro, claro. ¿Sí? Es, es, es- Por eso, por eso no se anula, por eso nada más es tafel."
+},
+{
+"startMs": 1977377,
+"endMs": 1983677,
+"text": "Sí, esa es la nekuda que es tafel, de que Yaacov es más el tafel, bé'etzem Israel. Es como un teatro. ¿Eh?"
+},
+{
+"startMs": 1983837,
+"endMs": 1987257,
+"text": "Ahorita el actor es-- está actuando el papel de Yaacov. Sí."
+},
+{
+"startMs": 1988717,
+"endMs": 1998057,
+"text": "Sí, sí, sí, sí. Lo pone en el gilú. Paró, yo lo pondré nada más como Paró. Paró es gilú, ahorita es el, el que le toca salir al telón, ¿me explico?"
+},
+{
+"startMs": 1998657,
+"endMs": 2001257,
+"text": "Dice: \"Gam, gam miyom ani hu,"
+},
+{
+"startMs": 2002637,
+"endMs": 2010136,
+"text": "ve'en me'yadi matzil. Ef'alu mi yeshivenu\". Dice... \"Ko amar Hashem\"."
+},
+{
+"startMs": 2011976,
+"endMs": 2018157,
+"text": "Dice: \"Lo oto hayom levado haiti levadi, ki gam az hayot yom ani hu levadi\"."
+},
+{
+"startMs": 2018697,
+"endMs": 2027017,
+"text": "No nada más en la Geulá Atida, ve'nisgav Hashem levado, sino desde siempre, ata megalé lemafre'a, que nisgav Hashem levado."
+},
+{
+"startMs": 2027677,
+"endMs": 2034257,
+"text": "Dice: \"Ko amar Hashem, goalejem k'dos Israel\". \"Goalejem Israel\". Sí. \"Goalejem k'dos Israel."
+},
+{
+"startMs": 2034917,
+"endMs": 2041337,
+"text": "Lema'anajem shilajti bavela\". Dice: \"Por ustedes\" Todo es para ti."
+},
+{
+"startMs": 2042597,
+"endMs": 2048976,
+"text": "Dice... \"Shilajti bavela\", yo los mandé. \"Lema'anajem\". Para ustedes. Para ustedes los mandé a Babel."
+},
+{
+"startMs": 2048976,
+"endMs": 2055157,
+"text": "Es que gilú yo pa' molestarlos. Sí. Vorá de ti, no, al fugh, para tu bien. Eso, eso es lo que dijo."
+},
+{
+"startMs": 2055177,
+"endMs": 2067917,
+"text": "Sí. \"Lema'anajem\". Claro. Vorá de ti barijim, kulam, ve'kasdim, va'oniot rinatam\". Dice: \"Yo, yo mandé a los kasdim, a los bavlim, yo, yo los mandé en barcos atrás de ustedes\"."
+},
+{
+"startMs": 2068377,
+"endMs": 2074737,
+"text": "Sí. \"Ani Hashem k'doshejem, bore Israel melkejem\". Yo siempre, bé'etzem, yo, yo siempre fui su rey."
+},
+{
+"startMs": 2075237,
+"endMs": 2083077,
+"text": "Ko amar Hashem. Bore Israel. \"Anoten bayam darej\". ¡Ojo! \"Uve mayim azim netiva\"."
+},
+{
+"startMs": 2083077,
+"endMs": 2092016,
+"text": "¡Ojo! ¿Qué es anoten bayam darej? Teshuvá. Es que-- sí, sí, es el concepto de la Teshuvá, la conceptoa de-- Entonces, ¿qué es anoten bayam darej?"
+},
+{
+"startMs": 2092437,
+"endMs": 2098877,
+"text": "Es que afil-- ¿qué? El yam es el galut. Es, es un poco se parece al Masé, porque anoten bayam darej, y ahí--"
+},
+{
+"startMs": 2100157,
+"endMs": 2109237,
+"text": "y Rabi Yeshúa sabía que no, que iba a haber un bilbul a la mitad. Sí. Sí, sí, sí. Sí. Y luego los alumnos saben contar las tipot que hay en el yam."
+},
+{
+"startMs": 2109517,
+"endMs": 2117017,
+"text": "Sí. ¿Qué significa que los alumnos saben contar las tipot que hay en el yam? Doctor Mered, es- No está todo así sin, sin que nada."
+},
+{
+"startMs": 2117477,
+"endMs": 2130937,
+"text": "No, es-- según Abba Gabriel, siempre necesitas agarrarte a la Geulá. Según Abba Yeshúa, puedes aceptar el galut. En el momento que aceptas el galut, el galut es yam, es un lugar donde no hay, no hay sede, no hay camino, bé'etzem."
+},
+{
+"startMs": 2131617,
+"endMs": 2139997,
+"text": "Y entonces, el maalaj es agarrar del galut mismo y convertir un derej en el galut. ¿Me explico? Esa es la darigá que estamos hablando acá todo el tiempo."
+},
+{
+"startMs": 2140836,
+"endMs": 2151377,
+"text": "Entonces, anoten bayam darej es que en el galut, ve'atsmo, puse derej. Eso se llama teshuvá, fíjense, que el donot nefajím lo, les joyot."
+},
+{
+"startMs": 2151997,
+"endMs": 2158697,
+"text": "Doctor Mered, que todo el yam y todo el bilbul al final de repente se convirtió en un derej, lemafre'a. ¿Sí me explico?"
+},
+{
+"startMs": 2159157,
+"endMs": 2168837,
+"text": "Doctor Mered, que bé'etzem es un-- hay un derej, pero para nuestro mundo es un yam. Pero dice: \"Ani Hashem\", dice: \"Ko amar Hashem, anoten bayam derej, uve mayim azim netivá\"."
+},
+{
+"startMs": 2169577,
+"endMs": 2178857,
+"text": "Y en aguas fuertes puso un netiv, un camino. Dice: \"Amotsi rejev asuf vejayim bizuz yajdav, yeshevú balechem uvezahú kepishtá kabú\"."
+},
+{
+"startMs": 2179797,
+"endMs": 2186857,
+"text": "Dice, este es nuestro pasuk: \"Al tiskerú rishonot\". O sea, ya después de todo esto, ya viene mamá de la mano."
+},
+{
+"startMs": 2187377,
+"endMs": 2194377,
+"text": "Después de estar hablando de qué pasa con Israel, qué pasa con Yaacov y qué pasa con Israel cuando-- con Yaacov, lemafre'a."
+},
+{
+"startMs": 2194957,
+"endMs": 2201217,
+"text": "Entonces, ahí el pasuk claramente ya viene y te dice: \"Al tiskerú rishonot vekadmoniot\", al tisbonan."
+},
+{
+"startMs": 2201737,
+"endMs": 2208497,
+"text": "Entonces, mamá sale que el peshat pasuk del pasuk es lo que dice la Gemara con Yaacov y Israel. Si no, son dos cosas."
+},
+{
+"startMs": 2218737,
+"endMs": 2219636,
+"text": "Está muy temprano hoy."
+},
+{
+"startMs": 2262897,
+"endMs": 2263817,
+"text": "Entonces, dice aquí..."
+},
+{
+"startMs": 2268257,
+"endMs": 2272417,
+"text": "Estamos Yeshayahu perej mem guimel. Yeshayahu."
+},
+{
+"startMs": 2275237,
+"endMs": 2277377,
+"text": "Pasuk yu-- jet. Sí."
+},
+{
+"startMs": 2282839,
+"endMs": 2291879,
+"text": "Hola, weón. Altis keru rishonot vekatmoniot, altit bonanu. Perdón, perdón. Te puedo hacer una pregunta rápida del pasuk de antes. El pasu-- el pasuk de, que viene de los olamot, de ahí se aprenden los olamot, ¿no?"
+},
+{
+"startMs": 2292499,
+"endMs": 2294959,
+"text": "Sí. Es el mejor para aprender los olamot, ¿no? Sí. Okey, ya."
+},
+{
+"startMs": 2298138,
+"endMs": 2304118,
+"text": "Y también en ese pasuk, es el pasuk que trae la Mishná pa' explicar que el tajlit de Briat HaOlam es kol ma shebara El Kodsh Borocho velamo--"
+},
+{
+"startMs": 2305538,
+"endMs": 2308178,
+"text": "sheh naamar, kol hamikra beshmó. Dice:"
+},
+{
+"startMs": 2313899,
+"endMs": 2315319,
+"text": "yud chet, yud tet, dice."
+},
+{
+"startMs": 2318158,
+"endMs": 2326218,
+"text": "Ata titzmach, ahorita va. A florecer esta nueva Geulá, lo te da ua. Afasim bamidbar derej ubi shimon neharot."
+},
+{
+"startMs": 2326218,
+"endMs": 2334178,
+"text": "¿Otra vez el derej en el midbar? Eh, es-- antes era en el yam, ahorita el midbar. Midbar es-- otra vez, es, eh, se llama-- el Galut se llama Midbar Amim."
+},
+{
+"startMs": 2334258,
+"endMs": 2345419,
+"text": "Es un lugar donde Am Yisrael no tiene lugar ahí, no tiene existencia ahí. Y Hashem pone derej en el midbar. Bi shimon, en un lugar de la shmamá desolado, puso neharot."
+},
+{
+"startMs": 2345459,
+"endMs": 2345598,
+"text": "Dice:"
+},
+{
+"startMs": 2349019,
+"endMs": 2360098,
+"text": ". Estoy escribiendo aquí algo muy loco."
+},
+{
+"startMs": 2360999,
+"endMs": 2369299,
+"text": "Dice así: Los animales de los campos, lo-- el tanim ufnote yaana son los animales que hab-- que, de los desiertos, ¿sí?"
+},
+{
+"startMs": 2369379,
+"endMs": 2370198,
+"text": "Y de los mares."
+},
+{
+"startMs": 2371578,
+"endMs": 2377638,
+"text": "Ellos no tienen comida, porque en esos lugares no hay comida, en el midbar y en el mar."
+},
+{
+"startMs": 2377738,
+"endMs": 2384598,
+"text": "¿Por qué no? No entendí. Escucha. Entonces, entonces, dice: ellos me van a dar kavod. ¿De qué se refiere?"
+},
+{
+"startMs": 2384758,
+"endMs": 2391459,
+"text": "Se refiere así: Am Yisrael en el Galut fuimos a un midbar. En el midbar no tiene por qué haber comida."
+},
+{
+"startMs": 2392138,
+"endMs": 2405379,
+"text": "Quiere decir que todos los goim, o sea, todos los, los, los que viven en ese lugar que se llama midbar, en ese lugar que se llama yam, todo lo que les llegó shefa es nada más por nosotros."
+},
+{
+"startMs": 2406299,
+"endMs": 2415278,
+"text": "Y entonces ellos van a venir a lejaver a Hashem en la Geulá Tirah, que van a ver que de esto le estaba dando a Israel y por eso nos tocó a nosotros."
+},
+{
+"startMs": 2415738,
+"endMs": 2421879,
+"text": "Por eso dice el pasuk en Shira Hashirim, se llama: Shuvi, shuvi- Shulamit. Shunamit."
+},
+{
+"startMs": 2422238,
+"endMs": 2432499,
+"text": "Shulamit. Shuvi, shuvi ve nejazeh bach. Entonces, Am Yisrael van a la Geulá y entonces todos los goim empiezan a gritar: «Shuvi, shuvi, a Shulamit»."
+},
+{
+"startMs": 2432519,
+"endMs": 2443019,
+"text": "¿Cómo? La Shulamit, Israel, ¡regresa! De repente van a ver cómo no hay nada. Van a ver cómo todo el shefa, toda la berajá, todas las cosas, ya no hay nada."
+},
+{
+"startMs": 2443718,
+"endMs": 2451158,
+"text": "Y de repente, tipo, lo, lo viene así, hijito, que va a nacer con sombrero así, tipo así. Con palanco ahí, con una bolsa de súper."
+},
+{
+"startMs": 2451259,
+"endMs": 2458218,
+"text": "Con la bolsa de súper. De repente se van, se van todos y de repente se vacía todo, todo el shefa se vacía."
+},
+{
+"startMs": 2458979,
+"endMs": 2466598,
+"text": "Todo el shefa se vacía y entonces se vuelven locos y dicen: «Shuvi, shuvi a Shulamit. Shuvi, shuvi ve nejazeh bach»."
+},
+{
+"startMs": 2466738,
+"endMs": 2472999,
+"text": "Dice: «No, queremos ver qui- quién eras, tipo, tipo, ¿q-qué hacías? Te queremos ver». ¿Sí? Y entonces Hashem les dice:"
+},
+{
+"startMs": 2477299,
+"endMs": 2484319,
+"text": ". Dice: «No, no, ella es jelek del Majané Shjiná». ¿Y qué crees? Que va a ir-- dice que los goim van a ofrecer: «Vente de presidente»."
+},
+{
+"startMs": 2485178,
+"endMs": 2492479,
+"text": "Dice: «Pero vente». Dice: «No, no, prefieren ser acá, estar acomodados en los ma-- en los-- en, como en los de Galim, en el midbar."
+},
+{
+"startMs": 2493058,
+"endMs": 2498238,
+"text": "Prefieren estar acomodados como jelek del Majané Shjiná a ser presidente ahí en tu lugar»."
+},
+{
+"startMs": 2500319,
+"endMs": 2502598,
+"text": "Entonces, entonces,"
+},
+{
+"startMs": 2505058,
+"endMs": 2511459,
+"text": "entonces dice: le ha- ¿Por qué la Shulamit es Israel nomás? Para quedármelo. ¿Eh? ¿Por qué la Shulamit es Israel?"
+},
+{
+"startMs": 2511459,
+"endMs": 2516218,
+"text": "Shlemá. Se dan cuenta que Am Yisrael era la, la, la, el, el shlemut."
+},
+{
+"startMs": 2517638,
+"endMs": 2517979,
+"text": "Dice:"
+},
+{
+"startMs": 2520598,
+"endMs": 2526718,
+"text": "Ese pueblo-- fíjense cómo esto es que Yaakov se hace Israel. ¿Están, están entendiendo? Yaakov es el Mishkén."
+},
+{
+"startMs": 2527399,
+"endMs": 2534198,
+"text": "De repente ahorita se va Yaakov y se dan cuenta que él era el mejor de todo el shefa de allá. Entonces,"
+},
+{
+"startMs": 2536879,
+"endMs": 2537298,
+"text": ". Dice:"
+},
+{
+"startMs": 2544459,
+"endMs": 2547778,
+"text": ". Dice-- dice Rashi, aquí es una tojejám Israel vepastur. Dice:"
+},
+{
+"startMs": 2549399,
+"endMs": 2549399,
+"text": "."
+},
+{
+"startMs": 2552959,
+"endMs": 2553198,
+"text": "Dice:"
+},
+{
+"startMs": 2555019,
+"endMs": 2559218,
+"text": ". Dice: «Te cansaste de mi aboná». Dice: «Estando en el Galut»"
+},
+{
+"startMs": 2562618,
+"endMs": 2563778,
+"text": "«Estando en el Galut--"
+},
+{
+"startMs": 2565718,
+"endMs": 2573019,
+"text": "estando en el Galut», dice, «haré acá--» piensa: «¿De dónde-- a quién le llamas para recibir tu shefa?"
+},
+{
+"startMs": 2573959,
+"endMs": 2584778,
+"text": "Si te equivocas y piensas que el shefa existe en el mundo, ¿no? De los goim, empiezas--» Entonces viene Hashem y dice: «Tú cuando eras Yaakov, y en verdad no eras Yaakov, eras Israel»."
+},
+{
+"startMs": 2584819,
+"endMs": 2591259,
+"text": "¿Sí? ¿En-entienden lo que estoy diciendo? «Cuando eras Yaakov, en verdad eras Israel»."
+},
+{
+"startMs": 2592178,
+"endMs": 2598859,
+"text": "Dice: «Entonces, ¿cómo fuiste detrás de la aboná Sara?». Dice: «Arei, no estás entendiendo."
+},
+{
+"startMs": 2599078,
+"endMs": 2601538,
+"text": "Tipo, el shefa que tiene la aboná Sara,"
+},
+{
+"startMs": 2603138,
+"endMs": 2611778,
+"text": "ese es tuyo. Entonces, ¿cómo no me llamaste a mí, Yaakov, Karat HaAvot Israel, si yo fui el que no nada más te daba el shefa a ti, sino todo el lugar tenía shefa nada más por ti."
+},
+{
+"startMs": 2612299,
+"endMs": 2619299,
+"text": "Y entonces ahorita estás buscando en otros lugares». Dice- Ay, ay, ay. Si vamos como la línea del árbol de Israel, la semana pasada."
+},
+{
+"startMs": 2619999,
+"endMs": 2621038,
+"text": "Ahí va. Dice:"
+},
+{
+"startMs": 2622778,
+"endMs": 2628558,
+"text": ". Ahí va. Vamos ahí. ¡A-ahí va, ahí va! Dice: «No me agradeciste»."
+},
+{
+"startMs": 2630678,
+"endMs": 2635799,
+"text": "Pensaste que el shefa te llegó por esto, por el trabajo, por los goim, por el este, por el otro. Dice:"
+},
+{
+"startMs": 2641770,
+"endMs": 2648071,
+"text": "Que es eso? Abodá rabá bemidrágó. Es que es todo, que te pedí, te, te-- no te pedí mucho."
+},
+{
+"startMs": 2648071,
+"endMs": 2656571,
+"text": "¿Sí? Lo kaniata li bekesef kané vejelev zevájeja lo evatani. Aj, evatani vejatuteja o gatani vaavonoteja."
+},
+{
+"startMs": 2657171,
+"endMs": 2664750,
+"text": "Y entonces ahí viene la sheelá de Jaam Ishak, ¿qué pasa con Rabú y Zoar? Entonces, quiere decir que nosotros-- ¿sí entendieron la sheelá?"
+},
+{
+"startMs": 2665390,
+"endMs": 2674430,
+"text": "Arei. Estamos hablando aquí del maaláh, ya del tikún, de que Israel, cuando se hace Israel, sale que retroactivamente Betsem también era Israel."
+},
+{
+"startMs": 2675071,
+"endMs": 2681111,
+"text": "Entonces, Betsem, Yaacov, Israel. Entonces, Yaacov era el que no se acordaba que él era Israel, y entonces fallaba siendo Yaacov."
+},
+{
+"startMs": 2681671,
+"endMs": 2689410,
+"text": "Pero entonces, cuando Yaacov, luego, al final llega la guebulá y se hace Israel, qui-- y entonces, retroactivamente, salió que Yaacov también era Israel."
+},
+{
+"startMs": 2689750,
+"endMs": 2697131,
+"text": "Entonces, quiere decir que Yaacov también retroactivamente, de alguna manera, vamos a entender como Bil'am. ¿Se acuerdan de Bil'am o no?"
+},
+{
+"startMs": 2698111,
+"endMs": 2704810,
+"text": "Que Bil'am se fija en Am Israel y quiere Lekalel. ¿Sí? ¿Por qué quiere Lekalel?"
+},
+{
+"startMs": 2705551,
+"endMs": 2712171,
+"text": "Él quiere Lekalel a que ellos son, eh... Sí, Lejá. Lejá Haral y Yaacov."
+},
+{
+"startMs": 2712171,
+"endMs": 2720111,
+"text": "¿Estamos o no? Lejá Haral y Yaacov. ¿Sí? ¿Y cómo dice? Mekapa Li Israel."
+},
+{
+"startMs": 2720890,
+"endMs": 2728151,
+"text": "Tu metilo la clalá es-- Bil'am está tratando de Lekalel tanto a Yaacov, tanto a Israel. Al único que puede Lekalel, ¿a quién es?"
+},
+{
+"startMs": 2728290,
+"endMs": 2729270,
+"text": "Yaacov. Es a Yaacov."
+},
+{
+"startMs": 2730711,
+"endMs": 2739031,
+"text": "Pero si Yaacov acaba al final siendo Israel, entonces quiere decir que desde el principio se revela que ese Yaacov era Israel."
+},
+{
+"startMs": 2739031,
+"endMs": 2745571,
+"text": "¿Sí? Entonces, Betsem, la clalá se, se hace ahora. La clalá en el mundo de Azía. Pero al final,"
+},
+{
+"startMs": 2747071,
+"endMs": 2754770,
+"text": "al final, el mundo de Azía no, no, no hay Kam, no puede llegar ahí. Hay que entender, o sea, otra vez, Yaacov se llamó en Briá. Entonces, eh, en Atzilut no hay Kam."
+},
+{
+"startMs": 2755270,
+"endMs": 2759631,
+"text": "Sí, en Atzilut no hay Kam. Entonces, dice, dice: \"Anojí, Anojí,"
+},
+{
+"startMs": 2761350,
+"endMs": 2767111,
+"text": "u mojé peshaéja lemaaní vejatuteja lo escor\". Dice..."
+},
+{
+"startMs": 2769551,
+"endMs": 2773470,
+"text": "Sí, es el pasuque Roshana. Es el pasuque Roshana. Sí."
+},
+{
+"startMs": 2775031,
+"endMs": 2780551,
+"text": "Es el Rabú Rizor. Sí, ahí está. Entonces, ve-- o sea, ¿cómo mojé peshaéja le--? Está, los borra."
+},
+{
+"startMs": 2781870,
+"endMs": 2794671,
+"text": "Sí, está, los borra. No es que los borra. No está-- ¿Qué quiere decir que los borra? Qui-- sino que la clalá neféjet de Brazá es sí, que todas esas nefilot que tuviste como Yaacov-- Ari, ¿por qué seguiste caminando?"
+},
+{
+"startMs": 2794790,
+"endMs": 2803491,
+"text": "Si hubieras dejado de seguir caminando, entonces no hubieras llegado a ser Israel, ¿najón? Si llegaste a ser Israel es porque no te rendiste después de todas esas caídas."
+},
+{
+"startMs": 2803970,
+"endMs": 2812330,
+"text": "Entonces, sí tuviste caídas y son todas esas veces que se te olvidó que eras Israel. Entonces, todas esas veces que se te olvidó que eras Israel fueron tus caídas."
+},
+{
+"startMs": 2812830,
+"endMs": 2822970,
+"text": "Pero si tú no te caes después de tus caídas y no te rindes después de tus caídas y aprendes de tus, tus caídas, entonces llegas a Sheva Ypol Tzadik ve Kam, y entonces el, el ve Kam ya es Israel."
+},
+{
+"startMs": 2823250,
+"endMs": 2830991,
+"text": "Y cuando Kam, Betsem sale que todo ese Sheva Ypol Tzadik era el-- era bemet el derej, el cómo- El derej."
+},
+{
+"startMs": 2831231,
+"endMs": 2838031,
+"text": "Sí, exactamente. David HaMelej. ¿Eh? David HaMelej. Sí, la virginidad de David HaMelej. Sí, como dijimos, Rabú Rizor."
+},
+{
+"startMs": 2838111,
+"endMs": 2845010,
+"text": "Entonces, que también la caída fue parte de la construcción del, del Binián completo. Es el peshat de Anojí, Anojí."
+},
+{
+"startMs": 2845091,
+"endMs": 2851911,
+"text": "Sí, Anojí, Anojí, u mojé peshajá lemaaní. Jatuteja lo escor, dice. Asqireini nishpata yajat."
+},
+{
+"startMs": 2852411,
+"endMs": 2861330,
+"text": "Saper ata lemán titzdak. Avija risón jata. Melitzeja pashuvi. Vajalel salej kodesh veteram lejem Yaacov veIsrael legilufim."
+},
+{
+"startMs": 2861330,
+"endMs": 2862930,
+"text": "¿Qué dice eso?"
+},
+{
+"startMs": 2865151,
+"endMs": 2871991,
+"text": "Avija risón jata. El jeten pesot es de Abraham Avinu, que dijo Bamidbar. Así dice Rashi. Melitzeja pashuvi."
+},
+{
+"startMs": 2872071,
+"endMs": 2879131,
+"text": "En laca bejol amelicim sheata somej al zejutam. Shelamatsat evo pesha. ¿Es así?"
+},
+{
+"startMs": 2879470,
+"endMs": 2898611,
+"text": "Itsjaq Aavetzonai. ¿Es así que dijo Bamidbar, que todo empezó con Abraham y- Rashi dice. Entonces, quiere decir que Betsem es lo que está diciendo, que es un maaláh que, a Filo, los más grandes, a Filo los más grandes tuvieron su caída, pero no por eso dejaron de ser los más grandes."
+},
+{
+"startMs": 2899210,
+"endMs": 2905330,
+"text": "Entonces, quiere decir que aquí-- no, creo que dice aquí, ¿no? Sí, que qué- Abrimos la Torá. Sí, sí, sí."
+},
+{
+"startMs": 2905350,
+"endMs": 2906031,
+"text": "¿Recuerda esta Mishná?"
+},
+{
+"startMs": 2907770,
+"endMs": 2908810,
+"text": "En la Mishná..."
+},
+{
+"startMs": 2910310,
+"endMs": 2980171,
+"text": "No, de Emuná Tejav alelot. Pero ya vimos cómo es todo junto. Sí. Porque el, el Emuná y Yatsir es, es Yaacov Israel."
+},
+{
+"startMs": 2990991,
+"endMs": 3000430,
+"text": "Sí, sí. Sí, Kará y... Y Rashi aquí sobre- Y Joj y Disjof es Yaacov Israel."
+},
+{
+"startMs": 3000470,
+"endMs": 3009350,
+"text": "Betsem. Y aquí Rashi sobre Yishurun Bajartivo. Yishurun es Israel. Di-- dice: \"Ki etsak maim al tame ve-noslim al iavashá, etsuk ruJí al derejeca ve-jachtí al tsatsayeja\"."
+},
+{
+"startMs": 3010091,
+"endMs": 3020051,
+"text": "Y es la Geula, di-- eh, di-- dice: \"Tzarju beinem jatzir keravim ha-livnu maim. Ze yomar la'Hashem: 'Ani', ve-ze ikaré beshem Ya'akov, ve-ze yichtav la'Hashem uveshem Israel yejané\"."
+},
+{
+"startMs": 3020171,
+"endMs": 3027651,
+"text": "Este es el pasuk que se ve tremendo. Todo esto al final Ya'akov, que es Ya'akov, Israel, todo es porque le compró la bejora a Esau."
+},
+{
+"startMs": 3027731,
+"endMs": 3034671,
+"text": "Es lo que- Si no le hubiera comprado la bejora de Esau, nunca hubiera habido la final de, de- Israel, Es-- Esau sería Israel."
+},
+{
+"startMs": 3036051,
+"endMs": 3036990,
+"text": "Esau sería Israel."
+},
+{
+"startMs": 3038231,
+"endMs": 3038470,
 "text": "Sí."
 },
 {
-"startMs": 1436000,
-"endMs": 1458000,
-"speaker": "Interlocutor 1",
-"text": "Kolan y krabishmi, kol, Israel, and ikraim, beshem, amashe. Y etartiv y tira, a facitiv. Asia. Es que ahora el Malvin como lo explica porque. No me queda tan claro. Esta bien el acción de Boreire. Claro, claro. Pero ahorita se aumentó a Tilut y hacia.¿El Malvin lo cerraste?"
+"startMs": 3039930,
+"endMs": 3046970,
+"text": "Ahora, nos-- ¿qué dice este pasuk? Ze yomar la'Hashem: \"Ani\". Este va a decir: \"Yo soy para Hashem\"."
 },
 {
-"startMs": 1458000,
-"endMs": 1466000,
-"speaker": "Interlocutor 1",
-"text": "El Malvin lo cerraste? No."
+"startMs": 3047491,
+"endMs": 3051991,
+"text": "Elu tsadikim munim. Dice: \"Ve-ze ikaré beshem Ya'akov\"."
 },
 {
-"startMs": 1466000,
-"endMs": 1474000,
-"speaker": "Interlocutor 1",
-"text": "No lo se revende, no ha sido."
+"startMs": 3053830,
+"endMs": 3067010,
+"text": "Dice: \"Iai el munus que se aman Ya'akov, ki en esón elu ktanim, bnei reshaim\". Dice: \"Ze yichtav jadó la'Hashem, elu baalei teshuvá, uveshem Israel yejané, elu ha-gerim."
 },
 {
-"startMs": 1474000,
-"endMs": 1479000,
-"speaker": "Interlocutor 1",
-"text": "No, no, no explica mucho. Toda la habilidad es."
+"startMs": 3067631,
+"endMs": 3077310,
+"text": "Kaj shnuyá ba-avodá, rabí Nathan\". Creo que la, la dargá de gerim es agarrar, kibejol, toda la nefilà de todo- La absolución, ¿no?"
 },
 {
-"startMs": 1479000,
-"endMs": 1489000,
-"speaker": "Interlocutor 1",
-"text": "Quién no está el nombre de Asfemu?"
+"startMs": 3077470,
+"endMs": 3083810,
+"text": "Todo Ya'akov y convertirlo, be'etem, en, eh, la dargá de- Como son los absolutos asia, ¿no?"
 },
 {
-"startMs": 1489000,
-"endMs": 1499000,
-"speaker": "Interlocutor 1",
-"text": "Yo no entendía.¿Toda la habilidad?"
+"startMs": 3084171,
+"endMs": 3090870,
+"text": "También. Absolutos tsadikim y munim. Sí, sí, sí. Mejó lo. Pelem, pelem, bnei reshaim."
 },
 {
-"startMs": 1499000,
-"endMs": 1518000,
-"speaker": "Interlocutor 1",
-"text": "Bueno, ahorita si no entendemos más, ahorita a ver si entendemos más ese paso. Dice \"Otzim am iver vein naim biesh, vehereshim veus naim biesh,"
+"startMs": 3090930,
+"endMs": 3097631,
+"text": "O sea, ellos no son los que están con Quino, con Quino. Algo así. Sí, esto parece que están en un matzot que se llama Ya'akov, están en un matzot de caída."
 },
 {
-"startMs": 1518000,
-"endMs": 1533000,
-"speaker": "Interlocutor 1",
-"text": "Vehereshim veus naim lamo\" dice sacó está hablando de nosotros porque ahora está hablando de la gibolati. No, el paso."
+"startMs": 3098231,
+"endMs": 3102850,
+"text": "Katnut. Ajá, de katnut. Y co-concuerda con el Ya'akov que dijiste cuando estaba pecando."
 },
 {
-"startMs": 1533000,
-"endMs": 1535000,
-"speaker": "Interlocutor 1",
-"text": "\"Otsi a mi ver,"
+"startMs": 3104691,
+"endMs": 3106071,
+"text": "Yichtav jadó la'Hashem."
 },
 {
-"startMs": 1535000,
-"endMs": 1537000,
-"speaker": "Interlocutor 1",
-"text": "Veus naimiech."
+"startMs": 3108290,
+"endMs": 3116111,
+"text": "Elu baalei teshuvá. Bueno, nos-- dice: \"Ko amar Hashem\", es otra vez la misma parashá. \"Ko amar Hashem melej Israel ve-goalo\"."
 },
 {
-"startMs": 1537000,
-"endMs": 1546000,
-"speaker": "Interlocutor 1",
-"text": "Saque del Galut a un pueblo ciego,"
+"startMs": 3116551,
+"endMs": 3125430,
+"text": "Melej Israel ve-goalo. Cuando mitgalé que el es melej Israel, dice: \"Hashem tzva'ot: 'Ani riñón ve'ani ajarón umevola daiyen Elohim'\"."
 },
 {
-"startMs": 1546000,
-"endMs": 1556000,
-"speaker": "Interlocutor 1",
-"text": "Aun siendo que tienen ojos. Saque a un pueblo sordo, aun siendo que tiene un oído.¿Puedes creer que eso esta escrito sobre nosotros?"
+"startMs": 3126411,
+"endMs": 3134991,
+"text": "Toda la dargá de Elohim, ¿por qué llega? Por la dargá de Ya'akov. Pero cuando mitgalé Israel, mitgalé Shem Havayá."
 },
 {
-"startMs": 1556000,
-"endMs": 1563000,
-"speaker": "Interlocutor 1",
-"text": "Pues si, si lo puedo creer. Osea en la gula te vas a dar cuenta que hasta ahorita estas claro, claro, claro. Aunque tenias ojos."
+"startMs": 3135430,
+"endMs": 3141691,
+"text": "Vas mimén, ani ha-rishón ve'ani ha-ajarón umevola daiyen Elohim. Esa es \"mamás\" la, la, la, la, la, la dargá."
 },
 {
-"startMs": 1563000,
-"endMs": 1567000,
-"speaker": "Interlocutor 1",
-"text": "Te vas a dar cuenta que estabas sordo, aunque tenías oído, oído tipo literal."
+"startMs": 3142091,
+"endMs": 3148430,
+"text": "Vamos pelem pa'alim todo lo que estábamos hablando. Así no, está- Abres el, el, el, el- ¿Ya viste así, no? Cuando- El Navi está hablando bien de ustedes."
 },
 {
-"startMs": 1567000,
-"endMs": 1583000,
-"speaker": "Interlocutor 1",
-"text": "Conoces y prohibieras igual o no? Una vez lo vimos. Bletters, ¿no? Viene el bletters que parece ciego, que parece cojo, que parece esto y es porque no escucho los colores de acá, porque está, pero justo la falta que se ve, justamente es el tico más grande que hay."
+"startMs": 3148870,
+"endMs": 3155370,
+"text": "Está lleno de, de Kesarim con Azino, lleno de Kesarim. Lleno. Matim. El, el perej contar todo lo del principio del perej."
 },
 {
-"startMs": 1583000,
-"endMs": 1593000,
-"speaker": "Interlocutor 1",
-"text": "Trae ciego y trae todo y dice cada quien quién es. Jacob, Moshe, Joseph. Ellos eran los ciegos. Que parecen ser ciegos, parece cojo, parece no sé qué, pero me mete."
+"startMs": 3155770,
+"endMs": 3162031,
+"text": "Sí. Por cierto que es Nevuano. ¿Cómo es Torá? Sí, Nevuano es galut. Sí. Mika money."
 },
 {
-"startMs": 1593000,
-"endMs": 1606000,
-"speaker": "Interlocutor 1",
-"text": "Yo creo que mete. Esta es largada de salir de largada que se llama Jacob a largada que se llama Israel. Yo escucho, yo escucho."
+"startMs": 3162231,
+"endMs": 3168631,
+"text": "Ahí, Miadima. Ben Miadimatil, sí, aparece así. Tiene ya arriba como cuatro, cinco. Igualita. Sí, sí, sí."
 },
 {
-"startMs": 1606000,
-"endMs": 1609000,
-"speaker": "Interlocutor 1",
-"text": "No, agárrate ahí, ahí,"
+"startMs": 3168750,
+"endMs": 3172010,
+"text": "Ya vino, ya vino. Esto es \"mamás\" Azino, 100 %. Y esta también. \""
 },
 {
-"startMs": 1609000,
-"endMs": 1610000,
-"speaker": "Interlocutor 1",
-"text": "Ahí."
+"startMs": 3173890,
+"endMs": 3180051,
+"text": "ani ha-ajarón umevola daiyen Elohim\". Eso. Mejor Azino, Azino. Azó que está tu copy paste. Es Azino."
 },
 {
-"startMs": 1610000,
-"endMs": 1613000,
-"speaker": "Interlocutor 1",
-"text": "Yo creo que esta es la largada de Jacob a Israel, fíjense."
+"startMs": 3180591,
+"endMs": 3181310,
+"text": "Es rap."
 },
 {
-"startMs": 1613000,
-"endMs": 1621000,
-"speaker": "Interlocutor 1",
-"text": "Porque si ya comes el homer y se ve el tzuram entonces quiere decir Oznaim, Eenaim y esh,"
+"startMs": 3192810,
+"endMs": 3199290,
+"text": "Azino. Mira, Jamóni. En fin, está muy pelem. Este pasuk tiene copy paste. Sí."
 },
 {
-"startMs": 1621000,
-"endMs": 1640000,
-"speaker": "Interlocutor 1",
-"text": "Hay homer de naim pero si no ves, falta tzuram tienes tienes Oznaim pero no tienen todavía la tzura de Oznaim El ciego y el y el físicamente tienen pero no ves Todo ese perek,¿no? Es sobre los goim, es el mismo concepto El chordo en el mundo tiene orejas Sí,"
+"startMs": 3199591,
+"endMs": 3204131,
+"text": "Copy paste Azino. Sí. Hay un-- Jatzti ve'ani erpá."
 },
 {
-"startMs": 1640000,
-"endMs": 1669000,
-"speaker": "Interlocutor 1",
-"text": "Tiene homer pero no tiene tzuram Pues quiere decir acá, cuando usamos, llegamos a largada de Israel, es que ya se usan todos los osnaim, los enaim, para representar el seleme lokim, que es largada de Israel, que es largada más boa de am Israel. Entonces dice, ¿Y qué va a pasar, eh? Se van a unir, reunir todos los goim alrededor de ustedes, y es full omim."
+"startMs": 3206151,
+"endMs": 3207510,
+"text": "Ben Yadim itsi."
 },
 {
-"startMs": 1669000,
-"endMs": 1675000,
-"speaker": "Interlocutor 1",
-"text": "Dice, que va em yegitzot."
+"startMs": 3208951,
+"endMs": 3210350,
+"text": "Ani riñón, ani ajarón."
 },
 {
-"startMs": 1675000,
-"endMs": 1676000,
-"speaker": "Interlocutor 1",
-"text": "Qué dice acá?"
+"startMs": 3216290,
+"endMs": 3221211,
+"text": "O sea, que ver el, el sentido de Azino y el sentido de aquí, o sea, como que- No, los dos es la neshot del hijut."
 },
 {
-"startMs": 1676000,
-"endMs": 1681000,
-"speaker": "Interlocutor 1",
-"text": "La final,¿no?"
+"startMs": 3222510,
+"endMs": 3228671,
+"text": "Sí, el Azino es que están adentro del galut. El galut. Cuando escuchen esta shirá, van a salir de la nada. Ajá."
 },
 {
-"startMs": 1681000,
-"endMs": 1692000,
-"speaker": "Interlocutor 1",
-"text": "Dice, mi, el nejar, baja, seguir, betavarte, y avoque, seem, ya ni megi de alcohol, ya dain lo este."
+"startMs": 3229211,
+"endMs": 3234571,
+"text": "Todo lo que está haciendo Azino. Los bení de tsadik, la sección. Mika money."
 },
 {
-"startMs": 1692000,
-"endMs": 1715000,
-"speaker": "Interlocutor 1",
-"text": "O sea, puede ser también que esté hablando de de ggula baicheni, pero pues todo se ve de nuestra llamada batalla que se ve que está hablando de la ggulatidam forage. Claro, que se va a olvidar. Claro. O sea,"
+"startMs": 3244830,
+"endMs": 3252071,
+"text": "Hay unos cambios aquí en este último pasuk, el zain de-- hay un-- porfi. Misumó, misumó es-- también lo trae ya en, en- En Bilám."
 },
 {
-"startMs": 1715000,
-"endMs": 1725000,
-"speaker": "Interlocutor 1",
-"text": "Como que van a entregar sus coronas."
+"startMs": 3253430,
+"endMs": 3257111,
+"text": "Mikja misumó. Pero no, eso no sé si es de relación, eh."
 },
 {
-"startMs": 1725000,
-"endMs": 1747000,
-"speaker": "Interlocutor 1",
-"text": "O van a poner como que testigos para atestiguar que la verdad siempre estaba por eso se van a quitar sus colonas de ellos se las van a dar Israel yo creo ¿No? Sí o o van a poner testigos o van a como que atestiguar de que ellos dice."
+"startMs": 3259451,
+"endMs": 3260930,
+"text": "Bueno. ¿Cuánto necesitas irte a condición?"
 },
 {
-"startMs": 1747000,
-"endMs": 1776000,
-"speaker": "Interlocutor 1",
-"text": "Dice entonces dice \"Ate meidai no humachem\" esta que larga es Israel, temidai es Jesús besa a Israel y besa a Hashem. Nosotros somos los que atestiguamos sobre la presencia de Hashem en el mundo.\"Temedai no humachem\" dice \"Beavdi Asher Bajarty\" \"Lemante de Ubeta, Minuli\""
+"startMs": 3263131,
+"endMs": 3271810,
+"text": "No sé, quiero irme a la boda. Ahí me voy después. Ahí me voy a la boda a las once. Sí. Sí. ¿Solo eres seguro a las siete?"
 },
 {
-"startMs": 1776000,
-"endMs": 1789000,
-"speaker": "Interlocutor 1",
-"text": "Tavinu, quianí, uh, nefanailon, nuestra elva, esta larga es la larga la que todo el tiempo estamos hablando del ijud."
+"startMs": 3272171,
+"endMs": 3278911,
+"text": "Sí, sí, sí, sí. Que le dije a alguien que vas a llegar a las siete, si no, me va a acordar. Sí, sí. Boda Gabriel, si no."
 },
 {
-"startMs": 1789000,
-"endMs": 1791000,
-"speaker": "Interlocutor 1",
-"text": "Que yo siempre estaba."
+"startMs": 3286091,
+"endMs": 3289970,
+"text": "Perejele. Perejele. Del pasuk de antes que hemos hecho, ¿no? Sí."
 },
 {
-"startMs": 1791000,
-"endMs": 1797000,
-"speaker": "Interlocutor 1",
-"text": "Cuando se revele la arga de Israel, va a salir. Cuando somos Jacob, no somos Edim."
+"startMs": 3291310,
+"endMs": 3295551,
+"text": "Rashi, pues se ve, no como Jamín, ¿no? ¿Rashi acá?"
 },
 {
-"startMs": 1797000,
-"endMs": 1804000,
-"speaker": "Interlocutor 1",
-"text": "Sí o no? Claro. Entonces, vean que Atzum. Pero Jacob es Israel."
+"startMs": 3296850,
+"endMs": 3304691,
+"text": "A ver. \"Ani tzima la'anus animezkir lajem shasiti veMitzráim al tiskerú otam meata kivegulot otha ascu lódotu le'alelem\"."
 },
 {
-"startMs": 1804000,
-"endMs": 1806000,
-"speaker": "Interlocutor 1",
-"text": "Qué?"
+"startMs": 3305991,
+"endMs": 3316131,
+"text": "Como Ben Zamá. ¿Vieron? Rashi dice que no, no se acuerden de Mitzráim, pero el Jamín me da a quien que hay Rishonot y Kadmoniot."
 },
 {
-"startMs": 1806000,
-"endMs": 1814000,
-"speaker": "Interlocutor 1",
-"text": "Yudalf. No lo leí. Leímos el Yudh. Entonces, tenemos la arga, todo el gallo que fuimos de Jacob."
+"startMs": 3318250,
+"endMs": 3321510,
+"text": "Rishonot son todas las gulot y Kadmoniot es Yetsiát Mitzráim."
 },
 {
-"startMs": 1814000,
-"endMs": 1818000,
-"speaker": "Interlocutor 1",
-"text": "En Jacob, vean que profundo, en Jacob no somos Edim."
+"startMs": 3324970,
+"endMs": 3327711,
+"text": "Dice que no, no. Aquí hay algo, un poquito."
 },
 {
-"startMs": 1818000,
-"endMs": 1828000,
-"speaker": "Interlocutor 1",
-"text": "Por qué no somos edim? No, no. Porque están los de arriba de nosotros. No si tú eres el representante de un caliente pise."
+"startMs": 3329350,
+"endMs": 3340330,
+"text": "Es que le arranca como Ben Zamá. ¿Eh? No, tienen que ser los dos a la vez, como ya explicamos. Fuerzas. Este es un perek de Ben Zamá y Jamín a la vez, porque todo el tiempo habla retroactivo"
 },
 {
-"startMs": 1828000,
-"endMs": 1842000,
-"speaker": "Interlocutor 1",
-"text": "Pero luego se revela que Jacob este mes a Israel y entonces cuando se revela que Jacob este mes a Israel entonces quiere decir que Atemedai ahora si ¿Qué pasa con Jacob?"
+"startMs": 3341550,
+"endMs": 3350850,
+"text": "y todo el tiempo habla que ve-- de las dos argot juntas que se llaman Ya'akov Israel. Sí. O sea, todo el tiempo a la Geula le llama: \"Ustedes son Ya'akov Israel\"."
 },
 {
-"startMs": 1842000,
-"endMs": 1846000,
-"speaker": "Interlocutor 1",
-"text": "Ahora Jacob es Israel entonces quiere decir ahorita."
+"startMs": 3365270,
+"endMs": 3371750,
+"text": "Está bien. Pues eso es lo que vimos aquí en el Navi. Se relaciona directamente con nuestra,"
 },
 {
-"startMs": 1846000,
-"endMs": 1853000,
-"speaker": "Interlocutor 1",
-"text": "Que que somos los que representamos el nombre de Asham que dice que siempre nos representamos.¿Me explico?"
+"startMs": 3372991,
+"endMs": 3373871,
+"text": "con nuestra Guemará."
 },
 {
-"startMs": 1853000,
-"endMs": 1857000,
-"speaker": "Interlocutor 1",
-"text": "Entonces lo que dice el pasú, que teme dainu mashem, vavdi asher bajarti."
+"startMs": 3402151,
+"endMs": 3417571,
+"text": "Es verdad. No viste el romane? No viste lo que hemos contado. O sea, todo eso."
 },
 {
-"startMs": 1857000,
-"endMs": 1902000,
-"speaker": "Interlocutor 1",
-"text": "Avdi es la edad de Israel, vavdi es estás trabajando, estás trabajando, estás trabajando. Le mante de Ubeta, minuli, veta vino que anihu, le fanai la notaria bajar a lo ie, el Edut que gorem Israel es que siempre desde que era sí dice dice ¿Qué significa?"
+"startMs": 3417611,
+"endMs": 3421623,
+"text": "Guau. Lo que yo busco Treinta y nueve punto diez"
 },
 {
-"startMs": 1902000,
-"endMs": 1904000,
-"speaker": "Interlocutor 1",
-"text": "Sigue, sigue."
+"startMs": 3425883,
+"endMs": 3432303,
+"text": "Beikitur, eso es todo, hasta este perek. Digo, nos podríamos meter, pero no hay mucho tiempo,"
 },
 {
-"startMs": 1904000,
-"endMs": 1911000,
-"speaker": "Interlocutor 1",
-"text": "Dice no no hi gati ve sati sati, que es ano hi gadeti, dice rash y galu ios de Abraham,"
+"startMs": 3433743,
+"endMs": 3440423,
+"text": "a ver toda la historia de Yaacov, Yaacov Avinu. Hablamos aquí de las jinot, que se llaman Yaacov y Israel, en toda Misrael."
 },
 {
-"startMs": 1911000,
-"endMs": 1914000,
-"speaker": "Interlocutor 1",
-"text": "Si fuera, aquí es algo muy amor."
+"startMs": 3441163,
+"endMs": 3447283,
+"text": "Podríamos ver toda la historia, o sea, un poquito de la historia de Yaacov Avinu. Vamos a empezar la misma. Porque... Minutos."
 },
 {
-"startMs": 1914000,
-"endMs": 1922000,
-"speaker": "Interlocutor 1",
-"text": "Arei está hablando de que el Galut yo lo dije antes de que pase,"
+"startMs": 3447823,
+"endMs": 3449703,
+"text": "Diez. Porqueee..."
 },
 {
-"startMs": 1922000,
-"endMs": 1927000,
-"speaker": "Interlocutor 1",
-"text": "Si el Galut sólo empezó después de que empezó,"
+"startMs": 3454003,
+"endMs": 3455883,
+"text": "Porque se llama Yaacov y porque se llama--"
 },
 {
-"startMs": 1927000,
-"endMs": 1939000,
-"speaker": "Interlocutor 1",
-"text": "Claro, entonces no sería siempre, entonces, entonces Galut fue una fase. Pero si yo dije el Galut que va a pasar antes de que pase. Entonces, ¿Quién estaba debajo de quién?"
+"startMs": 3457343,
+"endMs": 3460323,
+"text": "por qué se llama Yaacov y por qué se llama Israel. Sí, hágale."
 },
 {
-"startMs": 1939000,
-"endMs": 1961000,
-"speaker": "Interlocutor 1",
-"text": "O sea, paró. Era, estaba debajo de Hashem. Sí, pero era el títere de Hashem. Paró fue el títere.¿Me explicó? Entonces nosotros aún siendo que estamos en Galut, entonces cuando se revela al final la largada de Israel, sale que Yaakov, lo que lo que explicamos, que a Misael cuando estaban en Mitzraim, aun siendo que eran Abadim, en el Guilui de la Titlabón,"
+"startMs": 3462663,
+"endMs": 3469803,
+"text": "O, o, o, o, o, que tenemos poquito tiempo. Hay un Likute Moaran sobre Sarah y Menum,"
 },
 {
-"startMs": 1961000,
-"endMs": 1970000,
-"speaker": "Interlocutor 1",
-"text": "Que el héroe era paró, que paró Beetzemel nos estaba puliendo, nos estaba haciendo. Ahora, otra vez, eso no se quita el swing de Jacob."
+"startMs": 3471063,
+"endMs": 3476303,
+"text": "que habla mucho, es en toda Memtet. ¿Ya lo viste o no? No tenía. Cama."
 },
 {
-"startMs": 1970000,
-"endMs": 1988000,
-"speaker": "Interlocutor 1",
-"text": "Porque no es que nosotros teníamos la chilita sobre ellos. Sí, es, es. Por eso, por eso no se anula, pero nada más está Fel. Sí, esa es la lecuidad de que está Fel, de que Jacob es va a ser Tafel, Beetzemistral. Es como un teatro. Ahorita el actor está actuando el papel de Jacob."
+"startMs": 3477663,
+"endMs": 3481843,
+"text": "Y, y habla mucho de Sarah y Menum, pues solo ahí nos sirve para eso."
 },
 {
-"startMs": 1988000,
-"endMs": 2002000,
-"speaker": "Interlocutor 1",
-"text": "Sí, sí. Sí, sí, sí. Esquilo el plata. Paró, yo lo pondría más con paró. Paró esquilo ahorita es el que le toca salir al telón.¿Me explico? Dice \"gam mi yoma nihu,"
+"startMs": 3484343,
+"endMs": 3484763,
+"text": "No..."
 },
 {
-"startMs": 2002000,
-"endMs": 2004000,
-"speaker": "Interlocutor 1",
-"text": "Ve en mi yadi matzil,"
+"startMs": 3488763,
+"endMs": 3494923,
+"text": "Si no me equivoco, era Bofil. La traigo abierta y atorada ahorita. Ayer en la noche. ¿Memtet?"
 },
 {
-"startMs": 2004000,
-"endMs": 2007000,
-"speaker": "Interlocutor 1",
-"text": "If alum mi eshiven\"."
+"startMs": 3495103,
+"endMs": 3499963,
+"text": "Sí, creo que sí. Órale. Y nada, la naturé un poco."
 },
 {
-"startMs": 2007000,
-"endMs": 2009000,
-"speaker": "Interlocutor 1",
-"text": "Dice."
+"startMs": 3501283,
+"endMs": 3502423,
+"text": "A ver si es la magia, ¿no?"
 },
 {
-"startMs": 2009000,
-"endMs": 2018000,
-"speaker": "Interlocutor 1",
-"text": "loa \"loa toa yom levado aiti levadi, kigam ah seyod yom anihu levadi\"."
+"startMs": 3508323,
+"endMs": 3515223,
+"text": "Gracias. Que no aparece, porque habla"
 },
 {
-"startMs": 2018000,
-"endMs": 2027000,
-"speaker": "Interlocutor 1",
-"text": "No nada más de la gulatida venisgadoshem levado, sino desde siempre, hasta megale lemafree, que nisgadoshem levado."
-},
-{
-"startMs": 2027000,
-"endMs": 2031000,
-"speaker": "Interlocutor 1",
-"text": "Dice, como marachem gualehem que dos Israel,"
-},
-{
-"startMs": 2031000,
-"endMs": 2034000,
-"speaker": "Interlocutor 1",
-"text": "Gualehem Israel. Sí, gualehem, dos Israel,"
-},
-{
-"startMs": 2034000,
-"endMs": 2038000,
-"speaker": "Interlocutor 1",
-"text": "Lema anjem shilakti babela."
-},
-{
-"startMs": 2038000,
-"endMs": 2046000,
-"speaker": "Interlocutor 1",
-"text": "Dice por ustedes, oh, todo para ti. Dice, Salajti Babela, yo los mandé, pero lemahem."
-},
-{
-"startMs": 2046000,
-"endMs": 2066000,
-"speaker": "Interlocutor 1",
-"text": "Para ustedes. Para ustedes los mandé a ver.¿Qué? Yo para molestarlos. Boradeti, no a fuj, para tu bien.¿Esa es tu bien? Le manjem. Claro. Boradeti, barijim, kulambe, kastim boniu trinatan. Dice, yo mandé a los kastim, a los bablin, yo los mandé en barcos,"
-},
-{
-"startMs": 2066000,
-"endMs": 2069000,
-"speaker": "Interlocutor 1",
-"text": "A traerlos a ustedes. Sí."
-},
-{
-"startMs": 2069000,
-"endMs": 2076000,
-"speaker": "Interlocutor 1",
-"text": "Ani ashem, dos hejem, bore Israel malkejem. Yo siempre fui su rey, komara shem."
-},
-{
-"startMs": 2076000,
-"endMs": 2078000,
-"speaker": "Interlocutor 1",
-"text": "Por Israel."
-},
-{
-"startMs": 2078000,
-"endMs": 2081000,
-"speaker": "Interlocutor 1",
-"text": "Anoten bayam darek."
-},
-{
-"startMs": 2081000,
-"endMs": 2086000,
-"speaker": "Interlocutor 1",
-"text": "Oh.¿Qué es anoten bayam dare?"
-},
-{
-"startMs": 2086000,
-"endMs": 2087000,
-"speaker": "Interlocutor 1",
-"text": "Es que. Sí."
-},
-{
-"startMs": 2087000,
-"endMs": 2104000,
-"speaker": "Interlocutor 1",
-"text": "Sí es el que es anoten bayam darek. Es que el yam es el galut. Es un poco de parecer al masé porque anoten bayam darek y Rabi Yoshua sabía que no, que iba a haber un dilgule a la mitad."
-},
-{
-"startMs": 2104000,
-"endMs": 2110000,
-"speaker": "Interlocutor 1",
-"text": "Sí, sí. Y luego los alumnos saben contar las tipo que hay en el yam."
-},
-{
-"startMs": 2110000,
-"endMs": 2125000,
-"speaker": "Interlocutor 1",
-"text": "Qué significa que los alumnos saben contar las tipo que hay en el yam? No es, según la manga bien, siempre necesitas agarrarte a la ggula. Según la Bioshua, puedes aceptar el galut en el momento que aceptas el galut,"
-},
-{
-"startMs": 2125000,
-"endMs": 2131000,
-"speaker": "Interlocutor 1",
-"text": "El galut es yam, es un lugar donde no hay, no hay sede, no hay camino,"
-},
-{
-"startMs": 2131000,
-"endMs": 2136000,
-"speaker": "Interlocutor 1",
-"text": "Y entonces el malaje es agarrar del galut mismo y convertir un derej en el galut."
-},
-{
-"startMs": 2136000,
-"endMs": 2152000,
-"speaker": "Interlocutor 1",
-"text": "Me explico, esa es la dariga que estamos hablando acá todo el tiempo. Entonces anoten que en el galut beatmzo puse derich, eso se llama chuva. Fíjense que el donot nefajim lo les juyó,"
-},
-{
-"startMs": 2152000,
-"endMs": 2158000,
-"speaker": "Interlocutor 1",
-"text": "Que todo el yam y todo el bing bull al final de repente se convirtió en un derich, lemafrea."
-},
-{
-"startMs": 2158000,
-"endMs": 2161000,
-"speaker": "Interlocutor 1",
-"text": "Sí, me explico, hay un derich,"
-},
-{
-"startMs": 2161000,
-"endMs": 2167000,
-"speaker": "Interlocutor 1",
-"text": "Pero para nuestro mundo es un yam. Pero dice, dice,"
-},
-{
-"startMs": 2167000,
-"endMs": 2179000,
-"speaker": "Interlocutor 1",
-"text": "Y en aguas fuertes puso un netiv, un camino."
-},
-{
-"startMs": 2179000,
-"endMs": 2209000,
-"speaker": "Interlocutor 1",
-"text": "Dice, este es nuestro paso. O sea, ya después de todo esto, ya vienen mamadas de la mano. Después de estar hablando de qué pasa con Israel, qué pasa con Jacobi, qué pasa con Israel cuando Con Jacobo y Mafrea, entonces ahí el pasuk claramente ya viene y te dice, antes queruri sonó, le queadmoniota, entonces nomás sale que el chat paso del paso, es lo que dice la hermana con Jacobo y Saá, si no son 2 cosas."
-},
-{
-"startMs": 2209000,
-"endMs": 2239000,
-"speaker": "Interlocutor 1",
-"text": "Estoy muy temprano."
-},
-{
-"startMs": 2239000,
-"endMs": 2268000,
-"speaker": "Interlocutor 1",
-"text": "Entonces dice aquí."
-},
-{
-"startMs": 2268000,
-"endMs": 2275000,
-"speaker": "Interlocutor 1",
-"text": "Damos dieshayau perek memgimel?"
-},
-{
-"startMs": 2275000,
-"endMs": 2283000,
-"speaker": "Interlocutor 1",
-"text": "Azulkut het? Sí."
-},
-{
-"startMs": 2283000,
-"endMs": 2289000,
-"speaker": "Interlocutor 1",
-"text": "Altis keru risonot detkat moniot, altit bonanu. Perdón, te puedo hacer una pregunta rápida del cacique de antes."
-},
-{
-"startMs": 2289000,
-"endMs": 2297000,
-"speaker": "Interlocutor 1",
-"text": "El passut que viene de los solamotes, ahí se prenden los solamotes, subo yo."
-},
-{
-"startMs": 2297000,
-"endMs": 2314000,
-"speaker": "Interlocutor 1",
-"text": "Sí, es mejor para prender los solamotes,¿No? Sí. Okay, ya. Y también en este passut que es el passut que trae la mishnada para explicar que el Tahlit debería tabla."
-},
-{
-"startMs": 2314000,
-"endMs": 2316000,
-"speaker": "Interlocutor 1",
-"text": "Dice. Dice."
-},
-{
-"startMs": 2316000,
-"endMs": 2323000,
-"speaker": "Interlocutor 1",
-"text": "Va a venir una Ghulah nueva, Ata Tixmak, ahorita va a florecer esta nueva Ghulah al hotedaua."
-},
-{
-"startMs": 2323000,
-"endMs": 2349000,
-"speaker": "Interlocutor 1",
-"text": "Afasimba, Mitbar, Derek, Bishimón, Neharot. Otra vez el Derek, el Mitbar. Mitbar es otra vez. Se llama el Galu se llama Mitbara Amim. Es un lugar donde Aam Israel no tienen lugar ahí, no tiene existencia. Y Ashem pone Derek en el Mitbar. Bishimón en un lugar de la Shmamá, desolado, puso Neharot."
-},
-{
-"startMs": 2349000,
-"endMs": 2360000,
-"speaker": "Interlocutor 1",
-"text": "Está escribiendo aquí algo muy loco,"
-},
-{
-"startMs": 2360000,
-"endMs": 2369000,
-"speaker": "Interlocutor 1",
-"text": "Dice así: los animales de los campos. Lo el tanim, mi bro tiana son los animales que hablan de los desiertos,"
-},
-{
-"startMs": 2369000,
-"endMs": 2371000,
-"speaker": "Interlocutor 1",
-"text": "De los mares."
-},
-{
-"startMs": 2371000,
-"endMs": 2376000,
-"speaker": "Interlocutor 1",
-"text": "Ellos no tienen comida porque en esos lugares no hay comida."
-},
-{
-"startMs": 2376000,
-"endMs": 2388000,
-"speaker": "Interlocutor 1",
-"text": "En el mitbar y en el mar.¿Por qué no? No entendí. Escucha. Entonces, entonces dice \"Ellos me van a dar kabol\" ¿De qué se refiere? Se refiere así. A mi ser en el galut,"
-},
-{
-"startMs": 2388000,
-"endMs": 2406000,
-"speaker": "Interlocutor 1",
-"text": "Fuimos a un mitbar. En el mitbar no tiene por qué haber comida. Quiere decir que Todos los goim, todos los que viven en ese lugar que se llama Mitbar, en ese lugar que se llama Yam, todo lo que les llegó Shefa es nada más por nosotros."
-},
-{
-"startMs": 2406000,
-"endMs": 2418000,
-"speaker": "Interlocutor 1",
-"text": "Y entonces ellos van a venir al Jabeda Hashem, en la Ghibula Tidah, que van a ver que le estabas dando a Israel y por eso nos tocó a nosotros. Por eso dice el pastor Kishira Shirim,"
-},
-{
-"startMs": 2418000,
-"endMs": 2422000,
-"speaker": "Interlocutor 1",
-"text": "Se llama Shubi Shubi Shunami."
-},
-{
-"startMs": 2422000,
-"endMs": 2425000,
-"speaker": "Interlocutor 1",
-"text": "Shulamit. Shubi Shubi en Hze bach."
-},
-{
-"startMs": 2425000,
-"endMs": 2428000,
-"speaker": "Interlocutor 1",
-"text": "Entonces amistad él van a la yula."
-},
-{
-"startMs": 2428000,
-"endMs": 2436000,
-"speaker": "Interlocutor 1",
-"text": "Y entonces todos los guim empiezan a gritar \"Sube, sube a Shulamit\".¿Cómo? La Shulamit, Israel.¡Regresa!"
-},
-{
-"startMs": 2436000,
-"endMs": 2443000,
-"speaker": "Interlocutor 1",
-"text": "De repente van a ver como no hay nada. Van a ver como todo el shefa, toda la baraja, todas las cosas, ya no hay nada."
-},
-{
-"startMs": 2443000,
-"endMs": 2458000,
-"speaker": "Interlocutor 1",
-"text": "Y de repente, tipo lo veían así, con sombrero así, tipo así, con una bolsa de supe, con una bolsa de supe. De repente se van, se van todos y de repente se vacía todo. Todo el chef se vacía."
-},
-{
-"startMs": 2458000,
-"endMs": 2470000,
-"speaker": "Interlocutor 1",
-"text": "Todo el chef se vacía. Y entonces se vuelven locos. Y dicen “Shubi, sube, sulo meet” “No, queremos ver quién eras, tipo, ¿qué hacías?"
-},
-{
-"startMs": 2470000,
-"endMs": 2485000,
-"speaker": "Interlocutor 1",
-"text": "Te queremos ver”. Mientras chef les dice “Mata”.\"No, no, ella es Helek del Mahanesh Hinah.¿Qué crees, que va a ir? Dice que los Goim van a ofrecer vente de presidente."
-},
-{
-"startMs": 2485000,
-"endMs": 2500000,
-"speaker": "Interlocutor 1",
-"text": "Dice, pero vente. No, no, prefieren ser acá estar acomodados en los como en los de Galim, en el Mitbark, prefieren estar acomodados como Helek del Mahanesh Hinah a ser presidente ahí en tu lugar."
-},
-{
-"startMs": 2500000,
-"endMs": 2502000,
-"speaker": "Interlocutor 1",
-"text": "Entonces,"
-},
-{
-"startMs": 2502000,
-"endMs": 2504000,
-"speaker": "Interlocutor 1",
-"text": "Entonces."
-},
-{
-"startMs": 2504000,
-"endMs": 2517000,
-"speaker": "Interlocutor 1",
-"text": "Entonces dice, las shulamites Israel nomás para quedármelo.¿Por qué las shulamitas? Shlema. Si se dan cuenta que Ahmish eran la, el shlemut."
-},
-{
-"startMs": 2517000,
-"endMs": 2524000,
-"speaker": "Interlocutor 1",
-"text": "Dice: \"Amzu Yatzartilí\". Ese por. Fíjense cómo esto es que Yakob está Israel."
-},
-{
-"startMs": 2524000,
-"endMs": 2529000,
-"speaker": "Interlocutor 1",
-"text": "Están entendiendo? Yakob es el Mitziquén. De repente ahorita se va Yakob."
-},
-{
-"startMs": 2529000,
-"endMs": 2538000,
-"speaker": "Interlocutor 1",
-"text": "Y se dan cuenta que él era el mejor de todo el chef de allá."
-},
-{
-"startMs": 2538000,
-"endMs": 2562000,
-"speaker": "Interlocutor 1",
-"text": "Entonces dice te cansaste de mí Abodan dice estando en el galut."
-},
-{
-"startMs": 2562000,
-"endMs": 2565000,
-"speaker": "Interlocutor 1",
-"text": "Estando en el Galud,"
-},
-{
-"startMs": 2565000,
-"endMs": 2569000,
-"speaker": "Interlocutor 1",
-"text": "Estando en el Galud, dice “Areaka,"
-},
-{
-"startMs": 2569000,
-"endMs": 2574000,
-"speaker": "Interlocutor 1",
-"text": "Piensa, ¿de dónde, a quién le llamas para recibir tu Shefa?"
-},
-{
-"startMs": 2574000,
-"endMs": 2586000,
-"speaker": "Interlocutor 1",
-"text": "Te equivocas y piensas que el Shefa existe en el mundo,¿no? Donde los goyim piensas, viene a Shem y dice, tú cuando eras Jacob, y en verdad no eras Jacob, eras Israel."
-},
-{
-"startMs": 2586000,
-"endMs": 2590000,
-"speaker": "Interlocutor 1",
-"text": "Entiendes lo que estoy diciendo? Cuando eras Jacob,"
-},
-{
-"startMs": 2590000,
-"endMs": 2592000,
-"speaker": "Interlocutor 1",
-"text": "En verdad eras Israel?"
-},
-{
-"startMs": 2592000,
-"endMs": 2602000,
-"speaker": "Interlocutor 1",
-"text": "Dice, ¿entonces cómo fuiste detrás de la boda de Sara? Dice, “Arey, no estás entendiendo, el chef que tiene la boda de Sara,¿ah?"
-},
-{
-"startMs": 2602000,
-"endMs": 2614000,
-"speaker": "Interlocutor 1",
-"text": "Por ti. Ese es tuyo. Entonces, ¿cómo no me llamaste a mí Jacob, Karate de Israel? Si yo fui el que no nada más te iba a dar el chef a ti, sino todo el lugar tenía el chef, nada más por ti. Y entonces ahorita estás buscando en otros lugares,"
-},
-{
-"startMs": 2614000,
-"endMs": 2617000,
-"speaker": "Interlocutor 1",
-"text": "Dice."
-},
-{
-"startMs": 2617000,
-"endMs": 2619000,
-"speaker": "Interlocutor 1",
-"text": "Nos vamos como la línea de."
-},
-{
-"startMs": 2619000,
-"endMs": 2641000,
-"speaker": "Interlocutor 1",
-"text": "Ahí va. Dice \"Loe vete al liceo la teja\". Ahí va. Vamos allá. Ahí va, ahí va. Dice \"Loe vete al liceo la teja\". No me agradeciste. Pensaste que el chefa te llegó por esto, por el trabajo, por los goim, por el este, por el otro. Dice \"Loe batija me mija logatija pilbona\"."
-},
-{
-"startMs": 2641000,
-"endMs": 2645000,
-"speaker": "Interlocutor 1",
-"text": "Qué es eso?"
-},
-{
-"startMs": 2645000,
-"endMs": 2647000,
-"speaker": "Interlocutor 1",
-"text": "Qué te pedí?"
-},
-{
-"startMs": 2647000,
-"endMs": 2661000,
-"speaker": "Interlocutor 1",
-"text": "No te pedí mucho, si.\"Lokanita le vekezef kanei veheref se vaheja loibatani, aje batani veja tu teja ogatani babono teja\" Y entonces ahí viene la chela de jamishak ¿Qué pasa con Rabur y Zohar?"
-},
-{
-"startMs": 2661000,
-"endMs": 2668000,
-"speaker": "Interlocutor 1",
-"text": "Entonces quiere decir que nosotros, si entendieron la chela? Estamos hablando aquí del malaj,"
-},
-{
-"startMs": 2668000,
-"endMs": 2698000,
-"speaker": "Interlocutor 1",
-"text": "Ya del Tikún de que Israel cuando se hace Israel sale que retroactivamente Bethsem también era en Israel, entonces Bethsem y Jacob era Israel, entonces Jacob era el que no se acordaba que él era Israel y entonces fallaba siendo Jacob pero entonces cuando Jacob luego al final llega a la Yebula y se hace Israel y entonces retroactivamente salió que Jacob también era Israel entonces quiere decir que Jacob también retroactivamente de alguna manera vamos a entender como Bilam ¿se acuerdan de Bilam o no?"
-},
-{
-"startMs": 2698000,
-"endMs": 2702000,
-"speaker": "Interlocutor 1",
-"text": "Que Bilam se fija en Am Israel y queda Lekalel."
-},
-{
-"startMs": 2702000,
-"endMs": 2705000,
-"speaker": "Interlocutor 1",
-"text": "Sí?¿Por qué quiere Lekalel?"
-},
-{
-"startMs": 2705000,
-"endMs": 2713000,
-"speaker": "Interlocutor 1",
-"text": "Él quiere Lekalel, aquellos son eh.¿Sí? Lekha. Lekha arali yako."
-},
-{
-"startMs": 2713000,
-"endMs": 2718000,
-"speaker": "Interlocutor 1",
-"text": "Estamos o no? Lekha arali yako.¿Sí?"
-},
-{
-"startMs": 2718000,
-"endMs": 2730000,
-"speaker": "Interlocutor 1",
-"text": "Y cómo dice? Israel. Bilam está tratando de Lekalel tanto a Jacob, tanto a Israel. Al único que puede Le Kalela ¿quién es? Es Yaakov."
-},
-{
-"startMs": 2730000,
-"endMs": 2733000,
-"speaker": "Interlocutor 1",
-"text": "Pero si Yaakov acaba al final siendo Israel,"
-},
-{
-"startMs": 2733000,
-"endMs": 2739000,
-"speaker": "Interlocutor 1",
-"text": "Entonces quiere decir que desde el principio se revela que ese Yaakov era Israel."
-},
-{
-"startMs": 2739000,
-"endMs": 2784000,
-"speaker": "Interlocutor 1",
-"text": "Sí? Entonces la clara se hace. Pero al final, al final del mundo Yaakov, no puede llegar ahí. Hay que entender, o sea, otra vez, Yaakov se llama Embria. Entonces, \"Atsilut, entonces dice sí es el sí ahí está o sea como los borra sí están los borra no es que los borra."
-},
-{
-"startMs": 2784000,
-"endMs": 2808000,
-"speaker": "Interlocutor 1",
-"text": "No estamos lo que nos borra, sino que “la klala nefegelebraja” que todos esos nefilot que tuviste como Yaacobo, Ari, ¿por qué seguiste caminando? Si hubieras dejado de seguir caminando, entonces no hubieras dejado de ser Israel. Si llegaste a ser Israel es porque no te rendiste después de todas esas caídas. Entonces sí tuviste caídas y son todas esas veces que se te olvidó que eras Israel."
-},
-{
-"startMs": 2808000,
-"endMs": 2832000,
-"speaker": "Interlocutor 1",
-"text": "Entonces todas esas veces que se te olvidó que eras Israel fueron tus caídas. Pero si tú no te caes después de tus caídas y no te rindes después de tus caídas y aprendes de tus caídas, entonces llegas a Sebai Paul Satik Bekam, y entonces el Bekam ya es Israel. Y cuando Kam, Beetzem Zalek, que todo ese Sebai Paul Satik, era Mehmettendenej, en como. Sí, exactamente."
-},
-{
-"startMs": 2832000,
-"endMs": 2844000,
-"speaker": "Interlocutor 1",
-"text": "Eh? Sí, la imaginaria David Améleg. Sí, como dijimos, Raburi Zar, que también la caída fue parte de la construcción del del vinian completo."
-},
-{
-"startMs": 2844000,
-"endMs": 2870000,
-"speaker": "Interlocutor 1",
-"text": "Sí, el jete empezó desde Abraham Babinu que dijo Bameda."
-},
-{
-"startMs": 2870000,
-"endMs": 2891000,
-"speaker": "Interlocutor 1",
-"text": "Dice Raj. Entonces quiere decir, que es lo que está diciendo, que es un malaj que,"
-},
-{
-"startMs": 2891000,
-"endMs": 2894000,
-"speaker": "Interlocutor 1",
-"text": "Los más grandes,"
-},
-{
-"startMs": 2894000,
-"endMs": 2900000,
-"speaker": "Interlocutor 1",
-"text": "Los más grandes tuvieron su caída, pero no por eso dejaron de ser los más grandes."
-},
-{
-"startMs": 2900000,
-"endMs": 2932000,
-"speaker": "Interlocutor 1",
-"text": "Aquí, no creo que si fue aquí,¿no? Sí, que abrimos la Corán. Sí, sí, sí.¿Cuándo es la Mishna? En la Mishnah. No, de Emunatejabalelov. Pero ya vivimos cómo es todo junto. Sí. Porque el Emunah y Yatzib es de Yakob Israel. Sí, Kara y Krailiskov es Yakob Israel. Y aquí nos trae la de la toración. Sí."
-},
-{
-"startMs": 2932000,
-"endMs": 2944000,
-"speaker": "Interlocutor 1",
-"text": "Que es Bethem la matau de la Kegorem, la cría, Igorem shibut mitrai. Sí, sí. Muy bien. Nada más aquí sigue, dice.\"Batashema Yakov,"
-},
-{
-"startMs": 2944000,
-"endMs": 2955000,
-"speaker": "Interlocutor 1",
-"text": "Abdi, Israel Bahar Tipo\". Antes dijimos, antes decía Abdi, nosotros dijimos Mizwara, que es Yakov, y con eso nos cuadró. Aquí lo dice mi forah, dice Yakov es Abdi."
-},
-{
-"startMs": 2955000,
-"endMs": 2965000,
-"speaker": "Interlocutor 1",
-"text": "Israel es Bahar Tipo. Toda la Torá memhet, Iniana memhet, todo lo que te dice que no te caigas después del nanofiloto es porque tú tienes que entender, es que eres heve."
-},
-{
-"startMs": 2965000,
-"endMs": 2988000,
-"speaker": "Interlocutor 1",
-"text": "Tipo, no, no, yo quiero, no sé qué larga. Tú tienes que hacer lo que tienes que hacer porque eres heve. Entonces cuando eres Yaacob, tienes que aceptar todas las caídas y son parte de todo el Dale que tienes que pasar para convertirte en Israel. Todo lo que Israel se hace Israel es porque Yaacob tiene caídas. Si Yaacob no tendría caídas, Yaacob sería un Yaacob para siempre.¿Entonces?"
-},
-{
-"startMs": 2988000,
-"endMs": 2989000,
-"speaker": "Interlocutor 1",
-"text": "Eh?"
-},
-{
-"startMs": 2989000,
-"endMs": 2992000,
-"speaker": "Interlocutor 1",
-"text": "Sí?"
-},
-{
-"startMs": 2992000,
-"endMs": 2996000,
-"speaker": "Interlocutor 1",
-"text": "Tecnalmente."
-},
-{
-"startMs": 2996000,
-"endMs": 3000000,
-"speaker": "Interlocutor 1",
-"text": "Yazreja, al tiraf diyako,"
-},
-{
-"startMs": 3000000,
-"endMs": 3010000,
-"speaker": "Interlocutor 1",
-"text": "Y Shurun Bahartivo, y Shurun es Israel."
-},
-{
-"startMs": 3010000,
-"endMs": 3013000,
-"speaker": "Interlocutor 1",
-"text": "Desde,"
-},
-{
-"startMs": 3013000,
-"endMs": 3035000,
-"speaker": "Interlocutor 1",
-"text": "Dice, Dei Omar la Shemani, vedei kerab Shem Yakov. Este pasuk se ve tremendo. Toda esta persona que es Yakov, Israel, todo es porque le compró la mejorada de Saab. Es lo que. Si no me hubiera comprado la mejorada de Saab. Nunca hubiera habido la mejorada de. Israel."
-},
-{
-"startMs": 3035000,
-"endMs": 3039000,
-"speaker": "Interlocutor 1",
-"text": "Sí."
-},
-{
-"startMs": 3039000,
-"endMs": 3041000,
-"speaker": "Interlocutor 1",
-"text": "Ahora no más ¿Qué dice este pasuk?"
-},
-{
-"startMs": 3041000,
-"endMs": 3044000,
-"speaker": "Interlocutor 1",
-"text": "Dei Omar la Hashem."
-},
-{
-"startMs": 3044000,
-"endMs": 3062000,
-"speaker": "Interlocutor 1",
-"text": "Este va a decir \"Yo soy parashem\" \"Elutzadikim morim\" Dice \"Vezdei kare beshem Yaakov\" Dice Y hay algunos que se llaman \"Yaakov\" ¿Quiénes son?\"Eluktanim, ne reshaim\" Dice \"Deiktobiadola ashem,"
-},
-{
-"startMs": 3062000,
-"endMs": 3077000,
-"speaker": "Interlocutor 1",
-"text": "Eluva lechuva ufshem isralejane, eluva guerim, kaxnuea bavodarabinatan\" Creo que la delgada de guerim es agarrar kibiahol toda la nefilá de todo,"
-},
-{
-"startMs": 3077000,
-"endMs": 3085000,
-"speaker": "Interlocutor 1",
-"text": "Todo Yaakov y convertirlo, versem en el. la daryaxin. También."
-},
-{
-"startMs": 3085000,
-"endMs": 3089000,
-"speaker": "Interlocutor 1",
-"text": "Sí, sí, sí, mejor."
-},
-{
-"startMs": 3089000,
-"endMs": 3100000,
-"speaker": "Interlocutor 1",
-"text": "El venero de Shaim, o sea, algo así. Sí, tú parece que están en un matra que se llama Yaakov, están en un matra de caída, de Kaznut."
-},
-{
-"startMs": 3100000,
-"endMs": 3126000,
-"speaker": "Interlocutor 1",
-"text": "Concuerda con el Yaakov que dijiste cuando estaba pecando. Bueno, no, dice, otra vez la misma operación. Cuando me diga Ale que él es Meleg Israel, dice, Hashem tbacot, anir rishon, van a jaron, me la da en Elohim."
-},
-{
-"startMs": 3126000,
-"endMs": 3139000,
-"speaker": "Interlocutor 1",
-"text": "Toda la verdad de Elokim porque llega Pues la pero cuando Mitgalé Israel, Mitgalé Shemabaya, ¿ah? Las mi mei, la ni el richon, la ni el jarón, la ni el oquín."
-},
-{
-"startMs": 3139000,
-"endMs": 3148000,
-"speaker": "Interlocutor 1",
-"text": "Esa es más la, la largas, nomás pele plaín todo lo que estábamos hablando. Abres el, el, el. Se ha visto así,¿no?"
-},
-{
-"startMs": 3148000,
-"endMs": 3152000,
-"speaker": "Interlocutor 1",
-"text": "Está lleno de quezarín corazinos, llenos, de quezarín."
-},
-{
-"startMs": 3152000,
-"endMs": 3159000,
-"speaker": "Interlocutor 1",
-"text": "Llenos, de pere con todo el principio."
-},
-{
-"startMs": 3159000,
-"endMs": 3177000,
-"speaker": "Interlocutor 1",
-"text": "Sí. Sí, en el Guadaluchi. Mika Moni.¿Ven mia de machín? Sí, aparece así. Igualita. Sí, sí, sí. Esto es mamá yazino,100% ¿Y ahorita esta también? Y yo me venía a Harón, me habla de Yana y Lujín."
-},
-{
-"startMs": 3177000,
-"endMs": 3216000,
-"speaker": "Interlocutor 1",
-"text": "Pasó que sabes tu copy paste. Yazino."
-},
-{
-"startMs": 3216000,
-"endMs": 3222000,
-"speaker": "Interlocutor 1",
-"text": "Pues hay que ver el sentido de así no y el sentido de aquí. No, los dos es la necodad del Ijut."
-},
-{
-"startMs": 3222000,
-"endMs": 3244000,
-"speaker": "Interlocutor 1",
-"text": "Sí, el así no es que están adentro del galu. El galu. Cuando escuchen esto, van a salir de la nada. Ajá. Pues es todo lo que están hablando aquí. Pica Moni."
-},
-{
-"startMs": 3244000,
-"endMs": 3253000,
-"speaker": "Interlocutor 1",
-"text": "Hay unos cambios aquí en este último paso, que el desaint de Ajon Kursi. Mi sumó. Mi sumó también los trae allá en Bilam."
-},
-{
-"startMs": 3253000,
-"endMs": 3255000,
-"speaker": "Interlocutor 1",
-"text": "Mi hija, mi sumó."
-},
-{
-"startMs": 3255000,
-"endMs": 3260000,
-"speaker": "Interlocutor 1",
-"text": "Pero no, eso no sé si es de resolución en directo."
-},
-{
-"startMs": 3260000,
-"endMs": 3263000,
-"speaker": "Interlocutor 1",
-"text": "Bueno."
-},
-{
-"startMs": 3263000,
-"endMs": 3265000,
-"speaker": "Interlocutor 1",
-"text": "No sé, quiero irme a la boda."
-},
-{
-"startMs": 3265000,
-"endMs": 3267000,
-"speaker": "Interlocutor 1",
-"text": "Ahí me voy después."
-},
-{
-"startMs": 3267000,
-"endMs": 3270000,
-"speaker": "Interlocutor 1",
-"text": "Se mueve la boda de las otras."
-},
-{
-"startMs": 3270000,
-"endMs": 3284000,
-"speaker": "Interlocutor 1",
-"text": "Sí, sí, sí. Que le dije a alguien que vas a dar a las siete, si no, me va a acordar."
-},
-{
-"startMs": 3284000,
-"endMs": 3287000,
-"speaker": "Interlocutor 1",
-"text": "Sí, sí,"
-},
-{
-"startMs": 3287000,
-"endMs": 3289000,
-"speaker": "Interlocutor 1",
-"text": "Entonces. No va a Gabriel,"
-},
-{
-"startMs": 3289000,
-"endMs": 3297000,
-"speaker": "Interlocutor 1",
-"text": "Si no.¿Rascie acá?"
-},
-{
-"startMs": 3297000,
-"endMs": 3318000,
-"speaker": "Interlocutor 1",
-"text": "A ver. No como como vieron? Rashi dice que no no se acuerdan de mi trai pero el a mí me da y ¿Qué hay? Richonot y Kadmoniot."
-},
-{
-"startMs": 3318000,
-"endMs": 3324000,
-"speaker": "Interlocutor 1",
-"text": "Richonot son todas las."
-},
-{
-"startMs": 3324000,
-"endMs": 3328000,
-"speaker": "Interlocutor 1",
-"text": "Usted dice que no era una, apenas hay algo, un poquito."
-},
-{
-"startMs": 3328000,
-"endMs": 3331000,
-"speaker": "Interlocutor 1",
-"text": "Se ve que le arranca como benzoma?"
-},
-{
-"startMs": 3331000,
-"endMs": 3335000,
-"speaker": "Interlocutor 1",
-"text": "No, tiene que ser los dos a la vez, como ya explicamos. Fuerzas."
-},
-{
-"startMs": 3335000,
-"endMs": 3365000,
-"speaker": "Interlocutor 1",
-"text": "Este es un perek de benzoma y jamim a la vez. Porque todo el tiempo habla retroactivo y todo el tiempo habla que vencen de las dos argots juntas que se llaman Yaakov Israel. O sea, todo el tiempo a la Geulá le llama.¿Y ustedes son Yaakov o Israel?"
-},
-{
-"startMs": 3365000,
-"endMs": 3369000,
-"speaker": "Interlocutor 1",
-"text": "Está bien, pues eso es lo que vimos aquí en el Daví,"
-},
-{
-"startMs": 3369000,
-"endMs": 3372000,
-"speaker": "Interlocutor 1",
-"text": "Se relaciona directamente con nuestra."
-},
-{
-"startMs": 3372000,
-"endMs": 3409000,
-"speaker": "Interlocutor 1",
-"text": "Con nuestra llamara."
-},
-{
-"startMs": 3409000,
-"endMs": 3430000,
-"speaker": "Interlocutor 1",
-"text": "Es lo que yo busco.110.¿Qué es lo que consiguiendo en 5000? Becky Tour, eso es todo. Hasta este perek."
-},
-{
-"startMs": 3430000,
-"endMs": 3433000,
-"speaker": "Interlocutor 1",
-"text": "Digo, nos podríamos meter, pero no hay mucho tiempo."
-},
-{
-"startMs": 3433000,
-"endMs": 3446000,
-"speaker": "Interlocutor 1",
-"text": "A ver toda la historia de Yaakov Yaakov Avinu. Hablamos aquí a las Hinot que se llaman Yaakov Israel en toda Israel. Podríamos ver toda la historia, o sea un poquito la historia de Yaakov Avinu. Vamos a empezar la misma."
-},
-{
-"startMs": 3446000,
-"endMs": 3449000,
-"speaker": "Interlocutor 1",
-"text": "Porque."
-},
-{
-"startMs": 3449000,
-"endMs": 3454000,
-"speaker": "Interlocutor 1",
-"text": "Porque."
-},
-{
-"startMs": 3454000,
-"endMs": 3457000,
-"speaker": "Interlocutor 1",
-"text": "Por qué se llama Yaakov?¿Por qué se llama?"
-},
-{
-"startMs": 3457000,
-"endMs": 3463000,
-"speaker": "Interlocutor 1",
-"text": "Por qué se llama Yaakov? Porque se llama Israel."
-},
-{
-"startMs": 3463000,
-"endMs": 3467000,
-"speaker": "Interlocutor 1",
-"text": "Oh, oh, que tenemos poquito tiempo."
-},
-{
-"startMs": 3467000,
-"endMs": 3471000,
-"speaker": "Interlocutor 1",
-"text": "Hay un licutémoaran sobre Saraimenu,"
-},
-{
-"startMs": 3471000,
-"endMs": 3475000,
-"speaker": "Interlocutor 1",
-"text": "Que habla mucho, es en Toramentet.¿Ya lo viste o no?"
-},
-{
-"startMs": 3475000,
-"endMs": 3477000,
-"speaker": "Interlocutor 1",
-"text": "Cama."
-},
-{
-"startMs": 3477000,
-"endMs": 3480000,
-"speaker": "Interlocutor 1",
-"text": "Y habla mucho de Saraimenu,"
-},
-{
-"startMs": 3480000,
-"endMs": 3484000,
-"speaker": "Interlocutor 1",
-"text": "Zulay no sirve para eso."
-},
-{
-"startMs": 3484000,
-"endMs": 3493000,
-"speaker": "Interlocutor 1",
-"text": "Si no me equivoco, la voz la traigo abierta y atorada."
-},
-{
-"startMs": 3493000,
-"endMs": 3496000,
-"speaker": "Interlocutor 1",
-"text": "Ayer en noche.¿Mente?"
-},
-{
-"startMs": 3496000,
-"endMs": 3499000,
-"speaker": "Interlocutor 1",
-"text": "Sí."
-},
-{
-"startMs": 3499000,
-"endMs": 3501000,
-"speaker": "Interlocutor 1",
-"text": "Órale."
-},
-{
-"startMs": 3501000,
-"endMs": 3526159,
-"speaker": "Interlocutor 1",
-"text": "Me duré un poco."
+"startMs": 3525523,
+"endMs": 3525743,
+"text": "mucho."
 }
 ]
 }

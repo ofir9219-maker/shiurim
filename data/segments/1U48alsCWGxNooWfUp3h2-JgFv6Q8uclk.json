@@ -1,1446 +1,2881 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 0,
-"endMs": 3000,
-"speaker": "Speaker 1",
-"text": "Bien."
+"startMs": 660,
+"endMs": 900,
+"text": "¿Sí? Bien."
 },
 {
-"startMs": 3000,
-"endMs": 23000,
-"speaker": "Speaker 2",
-"text": "Mi Nombre es Shmuel. Shmuel, al perek yud bet. Dice: Mi nombre es Shmuel, el Kol Israel. In shamati, ve kolam, hola shamatem li bamli jalekamele. Ustedes pidieron un rey, los escuché y voy a darles un rey a ustedes."
+"startMs": 3480,
+"endMs": 10080,
+"text": "Vayomar Shmuel. Shmuel, Alef, Periquit, bet, pasuc Alef. Dice Shu-- Vayomar Shmuel, el Kol Israel."
 },
 {
-"startMs": 23000,
-"endMs": 27000,
-"speaker": "Speaker 2",
-"text": "Ah, está impresionante, ahorita estoy entendiendo algo increíble."
+"startMs": 11360,
+"endMs": 21440,
+"text": "Im nishamati bekolajem, jé col asher amar tem li ve'amlicha lajem melej. Ustedes pidieron rey, los escuché y voy a darles un rey a ustedes."
 },
 {
-"startMs": 27000,
-"endMs": 31000,
-"speaker": "Speaker 2",
-"text": "Hashem, teníamos una historia."
+"startMs": 23420,
+"endMs": 26180,
+"text": "Ah, está impresionante, ahorita están entendiendo algo increíble."
 },
 {
-"startMs": 31000,
-"endMs": 55000,
-"speaker": "Speaker 2",
-"text": "Tenías unas tiras, porque por un lado Misael pidió melej y al parecer su problema es con Shmuel, no con Hashem. Sí o no? Porque le dijeron a Shmuel: \"Ya estás viejito, tus hijos no, necesitamos alguien que te reemplace\". Y queremos un melej. Queremos un melej."
+"startMs": 28000,
+"endMs": 29640,
+"text": "Hashem, ah, teníamos una estirá."
 },
 {
-"startMs": 55000,
-"endMs": 62000,
-"speaker": "Speaker 2",
-"text": "No sirve ese? No, pensé que era tipo como los Kumashim. Y tú trajiste uno y tres, es el dos."
+"startMs": 31760,
+"endMs": 39880,
+"text": "Tenías uno, una estirá, porque por un lado, Am Yisrael pidió melej y al parecer su problema es con Shmuel, no con Hashem."
 },
 {
-"startMs": 62000,
-"endMs": 66000,
-"speaker": "Speaker 1",
-"text": "No, pero no vi, ya dije, es como los Kumashim."
+"startMs": 39880,
+"endMs": 49480,
+"text": "¿Sí o no? Ya se va a morir, ¿no? Porque le dijeron a Shmuel: \"Ya estás viejito, tus hijos, tus hijos no. Entonces, necesitamos un, eh, necesitamos alguien que te reemplace."
 },
 {
-"startMs": 66000,
-"endMs": 84000,
-"speaker": "Speaker 2",
-"text": "Entonces. Y ahora. Y Hashem le dijo a Shmuel. Shmuel, no te preocupes. Ki li ma'asu ki moti. Me despreciaron a mí. Ahora, y luego le dice a Hashem a Shmuel. Le dice."
+"startMs": 49700,
+"endMs": 52880,
+"text": "Necesita-- y queremos un melej. Queremos un melej\"."
 },
 {
-"startMs": 84000,
-"endMs": 115000,
-"speaker": "Speaker 2",
-"text": "Le dice. Dijo la Hashem le Shmuel, a los tíos también se llaman. \"Ken ema o sin gamlag\". Y así te están haciendo a ti, a mi Israel. Entonces ya no entendí. Es a Hashem o es a Shmuel. Entonces ellos sí, están pidiendo reemplazar a Shmuel. Pero es lo mismo que hacer. Pero. Dónde estamos? Ami Israel pidió rey, se dio a Shaúl de rey. Y Hashem le dijo a Shmuel. Shmuel, no te preocupes, no te están despreciando a ti. Están despreciando a mí de que están diciendo que yo no soy rey."
+"startMs": 55440,
+"endMs": 61700,
+"text": "No sirve ese, ¿eh? No, pensé que era tipo como los Jumashín. Tratando de vivir- Cogiste, cogiste uno y tres, es el dos."
 },
 {
-"startMs": 115000,
-"endMs": 146000,
-"speaker": "Speaker 2",
-"text": "Y luego Hashem le dice a Shmuel, luego después Hashem le dice a Shmuel, le dice: \"Y de la misma manera, cuando salieron de mi mitzrayim hicieron el jete ha'egel, así te están haciendo a ti\". Entonces ya no entendí. Claro. Entonces acá el punto es que es a los dos a la vez. Qué significa? Están pidiendo reemplazar a Shmuel, pero eso es un viduy a Hashem, porque otra vez, porque Shmuel, el de Shmuel, el del Shmuel, el Tzadiq, sería un viduy a Shmuel. Pero Shmuel el que entiendes que es Hashem el que puso a Shmuel."
+"startMs": 62660,
+"endMs": 68060,
+"text": "No, pues, no vi, ya dije, es como los Jumashín. Entonces, Hashem, y ora--"
 },
 {
-"startMs": 146000,
-"endMs": 153000,
-"speaker": "Speaker 2",
-"text": "Entonces acá es. Y Hashem qué? O sea, ¿quién lo puso a Shmuel? Hashem. Entonces sale que es a los dos a la vez. Tienes un."
+"startMs": 69440,
+"endMs": 76940,
+"text": "y Hashem le dijo a Shmuel: \"Shmuel, no te preocupes\". Ki lo dotjáma asu ki imoti mimloja lem. Me despreciaron a mí."
 },
 {
-"startMs": 153000,
-"endMs": 156000,
-"speaker": "Speaker 3",
-"text": "Problema con que esté viejito, quiere decir que no entendiste que yo lo puse."
+"startMs": 77800,
+"endMs": 80240,
+"text": "Ora y luego le dice Hashem a Shmuel, le dice,"
 },
 {
-"startMs": 156000,
-"endMs": 190000,
-"speaker": "Speaker 2",
-"text": "Ajá. Porque ok. Yo soy el que me ocupo, yo soy el que me encargo. No te desesperes. Sí, no se Shmuel. Entonces dice, me llamo Shmuel el Kol Israel y en el Shamati y ve kolam. \"Ya escuché sus peticiones y voy a ponerles un rey. Aquí está el rey, es Saúl. Después de que ya hizo la miljemet Najash. Ah, Moni. Sí, Saúl ya lo pusieron de rey. Hubo gente que apoyó, hubo gente que estuvo en contra, hubo la miljemet Najash."
+"startMs": 84260,
+"endMs": 91300,
+"text": "le dice: \"Que col ama Hashem, eh, masím ha'asher asu el, el otí otam memitzrayim miet adma'em, ve'es zot him nudú elohim ajenim, ken hem a'asín gam laj\"."
 },
 {
-"startMs": 190000,
-"endMs": 223000,
-"speaker": "Speaker 2",
-"text": "Saúl ganó la miljemet Najash. Sí, se acuerdan que también, o sea, antes de la miljemet Najash, el tema fue que Saúl, Le daba pena a ser rey, sentía que era guerra. Se escondió a ser Shamah baKelim, luego hizo la Miljemet Najash haAmoni y después la Miljemet Najash la ganó y juntó a todos los de Yisrael para hacer la guerra, entonces ahí otra vez Shmuel los reunió otra vez a toda Israel para otra vez postular a Shaúl como rey."
+"startMs": 92420,
+"endMs": 101600,
+"text": "Y así te están haciendo a ti, Am Yisrael. Entonces, ya no entendí, ¿es a Hashem o es a Shmuel? Entonces, ellos sí están pen-- están, están pidiendo reemplazar a Shmuel."
 },
 {
-"startMs": 223000,
-"endMs": 227000,
-"speaker": "Speaker 4",
-"text": "Cuando se escondió en los Kelim, Cómo después se hizo rey? Es que ya me perdí ahí, nomás."
+"startMs": 101620,
+"endMs": 112500,
+"text": "Pero es lo mismo que Hashem. Pero- ¿Dónde estamos? Am Yisrael pidió rey, pidió a Saúl de rey. Sí. Y Hashem le dijo a Shmuel: \"Shmuel, no te preocupes, no te están despreciando a ti."
 },
 {
-"startMs": 227000,
-"endMs": 254000,
-"speaker": "Speaker 2",
-"text": "No, ahí en esa vez que se escondió los que era cuando salió y era Shaul. Y Hashem dijo espérate, búsquenlo, encuéntrenlo y tráiganlo. A Yisrael dijeron no, traigan a otro, traigan a otro y Hashem dijo no, ahí está escondido, traiganlo. Lo trajeron. Entonces y después de eso fue la guerra con Najash haAmoni y Shaul ahí reunió a toda Yisrael a la guerra, hicieron la guerra, ganaron la guerra con Najash haAmoni."
+"startMs": 112720,
+"endMs": 125040,
+"text": "Sí. Me están despreciando a mí de que están diciendo que yo no soy rey\". Sí. Y luego Hashem le dice a Shmuel, luego, después, Hashem le dice a Shmuel, le dice: \"Y de la misma manera cuando salieron de Mitzrayim e hicieron el jet ha'egel, así te están haciendo a ti\"."
 },
 {
-"startMs": 254000,
-"endMs": 289000,
-"speaker": "Speaker 2",
-"text": "Ahora teníamos aquí un pendiente que era que Shmuel en este ínter de tiempo le dijo: \"Van a pasar siete días, siete días, me vas a esperar y vamos cuando yo llegue vas a acercar los korbanot\". Eso todavía no sabemos qué pasó con esta historia y es lo que va a venir ahorita a Parashat Gimel. Ahorita vamos a agregar, dice Paracute, dice: \"Vamos a ver Shmuel, el col de Israel\". Entonces después de que ya proclamó, Por segunda vez a Saúl como rey, después de que ya hizo la guerra con Najash haAmoni, y ya todos vieron que Saúl sabía reinar."
+"startMs": 125700,
+"endMs": 134700,
+"text": "Entonces, ya no entendí. Claro. Entonces, acá el punto es que es a los dos a la vez. ¿Qué, qué significa? Lo mismo. Están pendi-- pidiendo reemplazar a Shmuel, pero eso es un bidayon a Hashem."
 },
 {
-"startMs": 289000,
-"endMs": 319000,
-"speaker": "Speaker 2",
-"text": "Se acuerdan también, digo, nomás para no perder el hilo, que como Saúl se hizo rey por medio que era Navi, ¿sí o no? Por medio que le llegó la Nevuá y la Nevuá le llegó sin ninguna preparación anterior, significa, otra vez, Ro'eh, que toda la fuerza. O sea, no era Ro'eh, Ro'eh es el que se hace Navi con su esfuerzo, ¿sí? Por ejemplo, hoy en día existe el nivel de Ro'eh que existe hoy en día. No como antes, pero existe. Ves que hay Jajamim grandes que ven cosas diferentes que tú no logras ver."
+"startMs": 134800,
+"endMs": 142040,
+"text": "Claro. Porque otra vez, porque Shmuel, el de-- Shmuel, el del-- Shmuel el tsadik, es, sería un bidayon a Shmuel."
 },
 {
-"startMs": 319000,
-"endMs": 353000,
-"speaker": "Speaker 2",
-"text": "Me explico que Jamín con mucho prexud, que hay uno en todo el día, así y ven cosas que tú no ves. Es un nivel de Rohé, pero Navi no hay. Hoy no hay una situación donde Hashem manda directamente una neguada de arriba a abajo. Ahora, la manera en cómo llegabas a ser Navi era por medio que hacías tu esfuerzo por ser Rohé. Saúl se hizo navi sin cerró, y ese fue el mashal de todo el pueblo, cada persona que quería entrarle al Nebiud decían, ahí está, no es tu ishadlud, tu ishadlud es nada más como tú le demuestras a Shem que quieres, para el final el que te manda es a Shem."
+"startMs": 142540,
+"endMs": 148640,
+"text": "Pero Shmuel el que entiendes que es Hashem el que puso a Shmuel, entonces acá es: ¿y Hashem qué?"
 },
 {
-"startMs": 353000,
-"endMs": 388000,
-"speaker": "Speaker 2",
-"text": "Entonces otra vez estamos viendo todo este tema donde Shaúl, ahora si es así, si es realmente Shaúl así se hace rey y de ahí le llega su ruaj de Maljut, entonces quiere decir que Bijlal no eres tú, Bijlal es que Ashem al final es el que te está, Haciendo, te está poniendo, te está dando la fuerza. Entonces dice, y ese es el dilema que hay en el maljut de Shaul. Si el maljut de Shaul es del estilo que es como que muy que ves a una persona o el maljut de Shaul es que Hashem se está expresando por medio de una persona y nosotros necesitamos subirnos."
+"startMs": 148700,
+"endMs": 156200,
+"text": "O sea, ¿quién lo puso a Shmuel? Hashem. Entonces, sale que es a los dos a la vez. Tipo, tienes un problema con que esté viejito, ya dice que no entendiste que yo lo puse."
 },
 {
-"startMs": 388000,
-"endMs": 421000,
-"speaker": "Speaker 2",
-"text": "Ahora de parte del Am, Shaul sigue siendo el la persona. Sí, Shmoel, todos los Nisim y los Otot y la Neuá. Es para subir a su Saúl a ese nivel. Saúl, por un lado, fue Nejbaela Kelim y entonces Saúl mismo todavía no ha logrado meterse al 100% ahí. Por otro lado, hubo la guerra con Ahasha Amoní y la ganó. Sí, entonces ahí vamos, dice."
+"startMs": 156660,
+"endMs": 163460,
+"text": "Ajá. Porque, o sea, el que va a haber- Yo soy, yo soy el que me ocupo, yo soy el que me encargo. No te, no te, no te desesperes. Sí, no seas Shmuel."
 },
 {
-"startMs": 421000,
-"endMs": 453000,
-"speaker": "Speaker 2",
-"text": "Escuché su voz, de todo lo que ustedes me dijeron que pedir un rey. “Bea taine a melek mi talak i fenehem” Aquí está el rey frente a ustedes. “Banitakanti beshafti, ubanai hinam ikem” Dice “Banita lakti lifnehem mi neurai adai ” Yo estuve sirviéndolos a ustedes desde que yo era joven hasta hoy. Dice “I neni, astam nada más, nada más para entender un poquito más” “Ishmoel su metziut es ese”. Sumuel cómo llega a Bijlal al mundo?"
+"startMs": 163760,
+"endMs": 172040,
+"text": "Entonces, dice: \"Veamar Shmuel el Kol Israel ineshamati bekolajem lejol asher amar tem li ve'amlicha lajem melej\". Dice: \"Ya escuché sus peticiones y voy a ponerles un rey\"."
 },
 {
-"startMs": 453000,
-"endMs": 493000,
-"speaker": "Speaker 2",
-"text": "Cómo llega Shumuel al mundo? Quién es su mamá? Y para el tía, la Narazei, pues no, de la Narazei y para el de Smuel es, fíjense, ¿Saben por qué Shumuel se llama Smuel? Porque dijo que no dice que Saul me imashem de la palabra Saul, dice se lo pedí prestado a Hashem, Jana. Es algo loco, esto es mamá, es el punto. Sí, Jana no podía tener hijos y pidió a Tefila para poder tener hijos y tuvo a Shmouel y entonces ella apenas Shmouel tenía 2 años que ya no estaba directamente su mamá."
+"startMs": 172080,
+"endMs": 175100,
+"text": "Veata hine hamelej mitalej livnejam. Aquí está el rey, es, es Saúl."
 },
 {
-"startMs": 493000,
-"endMs": 531000,
-"speaker": "Speaker 2",
-"text": "A dónde lo puso? Lo mandó el Betamigdash, o sea, ¿qué quiere decir? No es mi hijo, tú mandaste por eso, ¿quién quién reveló el nombre? Nosotros decimos, por ejemplo, en Arbit Hashem Tse Baco Chemo. Quién descubrió el nombre de Sebacut? Llamarle a Ashem Sebacut Fue Jana porque Sebacut es ver todo el mundo como el ejército de Ashem Entonces ¿Qué quiere decir? Si tú ves al mundo como ejército de Ashem, no estás viendo a la persona Estás viendo a Ashem dirigiendo un ejército Ese es Shmuel, ahora increíble, yo nunca había entendido Siempre había una relación entre Shmuel Que justamente Samuel se llama Samuel por Saul y el primer rey se llama Saul ¿Me explico?"
+"startMs": 176380,
+"endMs": 184820,
+"text": "Después de que hizo la miljama con Ajash, Amoní, ¿sí? Saúl ya lo hiciero-- lo, lo, lo, lo, lo pusieron de rey."
 },
 {
-"startMs": 531000,
-"endMs": 553000,
-"speaker": "Speaker 2",
-"text": "Qué es Saúl? Saúl es el prestado ¿Me explico? Saúl es el prestado, Entonces Shmuel es alguien que lo recibió, Janah prestado de Hashem, entonces quiere decir que Shmuel nunca puede cobrar nada porque él literal no es él, no, él nada más está y es lo que les viene a decir aquí, dice Saúl."
+"startMs": 185420,
+"endMs": 193380,
+"text": "Hubo, hubo gente que apoyó, hubo gente que estuvo en contra, hubo la, la miljama con Ajash, Saúl ganó la miljama con Ajash, ¿sí?"
 },
 {
-"startMs": 553000,
-"endMs": 556000,
-"speaker": "Speaker 4",
-"text": "No puede decir que era prestado porque es prestado en el Majut, porque no eso,"
+"startMs": 193760,
+"endMs": 202520,
+"text": "Se acuerdan que también, o sea, antes de la miljama con Ajash, el tema fue que Saúl, eh, le daba pena ser rey, eh, sentía que la gabata de rey- Se escondió, en Nejvá ha'Kelim."
 },
 {
-"startMs": 556000,
-"endMs": 588000,
-"speaker": "Speaker 2",
-"text": "Entonces el punto de Saúl es que su Abodah de Saúl era lograr ser Saúl, recibir de Shmuel en la largada de Saúl, dice y neni, \"Anu bi nége dashem ven nége me shijo\" dice. Y vean Shmuel cómo los empieza a regañar de que pidieron rey. Empieza Shmuel a hablar de él. O sea, ¿qué empieza a decir de él? Dice, dice: \"Chor milakakti, behamon milakakti\" ¿Qué acaso yo alguna vez les pedí un burro prestado, un toro prestado para ir de lugar al lugar?"
+"startMs": 202580,
+"endMs": 213640,
+"text": "Se-- Nejvá ha'Kelim. Luego hizo la miljama con Ajash a Amoní y después de la miljama con Ajash y la ganó y, y, y, y juntó a todos los de Judá para hacer la guerra."
 },
 {
-"startMs": 588000,
-"endMs": 625000,
-"speaker": "Speaker 2",
-"text": "\"Betmi ashakti, betmi ratzoti, humillad milakaktikofe\" ¿A quién le pedí dinero? Sí, para. A veces la gente le pedía a Yeshuot, a Shmuel, dice, a alguien le pedí algún algún kófer para hacerle algún Tikún, de alimenai, de alguien, de a alguien no. No le hice caso, no, Ulaya, alguien así es el Chat Pashuta, si me sonó, pero ahora sí dice que de la Alimenai minamishpatvishvilamamón, dice, dice, cuando yo me interesó otra cosa, aparte de servirlos, no me interesó ni su dinero, no me interesó nada más que servirlos."
+"startMs": 213920,
+"endMs": 216660,
+"text": "Entonces, ahí otra vez Shmuel los--"
 },
 {
-"startMs": 625000,
-"endMs": 638000,
-"speaker": "Speaker 2",
-"text": "Mi hombrul loa shaktanu velo ratsotanu velola kakta mi ya dixme uma, nunca tú hiciste nada para ti."
+"startMs": 218280,
+"endMs": 226160,
+"text": "reunió otra vez a toda Am Yisrael para otra vez postular a Saúl como rey. Cuando se escondió los Kelim, en los Kelim, ¿cómo, cómo después se hizo rey?"
 },
 {
-"startMs": 638000,
-"endMs": 670000,
-"speaker": "Speaker 2",
-"text": "Podemos ser testigos que no encontraron nada en mí? Qué tanto Shmuel quiere ahorita decir eso? Porque es lo que viene Shmuel a decir, les quiere enseñar que existe ese concepto, que existe ese concepto que Shmuel es calculó el la expresión de Ashem en el mundo. Dice \"Beyome Shmuel Alaam\", dice, le dice Shmuel a todos, ahora dice: \"No nada más dio\", dice \"Ashem\", \"Asherasa et Moshe bet Aaron\", \"Ashem hizo a Moshe, hizo Aaron\", otra vez, ese es el aspecto que estamos hablando todo el tiempo."
+"startMs": 226220,
+"endMs": 234480,
+"text": "Es que me perdí ahí, no más. No, ahí, en esa vez que se escondió los Kelim, era cuando salió y era Saúl. Y Hashem dijo: \"Espérate, búsquenlo, encuéntrenlo y tráiganlo\"."
 },
 {
-"startMs": 670000,
-"endMs": 681000,
-"speaker": "Speaker 2",
-"text": "\"Basher elaeta botehem meret Mitzrayim\", \"Beata itiatzebu\", \"Bishaftah lifneh ashem et kol hitkotashem\", \"Asherasaitzem betta botehem\", dice, \"A ver, vamos a vamos a\"."
+"startMs": 235080,
+"endMs": 241440,
+"text": "A Am Yisrael le dijeron: \"No, traigan a otro\". Sí, sí, a otro. Traigan a otro. Y, y Hashem dijo: \"No, no, no, ahí está escondido, tráiganlo\"."
 },
 {
-"startMs": 681000,
-"endMs": 683000,
-"speaker": "Speaker 3",
-"text": "\"Tiatsbú\""
+"startMs": 241620,
+"endMs": 252820,
+"text": "Ya lo trajeron. Lo trajeron. Entonces, y después de eso fue la guerra con Ajash a Amoní y Saúl ahí reunió a toda Am Yisrael a la guerra, hicieron la guerra, ganaron la guerra con Ajash a Amoní."
 },
 {
-"startMs": 683000,
-"endMs": 717000,
-"speaker": "Speaker 2",
-"text": "Vamos a poner en juicio todos los favores y los las bondades que hizo Hashem y con sus con sus papás desde que salieron de Mitraim hasta hoy, dice Kasher vaya akov Mitraim, o sea, Shmuel le está dando aquí el discurso de todo lo que estamos, de todo lo que llevamos hablando, que es el mensaje de cómo tienes que pedir rey. Si al final Hashem hizo todo, entonces, ¿por qué estás nervioso de no tener un rey? Entonces dice Kasher vaya akov Mitraim. Ahí quién puso a Musei Aaron?"
+"startMs": 254680,
+"endMs": 270000,
+"text": "Ora, teníamos aquí un pendiente que era que Shmuel, en este inter de tiempo, le dijo: \"Van a pasar siete días, siete días, me vas a esperar y vamos, cuando yo llegue, vas a acercar los korbanot\"."
 },
 {
-"startMs": 717000,
-"endMs": 750000,
-"speaker": "Speaker 2",
-"text": "Asher lo mandó, y ya llegaron hasta Eretz Israel, se olvidaron ustedes de Hashem, y Sisera, los atacó, los gobernó, Sisera, los atacó, Biat Plishtim, los Plishtim, los atacaron, los gobernaron, Biat Melek Moab, sí, Eglon, Belek Hamuba. \"Beidakuel ashem, mi embruja, tanu que asdav nuestrashem\". Ahí te acordaste de que. De que te olvidaste de la semana, la voz de estar bien, hicimos la voz de atrás."
+"startMs": 270660,
+"endMs": 278940,
+"text": "Eso todavía no sabemos qué pasó con esa historia, es lo que va a venir ahorita, Peré G-- Guimel. Ahorita vamos a ver, dice, Peré Guitbet, dice: \"Veamar Shmuel el Kol Israel\"."
 },
 {
-"startMs": 750000,
-"endMs": 781000,
-"speaker": "Speaker 2",
-"text": "\"Beidak, si le hanu mirado y viene una abdeja\". \"Beidbedan, betiftaj, bet Shmuel\". Quién está hablando? Quién está hablando? Shmuel. O sea, Shmuel está diciendo: \"Y a Shmuel mandó a Mosé, a Aarón, a Yeruba, a Bedan, sí, a Shmuel. Por qué se está hablando de él en tercera persona? Acá no, no es que está hablando de él. Está hablando de él de tercera persona, es que. No es que se mandó a mí, tipo, se mandó Asmuel, yo soy Ismuel. Yo soy Ismuel Casmuel. Yo dentro del paquete de ellos."
+"startMs": 279620,
+"endMs": 289840,
+"text": "Entonces, después de que ya proclamó por segunda vez a Saúl como rey, después de que hizo la guerra con Ajash a Amoní y ya todos vieron que Saúl era-- sabía reinar, ¿sí?"
 },
 {
-"startMs": 781000,
-"endMs": 790000,
-"speaker": "Speaker 2",
-"text": "O sea, se mandó Asmuel y ese soy yo. Voy a hablar de él. O sea, viéndose ahí, es que yo antes de ser yo."
+"startMs": 290380,
+"endMs": 296560,
+"text": "¿Se acuerdan también, digo, nomás para no perder el hilo, que cómo Saúl se hizo rey? Por medio que era naví, ¿sí o no?"
 },
 {
-"startMs": 790000,
-"endMs": 794000,
-"speaker": "Speaker 4",
-"text": "Es como en una obra de teatro que alguien diga no, y pusieron a él, me pusieron a mí de él."
+"startMs": 297440,
+"endMs": 304800,
+"text": "Por medio que le llegó la nevua y la nevua le llegó sin ninguna preparación anterior. Significa, otra vez- Rué ...que toda la fuerza- Más que Rué."
 },
 {
-"startMs": 794000,
-"endMs": 826000,
-"speaker": "Speaker 2",
-"text": "Yo soy. Exactamente. Yo soy el que representa. Yo, el yo de aquí, soy el que representa, ese es el que hace mandó, ese dice entonces, y vieron que vino najash bneh bneh amon, sí, va alejem, batom brulli, lo ki melechim lo halenum, y de repente ahorita por la presión de najash."
+"startMs": 305540,
+"endMs": 313080,
+"text": "O sea, no era Rué. Rué es el que se hace naví con su esfuerzo, ¿sí? Por ejemplo, hoy en día existe, el nivel de Rué existe hoy en día."
 },
 {
-"startMs": 826000,
-"endMs": 862000,
-"speaker": "Speaker 2",
-"text": "Najas nosotros vimos que vino después de que perdieron el reinado, pero aquí Shmuel está revelando que llegó Naja, llegó el reinado por la presión de Najas y entonces ahí a Misael por la presión que hacemos? No, necesitamos un rey, necesitamos un rey. Entonces dice. Y dice Shmuel, pero no te diste cuenta así tipo naciste hoy, dice ya llevamos un historial muy grande donde Shem todo el tiempo se preocupa para darnos rey, dice. Bueno, aquí está. Asher, shaltem, fíjense, shaltem es de la palabra Shaúl, lo pediste."
+"startMs": 313800,
+"endMs": 319840,
+"text": "No como antes, pero existe. Ves, ves, ves que hay jamín grandes que ven cosas diferentes que tú no logras ver."
 },
 {
-"startMs": 862000,
-"endMs": 897000,
-"speaker": "Speaker 2",
-"text": "Tienes que entender que Shaúl es un rey que lo estás pidiendo prestado de Hashem y ese es justamente ese aspecto. Dine natan ashem alejem melej, intir u et ashem babate moto, usmaten bekoló, velotan bru et pi ashem. Si ustedes van a tener ir a, van a ser Abadim Dashem, van a escuchar, todas estas palabras son muy importantes, van a escuchar su voz. No van a cambiar la, o sea, las bichotas de Hashem por otras cosas. Y ustedes van a estar detrás de Hashem."
+"startMs": 319880,
+"endMs": 327800,
+"text": "Me explico, jamín con mucho prishút, que ayunan todo el día, así y ven, ven, ven cosas que tú no ves. Es un nivel de Rué, pero naví no hay."
 },
 {
-"startMs": 897000,
-"endMs": 913000,
-"speaker": "Speaker 2",
-"text": "O sea, quiere decir, vas a entender que él es el rey. Nosotros estamos detrás de ese reinado, dice, siguiendo a Hashem, pero."
+"startMs": 328520,
+"endMs": 334940,
+"text": "Naví, hoy no hay una situación donde Hashem manda directamente una, una, una nevua de arriba a abajo."
 },
 {
-"startMs": 913000,
-"endMs": 969000,
-"speaker": "Speaker 2",
-"text": "Escuchan estas palabras? Y vas a cambiar la palabra de Hashem, vaitai yada Shem, bajem uva otehem, dice y Hashem va, Barminar, los va a castigar, Gamata y Tiatzebu, otra vez y Tiatzebu, todo el tiempo sale y Tiatzebu. Párense y vean lo que Hashem va a hacer ahorita. A lo que ahorita es Kaitz, es verano. En el verano en Israel no llueve ahora si llueve no nada más que está no nada más que no se necesita la lluvia sino muela todo ya tienes toda la toda todo se te revierta todo dice ahorita es tiempo de que tsir jittima yo le voy a llamar a Shem y va a mandar lluvias y truenos udeu, ureu, kira, tehem raba van a ver."
+"startMs": 335380,
+"endMs": 343980,
+"text": "Ahora, la manera en cómo llegabas a ser naví era por medio que hacías tu esfuerzo por ser Rué. Saúl se hizo naví sin ser Rué y ese fue el mashal de todo el pueblo."
 },
 {
-"startMs": 969000,
-"endMs": 1000000,
-"speaker": "Speaker 2",
-"text": "Tipo de esto ustedes van nada más es para enseñarles cómo esto que ustedes pidieron, rey, están enchuecando las cosas, dice: \"Asherasite envené a Shem, lish hola geme lej otra vez Shaúl\" y hay 2 aspectos, sí, entonces de pedir un rey qué tiene que ver y entonces yo entiendo aquí algo muy profundo es por qué llueve cuando tiene que llover. Entonces no, porque así llueve, así es la naturaleza, es época de lluvias."
+"startMs": 344020,
+"endMs": 353420,
+"text": "Cada persona que quería entrarle al Neviut decían- Ahí está ...no es tu ishlut. Tu ishlut nada más como tú le muestras a Hashem qué quieres, pero al final el que te manda es Hashem."
 },
 {
-"startMs": 1000000,
-"endMs": 1019000,
-"speaker": "Speaker 2",
-"text": "Dices Shmuel, no necesita nada. Si llueve en el tiempo que tiene que llover es porque Ashem decidió que va a llover en el tiempo que tiene que llover. Ahora si tú vienes y te cambias la boca de Ashem. Qué significa? No, Ashem, no, necesitamos lluvia hoy. Yo necesito lluvia hoy. Amuelas en sede, ¿me explico? Entonces es."
+"startMs": 353820,
+"endMs": 364780,
+"text": "Entonces, otra vez estamos viendo todo este tema donde Saúl, ahora, si es así, si realmente Saúl así se hace rey y de ahí le llega su, su, su ruaj de maljut, entonces quiere decir que bijlal no eres tú."
 },
 {
-"startMs": 1019000,
-"endMs": 1022000,
-"speaker": "Speaker 5",
-"text": "Una enseñanza que les quiere dar Shmuel. Claro, si yo voy a pedir lluvia hoy,"
+"startMs": 365260,
+"endMs": 376132,
+"text": "Bijlal es, es, es, es que Hashem al final es el que te está, eh, haciendo, te está poniendo, te está dando la fuerza. Entonces, dice Y ese es el dilema que hay en el Maljut de Saúl."
 },
 {
-"startMs": 1022000,
-"endMs": 1055000,
-"speaker": "Speaker 2",
-"text": "Van a ver como. Mira, entiende que si llovió todo el jord es porque Asem decidió que hay lluvia, no porque era época de lluvia, sí, y dice métete eso en la cabeza. Entonces Asem sigue dirigiendo el mundo, llovió todo el tiempo y si ahorita llueve te va a molar todo. Entonces Asem nos está dirigiendo hasta ahorita todo estuvo increíble y nunca ha llovido en Kaitz, pero no porque no puede llover en Kaitz en un segundo es porque Asem nunca decidió que llueva en Kaitz porque nos va a molar. Entonces dice Ashem siempre te preocupó por ti, date cuenta."
+"startMs": 376492,
+"endMs": 388212,
+"text": "Si el Maljut de Saúl es del estilo que es como que muy que ves a una persona, o el Maljut de Saúl es que Hashem se está expresando por medio de una persona y nosotros necesitamos subirnos."
 },
 {
-"startMs": 1055000,
-"endMs": 1061000,
-"speaker": "Speaker 2",
-"text": "Y cuando tú vienes y empiezas a dejar de confiar en Ashem entonces pues las cosas empiezan a salir de su lugar."
+"startMs": 388892,
+"endMs": 401032,
+"text": "Ahora, de parte del Am, Saúl sigue siendo el, el, la persona, ¿sí? Shmuel, todos los nisim y los otot y la neuá es para subir a Su-- Saúl a ese nivel."
 },
 {
-"startMs": 1061000,
-"endMs": 1063000,
-"speaker": "Speaker 4",
-"text": "Pele. Le está amenazando,"
+"startMs": 401352,
+"endMs": 410232,
+"text": "Saúl, por un lado, fue en Nevá el Akelín. Entonces, eh, eh, Saúl mismo todavía no ha logrado meterse al cien por ciento ahí."
 },
 {
-"startMs": 1063000,
-"endMs": 1073000,
-"speaker": "Speaker 2",
-"text": "Le está enseñando, le está enseñando. Le está enseñando. Que tienen el error. Le está enseñando. Es reprochando."
+"startMs": 410552,
+"endMs": 416752,
+"text": "Por otro lado, hubo la guerra con Ajasa Amoní y la ganó, ¿sí? Entonces, ahí vamos, dice: «Vayomer Shmuel el kol Israel."
 },
 {
-"startMs": 1073000,
-"endMs": 1074000,
-"speaker": "Speaker 4",
-"text": "Es reprochando."
+"startMs": 417052,
+"endMs": 424012,
+"text": "Hine shamati mekol ajem nejol asher atem, asher amartem li ve'amlikh alejem melej». Escuché su voz de todos los que ustedes me dijeron que pide un rey."
 },
 {
-"startMs": 1074000,
-"endMs": 1082000,
-"speaker": "Speaker 2",
-"text": "Y enseñando a la vez. Como una advertencia. Dice."
+"startMs": 424292,
+"endMs": 431132,
+"text": "«Veata hine hamelej mitjalaj lifnejem». Aquí está el rey frente a ustedes. «Veani zekanti veshavti ubanai hinam itjem»."
 },
 {
-"startMs": 1082000,
-"endMs": 1092000,
-"speaker": "Speaker 3",
-"text": "Estaba Muy difícil para Misterial, siempre habían estado toda la vida acostumbrados a tener Un, Dirigente, eso no era ilógico que pidan velas. Pero esto."
+"startMs": 431752,
+"endMs": 442232,
+"text": "Dice: «Veani itjalajti lifnejem mineurai ad hayom haze». Yo estuve sirviéndoos, sirviéndolos a ustedes desde que yo era joven hasta hoy, dice."
 },
 {
-"startMs": 1092000,
-"endMs": 1112000,
-"speaker": "Speaker 2",
-"text": "Es lo que Samuel tiene que hacer que ellos entiendan, que todos los dirigentes, así se puso, de la misma manera, la lluvia, cuando entras a ese estado de conciencia entiendes que la lluvia no cae porque es época de lluvia, entonces que la época de lluvia y la lluvia, todo eso es porque yo me está diciendo que así sea. Nos dice."
+"startMs": 442732,
+"endMs": 443392,
+"text": "Hineni--"
 },
 {
-"startMs": 1112000,
-"endMs": 1120000,
-"speaker": "Speaker 1",
-"text": "Y ahí enfrente de todos le pidió a la lluvia ¿o qué? No."
+"startMs": 444952,
+"endMs": 452912,
+"text": "Ah, está, nada más, nada más para entender un poquito más. Shmuel, su metsihut es ese. Shmuel, ¿cómo llega bijlal al mundo?"
 },
 {
-"startMs": 1120000,
-"endMs": 1124000,
-"speaker": "Speaker 4",
-"text": "Si Ustedes cambian la palabra mía, puede decir que a lo mejor no."
+"startMs": 453172,
+"endMs": 464292,
+"text": "¿Cómo llega Shmuel al mundo? Tiene su mamá. Itpalaltia la nara zeit. Exactamente, la nara zeit palalti. Shmuel es, fíjense, afilu, ¿saben por qué Shmuel se llama Shmuel?"
 },
 {
-"startMs": 1124000,
-"endMs": 1129000,
-"speaker": "Speaker 6",
-"text": "Para decir que cambió significa que se me había puesto aquí en los hijos de Xmuel."
+"startMs": 465072,
+"endMs": 466072,
+"text": "Porque dijo"
 },
 {
-"startMs": 1129000,
-"endMs": 1145000,
-"speaker": "Speaker 2",
-"text": "No, No, es que están pidiendo a alguien por desesperación, como si como si no hay nada. Tú puedes pero no, mira, si había había una mitzvah, Ya sé, pero ahora tú lo pides, estás muy."
+"startMs": 467372,
+"endMs": 473992,
+"text": "que no, dice: «Ki Shaúl me im Hashem». De la palabra Saúl, ¿sí?"
 },
 {
-"startMs": 1145000,
-"endMs": 1181000,
-"speaker": "Speaker 2",
-"text": "No, Pero lo piden por desesperación. Ellos lo tenían que pedir por mitzwa. Qué quiere decir? Si no habría mitzwa, entonces te esperas a que Hashem lo haga y si hay mitzwa, lo pides porque Hashem, tú nos dijiste la Torá, sí, tú nos dijiste la Torá que es que es lo que es algo que se va a engrandar tu honor en el mundo cuando hay un rey. Por eso queremos rey, pero decir, oye, Ashem, no hay rey, entonces ya estamos esperados, nos van a matar. Entonces agarran este punto la desesperación, sí, la desesperación."
+"startMs": 474592,
+"endMs": 481712,
+"text": "Dice: «Se lo pedí prestado a Hashem». Janah es algo loco, esto, esto es mamá, es el punto, ¿sí?"
 },
 {
-"startMs": 1181000,
-"endMs": 1237000,
-"speaker": "Speaker 2",
-"text": "Con la Emuná, tienes que mantener la Emuná y no caer en desesperación y este este punto es lo que mide en qué canal estás, entonces van a ver ahorita van a ver cómo va a trabajar Entonces primero entró eso con Amisrael pidiendo a Saúl, luego Saúl primero es cuando te dice que Saúl se estaba escondiendo, no significa que ya estaba mal pero significa que todavía tiene trabajo que hacer, me explico necesita Saúl subirse, Y todo este discurso es de Shmuel es para toda mi Israel y para Saúl, porque les está advirtiendo, tienes que elishmoa becol Hashem, pero van a ver cómo están relevantes, entonces vamos, dice: \"Beyam el Shmuel alaam al tiru\", dice: \"Atema si te me te cola raas dot\", ah perdón, dice: \"Beyam brujo lame el Shmuel\", \"It palel beada abdeja, pide por nosotros, el Hashem lo queja, vean la mut, que asaf no alcohol hatotenu ra al isholan umelech\"."
+"startMs": 482092,
+"endMs": 494232,
+"text": "Janah no podía tener hijos y pidió a Tefilá para poder tener hijos y tuvo a Shmuel. Y entonces, ella apenas, eh, Shu, Shmuel tenía dos años, que ya no necesitaba directamente su mamá, ¿a dónde lo puso?"
 },
 {
-"startMs": 1237000,
-"endMs": 1249000,
-"speaker": "Speaker 2",
-"text": "\"Por favor pídete fila por nosotros, para que Hashem nos perdone del hecho que pedimos rey\". Shmuel está diciendo: \"Fue algo tremendamente malo, fue como el jeta egel que pidieron rey\"."
+"startMs": 494552,
+"endMs": 501072,
+"text": "Claro, lo mandó al... Lo mandó al Bet Hamikdash. O sea, ¿qué quiere decir? No es mi hijo. Tú mandaste."
 },
 {
-"startMs": 1249000,
-"endMs": 1251000,
-"speaker": "Speaker 5",
-"text": "Pues la misma."
+"startMs": 501751,
+"endMs": 509392,
+"text": "Por eso, ¿quién, quién reveló el nombre? Nosotros decimos, por ejemplo, en Arvit: «Hashem tzewakot shemo». ¿Quién descubrió el nombre Tzewakot?"
 },
 {
-"startMs": 1251000,
-"endMs": 1281000,
-"speaker": "Speaker 2",
-"text": "Desesperación que hubo ahí. Sí, \"Beyommen\". Si hicieron mal, pero pueden arreglarlo. No se separen de Hashem, confíen en Hashem. Velotasuru que ajareatou, veloyatziluquitou ema. No se vayan detrás, cuando no vas detrás de Ashemi te tratas de apoyar en cualquier otra cosa, te estás apoyando en el tofu, en cosas que no son absolutamente nada."
+"startMs": 509832,
+"endMs": 516652,
+"text": "Llamarle a Hashem Tzewakot. ¿Janah? Fue Janah. Porque Tzewakot es ver todo el mundo como el ejército de Hashem. Entonces, ¿qué quiere decir?"
 },
 {
-"startMs": 1281000,
-"endMs": 1308000,
-"speaker": "Speaker 2",
-"text": "Dice Kiloito Shashem Tamo. Ashem nunca va abandonar su pueblo. Fíjate, esto es algo increíble. Dice Ashon nunca los va a ustedes a exterminar por él. Yo no te voy a exterminar a ti por él. Entonces parece que, parece como si te está diciendo que tipo. Ya, tipo tú por ti, sí, dirá por él. Pero en verdad estamos muy profundos,"
+"startMs": 516692,
+"endMs": 530112,
+"text": "Si tú ves al mundo como ejército de Hashem, no estás viendo a la persona, estás viendo a Hashem dirigiendo un ejército. Ese es Shmuel. Ahora, increíble, yo nunca había entendido, siempre había una relación entre Shmuel, que justamente Shmuel se llama Shmuel por Saúl, y el primer rey se llama Saúl."
 },
 {
-"startMs": 1308000,
-"endMs": 1311000,
-"speaker": "Speaker 5",
-"text": "Que es al revés. Nada más lo dirá, dice."
+"startMs": 530112,
+"endMs": 536812,
+"text": "¿Me explico? ¿Y él lo puso? Que es Saúl, Saúl es el prestado. ¿Me explico? Saúl es el prestado."
 },
 {
-"startMs": 1311000,
-"endMs": 1341000,
-"speaker": "Speaker 2",
-"text": "Dice, es al revés. Quiere decir que nosotros somos tanto la luz de Hashem en el mundo, que el hecho, si entiendes este mundo que se llama, sí. Si vives en el otro mundo completamente, entonces él es Chadik. Entonces, y si deja ser Chadik, bueno, es su problema, deja de ser Chadik. Pero si tú entiendes que cada Yudi es la expresión de Ayudí en el mundo, es la luz de Ayudh en el mundo. Yashem está mandando a cada Yudi, que por medio de ese Yudi se revela en el mundo, entonces no puede un Yudi no existir."
+"startMs": 537572,
+"endMs": 548772,
+"text": "Entonces, Shmuel es alguien que lo recibió Janah prestado de Hashem. Entonces, quiere decir que Shmuel nunca puede cobrar nada, porque él, literal, no es él."
 },
 {
-"startMs": 1341000,
-"endMs": 1352000,
-"speaker": "Speaker 2",
-"text": "Claro. Oh, la luz. Entonces."
+"startMs": 549032,
+"endMs": 565052,
+"text": "No, él, él nada más está... Y es lo que les viene a decir aquí, dice. Saúl no puede ser que era prestado porque es prestado del, del Maljut, porque no es- Eso, entonces el punto de Saúl es que su abodá, de Saúl, era lograr ser Saúl, recibir de Shmuel el, el, la verdad de Saúl."
 },
 {
-"startMs": 1352000,
-"endMs": 1353000,
-"speaker": "Speaker 4",
-"text": "Como si estuviera, estamos apagando a Shem."
+"startMs": 565432,
+"endMs": 570332,
+"text": "Dice: «Hineni anu vi neged Hashem, ve'neged meshijó». Dice--"
 },
 {
-"startMs": 1353000,
-"endMs": 1378000,
-"speaker": "Speaker 2",
-"text": "Claro, claro, y es justo el mundo. Si te metes al mundo de Shmuel, no te puedo anular porque soy yo. Exactamente! ¡Tú eres, tú eres yo! Tú eres mi luz. Dice, entonces no se preocupen porque al final Hashem los quiere a ustedes porque él es el que los mandó a ustedes. Es algo muy profundo esto, muy, muy profundo. Qué onda? Todo bien? Hashem."
+"startMs": 572132,
+"endMs": 578672,
+"text": "Y vean Shmuel cómo los empieza a regañar de que pidieron rey. Empieza Shmuel a hablar de él. O sea, ¿qué empieza a decir de él?"
 },
 {
-"startMs": 1378000,
-"endMs": 1379000,
-"speaker": "Speaker 1",
-"text": "Es de Hut."
+"startMs": 578732,
+"endMs": 588392,
+"text": "Dice, dice: «Echor mi lakachti vejamor mi lakachti». ¿Qué acaso yo alguna vez les pedí un burro prestado, un, un toro prestado para ir de lugar en lugar?"
 },
 {
-"startMs": 1379000,
-"endMs": 1382000,
-"speaker": "Speaker 2",
-"text": "La luz."
+"startMs": 588972,
+"endMs": 599372,
+"text": "«Veet mi ashakti, veet mi ratsoti, mi yad mi lakachti kofer». ¿A quién le pedí dinero? Sí, para-- A ver, la gente le pedía a Yeshúot, a Shmuel."
 },
 {
-"startMs": 1382000,
-"endMs": 1407000,
-"speaker": "Speaker 2",
-"text": "Entonces, aquí es algo increíble. Otra vez, si te metes al mundo de Shmuel, si te metes al mundo de Shmuel, aquí hay un mundo muy profundo, muy, muy profundo. Una persona hace una verá. Y entonces acá uno puede pensar, otra vez, si te ves separado, Ashem, y entonces. Se llama en el Ramajal que hay dos dimensiones, una de Nagata Mishpat y otra se llama Nagata Hijud."
+"startMs": 599412,
+"endMs": 606072,
+"text": "Dice: «¿A alguien le pedí algún, algún kofer para hacerle algún tikún? Vehalim henai veashiv lajem»."
 },
 {
-"startMs": 1407000,
-"endMs": 1423000,
-"speaker": "Speaker 2",
-"text": "Anagata Ijud es la de Shmuel, la que estamos diciendo Anagata Mishpat es que nosotros estamos aquí, necesitamos ser mitvot, abstener no ser Averot Dice el Ramhan, dice no, no pienses que el que vive nada más en el Mishpat vive en un error porque piensa que existe realmente."
+"startMs": 606372,
+"endMs": 617172,
+"text": "De alguien, de a alguien no, eh... ¿No le hice caso? No, ulai, así es el peshat pashut, así me sonó, pero Rashi dice: «Que de lahalim henai min hamishpat bi shvila mamón»."
 },
 {
-"startMs": 1423000,
-"endMs": 1425000,
-"speaker": "Speaker 5",
-"text": "Perder y salirte Perder,"
+"startMs": 617772,
+"endMs": 625352,
+"text": "Dice, dice: «¿Cuándo yo me, me interesó otra cosa aparte de servirlos? No me interesó ni su dinero, no me interesó nada más que servirlos»."
 },
 {
-"startMs": 1425000,
-"endMs": 1461000,
-"speaker": "Speaker 2",
-"text": "Salirte, no ser, sí ser Anagata Ijud es la que reveló a Shem después del jeta Egel Entonces, ¿cuál es el punto acá? Entonces un niño, Imagínate otra vez una persona hizo una verdad, entonces qué piensa, ya castiga, ya perdí la oportunidad. O sea, ahora si lo ves desde la otra perspectiva, no, Hashem me mandó al mundo, entonces en verdad, al mandarte a Hashem al mundo no te manda a Hashem al mundo y otra vez ya te metiste en la nalgada del mishpat y ahí vives y ahí y ahí empieza y ahí muere, sino es como un papá con un hijo."
+"startMs": 625752,
+"endMs": 631951,
+"text": "«Veomru lo ashaktanu, ve lo ratsotanu, ve lo lakachta mi yad ish me uma». Nunca tú hiciste nada para ti."
 },
 {
-"startMs": 1461000,
-"endMs": 1495000,
-"speaker": "Speaker 2",
-"text": "Claro, el hijo se porta mal en la escuela, entonces el papá. Le marcan y le dicen “Oye, esto está portando. Ahí está, corre, correlo, ¿qué quieres? Está bien el papá, sí o no? No, porque el papá se siente el responsable porque es su hijo. El papá se siente el que vivir en el mundo de Xmoel, entonces quiere decir que el papá siempre va a tomar responsabilidad sobre su hijo. Tipo, yo lo mandé al mundo, yo lo hice. Y entonces yo de alguna manera necesito ver cómo él va a lograrlo."
+"startMs": 632232,
+"endMs": 642472,
+"text": "«Veomer alehem: Ed Hashem bajem veed meshijó hayom haze ki lo matzatem be yadi me uma». Dice: «Podemos ser testigos que no encontraron nada en mí»."
 },
 {
-"startMs": 1495000,
-"endMs": 1496000,
-"speaker": "Speaker 5",
-"text": "Tampoco lo va a exterminar."
+"startMs": 642572,
+"endMs": 654572,
+"text": "¿Qué tanto Shmuel quiere ahorita decir eso? Porque es lo que viene Shmuel a decir, les quiere enseñar que existe ese concepto, que existe ese concepto que Shmuel es, calculó el, el, la expresión de Hashem en el mundo."
 },
 {
-"startMs": 1496000,
-"endMs": 1501000,
-"speaker": "Speaker 2",
-"text": "No existe exterminarlo porque al revés en ciertos aspectos es la responsabilidad de Ashem mismo, vamos a llamarlo así."
+"startMs": 655012,
+"endMs": 663992,
+"text": "Dice: «Veomar Shmuel el haam». Dice, le dice Shmuel a todos. Ahora dice, no nomás yo. Dice: «Hashem asher asá et Mosheh ve'et Aharón»."
 },
 {
-"startMs": 1501000,
-"endMs": 1502000,
-"speaker": "Speaker 5",
-"text": "Que salga, que le vaya bien."
+"startMs": 664712,
+"endMs": 672832,
+"text": "Hashem hizo a Moshé, hizo a Aarón. Otra vez, ese es el aspecto que estamos hablando todo el tiempo. «Ve'asher elah et avotejem me'eretz Mitzrayim."
 },
 {
-"startMs": 1502000,
-"endMs": 1517000,
-"speaker": "Speaker 2",
-"text": "Exactamente, yo te mandé. Yo te mandé, yo me voy a encargar. Medio avergüenzas a Ashem de que. Exactamente, ese es el que lo hace. Claro, es literal es eso."
+"startMs": 673352,
+"endMs": 679572,
+"text": "Veata hityatsevu. Vi shavta lifnei Hashem et kol chesedot Hashem, asher asá itjem ve'et avotejem»."
 },
 {
-"startMs": 1517000,
-"endMs": 1551000,
-"speaker": "Speaker 5",
-"text": "Te puse un mashelque. Es que vino un jajam, me encantó, me dice, agárrense porque viene drástico. Cuando le hizo un papá le dijo a su hijo, ya es invierno, se va a la calle y dice: \"Ponte chamarra\". Y el niño, al final se da cuenta que no se puso chamarra. Después de una semana, ponte: \"Eh, ve kidsur\". Ya la quinta vez, dijo: \"Te fuiste sin chamarra y ya está haciendo mucho frío, ahorita sí, de verdad está nevando afuera y está esto\". Agarra al niño, lo agarra, abre la ventana y lo avienta."
+"startMs": 680012,
+"endMs": 692832,
+"text": "Dice, a ver, vamos a, vamos a... It yatsevu otra vez. Sí, it yatsevu. Eh, vamos a, a poner en juicio todos los favores y los, las bondades que hizo Hashem y con sus, con sus papás, desde que salieron de Mitzrayim hasta hoy."
 },
 {
-"startMs": 1551000,
-"endMs": 1560000,
-"speaker": "Speaker 5",
-"text": "\"Cuidado, agárrate porque está drástico\". Y está gentando a Markasen. Y por qué es la quinta allá? Eso no es."
+"startMs": 693272,
+"endMs": 702572,
+"text": "Dice: «Ka'asher bay Yaakov Mitzrayim». O sea, Shmuel está dando aquí el discurso de todo lo que estamos, de todo lo que llevamos hablando, que es el mensaje de cómo tienes que pedir rey."
 },
 {
-"startMs": 1560000,
-"endMs": 1566000,
-"speaker": "Speaker 7",
-"text": "Así De drástico. Hay un slab que es \"Thor Gaboa\" que ya está plumas que no se ocupa. Eso es."
+"startMs": 702992,
+"endMs": 710272,
+"text": "Si al final Hashem hizo todo, entonces, ¿por qué estás nervioso de no tener un rey? Entonces, dice: «Ka'asher bay Yaakov Mitzrayim ve'yaku el abotejem el Hashem."
 },
 {
-"startMs": 1566000,
-"endMs": 1579000,
-"speaker": "Speaker 2",
-"text": "Lo que hablo de lo que dijo Jaime, que es \"Thor Gaboa\" que quiere decir que sale que todo lo que estás haciendo realmente estás tú trayendo la luz de Shem al mundo. O sea, quiere decir entonces más a Shem que tú."
+"startMs": 710732,
+"endMs": 716932,
+"text": "Veishlaj Hashem et Mosheh ve'et Aharón». Ahí, ¿quién puso a Moshé y a Aarón? Hashem los mandó. «Veyotzi et abotejem Mitzrayim yeshumin bamakom haze."
 },
 {
-"startMs": 1579000,
-"endMs": 1598000,
-"speaker": "Speaker 7",
-"text": "Más bien que tú. Y hay gente que quiere saber a Peter su hijo, y ahí Peter, que Edith Galesmo, vete. Eso es, video! ¡Babur smog a Gadol! ¡Babur smog a Gadol! Si, tú eres el que me a mí dice. Sí, sí, sí, mamá, es lo."
+"startMs": 717152,
+"endMs": 732032,
+"text": "Veshjaju et Hashem Elokem». Y ya llegaron hasta Eretz Israel, se olvidaron ustedes de Hashem. « Vimkor otam bi yad Sisra, Sar hatzva hatzor, y, y, y Sisra, eh, los atacó, u, u, bi yad, y los gobernó."
 },
 {
-"startMs": 1598000,
-"endMs": 1618000,
-"speaker": "Speaker 2",
-"text": "Que Dice acá, dice: \"Quiero y todo se meta amor, babur smog a Gadol\". \"Quiero y las hem lassot et hem loleam\". Fíjense, la misma palabra que se dijo atrás, la azot asher ashem asher asa et mosheve daron de la misma manera asa et lo de Aaron."
+"startMs": 732392,
+"endMs": 743276,
+"text": "Sisra los atacó, bi yad plishtim, los plishtim los atacaron, los gobernaron, bi yad Melej Moab, sí, Eglón, velejamu bam Vayza'aku el Hashem vayomru: Jatanu ki azavnu et Hashem."
 },
 {
-"startMs": 1618000,
-"endMs": 1626000,
-"speaker": "Speaker 5",
-"text": "Me explico? Asem que hace, no es que ashem te pone, no es que tú te pusiste, no es que tú lo hiciste."
+"startMs": 743856,
+"endMs": 751556,
+"text": "¿Ahí te acordaste de que, de que te olvidaste de Hashem? Na'avod et-habealim ve'et-ha'ashelot, hicimos aborrecible. Ve'ad ta'tsileinu meyad iveinu na'avdeja."
 },
 {
-"startMs": 1626000,
-"endMs": 1630000,
-"speaker": "Speaker 1",
-"text": "Dijimos Una vez un mashada, pero es muy profundo,"
+"startMs": 752496,
+"endMs": 760316,
+"text": "Vayislaj Hashem et-Yerubbaal ve'et-Bedán ve'et-Yiftaj ve'et-Shmuel. ¿Quién está hablando? ¿Quién está hablando?"
 },
 {
-"startMs": 1630000,
-"endMs": 1646000,
-"speaker": "Speaker 2",
-"text": "Son cuatro niveles en entender el nombre ashem, son los cuatro letras y que va. Cuatro, cuatro dimensión, no me quiero meter así tan profundo, pero así algo más passut en un mashal sin hablar tan profundo, en un mashal muy passut."
+"startMs": 760556,
+"endMs": 761456,
+"text": "Él. ¿Shmuel? Shmuel."
 },
 {
-"startMs": 1646000,
-"endMs": 1652000,
-"speaker": "Speaker 2",
-"text": "Un pobre quiere cde acá, sí, y él le pide a Shem, él le pide a Shem,"
+"startMs": 762676,
+"endMs": 768896,
+"text": "O sea, Shmuel está diciendo: \"Ya Hashem mandó a Mosé, a Aarón, a Yerubbaal, a Bedán, sí, a Shmuel\"."
 },
 {
-"startMs": 1652000,
-"endMs": 1667000,
-"speaker": "Speaker 1",
-"text": "Entonces Shem quiere darle a ese pobre cde acá, ahora quién le quiere dar cde acá al pobre a Shem, porque quién le pidió, el pobre le pidió a Shem, eso no le quiere dar cde acá a ese pobre, tu masal, sí, o sea tú sí por. No, no, no,"
+"startMs": 768916,
+"endMs": 775216,
+"text": "¿Por qué se está hablando de él en tercera persona? Acá-- no, no es que está hablando de él. Está hablando de él de, de tercera persona, es que..."
 },
 {
-"startMs": 1667000,
-"endMs": 1720000,
-"speaker": "Speaker 2",
-"text": "No a ese aspecto. No, no, sí, o sea, sí tiene que ver, pero no, no a ese aspecto. Entonces, entonces, primero Ashem, ¿en quién piensa? Cuando ahorita le va a dar a ese pobre, primero Ashem piensa en él. Yo quiero darle a ese pobre. Me explico? Ahora, ¿cómo Ashem le va a dar al final? Al final, al final, al final, ¿cómo le va a llegar a ese pobre? Por medio de una persona, ¿sí o no? Por medio de una persona le va a llegar a ese pobre. Entonces, Tú piensas que vives aquí en este mundo, él le ayudó a él, pero la historia no empezó así, la historia empezó en Hashem y Hashem quería él darle a ese pobre y después, entonces ese se llama el Olama Atzilut, es que Hashem está pensando él cómo se va a revelar en el mundo, después de Olama Atzilut hay un Olam que se llama Olam Bria, ahí están las neshamut, las neshamut, entonces acá para poder estar en el segundo de esto necesitas tener neshamá,"
+"startMs": 775936,
+"endMs": 783296,
+"text": "No es que Hashem me mandó a mí. Tipo, Shmuel mandó a Shmuel, yo soy Shmuel. Yo soy Shmuel que Hashem mandó. Estoy dentro del paquete de ellos. ¿Te digo? O sea, Shmuel mandó a Shmuel y ese soy yo."
 },
 {
-"startMs": 1720000,
-"endMs": 1757000,
-"speaker": "Speaker 2",
-"text": "Tu cuerpo es la última. Me explico? Escoge un cuerpo de una persona. Me explico? Primero escojo una Neshamá. Una Neshamá es alguien que va a expresar su luz. Un cuerpo es alguien que va a agarrar el dinero de la bolsa y se lo va a dar. Me explico? Eso no? Ese es el sofmaasé. Entonces, segundo Slave es que Hashem escoge una Neshamá. Hashem escoge una Neshamá. Porque ahora la Neshamá es la luz de Hashem, es la luz de Hashem en el mundo. Entonces dice tú, Cuando tú lo des, sí, se va a revelar y se va a notar que yo lo estoy dando."
+"startMs": 784216,
+"endMs": 794756,
+"text": "Tipo, voy a hablar de él en tercera-- o sea, viéndose ahí, es que yo antes de ser yo- Es como en una obra de teatro que alguien diga: \"No, y pusieron a él de-- me pusieron a mí de tal\"."
 },
 {
-"startMs": 1757000,
-"endMs": 1789000,
-"speaker": "Speaker 2",
-"text": "Me explico? Que yo lo estoy dando. Y por eso el pobre al final, ¿a quién lo agradece? Pues un gracias que me mandaste. No, pues fue. Cómo no se lo vuelve? No, porque a él le pidió a Ashen, el final Shen no se lo mandó. Me explico? O sea, él le pidió a Ashen y al final se lo mandó. Entonces. Neshamá es para tener el Sehut de Neshamá obviamente todo toda Misael tiene Neshamai y por eso Shem escoja a toda Misael pero el punto de Neshamá es más el punto este de hacer las cosas de Shem Shamai cuando uno hace las cosas de Shem Shamai entonces ahí literal es ¿Qué es el Shem Shamai?"
+"startMs": 794816,
+"endMs": 802496,
+"text": "Yo soy exa-exactamente. Yo soy el que representa, yo, el yo de aquí, soy el que representa a ese Shmuel que Hashem mandó."
 },
 {
-"startMs": 1789000,
-"endMs": 1821000,
-"speaker": "Speaker 2",
-"text": "Yo soy un Shalyah Shem, la Neshama se siente como un malaj que es un malaj un shalyah solamente el si y después después de la Neshama baja a lo Lama y Tira, Y entonces ahí, ahí ya se escoge a alguien que tenga la personalidad adecuada para hacer ese mazo. Es un almidot. Sí, el almidot y todo. Y después, pues la macia es cuando ya se haga todo este mazo. Entonces sale que literal."
+"startMs": 802856,
+"endMs": 804196,
+"text": "Ese es-- dice."
 },
 {
-"startMs": 1821000,
-"endMs": 1845000,
-"speaker": "Speaker 2",
-"text": "Primero, cuando siempre pensó en ti, estaba pensando en él a la vez. Me explico? Y también cuando lo hiciste, Estaba pasando lo que estaba pasando en el Hololam Atzilut. Al final fue todo lo que pasó, es lo que dice Nef Shahan, que algo que tú haces acá estás haciendo cosas porque todos los Hololam Atzilut, hasta que no pasen Hololamas ya, pues sigue. Sí siendo nada más un razón."
+"startMs": 806696,
+"endMs": 816016,
+"text": "Entonces, vayetsel et-jem yado ivejem misabiv veteshuvu betach. Va ter-- va tir'u ki Nachash, y vieron que vino Nachash bene-- Melech bene Amón."
 },
 {
-"startMs": 1845000,
-"endMs": 1848000,
-"speaker": "Speaker 3",
-"text": "Lo Que pasó realmente fue que él la maxilotación le decidió mandarse acá."
+"startMs": 817216,
+"endMs": 834256,
+"text": "Sí, ba alejem va'tomruli. Lo, ki melej himloja lenu, veHashem elokejem malkejem. Y de repente ahorita, por la presión de Najash, Najash nosotros vimos que vino después de que pidieron el reinado, pero aquí Shmuel está revelando que llegó Najash, llegó el reinado por la presión de Najash."
 },
 {
-"startMs": 1848000,
-"endMs": 1873000,
-"speaker": "Speaker 2",
-"text": "Exactamente. Eso es lo que pasó. Exactamente es lo que pasó y entonces tú provocas. Lo que necesita algo es hacer algo. No, así es, eso es todo lo hizo para nosotros. Dime. Él quiere que nosotros nos aprendamos. Tengamos el de ser como él. Está quedando pero no te pusiste no te pusiste ¿No? Por o por sí le das ¿Por Qué?"
+"startMs": 834936,
+"endMs": 842896,
+"text": "Y entonces ahí, Am Israel, por la presión dicen: \"¿Qué hacemos? No, necesitamos un rey. Necesitamos un rey\". Entonces, dice, va'tomruli, lo ki melej himloja lenu."
 },
 {
-"startMs": 1873000,
-"endMs": 1878000,
-"speaker": "Speaker 6",
-"text": "Porque darle codo a él. Que él puede él otorgó la posibilidad."
+"startMs": 843316,
+"endMs": 852196,
+"text": "Y dice Shmuel: \"Pero Hashem elokejem malkejem. ¿No te diste cuenta? ¿Naciste hoy?\". Dice: \"Ya llevamos un historial muy grande donde Hashem todo el tiempo se preocupó para darnos rey\"."
 },
 {
-"startMs": 1878000,
-"endMs": 1908000,
-"speaker": "Speaker 2",
-"text": "De que tú le des sí. Pero no hacer algo a él. O sea si si no hay un si Ashem no encuentra a nadie en el Olam en el Samor. Si Ashem no encuentra a nadie en el o sea si vas con cada Judith imagínate oye me das no, Verdad? No, ¿Verdad? No, y todo, no. Qué quiere decir? Los todos los malajinos no te puedo revelar en el mundo, no tienes nadie, no tienes nadie que te exprese en el mundo. Entiende verdad?"
+"startMs": 852716,
+"endMs": 860116,
+"text": "Dice, ve'atta hinea melej asher bajarte. Bueno, aquí está. Asher she'altem. Fíjense, she'altem es- Saúl."
 },
 {
-"startMs": 1908000,
-"endMs": 1912000,
-"speaker": "Speaker 2",
-"text": "Y sí, sí, es kidushashem."
+"startMs": 860156,
+"endMs": 867996,
+"text": "De la palabra Saúl. Lo pediste. Tienes que entender que Saúl es un rey que lo estás pidiendo prestado de Hashem. Y ese es, eh, justamente ese aspecto."
 },
 {
-"startMs": 1912000,
-"endMs": 1953000,
-"speaker": "Speaker 2",
-"text": "Entonces dice, eso es eso es Babu, eso se llama, fíjense la neshama es jele que lo que animal, jele que lo que animal, somos parte de Hashem es la luz de Hashem expresando en el mundo. Y también se llama, a mi se llama \"Helek ashe mamó\" es el mismo Helek. Jacob. Sí, Jacob, Helek, Hebela Jalato. Entonces, \"Helek ashe mamó\" somos Helek Hashem, cada Yud es parte de la luz de la expresión nacional del mundo. Dice, y aquí este es nuestro pasuk en la llamada, y fíjense que bonito entra, dice: \"Gam, no hi, halila, ni mijatola, Hashem, hija dolek, pal el vadetem, que piensen ustedes que yo no voy a pedir, ¿cómo voy a dejar de pedir?"
+"startMs": 868376,
+"endMs": 875876,
+"text": "Vi'hine natán Hashem elejem melej. Im tir'ú et Hashem va'avadem oto. Ushma'tem be'qolo ve'lo tamru et pi Hashem."
 },
 {
-"startMs": 1953000,
-"endMs": 1985000,
-"speaker": "Speaker 2",
-"text": "Tengo una queja tremenda y ustedes ya hicieron el Egel o no sé así todo esto pero dicen y ellos dijeron bueno Shmuel por favor pidan por nosotros nos equivocamos dice Halila ¿Sí? Halila mijadolitpalel va dejem porque va a ser mijatola Hashem claro que voy a hacer hatola Hashem porque ustedes son su Hashem Hashem se revela se expresa más o menos ustedes entonces va a ser un jet no pedir por ustedes fíjense esa es la misma larga de, Es la misma larga, ¿entiendes?"
+"startMs": 876496,
+"endMs": 883136,
+"text": "Si ustedes van a tener yirah, van a ser avadim de Hashem. Van a escuchar, todas estas palabras son muy importantes."
 },
 {
-"startMs": 1985000,
-"endMs": 2021000,
-"speaker": "Speaker 2",
-"text": "Otra vez regresando a Rosh Hashana, la historia del pobre, la historia del pobre es realmente la historia que pasa cada Rosh Hashana. La historia que pasa en Rosh Hashana es cuando Hashem Rosh Hashana decide cómo él se va a revelar en el mundo. Él decide cuál va a ser mi revelación todo este año. Eso dónde está pasando? En qué hola? Absolut. Y entonces en Rosh Hashana, cada uno, cada uno, Que se dice Hashem, y hineni, aquí estoy y entonces te haces, te haces el."
+"startMs": 883456,
+"endMs": 891856,
+"text": "Van a escuchar su voz. Ushma'tem be'qolo ve'lo tamru et pi Hashem. No van a cambiar la, la, la, o sea, las mitzvot de Hashem por otras cosas."
 },
 {
-"startMs": 2021000,
-"endMs": 2022000,
-"speaker": "Speaker 5",
-"text": "Helek de cómo le ganan el."
+"startMs": 892276,
+"endMs": 899536,
+"text": "Ve'item, ve'item gam Atem vegam haMelej Asher malaj alejem ajré ajá Hashem elokejem. Y ustedes van a estar detrás de Hashem."
 },
 {
-"startMs": 2022000,
-"endMs": 2056000,
-"speaker": "Speaker 2",
-"text": "Helek de. Perteneces al Olam HaSheim, quiero ser parte del Sefer Torá, sacando tu relación en el mundo. Y entonces mi meile, eso es lo que, o sea, todo lo que pasa en esa historieta chiquita con el pobre, realmente es Hashem, cada Rosh Hashana decide cómo se va a revelar en el mundo. Toda la Torá, todo, todo el todas las cosas, y entonces recluta a todos los todos los que quieren ser protagonistas. Y entonces es Améle HaK2, y eso es lo mismo lo que lleva la siguiente membrana. Dice, si tú puedes pedirte filá por no pides, es porque ya estás viviendo en el Olam HaMishpat."
+"startMs": 899576,
+"endMs": 905616,
+"text": "O sea, quiere decir, vas a entender que él es el rey, nosotros estamos detrás de ese reinado."
 },
 {
-"startMs": 2056000,
-"endMs": 2083000,
-"speaker": "Speaker 2",
-"text": "Me explico? Ah, pues él se merece un castigo, no, no, pero castigarlo a él es castigarlo a Shem si lo es desde la perspectiva del Yichud, si me estoy explicando, entonces te llamas lakhtola Hashem. Si no pides por el otro que necesita Rajamim aún siendo que hizo Averot Porque si hizo Averot está bien ¿Y qué va a pasar con Hashem? Qué va a pasar con él? Ya entendí ¿Qué va a pasar con Hashem? Y ese es el chef de Hashem que nos hizo Ese es el chef de Hashem que nos hizo."
+"startMs": 906096,
+"endMs": 911956,
+"text": "Dice, siguiendo a Hashem. Pero, im lo tishmeú beqol Hashem umeritem et pi Hashem."
 },
 {
-"startMs": 2083000,
-"endMs": 2094000,
-"speaker": "Speaker 7",
-"text": "Es una persona que Titpalel es mitzatsmo Por sí mismo también. Si yo recibo el castigo. Es un."
+"startMs": 913216,
+"endMs": 919856,
+"text": "Escuchen estas palabras, lo tishmeú beqol Hashem, ¿sí? Umeritem et pi Hashem, y vas a cambiar la, la, la palabra de Hashem."
 },
 {
-"startMs": 2094000,
-"endMs": 2097000,
-"speaker": "Speaker 2",
-"text": "Gizarón Hashem quiere que Titpalel."
+"startMs": 919896,
+"endMs": 926236,
+"text": "Vaitá yad Hashem bajem uba'otejem. Dice, y Hashem va-- va a venir a los vacas siga."
 },
 {
-"startMs": 2097000,
-"endMs": 2099000,
-"speaker": "Speaker 7",
-"text": "Para que ya ya lea aquí el de sí,"
+"startMs": 926656,
+"endMs": 935476,
+"text": "Gam ata hitiyatzevu. Otra vez hitiyatzevu. Todas estas veces hitiyatzevu. Ur'ú et devar hagadol hazeh asher ase Hashem, Asher Hashem ase lihnejem."
 },
 {
-"startMs": 2099000,
-"endMs": 2101000,
-"speaker": "Speaker 2",
-"text": "Sí, sí, tienes el las."
+"startMs": 935796,
+"endMs": 944356,
+"text": "Párense y vean lo que Hashem va a hacer ahorita. A lo que tsir jitim hayom, ahorita es kaitz, es verano. En el verano, en Israel, no llueve."
 },
 {
-"startMs": 2101000,
-"endMs": 2112000,
-"speaker": "Speaker 1",
-"text": "Hojas del del mamara de Bitajón del por eso el aquí voy aquí voy a rezar claro que bueno."
+"startMs": 944396,
+"endMs": 950776,
+"text": "Ahora, si llueve, no nada más que está-- no nada más que no se necesita la lluvia, sino amuela todo. Ya tienes toda la..."
 },
 {
-"startMs": 2112000,
-"endMs": 2125000,
-"speaker": "Speaker 2",
-"text": "Yo yo vengo a eso claro claro si yo no pido por ustedes entonces otra vez toda la historia de Saúl la perdimos ¿Me explico? Hasta yo perdí en la historia de Saúl dices."
+"startMs": 951756,
+"endMs": 960236,
+"text": "Se la tua todo, se te arruina todo. Dice, ahorita es tiempo de que tsir jitim hayom. Ekrá el Hashem, vitén qolot u'matar."
 },
 {
-"startMs": 2125000,
-"endMs": 2140000,
-"speaker": "Speaker 1",
-"text": "Si, si nada más voy a leer una ojo. O quieres abrirlo aquí? Fíjense estas palabras, ahorita lo que quite la fila."
+"startMs": 960776,
+"endMs": 967416,
+"text": "Le voy a llamar a Hashem y va a mandar lluvias y truenos. Udeú ureú ki ra'atejem rabá."
 },
 {
-"startMs": 2140000,
-"endMs": 2150000,
-"speaker": "Speaker 1",
-"text": "Ábrelo. A ver si hay."
+"startMs": 968176,
+"endMs": 975716,
+"text": "Van a ver, tipo, de esto ustedes van, nada más es para enseñarles cómo esto que ustedes pidieron rey, están enchoicando las cosas."
 },
 {
-"startMs": 2150000,
-"endMs": 2162000,
-"speaker": "Speaker 2",
-"text": "No, no lo encuentro. O sea, el mamarki voy de Ramjal. No, si, no sé cómo encontrarlo, estaba dentro de uno de todos los libros de Ramjal, no sé si era solo Ramjal, si era Ramjal, si era quien era Ramjal."
+"startMs": 976356,
+"endMs": 985756,
+"text": "Dice, asher asitem vene'a Hashem lish'ol hajem melej. Otra vez Saúl y hay dos aspectos, ¿sí? Entonces, de pedir un rey, ¿qué tiene que ver?"
 },
 {
-"startMs": 2162000,
-"endMs": 2168000,
-"speaker": "Speaker 5",
-"text": "Sí, En Ramjal. Pero en cuenta los cuatro. El no,"
+"startMs": 985896,
+"endMs": 994256,
+"text": "Entonces, yo entiendo aquí algo muy profundo, es... ¿Por qué llueve cuando tiene que llover?"
 },
 {
-"startMs": 2168000,
-"endMs": 2177000,
-"speaker": "Speaker 7",
-"text": "En Ramjal. Si buscas seguramente va."
+"startMs": 995156,
+"endMs": 1001815,
+"text": "Esto es estupidez, ¿no? Porque pues así llueve, así es la naturaleza, ¿no? Es tiempo, ép-época de lluvias. Dice Shmuel: \"No, no entendiste nada\"."
 },
 {
-"startMs": 2177000,
-"endMs": 2189000,
-"speaker": "Speaker 2",
-"text": "A estar abierto ¿Eh? Si está no eh ya lo hemos abierto en otras páginas."
+"startMs": 1002376,
+"endMs": 1011756,
+"text": "Si llueve en el tiempo que tiene que llover es porque Hashem decidió que va a llover el tiempo que tiene que llover. Ahora, si tú vienes y te ca-- hasta me'miret pi Hashem, cambias la boca de Hashem."
 },
 {
-"startMs": 2189000,
-"endMs": 2193000,
-"speaker": "Speaker 5",
-"text": "Ah. Qué son las hojitas? El primero?"
+"startMs": 1011996,
+"endMs": 1018196,
+"text": "¿Qué significa? No, Hashem, no, necesitamos lluvia hoy. No necesito lluvia hoy. Amuela es el sede, ¿me explico?"
 },
 {
-"startMs": 2193000,
-"endMs": 2215000,
-"speaker": "Speaker 2",
-"text": "No lo encuentro, no importa. Entonces el punto dice ahí que que dice que Hashem quiere cuando nosotros Mitpalelim por nosotros dice el Naranhan que en verdad también estás hasta Mitpalel también por Hashem porque él se llama Imón Ojibe Zara dice aquí el Naranhan dice."
+"startMs": 1018656,
+"endMs": 1023296,
+"text": "Entonces- Ah, es una enseñanza que les quiere dar Shmuel. Claro. O sea, si yo voy a pedir lluvia hoy, van a ver como..."
 },
 {
-"startMs": 2215000,
-"endMs": 2219000,
-"speaker": "Speaker 5",
-"text": "Qué tal mide? Y con las hojas en la bolsa. Esa hoja."
+"startMs": 1024856,
+"endMs": 1031915,
+"text": "Entonces, Shmuel está diciendo: \"Mira, en-entiende que si llovió todo el Jores porque Hashem decidió que había lluvia, no porque era época de lluvia\", ¿sí?"
 },
 {
-"startMs": 2219000,
-"endMs": 2252000,
-"speaker": "Speaker 2",
-"text": "Es oro puro. Le llama así el Pasuk, dice algo Atzum. Yeshuateja, Kiviti Hashem, a tu salvación tuve esperanza a Shem. Dice el Ramjal, Yeshuateja. Piensas que es a la salvación que tú me vas a dar a mí, pero el Yeshuateja es a tu salvación, Kiviti Hashem. Kiviajó, eso es lo que dice Ramjal, dice, tienes que entender. Si tú estás en un problema, entonces Kiviajó la Shem también está en un problema. Sí, tipo, si alguien tiene un gizarón, un refua, entonces no puede salir al mundo, no puede estar, no, pero no, nada más."
+"startMs": 1032195,
+"endMs": 1039656,
+"text": "Y, y dice: \"Métete eso en la cabeza\". Entonces, Hashem sigue dirigiendo al mundo, llovió todo el tiempo. Y si ahorita llueve, te va a amolar todo."
 },
 {
-"startMs": 2252000,
-"endMs": 2268000,
-"speaker": "Speaker 2",
-"text": "Dejaste de ser poder kli, ser un kli bueno para poder regalar a otro Sheim Hashem."
+"startMs": 1040096,
+"endMs": 1047935,
+"text": "Entonces, Hashem lo está dirigiendo, hasta ahorita todo estuvo increíble y nunca ha llovido en kaitz, pero no porque no puede llover en kaitz, en un segundo si Hashem quiere."
 },
 {
-"startMs": 2268000,
-"endMs": 2275000,
-"speaker": "Speaker 5",
-"text": "Entonces Dice. Siempre hay que lekabo otro. Aquí. Cinco pa las seis."
+"startMs": 1047976,
+"endMs": 1054696,
+"text": "Es porque Hashem nunca decidió que llueva en kaitz, porque nos va a molar. Entonces, dice: \"Hashem siempre te pro-preocupó por ti, date cuenta\"."
 },
 {
-"startMs": 2275000,
-"endMs": 2313000,
-"speaker": "Speaker 2",
-"text": "Dice Bismanjá Tzadikim Bekara, Neymar y Moan Ojibet Tara. Hashem está en la chara de ellos, juntos. Dice, \"Kiviajol, ubekohatikvai yotzemi mitzara por medio de tu emuná y la tikva natzem sale de la tzara. Bekiviajol, Hashem yotzeimo. Hashem sale con él. Pues en el Mitzrayim, y achuko el Tibot Hashem. Se acuerdan de la palabra tzebákov? Hannah. Entonces salieron todos los del ejército de Hashem, dice: \"Imajina, bezdel yeshuateja, li yeshuateja mamas, yeshuat Hashem shayai mitzara\""
+"startMs": 1055096,
+"endMs": 1061456,
+"text": "Y cuando tú vienes y empiezas a dejar de confiar en Hashem, entonces, pues las cosas empiezan a salir de su lugar."
 },
 {
-"startMs": 2313000,
-"endMs": 2332000,
-"speaker": "Speaker 2",
-"text": "\"Giveti Hashem li swa teja tu y su ama más\". Es algo pele plain, es de Ramjal. Entonces ese es el sod de la nagata de Yichud, que eso es lo que Shmuel está queriendo revelar acá. Dice."
+"startMs": 1061876,
+"endMs": 1068456,
+"text": "Lo está amenazando, le está enseñando, le está- Le está enseñando. Que tienen el error. Le, le está enseñando. Le está enseñando. Reprochando."
 },
 {
-"startMs": 2332000,
-"endMs": 2339000,
-"speaker": "Speaker 5",
-"text": "Claro, en Chavacot dijimos que eran Gluim de él. No hay nada Betzem de la gente de abajo, nada más son los Gluim de él."
+"startMs": 1068496,
+"endMs": 1078096,
+"text": "Vaycra-- es, es reprochando y enseñando a la vez. Vaycra Shmuel el Hashem. Como una advertencia. Dice: \"Vaycra Shmuel el Hashem, ve'hiteh Hashem qolot u'matar bayom hahu."
 },
 {
-"startMs": 2339000,
-"endMs": 2376000,
-"speaker": "Speaker 2",
-"text": "Por medio de como él. Dice, vean la grandeza que te dio Hashem, o sea, es lo que está diciendo. Vean la grandeza de los de que te dieron que eres mi marea tariu gama ten gama en el khem tizafu pero si van a hacer jataim entonces van a perder su reinado dice \"Ben Shaná Shaul bemolkou usteishani malakal Israel\" llevaba un año reinando o más que eso dice Rashi ven Shaná era como un niño de un año un niño de un año ¿Tiene algún jet?"
+"startMs": 1078516,
+"endMs": 1088776,
+"text": "Ve'hirá qol ha'am eod et Hashem ve'et Shmuel\". Dice- Estaba muy difícil para Am Israel, tú lo has dicho. Estaba muy difícil para Am Israel, siempre habían estado toda la vida acostumbrados a tener un..."
 },
 {
-"startMs": 2376000,
-"endMs": 2407000,
-"speaker": "Speaker 2",
-"text": "No ¿Por qué no dice un niño de dos años? Porque un niño de dos años, a filo que no es, no tiene Isurín para ser mujeres, pero ya a veces ya le grita a la mamá, y ya le pone así, un niño de un año, nada. Ya cree que puede vivir solo, ya está su kef. Un poco más. Saúl está Ben Shaná, dice que era como un bebé de un año, que Ben Shaná, que ni siquiera ha probado el Taam de Jet. Usted es Shanimalahá de Israel, dice: \"Bib Carlos Shaul se está afim de Israel, agarró tres mil de Israel."
+"startMs": 1088996,
+"endMs": 1098776,
+"text": "Trece veintiséis. Un dirigente. O sea, no era ilógico que pidan un melej cuando- Pero esto es lo que Shmuel tiene que hacer que ellos entiendan, que todos los dirigentes Hashem se opuso de la misma manera."
 },
 {
-"startMs": 2407000,
-"endMs": 2464000,
-"speaker": "Speaker 2",
-"text": "Alpaime, Mijmash, UBAR, BT, BL, Fayu, Yonatan, Biniamín, Billeteram, Shila, Hashem, Lola. Era como que su ejército de Saúl. Vaya que Yonatan. Entonces, Yonatan, Et, Netziv Plishtim. Sí, o sea, le está diciendo a ustedes y van a tener rey, entonces el lo van a tener ustedes. Si nosotros tenemos el Yetzivut, ¿Qué le va a pasar a Najash? Qué le va a pasar a los entonces Yonatan ataca al, Pelishtim Sherbegueva Bishmeu Plishtim, entonces Netziv Plishtim era como que los Pelishtim que mandaron los Pelishtim, el grupo que mandaron los Pelishtim para tener control sobre los de Yehudim, entonces Yonatan atacó a Netziv Plishtim y esos le quitan la chilita de ellos a nosotros, y entonces los Pelishtim escuchan que los de Yehudim ahorita atacaron Netziv Plishtim."
+"startMs": 1099276,
+"endMs": 1108836,
+"text": "La lluvia es, es el, el-- cuando entras a ese estado de conciencia, entiendes que la lluvia no cae porque es época de lluvia. Dices que la época de lluvia y la lluvia, todo eso es porque Hashem está diciendo que así sea."
 },
 {
-"startMs": 2464000,
-"endMs": 2502000,
-"speaker": "Speaker 2",
-"text": "Ahora piéntelo cómo pasa en este Olam y en el Olam Melión. En este Olam, Jonathan ataca a este plishtim. Ahora, los plishtimes automáticamente hacen un kitruga arriba. Espérate. \"Ah, ellos, nizkafim, me estás quitando mi zekifa\". Quiere decir que el Najash ya no tienes zekifa. Vamos a ver si sí o sí, no. Me explico? Esta es la. Todas las cosas que pasan aquí abajo realmente y así se estudian. Vamos a ver si si es verdad. Sí, vamos a ver si están en cría. O sea, no existe exactamente, no existe que me quitaste mi netziv plishtim sin que tú tengas un netziv y la única manera como tú tienes netziv es por medio de la cría."
+"startMs": 1109256,
+"endMs": 1115396,
+"text": "Sí. Nos dice- ¿Shmuel ahí en frente de todos le pidió a Hashem la lluvia o qué? No."
 },
 {
-"startMs": 2502000,
-"endMs": 2503000,
-"speaker": "Speaker 5",
-"text": "Y que es."
+"startMs": 1119396,
+"endMs": 1128076,
+"text": "Porque ahí le dijo: \"Si ustedes cambian la palabra mía, o sea, puede ser que a lo mejor no- Para decir que cambió, significa que Hashem ya había puesto a quién, a los hijos de Shmuel."
 },
 {
-"startMs": 2503000,
-"endMs": 2521000,
-"speaker": "Speaker 2",
-"text": "Escuchar todo el discurso de Shmuel. Todo el discurso de Shmuel es la cría. Anagata Yichud, cría es. Ahora ya tenemos rey, ya tenemos Udim, ya tenemos el discurso de Shmuel es para que lo hiciera Saúl. Claro, y entonces ahorita. Entonces ahorita va."
+"startMs": 1128336,
+"endMs": 1135536,
+"text": "No había, Hashem- No, no, es que están pidiendo a alguien por desesperación, como si, como si no hay nada."
 },
 {
-"startMs": 2521000,
-"endMs": 2523000,
-"speaker": "Speaker 3",
-"text": "Este Es un reflejo del pueblo, ¿no?"
+"startMs": 1136056,
+"endMs": 1136456,
+"text": "Tú puedes--"
 },
 {
-"startMs": 2523000,
-"endMs": 2526000,
-"speaker": "Speaker 2",
-"text": "Sí, es un reflejo donde estamos. Dice."
+"startMs": 1137936,
+"endMs": 1144309,
+"text": "si había, había una mitzvá, te... Pero ahora, la, lo tú lo pides, está Shmuel. Moscas y la lluvia llegará."
 },
 {
-"startMs": 2526000,
-"endMs": 2528000,
-"speaker": "Speaker 1",
-"text": "Quiero decir, ¿y así se estudia Tanaj?"
+"startMs": 1146449,
+"endMs": 1154649,
+"text": "No, pero lo piden por desesperación. Ellos lo tenían que pedir por mitzvá. ¿Qué quiere decir? Si no habría mitzvá, entonces esperas a que Hashem lo haga."
 },
 {
-"startMs": 2528000,
-"endMs": 2560000,
-"speaker": "Speaker 2",
-"text": "Sí, así es. El Tanaj siempre es así. No es una historia, sino es una historia que está pasando arriba. Y abajo nada más es cómo se va. Y así es \"pasutkilu\". Sí, pero hay que todo, pero el Tanaj así. No son historias. No es la historia del pueblo. La historia del pueblo es una historia espiritual. Me explico? O sea, esa es la historia del pueblo. Dice, veía que Yonatan et netziv plishtim a ser veguema. \"Yishmeu Plishtim\". \"Shaul te acabe el sofa, rojo la hartz le mourne\"."
+"startMs": 1154749,
+"endMs": 1168629,
+"text": "Y si hay mitzvá, lo pides porque: Hashem, tú nos dijiste la Torá. Sí, tú nos dijiste la Torá que es, que es lo-- es algo que se va a engrandar tu honor en el mundo cuando hay un rey."
 },
 {
-"startMs": 2560000,
-"endMs": 2596000,
-"speaker": "Speaker 2",
-"text": "Saúl justamente toca el sofa otra vez. Sí, es justamente lo que se necesita contra el kitrug es tocar el korim. Sí. Dice el coli ser el Shamul, el morika Shaul, et netziv plishtim. Shaul atacó a los plishtim y ahorita nuestro los plishtim ya nos odian. Ahora otra vez, ¿eso te mete miedo o no te mete miedo? Depende, si te mete miedo, es que no estás, es que no estás. Y entonces a Misael tienen miedo, dice."
+"startMs": 1168809,
+"endMs": 1175889,
+"text": "Por eso queremos rey. Pero decir: oye, Hashem, no hay rey, entonces ya estamos esperados, nos van a matar. Entonces, es jetaegel."
 },
 {
-"startMs": 2596000,
-"endMs": 2598000,
-"speaker": "Speaker 5",
-"text": "Es una falta otra vez de que ni como nitan a Shaul."
+"startMs": 1176149,
+"endMs": 1182409,
+"text": "Entonces, agarren este punto, la desesperación, ¿sí? La desesperación con la emuná."
 },
 {
-"startMs": 2598000,
-"endMs": 2626000,
-"speaker": "Speaker 2",
-"text": "Y entonces todo el pueblo ahorita se le echa encima a Shaul. Y entonces Shaul ahorita tiene toda la presión del pueblo al lado. Shaul, tu atacas todos los Plishtim ¿Qué vamos a hacer? Qué vamos a hacer? Sí? Y Shaul tiene a todo el pueblo encima. Qué hora es? 52.2 Dice Uplishtimne Sefu, imagínense la imagen. Uplishtimne Sfu, otra vez, si estás en la nagata de Yichud,"
+"startMs": 1183069,
+"endMs": 1189769,
+"text": "Tienes que mantener la emuná y no caer en desesperación. Y este, este punto es lo que mide en qué canal estás."
 },
 {
-"startMs": 2626000,
-"endMs": 2657000,
-"speaker": "Speaker 2",
-"text": "Se está peleando contra Hashem, importa, importa si usamos dos personas y no tenemos armamento, no importa, ¿verdad? Entonces contra se están literal, si lo ves así, se está peleando contra Hashem, si estoy en el Mishpat, soy yo, depende, soy chadixo, esa es la fuerza también, que el que vive en el Yichud también no depende tu Bitajon en Hashem, no depende de cuántos mitzvot hiciste, sí. En verdad, tú tienes que tener esa emuná."
+"startMs": 1190409,
+"endMs": 1201609,
+"text": "Entonces, van a ver, ahorita van a ver cómo entra fuertísimo. Se puede trabajar con emuná y desesperación. Entonces, primero entró eso con Am Israel pidiendo a Saúl. Luego, Saúl, primero es cuando te dice que Saúl se estaba escondiendo."
 },
 {
-"startMs": 2657000,
-"endMs": 2666000,
-"speaker": "Speaker 2",
-"text": "Lo habla el Rapajal ahí, dice. Dice, cuando Adam Israel entran en este canal, Miyandi Galin, llégale a Google. Eres él. Kifut. Echalek Kabot Kolasva."
+"startMs": 1202609,
+"endMs": 1209149,
+"text": "No significa que ya estaba mal, pero significa que todavía tiene trabajo que hacer. ¿Me explico? Necesita Saúl subirse."
 },
 {
-"startMs": 2666000,
-"endMs": 2668000,
-"speaker": "Speaker 4",
-"text": "Sí, sí, sí. Si bajas al Mishpat,"
+"startMs": 1209689,
+"endMs": 1217369,
+"text": "Y todo este discurso es de Shmuel, es para todo Am Israel y para Saúl, porque les está advirtiendo: tienes que lishmoa vekol Hashem."
 },
 {
-"startMs": 2668000,
-"endMs": 2690000,
-"speaker": "Speaker 2",
-"text": "Si es todo lo que vamos a hacer. Si bajas al Mishpat, entonces tienes que entender que todo el Mishpat es tu oportunidad para que tú sientas y puedas entender qué tanto puedes pertenecer al Yichud. Pero la historia real está pasando en la calle."
+"startMs": 1217669,
+"endMs": 1222109,
+"text": "Ahorita van a ver cómo están relevante eso. Entonces, vamos, dice: «Vayomer Shmuel el haam al tiru»."
 },
 {
-"startMs": 2690000,
-"endMs": 2692000,
-"speaker": "Speaker 1",
-"text": "Bueno, no."
+"startMs": 1223709,
+"endMs": 1229749,
+"text": "Dice: «Atem asitem et kol hará hazot». Ah, perdón, dice: «Vayomru kol haam el Shmuel», pasuk yod tet."
 },
 {
-"startMs": 2692000,
-"endMs": 2697000,
-"speaker": "Speaker 2",
-"text": "Seguimos en mi hija."
+"startMs": 1230249,
+"endMs": 1237409,
+"text": "«Itpalel ve'ad afdeja, pide por nosotros, el Hashem eloqueja, ve'an lamut, ki asafnu al kol chatotenu ra'al yishol anu melej»."
 },
 {
-"startMs": 2697000,
-"endMs": 2715000,
-"speaker": "Speaker 2",
-"text": "Después no frenarlo, vetem, o sea, pausar la graduación. Se unen, se unen, ponle pausa. Dame un segundo. Ah, ahí está, ahí está, voy. Vamos."
+"startMs": 1237789,
+"endMs": 1243909,
+"text": "Dice: por favor, pide tefilá por nosotros para que Hashem nos perdone del hecho que pedimos rey. Shmuel está diciendo fue algo"
 },
 {
-"startMs": 2715000,
-"endMs": 2719000,
-"speaker": "Speaker 1",
-"text": "Entonces dice."
+"startMs": 1245229,
+"endMs": 1257289,
+"text": "tremendamente malo, fue como el jetaegel que pidieron rey. Es la misma desesperación que hubo ahí. Sí. «Vayomer, vayomer Shmuel el haam al tiru, no teman, atem asitem et kol hará, ajal tasuru meajrá Hashem»."
 },
 {
-"startMs": 2719000,
-"endMs": 2741000,
-"speaker": "Speaker 2",
-"text": "Tienen o no? Estamos. Escuchen esto algo loco, dice. 30.000 en carrozas. 6.000 en caballos."
+"startMs": 1257589,
+"endMs": 1266429,
+"text": "Sí hicieron mal, pero pueden arreglarlo. No se separen de Hashem, «ve'avatem et Hashem bejol levavjem», confíen en Hashem, «ta'avdu et Hashem»."
 },
 {
-"startMs": 2741000,
-"endMs": 2771000,
-"speaker": "Speaker 2",
-"text": "Y gente así de pueblo, como arena del mar, entonces. Estamos temblando, pues obvio venia todo el ejército. Entonces, Yonatan atacó el netziv de los plishtim, luego vamos a entender por qué Yonatan, pero Yonatan ataca al netziv de los plishtim, Y quién se despierta?"
+"startMs": 1266449,
+"endMs": 1273589,
+"text": "«Ve'lo tasuru, ki ajaré ató u'asher lo yo'ilu ve'lo iatsilu ki tó uema». No se vayan detrás."
 },
 {
-"startMs": 2771000,
-"endMs": 2802000,
-"speaker": "Speaker 2",
-"text": "Los plishtim. Ahora, acá, vean que profundo. Qué es el netziv de los plishtim? Qué quiere decir? Después de que Shmuel les dijo Itiatsvu, entonces ¿quién tiene el yatziv? Nosotros. Entonces, ¿quién pierde su yetzivut? Los plishtim. Entonces, ¿quién se despierta por eso? Vámonos! Todos los plishtim. Ahora, ¿cuántos plishtim vienen? Millones. Con ejército, con armamentos, con todo, vienen millones de Pelishtim contra Am Israel."
+"startMs": 1273629,
+"endMs": 1281529,
+"text": "Cuando no vas detrás de Hashem y te tratas de apoyar en cualquier otra cosa, te estás apoyando en el tóhu, en cosas que no son absolutamente nada."
 },
 {
-"startMs": 2802000,
-"endMs": 2834000,
-"speaker": "Speaker 2",
-"text": "Ahora, esto es justamente lo que se necesita, es exactamente lo que se necesita. Exactamente, Para llegar a esa cara de que la Hashem es el Melej, no Saúl. Tipo, antes con Aja, Saúl pudo, vamos a llamarla así. Eso a lo mejor podías con La, Nagata Mishpat de alguna manera, con Tzitku puedes. Pero acá no hay. Es un nivel que vienen millones. Y entonces acá va a ser la prueba si la desesperación nos gana o no nos gana."
+"startMs": 1281989,
+"endMs": 1288949,
+"text": "Dice: «Ki lo itosh Hashem et amo». Hashem nunca va a, a, a, a, a abandonar su pueblo, «ba'avur shmo hagadol»."
 },
 {
-"startMs": 2834000,
-"endMs": 2840000,
-"speaker": "Speaker 2",
-"text": "Ahora, entonces, ¿quién atacó el Yatziv? Yonatan. Eso vamos a dejarlo como un pendiente porque es importante."
+"startMs": 1290009,
+"endMs": 1297189,
+"text": "Fíjate, esto es algo increíble. Dice: Hashem nunca los va a ustedes a exterminar por él. Hashem no te va a exterminar a ti por él."
 },
 {
-"startMs": 2840000,
-"endMs": 2841000,
-"speaker": "Speaker 5",
-"text": "Porque tiene que ser Yonatan."
+"startMs": 1297689,
+"endMs": 1301189,
+"text": "Entonces, parece que, parece como si te está diciendo"
 },
 {
-"startMs": 2841000,
-"endMs": 2847000,
-"speaker": "Speaker 2",
-"text": "Por qué tiene que ser Yonatan? Qué tienes que hacer Yonatan? Dice. Dice será el Shaul."
+"startMs": 1302409,
+"endMs": 1309109,
+"text": "que tipo-- ya, tipo tú por ti, sí, gracias, gracias por él. Pero en verdad estamos muy profundos que es al revés."
 },
 {
-"startMs": 2847000,
-"endMs": 2852000,
-"speaker": "Speaker 2",
-"text": "Kitzarlo."
+"startMs": 1309289,
+"endMs": 1322889,
+"text": "Na'amal u'irav, dice el Bachurot. Dice, es al revés. Quiere decir que nosotros somos tanto la luz de Hashem en el mundo, que el hecho, si entiendes este mundo que se llama, ¿sí?"
 },
 {
-"startMs": 2852000,
-"endMs": 2854000,
-"speaker": "Speaker 2",
-"text": "Ahí está."
+"startMs": 1323589,
+"endMs": 1330749,
+"text": "Si, si, si vives en el otro mundo completamente, entonces él es tzadik. Entonces, ¿y si dejas de ser tzadik? Bueno, es su problema, dejas de ser tzadik."
 },
 {
-"startMs": 2854000,
-"endMs": 2882000,
-"speaker": "Speaker 2",
-"text": "Y los Yehudim vieron que Shaul está en una tzara, Kinigá Shaam, que todo el pueblo está presionando a Shaul, Shaul ¿Qué hacemos, Saul? Qué hacemos, Saul? Qué hacemos? Y entonces vean que palabras se usa, Bithhabeu jam, Bemearot, Bhabajim, Ubazlaim, Ubaztrajim, Ubavorot, se esconde el pueblo, o sea ¿Qué quiere decir? Es el Tikún de Shaul."
+"startMs": 1331089,
+"endMs": 1341349,
+"text": "Pero si tú entiendes que cada judío es la expresión de Hashem en el mundo, es la luz de Hashem en el mundo, y Hashem está mandando a cada judío, que con es-- por medio de ese judío se revela en el mundo, entonces no puede un judío no existir."
 },
 {
-"startMs": 2882000,
-"endMs": 2884000,
-"speaker": "Speaker 5",
-"text": "No, Al revés. Ah, ¿siguen igual? Espejos."
+"startMs": 1341629,
+"endMs": 1342749,
+"text": "Claro. Oh."
 },
 {
-"startMs": 2884000,
-"endMs": 2909000,
-"speaker": "Speaker 2",
-"text": "Es Acá un espejo al Itjabuud de Shaul. Entonces acá vean como el Passur te está. No, al revés, ¿por qué te esconden los streams? Al revés, párate. No, y al revés, mira, cuando vieron que Shaul está en un tzar, entonces ellos, o sea, quiere decir si Shaul no hubiera entrado en Machado de tzar, entonces le hubiera dado fuerza a ellos. Entonces ellos ahorita están escondiendo, de alguna manera esto. Como que la Torá."
+"startMs": 1344529,
+"endMs": 1347289,
+"text": "Prepararse, pobre Ramó. La luz."
 },
 {
-"startMs": 2909000,
-"endMs": 2912000,
-"speaker": "Speaker 6",
-"text": "Vieron que Shaul está con miedo?"
+"startMs": 1348609,
+"endMs": 1354809,
+"text": "Entonces... Como si estuvieran apagan-- estamos apagando a Hashem. Claro, claro."
 },
 {
-"startMs": 2912000,
-"endMs": 2944000,
-"speaker": "Speaker 2",
-"text": "Entonces todos entraron en un estado de miedo. Y justamente qué palabra se usa? Esconderse. Es la misma palabra que se usó en Shaul. Entonces quiere decir que Shaul es algo dak sheba dak. Pero al final es, si no tienes eso, no existe ganar esta guerra. Me explico? Shaul no hizo ni una averá. Es algo muy profundo, Saúl no hizo ni una. En el Mishpat no hizo ninguna verdad. Saúl, Sugistarón fue el que no hizo salir al Yichud."
+"startMs": 1354949,
+"endMs": 1361409,
+"text": "Y es justo el mundo. Si te metes al mundo de Shmuel... No te puedo anular porque soy yo. Exactamente. Tú eres, tú eres yo."
 },
 {
-"startMs": 2944000,
-"endMs": 2979000,
-"speaker": "Speaker 2",
-"text": "David HaMelej era alguien que vivía nada más en el Yichud. Al revés, en el Mishpat tenía problemas. Por eso Saúl no entendía cómo puede ser que David sea rey. Porque David no es buen representante en el Mishpat, pero David vivía en un bitul total. David es, no eres tú. Lo contrario. Y si yo fallo, No sé, ayúdame, ¿qué hago? Sí? Es el \"sod\" del litbodedut de la nada Juan. Sí, el sod del litbodedut es esta nekudá que una persona como que le echa sus problemas a Shem."
+"startMs": 1362069,
+"endMs": 1362789,
+"text": "Tú eres mi luz."
 },
 {
-"startMs": 2979000,
-"endMs": 3014000,
-"speaker": "Speaker 2",
-"text": "Y entonces ahí es cuando tocas la necudá de lijud. Tus problemas son tus mismas. Que no estás logrando litgaber sobre tu saberot. Vienes? Por qué me pones esto? En vez de hablar con la señalización, me pones esto es Nissi o no, está muy difícil. Cómo quieres que yo me pare temprano? Cómo quieres que yo haga esto? Cómo quieres que haga lo otro? Entonces está con Amtelado, las Antelabod vienen para es tipo Amtelabod es con quejas, tipo que llegas como que con quejas, pero ¿cómo que qué te quejas? Pero el punto es de que si vives en el Yichud es que tipo, tipo, ¿qué quieres de mí?"
+"startMs": 1364389,
+"endMs": 1370849,
+"text": "Dice, entonces no se preocupen porque al final Hashem los quiere a ustedes porque él es el que los mandó a ustedes."
 },
 {
-"startMs": 3014000,
-"endMs": 3046000,
-"speaker": "Speaker 2",
-"text": "O sea, ¿qué quieres decir yo cuánto yo puedo? Hacer con mi tatlut el mejor Kli para que tú puedas expresarte ahí. Entonces hazlo, acentuado, acentuado, yo qué quieres? Y uno puede tener un problema para hacer. Sí, sí, yo sé que es por mi saberot, yo sé que es porque fallo, pero qué hago, qué hago, ayúdame a ver, tipo, le echas tu problema, eso se llama Itiah, fíjense algo muy profundo, la semana lo dice, eso se llama que Jana Itihadvarin Klapei Mala, Janah llegó con quejas con Hashem, y por eso tu wash Mobile."
+"startMs": 1371229,
+"endMs": 1373269,
+"text": "Es algo muy profundo esto, muy, muy profundo."
 },
 {
-"startMs": 3046000,
-"endMs": 3089000,
-"speaker": "Speaker 2",
-"text": "Entonces, ¿qué es eso de la tierra? Es como que este es de la santelaot que dice el. Es como que dijo Ana, no entendí, ¿qué quieres? Tipo, ¿qué quieres? Dice, está en tus manos que yo tenga hijos, yo no puedo hacer nada. Y si tengo, eso es por mi saber, ¿qué quieres que yo haga? Al final tú lo puedes, tú lo puedes hacer. Y así vino Shmuel al mundo con esas, con ese entonces. Entonces esta dargá, que David HaMelej, se necesitan los dos kojot, porque al final el Yichud es para, es como tú te haces kli para que se rebele y el Mishpat es la manera en como se rebele."
+"startMs": 1374569,
+"endMs": 1379909,
+"text": "¿Qué onda? ¿Todo bien? Es de Hut. ¿Todo bien un día? La luz."
 },
 {
-"startMs": 3089000,
-"endMs": 3119000,
-"speaker": "Speaker 2",
-"text": "Me explico? Si no te ves como Saúl, si no te ves como Saúl, entonces también no eres buen kli para que se rebele, pero Saúl, por más que sea Saúl, eso no sirve de nada, porque eso. Saúl no, por más que Saúl es Saúl, contra los Plishtim no puede, tiene que ser Hashem. Entonces necesitas, tipo a un David, que ese es el cuadro de David, que aún siendo que él falla en el Mishpat, ¿me explico?"
+"startMs": 1382149,
+"endMs": 1391169,
+"text": "Entonces, aquí es algo increíble. Otra vez, si te metes al mundo de Shmuel, si te metes al mundo de Shmuel, hay-- aquí hay un mundo muy profundo, muy, muy profundo."
 },
 {
-"startMs": 3119000,
-"endMs": 3150000,
-"speaker": "Speaker 2",
-"text": "Pero se lo avienta a Hashem. Yo no soy nada, yo no soy nadie, eres tú, y luego necesitas un Saúl para que por medio de eso. Entonces Saúl ahorita su trabajo es literal encontrar a David, por eso dice la llamada, David, David, vamos a ver eso. Entonces David dijo algo, David siempre se anuló completamente a Shaul, siempre decía que Shaul es el Tzadik, es el Tzadik, Shaul, porque Behemet Shaul no hizo ni una verdad."
+"startMs": 1391449,
+"endMs": 1405869,
+"text": "¿Que qué? Una persona us-- ha-hace una averá, ¿sí? Y entonces acá uno puede pensar-- Otra vez, si te ves separado a Hashem, y entonces, se llama en el Ramjal que hay dos, dos dimensiones, una nagata mishpat y otra se llama nagata yijud."
 },
 {
-"startMs": 3150000,
-"endMs": 3181000,
-"speaker": "Speaker 2",
-"text": "Por una vez hubo un comentario que dijo David sobre Shaul, y Shaul lo regañó durísimo, le dice David, dice: Tú llevas dos. Tú llevas dos. Y te las pasé. Saúl con una no se la perdoné. Entonces, ¿cuál es el sod? Y entonces ¿por qué Saúl con una así y David con dos no? Porque David está en el mundo donde las Averot no pintan. Me explico? Mientras."
+"startMs": 1405929,
+"endMs": 1414909,
+"text": "¿Sí? Anagata yijud es la de Shmuel, la que estamos diciendo. Nagata mishpat es que nosotros estamos aquí, necesitamos ser mitzvot, abstenernos de hacer averot."
 },
 {
-"startMs": 3181000,
-"endMs": 3211000,
-"speaker": "Speaker 2",
-"text": "La única averá que puede hacer David es bajarse del Yichud. Me explico? Es sentir de que, como hizo una averá, entonces ya no pertenezco. David también les dice, yo no sé, pero yo soy parte. Y fallo? No sé, pero yo soy parte. No sé, eres tú. Qué quieres? Qué quieres que decir? Tipo, el que va a perder es tú. Me explico? O sea. Entonces, y ahora, y el punto es que tienes Yichud y al final se necesita revelar a Luispa. Ora Saúl, que no tiene el Yichud. O sea, ¿qué quiere decir? Que necesita la fuerza de David del Yichud."
+"startMs": 1415209,
+"endMs": 1422989,
+"text": "Dice el Ramjal, dice, no, no, no pienses que la, el que vive nada más en el mishpat vive en un error, porque piensa que existe realmente..."
 },
 {
-"startMs": 3211000,
-"endMs": 3224000,
-"speaker": "Speaker 2",
-"text": "No se la falta. Entonces, con una fallaste. Fallaste. Entonces, el trabajo de Saúl es subirse al Yichud, subirse al Yichud. Subirse al Yichud."
+"startMs": 1423769,
+"endMs": 1427009,
+"text": "Perder y salirte. Perder, salirte, no ser, sí ser."
 },
 {
-"startMs": 3224000,
-"endMs": 3253000,
-"speaker": "Speaker 2",
-"text": "Anita Midimaj, sí, David Anita Midimaj. Ah pero pero a veces tienes tus caídas. No sé, Anita Midimaj. Anita Midimaj. Dice. Dice y todos presionando a Saúl. Vean esta palabra. Vaiahel, vaiohel."
+"startMs": 1428829,
+"endMs": 1436129,
+"text": "Anagata yijud es la que, es la que reveló Hashem después del jetaegel. Entonces, ¿cuál es el punto acá?"
 },
 {
-"startMs": 3253000,
-"endMs": 3284000,
-"speaker": "Speaker 2",
-"text": "Dice, siete días está Saúl esperando, Shmuel, Lemoel, Asesmuel, velo, va Shmuel aquí. Saúl está ahí, necesito hacer un korban ahorita y después del korban vamos a salir de la guerra, Samuel no llega. Y de mientras hay un ejército completo acá, un ejército completo, durísimo. Y Saúl con una presión de todo Israel. Pero Saúl, haz algo, Saúl, haz algo."
+"startMs": 1436409,
+"endMs": 1444949,
+"text": "Entonces, un niño, imagínate, otra vez, una persona hizo una averá. Entonces, ¿qué piensa? Ya, Hashem me castiga, ya perdí la oportunidad, o sea."
 },
 {
-"startMs": 3284000,
-"endMs": 3323000,
-"speaker": "Speaker 2",
-"text": "Y Saúl, ¿qué tiene que, piensen en él? Artmet en sallijud. Qué Saúl tiene que pensar? Yo tengo que hacer algo? O sea, yo tengo que hacer algo. Dice, \"Saúl me dijo, espera\". Y entonces acá la palabra que se usa para Saúl está. Bayajel. Fíjense, el Bayajel, dijimos acuerden que tenía dos aspectos del Bayajel, Mahala, Que es \"laknya\" y arriba era, era en \"holé\" y \"halilali\", \"halilalim ijatola Hashem\" y luego \"mohalim loalkol hawonotau\", \"mohalim loalkol hawonotau\"."
+"startMs": 1445769,
+"endMs": 1450429,
+"text": "Ahora, si lo ves desde la otra perspectiva, no, Hashem me mandó al mundo. Entonces, en verdad, en verdad, en verdad,"
 },
 {
-"startMs": 3323000,
-"endMs": 3338000,
-"speaker": "Speaker 2",
-"text": "Entonces dijimos que la \"het lamed\" era como el \"ej lekha\" tenía \"betzem\" los dos aspectos. Acá el \"baiahel\" tiene \"baiahel\", ¿qué es \"baiahel\"? Es espero, \"baiahel\" con dos \"yudit\", es espero."
+"startMs": 1451689,
+"endMs": 1459189,
+"text": "al mandarte a Hashem al mundo, no te manda Hashem al mundo y otra vez ya te metiste en la nagada del mishpat. Y ahí vives y ahí, y ahí empieza y ahí muere."
 },
 {
-"startMs": 3338000,
-"endMs": 3369000,
-"speaker": "Speaker 2",
-"text": "Con una “yud” es viene como “noaj”, ¿sí? O sea, es kri es ktiv. Kriktiv. Kriktiv, sí. Siempre el “kri” es “yud kebab”, ¿qué? Y el ktiv es “adnud”. Kri es “Yichud” y “ktiv es “Yichud” y “kri” es lo que nosotros podemos expresar esto. Entonces dice, primero por un lado espera, pero la pregunta es si esperas y al final te desesperas, Lo esperas y te espera."
+"startMs": 1459569,
+"endMs": 1469929,
+"text": "Sino es como un papá con un hijo. El hijo se porta mal en la escuela, entonces el papá le marcan y le dicen: Oye, tú te estás portando..."
 },
 {
-"startMs": 3369000,
-"endMs": 3386000,
-"speaker": "Speaker 2",
-"text": "La prueba es exactamente la prueba del GTAI. Es exactamente la prueba del GTAI. Es la prueba del GTAI. Fíjense, acuérdense, cuál era el Tnai de que Saúl siga siendo rey? Lismoa."
+"startMs": 1471309,
+"endMs": 1471609,
+"text": "Ahí está,"
 },
 {
-"startMs": 3386000,
-"endMs": 3423000,
-"speaker": "Speaker 2",
-"text": "Instrucciones. Dice, \"Vaya hombre Shaul, ya, aquí suelaya Olabe aslamín, vaya a la ola\". Hizo el Corván. No, como Shmuel le dice, me esperas y hacemos el korban juntos. Saúl, por desesperación, hizo el korban. Va ahí al minuto. Va ahí que jalato, la lota, hola. Vine, Shmuel va. Va ahí, Shmuel, aquí estás. Qué hacemos, todos, guerra? Me llamo Samuel, mea cita. Qué hiciste? Me llamo Saúl, que raí digna fata, me alai, están todos presionándome."
+"startMs": 1473089,
+"endMs": 1488249,
+"text": "córrelo, ¿qué quieres? ¿Está bien el papá sí o no? No, porque el papá se siente él responsable porque es su hijo. El papá siendo-- el que vivir en el mundo de Shmuel, entonces quiere decir que el papá siempre va a tomar responsabilidad sobre su hijo."
 },
 {
-"startMs": 3423000,
-"endMs": 3454000,
-"speaker": "Speaker 2",
-"text": "Vean cuántas veces se repite el jet haEgel. Es un minuto. Dice, \"Beta lo bata le moeda\" y a mí. Uplishtim me desafío. Dice, Shmuel, ¿qué hago? A ver, todo el pueblo me está presionando. Está. Los plishtim llegan aquí en montones. Tú no llegas? Tú no llegas. Vean, vean la respuesta de Shmuel. Dice, \"Baomar, ata yerdu plisim alaya Gilgal\". Dice, \"Upney Hashem lo jaliti\". Otra vez, Hetlam. Sí? Betapak. Vaya, léola, no me pude."
+"startMs": 1488769,
+"endMs": 1494829,
+"text": "Tipo, yo lo mandé al mundo, yo lo hice. Y entonces yo de alguna manera necesito ver cómo él va a lograrlo."
 },
 {
-"startMs": 3454000,
-"endMs": 3463000,
-"speaker": "Speaker 2",
-"text": "Dice. Me cayeron amigos plishtim de camino. No, Shaul. Shaul sigue hablando, ahorita se vuelva a hablar."
+"startMs": 1495109,
+"endMs": 1501129,
+"text": "Tampoco lo va a exterminar, no le va a- No existe exterminarlo, porque al revés, en ciertos aspectos es la responsabilidad de Hashem mismo, vamos a llamarla así."
 },
 {
-"startMs": 3463000,
-"endMs": 3495000,
-"speaker": "Speaker 2",
-"text": "Dice, \"Baya etapak, vean Rashi\", dice. \"Mit hazaktia al retxonin, shaia libi omer lemtimlach. Mi corazón decía esperarte. Ve al korgi, matiet libi. Ve a léola. No pude aguantarme, pues dije, es lo que necesito hacer. Para ver que para muy parecido, sí, vaya hombre Shmuel el Shahur, miskalta, losamartet, mitzvat, ashemel ukejasheltzibah, ki ata egin ashemet mam lagteja el israel al ladolam."
+"startMs": 1501169,
+"endMs": 1511769,
+"text": "Que salga, que le vaya bien. Exactamente. Yo, yo te mandé, yo te mandé, yo me voy a encargar. Avergüenzas a Hashem de que- Exactamente, ese es el hilula Hashem El papá de que-"
 },
 {
-"startMs": 3495000,
-"endMs": 3515000,
-"speaker": "Speaker 2",
-"text": "Hashem preparó tu reinado para siempre, o sea, en tus manos no existe preparar un reinado, pero que Hashem sí lo puede hacer. Ve ata mam lagteja lotakum bikesh Hashem lo ish kilbabu. Dice Hashem va a buscar a alguien como su corazón Que."
+"startMs": 1513129,
+"endMs": 1521349,
+"text": "Es el hilula Hashem y es el hilula Hashem. Claro, es, es, es literal, es eso Te puse un mashal que... Sí, a ver Es que vino un jajam, me encantó."
 },
 {
-"startMs": 3515000,
-"endMs": 3545000,
-"speaker": "Speaker 2",
-"text": "Sea como su corazón. Y los amarte y los amarte, dice, vaya como se mueve, vaya al mira que el que va a esperar a hacer el color increíble, porque él está hablando en hombres, ese es el todo, ese es el nada, que es todo, me explico, en el Mishpat no es nada. En Anagata Mishpat no hay ni una Averá, ¿me explico? Es salirte del Yichud. Es que ahí tu tienes un Manjud por tipo."
+"startMs": 1521729,
+"endMs": 1528769,
+"text": "Dice: \"Agárrense porque viene drástico\". Entonces, un papá le dijo a su hijo, este, es, ya es, ya es invierno,"
 },
 {
-"startMs": 3545000,
-"endMs": 3552000,
-"speaker": "Speaker 2",
-"text": "Tenemos que guerrear con los piscines que hacemos. Es como un Jose de Muna. Ese es el Jose de Muna, salir del Yichud es quitar la de Muna."
+"startMs": 1530109,
+"endMs": 1537069,
+"text": "eh, se va a la calle y dice: \"Ponte chamarra\". Y el niño, eh. Al final se da cuenta que no se puso chamarra."
 },
 {
-"startMs": 3552000,
-"endMs": 3564000,
-"speaker": "Speaker 6",
-"text": "El esta hablando el nombre de Hashem. El le esta hablando a Shaul el nombre de Hashem, porque no cumpliste la palabra de Hashem. Ya, te quito tu reinado."
+"startMs": 1537369,
+"endMs": 1543989,
+"text": "Después de una semana, ponte, eh, ve, kitsur. Ya a la quinta vez, dijo: \"Te fuiste sin chamarra y ya está haciendo mucho frío."
 },
 {
-"startMs": 3564000,
-"endMs": 3568000,
-"speaker": "Speaker 6",
-"text": "\"No cumpliste la palabra de Hashem\" quiere decir que Shmuel está diciendo yo soy acero."
+"startMs": 1544029,
+"endMs": 1550489,
+"text": "Ahorita sí, de verdad está nevrando afuera, está esto\". Agarra al niño, lo agarra, abre la ventana y lo avienta. Así."
 },
 {
-"startMs": 3568000,
-"endMs": 3581000,
-"speaker": "Speaker 2",
-"text": "Claro, exactamente, exactamente, mi palabra que yo te dije era la palabra de Hashem. La vez pasada no le digo que Hashem."
+"startMs": 1550829,
+"endMs": 1557769,
+"text": "Dijo el jajam: \"Cuidado, agárrense porque está drástico\". Dice, y esta gente marca así. Y esta gente marca así. Que por qué es la quinta ya."
 },
 {
-"startMs": 3581000,
-"endMs": 3622000,
-"speaker": "Speaker 2",
-"text": "Claro, claro, dice \"Yo te doy leche\". Increíble, 100 por ciento. Entonces ahorita Shaul cuenta cuántos tiene y mo, que se esme otis. Shaul tiene 600 contra millones, o sea, 30 en carretas, 6000 en caballos y Jurén y millones así a pie. Ve Shaul y Yonatan, no, veam animchaimam, yosfim, vegeva bim, yuplishtim, janoube mijmas, están él, Yonatan contra todos los plistim, salen los mashitim de los plistim, los arrasima, rosa dejadifnel, derek hafra."
+"startMs": 1559089,
+"endMs": 1568329,
+"text": "Eso es mashal. Eso es, es, es- Así de drástico. Es el rum. Hay una, hay un schlav que es tzorch gabó, que ya está flumás que todo ese grupo- Eso es lo que habló, lo que dijo Jaime, que es tzorch gabó, ¿ah?"
 },
 {
-"startMs": 3622000,
-"endMs": 3652000,
-"speaker": "Speaker 2",
-"text": "El erets sual barro se ha difne derejbet joron barro se ha ifne derek hakbulan ishka falgue atsu imam y para llegan emboscada de todos lados ahora y los de Yehudim no tienen nada no nada más que no tienen gente sí de cada lado y los de Yehudim dice vejarás Floima se bajol Israel dice no había ni un eh cómo se llaman los que trabajan en metal los que hacen mero no había herreros no había herreros en Israel."
+"startMs": 1568389,
+"endMs": 1576869,
+"text": "Que quiere decir que sale que todo lo que estás haciendo realmente es, estás, estás tú trayendo la luz de Hashem al mundo."
 },
 {
-"startMs": 3652000,
-"endMs": 3685000,
-"speaker": "Speaker 2",
-"text": "Que Ambru plishtim, escucha, porque los plishtim, el netziv plishtim controlaba en Israel, y entonces él no, el netziv plishtim nunca dejó que Israel tenga herreros para que no tengan arma de guerra. Penyazue ibrim jerevojanit, Beirdukol, Israel a plishtim, siempre que los Yehudim estaban herrería, bajaban con los plishtim, liltoshish mahrashto para hacer tus mahreshit, ¿cómo se llaman? El mahreshet es la del arado, ¿sí?"
+"startMs": 1577209,
+"endMs": 1584289,
+"text": "O sea, quiere decir, entonces es más Hashem que tú. Más Hashem que tú Ahí, ahí que Hashem te quiere salvar por, por su hijo y ahí por todo que Erith gale shmo béetz."
 },
 {
-"startMs": 3685000,
-"endMs": 3715000,
-"speaker": "Speaker 2",
-"text": "Vetetovet Kardumovet mahrashó. Veitab, sirab pim, la mahrashot, el edetim, los slot, el kardumim, ule atziv hadarban. Otra vez. Entonces quiere decir que controlaban todo el mercado de herrería los plishtim. Ve allá, beyon milhemet, velonim tzahere bejanit, beyat kolaam, ashere, Shaul, beyonathan. Entonces no nada más que son poquititos, ni siquiera armas. O sea, No tienen cómo defenderse. Ahí viene, ahí viene. Entonces están, todo esto viene, exactamente."
+"startMs": 1584489,
+"endMs": 1586429,
+"text": "Es eso, viriú. Es eso, babur shmo"
 },
 {
-"startMs": 3715000,
-"endMs": 3734000,
-"speaker": "Speaker 2",
-"text": "Entonces todo esto viene a que hagas una cría total y esto automáticamente ¿a dónde te regresa? Al Tikún. Al Yichud. Me explico? Entonces vamos a ver, vamos a ver quién regresó, al Yichud. Vean como toda la historia se va exigiendo, ¿me explico? Pues sí. De allá, vengamos, vamos, vamos,"
+"startMs": 1587929,
+"endMs": 1596209,
+"text": "gadol. Babur shmo gadol. Que tú, tú, eh, béetzem, de, de hecho, bjiná Eretz Lejetim, que va a legarot shmo. Y mérel tajlit bémet es legarot shmo shmo."
 },
 {
-"startMs": 3734000,
-"endMs": 3736000,
-"speaker": "Speaker 3",
-"text": "Vamos, vamos."
+"startMs": 1596589,
+"endMs": 1607969,
+"text": "Sí. Tú eres el que, el que mamid es. Sí, sí, sí, sí, mamás, es lo que dice acá. Dice: \"Ki lo itó Hashem et hamo babur shmo hagadol, ki hoi las, ki hoi lashem lasot et jem lo leam\"."
 },
 {
-"startMs": 3736000,
-"endMs": 3737000,
-"speaker": "Speaker 2",
-"text": "Claro, es el que."
+"startMs": 1608469,
+"endMs": 1614629,
+"text": "Fíjense, la misma palabra que se dijo atrás, la asot, Hashem, Hashem asá et Moshe ve'et Aharon."
 },
 {
-"startMs": 3737000,
-"endMs": 3742000,
-"speaker": "Speaker 3",
-"text": "Lo está haciendo otra vez el mismo error."
+"startMs": 1615049,
+"endMs": 1624249,
+"text": "De la misma manera, asá et jem lo leam. ¿Me explico? Hashem es el que hace, no es que-- Hashem te pone, no es que tú te pusiste, no es que tú lo hiciste."
 },
 {
-"startMs": 3742000,
-"endMs": 3776000,
-"speaker": "Speaker 2",
-"text": "Eso, arréglalo. Dice, ahora quién, quién tiene, Yonatan. No, ahora quién tiene el yatziv, los plishtim, después de que Yonatan los atacó, entonces los. Yetzem matzav pelishtim, el mahabar mijmash. Entonces ahorita el yatziv lo tienen los plishtim. Ahorita Hashem le está, en verdad Hashem le está quitando el yatziv a los plishtim por medio de quitarle el armamento a toda mi Israel. Y entonces meile le hace knidad a mi Israel para que tengas la esquipa."
+"startMs": 1625909,
+"endMs": 1633249,
+"text": "Dijimos una vez un mashal, pero es muy profundo. Son, son, son cuatro niveles en el, en entender el nombre Hashem."
 },
 {
-"startMs": 3776000,
-"endMs": 3806000,
-"speaker": "Speaker 2",
-"text": "Exactamente, tienes que entrar a la Emuná y la Emuná te va a llevar a la esquipa. Y entonces dijimos, ¿quién ataca el yatziv plishtim y Yonatan? Hashem es o kebkufufim? Vean esta historia increíble. Esta sí ya no la vi reciente, pero pues vamos a leerla y vamos a ver cómo va de la mano. Veía yo, veía mi Yonatan Ben Shaul en la nada. No sé qué lado. Vean qué loco. Está Jonathan y su jovencito, el que cargaba sus. Escuderos? Sí, el escudero."
+"startMs": 1633369,
+"endMs": 1640109,
+"text": "Son las cuatro letras, yudkei vau hei. Son cuatro, cuatro dimensiones. No me quiero meter así tan profundo, pero así algo más pashtut."
 },
 {
-"startMs": 3806000,
-"endMs": 3838000,
-"speaker": "Speaker 2",
-"text": "Le jaban a Abra, el Matzav Plishtim. Vamos para allá. Yo y tú. No, no, yo tú y seiscientos. Yo y tú, dos personas. Y a dónde vamos? Al matzav plishtim. Sí, vamos al matzav plishtim, a hacerme ever. Sí, matzav. Vamos, vamos con todo, dice. Y Yonatan no le dice a Shaul, porque Yonatan sabe o piensa que si le dice a Shaul, \"Estás loco, esto es un enfermo mental\"."
+"startMs": 1640989,
+"endMs": 1645389,
+"text": "Eh, en un mashal, sin hablar tan, tan profundo. No, un mashal muy pashtut."
 },
 {
-"startMs": 3838000,
-"endMs": 3870000,
-"speaker": "Speaker 2",
-"text": "Claro, es un suicidio. Dice de Shaul, yo soy bichte agi va a tajata rimón, no sé mi grón, va a hacer imo que se me otis. Shaul está ahí con 600, bahia benajitú, bahia y jabot, ben bin Haas, ben Elía, kohen, Hashem, beshilón, no sé, fod, de AMLO y Ada, que ala Yonatan. Estaba el Kohen Gadol y nadie del pueblo, o sea, no nada más. Tipo, cuando vas, si van dos, tipo se va, siempre como que tienes el rescate, ¿me explico? Acá no le dijo a nadie. Tipo, si de repente Jonathan desaparece, nadie sabe ni qué pasó."
+"startMs": 1647109,
+"endMs": 1656629,
+"text": "Un pobre quiere tzedaká, ¿sí? Y él le pide a Hashem. Él lo pide a Hashem. Entonces, Hashem quiere darle a ese pobre tzedaká."
 },
 {
-"startMs": 3870000,
-"endMs": 3900000,
-"speaker": "Speaker 2",
-"text": "No hay ni el rescate, no hay nada. Dicen. Wubena ma abarota zervikesh honatan la abora al matzaplishtim dice: el camino para llegar a matzaplishtim, xenna zela me ha ever mise, ve xenna zela me ha ever mise. Alguien se acuerda de esto? De mis clases de miseu mise? De qué era? De las tablas. Vegeta egeel, de las lujot y de milheme tamalek. Que la única manera de ganar en mihé tamalek es con miseu mise, exactamente ese punto."
+"startMs": 1656909,
+"endMs": 1663449,
+"text": "Ahora, ¿quién le quiere dar tzedaká al pobre? Hashem, porque ¿quién le pidió? El pobre le pidió a Hashem y Hashem le quiere dar tzedaká a ese pobre. Tu mashal cuál es."
 },
 {
-"startMs": 3900000,
-"endMs": 3912000,
-"speaker": "Speaker 2",
-"text": "Dice: es la emuná, Las manos de la Mosé es la emuná. Sí, misé, un misde. Y entonces. Y el jeta ege, las lujota eran misde humizde. O sea que."
+"startMs": 1663449,
+"endMs": 1670229,
+"text": "¿Sí? ¿Cuál? O sea, tú sí, por... ¿no? No, no, no, no ese aspecto. No, no, sí, o sea, sí tiene que ver, pero no, no ese aspecto."
 },
 {
-"startMs": 3912000,
-"endMs": 3914000,
-"speaker": "Speaker 5",
-"text": "Solamente con el ijud puedes llegar a pasar."
+"startMs": 1670729,
+"endMs": 1677829,
+"text": "Entonces, entonces, primero Hashem, ¿en qué, en quién piensa? Cuando ahorita le va a dar a ese pobre, primero Hashem piensa en él: yo quiero darle a ese pobre."
 },
 {
-"startMs": 3914000,
-"endMs": 3946000,
-"speaker": "Speaker 2",
-"text": "Exactamente. Es que a Mosé le agarran las manos. O sea, acaban. Está un poco también a mai mai, ¿no? Puede ser. \"Beshemai hat botzet, beshemai hatsen eh\". \"Ashenai hat matsuk pizzafon mulmihmash rai hat mineguet mulgueva\". Eran piedras, Que era imposible caminar en ellas de tan resbalosas porque ni siquiera había. Imagínate que necesitas escalar una montaña y no hay. Pero no hay ni de dónde agarrarte. Tiene musar, no también igual, es la cría que para llegar ahí. Claro, para llegar ahí es que no hay manera de pasar."
+"startMs": 1677829,
+"endMs": 1685809,
+"text": "¿Me explico? Ahora, ¿cómo Hashem le va a dar al final, al final, al final, al final, cómo le va a llegar a ese pobre?"
 },
 {
-"startMs": 3946000,
-"endMs": 3976000,
-"speaker": "Speaker 2",
-"text": "No hay paso, exactamente. Dice, dice, “Mayomario Jonathan en la nada, no sé qué la le dejaban a Abraham Machaba Arelim, a él, Acuérdense de la palabra \"Arelín\". Esa es la palabra que usa David para pelear contra Goliat el Plishchín. Quién es este cuate? Qué miedo? Goliat era un cuate armado. También David ahí llegó sin armas."
+"startMs": 1685969,
+"endMs": 1696129,
+"text": "Por medio de una persona Por medio de una persona, ¿sí o no? Por medio de una persona le va a llegar a ese pobre. Entonces, tú piensas que vives aquí en este mundo, que él le ayudó a él."
 },
 {
-"startMs": 3976000,
-"endMs": 4007000,
-"speaker": "Speaker 2",
-"text": "Goliat era armado, era gigante, era imposible ganar. O sea, Goliat literal le puede ser así. Así era David, me explico, pero aparte tenía armas. Y David tenía una resortera. Claro, entonces todo el amor de Jonathan a David es porque Jonathan acá estaba en el Ijud. Entonces, ya que Jonathan vive en el Ijud, entonces él se puede unir a David. Dice. \"Ulaya, sea Shem Lanu, ¿quién la Shem?\" Dice. \"Hashem nos va a ayudar\". Dice \"¿Quién la Shem más solo? Qué importa?"
+"startMs": 1696729,
+"endMs": 1704909,
+"text": "Pero la historia no empezó así. La historia empezó en Hashem. En Hashem. Y Hashem quería él darle a ese pobre, y después, entonces, eso se llama el olam hatzilut."
 },
 {
-"startMs": 4007000,
-"endMs": 4038000,
-"speaker": "Speaker 2",
-"text": "Somos 600, son unos mil. Aunque somos dos. Qué tanto? Vamos en el Ijú dice no no se ayude a deshacer ¿Qué pasó con Jonathan? Cómo entró al Ijú? Es que es impresionante como ¿Cómo entró al Ijú? No no vimos como Jonathan Jonathan sí el un poco o sea en la vagina este sí Jonathan era el coach obviamente del Tikún siempre estaba completo sí yo me lo no sé que la por eso Abad Jonathan B David era una esa es la Abad del Ijú."
+"startMs": 1705149,
+"endMs": 1711449,
+"text": "Es que Hashem está pensando él cómo se va a revelar en el mundo. Después de olam hatzilut, hay un olam que se llama olam briá."
 },
 {
-"startMs": 4038000,
-"endMs": 4068000,
-"speaker": "Speaker 2",
-"text": "La Aba el Ijú es nuestro que es el con Ashem, es que no estás en el mishpat. En el mishpat es si eres tatiksi, y si eres racha, Ashem ya no te quiere. En el Ijú es, seas el que seas, vas a ser mi hijo. Entonces Jonathan y David es la Abah Shena tuya babah, es los que viven el Ijú, viven ese matado de que está acá en la Abah Shena tuya babah. Dice, vamos a no se que la ha, hace con la shel viva abeja, ne telak, ineni makhil babak."
+"startMs": 1712029,
+"endMs": 1719489,
+"text": "Ahí están las neshamot, las neshamot de Am Yisrael. Entonces, acá, para, para poder estar en el segundo esto necesitas tener neshamá."
 },
 {
-"startMs": 4068000,
-"endMs": 4099000,
-"speaker": "Speaker 2",
-"text": "Sí, está quedando. Afilo el no sé qué lado, Jonathan logró contagiar a su no sé qué lado, estar en su suicidio, literal es un suicidio. Quién? Al escudero, así tiene que haber dicho. Sí, y le dije, no, yo estoy contigo con. Vean la palabra Imaj Kilbabeja, fíjense, es la palabra que que le dijo Ashem, le dije, ya perdiste tu Maljut Shaul y se lo va a dar el Ix Kilbabo. Me explico? Kilbabo. Qué es Kilbabo?"
+"startMs": 1720168,
+"endMs": 1726909,
+"text": "O sea, tu cuerpo es la última, ¿me explico? Hashem no escoge una perso-- un cuerpo de una persona, ¿me explico? Primero escoge una neshamá."
 },
 {
-"startMs": 4099000,
-"endMs": 4130000,
-"speaker": "Speaker 2",
-"text": "El que sí es. El que sí es, dice. Entonces fíjense, antes, Jonathan, al principio del Pere Club, como se llama, en Pere Club Talent, \"Beiayom el Jonathan Benshaul\". Y cuando empezó acá, cuando ya se lanzó, es Yehonathan, recibió la letra el nombre de Hashem. \"Beiaom el Yehonathan, Inea Nachnu\", luego se regresa a ser Jonathan, no sé de qué depende, pero acá, Es literal, es que recibió."
+"startMs": 1727489,
+"endMs": 1735249,
+"text": "Una neshamá es alguien que va a expresar su luz. Un cuerpo es alguien que va a agarrar la, el dinero de la bolsa y se lo va a dar, ¿me explico?"
 },
 {
-"startMs": 4130000,
-"endMs": 4161000,
-"speaker": "Speaker 2",
-"text": "Mira, esa es la expresión de Ashem, se acaba. Dice, vamos a tener una prueba, dice, si Ashem quiere que vayamos ahí o no. Porque al final el que lo haces es Ashem. Entonces yo necesito saber si Ashem quiere o no quiere. Dice, si me dicen frena, entonces frenamos."
+"startMs": 1735869,
+"endMs": 1738629,
+"text": "Eso no- El último maíz. Ese, ese es el sof maase."
 },
 {
-"startMs": 4161000,
-"endMs": 4185000,
-"speaker": "Speaker 2",
-"text": "O sea, ¿qué quiere decir? Jonathan dice. Acá es un tema, porque parece esto nihus. Y ahí se rele nihus. Ahora, acá, porque esto nihus es hacer. Si el volado sale así, hacemos, si no, no. Jonathan, aquí es algo muy profundo. El que vive en el nihus escucha a Ashem hablando de todos lados. Entonces acá dice Así."
+"startMs": 1739849,
+"endMs": 1748249,
+"text": "Entonces, segundo schlav es que Hashem escoge una neshamá. Hashem escoge una neshamá. Para legarot ese- Porque la neshamá es la luz de Hashem, es la luz de Hashem en el mundo."
 },
 {
-"startMs": 4185000,
-"endMs": 4200000,
-"speaker": "Speaker 2",
-"text": "Los Pelishtim van a ser la voz de Hashem. Si les dicen frenen, significa que Hashem no está diciendo que frenemos. Si nos dicen vengan, entonces quiere decir que Hashem no está diciendo que vayamos para allá. Y entonces esa es nuestra prueba, que Hashem quiere que vayamos para allá."
+"startMs": 1748709,
+"endMs": 1756729,
+"text": "Entonces, dice: \"Tú, cuando tú lo des, ¿sí?, se va a revelar y se va a notar que yo lo estoy dando\"."
 },
 {
-"startMs": 4200000,
-"endMs": 4201000,
-"speaker": "Speaker 5",
-"text": "Ese es."
+"startMs": 1757329,
+"endMs": 1763649,
+"text": "¿Me explico? Que yo lo estoy dando. Y por eso el pobre al final, ¿a quién le agradece? \"Gracias que me mandaste\". No, pues fue."
 },
 {
-"startMs": 4201000,
-"endMs": 4209000,
-"speaker": "Speaker 2",
-"text": "El nihud completo, exactamente. Es de escuchar siempre la voz de Ashen por todos lados."
+"startMs": 1763649,
+"endMs": 1770949,
+"text": "¿Cómo no se revuelve? No, porque él le pidió a Hashem y al final Hashem se lo mandó, ¿me explico? O sea, él, él le pidió a Hashem y al final Hashem se lo mandó."
 },
 {
-"startMs": 4209000,
-"endMs": 4213000,
-"speaker": "Speaker 3",
-"text": "Porque no está diciendo si ahorita que hay una si ahorita había un ratón."
+"startMs": 1771549,
+"endMs": 1778849,
+"text": "Entonces, neshamá es, es-- para tener el sejut de neshamá, obviamente, todo, todo Am Israel tiene neshamá y por eso Hashem escoge a todo Am Israel."
 },
 {
-"startMs": 4213000,
-"endMs": 4245000,
-"speaker": "Speaker 2",
-"text": "Claro, no escucha nada. Claro. Porque no está diciendo algo que no tiene nada. Mira escuchar que me diciendo. Exactamente. Yo voy a escuchar que Ashem está que diciendo aquí hay están saliendo saliendo de los otra vez salen, Del el escondite. Doctor Feret, exactamente. Antes Shaul y Alam se escondieron, perdieron y ahorita Jonathan sale de ese escondite."
+"startMs": 1779289,
+"endMs": 1788949,
+"text": "Pero el punto de neshamá es más el punto este de hacer las cosas de Shem Shamayim. Cuando uno hace las cosas de Shem Shamayim, entonces ahí, literal, es, ¿qué es de Shem Shamayim?"
 },
 {
-"startMs": 4245000,
-"endMs": 4271000,
-"speaker": "Speaker 2",
-"text": "Literal lo que está pasando. De los mismos escondites. En el Olam es lo que está pasando, está pelenfly. Veanu, hola. Veanu, vean yanuan Shea Matzabá. Los Yetzibim le dicen a Jonathan, no sé que había hombre. Alu, aleno, buenos días que andaban. Jonathan, no sé qué lado, aquí es Jonathan. Ale. Y es Joseph."
+"startMs": 1789009,
+"endMs": 1795688,
+"text": "Yo, yo, yo soy el shaliach de Hashem. La neshamá se siente como un malaj. ¿Qué es un malaj? Un shaliach. Solamente el shibui."
 },
 {
-"startMs": 4271000,
-"endMs": 4284000,
-"speaker": "Speaker 6",
-"text": "Claro. En el momento que a lo mejor que es el momento que. Entonces ahí ya le entró la letra. Entro la letra y ya después ya le dice Joseph."
+"startMs": 1796049,
+"endMs": 1809129,
+"text": "Sí. Y después, después de la neshamá, baja al olam hayitira. Y entonces, ahí, ahí es-- ya se escoge a alguien que tenga la personalidad adecuada para hacer ese maase."
 },
 {
-"startMs": 4284000,
-"endMs": 4314000,
-"speaker": "Speaker 2",
-"text": "Sí, sí. Sí, sí, sí. Dice que yo mi Jonathan, no sé qué lado, Ale. A Jaray vamos Kinetanama Shembe ya de Israel ya está hecho tipo se acabó no es que apenas vamos a empezar ya acabó Bayali Jonathan al Yadav al Raglav, menos sei kela bajarabe y pluli fne Jonathan menos sei kelab memotet ajarabe dice se caen los plishín delante de Jonathan."
+"startMs": 1809269,
+"endMs": 1817949,
+"text": "Es un midot. Sí, los midot y todo. Y después, pues, el olam asiá es cuando ya se haga todo este maase."
 },
 {
-"startMs": 4314000,
-"endMs": 4319000,
-"speaker": "Speaker 2",
-"text": "Ah, un segundo, ¿cómo sube Jonathan? Al Yadav Arreglado."
+"startMs": 1818349,
+"endMs": 1820329,
+"text": "Entonces, sale que, ra-- literal,"
 },
 {
-"startMs": 4319000,
-"endMs": 4350000,
-"speaker": "Speaker 2",
-"text": "Con cría total, ¿me explico? Cría total es que no camina sobre tus pies. Arrastrando. Como la. Con cría total. Y eso, esta criada, y literal es la criada de la Emuná, ¿me explico? Porque es subir imposiblemente. Dice, \"no sé que lava jarab y el no sé que lava detrás de él, ve y pluris né Jonathan, no sé que lava\". Aquí el dice \"Anshemat se va\", fíjense ¿Cuál es el opuesto a Yazim?"
+"startMs": 1821989,
+"endMs": 1832329,
+"text": "primero, cuando, cua-cuando Hashem pensó en ti, estaba pensando en él a la vez, ¿me explico? Y también cuando lo hiciste, estaba pasando lo que estaba pasando en el olam hatzilut."
 },
 {
-"startMs": 4350000,
-"endMs": 4373000,
-"speaker": "Speaker 2",
-"text": "Lipol, Yazim estar bien parado y entonces vean el metsudo dice \"Beyflu anshemat sabana flu halalim\" Se cayeron, \"Bello meto alki no seke labi shlim y tatam\" Ah, y el no se que la fue el que los acabó de matar. Sí, halalim es que el se hicieron halulim ellos, dice."
+"startMs": 1832369,
+"endMs": 1844729,
+"text": "Al final fue todo lo que pasó. Eso es lo que dice el Nefshachán, que algo que tú haces acá, estás haciendo cosas, porque todo el olam hatzilut, hasta que no pase en el olam asiá, pues sigue, sigue siendo nada más un ratón."
 },
 {
-"startMs": 4373000,
-"endMs": 4403000,
-"speaker": "Speaker 2",
-"text": "Los mataron, Jonathan. Cómo no dice cómo? Dice nada más que fueron Jonathan y ellos. Los mataron y el no sé qué lab lo acabo de matar. Beteyamakarri sonasherikai Jonathan, no sé qué lab, que es srimish, que bajatiama manetzemetzade. Betey jara dama mahane, basade, uholaam, amatzav. Todo el tiempo se repite. Sí. Bamajit haredu gamehema, batirgadares, betey lejerdate lokim. Todos temblaron."
+"startMs": 1844749,
+"endMs": 1852009,
+"text": "Lo que pasó realmente fue que en el olam hatzilut, Hashem le decidió mandarte acá. Exactamente, eso es lo que pasó. Que una persona- Exactamente, es lo que pasó."
 },
 {
-"startMs": 4403000,
-"endMs": 4409000,
-"speaker": "Speaker 2",
-"text": "O sea, todos. Ellos mataron a veinte y todos los millones temblando. Dice."
+"startMs": 1852069,
+"endMs": 1858188,
+"text": "Y entonces tú provocas- Necesita algo, es la cera adecuada No, así Hashem, ese es todo lo hizo para nosotros."
 },
 {
-"startMs": 4409000,
-"endMs": 4413000,
-"speaker": "Speaker 6",
-"text": "Ellos Mataron a veinte."
+"startMs": 1858309,
+"endMs": 1865549,
+"text": "Exactamente, esa es la, la- Él quiere que nosotros aprendamos- Tengamos el sejut de, de ser como él."
 },
 {
-"startMs": 4413000,
-"endMs": 4430000,
-"speaker": "Speaker 2",
-"text": "Y eso los doblegó completamente a todos los millones. No, no, mataron a veinte y todos los millones se doblegaron completamente ante Jonathan. Dice. Saúl la ama, ¿Vieron que."
+"startMs": 1866149,
+"endMs": 1879769,
+"text": "Exactamente. Te pusiste, no te pusiste. Ají, ¿no? Por e-- o por- Sí, le das poder, porque le das poder, porque lo sabe legar- Esta es la frase que Hashem nos hizo, que es darle koaj a él Es que él puede, él otorgó la posibilidad de que tú le des koaj a él."
 },
 {
-"startMs": 4430000,
-"endMs": 4433000,
-"speaker": "Speaker 5",
-"text": "Se están muriendo todos? Los de."
+"startMs": 1879809,
+"endMs": 1889821,
+"text": "Sí Pero vamos a hacer algo a Él. O sea, si, si no hay un Yu-- si Hashem no encuentra a nadie en el Olam HaNeshamos, si Hashem no encuentra a nadie en el Olam HaNeshamos, es hilula Hashem."
 },
 {
-"startMs": 4433000,
-"endMs": 4443000,
-"speaker": "Speaker 2",
-"text": "Sí, los chofim de Saúl son los los dice, se están derritiendo de miedo ellos. Tipo, ¿Qué pasó? O sea, Saúl tiene sus sus visores."
+"startMs": 1889821,
+"endMs": 1895961,
+"text": "¿Me explico? Es hilula Hashem. O sea, si vas con cada judío, imagínate: Oye, ¿me das? No. ¿Me das?"
 },
 {
-"startMs": 4443000,
-"endMs": 4444000,
-"speaker": "Speaker 5",
-"text": "Están Muertos corriendo para allá."
+"startMs": 1896001,
+"endMs": 1907681,
+"text": "No. ¿Me das? No. Y todos: no, no, no, no. Es hilula Hashem. ¿Qué quiere decir? Los-- hilula Hashem, todos los malajim se van y dicen que no te puedes revelar en el mundo, no tienes nadie, no tienes nadie que te exprese en el mundo."
 },
 {
-"startMs": 4444000,
-"endMs": 4479000,
-"speaker": "Speaker 2",
-"text": "Se están muriendo todos? Qué está pasando Jonathan? Ya no sabe nada. Quién fue Davis Kedu? Cuentan ¿Y quién falta? Vine en Jonathan no sé que la falta Jonathan mi llamo Saúl a ver trae vamos a escuchar que dice Ashem que allá ah no trae a la arona de Elokin con nosotros que allá arona de Elokin Israel es es literal este punto que el Aaron Elokim es el que hace las guerras ¿Sí?"
+"startMs": 1907701,
+"endMs": 1917741,
+"text": "¿Por quién revelar? Y si sí, es kidush Hashem. Y si sí, es kidush Hashem. Entonces, ¿qué quiere decir? Ese, ese, ese es el Kodam Israel. Entonces, dice, eso es, eso es baavul shmo gadol, eso se llama."
 },
 {
-"startMs": 4479000,
-"endMs": 4496000,
-"speaker": "Speaker 2",
-"text": "Va ahí vinzo a Aarón. El Arona de Elokim es el que hace la guerra. Es el ijud, exactamente. Ve'hi, por eso en el Arona de Elokim, esa \"vai bin su'aron\" ¿Qué letras tiene antes y al final? Dos \"nunin\", \"nuni mafukud\"."
+"startMs": 1918001,
+"endMs": 1924241,
+"text": "Fíjense, la neshamá es chelek elokam imal, chelek elokam imal, somos parte de Hashem, es, es la luz de Hashem expresando en el mundo."
 },
 {
-"startMs": 4496000,
-"endMs": 4534000,
-"speaker": "Speaker 2",
-"text": "En la Parazada de Vai bin su'aron, hay una \"nun\", \"nun\" al principio y una \"nun\" al revés. \"Nun\" al revés es \"lech lech ha\". Lech le ha, nun, nun, y son nunim al revés. Y el Lech le ha, ¿Cuál es la letra antes del Lech le ha? Karan es la nun y ahí hay una nun al revés también es la nun, antes del lech leja hay una nun al revés y es exactamente el punto del lech leja es que el lech, la inmuná es tipo la nun al revés nun al revés."
+"startMs": 1924601,
+"endMs": 1931601,
+"text": "Y también se llama, HaMizrahi se llama Chelek Hashem Amó, es el mismo Chelek. Yaacov. Sí, Yaacov Chelek, chevel najalato."
 },
 {
-"startMs": 4534000,
-"endMs": 4566000,
-"speaker": "Speaker 2",
-"text": "Bahi, ad ver Saúl de la Quen, veamonos, mahanai, plistim, bahi, le jalof paraba, hombre, Saúl de la Quen. Sophia, deja, dice, Saúl, vejolaam, seritoba y abou, Adamilhama, vine, Aita, Herevis, verrehume, uma, dolame ot, laplistim, quet molt si soma, ser alluima, mahanai, sabi, bigamem, liottim, Israel, aserim Saúl, ve Jonathan. Ve colis, Israel, amikhabein. Entonces ahorita que Jonathan ya los despertó a todos, entonces todos los mitjaveim, ¿verdad?"
+"startMs": 1931880,
+"endMs": 1947181,
+"text": "Entonces, Chelek Hashem Amó somos Chelek Hashem. Cada judío es parte de la luz de la expresión de Hashem en el mundo. Dice, y aquí este es nuestro pasuk en la Gemara, y fíjense qué bonito entra, dice: «Gam anojí jalil ani mijatola Hashem y jadol itpalel ba dejem»."
 },
 {
-"startMs": 4566000,
-"endMs": 4591000,
-"speaker": "Speaker 2",
-"text": "De prim, shameuki, nasuplishtim, se le pegaron a todos a la guerra, y Shaul ahora sí fue a la guerra. A qué le suena? A alguien le cabe de duda, la guerra que hicimos en, Kriate Amsuf contra Mitrain, fue el Mishpat o fue el Ijud?"
+"startMs": 1947701,
+"endMs": 1957281,
+"text": "Jas ve shalom, que piensen ustedes que yo no voy a pedir. ¿Cómo voy a dejar de pedir? Sí, tengo una queja tremenda y ustedes ya hicieron el eguel o no sé, así, todo esto."
 },
 {
-"startMs": 4591000,
-"endMs": 4592000,
-"speaker": "Speaker 5",
-"text": "Era cria total."
+"startMs": 1957701,
+"endMs": 1964421,
+"text": "Pero dicen, y ellos decían: «Bueno, Shmuel, por favor, pide por nosotros, nos equivocamos». Dice: «Jalil alí, ¿sí?"
 },
 {
-"startMs": 4592000,
-"endMs": 4628000,
-"speaker": "Speaker 2",
-"text": "Era totalmente el Ijud y con Emuna total. Metete tú, haces. Tú haces Emuna. Y Hashem hace la guerra. Sí, es mamá de Israel, de Amilhama, Abraet, Bethaven. Beishi Israel y Gaz vayao Mau, el Saúl letaam, lemor, Arura, isha serio jaleje, madaer, benikam kim oibae, belotam, Kolam, leche. Les obligó a todos a ayunar. Saúl lo obligó a todos a ayunar y el único que no se enteró fue Jonathan, aquí fue un problema, pero lo tenemos que dejar."
+"startMs": 1964961,
+"endMs": 1972961,
+"text": "Jalil alí mijadol itpalel ba dejem». ¿Por qué va a ser mijatola Hashem? Claro que voy a ser jatola Hashem."
 },
 {
-"startMs": 4628000,
-"endMs": 4661000,
-"speaker": "Speaker 2",
-"text": "La cría también para mañana. Oye Jonathan va a comer. Jonathan ya lleva ayunando mucho tiempo, hizo demasiada cría. Pero no supo, ¿no? No sabía. Sí, pero había. Saúl dijo a Arur, entonces ahí como que Saúl se desconecta, Que pasa que se desconectó Jonathan porque él comió al final. Me quiso nada, les voy a decir una palabra más. Se acuerdan que Saúl bajo al Baalatov porque a trabajar a Shmuel a preguntarle."
+"startMs": 1973021,
+"endMs": 1979380,
+"text": "Porque ustedes son su Shem. Hashem se, se revela, se expresa por medio de ustedes. Entonces, va a ser un jet no pedir por ustedes."
 },
 {
-"startMs": 4661000,
-"endMs": 4667000,
-"speaker": "Speaker 2",
-"text": "Fíjense por qué. Qué problema tenía Saúl? Quién necesitaba preguntar a Ashen?"
+"startMs": 1980081,
+"endMs": 1994380,
+"text": "Fíjense, esa es la misma largá de Amejalajakados. Es la misma largá, ¿entiendes? Que es Amejalakados. Otra vez, eh, regresando a, a Rosh Hashaná, la historia del pobre, la historia del pobre es realmente la historia que pasa cada Rosh Hashaná."
 },
 {
-"startMs": 4667000,
-"endMs": 4679000,
-"speaker": "Speaker 2",
-"text": "Guerra con quién? Con los pelishtim. Entonces quiere decir que hubo una situación donde los pelishtim retomaron, Y quién no le contesta a Saúl?"
+"startMs": 1995061,
+"endMs": 2003461,
+"text": "La historia que pasa en Rosh Hashaná es cuando Hashem en Rosh Hashaná decide cómo Él se va a revelar en el mundo. Él decide cuál va a ser mi revelación todo este año."
 },
 {
-"startMs": 4679000,
-"endMs": 4709540,
-"speaker": "Speaker 2",
-"text": "No, Shmuel está muerto. Los Neviim. Los Neviim. Qué quiere decir? Que Saúl ahí perdió la desconexión con los Neviim. Perdió la desconexión con los Neviim. Retoma a los Chibut de los Chibut de los Chibut. Y entonces necesito bajar a Shmuel. Pero, y ese fue su Tikún que tuvo que pasar ahí la Busha. Para llegar ahora sí, a su Tikún y Maharata, Umihaimi, sí, o sea, Jonathan es ahora."
+"startMs": 2003461,
+"endMs": 2011360,
+"text": "¿Eso dónde está pasando? ¿En qué olam? Atzilut. Atzilut. Y entonces, en Rosh Hashaná, cada uno, ¿sí?"
+},
+{
+"startMs": 2011441,
+"endMs": 2017921,
+"text": "Cada uno que, que se, se-- dice Hashem: «Ineni, aquí estoy»."
+},
+{
+"startMs": 2018221,
+"endMs": 2029121,
+"text": "Y entonces te haces, te haces el... Chelek de cómo le ganó Yesod. El chelek, exactamente. Eh, es perteneces al Olam HaNeshamos, quiero ser parte del Sefer Torá, vas a crear de tu revelación en el mundo."
+},
+{
+"startMs": 2029501,
+"endMs": 2037581,
+"text": "Y entonces, mi mele, eso es lo-- o sea, todo lo que pasa en esa historita chiquita con el pobre, realmente es Hashem, cada Rosh Hashaná decide cómo se va a revelar en el mundo."
+},
+{
+"startMs": 2037961,
+"endMs": 2045521,
+"text": "Toda la Torá, todo, toda la Torá que se va, todo el kidush Hashem, todas las cosas. Y entonces recluta a todos los, todos los que quieren ser protagonistas."
+},
+{
+"startMs": 2046021,
+"endMs": 2056321,
+"text": "Y entonces, es Amelej Hakados. Y es lo mismo lo que lleva a la siguiente membrana. Dice: «Si tú puedes pedir tefilá por el otro y no pides, es porque ya estás viviendo en el Olam del Mishpat»."
+},
+{
+"startMs": 2056581,
+"endMs": 2063520,
+"text": "¿Me explico? «Ah, pues él se merece un castigo». No, no, pero castigarlo a él es castigarlo a Hashem, si lo ves desde el, desde la perspectiva del Ijud."
+},
+{
+"startMs": 2063520,
+"endMs": 2071301,
+"text": "¿Sí me estoy explicando? Entonces, te llamas lejartola Hashem si no pides por el otro que necesita rajamím, aun siendo que, que, que hizo averot."
+},
+{
+"startMs": 2071940,
+"endMs": 2078781,
+"text": "Porque si hizo averot, está bien, ¿y qué va a pasar con Hashem? Tipo, ok, está bien. ¿Qué va a pasar con él? Ya entendí. ¿Lo que va a pasar con Hashem?"
+},
+{
+"startMs": 2079141,
+"endMs": 2086061,
+"text": "Y ese es el chelek del Jesed de Hashem que nos hizo. Ese es, ese es el Jesed de Hashem que nos hizo. Una persona que mitpalel de-- mitsat zmot."
+},
+{
+"startMs": 2086561,
+"endMs": 2095161,
+"text": "Eso. Tu sí mismo también es una finadijudainu. Si yo recibo el castigo, recibo el matzán, es una ashlemá, es una-- Es un gizaron."
+},
+{
+"startMs": 2095360,
+"endMs": 2105041,
+"text": "Hashem quiere que titpalén. Para que ya, ya le aquí el Tikkun de, de... Sí, sí, sí, sí. Tienes el, las hojas del, del Mamár del Bitajón, del Omjal."
+},
+{
+"startMs": 2105081,
+"endMs": 2112020,
+"text": "Por eso para Shmuel- ¿Era de Kivuaj? El Kibui, Kibui. Mamár Kibui. Para Shmuel es una locura que cómo no voy a rezar. Claro que voy a rezar por mi hijo."
+},
+{
+"startMs": 2112461,
+"endMs": 2121181,
+"text": "Yo, yo peco, yo estoy haciendo mal, yo vengo a eso. Claro, claro. Si yo no pido por ustedes, entonces, otra vez, toda la historia de Saúl la perdimos, ¿me explico?"
+},
+{
+"startMs": 2121221,
+"endMs": 2128481,
+"text": "Hasta yo perdí en la historia de Saúl. Dice Shmuel. Me río porque ya está... No, no. Sí, sí, nomás voy a leer una hoja. Pero es que por, por interés, ¿no?"
+},
+{
+"startMs": 2130261,
+"endMs": 2137720,
+"text": "Nosotros hablamos de Shónar, hacemos cosas distintas. ¿O quieres abrir lo que nosotros...? Ábrelo, ábrelo, ábrelo. Fíjense estas palabras, ahorita lo que dijiste de la tefilá, ábrelo."
+},
+{
+"startMs": 2140261,
+"endMs": 2140900,
+"text": "A ver si hay."
+},
+{
+"startMs": 2150121,
+"endMs": 2156221,
+"text": "No, no lo encuentro, no, o sea, ya. El Mamár Kibui de Ramjal. No, sí, no, no sé cómo encontrarlo."
+},
+{
+"startMs": 2156281,
+"endMs": 2164181,
+"text": "Estaba dentro de uno de todos los libros de Ramjal, no sé si era otro Ramjal, si era Sharé Ramhal, si era Ginzé Ramhal. ¿Sharé Ramhal?"
+},
+{
+"startMs": 2164261,
+"endMs": 2165301,
+"text": "Sí, en Sharé Ramhal era."
+},
+{
+"startMs": 2167060,
+"endMs": 2174721,
+"text": "Pero encuéntralo, squat, el... No, en Sharé. El Mamár, ¿qué? Kibui. Si buscas Mamár Kibui no hay uno."
+},
+{
+"startMs": 2175221,
+"endMs": 2179321,
+"text": "Kibui, de, de Kabot. Seguramente va a estar abierto, ¿eh? Si está..."
+},
+{
+"startMs": 2180761,
+"endMs": 2191560,
+"text": "No, eh, ya lo hemos abierto en otras páginas. ¿Qué son las hojitas?"
+},
+{
+"startMs": 2191581,
+"endMs": 2192201,
+"text": "¿El primer Yeshuv?"
+},
+{
+"startMs": 2193881,
+"endMs": 2198161,
+"text": "No lo encuentro, no importa. Entonces, el punto es ahí que, que..."
+},
+{
+"startMs": 2200661,
+"endMs": 2209981,
+"text": "Dice, dice que Hashem quiere cuando nosotros mitpalelim por nosotros, dice el Ramhal, que, que en verdad también estás, hasta mitpalel también por Hashem."
+},
+{
+"startMs": 2210520,
+"endMs": 2217661,
+"text": "Porque eso se llama Imó Anojí Betzará, dice, dice aquí el Ramhal, dice... Qué talmid, ¿eh? Y con las hojas en la bolsa."
+},
+{
+"startMs": 2218020,
+"endMs": 2225601,
+"text": "Esa hoja es- Sfarím Bayad. Esa hoja es oro puro. Le llama así el pasuk, dice algo atzún: «Lishuatejá kiviti Hashem»."
+},
+{
+"startMs": 2226201,
+"endMs": 2234181,
+"text": "A tu salvación tuve esperanza, Hashem. Dice el Ramhal: «Lishuatejá». Piensas que es a la salvación que tú me vas a dar a mí."
+},
+{
+"startMs": 2234661,
+"endMs": 2245681,
+"text": "Pero lishuatejá es a tu salvación, kiviti Hashem. Kibiajol, eso es lo que dice el Ramhal, dice: «Tienes que entender, Imó Anojí Betzará, si tú estás en un problema, entonces Kibiajol Hashem también está en un problema»."
+},
+{
+"startMs": 2246901,
+"endMs": 2256681,
+"text": "Sí, tipo, si, si alguien tiene un gizaron refuá, entonces no puede salir al mundo, no puede estar-- no, pero no nada más. Dejaste de ser poder kli, ser un kli bueno para poderle dar al otro Shem Hashem."
+},
+{
+"startMs": 2257301,
+"endMs": 2260401,
+"text": "Entonces, dice... Sí, está abriendo."
+},
+{
+"startMs": 2261741,
+"endMs": 2262661,
+"text": "No, no te doy mi..."
+},
+{
+"startMs": 2268221,
+"endMs": 2274421,
+"text": "Yo le quitó la codesh. Siempre hay que recabót. Aquí, aquí. Cinco para seis."
+},
+{
+"startMs": 2275781,
+"endMs": 2282959,
+"text": "Dice: «Bismán shatsadikim betzará neemar Imó Anojí Betzá». Tará. Hashem está en la tará de ellos, juntos."
+},
+{
+"startMs": 2283558,
+"endMs": 2291399,
+"text": "Dice: «Ki v'yakhol u've'joj hatikvá yotzé min hatzará». Por medio de tu emuná y la tikvá en Hashem, sales de la tzará."
+},
+{
+"startMs": 2291678,
+"endMs": 2298479,
+"text": "«Ve ki v'yakhol Hashem yotzé imó». Hashem sale con él, como se nombró en Mitzráim: «Yatsú kol tzibot Hashem»."
+},
+{
+"startMs": 2298578,
+"endMs": 2304879,
+"text": "¿Se acuerdan de la palabra Tzewa'ot? ¿Sí? Janá. Janá. Entonces, salieron todos los-- el ejército de Hashem, dice."
+},
+{
+"startMs": 2304879,
+"endMs": 2316618,
+"text": "«Im Hashem ve ze l'yeshuatejá, l'yeshuatejá mamash, yeshuat Hashem she'hayá imó betzará, ki viditi Hashem l'yeshuatejá, atu yeshuá mamash»."
+},
+{
+"startMs": 2317439,
+"endMs": 2327999,
+"text": "Es alope leb laim, es de Ramjal. Entonces, entonces, ese, ese es el sod del, de la nagada de ihud, que eso es lo que Sha-Shmuel está queriendo revelar acá."
+},
+{
+"startMs": 2328558,
+"endMs": 2329118,
+"text": "Dice..."
+},
+{
+"startMs": 2332319,
+"endMs": 2338359,
+"text": "Claro, en Tzewa'ot dijimos que no eran, eran giluim de Él. No hay nada, en verdad, de la gente de abajo, nada más son los giluim de Él."
+},
+{
+"startMs": 2338558,
+"endMs": 2347339,
+"text": "Es, es, es-- por medio como él, dice: «Ajirú et Hashem veabatém otó be'émet bejol levavjem, ki reú et asher higdil imajem»."
+},
+{
+"startMs": 2347419,
+"endMs": 2354578,
+"text": "Vean la grandeza que te dio Hashem. O sea, eso es lo que está diciendo. Vean la grandeza de, de que te dio Hashem, que eres jelek Hashem amo."
+},
+{
+"startMs": 2354959,
+"endMs": 2363979,
+"text": "«Mi marea tariu gam atem, gam melkejem tisafu». Pero si van a hacer hataím, entonces van a perder su reinado."
+},
+{
+"startMs": 2364359,
+"endMs": 2373919,
+"text": "Dice: «Ven shaná Shaúl bemolkó, ushtéi shanim malaj el Israel». Llevaba un año reinando o más que eso, dice Rashi: «Ven shaná», era como un niño de un año."
+},
+{
+"startMs": 2374138,
+"endMs": 2388319,
+"text": "¿Un niño de un año tiene algún jet? No. ¿Por qué no dice un niño de dos años? Porque un niño de dos años, a fin de cuentas, no es, no tiene conciencia, no tiene isurím para hacer un jet, pero ya a veces ya le grita a la mamá y ya le pone así."
+},
+{
+"startMs": 2388678,
+"endMs": 2400779,
+"text": "Un niño de un año, nada. Ya cree que puede vivir solo, ya está yokev. Eh, es. Un poco más. Shaúl está ben shaná, dice que era como un bebé de un año, que ben shaná, «shelo ta'am ta'am jet», que ni siquiera ha probado el ta'am de jet."
+},
+{
+"startMs": 2400779,
+"endMs": 2413379,
+"text": "«Ushtéi shanim malaj el Israel», dice, «ve yivjarló Shaúl shloset alafig mi Israel, agarot resmil le Israel. Ve'iu im Shaúl alpaim ve mijmá esr u've'ar ve tehel ve'elef iaiu im Yonatán begivat Binyamín, ve'éter ha'am shilaj Hashem lo alav»."
+},
+{
+"startMs": 2413919,
+"endMs": 2421919,
+"text": "Era como su ejército de Shaúl. «Ve'ayak Yonatán...». Entonces, «ve'ayak Yonatán, Yonatán et netsiv Pelistím»."
+},
+{
+"startMs": 2421939,
+"endMs": 2430019,
+"text": "¿Sí? O sea, Shmuel está diciendo al Israel: «Ustedes ityatzevú». Van a tener rey, entonces el yetzivut lo van a tener ustedes."
+},
+{
+"startMs": 2430399,
+"endMs": 2439278,
+"text": "Si nosotros tenemos el yetzivut, ¿qué le va a pasar al najash, qué le va a pasar a los Pelistím? Entonces, Yonatán ataca al netsiv Pelistím, que es Rebegeva."
+},
+{
+"startMs": 2439499,
+"endMs": 2452198,
+"text": "«Ve'ishmeú Pelistím». Entonces, netsiv Pelistím era como que los Pelistím que mandaron los Pelistím, me-- el grupo que mandaron los Pelistím para tener control sobre los yehudím."
+},
+{
+"startMs": 2452718,
+"endMs": 2459118,
+"text": "Entonces, Sh-- Yonatán atacó a netsiv Pelistím y esos le quitan la shlitá de ellos a nosotros."
+},
+{
+"startMs": 2459618,
+"endMs": 2468578,
+"text": "Y entonces, los Pelistím escuchan que los yehudím ahorita atacaron a netsiv Pelistím. Ahora, piénsenlo cómo pasa en el, en este Olam y en el, en el Olam ha'elyon."
+},
+{
+"startMs": 2468859,
+"endMs": 2475939,
+"text": "En este Olam, Yonatán ataca a netsiv Pelistím. Ahora, los Pelistím, eso, automáticamente, hacen un kitrug arriba."
+},
+{
+"startMs": 2476138,
+"endMs": 2483999,
+"text": "Espérate. Ah, ellos niskafím. ¿Me estás quitando mi zekifá? ¿Quiere decir que el najash ya no tiene zekifá?"
+},
+{
+"startMs": 2484859,
+"endMs": 2491078,
+"text": "Vamos a ver si sí o si no, ¿me explico? Esta es la, la-- tod-todas las cosas que pasan aquí abajo, realmente, y así es estudiar Tanaj."
+},
+{
+"startMs": 2491098,
+"endMs": 2499238,
+"text": "Vamos a ver si sí es verdad. Sí, vamos a ver si sí. Que está en el Kria. O sea, no existe, exactamente, no existe que me quitaste mi netsiv Pelistím sin que tú tengas un netsiv."
+},
+{
+"startMs": 2499299,
+"endMs": 2505799,
+"text": "Y la única manera como tú tienes netsiv es por medio de la Kria, que es, es escuchar todo el discurso de Shmuel."
+},
+{
+"startMs": 2506399,
+"endMs": 2515278,
+"text": "Todo el discurso de Shmuel es la Kria. Anagata y ihud, Kria. Es HaMelej Hakadosh. ¿Sí? Anagata mispat, es, o-ora, ya tenemos rey, ya tenemos suftim, ya tenemos..."
+},
+{
+"startMs": 2515299,
+"endMs": 2523419,
+"text": "El discurso de Shmuel es para que lo hiciera Shaúl. Mmm, claro. Y entonces, ahorita- Todavía no pasó. Entonces, ahorita va-- Ves-- Shaúl es un reflejo de, Shaúl es un reflejo del pueblo, ¿no?"
+},
+{
+"startMs": 2524019,
+"endMs": 2530618,
+"text": "Sí, es un reflejo de donde estamos. ¿Quieres decir, así se estudia Tanaj? Sí, así es el, el Tanaj siempre es así."
+},
+{
+"startMs": 2530939,
+"endMs": 2537759,
+"text": "No es una historia, sino es una historia que está pasando arriba. Y abajo, nada más es cómo se va, y así es pasut, quilú."
+},
+{
+"startMs": 2538218,
+"endMs": 2544359,
+"text": "Todo, ¿no? Sí, verdad que todo, pero el Tanaj así, así lejargina. No son historias, no es, no es la historia del pueblo."
+},
+{
+"startMs": 2544399,
+"endMs": 2550519,
+"text": "Como la de Miriam. Tipo, es-- la historia del pueblo es una historia espiritual, ¿me explico? Es, o sea, esa es la historia del pueblo."
+},
+{
+"startMs": 2551058,
+"endMs": 2553238,
+"text": "Dice: «Ve'ayak Yonatán et netsiv Pelistím asher beGueva,"
+},
+{
+"startMs": 2554439,
+"endMs": 2561658,
+"text": "ve'ishmeú Pelistím. Ve Shaúl taká beshofar bejol ha'aretz lemor: Ishmeú ha'ivrím». Shaúl justamente toca el shofar."
+},
+{
+"startMs": 2562038,
+"endMs": 2568638,
+"text": "Otra vez. Es justamente lo que se necesita contra el kitrug, es, es, es tocar el shofar. Que eran muchos torím."
+},
+{
+"startMs": 2569118,
+"endMs": 2578098,
+"text": "Sí. Dice: «Kol Israel shamú lemor: Hika Shaúl et netsiv shel Pelistím, ve'gam nivá sh Israel baPelistím». Shaúl atacó a los Pelistím y ahorita nuestro,"
+},
+{
+"startMs": 2579538,
+"endMs": 2586198,
+"text": "eh, los Pelistím ya nos odian. Ahora, otra vez, ¿eso te mete miedo o no te mete miedo? Depende. Si te mete miedo... Es que no estás."
+},
+{
+"startMs": 2586259,
+"endMs": 2593759,
+"text": "Es que no estás. Entonces, Am Israel tienen miedo. «Vegam nivá sh Israel baPelistím, veitsakú ha'am ajré Shaúl baGuilgal»."
+},
+{
+"startMs": 2595038,
+"endMs": 2602859,
+"text": "Dice... Es una falta otra vez de que ni comanditara Shaúl. Y entonces, todo el pueblo ahorita se le echa encima a Shaúl."
+},
+{
+"startMs": 2602919,
+"endMs": 2610238,
+"text": "Shaúl tiene miedo. Y entonces, Shaúl ahorita tiene toda la presión del pueblo al lado. Shaúl, tú atacaste a los Pelistím, ¿qué vamos a hacer?"
+},
+{
+"startMs": 2610339,
+"endMs": 2617598,
+"text": "¿Qué vamos a hacer? ¿Qué vamos a hacer? ¿Sí? Y Shaúl, eh, tiene a todo el pueblo encima. ¿Qué hora es? Cincuenta y dos."
+},
+{
+"startMs": 2618578,
+"endMs": 2625019,
+"text": "Dice: «UPelistím né esefú». Imagínense la imagen. «UPelistím né esefú». Otra vez, si estás en anagata ihud,"
+},
+{
+"startMs": 2626578,
+"endMs": 2633038,
+"text": "se está peleando contra Hashem, ¿me explico? Importa cuál, cuál-- importa si somos dos personas y no tenemos argumento, no importa, ¿verdad?"
+},
+{
+"startMs": 2633618,
+"endMs": 2640439,
+"text": "Entonces, contra Hashem, se están pe-- literal, si lo ves así, se está peleando contra Hashem. Si estoy en el mispat..."
+},
+{
+"startMs": 2641102,
+"endMs": 2654343,
+"text": "Soy yo. Y depende, soy Tsadik, soy Tsadik. Esa es la fuerza también, que el que vive en el ijú, también no, no depende tu bitajón en Hashem, no depende de cuántas mitzvot, sí, de cuántas mitzvot hiciste, sí."
+},
+{
+"startMs": 2655022,
+"endMs": 2663203,
+"text": "Eh, en verdad, tú tienes que tener esa emuná de todo. Lo habla el Ramjal ahí, dice, dice: «Cuando Am Israel entran en este canal, mi yan digalim, llégale»."
+},
+{
+"startMs": 2663263,
+"endMs": 2669343,
+"text": "Eres él. Sí. Al revés, si te pones a hacer cuentas, vas para, vas para atrás. Sí, sí, sí."
+},
+{
+"startMs": 2669662,
+"endMs": 2683343,
+"text": "Si bajas al mispat, si es todo lo que vimos en Rosa, si bajas al mispat, entonces, enton-- tienes que entender que todo el mispat es tu oportunidad para que tú sientas y puedas entender qué tanto puedes pertenecer al ijú."
+},
+{
+"startMs": 2683743,
+"endMs": 2696763,
+"text": "Pero la historia real está pasando en el- Yom HaKasha y Yom HaRafa. Sí, sí, Yom HaKasha y Yom HaRafa. Sharé ahí. Bueno, seguimos después de Mijá."
+},
+{
+"startMs": 2696763,
+"endMs": 2702343,
+"text": "¿Puedes no frenarlo, Behem? O sea, pausar la grabación. A"
+},
+{
+"startMs": 2704502,
+"endMs": 2705343,
+"text": "ver, jajam, jajam."
+},
+{
+"startMs": 2707903,
+"endMs": 2712122,
+"text": "No hay en el live. Se une, se une. Ponle pausa. Dame un segundo. Ah, ahí está, ahí está."
+},
+{
+"startMs": 2715683,
+"endMs": 2720462,
+"text": "Vamos. Entonces, dice... ¿Tienen o no?"
+},
+{
+"startMs": 2722082,
+"endMs": 2729183,
+"text": "Pereg Yud Guimel pasuk Jete estamos. Dice: «Uplishtim nesapu lehilajim im Israel». Escuchen esto a-- algo loco."
+},
+{
+"startMs": 2729522,
+"endMs": 2746002,
+"text": "Dice: «Shloshim elef rejev», treinta mil en carrozas, «ve sheshet alafim parashim», seis mil en ca-- en caballos, «ve am», y gente así de pueblo, «kajol asher al tzfat hayam larov»."
+},
+{
+"startMs": 2747703,
+"endMs": 2754263,
+"text": "Como, como arena del mar. «Va'yaalu ve'ajanuvu mijmas kitmá bet aven»."
+},
+{
+"startMs": 2756022,
+"endMs": 2764383,
+"text": "Entonces... Estamos temblando. Obvio, venía todo, venía la carta de los Unidos a- Entonces, Jonatán atacó el netsib de los Plishtim."
+},
+{
+"startMs": 2764942,
+"endMs": 2771323,
+"text": "Luego vamos a entender por qué Jonatán, ¿sí? Pero Jonatán ataca al netsib de los Plishtim, ¿y quién se despierta?"
+},
+{
+"startMs": 2771383,
+"endMs": 2777723,
+"text": "Los Plishtim. Ahora, acá es, vean qué profundo. ¿Qué es el netsib de los Plishtim?"
+},
+{
+"startMs": 2777723,
+"endMs": 2783823,
+"text": "¿Qué quiere decir? Después de que Shmuel les dijo: «Itiyatzu». Entonces, ¿quién tiene el yetzib? Nosotros."
+},
+{
+"startMs": 2784203,
+"endMs": 2790643,
+"text": "Entonces, ¿quién pierde su yetzibut? Los Plishtim. Entonces, ¿quién se despierta por eso? Vámonos."
+},
+{
+"startMs": 2790982,
+"endMs": 2801643,
+"text": "Todos los Plishtim. Ahora, ¿cuántos Plishtim vienen? Millones. Con ejército, con armamentos, con todo, vienen millones de Plishtim contra Am Israel."
+},
+{
+"startMs": 2802183,
+"endMs": 2802403,
+"text": "Ahora,"
+},
+{
+"startMs": 2803783,
+"endMs": 2809843,
+"text": "esto es justamente lo que se necesita, es exactamente lo que se necesita. Para hacer la cará que necesita ser."
+},
+{
+"startMs": 2810243,
+"endMs": 2817223,
+"text": "Exactamente, para llegar a esa cará de que Hashem es el mélej, no Saúl. Tipo, antes con Ajá, Saúl pudo, vamos a llamarla así."
+},
+{
+"startMs": 2818022,
+"endMs": 2828942,
+"text": "Eso a lo mejor podías con el ana-- con la anagata mispat, de alguna manera, con tu tzitzit puedes. Pero acá no hay, es, es un, es un nivel que vienen millones."
+},
+{
+"startMs": 2829263,
+"endMs": 2836223,
+"text": "Y entonces, acá va a ser la prueba si la desesperación nos gana o no nos gana. Ahora, entonces, ¿quién atacó el yetzib?"
+},
+{
+"startMs": 2837082,
+"endMs": 2843562,
+"text": "Jonatán. Eso vamos a-- eso déjalo como un pendiente, porque es importante. ¿Por qué tiene que ser Jonatán? ¿Por qué tiene que ser Jonatán? ¿Qué tenía de especial Jonatán?"
+},
+{
+"startMs": 2843622,
+"endMs": 2845403,
+"text": "Dice: «Vi Shishrael Rahu»."
+},
+{
+"startMs": 2847363,
+"endMs": 2848122,
+"text": "Quitarlo."
+},
+{
+"startMs": 2851482,
+"endMs": 2853303,
+"text": "Seis. Seis, va."
+},
+{
+"startMs": 2855143,
+"endMs": 2856702,
+"text": "Y los yehudim vieron"
+},
+{
+"startMs": 2858763,
+"endMs": 2866042,
+"text": "que Saúl está en una tzará. Ki nigash ha'am, que todo el pueblo está presionando a Saúl: «Saúl, ¿qué hacemos?"
+},
+{
+"startMs": 2866082,
+"endMs": 2877843,
+"text": "Saúl, ¿qué hacemos? Saúl, ¿qué hacemos?». Y entonces, vean qué palabra se usa. «Vitjabeú ha'am bemearot vejavajím ubaslaím ubatrajím uvaborot»."
+},
+{
+"startMs": 2878202,
+"endMs": 2884622,
+"text": "Se esconde el pueblo. O sea, ¿qué quiere decir? Es el tikún de Saúl. No. Ah, ¿siguen igual? Espejo."
+},
+{
+"startMs": 2884763,
+"endMs": 2891683,
+"text": "Es acá un espejo al itjabeú de Saúl, Saúl. Entonces, acá, vean cómo el pasuk te está... No, al revés."
+},
+{
+"startMs": 2891702,
+"endMs": 2893403,
+"text": "¿Por qué se esconden los Plishtim? Mira."
+},
+{
+"startMs": 2894723,
+"endMs": 2903863,
+"text": "No, y al revés, mira. Cuando vieron que Saúl está en un tzár, entonces ellos, o sea, ¿quieres decir, si Saúl no hubiera entrado en matad de tzár, entonces le hubiera dado fuerza a ellos."
+},
+{
+"startMs": 2904143,
+"endMs": 2911363,
+"text": "Entonces, ellos ahorita se están escondiendo. De alguna manera, esto como que la Torá... Ki Shishrael Rahu, Quicharró."
+},
+{
+"startMs": 2911403,
+"endMs": 2917883,
+"text": "Quicharró. Vieron que Saúl está con miedo. Entonces, todos entraron en un estado de miedo. Y justamente, ¿qué palabra se usa?"
+},
+{
+"startMs": 2918863,
+"endMs": 2922082,
+"text": "Esconderse. Es itjabeú, es la misma palabra que se usó en Saúl."
+},
+{
+"startMs": 2923442,
+"endMs": 2932263,
+"text": "Entonces, quiere decir que en Saúl es algo dak sheba, dak sheba, dak sheba, dak. Pero al final, es-- si no tienes eso, no existe ganar esta guerra."
+},
+{
+"startMs": 2932263,
+"endMs": 2941143,
+"text": "¿Me explico? Saúl no hizo ni una verá. Es, es algo muy profundo. Saúl no hizo ni una-- no hi-- no hi-- en el mispat no hizo ni una verá."
+},
+{
+"startMs": 2941823,
+"endMs": 2948403,
+"text": "Saúl, su jizarón fue que no hizo yeja al ijú. David HaMelej era alguien que vivía nada más en el ijú."
+},
+{
+"startMs": 2949002,
+"endMs": 2955723,
+"text": "Al revés, en el mispat tenía problemas. Por eso Saúl no entendía cómo puede ser que David sea rey."
+},
+{
+"startMs": 2957223,
+"endMs": 2963363,
+"text": "Porque David no es buen representante en el mispat, pero David vivía en un bitul total."
+},
+{
+"startMs": 2964082,
+"endMs": 2972662,
+"text": "David es: «Hashem eres tú». Lo contrario. Y si yo fallo, no sé, ayúdame, ¿qué hago? ¿Sí? Es el, es el sod del, del, del, del Hitbodedut de Ramah, Juan."
+},
+{
+"startMs": 2973122,
+"endMs": 2982162,
+"text": "Si el sod del Hitbodedut es, es esta nekudá, que una persona como que le echa sus problemas a Hashem. Y entonces, ahí es cuando tocas la nekudá del ijú."
+},
+{
+"startMs": 2982783,
+"endMs": 2988923,
+"text": "Tus problemas son tus mismas, eh, eh, que no estás logrando litgaber sobre tus averot."
+},
+{
+"startMs": 2989303,
+"endMs": 2996743,
+"text": "Vienes y le dices a Hashem: «¿Por qué me pones estos...?» Empiezas a hablar con Hashem y le dices a Hashem: «Me pones estos ni sí o no, está muy difícil, ¿cómo quieres que yo me pare temprano?"
+},
+{
+"startMs": 2996783,
+"endMs": 3008863,
+"text": "¿Cómo quieres que yo haga esto? ¿Cómo quieres que haga lo otro?» Entonces, estás con amtel haot. En las amtel haot vienen para-- es, es tipo Ante la otra es con quejas, tipo que llegas con que-- con quejas, pero ¿cómo que qué te quejas?"
+},
+{
+"startMs": 3009442,
+"endMs": 3015763,
+"text": "Pero el punto es de que si, si vives en el ijud, es que tipo, tipo ¿qué quieres de mí? O sea, ¿qué quieres decir?"
+},
+{
+"startMs": 3015863,
+"endMs": 3023962,
+"text": "Yo-- ¿cuánto yo puedo s-- hacer con mi ishatlut el mejor keli para que tú puedas expresarte ahí? Entonces, hazlo, Hashem tú hazlo, Hashem tú hazlo."
+},
+{
+"startMs": 3023982,
+"endMs": 3030723,
+"text": "¿Yo qué quieres? Y, y uno puede tener un problema para nada. Sí, sí, yo sé que es por mis averot, yo sé que, que es porque fallo, pero ¿qué hago?"
+},
+{
+"startMs": 3030803,
+"endMs": 3041643,
+"text": "¿Qué hago, Hashem? Ayúdame, a ver, t-tipo, tipo le echas t-tu problema, eso se llama itiaj. Eh, fíjense algo muy profundo, la-- ese la Gemara lo dice, eso se llama que Janá itijat barín klapeimala."
+},
+{
+"startMs": 3042263,
+"endMs": 3053423,
+"text": "Janá llegó con quejas con Hashem y por eso tuvo a Shmuel, ¿sí? Entonces, ¿qué es eso la itiaj barín klapeimala? Es como que ese es el, la samtelot que dice el, el, eh, eh, eh, Rabaján en el Yitvodut."
+},
+{
+"startMs": 3053743,
+"endMs": 3062502,
+"text": "Es como que dijo, dijo Janá: \"No entendí, ¿qué quieres? Tipo, Hashem, ¿qué quieres?\" Dice: \"Está en tus manos que yo tenga hijos, yo no puedo hacer nada."
+},
+{
+"startMs": 3062542,
+"endMs": 3069823,
+"text": "Y, y si tengo, y e-eso es por mis averot, y si es por... ¿Qué quieres que haga? ¿Qué quieres? Al final tú lo puedes, tú lo puedes hacer\"."
+},
+{
+"startMs": 3069863,
+"endMs": 3074202,
+"text": "Y así vino Shmuel al mundo, con esas, con ese... Entonces,"
+},
+{
+"startMs": 3075662,
+"endMs": 3088903,
+"text": "entonces esta dargá, que David HaMelej se necesitan los dos kojot, porque al final el ijud es para, es como tú te haces clip para que Hashem se revele, y el mishpat es la manera en cómo Hashem se revela."
+},
+{
+"startMs": 3089243,
+"endMs": 3098982,
+"text": "¿Me explico? Si, si no te ves como Saúl, si no te ves como Saúl, entonces también no eres buen clip para, para que Hashem se revele."
+},
+{
+"startMs": 3099022,
+"endMs": 3109482,
+"text": "Pero Saúl, por, por más que sea Saúl, eso no sirve de nada, porque eso Saúl no, por más que Saúl es Saúl, contra los prishím no puede, tiene que ser Hashem."
+},
+{
+"startMs": 3110102,
+"endMs": 3118743,
+"text": "Entonces, necesitas tipo a un David, que ese es el koaj de David, que aun siendo que él falla en el mishpat, ¿me explico?"
+},
+{
+"startMs": 3119423,
+"endMs": 3131202,
+"text": "Pero s-se lo avienta a Hashem. Dice: \"Yo no soy nada, yo no soy nadie, eres, eres tú\". Y luego necesitas un Saúl para que por medio de Sa-- Entonces, Saúl ahorita su trabajo es re-- literal encontrar a David."
+},
+{
+"startMs": 3131522,
+"endMs": 3138442,
+"text": "Por eso dice la Gemara que David, David- Por eso fue Jonathan. Oh, vamos a ver, vamos a ver eso. Entonces, David"
+},
+{
+"startMs": 3139962,
+"endMs": 3149263,
+"text": "dijo algo, David siempre se anuló completamente a Saúl. Siempre decía que Saúl es el tzadik, es el tzadik S-Saúl, porque de momento Saúl no hizo ni una vara."
+},
+{
+"startMs": 3149542,
+"endMs": 3158662,
+"text": "Fue una vez un comentario que dijooo, que dijooo, que dijo David y, y sobre Saúl y Hashem lo regañó durísimo."
+},
+{
+"startMs": 3159263,
+"endMs": 3160962,
+"text": "Dice: \"David, -dice-"
+},
+{
+"startMs": 3162462,
+"endMs": 3169702,
+"text": "tú llevas dos\". Él lleva uno. \"Tú llevas dos y te las pasé. Saúl con una no se la perdoné\"."
+},
+{
+"startMs": 3170562,
+"endMs": 3180522,
+"text": "Entonces, ¿cuál es el son? Y por-- entonces, ¿por qué C-- Saúl con una sí y David con dos no? Porque David está en el mundo donde las averot no pintan ahí, ¿me explico?"
+},
+{
+"startMs": 3180662,
+"endMs": 3188283,
+"text": "Mientras-- la única averá que puede hacer David es bajarse del ijud, ¿me explico? Es de, es sentir de que como hizo una averá, entonces ya no pertenezco."
+},
+{
+"startMs": 3188562,
+"endMs": 3194763,
+"text": "David HaMelej dice: \"Hashem, yo no sé, pero yo soy parte. Y fallo, no sé, pero yo soy parte. No sé, eres tú."
+},
+{
+"startMs": 3194903,
+"endMs": 3200482,
+"text": "¿Qué quieres? ¿Qué quieres que, que quieres? Tipo, el que va a perder eres tú\". Tipo, ¿me explico? O sea, es, es, es..."
+},
+{
+"startMs": 3202662,
+"endMs": 3209982,
+"text": "Entonces, y, y ora-- y el punto es que tiene ijud y al final se necesita revelar el mishpat. Ora Saúl, que no tiene el ijud, o sea, ¿qué quiere decir?"
+},
+{
+"startMs": 3210022,
+"endMs": 3221202,
+"text": "Que necesita la fuerza de David, el ijud. No se la pasa. Entonces, con una averá fallaste, fallaste. Entonces, el trabajo de Saúl es subirse al mishpat, subirse al ijud, subirse al ijud."
+},
+{
+"startMs": 3221562,
+"endMs": 3229823,
+"text": "Manita mínima. ¿Eh? David dice manita- Manita mínima. Sí, David HaMelej dice: \"Manita mínima\". Ah, pero, pero a veces tienes tus caídas."
+},
+{
+"startMs": 3230102,
+"endMs": 3234982,
+"text": "No sé, anita mínima, anita mínima. Ese, ese es David HaMelej. Dice,"
+},
+{
+"startMs": 3236622,
+"endMs": 3244303,
+"text": "dice: \"Vivrí mavrueta iardén etsgat vequilad, veSaúl odenu vagilgal, vejol ha'am jaredú ajarab\", y todos presionando a Saúl."
+},
+{
+"startMs": 3244823,
+"endMs": 3250823,
+"text": "Vean esta palabra. \"Vaiiajel vaiojel\". ¿Sí? Jet lamen."
+},
+{
+"startMs": 3252202,
+"endMs": 3263482,
+"text": "En la jet lamen dice: \"Shivat yamim\", siete días está S-Saúl esperando a Shmuel, \"le'moed a Shmuel, ve'lo ba Shmuel hagilgal\"."
+},
+{
+"startMs": 3264122,
+"endMs": 3271482,
+"text": "Saúl está ahí, necesito hacer un korbán ahorita y después del korbán vamos a salir a la guerra, Shmuel no llega."
+},
+{
+"startMs": 3272082,
+"endMs": 3281462,
+"text": "Y de mientras hay un ejército completo acá, un ejército completo, completo, completo, durísimo, y Saúl con una presión de todo Am Israel."
+},
+{
+"startMs": 3281683,
+"endMs": 3288643,
+"text": "Saúl, haz algo, Saúl, haz algo, Saúl, haz algo. ¿Y Saúl qué tiene que pensar? Ahora métanse al ijud, ¿qué Saúl tiene que pensar?"
+},
+{
+"startMs": 3289562,
+"endMs": 3296062,
+"text": "Yo tengo que hacer algo. O sea, yo, yo, tipo yo, yo tengo que hacer algo. Dice: \"Saúl me-- Shmuel me dijo: 'Espera'\"."
+},
+{
+"startMs": 3296843,
+"endMs": 3306582,
+"text": "Y entonces acá la palabra que se usa para Saúl es, está... Vaiiajel. Vaiiajel, fíjense, el vaiiajel, dijimos, ¿se acuerdan que tenía dos aspectos el vaiiajel?"
+},
+{
+"startMs": 3307143,
+"endMs": 3318502,
+"text": "Sí. Majalá, que es la kniah, y arriba era, eh, era, eh, jolé y jalila li, jalila li mijato la'Hashem."
+},
+{
+"startMs": 3319183,
+"endMs": 3328542,
+"text": "Y lo limjo-- mojalim lo al kol ha'avonotav, mojalim lo al kol ha'avonota. Entonces, dijimos que la jet lamen, era como lej leja, tenía betsem los dos aspectos."
+},
+{
+"startMs": 3328622,
+"endMs": 3336823,
+"text": "Acá el vaiiajel tiene vaiiajel, ¿qué es vaiiajel? Es esperó. Vaiiajel con dos judim es esperó."
+},
+{
+"startMs": 3337343,
+"endMs": 3344442,
+"text": "Vaiojel con una jud es-- viene como Noaj, ¿sí? Que- Entonces, kri es ktiv."
+},
+{
+"startMs": 3344502,
+"endMs": 3350582,
+"text": "Kri y ktiv. Kri y ktiv. Siempre- Es kri y ktiv. Kri y ktiv, sí. Siempre el kri es jud kejav, ¿ok?"
+},
+{
+"startMs": 3350763,
+"endMs": 3359883,
+"text": "Y el ktiv es ätnut. Kri es ijud y ktiv es ijud y k-- y kri es lo que nosotros podemos expresar de esto."
+},
+{
+"startMs": 3360643,
+"endMs": 3368883,
+"text": "Entonces, dice: \"Vaiojel shivat yamim\". Entonces, to-- primero, por un lado, espera. Pero la pregunta es si esperas y al final te desesperas o esperas y te esperas."
+},
+{
+"startMs": 3368883,
+"endMs": 3376803,
+"text": "Es la prueba del jet aieg, es la misma. Es la prueba, es exactamente la prueba del jet aieg. Es exactamente la prueba del jet aieg. \"A Shmuel, ve'lo ba Shmuel hagilgal, vaiyafetza ha'ame alav\"."
+},
+{
+"startMs": 3377143,
+"endMs": 3383763,
+"text": "Fíjense, acuérdense, ¿cuál era el pnai de Saú-- de Shmuel a Saúl, a, a que Saúl sea-- siga siendo rey? Que se espere."
+},
+{
+"startMs": 3383823,
+"endMs": 3385542,
+"text": "Lishmoa, lishmoa"
+},
+{
+"startMs": 3386782,
+"endMs": 3393502,
+"text": "instrucciones, tipo, instrucciones. Dice: \"Vayomer Saúl: 'Ya, aquí Shmuel haya olav eshlamim vaiya al olah'\"."
+},
+{
+"startMs": 3393742,
+"endMs": 3394502,
+"text": "Hizo el korbán."
+},
+{
+"startMs": 3395742,
+"endMs": 3407563,
+"text": "No, como Shmuel le dice: \"Me esperas y hacemos el korbán juntos\". Saúl, por desesperación, hizo el korbán. Vai al minuto, \"vai quejalá tol alota olah, hine Shmuel ba\"."
+},
+{
+"startMs": 3407962,
+"endMs": 3415343,
+"text": "Shabat. \"Va' Yetze Saúl y ikrató levarjo: 'Ay, Shmuel, aquí estás. ¿Qué hacemos? Tenemos guerra'. Vayomer Shmuel: 'Me asita', ¿qué hiciste?"
+},
+{
+"startMs": 3415662,
+"endMs": 3422623,
+"text": "Vayomer Saúl: 'Ki raiti una fatza ha'ame alai'\", están todos presionándome. \"Va' atá lo bát alei\". Nada, Yamin. Es jet ha'egel, es jet ha'egel."
+},
+{
+"startMs": 3423223,
+"endMs": 3432043,
+"text": "Vean cuánto tiempo se repierte-- se repite el jet ha'egel. Es un minuto. Dice: \"Atalo, atale moed, Yamin\". Dice: \"Shmuel, ¿qué hago?"
+},
+{
+"startMs": 3432083,
+"endMs": 3438563,
+"text": "A ver, todo el pueblo me está presionando\". Está-- eh, los Plishtim llegaron aquí a un montón, dice: \"Tú no llegas, tú no llegas\"."
+},
+{
+"startMs": 3438943,
+"endMs": 3442243,
+"text": "Vean, vean el, el, qué-- cómo la respuesta de Shmuel. Dice: ."
+},
+{
+"startMs": 3445603,
+"endMs": 3449903,
+"text": "Dice: . Otra vez, jet la'ame, ¿sí?"
+},
+{
+"startMs": 3452262,
+"endMs": 3453483,
+"text": ". No me pude,"
+},
+{
+"startMs": 3454883,
+"endMs": 3460683,
+"text": "dice... ¿Qué dice Shmuel? ¿Me cayeron a mí los Plishtim de camino? No, Sa-Saúl. Saúl sigue hablando, ahorita Shmuel va a hablar."
+},
+{
+"startMs": 3463423,
+"endMs": 3465503,
+"text": "Dice: . Vean Rashi, dice:"
+},
+{
+"startMs": 3470403,
+"endMs": 3472383,
+"text": ". Mi corazón decía esperarte. ."
+},
+{
+"startMs": 3476463,
+"endMs": 3482663,
+"text": "No pude aguantarme y dije: \"Esto es lo que necesito hacer para, para, para ver que, para..."
+},
+{
+"startMs": 3483783,
+"endMs": 3484742,
+"text": "Muy parecido. Muy parecido, sí."
+},
+{
+"startMs": 3486443,
+"endMs": 3486503,
+"text": "."
+},
+{
+"startMs": 3495583,
+"endMs": 3502823,
+"text": "Hashem preparó tu reinado para siempre. O sea, en tus manos no existe preparar un reinado, pero que Hashem sí lo puede hacer."
+},
+{
+"startMs": 3509943,
+"endMs": 3517483,
+"text": ". Dice: \"Hashem va a buscar a alguien- Que sea como su corazón. Que sea como su corazón\". . Dice: . ¿A qué"
+},
+{
+"startMs": 3526743,
+"endMs": 3535483,
+"text": "se refiere a lo de ? Esperar a Shmuel a hacer el Korban. Pero qué increíble, porque él está hablando en nombre de Hashem. Ese es el todo, ese es el nada que es todo, ¿me explico?"
+},
+{
+"startMs": 3535843,
+"endMs": 3543043,
+"text": "En el Mishpat no es nada. En la Nagata Mishpat no hay ni una vera, tipo, ¿me explico? Es, es salirte del Ijud."
+},
+{
+"startMs": 3543163,
+"endMs": 3549843,
+"text": "Sentirte que tú tienes un mal Ijud por ti. Tipo, tenemos que guerrear con los Plishtim, ¿qué hacemos? Es, es un José de Emunah, ¿no?"
+},
+{
+"startMs": 3549943,
+"endMs": 3559563,
+"text": "Ese es el José de Emunah, salir del Ijud es quitar la Emunah. Él está, él está hablando en nombre de Hashem. ¿Eh? Él, Shmuel está hablando a Saúl en nombre de Hashem, le está diciendo: \"Porque no cumpliste la palabra de Hashem\"."
+},
+{
+"startMs": 3559783,
+"endMs": 3561043,
+"text": "Ya, que quitó tu reinado."
+},
+{
+"startMs": 3562883,
+"endMs": 3570063,
+"text": "Él le dijo: \"Sigue mis instrucciones\". Le está diciendo: \"No cumpliste la palabra de Hashem\". Quiere decir que Sau-- que Shmuel está diciendo: \"Yo soy de Hashem\". Claro, exactamente, exactamente."
+},
+{
+"startMs": 3570143,
+"endMs": 3577123,
+"text": "Claro, sí, sí, exactamente, sí. Mi palabra que yo te dije era la palabra de Hashem. La vez pasada no le dijo que Hashem... Claro, claro. Dice: \"Yo te doy la instrucción\"."
+},
+{
+"startMs": 3577883,
+"endMs": 3579143,
+"text": "Increíble, cien por ciento."
+},
+{
+"startMs": 3583143,
+"endMs": 3584023,
+"text": ". Separa a Shmuel."
+},
+{
+"startMs": 3588043,
+"endMs": 3595143,
+"text": ". Entonces, entonces ahorita Saúl cuenta cuántos tiene. . Saúl tiene seiscientos contra millones."
+},
+{
+"startMs": 3595843,
+"endMs": 3603803,
+"text": "O sea, treinta mil en carretas, seis mil en caballos y, y jen, y millones así a pie."
+},
+{
+"startMs": 3612523,
+"endMs": 3614223,
+"text": ". Y Jonathan contra todos los Plishtim."
+},
+{
+"startMs": 3617463,
+"endMs": 3619763,
+"text": ". Los, los mashitím de los Plishtim."
+},
+{
+"startMs": 3620983,
+"endMs": 3620983,
+"text": "."
+},
+{
+"startMs": 3623023,
+"endMs": 3631863,
+"text": "Llegan emboscada de todos lados."
+},
+{
+"startMs": 3632943,
+"endMs": 3639463,
+"text": "Ora, y los yehudim no tienen nada. No nada más que no tienen gente. Esa es su estrategia de guerra, ¿no? Salir en todos lados. Sí, de cada lado."
+},
+{
+"startMs": 3639763,
+"endMs": 3640543,
+"text": "Y los yehudim, dice:"
+},
+{
+"startMs": 3642583,
+"endMs": 3650383,
+"text": ". Dice: \"No había ni un\"... eh, ¿cómo se llaman los que trabajan en metal? Los que hacen hierro. No había herreros, no había herreros en Israel."
+},
+{
+"startMs": 3650403,
+"endMs": 3658203,
+"text": "¿Los que hacen espadas, tipo? Sí. Y , escucha, porque los Plishtim, el netziv Plishtim controlaba,"
+},
+{
+"startMs": 3659583,
+"endMs": 3668063,
+"text": "eh, eh, en Israel. Y entonces él, él no, el netziv Plishtim nunca dejó que Israel tenga herreros para que no tengan arma de guerra."
+},
+{
+"startMs": 3672803,
+"endMs": 3676683,
+"text": ". Siempre que los yehudim estaban en herrería, bajaban con los Plishtim"
+},
+{
+"startMs": 3678402,
+"endMs": 3680883,
+"text": "para hacer tus, eh, machreshet, ¿cómo se llama?"
+},
+{
+"startMs": 3682583,
+"endMs": 3684703,
+"text": "El, el machreshet es la del arado, ¿sí?"
+},
+{
+"startMs": 3695323,
+"endMs": 3698363,
+"text": ". Entonces, ¿qué decir? Que controlaban todo el mercado de herrería los Plishtim."
+},
+{
+"startMs": 3704383,
+"endMs": 3711583,
+"text": ". Entonces, no nada más que son poquititos, ni siquiera armas. O sea, es- Entiendan que no tienen cómo defenderse."
+},
+{
+"startMs": 3712083,
+"endMs": 3721503,
+"text": "Ahí viene, ahí viene. Entonces, están-- todo esto viene, exactamente. Entonces, todo esto viene a que hagas una criá total y esto automáticamente, ¿a dónde te regresa?"
+},
+{
+"startMs": 3721583,
+"endMs": 3731303,
+"text": "Al Ijud, ¿me explico? Entonces, vamos a ver, vamos a ver quién regresó al Ijud, ¿sí? Vean cómo toda la historia se va exigiendo, ¿me explico?"
+},
+{
+"startMs": 3731863,
+"endMs": 3732063,
+"text": "Sí."
+},
+{
+"startMs": 3734303,
+"endMs": 3738283,
+"text": "Hashem los va poniendo, ya la... Claro, es Hashem el que está... Te pone otra."
+},
+{
+"startMs": 3739503,
+"endMs": 3742503,
+"text": "Otra vez, el mismo error. Eso. Arréglalo. Dice:"
+},
+{
+"startMs": 3746323,
+"endMs": 3753423,
+"text": ". ¿Ahora quién, quién tiene? ¿Quién? Jonathan. No, ahora quién tiene el yetziv, los Plishtim."
+},
+{
+"startMs": 3753963,
+"endMs": 3755983,
+"text": "Después de que Jonathan los atacó, entonces los"
+},
+{
+"startMs": 3758663,
+"endMs": 3771223,
+"text": ". Entonces, ahorita el yetziv lo tienen los Plishtim. Ahorita Hashem le está qui-- en verdad, Hashem le está quitando el yetziv a los Plishtim por medio de quitarle el armamento a toda Misrael."
+},
+{
+"startMs": 3771663,
+"endMs": 3779883,
+"text": "Y entonces Mimile le hace knia a Misrael para que tengas la escapa. Exactamente, tienes que entrar a la Emunah y la Emunah te va a llevar a la escapa."
+},
+{
+"startMs": 3780383,
+"endMs": 3783063,
+"text": "Y entonces dijimos: ¿Quién ataca el netziv Plishtim, Jonathan?"
+},
+{
+"startMs": 3784343,
+"endMs": 3793679,
+"text": ". Exactamente. Vean esta historia increíble Dice esta, esta sí ya no la vi reciente, pero pues vamos a leerla y vamos a ver cómo pues va de la mano."
+},
+{
+"startMs": 3793959,
+"endMs": 3805479,
+"text": "Vaya Yo-- vaya yo me Jonathan Ben Shaúl en Lanar, no sé qué lab. Vean qué loco. Está Jonathan y su jovencito, el que cargaba sus- Escudero, se llama."
+},
+{
+"startMs": 3805599,
+"endMs": 3813719,
+"text": "Sí, el escudero. Le javen a Abraham el Mach-- el Machá Plishim. Vamos para allá, yo y tú. No, no, yo, tú y seiscientos."
+},
+{
+"startMs": 3813919,
+"endMs": 3823339,
+"text": "Yo y tú, dos personas. ¿Y a dónde vamos? Al Machá Plishim, ¿sí? Vamos al Machá Plishim, a Shermeever, a-- sí, Machá, exactamente."
+},
+{
+"startMs": 3823479,
+"endMs": 3836819,
+"text": "Al exibu total de ellos. Vamos, vamos con todo, dice. A Shermeever, a las Ula Viv Loiguil. Y Jonathan no le dice a Saúl, porque Jonathan sabe, o piensa, que si le dice a Saúl, Saúl le dice: \"Estás loco\"."
+},
+{
+"startMs": 3836939,
+"endMs": 3846959,
+"text": "Esto es un plan monumental. Suicidio. Claro, es un suicidio. Dice: Saúl está ahí con seiscientos."
+},
+{
+"startMs": 3854019,
+"endMs": 3864779,
+"text": "Estaba el Kohen Gador y nadie del pueblo, o sea, no na más. Tipo, no, cuando vas, si van dos, tipo de la Tsava, siempre como que tienes el rescate, ¿me explico?"
+},
+{
+"startMs": 3865379,
+"endMs": 3871599,
+"text": "Acá no le dijo a nadie. Tipo, si de repente Jonathan desaparece, nadie sabe ni qué pasó. No hay ni el rescate, no hay nada."
+},
+{
+"startMs": 3872419,
+"endMs": 3872699,
+"text": "Dice:"
+},
+{
+"startMs": 3877879,
+"endMs": 3885639,
+"text": "dice: el camino para llegar a Matsab Plishim, Shen Hasela Mehaever Mize, ve Shen Hasela Mehaever Mize."
+},
+{
+"startMs": 3885839,
+"endMs": 3898759,
+"text": "¿Alguien se acuerda de esto, de mis clases de Mize u Mize? ¿De qué era? De las tablas. De Jeta Egel, de las Lujot y de Miljemet Amalek, que la única manera de ganar en Miljemet Amalek es con Mize u Mize."
+},
+{
+"startMs": 3899239,
+"endMs": 3907999,
+"text": "Es exactamente ese punto. Dice: es la Emunah. Las manos de la Moshe es la Emunah. Sí, Mize u Mize."
+},
+{
+"startMs": 3908539,
+"endMs": 3914659,
+"text": "Y entonces, y el Jeta Egel, las Lujot eran Mize u Mize. O sea que solamente con el ijud puedes llegar a pasar."
+},
+{
+"startMs": 3914759,
+"endMs": 3921699,
+"text": "Exactamente. Es, es, es que a Moshe le agarran las manos. ¿ Exactamente? Dice. Un poco también a Maím Maím, ¿no?"
+},
+{
+"startMs": 3921899,
+"endMs": 3923339,
+"text": "La misma molécula. Puede ser."
+},
+{
+"startMs": 3930519,
+"endMs": 3941019,
+"text": "Eran piedras que era imposible caminar en ellas de tan resbalosas, porque ni siquiera había-- imagínate que necesitas escalar una montaña y no hay-- pero no hay ni de dónde agarrarte."
+},
+{
+"startMs": 3941379,
+"endMs": 3948199,
+"text": "Tiene un ushán, ¿no? También igual la cría, que pa llegar ahí... Claro, pa llegar ahí es- Era que no hay manera de pasar. No hay, no hay paso, exactamente."
+},
+{
+"startMs": 3956279,
+"endMs": 3957799,
+"text": "Dice, dice:"
+},
+{
+"startMs": 3962199,
+"endMs": 3968839,
+"text": "acuérdense de la palabra arelim, ¿sí? Esa es la palabra que usa David para pelear contra Goliat, el Plishim."
+},
+{
+"startMs": 3969379,
+"endMs": 3976659,
+"text": "Dice: ¿Q-Quién es este cuate? Tipo, qué, qué miedo le gua-- Goliat era un cuate armado. También David ahí llegó sin armas."
+},
+{
+"startMs": 3977019,
+"endMs": 3979839,
+"text": "Goliat era armado, era gigante, era imposible ganar. O sea,"
+},
+{
+"startMs": 3981719,
+"endMs": 3987919,
+"text": "Goliat literal le puede hacer así, así a David, ¿me explico? Pero aparte tenía armas. Y David tenía una balacera. Jonathan y David eran así."
+},
+{
+"startMs": 3987979,
+"endMs": 3997319,
+"text": "Claro, entonces todo el amor de Jonathan a David es porque Jonathan acá estaba en el ijud. Entonces, ya que Jonathan vive en el ijud, entonces él se puede unir a David."
+},
+{
+"startMs": 3997879,
+"endMs": 3998199,
+"text": "Dice:"
+},
+{
+"startMs": 4001979,
+"endMs": 4004819,
+"text": "dice, dice: Hashem nos va a ayudar. Dice:"
+},
+{
+"startMs": 4007259,
+"endMs": 4013559,
+"text": "¿Qué importa? Somos seiscientos, son mil. Aunque seamos dos, ¿qué tanto? Vamos. En el ijud, dice."
+},
+{
+"startMs": 4014119,
+"endMs": 4023059,
+"text": "No, no soy yo, es Hashem. ¿Qué pasó con Jonathan? ¿Cómo entró al ijud? Es que es impresionante cómo- ¿Cómo entró al ijud? No, no vimos cómo de- Jonathan, Jonathan, Jo-- sí."
+},
+{
+"startMs": 4023219,
+"endMs": 4031699,
+"text": "Siempre el plan era en Shaúl, un poco. No era en Jonathan. No, no es jugar. O sea, en, en, en la Vejiná esta. Sí, Jonathan era el Koaj, obviamente, el Tikún que- Siempre estaba Tzimtzum completo."
+},
+{
+"startMs": 4031779,
+"endMs": 4031979,
+"text": "Sí."
+},
+{
+"startMs": 4033679,
+"endMs": 4035699,
+"text": "por eso Abad-- Jonathan Ben David era un"
+},
+{
+"startMs": 4037059,
+"endMs": 4040379,
+"text": "esa es la Abad del ijud. La Abad del ijud es nuestro"
+},
+{
+"startMs": 4042559,
+"endMs": 4052919,
+"text": "es que no estás en el mispat. En el mispat es si eres Tatik sí, y si eres Rashá, Hashem ya no te quiere. En el ijud es seas el que seas, vas a ser mi-- vas a ser mi hijo."
+},
+{
+"startMs": 4053239,
+"endMs": 4054659,
+"text": "Entonces, Jonathan y David es la"
+},
+{
+"startMs": 4056319,
+"endMs": 4060239,
+"text": "es los que viven en el ijud, viven en ese matzah de que-- Exactamente,"
+},
+{
+"startMs": 4061939,
+"endMs": 4062259,
+"text": ". Dice:"
+},
+{
+"startMs": 4071359,
+"endMs": 4078239,
+"text": "Jonathan logró contagiar a su estar en su-- Es suicidio, literal es un suicidio."
+},
+{
+"startMs": 4078279,
+"endMs": 4084079,
+"text": "¿A quién? Al escudero. Así tenía que haber dicho: \"Estás loco\". Sí, y le dice: \"No, yo estoy contigo con...\" Vean la palabra"
+},
+{
+"startMs": 4085579,
+"endMs": 4093599,
+"text": "fíjense, es la palabra que, eh, que le dijo Hashem. Le dije: \"Ya perdiste tu Maljut Shaúl y te la va a dar el Ishkilbavó\"."
+},
+{
+"startMs": 4093599,
+"endMs": 4095519,
+"text": "¿Me explico?"
+},
+{
+"startMs": 4096859,
+"endMs": 4102059,
+"text": "Kilbavó. ¿Qué es Kilbavó? El que sí es. El que sí es. Dice."
+},
+{
+"startMs": 4103839,
+"endMs": 4104658,
+"text": "Entonces, fíjense antes--"
+},
+{
+"startMs": 4106999,
+"endMs": 4113859,
+"text": "Jonathan, al principio del Perek, vean cómo se llama, en Perek Yud Dalet: Jonathan Ben Shaúl."
+},
+{
+"startMs": 4114979,
+"endMs": 4121239,
+"text": "Y cuando empezó acá, cuando ya se lanzó, es Yehonatán. Recibió la, eh, la letra del nombre de Hashem."
+},
+{
+"startMs": 4124139,
+"endMs": 4131019,
+"text": "Luego se regresa a ser Jonathan, no sé de qué depende, pero acá es literal, es que recibió- En el momento que me está enseñando cómo está en el ijud."
+},
+{
+"startMs": 4131078,
+"endMs": 4133519,
+"text": "Esa es la expresión de Hashem, exactamente."
+},
+{
+"startMs": 4148538,
+"endMs": 4155346,
+"text": "Dice: vamos a tener una prueba. Dice: si Hashem quiere Que vayamos ahí o no, porque al final el que lo hace es Hashem."
+},
+{
+"startMs": 4155387,
+"endMs": 4162087,
+"text": "Entonces, yo necesito saber si Hashem quiere o no quiere. Dice: «Si me dicen frena, entonces frenamos». O sea, ¿qué quiere decir?"
+},
+{
+"startMs": 4162247,
+"endMs": 4173027,
+"text": "Y Yonatán dice: «Acá es un, un tema, porque parece esto nijush, es un nijush». Ahora, ¿cuál-- acá, porque esto, nijush es hacer- Si cae para la botella."
+},
+{
+"startMs": 4173067,
+"endMs": 4182107,
+"text": "Si, si cae, si el volado sale así, hacemos, si no, no. Yonatán, aquí es algo muy profundo. El que vive en el nijush escucha a Hashem hablando de todos lados."
+},
+{
+"startMs": 4183047,
+"endMs": 4191926,
+"text": "Entonces, acá dice así. Es tipo Eliezer, ¿no? La misma- Los Pelistím van a ser la voz de Hashem. Si nos dicen: «Frenen», significa que Hashem nos está diciendo que frenemos."
+},
+{
+"startMs": 4192327,
+"endMs": 4199987,
+"text": "Si nos dicen: «Vengan», entonces quiere decir que Hashem nos está diciendo que vayamos para allá, y entonces esa es nuestra prueba que Hashem quiere que vayamos para allá."
+},
+{
+"startMs": 4200487,
+"endMs": 4208967,
+"text": "No es nijush, es sejes yojol deabar. Ese es el sejes yojol deabar, es el nijush completo, exactamente. Sejes yojol deabar. Es de escuchar siempre la voz de Hashem por todos lados."
+},
+{
+"startMs": 4208987,
+"endMs": 4215647,
+"text": "Detrás de cualquier cosa. Porque no, no, no está diciendo si ahorita cae una, si ahorita ve un ratón. Claro, no es algo que- Escuchar, claro."
+},
+{
+"startMs": 4215967,
+"endMs": 4222727,
+"text": "Porque no está diciendo algo que no tiene nada que ver. Quiero escuchar que me diciendo eso los Pelistím. Exactamente. Yo voy a escuchar que Hashem me está com-- que, diciendo."
+},
+{
+"startMs": 4223127,
+"endMs": 4228547,
+"text": "Digalú sne mel matá Pelistím. Y omrua Pelistím y nei brim. Aquí hay udím, yotsim me najorím. Están"
+},
+{
+"startMs": 4229827,
+"endMs": 4233107,
+"text": "saliendo de los jorím, hasherit jabeú sham."
+},
+{
+"startMs": 4234507,
+"endMs": 4245307,
+"text": "Salen del el escondite. Los dos méret. Exactamente. Antes, Shaúl y Elam se escondieron, perdieron, y ahorita Yonatán sale de ese escondite."
+},
+{
+"startMs": 4245347,
+"endMs": 4254947,
+"text": "Es literal lo que está pasando. Es el mismo escondite. En el olam, es lo que está pasando. Está peleblai, no es nuevo. Ve anú, ora, ve anu anshe ha matzabá."
+},
+{
+"startMs": 4256027,
+"endMs": 4265047,
+"text": "Sí, ve anú anshe ha matzabá. Los yetibím le dicen a Yonatán, ve no sé qué laba, y omru, alú, alenu, ve no diez que andaban, ve omen a Yonatán no sé qué laba."
+},
+{
+"startMs": 4265067,
+"endMs": 4270967,
+"text": "¿Quién es Yonatán? Dice, alé. Yo sé cuál es eso, perdón. Tengo prueba de Joseph. Joseph-"
+},
+{
+"startMs": 4272607,
+"endMs": 4279847,
+"text": "Y es Joseph. Por una vez. Claro. En el momento en que, a lo mejor que es el momento queee se anima. Entonces, ahí ya le entró la letra."
+},
+{
+"startMs": 4280207,
+"endMs": 4281847,
+"text": "Entra la letra, ya después ya le dice Joseph."
+},
+{
+"startMs": 4284587,
+"endMs": 4285727,
+"text": "Sí. Sí, sí, sí."
+},
+{
+"startMs": 4287527,
+"endMs": 4293867,
+"text": "Sí, sí, sí. Dice: «Ve omen Yonatán, no sé qué laba». Alé, a, ajaray, vamos, kinetaná, Hashem vehad Israel. Ya está hecho."
+},
+{
+"startMs": 4293927,
+"endMs": 4306987,
+"text": "Tipo, se ya acabó. No, no, no es que tipo apenas vamos a empezar. Ya acabó. Vayá Yonatán aliadab al raglav, ve no sé qué lab ajarav, veiplú lifné Yonatán, ve no sé qué lav, memotet ajarav."
+},
+{
+"startMs": 4307707,
+"endMs": 4311447,
+"text": "Dice: «Se caen los Pelistím delante de Yonatán»."
+},
+{
+"startMs": 4313667,
+"endMs": 4320967,
+"text": "Se caen. Ah, un segundo, ¿cómo sube Jonatá? Yonatán al yarab arreglav? Que no se podía subir. Sí, con criá total, ¿me explico?"
+},
+{
+"startMs": 4321427,
+"endMs": 4327507,
+"text": "Criá total es que no caminas sobre tus pies. Arrastrando. Arrastrando. Como la, la hash."
+},
+{
+"startMs": 4327807,
+"endMs": 4334027,
+"text": "Sí, con criá total. Y eso, esa criá, y literal es la criá de la Emuná, ¿me explico?"
+},
+{
+"startMs": 4334107,
+"endMs": 4341607,
+"text": "Porque es subir imposiblemente. Dice: «Ve no sé qué lav ajarav», y el no sé qué lav va detrás de él, «Veiplú lifné Yonatán, no sé qué lav»."
+},
+{
+"startMs": 4342307,
+"endMs": 4349627,
+"text": "Ve, «Veiplú lifné Yonatán», no sé qué hubo aquí, dice: «Anshe ha matsevá». Fíjense, ¿cuál es el, el, el opuesto a yatsim?"
+},
+{
+"startMs": 4350807,
+"endMs": 4356987,
+"text": "Lipol, yatsim es estar bien parado. Y entonces, vean, el, el Metsudot dice: «Veiplú anshe ha matzabán, aflú jalalim»."
+},
+{
+"startMs": 4357787,
+"endMs": 4364367,
+"text": "Se cayeron. «Ve lo metú al qui no sé qué lav ishlim itatán». Ah, y el no sé qué lav fue el que los, los acabó de matar."
+},
+{
+"startMs": 4364407,
+"endMs": 4370727,
+"text": "Jalalim. Sí, ja-jalalim es que el-- se, se hicieron jalulím ellos."
+},
+{
+"startMs": 4371247,
+"endMs": 4378787,
+"text": "Dice: «Ve tiyam acá». Los mataron, Yonatán. ¿Cómo? ¿No dice cómo? No, dice nada más que fue Yonatán y ellos."
+},
+{
+"startMs": 4378827,
+"endMs": 4393887,
+"text": "Los acabó, los mataron y el no sé qué lav lo acabó de matar. «Ve tiyam acá risoná shel icá Yonatán no sé qué lav que es trimish, que bajatsia ma-ma-maané tse metsade, ve teij aradam mejané basade ujol am amatsev»."
+},
+{
+"startMs": 4394267,
+"endMs": 4401467,
+"text": "Todo el tiempo se repite. Sí. «Ve hamashjit jaredú gam hema, va tirgá zaaret, ve teij lejerzat Elokim»."
+},
+{
+"startMs": 4401867,
+"endMs": 4408707,
+"text": "Todos temblaron. O sea, todos. Ellos mataron a veinte y todos los millones temblando."
+},
+{
+"startMs": 4409287,
+"endMs": 4416127,
+"text": "Dice. Ellos mataron a veinte. Ellos mataron a veinte. Y eso los doblegó completamente a todos los millones."
+},
+{
+"startMs": 4416707,
+"endMs": 4426827,
+"text": "No, no, mataron a veinte y todos los millones se doblegaron completamente ante Yonatán. Dice: «Ve irú atzofím le Shaúl, ve yivat Yamin, ve ineje amón namog, va yelech baalom."
+},
+{
+"startMs": 4427387,
+"endMs": 4439167,
+"text": "Ve yomer Shaúl laam, asher hitó». Los Zofim vieron que se están muriendo todos, los de- Sí, los Zofim de Shaúl son los, los-- y sabes, dice: «Se están derritiendo de miedo ellos»."
+},
+{
+"startMs": 4439307,
+"endMs": 4445807,
+"text": "Tipo, ¿qué pasó? O sea, Shaúl tiene sus, sus, sus visores. Están muertos, corriendo para allá. Se están muriendo todos."
+},
+{
+"startMs": 4445807,
+"endMs": 4451487,
+"text": "¿Qué está pasando? Ya no sabe nada. «Va yomer Shaúl laam, asher hitó pikdú nauru, mía lajné imano». ¿Quién fue?"
+},
+{
+"startMs": 4452707,
+"endMs": 4459227,
+"text": "Cuentan, ¿y quién falta? «Ve inén Yonatán», no sé qué lav, falta Yonatán. «Ve yomer Shaúl, ajía, aguisha, Aarón haElokim»."
+},
+{
+"startMs": 4459587,
+"endMs": 4465407,
+"text": "A ver, traen, vamos a escuchar qué dice Hashem. Que allá Aarón haElokim-- Ah, no, trae al Aarón haElokim con nosotros."
+},
+{
+"startMs": 4466807,
+"endMs": 4475307,
+"text": "Que allá Aarón haElokim, va yomer hu bné Israel. Aarón haElokim es, es literal este punto, que el Aarón haElokim es el que hace las guerras, ¿sí?"
+},
+{
+"startMs": 4475307,
+"endMs": 4481607,
+"text": "«Va ivin zo HaArón, va yomer Masé: Juma Hashem, ve a kuchso yveja, ve anusu misaneja mi paneja»."
+},
+{
+"startMs": 4482267,
+"endMs": 4491447,
+"text": "El Aarón haElokim es el que hace las guerras. Es el ijud, exactamente. «Ve í», por eso en el Aarón haElokim, esa, «Va ivin zo HaArón», ¿qué letras tiene antes y al final?"
+},
+{
+"startMs": 4492547,
+"endMs": 4494627,
+"text": "Dos nunin, nun y mafujot."
+},
+{
+"startMs": 4496427,
+"endMs": 4503507,
+"text": "En la parashá «Va ivin zo HaArón», hay una nun, nun al principio y una nun al revés. Nun al revés es lej leja."
+},
+{
+"startMs": 4504487,
+"endMs": 4509987,
+"text": "Lej leja, nun, nun. Y son nunin al revés. Y lej leja, ¿cuál es la letra antes de lej leja?"
+},
+{
+"startMs": 4511387,
+"endMs": 4516787,
+"text": "Jaran es la nun y ahí hay una nun al revés también. Es el, la nun,"
+},
+{
+"startMs": 4518367,
+"endMs": 4528167,
+"text": "antes de lej leja hay una nun al revés. Y exactamente el punto de lej leja es que el lej, la Emuná, es leja, es tipo la nun al revés."
+},
+{
+"startMs": 4528407,
+"endMs": 4530847,
+"text": "Nun, nun al revés. Es"
+},
+{
+"startMs": 4533427,
+"endMs": 4541347,
+"text": "el punto. Pele pela. «Va í, ad diber Shaúl el hakohen ve amón asher majaná Pelistím, va yelej haloj vara, va yomer Shaúl el hakohen: Sov yadeja»."
+},
+{
+"startMs": 4542167,
+"endMs": 4557087,
+"text": "Dice: «Va yejezeg Shaúl ve jol am ha sheritó, va yaború ad ha miljám, ha hinehi hahitá jerev ish vereú meumá godlá meod, va hebrím haiu la Pelistím ketmol shilshóma asher alú imahem bemajané saviv, ve gam hem ad liot im Israel asher im Shaúl ve Yonatán."
+},
+{
+"startMs": 4557687,
+"endMs": 4572233,
+"text": "Ve jol ish Israel hamitjabeím». Entonces, ahorita que Jonathan ya los despertó a todos, entonces todos los mitjaveím ve'al Efraim shamehu ki nasu Pelistim, veitbekú gamej ajarejem amiljama."
+},
+{
+"startMs": 4572293,
+"endMs": 4578533,
+"text": "Se le pegaron a todos a la guerra y Saúl no las hizo ir a la guerra. Vayoša Hashem bayom hahu."
+},
+{
+"startMs": 4578533,
+"endMs": 4589173,
+"text": "¿A qué les suena? A ese-- en, en, en, en-- ¿A alguien le cabe de duda la guerra que si-- que hicimos en Kiriat Iam suf contra Mitraim?"
+},
+{
+"startMs": 4589173,
+"endMs": 4597213,
+"text": "¿Fue el Mishpat o fue el Ihud? Era Kiriat total. Era totalmente el Ihud y con emuná total. Entonces, métete tú, haces- Kiriat total ..."
+},
+{
+"startMs": 4597473,
+"endMs": 4607452,
+"text": "tú haces emuná, tú haces emuná y Hashem hace la guerra, ¿sí? Es ממש así. Vayoša Hashem bayom hahu et Israel veamiljama avrá et Bet Aven."
+},
+{
+"startMs": 4607753,
+"endMs": 4615433,
+"text": "Veish Israel nigash bayom hahu, vayohel Saúl et-haam lemor: «Arur haish asher yojel lejem ad-haerev, ve nikamti meöiebai, ve lo taam kol-haam lejem»."
+},
+{
+"startMs": 4616293,
+"endMs": 4622773,
+"text": "Les obligó a todos a ayunar. Saúl obligó a todos a ayunar y el único que no se enteró"
+},
+{
+"startMs": 4624133,
+"endMs": 4630313,
+"text": "fue Jonathan. Aquí fue un problema, pero lo tenemos que dejar. El ayuno de Kiriat también ... para mañana."
+},
+{
+"startMs": 4630833,
+"endMs": 4637233,
+"text": "Jonathan va a comer. Jonathan ya lleva ayunando mucho tiempo, hizo demasiada Kiriat."
+},
+{
+"startMs": 4637393,
+"endMs": 4644992,
+"text": "Pero no supo, ¿no? Estaba ya- No sabía, sí, pero había-- y Saúl dijo: «Arur». Entonces, ahí como que Saúl se desconecta."
+},
+{
+"startMs": 4645593,
+"endMs": 4653253,
+"text": "Tuvo que pasar que se desconectó Jonathan, porque él, él comió al final. Vequis una-- les voy a decir una palabra más."
+},
+{
+"startMs": 4653633,
+"endMs": 4660353,
+"text": "¿Se acuerdan que Saúl bajó al Baalato? ¿Por qué? Para bajar a, a Shmuel, a preguntarle."
+},
+{
+"startMs": 4661193,
+"endMs": 4666033,
+"text": "Fíjense por qué. ¿Qué, qué problema tenía Saúl? ¿Qué necesitaba preguntar a Hashem?"
+},
+{
+"startMs": 4667293,
+"endMs": 4676933,
+"text": "La guerra. ¿Guerra con quién? Con los Pelistim. Con los Pelistim. Entonces, quiere decir que hubo una situación donde los Pelistim retomaron, ¿y quién no le contesta a Saúl?"
+},
+{
+"startMs": 4679013,
+"endMs": 4687613,
+"text": "Shmuel. No, Shmuel está muerto. Los Nevím. Los Nevím. ¿Qué quiere decir? Que Saúl ahí perdió la desconexión con los Nevím."
+},
+{
+"startMs": 4687933,
+"endMs": 4694393,
+"text": "Perdió la desconexión con los Nevím. Retoma a los- Nechivut de los- A los Pelistim. Nechivut de los Pelistim."
+},
+{
+"startMs": 4694413,
+"endMs": 4703613,
+"text": "Los Pelistim suben. Y entonces, necesito bajar a Shmuel, pero-- y ese fue su Tikún, que tuvo que pasar ahí la Busha para llegar ahora sí a su Tikún."
+},
+{
+"startMs": 4703873,
+"endMs": 4709313,
+"text": "Y majar ata ubnejja imí. Que no te mueras. Sí, o sea, Jonathan es Aarón."
 }
 ]
 }

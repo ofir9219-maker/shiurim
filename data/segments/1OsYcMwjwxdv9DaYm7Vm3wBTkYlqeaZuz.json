@@ -1,810 +1,3486 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 0,
-"endMs": 30000,
-"speaker": "",
-"text": "Nos fuimos a Irving Es Ratatouille, Y... Estás oyendo X-Hack? Sí, sí. Vamos."
+"startMs": 260,
+"endMs": 3520,
+"text": "Entonces vimos Eiruv. ¿Ves, rata, allá?"
 },
 {
-"startMs": 30000,
-"endMs": 61000,
-"speaker": "",
-"text": "Entonces, vamos a entenderlo un poquito más. Tienen? אמר רבי אבא אמר שמואל."
+"startMs": 8980,
+"endMs": 15600,
+"text": "Eh... ¿Alguien tiene track?"
 },
 {
-"startMs": 61000,
-"endMs": 115000,
-"speaker": "",
-"text": "שלוש שנים נחלקו בית שמאי ובית הלל הללו אומרים הלכה כמותנו והללו אומרים הלכה כמותנו יצא בת קול ואמרה, אלו ואלו דברי אלוקים חיים הן והלכה כבית הלל וכי מאחר שאלו ואלו דברי אלוקים חיים מפני מה תחו בית הלל לקבוע הלכה כמותם, מפני שנוכחים ועלובים היו בשונים דבריהם ודברי בית שמאי ולא עוד אלא שמקדימים דברי בית שמאי לדבריהם, Cuando hablamos."
+"startMs": 18460,
+"endMs": 19420,
+"text": "Sí, sí, sí ."
 },
 {
-"startMs": 115000,
-"endMs": 146000,
-"speaker": "",
-"text": "Ellos mencionan primero a Bet Shammai que a ellos, barra ya este Zipur. Que en este Zipur mencionaron primero a Bet Shammai. Dijeron, un más, ¿eh? Que fueron Zikne Bet Shammai y Zikne Bet Hillel. Ahora, entonces ahí se ve que Bet Hillel son Nohim Bealubim y Shonim Dibrem y luego Dibrey Bet Shammai. Eso es más o menos lo que dice la Gemara. Ayer preguntamos que cómo es posible que justamente en esta alajada... sea la Alajá como Bet Shammai."
+"startMs": 27180,
+"endMs": 27660,
+"text": "Vamos."
 },
 {
-"startMs": 146000,
-"endMs": 178000,
-"speaker": "",
-"text": "O sea, la Alajá, ejemplo, a por qué la Alajá siempre es como Bet Hillel, es de un caso de Sukkah, que es el único de los tres casos que la Alajá es como Bet Shammai. Muy loco. Ahora dijimos, ¿dónde fue ese Bat Kol? Dónde se fue ese Bat Kol? Cómo fue ese Bat Kol? Entonces explicamos que Bat Kol, no es una voz que sale del Shamayim, sino algo que pasa en el mundo donde se nota... el Dvar Hashem, lo que Hashem quiere."
+"startMs": 30940,
+"endMs": 35060,
+"text": "Entonces, Eiruv, yud guimel, amud bet. Vamos a entender un poquito más."
 },
 {
-"startMs": 178000,
-"endMs": 208000,
-"speaker": "",
-"text": "Entonces, ¿qué pasó? Pasó que Bet Hillel una vez llegó con su ola, Bet Hillel llegó con su ola al Beit HaMikdash, en Beitza, ¿no? Sí, en Beitza. Fue para el Olat Chagiga en Yom Tov. Entonces llegó para el Olat Chagiga en Yom Tov y... Según Shammai, estaba mal hacer eso, porque tú no puedes traer olah, solo puedes traer shlamim."
+"startMs": 38340,
+"endMs": 43400,
+"text": "Amarabiaba Masmuel solosanim nechlikuv betshame betilel. ¿Tienen? ¿Tienen o quieren que haga?"
 },
 {
-"startMs": 208000,
-"endMs": 241000,
-"speaker": "",
-"text": "Por qué solo puedes traer shlamim? Porque es ochel nefesh. Pero el korban olah, que es kulo laGabon, no es ochel nefesh. Entonces no puede ser el shechita de chamdu. Ahora, y le sostenía que puedes traer tanto olah y tanto shlamim, tiene pesukim, y se puede traer los dos. Entonces se le juntaron todos los talmidim de Shammai. Y le dijeron, ¿qué estás haciendo exactamente? Dicen, no, es shlamim. Es shlamim y es nekevah. Nekevá sería como que es re'ayah que es shlamim."
+"startMs": 56660,
+"endMs": 57120,
+"text": "¿Tienen? No."
 },
 {
-"startMs": 241000,
-"endMs": 276000,
-"speaker": "",
-"text": "Les hizo así, les levantó la cola para que vean que es nekevah. Aunque no era... O sea, de alguna manera les hizo ver que es como si fuera mujer. Y lo que pasó ahí fue que... Que fueron todos los talmidim y corrieron la voz de que la halajá es como Bet Shammai. Que Bet Hillel está más químico que Bet Shammai. Sí, porque Bet Hillel es más químico. Qué pasó? Cuando la amora que se itpashet en toda Israel que la halajá es como Bet Shammai."
+"startMs": 59940,
+"endMs": 61160,
+"text": "Amarabiaba Masmuel."
 },
 {
-"startMs": 276000,
-"endMs": 306000,
-"speaker": "",
-"text": "Y ahí estaba Bava ben Buta. La amora dice en el Yerushalmi que fue la harimim rabim. Sí? Estaba Bava ben Buta. De ahí hay od yadua. Él sabía que el halajá es como Bet Shammai Entonces dijimos Él sabía que el halajá es como Bet Shammai, Y el halajá es como Bet Shammai Entonces que hizo, Este Talmidei Shammai Que sabía que el halajá es como Bet Shammai."
+"startMs": 62820,
+"endMs": 73180,
+"text": "Solos anim nechlikuv betshame u betilel. Alalu omrin halaja quemotenu y alalu omrin halaja quemotenu. Yatsabat kol ve amra: «Elu y elu dibrei elokim jaim en ve halaja kebetilel»."
 },
 {
-"startMs": 306000,
-"endMs": 342000,
-"speaker": "",
-"text": "Fue y compró animales Para todo Am Yisrael 3000 animales de lo más, Para que todo Am Yisrael Gracias! Y en ese momento toda Israel trajeron Korbanot y ni que vea en ese día al-Halajá como Hillel, velo allá quien discuta en el Yisrael. Fue este maíz."
+"startMs": 73880,
+"endMs": 85700,
+"text": "Veji meajar she elu ve elu dibrei elokim jaim, ¿mimpené ma zaju betilel likvo halaja quemotam? Mimpené she nojim ve aluvimiau ve shonim dibrehem ve dibrei betshamei ve lo od ela she makdimim dibrei betshamei le dibrehem."
 },
 {
-"startMs": 342000,
-"endMs": 373000,
-"speaker": "",
-"text": "Y Bet Shammai hicieron al-Halajá como ellos. Y luego en Buta, y la volteó. Primero pensaron que la alahá es como Bechamay, porque Hillel aceptó. Y Itpashet dejó la Yisrael. Va en Buta, vio, dice el Yerushalmi, que vio vacío el Beit HaMikdash. Y explicamos que de ahí se dio cuenta que la alahá es como Bet Hillel. Era Yom Tov y estaba vacío. Entonces fue y compró."
+"startMs": 86300,
+"endMs": 89560,
+"text": "Ke otas shaninu, she hai rosh ve rubo ve suca ve shuljano betoj jabait,"
 },
 {
-"startMs": 373000,
-"endMs": 404000,
-"speaker": "",
-"text": "Compró animales para toda Israel y desde ahí ni crea la laja como Bet Hillel. Y Bava ben Buta era el Talmid de Shammai. Se fue el Bat Kol. Entonces dijimos que toda esta historia es muy paralela a esta. Porque se ve que el Elu v'Elu, Udi-Elu v'Elu o Divrei Elokim Chaim, hay eso en el Bat Kol de allá, sí. Cómo? Que tanto Hillel aceptó que la laja sea como Shammai. Y tanto el Talmid de Shammai, nunca va a estar la laja como Bet Hillel. Entonces vamos claramente al Bat Kol. No, Bet Shammai nunca aceptó que la laja sea como Shammai. Al principio si."
+"startMs": 91400,
+"endMs": 99720,
+"text": "Shamai puslim ve tilel machshim. Amru ve tilel le betshamei, «Lo kaj ja maase». Shalcu, shalchu ziknei betshamei ve ziknei ve tilel le bakeret rabionan joranit."
 },
 {
-"startMs": 404000,
-"endMs": 437000,
-"speaker": "",
-"text": "No pero Les dio lugar a eso, Les dio lugar a ellos Y también dio a entender para toda Israel Que pueden hacer como Bet Shammai Si o sea yo hago así a lo mejor, Pero ustedes o toda Israel, Que hagan hasta yo acepto Hasta yo acepto, A Bet Shammai Entonces, También? Es lo que les hace creer a ellos."
+"startMs": 100260,
+"endMs": 108680,
+"text": "Metsuru yoshef rosh ve rubo ve suca ve shuljano betoj jabait. Amru lahem betshamei. Misham raya, ven amru lo: «Im kaja it anuej, lo kianta mitsva tsuca meiameja»."
 },
 {
-"startMs": 437000,
-"endMs": 470000,
-"speaker": "",
-"text": "Entonces quiere decir que cuando les hace creer eso les está diciendo que, imagina, todo está bien, que toda miserable haga como Bet Shammai Ahora cuando toda miserable empezó a hacer como Bet Shammai se vació el Beit HaMikdash Como que se vació el Beit HaMikdash, Sí, sí tiene que ver Entonces se vació el Beit HaMikdash, porque, La gente dice, si voy a traer Korban, lo voy a traer en Chol HaMoed, traigo los dos juntos. Para qué necesito traer uno? Entonces, el pasuk fue, ahí es lo que salió con Toño, que fue de fiesta en fiesta."
+"startMs": 109360,
+"endMs": 111980,
+"text": "Entonces, ¿qué aprendemos de esto? Aprendemos que Bet-- Betilel,"
 },
 {
-"startMs": 470000,
-"endMs": 507000,
-"speaker": "",
-"text": "La mitad de la historia fue en Sukkot y luego fue en Beitza. Y son esos seis meses que hay acá, entre aquí, que la primera historia fue después de tres años de crear la alajá. Y abajo es Cheshvan y Marcheshvan. Entonces, ¿puede ser que es lo que tarda de un jugador al otro? No sé. Pero ahorita vemos si se nos conecta o no. Pero el punto es que, ¿cómo sabía Bava ben Buta que el Halajá es como Hillel? Porque vio que el Beit HaMikdash estaba vacío y dijo, Dice, si el Halajá es como el Shammai y se vacía el Beit HaMikdash,"
+"startMs": 114220,
+"endMs": 123260,
+"text": "cuando hablan, ellos mencionan primero a Betshamei que a ellos. Darra ya este zipur, que en este zipur mencionaron primero a Betshamei."
 },
 {
-"startMs": 507000,
-"endMs": 538000,
-"speaker": "",
-"text": "entonces, no puede ser el Halajá como el Shammai. Entonces, él entendió el Bat Kol, entonces le hizo a todos entender. que la halajá es como Bet Shammai, tiene como Bet Hillel. Ahora, entonces acá se ve el Elu v'Elu, Elu v'Elu Divrei Elokim Chaim. Se ve también ahí del Bat Kol que la halajá fue como Hillel al final, que a todos les quedó claro que la halajá tiene que ser como Hillel. Y también se ve por qué Zachu Bet Hillela que sea halajá KeMotan, porque son Zachu, Nochim v'Aluvim,"
+"startMs": 123820,
+"endMs": 126760,
+"text": "Dijeron: «Un masé que fueron ziknei Betshamei y ziknei Betilel»."
 },
 {
-"startMs": 538000,
-"endMs": 577000,
-"speaker": "",
-"text": "uMakdimim Divrei Bet Shammai l'Divrei, Nochim v'Aluvim. que Bet Hillel le dice que ok yavo y que hablan primero y que Hikdim Bet Shammai l'Divreihem, exactamente deja la historia rápido, en nuestra historia en nuestra historia, Bet Hillel como que le dio lugar Bet Hillel a los Talmidei Shammai le dio a Shammai, entonces como que les dijo la Halajá es como ustedes, y luego que paso, no puede ser que la Halajá, es como ustedes, entonces la Halajá al final fue como el, Entonces el hecho que Hillel se dio, eso es lo único que fue que Gilá,"
+"startMs": 128460,
+"endMs": 135920,
+"text": "Ora, entonces, de ahí se ve que Betilel son nojim ve aluvim y shonim dibrehem y luego dibrei Betshamei."
 },
 {
-"startMs": 577000,
-"endMs": 609000,
-"speaker": "",
-"text": "entonces quiere decir que también parte del Bat Kol fue que solamente el hecho que Hillel supo ceder a la otra ciudad fue lo que ganó que la Halajá de KeMotan. Entonces yo quiero enfocarme acá, ¿cuál es el Mahut de este Bat Kol? De que el Beit HaMikdash está vacío. Si la Halajá es como Shammai. Cuál es el Mahut de esta Halajá? Entonces, si fuera el único lugar donde si la Halajá es como Shammai hay un Churban,"
+"startMs": 136520,
+"endMs": 146140,
+"text": "Eso es más o menos, eh, lo que dice la Gemara. Ayer preguntamos que cómo es posible que justamente en esta halaja sea la halaja como Betshamei."
 },
 {
-"startMs": 609000,
-"endMs": 656000,
-"speaker": "",
-"text": "entonces el rey diría que es algo casual. Es un simán mina Shammai que la Halajá no es como Shammai. Pero si hay más lugares, en Bet Hillel se habría también solo un lugar, ya sería más pique, pero también si hay más lugares donde vemos que si la Halajá es como Shammai pasa algo malo, entonces entonces quiere decir que va de la mano el hecho que si la Halajá es como se llama se destruye el Beit HaMikdash entonces yo encontré dos lugares el del Beit HaMikdash tapasud es que ese no se llama ahí no tienen que ver."
+"startMs": 146360,
+"endMs": 157520,
+"text": "O sea, la halaja ejemplo a por qué la halaja siempre es como Betilel es de un caso de sucá que es el único de los tres casos que la halaja es como Betshamei."
 },
 {
-"startMs": 656000,
-"endMs": 688000,
-"speaker": "",
-"text": "Entonces yo encontré dos lugares, uno es esta semana, la semana dice así, Shabbat HaGadol, la semana dice así, Shabbat HaGadol,"
+"startMs": 158400,
+"endMs": 159160,
+"text": "Muy loco."
 },
 {
-"startMs": 688000,
-"endMs": 718000,
-"speaker": "",
-"text": "Tal vez valga la pena esto, ya estamos y tenemos hoy un poco de tiempo, entonces, dice la Mishnah, acá, es una Mishnah en Shabbat, en la fiud Gimel, Amul Bet, dice así."
+"startMs": 160500,
+"endMs": 170920,
+"text": "Ahora dijimos: ¿dónde fue ese batkol? ¿Dónde se fue ese batkol? ¿Cómo fue ese batkol? Entonces, explicamos que batkol no es una voz que sale del Shamay, sino algo que pasa en el mundo donde se nota,"
 },
 {
-"startMs": 718000,
-"endMs": 752000,
-"speaker": "",
-"text": "Entonces, una historia que pasó en el tiempo de Hananiá Benjizquia Bengarón. Subieron, él se subió a una alía. ¿Para qué se subió a la alía? Dice acá, dice en la llamada."
+"startMs": 172120,
+"endMs": 176040,
+"text": "eh, el, el, el- La realidad. El, el, el Dvar Hashem, lo que Hashem quiere."
 },
 {
-"startMs": 752000,
-"endMs": 803000,
-"speaker": "",
-"text": "Quién escribió Megilat Anit? Que son todas las fechas de Am Israel que no puedes ayunar y que no puedes... Sí, creo que son esos Megilat Anit. Sí. Son los días buenos del pueblo de Israel. Quién escribió Megilat Anit? Son como días históricos buenos del pueblo de Israel. Dice,"
+"startMs": 178400,
+"endMs": 182380,
+"text": "Entonces, ¿qué pasó? Pasó que Betilel una vez llegó con su olá."
 },
 {
-"startMs": 803000,
-"endMs": 862000,
-"speaker": "",
-"text": "El NO_CORRECTIONS NO_CORRECTIONS NO_CORRECTIONS NO_CORRECTIONS, Entonces, NO_CORRECTIONS NO_CORRECTIONS Pero la hermana le llama NO_CORRECTIONS NO_CORRECTIONS Porque después de las NO_CORRECTIONS hay un es Entonces hay que entender por qué la hermana dice, Mejabebimeta NO_CORRECTIONS y no NO_CORRECTIONS NO_CORRECTIONS Hay que entender eso Dices Mejabebimeta NO_CORRECTIONS, Sí, hay que entender Pero entonces dice NO_CORRECTIONS NO_CORRECTIONS, Los argentinos son las NO_CORRECTIONS, NO_CORRECTIONS NO_CORRECTIONS, Dice, ya tanto sufrieron que ya no, ya es piel muerta, ya no sienten el, las NO_CORRECTIONS."
+"startMs": 184960,
+"endMs": 192900,
+"text": "Betile-- Hilel Hazaken llegó con su olá al Beit Hamikdash para- Eso era en Betzá, ¿no? Sí, Gemara en Betzá. Fue para lismoj alea en yom tov."
 },
 {
-"startMs": 862000,
-"endMs": 897000,
-"speaker": "",
-"text": "Dice, Es el NO_CORRECTIONS, un NO_CORRECTIONS si siente. Pero un NO_CORRECTIONS que tiene una parte muerta, esa parte no se. NO_CORRECTIONS, NO_CORRECTIONS. NO_CORRECTIONS, NO_CORRECTIONS NO_CORRECTIONS. NO_CORRECTIONS. NO_CORRECTIONS es NO_CORRECTIONS. Si no fuera porque NO_CORRECTIONS."
+"startMs": 195280,
+"endMs": 207840,
+"text": "Entonces, llegó para lismoj alea en yom tov. Yyy según Bet-- según Shamai, estaba mal hacer eso, porque tú no puedes traer olá, solo puedes traer shlamim."
 },
 {
-"startMs": 897000,
-"endMs": 927000,
-"speaker": "",
-"text": "se metió a esa aliá a contestar Sefer Yejezkel, lo hubieran metido, a la geniza Sefer Yejezkel. Porque hay muchas NO_CORRECTIONS entre Sefer Yejezkel y Divré Torá. Entonces, en la aliá, Sefer Yejezkel, Fue Jananiá Ben Jizkia Ben Garón A contestar todas las preguntas Que había en Sefer Yejezkel Y a la vez escribir todas las."
+"startMs": 208480,
+"endMs": 214780,
+"text": "¿Por qué solo puedes traer shlamim? Porque es ojo el néfeş. Pero korbán olá, que es kulola y gaboá, no es ojo el néfeş."
 },
 {
-"startMs": 927000,
-"endMs": 963000,
-"speaker": "",
-"text": "Tzarot del Galut y los Nisim que hubo De NO_CORRECTIONS el Galut, Y para eso le subieron 300, Y tenía 300 NO_CORRECTIONS, Barriles de aceite De NO_CORRECTIONS Para vela y para comer Y que no se distraiga, Nunca de ahí Gracias, Que no se distraiga NO_CORRECTIONS, y en ese tiempo él iba a contestar a la Sheelot de Sefer Yejezkel. Ahora, ¿qué pasó ahí mientras él estaba arriba contestando a la Sheelot?"
+"startMs": 214820,
+"endMs": 216240,
+"text": "Entonces, no puede ser el shhita en yom tov."
 },
 {
-"startMs": 963000,
-"endMs": 1005000,
-"speaker": "",
-"text": "Entonces, abran la NO_CORRECTIONS, aquí está en Daf Zayin. En ese tiempo Bet Shamai hizo 18 Gezerot, Takanot Jajamim 18 Gezerot, ahora y esos 18 Gezerot se quedaron como Shamai, pero no porque Hilel discutía y la halajá fue como Shamai, sino en ese momento Hilel perdió su fuerza contra Shamai."
+"startMs": 217780,
+"endMs": 222880,
+"text": "Ora, Hilel sostenía que puedes traer tanto olá y tanto shlamim, tiene psukim, y se puede traer los dos."
 },
 {
-"startMs": 1005000,
-"endMs": 1036000,
-"speaker": "",
-"text": "Como dice la Mishná misma. La Mishná dice, Entonces, era, Entonces, la última, es un caso de que es alguien que está cortando uvas, y le cae agua. No me acuerdo exactamente qué."
+"startMs": 225460,
+"endMs": 229500,
+"text": "Eeeh, entonces, le juntaron todos los talmidim de Shamai"
 },
 {
-"startMs": 1036000,
-"endMs": 1077000,
-"speaker": "",
-"text": "Y había una ahí, una takaná. No me acuerdo ahorita la takaná. Si le cae agua, no me acuerdo de qué. Se hace NO_CORRECTIONS para le caber el tumá. Porque solo con agua las frutas me cabló tumá. Y le pregunta, y le la llama. Por qué solo las uvas? A lo mejor también las aceitunas. Si me sigues molestando y preguntando preguntas, voy a prohibir también las aceitunas."
+"startMs": 231380,
+"endMs": 237880,
+"text": "y le dijeron: «¿Qué, qué, qué estás haciendo exactamente?». Dice: «No, no, no, es shlamim, es shlamim y es nekevá»."
 },
 {
-"startMs": 1077000,
-"endMs": 1109000,
-"speaker": "",
-"text": "El que entra, entra. Y el que sale, no entra. Sí, pusieron un Jérem Beit Hamikdash. Ahorita vamos al Yerushalmi de esto. Estaba Hilel así doblegado en frente de Shamai como si fuera uno de los alumnos. Porque tanto NO_CORRECTIONS allá de Shamai contra Hilel,"
+"startMs": 238000,
+"endMs": 245460,
+"text": "Nekevá sería como que es raya, que es shlamim. Les hizo así, les levantó la cola para que vean que es nekevá, aunque no era."
 },
 {
-"startMs": 1109000,
-"endMs": 1151000,
-"speaker": "",
-"text": "que Hilel se convirtió como si fuera uno de sus alumnos. Por qué le contestó así a 101? Dice, y ese día fue duro para Yisrael como el día que se hizo el Egel. No me consideraría editar muy Yerushalmi, pero esta historia aparece en el Yerushalmi. NO_CORRECTIONS igual."
+"startMs": 246720,
+"endMs": 251360,
+"text": "O sea, de alguna manera les hizo- Ver que es. Ver que es como si fuera mujer."
 },
 {
-"startMs": 1151000,
-"endMs": 1201000,
-"speaker": "",
-"text": "A ver o NO_CORRECTIONS, a ver se NO_CORRECTIONS Shabat Andar com tudo. Me encantó."
+"startMs": 253300,
+"endMs": 255660,
+"text": "Y lo que pasó ahí fue que,"
 },
 {
-"startMs": 1201000,
-"endMs": 1232000,
-"speaker": "",
-"text": "Ese es... Dice así. No, son los dos, está cortito. Ese es... Dice así. En esa historia. Estaban abajo, y no dejaban que suba ningún."
+"startMs": 257740,
+"endMs": 264680,
+"text": "que fueron todos los talmidim y corrieron la voz de que la halaja es como Betshamei. Betshamei. Que Betilel está más king con Betshamei, que ya no..."
 },
 {
-"startMs": 1232000,
-"endMs": 1266000,
-"speaker": "",
-"text": "talmidei Hilel. No, en una historia que leímos ahorita en la semana de Shabat. Dice. Estaban con espadas, los talmidei Shamai y contra los talmidei Hilell. Por eso era un día muy difícil, porque el día que nos llevaron a Hilel, que hubo un..."
+"startMs": 264780,
+"endMs": 275540,
+"text": "Sí, porque Betilel es más king. ¿Qué pasó? Cuando la Gemara, que se itpashed en todo Am Israel que la halaja es como Betshamei."
 },
 {
-"startMs": 1266000,
-"endMs": 1302000,
-"speaker": "",
-"text": "Sí. La idea era que los de Talmidei Shamai querían que la halajá sea como Shamai Entonces tenían que no haya muchos alumnos de Hilel arriba, tenía que haber rov."
+"startMs": 276180,
+"endMs": 283300,
+"text": "Y ahí estaba Baba ben Buta. Gemara dice en Yerushalmi que fue lajar yamim rabin, ¿sí?"
 },
 {
-"startMs": 1302000,
-"endMs": 1336000,
-"speaker": "",
-"text": "Entonces se subieron seis talmidei Shamai, todos los demás abajo se quedaron con espadas y si subieron un talmidei Hilel lo iban a matar. Entonces no sé si mataron mamás, no, no, se ve que no, ¿eh? Estaban amenazando, estaban amenazando a muerte. Para que sean más los talmidei Shamai que los talmidei Hilel, ¿sí? es lo que dice la hermana pero ya vimos nosotros que es lo que dictamina la halajá."
+"startMs": 284520,
+"endMs": 291240,
+"text": "Estaba Baba ben Buta, ve ai odea, sha halaja ke Betshamei. Él sabía que la halaja es como Betshamei."
 },
 {
-"startMs": 1336000,
-"endMs": 1369000,
-"speaker": "",
-"text": "que se haga de papel bueno pero en esta vez fueron más, y en esta vez fueron más los talmides de Shamai, y era con mucho NO_CORRECTIONS y dice la hermana que era, y que a NO_CORRECTIONS, Hay que entender por qué. Pero otra vez vemos acá que cuando la halajá fue como Shamai,"
+"startMs": 291940,
+"endMs": 300980,
+"text": "Entonces, dijimos- ¿Lajar yamim rabin que pasó esto él supo que la halaja fue Betshamei? ¿Eh? En Betilel. Él sabía que la halaja es como Betilel, lajar yamim rabin."
 },
 {
-"startMs": 1369000,
-"endMs": 1401000,
-"speaker": "",
-"text": "es o que el Beit Hamikdash está como destruido, o que es algo como es NO_CORRECTIONS. NO_CORRECTIONS es como si fuera el Beit Hamikdash destruido, es un paralelo igual, es lo mismo. Hay otra hermana, esta es una Tosefta, aquí en Shabat mismo. Si tienes, ¿qué estás? ¿En Sefaria? ¿En Barilán? ¿En qué estás? En Sefaria. Entonces busca la Tosefta. Estaba viendo el. Ah, ¿de dónde lo sacaste?"
+"startMs": 301780,
+"endMs": 322180,
+"text": "Con su... Eh, fue, ¿entonces qué hizo este talmid de Shamai, que sabía que la halaja es como Betilel? Fue y compró animales para todo Am Israel, tres mil animales de lo más meshubáj, para que todo Am Israel acerquen korbánot al Beit Hamikdash, olá y shlamim según la shitá de Hilel."
 },
 {
-"startMs": 1401000,
-"endMs": 1432000,
-"speaker": "",
-"text": "Ahí, le piqué. Y trae? De dónde? Sobre la Gemará. Vecha? No, sobre la Gemará. Ah, sobre la Gemará. Ahí trae un NO_CORRECTIONS. Qué dice? No lo entiendo ni bien. Aquí ven, ahí trae a Yerushalmi y ahí está el mar. Está apagando la..."
+"startMs": 322960,
+"endMs": 333900,
+"text": "Y en ese momento, todo Am Israel trajeron korbánot y nikveá en ese día la halaja como Hilel, ve lo haya quien discuta en el líneas."
 },
 {
-"startMs": 1432000,
-"endMs": 1464000,
-"speaker": "",
-"text": "Ya. Está apagando la... Yo sí. Eso no era tuya? Eso era tuya? Eso era de Jerusalén? Eso era? No, es agua. La camarada, la camarada normal yutzena, muy bien. Nada más de un cachito de hielo y sal."
+"startMs": 333920,
+"endMs": 335080,
+"text": "¿Y cómo fue después este maise?"
 },
 {
-"startMs": 1464000,
-"endMs": 1495000,
-"speaker": "",
-"text": "Dónde está Toño, hermano? Tú me has dado tu cinto el día, ¿no? Qué haces? Qué hago? Qué haces? No lo entendí tanto. No importa. Ahora en acá la Tosefta es que hay varios grisaos. Ahora en la que yo tengo es para el guiudzain a la jatale. Qué es Tosefta? ¿Dónde lo escribes? Sí, escribes Tosefta."
+"startMs": 336620,
+"endMs": 345400,
+"text": "Fue este maise. Este maise. Ahí dijiste que Betilel aceptó y la halaja es como Betshamei. Y Betshamei hicieron la halaja como ellos."
 },
 {
-"startMs": 1495000,
-"endMs": 1528000,
-"speaker": "",
-"text": "En qué categoría está? Tosefta Shabbat. Tenta el mood? Pongo Tosefta solito abajo y sale Shabbat. איזה קטגוריה זו? תוספת לא, לא, אני לא רואה את הסיפר. איזה קטגוריה זו? זה... בוא תכף, בוא דירקטור לפלברה. הלכה או מדרד, אני לא יודע. איזה קטגוריה זו? יות זיין, דלת. שבת, פרק יות זיין, הלכה דלת."
+"startMs": 345880,
+"endMs": 353740,
+"text": "Y Baba ben Buta, y la volteó. Todo Am Israel entendió que la halaja es como Betshamei, no Betilel es-- Primero pensaron que la halaja es como Betshamei, porque Hilel aceptó."
 },
 {
-"startMs": 1528000,
-"endMs": 1560000,
-"speaker": "",
-"text": "משנה דלת. בייסילר אומרים, אגבים על השולחן הצהרות. מחלוקת. מחלוקת בצ'אמי בייסילר. Qué pasa con las clipotas de si yo como pepitas o si comes un pollo? Y el pollo ahorita está en la mesa. Entonces, ese pollo ahora es muxte, pero era comida. Entonces, ahorita es basura. Entonces, ¿cómo se quita los atzamot u clipín?"
+"startMs": 353760,
+"endMs": 362460,
+"text": "Itpashed bejol Am Israel. Itpashed bejol Am Israel. Okey. Ahora- Baba ben Buta vio, dice el Yerushalmi, que vio vacío el Beit Hamikdash."
 },
 {
-"startMs": 1560000,
-"endMs": 1591000,
-"speaker": "",
-"text": "Le pones uno que es. Entonces, más lo que es, de ti le echamos. Según Bet Hilel, dice, Bet Hilel, hombre, ya que eran comida de menos. Entonces puedes quitarlo. No lo puedes tocar. Necesitas como que mover la mesa y que se vuele. Conocen a Zaharia Ben Avkulas? Famosísimo."
+"startMs": 362820,
+"endMs": 372348,
+"text": "Y explicamos que de ahí se dio cuenta que la halaja es como Bet Hillel era Yom Tov y estaba vacío Y ahí compró y le- Entonces fue y compró."
 },
 {
-"startMs": 1591000,
-"endMs": 1624000,
-"speaker": "",
-"text": "Es el de la historia de Camt over Camt. Es el jam que se quedó callado. Entonces, Rabi Zaharia Ben Avkulas tiene una opinión acá. Cuál es la opinión de Rabi Zaharia Ben Avkulas? Dice, No quería ser no como Beit Shammai y no como Bet Hilel. Dice, Lo más fácil, agarras el pollo, en vez de dejarlo en la mesa,"
+"startMs": 373548,
+"endMs": 385708,
+"text": "Compró animales para toda Misrael y desde ahí como Bet Hillel Y era también de Shamai Y era también de Shamai Se fue el bat kol Entonces dijimos que toda esta historia es muy paralela a esta, porque se ve que el"
 },
 {
-"startMs": 1624000,
-"endMs": 1658000,
-"speaker": "",
-"text": "y meterte, que si estás haciendo como Beit Shammai o como Bet Hilel directamente te lo comes y lo tiras directamente a la basura sin ponerlo en la mesa y así evitas hacer o como Beit Shammai o como Bet Hilel, sí? Amar rabi Yosi an vatnutosh el rabi Zaharia ben Avkulas, tarfater ese es el Rashid que hiciste también, cuál? En la Guemará Nuestra dice Rashid sobre Bet Hilel, entonces lo iba a decir."
+"startMs": 388188,
+"endMs": 398128,
+"text": ". Hay eso en el bat kol de allá, sí. ¿Como? Que tanto Hillel aceptó que la halajá sea como Shamai y tanto el talmid de Shamai como Bet Hillel."
 },
 {
-"startMs": 1658000,
-"endMs": 1690000,
-"speaker": "",
-"text": "Le fiche Hilel, así, van Betán. Cuando dice el problema de que Bet Hilel se escapaba al Beit Shammai, Rashid dice, le fiche Iu, es una nava mala, tipo. Entonces aquí también igual, ¿no? Hay que entender, sí. Entonces acá otra vez, aquí hay una nava. El problema que tiene el Beit Shammai es el problema que tiene Rabi Yosi. y acá, entonces acá, él que hizo, evitó hacer evitó el conflicto."
+"startMs": 398548,
+"endMs": 401268,
+"text": "Entonces vemos claramente el bat kol No, Shamai nunca"
 },
 {
-"startMs": 1690000,
-"endMs": 1721000,
-"speaker": "",
-"text": "por qué por esto, que es muy legal, no decir como ni uno de los dos, quiero no meterse en la bronca eso destruyó el Bet HaMikdash allá conocemos el Sepulcro, pero aquí por qué lo trae es lo que estoy trayendo vemos que siempre que, no quieras hacer la laja como Bet Hilel es destruir el mundo entonces tenemos cuatro no nomás cuando no haces como Bet Hilel, por no hacer como Bet Hilel por no hacer como Bet Hilel es sacana."
+"startMs": 402468,
+"endMs": 409548,
+"text": ". Bet Hillel nunca hizo lo mismo que Shamai Al principio sí No, . Ah, bueno, se enfó No, pero- Él estaba haciendo- No, pero les dio lugar a eso."
 },
 {
-"startMs": 1721000,
-"endMs": 1753000,
-"speaker": "",
-"text": "dijimos, el Bet HaMikdash Bet HaMikdash, Nasahegel, tercera esta cuarta casi matan Bet Hilel, saludmos, los alumnos se están matando ahí y la cuarta cual, nuestra Mishná, que qué pasó con Rabi Tarfon Rabi Tarfon se acostó para decir, que también según Bet Hilel sales de Jehová nada más que hiciste algo parecido a Rabi Zaharia."
+"startMs": 409588,
+"endMs": 416308,
+"text": "Les dio lugar a eso dar a entender que la halajá es como Shamai Sí Según ellos. Sigue haciendo lo que tú crees que haces Les dio lugar a ellos, ¿no?"
 },
 {
-"startMs": 1753000,
-"endMs": 1785000,
-"speaker": "",
-"text": "y Ben Avkulas, que quisiste hacer, como los dos, y no quisiste hacer como Bet Hilel a Filo que al final hiciste como los dos a que Aret, Rabi Zaharia y Ben Avkulas hicieron como los dos, Pero no quiso definir como Bet Hilel. No quiso cortar el pastel. Entonces, cada vez que no haces como Bet Hilel, sabes que no haces, Pashut? Jaya mitad. Nuestra hermana dijo, jaya mitad. Entonces, lo vemos mamás claramente, cómo este tema es mamás. Luego, Pashut, aquí lo que estás haciendo como Bet Hilel,"
+"startMs": 416388,
+"endMs": 424808,
+"text": "Y también dio a entender para toda Misrael que pueden hacer como Be Shamai. Sí. O sea, yo hago así a lo mejor, pero ustedes o toda Misrael que hagan..."
 },
 {
-"startMs": 1785000,
-"endMs": 1819000,
-"speaker": "",
-"text": "tienes que decir Hilel y no Shammai. Porque si no dices Hilel y no Shammai, Sarpal da el Jal. Qué hizo? Qué hizo? Nada más no hizo. No quiso hacerle a mí, le aquel como a Bet Hilel. Pero también Bet Hilel estaba bien que lo hayas hecho para atrás, no pasa nada. Es que no hizo como a Bet Hilel. Claro. Se puede aumentar también tal vez, o sea, que el no da viuda, el ven yo ya da. Ven yo ya da. Trae, deita, velicute, Tora, le raveno, Arizal, shilela, ya vejé a trajel, beshama, ya vejé a leal."
+"startMs": 425268,
+"endMs": 432428,
+"text": "Hasta yo acepto. Hasta yo acepto a, a, a Be Shamai. Entonces- Yo lo estoy haciendo ahorita También."
 },
 {
-"startMs": 1819000,
-"endMs": 1850000,
-"speaker": "",
-"text": "La verdad para él es así, la verdad para él es así, no puedes tú irte para allá. Vamos a entenderlo más aquí. Mira, lo personal lo trae al revés, no queda para lo que quiera, esto llega. No, luego se cambia ahí."
+"startMs": 433288,
+"endMs": 442168,
+"text": "Sí Es lo que les hizo creer a ellos. Sí, sí, sí Entonces, quiere decir que cuando les hace creer eso, les está diciendo que-- imagina, todo está bien, que toda Misrael haga como Be Shamai."
 },
 {
-"startMs": 1850000,
-"endMs": 1883000,
-"speaker": "",
-"text": "Sí, aquí está cambiando. No, luego se cambia, hay que entender. Hay que estudiar con la hermana y todo. No sé si hay más raiota o lo mismo. Ahí hay otro cipul. No sé si verlo ahorita. Igual, de Beit Shammai y así."
+"startMs": 443028,
+"endMs": 446228,
+"text": "Ahora, cuando toda Misrael empezó a hacer como Be Shamai, se vació el Bet Hamikdash"
 },
 {
-"startMs": 1883000,
-"endMs": 1914000,
-"speaker": "",
-"text": "Baba en Buta. Baba en Buta es el que identifica que nosotros ahorita estamos que ir escuchando el bat kol, ¿me explico? Que estás viendo que siempre que la lajas como Bechamay, sacan a Tepazot, y Baba en Buta es el que lo identifica y lo voltea. Pues hay una hermana sobre Baba en Buta, abranla, vamos a verla, tenemos todavía una hora, entonces podemos pasear. vao atrap daf gimel."
+"startMs": 447628,
+"endMs": 461708,
+"text": "Como que se vació el Bet Hamikdash Sí. Sí, sí tiene que ver. Entonces, se vació el Bet Hamikdash porque la gente dice: \"Si voy a traer corban, lo voy a traer en Joreh Moed, traigo los dos juntos, ¿para qué necesito traer uno?\"."
 },
 {
-"startMs": 1914000,
-"endMs": 1946000,
-"speaker": "",
-"text": "gimel? gimel ale? gimel amud bet hasta abajo dice asi, amarman gordus, Abda de Beit Hashmona y Abba. Tienen? Sí. Claro. Entonces, Ordus era abda de Beit Hashmona y Natán e Ináv y Otá Tinoket."
+"startMs": 462488,
+"endMs": 468948,
+"text": "Entonces, fue, ahí es lo que salió con Toño, que fue las-- de fiesta en fiesta."
 },
 {
-"startMs": 1946000,
-"endMs": 1979000,
-"speaker": "",
-"text": "Vio a una niña. Dice, yo y Majad, Chama, Ahu, Gabra, Batcala, de Amar, con Abda de Mar y de Hashta, Matzla. Un día, Ordus escuchó un bat kol que cualquier abda que ahorita muere va a tener atlaja. Entonces, Ordus era un hebe de los jashmonaim. Y escuchó un bat kol que el que ahorita muere, va a tener la tzalajá, se va a hacer reír. Qué hizo?"
+"startMs": 470088,
+"endMs": 481488,
+"text": "La, la mitad de la historia fue en Sucot y luego fue en Pesaj. Y son esos seis meses, ulain, que hay acá entre-- aquí, que la primera historia fue después de tres años de crear la halajá"
 },
 {
-"startMs": 1979000,
-"endMs": 2011000,
-"speaker": "",
-"text": "Mató a todos los jashmonaim, a todas las casas de los jashmonaim, y dejó nada más a esa niña que le gustaba, para casarse con ella. Cuando vio a la niña que él quería casarse con ella, se fue al techo. Se subió al techo y empezó a gritar. Todos los que digan que es de la casa de Hashmonay,"
+"startMs": 484108,
+"endMs": 484608,
+"text": "Y abajo"
 },
 {
-"startMs": 2011000,
-"endMs": 2046000,
-"speaker": "",
-"text": "es un hebre. Y ella se cayó del techo. piso. No dice que se tiró. ¿Eh? No dice que se tiró. No sé. No entienden lo que dijo. O sea, que si se casa Ordus con ella, entonces va a ser un Ebed. Y entonces ella también está anunciando que Ordus es Ebed."
+"startMs": 486108,
+"endMs": 499528,
+"text": ". Entonces, puede ser que es lo que tarda de un al otro, no sé, pero, pero ahorita vemos si se nos conecta o no. Pero el punto es que cómo sabía Rab Ben Buta que la halajá es como Hillel, porque vio que el Bet Hamikdash estaba vacío y dijo:"
 },
 {
-"startMs": 2046000,
-"endMs": 2090000,
-"speaker": "",
-"text": "Dice. La escondió siete años en miel, para que no se eche a perder su cuerpo. Y cada hambre valea, hay quien dice que valea, después de que estaba muerta. Y cada hambre lo valea. De hambre valea, atamna, dice, li tuvele itzres. Wow, ¿para tener hijo? No, es para aguantarse, a no tener que la valea muchas veces. Ah, no. Para poder la abuela muchas veces, la tenía que mantener, sí, que no se echa a perder."
+"startMs": 501848,
+"endMs": 510388,
+"text": "Bet Shamai. Dice: Shamai. Dice: \"Si, si la halajá es como Be Shamai y se vació el Bet Hamikdash, entonces, entonces no puede ser la halajá como Be Shamai\"."
 },
 {
-"startMs": 2090000,
-"endMs": 2121000,
-"speaker": "",
-"text": "Dice, es para que digan que se casó él con la hija de un rey. Amar, ¿quién dónde el bazook? que solo un Yehudi no Eved puede ser rey entonces que él se postuló como rey porque mató a los reyes, que eran los Hashmonaím entonces dijo, Quién dijo que un Eved no puede ser rey? entonces dijeron Rabbanan."
+"startMs": 510428,
+"endMs": 517508,
+"text": "Entonces, él entendió el bat kol, entonces hizo a todos entender que de la halajá es como Be Shamai."
 },
 {
-"startMs": 2121000,
-"endMs": 2154000,
-"speaker": "",
-"text": "mató a todos los Hashmonaim, dejó, El único Jajam que dejó vivo fue a Baba ben Buta para poder aconsejarse con él. Lo mató también? Sí, sí."
+"startMs": 519707,
+"endMs": 522148,
+"text": "Y como Be Hillel. Ahora, entonces, acá se ve el"
 },
 {
-"startMs": 2154000,
-"endMs": 2194000,
-"speaker": "",
-"text": "Le puso como que una corona, ¿sí? Le dijo a Baba ben Buta que no quería ver a Baba ben Buta, que no quería ver a Baba ben Buta."
+"startMs": 523688,
+"endMs": 529968,
+"text": ". Se ve también ahí del bat kol que la halajá fue como Hillel al final, que a todos les quedó claro que la halajá tiene que ser como Hillel."
 },
 {
-"startMs": 2194000,
-"endMs": 2227000,
-"speaker": "",
-"text": "Quién es? Amar. Oye, baba, checate ese Ordus, todo lo que está haciendo. Yo qué puedo hacer? Sí? Te calelo tú. También en tu edad, no puedes le calelo a un rey. Amar lei, ahí la melej, ahí no es rey. Adéi. Él es un héroe."
+"startMs": 530488,
+"endMs": 536628,
+"text": "Y también se ve por qué Bet Hillel a que sea halajá kemotam, porque son"
 },
 {
-"startMs": 2227000,
-"endMs": 2264000,
-"speaker": "",
-"text": "Dice, bueno, dices, bueno, Dice, ¿me da miedo de él?"
+"startMs": 543048,
+"endMs": 547288,
+"text": ". Que Be Hillel se quedó callado Y que hablan primero- Y que Be Shamai"
 },
 {
-"startMs": 2264000,
-"endMs": 2295000,
-"speaker": "",
-"text": "Estamos solos. Nadie quiere decirle. Amar lei K'tiv. Dice, la voz de un pajarito lo va a contar. Amar lei Anahu. Dice, yo soy Ordus. si hubiera sabido yo que todos los Rabbanim son tan zehirim con sus palabras lo llevaba a Katlin Alem, hasta Mayta canta de Ahu Gabra."
+"startMs": 549208,
+"endMs": 558308,
+"text": ". Exactamente. No, deja la historia rápido. En nuestra historia, en nuestra historia, BeShm-- como que le dio lugar, BeShm a los talmidim de Shamai."
 },
 {
-"startMs": 2295000,
-"endMs": 2325000,
-"speaker": "",
-"text": "que puedo hacer dice apagaste la luz del mundo, porque los Jajamim son la luz del mundo necesitas, להתעסק באורו דלמונדו דכתיב ונהרו אליו כל הגויים לבית המקדש אין אורו דלמונדו וכאן אמרי אחי אמר לו הוא שמא עינו של עולם, אתה הצרת עלמא דמונדו דכתיב והיה עיני העידה."
+"startMs": 558868,
+"endMs": 565888,
+"text": "Le dio Shamai. Entonces, como que les dijo: \"La halajá es como ustedes\". ¿Y luego? ¿Qué pasó? No puede ser que la halajá es como ustedes."
 },
 {
-"startMs": 2325000,
-"endMs": 2367000,
-"speaker": "",
-"text": "ילך להתעסק בעינו של עולם, נסיסית הסורידה, לבנות עין דלמונדו דכתיב הנה אני מחלל את מקדשי, גאון עוזכם, מחמד עיניכם, Le contestaron los romanos, si no lo has destruido, o sea, era destruir para construir, no lo destruyes."
+"startMs": 565948,
+"endMs": 572908,
+"text": "Entonces, la halajá se-- al final fue como él. Entonces, el hecho que Hillel- La halajá sea como él, él luego te acepta la Exactamente."
 },
 {
-"startMs": 2367000,
-"endMs": 2401000,
-"speaker": "",
-"text": "pero si ya lo destruiste dice no lo construyes, y si ya lo destruiste ya lo construiste, después de que, hiciste te aconseja, dice si tienes ahí un arma contigo, y, Ahí tienes tu Sefer, o sea, tu libro de Yujsin, ¿sí?"
+"startMs": 573268,
+"endMs": 576588,
+"text": "El hecho que Hillel cedió, eso es lo único que fue que"
 },
 {
-"startMs": 2401000,
-"endMs": 2432000,
-"speaker": "",
-"text": "Entonces dice, tienes que apuntar ahí que no eres ni rey ni hijo de rey. Ordus es un event que solito se convirtió en Ben Horin. Entonces acá vemos que aquí hay algo muy amor. tanto así que la llamada aquí más adelante dice hambre y es en la letra."
+"startMs": 577828,
+"endMs": 589168,
+"text": ". Entonces, quiere decir que también parte del bat kol fue que solamente el hecho que Hillel supo ceder a la otra shitá fue lo que garam que la halajá sea kemotó."
 },
 {
-"startMs": 2432000,
-"endMs": 2476000,
-"speaker": "",
-"text": "va de safari a los siguientes párrafos Michel o Rapi ni a los dos los Rabbanim y en mi mamá el binian más bonito que remodeló todo el Bet HaMikdash y lo dejó Baicheni y Ordus se modeló todo Baicheni y por esta historia de Baba ben Buta porque él le quiere hacer teshuvá haber matado los Jajamim, Hizo teshuvá y construyó el Bet HaMikdash más bonito que hay en el mundo."
+"startMs": 589188,
+"endMs": 599688,
+"text": "¿Sí? Entonces, yo quiero enfocarme acá, ¿cuál es el majut de este bat kol de que el Bet Hamikdash está vacío si la halajá es como Shamai?"
 },
 {
-"startMs": 2476000,
-"endMs": 2510000,
-"speaker": "",
-"text": "Entonces, acá, vemos un paralelo muy interesante con Nostradamara. Baba ben Buta fue el que se dio cuenta en nuestra Guemará que el Bet HaMikdash está shomem. Y él, al detectar que el Bet HaMikdash está shomem, dijo, no, necesitamos construir el Bet HaMikdash y cavar la araja como hiler. Y en esta Guemará, el Bet HaMikdash está shomem porque si mató a los Jajamim, entonces no hay Bet HaMikdash. No hay Bet HaMikdash y él mismo hace que se remodelen."
+"startMs": 599688,
+"endMs": 604128,
+"text": "¿Cuál es el majut de esta halajá? Entonces, si fuera el único lugar"
 },
 {
-"startMs": 2510000,
-"endMs": 2544000,
-"speaker": "",
-"text": "Entonces vemos cómo Baba ben Buta, él es justamente, quiere decir que el Talmidei Shammai, que acepta que la Halajá es como Hilel, él es el que construye el Bet HaMikdash. Sí, vemos, vamos paralelo a las Guemarot. Está ciego. Eh? Sonó como que está ciego, que no ve el metziut, como si todo ven, y él ve... Él ve... Quieres ver el tajlit? Cierra los ojos. Con los ojos fuertes. Exactamente. El cierra los ojos."
+"startMs": 606148,
+"endMs": 615488,
+"text": "donde si la halajá es como Shamai, hay un jurbán, entonces Ulai diría: \"Es algo casual\". Es un sin man mina Shamai que la halajá no es como Shamai."
 },
 {
-"startMs": 2544000,
-"endMs": 2574000,
-"speaker": "",
-"text": "El cierra los ojos y deja la Halajá Si Estamos duros, como sigue la historia, ya dice tu chico, esto lo amaban No, no Lo amamos o no se Hay que ver la historia, Entonces, porque es así, Nos vemos claramente, osea un patrón muy claro, incluyendo el patrón de Baba ben Buta con el Bet HaMikdash destruido y construido o sea, teniendo esta Guemará y comparándolo con la Guemará en Betá."
+"startMs": 615748,
+"endMs": 626128,
+"text": "Pero si hay más lugares, esto se habría también solo un lugar, ya sería más pik, pero también si hay más lugares donde vemos que si la halajá es como Shamai, pasa algo malo."
 },
 {
-"startMs": 2574000,
-"endMs": 2605000,
-"speaker": "",
-"text": "si tenías dudas si el Bet HaMikdash era shomem y era y luego otra vez, Baba ben Buta hizo que otra vez el Bet HaMikdash florezca, cuando ves otra vez la misma historia, dices ah, lo que viste en Betá era Mamash que iba a ser shomem Mamash y Baba ben Buta es el que hace que florezca el Bet HaMikdash. Ahora va a ver en Betá El Bat Kol como captó a Ordus, Ah, yo vi una mentira Un niño diciendo que..."
+"startMs": 626848,
+"endMs": 634148,
+"text": "Entonces, entonces quiere decir que va de la mano el hecho que si la halajá es como Shamai, se destruye el Bet Hamikdash."
 },
 {
-"startMs": 2605000,
-"endMs": 2637000,
-"speaker": "",
-"text": "Algo así Se lo mandaron a decir de Shamaim, Fue verdad? Claro eso Fue verdad el Bat Kol? Algo escuchó, escuchó un niño Sí, sí, hizo rey, mató a todos los Jajamim ahí Les quitó el mal juzgo Le mandaron a la construcción, Cómo puede ser que Bet HaMikdash que está considerada como una chalci? Ordus? Amchal. Eh? Amchal que necesitamos un ordos que le dé ese... Fue Baicheni, la remodelación de Baicheni fue así."
+"startMs": 634148,
+"endMs": 643568,
+"text": "¿Sí? Se destruye el Bet Hamikdash. Entonces, yo encontré dos lugares El del Bet Hamidrash está majut Es que ese no es Shamai, Hillel No, pero también."
 },
 {
-"startMs": 2637000,
-"endMs": 2669000,
-"speaker": "",
-"text": "Hay que entender. Malos, malos. Hay que entender. Porque se destruye, ¿no? Se destruye y es un para... No opinas, sí? Hay que entender por qué. No, pero ojalá lo vea algo malo, ¿no? Que el Bet HaMikdash se necesita ser remodelado por un Ordus. Es un simán malo del Bet HaMikdash que necesitamos. Sí. Sí, sí, sí, hay que entender 100%. Todo lo que hay hoy en Jalán lo hizo él. Lo que hay? Lo que hay, las murallas. No, él lo remodeló el Bet HaMikdash ya, ¿no?"
+"startMs": 643568,
+"endMs": 645008,
+"text": "¿No, no tienen que ver?"
 },
 {
-"startMs": 2669000,
-"endMs": 2711000,
-"speaker": "",
-"text": "Las murallas, no. Qué la verdad dice? ¿Cómo lo hizo? Él fue el último. Pero acá la verdad luego sigue diciendo, ¿cómo lo remodeló? Saiz, Labán, Villarón. Dónde está el cajón? Labán, Villarón. La voz no tiene que ver con el Saiz, la vacuidad. Entonces, hay un Zohar que dice así."
+"startMs": 663468,
+"endMs": 665248,
+"text": "Entonces, yo, yo encontré dos lugares."
 },
 {
-"startMs": 2711000,
-"endMs": 2747000,
-"speaker": "",
-"text": "La hermana sigue preguntando, ¿cómo puede ser que hizo algo así a la bebé Baba ben Buta, no? Por qué le dio esa cha? Como que mal, mal. La hermana pregunta, ¿por qué me mete la diosa cha y dice, vete a mi casa? Qué es eso? Es un doar. Qué le dice? No, pero ¿qué es eso? Qué es eso? Qué le dice así? O no dice así? está muy corto."
+"startMs": 668428,
+"endMs": 670208,
+"text": "Uno es esta Guemará. La Guemará dice así:"
 },
 {
-"startMs": 2747000,
-"endMs": 2782000,
-"speaker": "",
-"text": "ya se los dejo dice, Amar lei, Hilel y Shamai de Atun, Misitre Misitre de Rahamim, y Misitre Misitre de Din la mahloket, de Hilel y Shamai es que uno viene del Olam de Rahamim, del lado de Rahamim, y Shamai viene del Olam del Din, de Inun Jeze Dukvura, Dargin de Avraham de Yitzjak, que son jesed y gvura, que son las madrigot de Avraham e Yitzjak. Beit Hilel es jesed y Beit Shamai es gvura."
+"startMs": 677508,
+"endMs": 678208,
+"text": "Shabat dav"
 },
 {
-"startMs": 2782000,
-"endMs": 2813000,
-"speaker": "",
-"text": "Ahora, dice acá, les voy a leer aquí un malvín, dice así. Dice, para hermanos que vinieran de ahí y me Jolaquín Bet-Shamay o Bet-Shamay. Bet-Shamay, vanim shahim aharav, su maalaj era, haya darkem lemayes beolamaze. Eso es lo que hace Midat Ad-Din, como Yitzhak Avinu, es un prishut total dejar el olam hazeh. Porque Midat Ad-Din, por ejemplo, Y eso es Midat Ad-Din? Claro, para dejarlo."
+"startMs": 679468,
+"endMs": 680228,
+"text": "Dav Yud Zain."
 },
 {
-"startMs": 2813000,
-"endMs": 2846000,
-"speaker": "",
-"text": "Dejas todo el olam hazeh. Por qué? Porque si tú tienes una comida, Midat Ad-Din dice, tienes que hacer un beirut muy amok. Qué quesher comes? lo único que pongo es la nota de Hashem entonces tienes que hacer un Beirut muy para que no seas un gazlán, para que no comas algo, entonces tienes que."
+"startMs": 683468,
+"endMs": 685288,
+"text": "Ulai vale la pena, eh..."
 },
 {
-"startMs": 2846000,
-"endMs": 2884000,
-"speaker": "",
-"text": "y solamente algo que es mamás, lo puedes usar lo llevó a convertirse en una ola, en un mundo de mi edad el único lugar que puedo existir es con Hashem allá arriba, pero mi existencia aquí es una mentira esta es la cita de mi edad de convertir el mundo en un mundo rujaní totalmente, dice, esto lo explicamos más."
+"startMs": 689668,
+"endMs": 693828,
+"text": "Ulai vale la pena esto, si ya estamos y tenemos hoy un poco de tiempo."
 },
 {
-"startMs": 2884000,
-"endMs": 2915000,
-"speaker": "",
-"text": "כי בצ'עמאי קצו בעולם הזה ברעותיו ומעשו בו וכנותו את המונוס מונופאו, מהלו? זה לא נברא? זה לא נברא, והשתתלו תמיד להפשיט הנפש מן הגוף והיו אומרים שטוב היה לו לאדם אם לא היה נברא לחיות עם הגבייה שעושמה בנפש במאסרור לרעתה כבר כתב אריזל שמה שאין הלכה כבצ'עמאי וכרשבי הוא מפני גודל מעלתה, כי זו נדרגה טנטן גבוהה שלועסקו, בתורת העולם הזה כלל."
+"startMs": 695328,
+"endMs": 696228,
+"text": "Entonces,"
 },
 {
-"startMs": 2915000,
-"endMs": 2949000,
-"speaker": "",
-"text": "רק בתורת העולם האצילות כי התורה מתפשטת, בכל עולם ועולם ונפרדו מן העולם הזה ועסקו בתורת השכליים הנפרדים והתורה כפי סודותיה בעולמות העליונים, הלכותיה משונים מכפי עניינם בעולם הגופים. No, ellos ven la realidad solo desde su aspecto espiritual. Dicen que los cielos son más grandes que los cielos y que los cielos son más grandes que los cielos."
+"startMs": 703408,
+"endMs": 704268,
+"text": "dice la Mishná"
 },
 {
-"startMs": 2949000,
-"endMs": 2990000,
-"speaker": "",
-"text": "Y que sí se terminó la halacha de Atitlalón cuando se desplazaron las nubes de los cuerpos, ahora se ha convertido en la halacha de Matá, como si fuera el mundo de hoy. Y aquí está escrito que la Torá ha sido convertida en la Torá de Matá, como si fuera la Torá de Mal. Que la Torá de aquí abajo va a ser como la Torá de arriba. Entonces, la emarada dice Por eso la operación empieza a decir."
+"startMs": 705628,
+"endMs": 706188,
+"text": "acá."
 },
 {
-"startMs": 2990000,
-"endMs": 3020000,
-"speaker": "",
-"text": "En Pérez B, ya dice La emarada dice, cuando vio a Hashem que si el mundo es de midad a din, no puede leitkayem entonces acabamos de ver, a midad a din entonces, leo una llamada más."
+"startMs": 708948,
+"endMs": 714288,
+"text": "Dice la Mishná en Shabat, Yud Guimel, amud Bet, dice así:"
 },
 {
-"startMs": 3020000,
-"endMs": 3051000,
-"speaker": "",
-"text": "nada más para entenderlo un poquito no voy a hacer la deo dice así, Bachelorette, Shammai y Hillel, תנו רבנן, בת שמי אומרים שמיים נבראו תחילה, ואחר כך נברא תאריץ גמרן חגיגי יותבת המודל דיזה, בת שמי אומרים, שמיים נבראו תחילה ואחר כך נברא תאריץ שנאמר בראשית בראה לוקים, את השמיים בת אריץ ובת הלל אומרים, ארץ נברא תחילה ואחר כך נברא השמיים שנאמר ביום הסוד השם לוקים."
+"startMs": 732108,
+"endMs": 744184,
+"text": "Entonces, una historia Que pasó en el tiempo de Hananiah ben Hizkia ben Garom Cuando están en su Aliah Subieron."
 },
 {
-"startMs": 3051000,
-"endMs": 3083000,
-"speaker": "",
-"text": "ארץ השמיים, כזה קראו פרימר, אל צלו לתירה, סגון בת שמי, אל צלו סגון בת אילן, לתירה, Aquí hay una Nafkamina Tzuma. Qué se crea primero? ¿Qué me importa? ¿Cuál se creó primero? Entonces, deja que es lo más importante. La escuela de alma del mahalaj es que, la tierra tiene que llegar al cielo. Shamayim es mi nación Sham. O Shamayim, ¿sí? Sham es el lugar en donde queremos llegar. Y él es mi nación Ratzón, mi nación Ritzá. Es la que quiere llegar a Sham."
+"startMs": 744303,
+"endMs": 752684,
+"text": "Él se subió a una Aliah. ¿Para qué se subió a la Aliah? Dice acá, dice la Gemara: \"Tanu Rabbanan Mi katav megilat Taanit\"."
 },
 {
-"startMs": 3083000,
-"endMs": 3115000,
-"speaker": "",
-"text": "A Azutajlit. Entonces... Si tú creas primero el cielo y después la tierra, quiere decir que cuando se crea la tierra, ya está definido cuál es su tajlit. Y no tiene ninguna existencia más que llegando a su tajlit. Eso se llama midatatí. Nunca la tierra puede existir por sí misma. Si no está caminando allá. Si no está, exactamente. Pero para Betíle, se creó la tierra antes de que exista el cielo. Más o menos."
+"startMs": 752764,
+"endMs": 767424,
+"text": "¿Quién escribió Megilat Taanit? Que son todas las fechas de Am Israel que, eh... Que no puedes ayunar y que no puedes-- o que sí, que, que \"asur le mispaj ve lo-- ve litanot bejon\"."
 },
 {
-"startMs": 3115000,
-"endMs": 3145000,
-"speaker": "",
-"text": "Que puede existir la tierra hasta en caja. O sea, me mide el tarajamí. A filo, todavía no existe el cielo, entonces todavía no tiene un tajlit mamás. A filo que no tiene un tajlit mamás, pero va a tener tajlit ahorita que creamos el cielo. Entonces eso le da a la tierra existir, aún siendo que no está ya en ese estado que está conectada. Según Bet Chamay, si el mundo de abajo no está caminando ahí, Mabul, acá con todo. Exactamente. No puede existir si no. Exactamente. Y según Bet Tirel, no."
+"startMs": 768424,
+"endMs": 770344,
+"text": "Sí, creo que son esos Megilat Taanit."
 },
 {
-"startMs": 3145000,
-"endMs": 3183000,
-"speaker": "",
-"text": "Exactamente. Para Bechamay, el mundo es una de dos. Mi data tiene es o todo o nada. Hoy hay otro Mashiach, el Tikkun HaShalem, y si no, es el Hurban. O es el Mashiach y es el Tikkun HaShalem o es el Hurban. Betilé, él dice, no, hay Rahamim. Rahamim, Biru Shostel Abar, Milashon, como siempre lo decimos, Milashon Rejem y Milashon Mahal. El bebé, cuando está en el régimen de la mamá, está esperando a salir al mundo, pero todavía no está listo, pero va a salir."
+"startMs": 774164,
+"endMs": 781424,
+"text": "Sí. Son los días buenos de Am Israel. ¿Quién escribió Megilat Taanit? Son como que días históricos buenos de Am Israel."
 },
 {
-"startMs": 3183000,
-"endMs": 3215000,
-"speaker": "",
-"text": "Entonces, igual una persona que hizo a Berot, no está listo, no está en su machame metucán, pero está en camino a, eso es majar, rajamín majar, ¿sí? Entonces, dijimos, hablamos, hablamos, ¿sí? Esperar a que llegue el Tachlit. Vamos a llegar al Tachlit. Y estamos caminando hacia el Tachlit. Cuál es el Tachlit del mundo?"
+"startMs": 781924,
+"endMs": 787784,
+"text": "Dice: \"Amru Hananiah ben Hizkia ve siható shehayu mechabevim et hatzarot\"."
 },
 {
-"startMs": 3215000,
-"endMs": 3245000,
-"speaker": "",
-"text": "En otras palabras, es el batzal del Tachlit. la tierra se convierte en cielo si el Criado Chema, el momento del Criado Chema, mete el Uvlech Tejá a la derecha o no mete el Uvlech Tejá a la derecha."
+"startMs": 789224,
+"endMs": 798724,
+"text": "Ellos, \"hayu mechabevim et hatzarot\", dice Rashi, \"she nigalin mehem ve ha nes javiv alehem le hazkiro le-- le shivjo shel Hakadosh Baruju u"
 },
 {
-"startMs": 3245000,
-"endMs": 3280000,
-"speaker": "",
-"text": "si es un Uvlech Tejá a la derecha no, Uvlech Tejá, Uvkumecha, total el mete el Uvlech Tejá a la derecha, tanto al Uvlech Tejá y tanto al Uvkumecha, el Uvlech Tejá a la derecha es el hoy, No es el majar? Estás caminando. El tabader es el majar? El majar es el besojojao kumeja. O sea, el majar, es el bechamay. Mañana, la tizla o el alajá es como chamay. Pero el tabader, el alajá, es como hilel."
+"startMs": 800744,
+"endMs": 813404,
+"text": "ve kotvim yom ha nes la'asotán yom tov kegon el in yoimin de lo litanan bejon\". Entonces, \"mechabevim et ha nes\", pero la Gemara le llama \"mechabevim et hatzarot\", porque después de la \"tzarot\" hay un \"nes\"."
 },
 {
-"startMs": 3280000,
-"endMs": 3311000,
-"speaker": "",
-"text": "Entonces, fíjate que increíble. Hilel tiene que aceptar que el alajá va a ser mañana como bechamay? A fuerzas. Tiene que hoy aceptar Va a aceptar mañana o va a aceptar el día de hoy? El día de hoy Tiene que aceptar, Ahora, ¿qué pasa, si él no acepta Viglal que el alhaja sea como Betile? Entonces tampoco el alhaja puede ser como Betile Porque si mañana no vas a llegar a Betile."
+"startMs": 814284,
+"endMs": 824784,
+"text": "Eso hay que entender por qué la Gemara dice \"mechabevim et hatzarot\" y no \"mechabevim et hanissim\". Hay que entender eso. Dice- No puedes buscar el \"nisim\" sin \"tzarot\", ¿no?"
 },
 {
-"startMs": 3311000,
-"endMs": 3348000,
-"speaker": "",
-"text": "entonces hoy no puede ser como Betile tampoco, Porque todo el malaj de Betile es el deres que te lleva, que mañana puedo hacer como Bechama exactamente, es la única manera es llegar a hacer mañana como Bechama, pero si hoy ahora que pasa si hoy hago la alhaja como Bechama, entonces tampoco voy a hacer la alhaja mañana como Bechama porque se va a destruir el mundo entonces si el mundo hoy es Bemidat Adin."
+"startMs": 825544,
+"endMs": 838764,
+"text": "Sí, hay que entender. Haré cola josho Pero entonces, si \"mechabevim et hanissim\", los agradecemos que son las \"tzarot\". \"Amar rabá Shimon Gabriel af anu mechabevim et hatzarot aval ma naasé she im banu lichtov en anu maspiki\"."
 },
 {
-"startMs": 3348000,
-"endMs": 3378000,
-"speaker": "",
-"text": "se destruye, pero si el mundo hoy es de mi data rajamim entonces tampoco va a existir también se destruye, tiene que ser que Ilel acepte que la halakha sea como, se destruye el mundo y mi meile no puede ir a caer, si te imó mi data rajamim."
+"startMs": 839604,
+"endMs": 847584,
+"text": "Dice rabí Shimon Gabriel, había \"tzarot\" durísimas, él fue uno de los «hasasá» de rey Maljú. Entonces, dice: \"She im banu lichtov en anu maspiki."
 },
 {
-"startMs": 3378000,
-"endMs": 3410000,
-"speaker": "",
-"text": "Entonces, entonces, después se destruye y se construye sin mirar a la gente. Ya, Filu Bechamay entiende, querido Javier Morín. Y después, entonces Filu Bechamay dice que la única manera como hacer que la Laja sea como yo, es aceptando que la Laja hoy sea como Ile, porque si no, tampoco yo soy yo. Pero si Bechamay y Betsem deja el Lisboa como Bechamay, entonces tampoco Ile puede Lisboa como Betimle. Entonces tiene que pasar ese sede. Entonces, ¿por qué la halajá es como Betilel? Porque son nojim balumi."
+"startMs": 849224,
+"endMs": 860704,
+"text": "Dabar ajén en shoté nivga, dabar ajén en basar amet margish ve izmel\". Dice, ya tanto sufrieron que ya no, ya, ya, ya es, ya es piel muerta, ya no sienten el- Las \"tzarot\" Las \"tzarot\"."
 },
 {
-"startMs": 3410000,
-"endMs": 3444000,
-"speaker": "",
-"text": "Por qué la halajá no es como Betchamay? Le atis la voz a los que van a preguntar? Mi prima dijo, Betchamay, Betzajú, dijo la halajá que no está. Porque acertaron que la halajá es como Betilel. No, porque Dibreem Emet. Son los mirantes de ti. Ahí, afuja. Cuando es mirante rajamim allá, del otro. Es el mirante de ti que es el Emet. Que llegara el midat a ti, a mi tía, a mi tucán, a Shalem, que es Bekut con Hashem. Tener vehemente ese Bekut y existir por ese Bekut."
+"startMs": 862924,
+"endMs": 873044,
+"text": "Dice: \"Eini ve amar rab Izhak kasher rimal amet kemajad be basar jai she nomeh alej vesaro alav yijave nefsho alav deavel ei ma en basar amet she bajai margish ve izmel\"."
 },
 {
-"startMs": 3444000,
-"endMs": 3476000,
-"speaker": "",
-"text": "Pero si no hay midat a Rahamim, entonces tampoco hay midat a ti. Entonces, ¿por qué la halajá es como él el Beit Hillel más allá? Porque son nojim alubim y aceptan anteponer a Beit Shammai a sus palabras. Qué significa anteponer a Beit Shammai a sus palabras? Comenzó a pensar sobre el mundo desde el principio. Entonces dice Beit Hillel, sí, la religión es como tú. Pero no se cumple. Se destruyó el templo."
+"startMs": 873804,
+"endMs": 880564,
+"text": "Es el \"basar amet she bajai\", un \"met\" si siente, pero un \"jai\" que tiene una parte muerta, esa parte no siente."
 },
 {
-"startMs": 3476000,
-"endMs": 3510000,
-"speaker": "",
-"text": "Había el templo de Amén. Había el día de la muerte de Rabí Iscariot. Había el día de la muerte de Abuelo. Entonces no se cumple. Por eso la religión tiene que ser como Bet-Hilel. por eso la halajá tiene que ser como Hillel pero eso nos lleva, a los mismos de Shammai y entender que la única manera en como, la halajá va a ser como ellos es haciendo que hoy en día la halajá sea como ellos, el levater."
+"startMs": 881204,
+"endMs": 885604,
+"text": "\"Amar rabido amar ram beram zajur oto ha ish le tov"
 },
 {
-"startMs": 3510000,
-"endMs": 3544000,
-"speaker": "",
-"text": "el levater igual que, Beit Hillel también, Y por eso es lo que dije, no es el levater que es el premio del levater, es lo que estamos explicando. Es una mecánica. Es el emet, es el emet, que el boré es que Hillel, su malaj es mi data rajamim, el malaj de Shammai es mi data din. Por eso el primero que hace el levater es Hillel, y Mimel el primero en darse cuenta que no puede ser la halaja como él es Shammaií. Y es Mimel, el mismo Shammaií, dice como no puede ser la halaja como yo, entonces Mimel es la halaja va a ser como tú."
+"startMs": 886884,
+"endMs": 893964,
+"text": "ve Hananiah ben Hizkia shmo\". Hananiah ben Hizkia es \"zajur le tov\". \"She ilma le hu nu nignaz Sefer Yejezkel\"."
 },
 {
-"startMs": 3544000,
-"endMs": 3576000,
-"speaker": "",
-"text": "Está claro como Mamash todas las cosas... Acá la maldad de Hillel también la tiene, no empezó. O sea, no les quedó de otra más que aceptar, no les quedó de otra más que aceptar, porque se dieron cuenta cómo Beit HaMikdash se destruye, se autodestruye. No, no me... Entonces... Pero me hace oír la halajá en sus alas de los que tú ves, este, de Fumbró."
+"startMs": 895204,
+"endMs": 904724,
+"text": "Si no fuera porque Hananiah ben Hizkia se metió a esa Aliah a contestar Sefer Yejezkel, lo hubieran metido a la genizá Sefer Yejezkel."
 },
 {
-"startMs": 3576000,
-"endMs": 3608000,
-"speaker": "",
-"text": "Es dentro del mundo de Hillel? No, no es nada de... A veces lo primero que llama es la de 10 centimos, que no te hace. Quién te ha escuchado? Una vez habló de esto y dijo que se puede ver el lugar de Hillel. No, no. No, es que una vez... Robert Robb Zane. No sé que lo hable No sé, Entonces."
+"startMs": 905064,
+"endMs": 911504,
+"text": "\"She hayut varav sotrim divrei Torá\". Porque hay muchas tiras entre Sefer Yejezkel y Divrei Torá."
 },
 {
-"startMs": 3608000,
-"endMs": 3640000,
-"speaker": "",
-"text": "Entonces es la mejor, Que Beit Hillelio y Beit Hillel Entonces vean que pelo, La única manera, que halajá sea como Beit Hillel, es que Beit Hillel acepten que halajá es como Beit Shammai y que Beit Shammai acepten que la halajá es como Beit Hillel. Pero en el momento que Hillel diga que halajá es como él, no es halajá como él."
+"startMs": 911504,
+"endMs": 931564,
+"text": "\"Ma azá? Elulu guimel me'ot garbei shemen ve yasav be Aliah ve dershan\". Entonces, en la Aliah fue Hananiah ben Hizkia ben Garom a contestar todas las preguntas que había en Sefer Yejezkel y a la vez escribir todas las \"tzarot\" del galut y los \"nisim\" que hubo de Hakadosh Baruj Hu en el galut."
 },
 {
-"startMs": 3640000,
-"endMs": 3673000,
-"speaker": "",
-"text": "Beit Shammai diga que halajá es como él, tampoco es halajá como él. Entonces cada uno de Beit Shammai tiene que al final, Beit Shammai aceptar al otro lado. Y en mi mente le queda de que no hablamos de la halajá es como él, y no hablamos de la halajá es como Beit Shammai. Por qué? Por qué el Egel? Entonces ya dijimos el otro día, que ¿por qué el Egel? Qué tiene el Egel de especial?"
+"startMs": 932284,
+"endMs": 949804,
+"text": "Y para eso le subieron tres-- trescientas- Y tenía trescientos \"garbei shemen\", barriles de aceite De \"maor ve le mis menorot\" Sí, para, para, para vela y para comer, y que no se distraiga nunca de ahí, que no se distraiga bijlal."
 },
 {
-"startMs": 3673000,
-"endMs": 3704000,
-"speaker": "",
-"text": "No. Es porque el Egel, cuando fue el jefe de Egel que se destruye todo Israel. Eso es lo que pasó en el Egel. Allá en Baha'i se destruye a Am Yisrael completamente. Esa es la halajá que ve Shammai. Y ahí, esa es cuando la halajá... Entonces el Egel es que la halajá es como ve Shammai y es una de dos. Entonces tú verás que en estas épocas,"
+"startMs": 950944,
+"endMs": 960624,
+"text": "Y, y, y, y en ese tiempo él iba a contestar las shelot de Sefer Yejezkel. Ahora, ¿qué pasó ahí mientras él estaba arriba contestando las shelot?"
 },
 {
-"startMs": 3704000,
-"endMs": 3736000,
-"speaker": "",
-"text": "la halajá es como ve Shammai. Entonces tú verás que o son los mejores días o es el fútbol. Tú verás que estos son los días del ideal de Am Yisrael. Porque sobrevivir estamos. Pero como Hillel, pero como Pero estos días, además hay una larga más, Que queremos, vete a Mikdash Queremos Mashiach, queremos Hashem, ayin, veayin, Y eso no lo tenemos Y si exigimos eso y no lo tenemos Entonces mi Hillel es una veluz, Entonces estos días son los días que la halajá es como Shammai."
+"startMs": 963384,
+"endMs": 965544,
+"text": "Entonces, abran la..."
 },
 {
-"startMs": 3736000,
-"endMs": 3772000,
-"speaker": "",
-"text": "Me explico? Idealmente, Que la halajá es como Shammai Por qué la halajá es como Shammai? Porque hay un ideal más gavoa Que no lo tenemos, Gracias! No lo tenemos, ahora y no tenerlos implica que hay Jurbán el Galut, que hay Tar y hay Jurbán el Galut, ahora pero ahí les dicen, pero ahí no hay Raja Mir, entonces ahí no hay un malaj para llegar a la Tidlabó, que la halajá sea como se llama, ahora ¿cuál fue el tikún alegre?"
+"startMs": 971944,
+"endMs": 974564,
+"text": "La Gemara, aquí está en \"Daf Y\" Zayin\"."
 },
 {
-"startMs": 3772000,
-"endMs": 3805000,
-"speaker": "",
-"text": "Cuál fue el tikún alegre? Cuándo se perdonó el Egel? En Matantora. Yom Kippur? Después. Moshé subió otra vez? Pidió perdón? No, eso fue antes del Egel. Entonces, cuando Moshé subió la última vez, entonces ayer le dio la Ziyut Gimel Midot Rahamim. Cómo sobrevivir en el mundo de Midat Hadin?"
+"startMs": 979324,
+"endMs": 987004,
+"text": "La Gemara aquí en \"Daf Y\" Zayin\" dice así: \"En ese tiempo, Beth Shammai hizo dieciocho gezerot."
 },
 {
-"startMs": 3805000,
-"endMs": 3838000,
-"speaker": "",
-"text": "Aún siendo que no estás en el mundo del jet, de la vera, entonces la halajá es como Beit Hillel. Entonces cuando la Torah se dio en Yom Kippur, cuando Hashem nos perdonó en Yom Kippur, entonces ahí dijo, aún siendo que según Beit Shammai, pero en Yom Kippur hay un malaj que se llama el malaj de Hillel, que es el malaj de ir hacia el Tikkun. Ese es Betsem Yom Kippur."
+"startMs": 988144,
+"endMs": 990484,
+"text": "Takanot jajamim, dieciocho gezerot\"."
 },
 {
-"startMs": 3838000,
-"endMs": 3869000,
-"speaker": "",
-"text": "Entonces, ¿qué pasa si yo quito a Hillel? Qué pasa si yo quito a Hillel? Qué pasa si lo quito? Entonces, quito Kippur. Si quito Kippur, mi malaj ese día, ahí hay un cachelo de Israel. Qué onda? Qué pasa? Mi Dios regresa esa gente a él. En el momento que Hillel estaba acá, fuflif, ney, chamay, quejada, tal, midi. Entonces automáticamente regresas al Geta Egel O al Mashiach."
+"startMs": 992763,
+"endMs": 1001484,
+"text": "Ahora, y esos dieciocho gezerot se quedaron como Shammai, pero no, no porque Hillel discutía y la halajá fue como Shammai, sino en ese momento"
 },
 {
-"startMs": 3869000,
-"endMs": 3902000,
-"speaker": "",
-"text": "Al ideal que O Geta Egel O Mashiach Va a ser un día bueno, Van a ser los días más buenos, Van a ser estos días Son los días buenos Entonces, Entonces, por eso ahí hay un caché Y mi malaj también, Por eso, Beit Shammai Estaban duros y tercos."
+"startMs": 1003024,
+"endMs": 1014544,
+"text": "Hillel perdió su fuerza contra Shammai. ¿Sí? Como dice, como dice la Mishná misma. La Mishná dice, dice: \"Nimnu ve rabu Beth Shammai el ve Hillel ve yudchet vainim gezru bobojum\"."
 },
 {
-"startMs": 3902000,
-"endMs": 3932000,
-"speaker": "",
-"text": "De que el halajá sea como ellos Que ellos decían, En ese día que subió Hananea Bejizki a Bengarón, Subió al alia Qué hizo el alia? Qué hizo en Alia? Las tirotas que hay entre Yehezkel y la Dora. Cuáles son las tirotas entre Yehezkel y la Dora? Yehezkel, las tirotas son todas las... No, es Yehezkel."
+"startMs": 1015524,
+"endMs": 1022164,
+"text": "Entonces, era \"nimnu ve ga-- ve rabu Beth Shammai ve Hillel\". Entonces, la última dice: \"Ve idja jabotzer lagat."
 },
 {
-"startMs": 3932000,
-"endMs": 3963000,
-"speaker": "",
-"text": "Yehezkel es el que hizo el tziur de Baich Lishi. Es el que hizo el tziur de Baich Lishi. Ah, no, va a Yehezkel, el shor, la meridabá... No, otra. Las tirot están en Membet, por ahí. Es una hermana de Menajot, trae todas las tirot que hay entre Zeper y Jejeskel, y la Torah. Entonces, ¿qué pasa ahí, en Zeper y Jejeskel? Hay tirot."
+"startMs": 1023144,
+"endMs": 1030304,
+"text": "Shammai omer\", es un caso de-- es alguien que, que, que, que está cortando uvas y,"
 },
 {
-"startMs": 3963000,
-"endMs": 3995000,
-"speaker": "",
-"text": "Por qué hay tirot? Porque Jejeskel habla de Baich Lushi. Baich Lushi, ¿qué malaj es? Es el malaj de Beit Shammai. En la Torah, es... Con Kippur, que es el malaj de Beit Hillel. Entonces había estirot entre el Olam de Beit Shammai y el Olam de Beit Hillel. Y querían decir, no, se vería Jesús, ya se iba a perder, porque hay estirot con la Torah. Entonces, a fuerzas tiene que ser que el Pshat de la Torah es como Beit Hillel,"
+"startMs": 1032144,
+"endMs": 1039864,
+"text": "eh... Le cae agua, no me acuerdo exactamente qué, y había una-- y una takaná, no me acuerdo ahorita la takaná."
 },
 {
-"startMs": 3995000,
-"endMs": 4026000,
-"speaker": "",
-"text": "pero va a tener que ver, hombre, que la Torah se puede estudiar completamente como Beit Shammai. Entonces, jayabliot que no hay estirot entre el Bait Shlishi y el Dibret Torah de Atzman. Hay hablios, que yo puedo leer todo el Jumash con los lentes de Beit Shammai. Así lo que la Torah te cuente, que hubo Geta Egel y que hubo Kipur, pero todo eso lo puedes ver desde la perspectiva de Beit Shammai. Todo eso. Pero va a haber muchas tiras con Seferi Hezkel, que está hablando de la Nebuada de la Tidlabó."
+"startMs": 1040184,
+"endMs": 1049824,
+"text": "\"Shammai omer uchsar\", si le cae agua, no me acuerdo de qué, se hace \"muchar\" para \"lekabel tumá\", porque solo con agua las frutas \"mekabel tumá\"."
 },
 {
-"startMs": 4026000,
-"endMs": 4058000,
-"speaker": "",
-"text": "Está hablando en un mundo completo y tajor de Beit Shammai. Sí están claros? Entonces... Entonces, él se subió a la Aliyah. ¿Por qué se subió a la Aliyah? Por qué es la Aliyah? Deu Toméretes. Deu Toméretes, el segundo piso. El último, el del Ars. Entonces, es el mundo de Shammai, se subió al Shammai. Le trajeron Garba y Shemen. Shemen, puro aceite, es como si fuera Nechamá, Shemen."
+"startMs": 1049844,
+"endMs": 1059104,
+"text": "\"Hillel omer lo usá. Amar le, Hillel le Shammai\", o-- le pregunta Hillel a Shammai, \"mipne má botzrim beta'arab en moyskim beta'arab\"."
 },
 {
-"startMs": 4058000,
-"endMs": 4090000,
-"speaker": "",
-"text": "Deu Toméretes no se alimenta de cosas... físicas de los lamanes, se alimenta el shemen el shemen es milashon neshama, no, el barril. también, el jarub, el jarub es en kimadrek bura, entonces él cuando se sube, a contestar entonces Be'etze me está subiendo."
+"startMs": 1059664,
+"endMs": 1067524,
+"text": "Dice, ¿por qué solo las uvas? A lo mejor también las aceitunas. \"Amar le im takniteini gosreni tumá afa la mesik\"."
 },
 {
-"startMs": 4090000,
-"endMs": 4125000,
-"speaker": "",
-"text": "al lugar de que, Podemos en el Olamot de Litfos, que lo del Sefer y Hezkel es el Betamigdash o Mem. Por qué es el Betamigdash o Mem? Porque hay estirote entre Sefer y Hezkel y la Torá, no los cuadra. El mundo es Shamay y no cuadra con el mundo, si la lajá como Shamay y se destruye el mundo. Entonces en ese momento que él fue a contestar todas las estirotes entre Sefer y Hezkel y la Torá, qué hicieron Shamay? Llegó el momento que la laja sea como nosotros. Y si los talmidim de Hilel se intercan en subir a la Aliyá para hacer más."
+"startMs": 1068304,
+"endMs": 1077344,
+"text": "Dice: \"Ah, si sí le sigues, si me sigues, eh, molestando y preguntando preguntas- Prohíbo hasta- Voy a probar de prohibir también las aceitunas\"."
 },
 {
-"startMs": 4125000,
-"endMs": 4176000,
-"speaker": "",
-"text": "y que la Alajá sea como Hilel, entonces ellos vienen con espadas. Por qué vienen con espadas? Porque tú eres el que está haciendo el jet a Egel, Zotomere. Si tú no aceptas, ahorita estamos haciendo el Tikún, queremos regresar. A Lujo Rizonot, tu mundo es el mundo de la caída. Si tú no aceptas el mundo de las mujotris o no, entonces vamos con espadas, con las mismas espadas que fueron con Am Israel a matar a todos los que hicieron el Egel, fueron con las mismas espadas, claro, porque Betsem acá, acá era el punto muy Dak, que Betsem ellos querían traer a Geulá, y Bemet, Beyah de la Geulá tiene que ser la Jacob de Jam, entonces, y si no..."
+"startMs": 1077364,
+"endMs": 1083544,
+"text": "\"Natsu jerev be bet hamidráš amru anijnas ye kanes ve yotze al yetzer\"."
 },
 {
-"startMs": 4176000,
-"endMs": 4207000,
-"speaker": "",
-"text": "Entonces quiere decir que nos vamos a quedar en el Egel toda la vida. Ellos pensaban así, ellos pensaban así, entonces, entonces, ellos pensaban así. Y entonces una de dos, o que me metes tan covim la alajá para latir la voz, que tiene que haber un lugar donde Ilan está acá, en la Aliyá de Jizquia, de Hananab en Jizquia. Sí, no sabemos por qué se llamaba así."
+"startMs": 1084664,
+"endMs": 1091004,
+"text": "El que entra, entra- El que sale ya no Y el que, y el que entra- Sale ya no entra El que sale no entra."
 },
 {
-"startMs": 4207000,
-"endMs": 4240000,
-"speaker": "",
-"text": "Pero que él le saca Fufli Fnei Shamay en ese lugar, es el Emet. Y si no, es el Egel, que no es más regresar al Egel. Pero si tampoco, entonces también es el Egel. Y él se pone doblegado también. También es el Egel, porque si no es el momento, entonces es el Egel. Ya, no hay triunfo. Sí, entonces... Pero su focho de bar sí que es U18 a la joven. Cómo se llama? Qué dijimos? ¿Qué hizo ahí? Contestan las tíos de Fejes, ¿qué tal y qué más?"
+"startMs": 1091144,
+"endMs": 1100604,
+"text": "¿Sí? Pusieron un \"jerev\" en \"bet Hamidrásh\", ahorita vemos el \"Yerushalmi\" de esto. \"Gotó hayom ve yahil el kafuf ve yosev lifnei Shammai ke jad ha talmidim\"."
 },
 {
-"startMs": 4240000,
-"endMs": 4277000,
-"speaker": "",
-"text": "Escribió que Que son las Tzarot y las Geulot, Dijimos, ¿por qué las Tzarot? Sí, donde Javimeta Tzarot, Es Kibiajol Es el mundo de Shamay, El mundo de Shamay Es el mundo de que, Ahí está que el olamá debe No es el olamá, en la que no hay nada bueno en el ra."
+"startMs": 1101364,
+"endMs": 1113944,
+"text": "Estaba Hillel así doblegado en frente de Shammai como si fuera uno de los alumnos. Porque tanto Gabral allá de Shammai contra Hillel, que Hillel se convirtió como si fuera un, un, uno, uno de sus alumnos."
 },
 {
-"startMs": 4277000,
-"endMs": 4308000,
-"speaker": "",
-"text": "entonces todas las, es escribir todos los nisim, que llegaron porque hubo midatatim que el midatatim trae los estos entonces por eso se llama Hanania Benjizkia, Hanania es mi lazón, es todo la peracha del tikún del Egel de Yom Kipur todo es, la canina de Hashem."
+"startMs": 1114644,
+"endMs": 1121624,
+"text": "Entonces, ¿por qué le consultó así haciendo uno? \"Ve ya kashel Israel que yom senaasa bo ha eguel\"."
 },
 {
-"startMs": 4308000,
-"endMs": 4344000,
-"speaker": "",
-"text": "quién es esta canina? qué es Jizquia? Es Hananiá BenJizquia, es el Midata Rajamim, que es el hijo del Midatatín, ¿sí? Ben Garón, Garón es Garganta, Garganta es el Garón, es la que conecta a Betem, los dos son la mot. El olam del Din es el olam de la cabeza. Cómo Hashem actúa? No con la cabeza que es el Emet, o sea, el ideal, porque el ideal es Midatatín."
+"startMs": 1123344,
+"endMs": 1133424,
+"text": "Dice, y ese día fue duro para Israel como el día que se hizo el eguel. No me acuerdo si sale ahí en Talmud o Yerushalmi, pero esta historia aparece en el Yerushalmi."
 },
 {
-"startMs": 4344000,
-"endMs": 4377000,
-"speaker": "",
-"text": "Pero cómo actúa con Rajamim? Entonces se llama Hananiá Benjizquia Ben Garón. Él conecta a Memes, los dos olamot. Y en ese mundo, la alajá es como Beit Shamay y como Beit Hilel el alavés. En la aliyá es como Beit Shamay y abajo es como Beit Hilel. Allá arriba, Beit Hilel está acá y abajo están matando. Si están matando quiere decir no puede ser la alajá. Está pasando el Egel, no está bien lo que está pasando. Quilo es el... Quilo que están los dos mundos arriba."
+"startMs": 1133424,
+"endMs": 1139104,
+"text": "¿Babath Guay?"
 },
 {
-"startMs": 4377000,
-"endMs": 4408000,
-"speaker": "",
-"text": "los talmidim abajo, y arriba está el halajá como se llama, y ahí se están contestando las tirotes de Beriegeskel, y abajo está el halajá como él. Pero era babo, ¿no? Era de Teshuvá, era todo yudim y la babo, y de cabelos de llenón. Puede ser, puede ser. Entonces..."
+"startMs": 1151829,
+"endMs": 1154289,
+"text": "A ver, busco así, a ver si dice en Shabbat."
 },
 {
-"startMs": 4408000,
-"endMs": 4440000,
-"speaker": "",
-"text": "Entonces ese es el linean acá de la maqloqe de Beit Shamay y Beit Hilel. Entonces acá es algo muy... Nos está dejando en el galut, Tarek. Y Hilel le dice... Si quieres traer la geulá, traela. Pero si no la vas a traer..."
+"startMs": 1160749,
+"endMs": 1162909,
+"text": "Dejame un segundo. iPhone."
 },
 {
-"startMs": 4440000,
-"endMs": 4478000,
-"speaker": "",
-"text": "Y entonces tratan de traer la geulá y se destruye. Entonces ahí es el lugar donde Hilel llora por el jurbán. Entonces tú me dices que... Que me echen hasta el lugar... que me metan a las redes como Beit Shamay. Que me meten... Necesitamos anhelar... que me metan a los lados de Beit Shamay. Hay que hablarlo más después viajas a Tishá BeAv. Que es... Sí, sí. Increíble, increíble. Exactamente."
+"startMs": 1176609,
+"endMs": 1178009,
+"text": "Yo solo no está cortito."
 },
 {
-"startMs": 4478000,
-"endMs": 4515000,
-"speaker": "",
-"text": "Y Shamay, por otro lado, él quiere que sea el alajá como él y tiene que querer que sea el alajá como él y no como Hilel. Y siempre tiene que tener que Anaud contra Hilel porque si no, nunca se va a construir el bachilichí. entonces él tiene que entregarse que la lajá sea como él hasta que se da cuenta que si él se acerca que lajá sea como él se rompe lajá como él y no shayakh ahí es cuando cuando se corrige acepta."
+"startMs": 1179509,
+"endMs": 1186549,
+"text": "Ese es Perek alef halaja dalet. Dice así: \"Tane Rabi Yehoshua Anaya."
 },
 {
-"startMs": 4515000,
-"endMs": 4545000,
-"speaker": "",
-"text": "que la lajá sea como él. Lo mismo? ¿Había sido así? Sí, es muy parecido, sí, porque Ravil es de la ciudad de Shamay. Y él quería como que era el Emet y la perdió. Es mejor que tu lado, como si tuviera el podcast, las que no ha subido el camino. Ya ponte a chingar. No han habido subidos. No, sigue. ¿Las últimas no subiste?"
+"startMs": 1188049,
+"endMs": 1197769,
+"text": "Talmidei Shamai\", en esa historia, \"amdu lahem milemata\", estaban abajo y no dejaban que suba ningún talmid de Hilel."
 },
 {
-"startMs": 4545000,
-"endMs": 5722827,
-"speaker": "",
-"text": "Cuáles últimas? La noche. Lo viste? Delicute. Я скажу, что я не отчаиваюсь, а вы не отчаивайтесь."
+"startMs": 1197849,
+"endMs": 1199769,
+"text": "¿Bet Amikdah?"
+},
+{
+"startMs": 1201349,
+"endMs": 1210109,
+"text": "No, en una historia que leímos ahorita en, en la Gemara en Shabbat. Dice: \"Amdu lahem milemata ve'ayu jorgim betalmidei beit Hilel."
+},
+{
+"startMs": 1210389,
+"endMs": 1218429,
+"text": "Tane, shisha mehen alú ve'asar amdu alehen vejaravot uveramajim\". Estaban con espadas"
+},
+{
+"startMs": 1219729,
+"endMs": 1227329,
+"text": "los talmidim de Shamai contra los talmidim de Hilel. Por eso era un yom kashe shike yom shanazabo ha'egel, que hubo un, eh..."
+},
+{
+"startMs": 1231029,
+"endMs": 1231269,
+"text": "Sí."
+},
+{
+"startMs": 1234429,
+"endMs": 1255709,
+"text": "Te llevaban bien. ¿Qué hago?"
+},
+{
+"startMs": 1255749,
+"endMs": 1266189,
+"text": "La idea era que los de-- talmidim de Shamai querían que la halajá sea como Shamai. Entonces, tenían que no haya muchos alumnos de Hilel arriba, tenía que haber robo."
+},
+{
+"startMs": 1266729,
+"endMs": 1275789,
+"text": "Entonces, subieron seis talmidim de Shamai, todos los demás abajo se quedaron con espadas y si subía algún talmid de Hilel lo iban a matar."
+},
+{
+"startMs": 1276789,
+"endMs": 1284809,
+"text": "Entonces, no sé si mataron mamash. No, no, se ve que no... Allá evitaban el ajedrez. ¿Eh? Sin matar. Estaban amenazando."
+},
+{
+"startMs": 1285189,
+"endMs": 1293209,
+"text": "Estaban amenazando a muerte. Era forzado. ¿Para qué? Para que sean más los talmidim de Shamai que los talmidim de Hilel."
+},
+{
+"startMs": 1294689,
+"endMs": 1302689,
+"text": "Sí, es lo que dice la Gemara: \"Ve'ato hayom rabu talmidei Shamai mintalmidei Hilel\". Pero ya vimos nosotros qué es lo que dictamina la halajá, que se haga lo que quieran."
+},
+{
+"startMs": 1303049,
+"endMs": 1303389,
+"text": "¿Eh? Ya"
+},
+{
+"startMs": 1304609,
+"endMs": 1311069,
+"text": "nosotros por tener halajá como de Hilel, lo que ha surgido es que sean más, que haya más de Hilel. Bueno, pero en esta vez fueron más."
+},
+{
+"startMs": 1311289,
+"endMs": 1319549,
+"text": "Siempre, normalmente, sajen rabim latot. Y en esta vez, beten fueron más los talmidim de Shamai y era con mucho kana'ut."
+},
+{
+"startMs": 1320509,
+"endMs": 1326769,
+"text": "Y dice la Gemara que era kashel Israel ki yom shanazabo ha'egel. Hay que entender por qué."
+},
+{
+"startMs": 1327009,
+"endMs": 1339349,
+"text": "Pero otra vez vemos acá que cuando la halajá fue como Shamai- Sale en contra de la situación. Es o que el Bet Amikdah está como destruido o que es algo como es Jeta'egel."
+},
+{
+"startMs": 1339569,
+"endMs": 1351589,
+"text": "Jeta'egel es como si fuera el Bet Amikdah destruido, es, es un paralelo igual, es mamash lo mismo. Hay otra Gemara, esta es una Tosefta, aquí en, en Shabbat mismo."
+},
+{
+"startMs": 1354409,
+"endMs": 1363109,
+"text": "Si tienes-- ¿en qué estás? ¿En Sefaria, en Bar Ilan? ¿En qué estás? Sefaria. Entonces, busca Tosefta. Estaba viendo el Hilucia Jatam Sofer, Trait y todo Trait, Yerushalmi y todo."
+},
+{
+"startMs": 1364729,
+"endMs": 1373209,
+"text": "Ah, ¿de dónde lo sacaste? Ahí, le piqué. Hilucia Jatam Sofer y Trait. Hilucia Jatam Sofer, ¿de dónde?"
+},
+{
+"startMs": 1374069,
+"endMs": 1381069,
+"text": "Sobre la Gemara. ¿Betza? ¿O cuál Gemara? No, Shabbat. Yud zain amud bet. Ah, ah, sobre la Gemara- Trae un Beiesh Lomar."
+},
+{
+"startMs": 1381089,
+"endMs": 1385089,
+"text": "¿Qué dice? No le entendí bien. Hay que ver."
+},
+{
+"startMs": 1387389,
+"endMs": 1390129,
+"text": "Ahí traía Yerushalmi y Beiesh Lomar."
+},
+{
+"startMs": 1394009,
+"endMs": 1395229,
+"text": "Está apagando la..."
+},
+{
+"startMs": 1397049,
+"endMs": 1397169,
+"text": "Ya."
+},
+{
+"startMs": 1401588,
+"endMs": 1403189,
+"text": "¿Esta no era tuya, la de acá? Sí. ¿"
+},
+{
+"startMs": 1405909,
+"endMs": 1410229,
+"text": "Pusiste Yerushalmi, Shabbat? ¿Hay más agua?"
+},
+{
+"startMs": 1411729,
+"endMs": 1416049,
+"text": "La Gemara, la Gemara normal Yud zain amud bet. No, disculp- Ya me trajo un cachito del Yerushalmi."
+},
+{
+"startMs": 1444129,
+"endMs": 1446049,
+"text": "No lo entendí tanto. No importa."
+},
+{
+"startMs": 1447469,
+"endMs": 1454789,
+"text": "Ahora en acá la Tosefta, es que hay varias guirsa'ot. En, en la que yo tengo es perek yud zain, halaja dalet."
+},
+{
+"startMs": 1454789,
+"endMs": 1460929,
+"text": "¿Qué es Tosefta? ¿Dónde la encontré? Sí, escribes Tosefta. Pero en-- en qué categoría está?"
+},
+{
+"startMs": 1461149,
+"endMs": 1465209,
+"text": "Tosefta Shabbat. Solita. Shabbat. No, no me sale... ¿Está en Talmud?"
+},
+{
+"startMs": 1467589,
+"endMs": 1476169,
+"text": "Quizá pongo Tosefta solita abajo y sale Shabbat. Ya. ¿En qué categoría está esta Tosefta? No, Tosefta. No, no, ya lo voy a buscar, sí, pero si-- en categoría."
+},
+{
+"startMs": 1476169,
+"endMs": 1481929,
+"text": "¿Qué es? Es, eh... Pon Tosefta, pon directo la palabra. Halajá o Midrash, no sé."
+},
+{
+"startMs": 1483269,
+"endMs": 1487249,
+"text": "Sí, es, es, es yud zain, dalet."
+},
+{
+"startMs": 1488489,
+"endMs": 1490609,
+"text": "Shabbat, perek yud zain,"
+},
+{
+"startMs": 1492309,
+"endMs": 1498329,
+"text": "halaja dalet, Mishná dalet. Y aquí los rabinos escriben a la Shulján Aruk. Ey, majlóket."
+},
+{
+"startMs": 1499169,
+"endMs": 1504860,
+"text": "Majlóket bet Shami y beit Hilel. ¿Qué pasa con las Clipot"
+},
+{
+"startMs": 1506061,
+"endMs": 1517661,
+"text": "de, de mi-- si yo como pepitas o si comes un pollo, y el pollo ahorita está en la mesa, entonces el pollo ahora es muktze, pero era comida."
+},
+{
+"startMs": 1518101,
+"endMs": 1521281,
+"text": "Entonces, ahorita es tam-- es basura. Entonces, ¿cómo se quita"
+},
+{
+"startMs": 1522841,
+"endMs": 1533481,
+"text": "los, los atzamot uclipin? Le pones uno que... Entonces, majloket Betilel uReish Lakish. Según Betilel, dice Betilel omrim magbiim me al hashuljan atzamot uclipin."
+},
+{
+"startMs": 1534041,
+"endMs": 1540641,
+"text": "Ya que eran comidas de menos. Entonces, puedes quitarlo. Reish Lakish omrim me sale ketatavlá kulá umnara."
+},
+{
+"startMs": 1543121,
+"endMs": 1550101,
+"text": "No lo puedes tocar. Necesitas como que mover la mesa y que se, que se vuele. Zjarya ben Afkulas."
+},
+{
+"startMs": 1550381,
+"endMs": 1552360,
+"text": "¿Conocen a Zj-- rabí Zjarya ben Afkulas?"
+},
+{
+"startMs": 1553621,
+"endMs": 1554341,
+"text": "Famosísimo."
+},
+{
+"startMs": 1555860,
+"endMs": 1564821,
+"text": "Es el de la historia de Kamtov harKamt. Anvatnutó shel rabí Zjarya ben Afkulas ichriva et hajal."
+},
+{
+"startMs": 1565081,
+"endMs": 1571221,
+"text": "El jájam que se quedó callado. Es el jájam que se quedó callado. Rabí Zjarya ben Afkulas tiene una opinión acá."
+},
+{
+"startMs": 1571221,
+"endMs": 1578181,
+"text": "¿Cuál es la opinión de rabí Zjarya ben Afkulas? Dice: lo haya no hay lo que dibre Reish Lakish y lo que dibre Betilel."
+},
+{
+"startMs": 1579061,
+"endMs": 1585701,
+"text": "No quería hacer no como Betilel y no como Reish Lakish. Dice el anotel umashlij lajar amita. Lo más fácil."
+},
+{
+"startMs": 1585821,
+"endMs": 1602661,
+"text": "Agarras el pollo, en vez de dejarlo en la mesa y meterte, que si estás haciendo como Betilel y como Reish Lakish, directamente te lo comes y lo tiras directamente a la, la basura, sin, sin ponerlo en la mesa y así evitas hacer o como Betilel o como Reish Lakish."
+},
+{
+"startMs": 1602661,
+"endMs": 1602881,
+"text": "¿Sí?"
+},
+{
+"startMs": 1605221,
+"endMs": 1607541,
+"text": "Aman rab Iosi,"
+},
+{
+"startMs": 1608860,
+"endMs": 1611481,
+"text": "anvatnutó shel rabí Zjarya ben Afkulas."
+},
+{
+"startMs": 1613161,
+"endMs": 1620461,
+"text": "Es el Rash que dice ahí también. ¿Cuál? En la Gemara nuestra dice Rash sobre Betilel. Entonces, lo iba a decir."
+},
+{
+"startMs": 1622801,
+"endMs": 1634381,
+"text": "De fi shehilel así be an-- van... Van betán. Van betán. Sí. Cuando dice el problema de que Betilel se, se kafaf al Betshamay, Rashi dice de fi sheyu."
+},
+{
+"startMs": 1634601,
+"endMs": 1641441,
+"text": "Claro. Es una nava mala, tipo. Entonces, aquí también igual, ¿no? Hay que entender, sí. Entonces, acá otra vez, aquí hay una nava."
+},
+{
+"startMs": 1641521,
+"endMs": 1643481,
+"text": "Con Betshamay es el problema que tiene rab Iosi"
+},
+{
+"startMs": 1644801,
+"endMs": 1652581,
+"text": "en, en ese tema. Sí, y acá rabí Zjarya. Entonces, acá rabí Zjarya, ¿él qué hizo? Evitó hacer como Betilel y como Reish Lakish."
+},
+{
+"startMs": 1652641,
+"endMs": 1658721,
+"text": "Evitó el conflicto. Evitó el conflicto. ¿Por qué inventan los dos si lo...? ¿Por esto? ¿En qué me dejan?"
+},
+{
+"startMs": 1658921,
+"endMs": 1666681,
+"text": "¿Qué es la nava? No entiendo, ¿qué nava es? No, no decir como ni uno de los dos. Sí, y lo no meterse en la bronca. Dice: eso destruyó el Bet Hamikdash."
+},
+{
+"startMs": 1667141,
+"endMs": 1674841,
+"text": "Allá conocemos ese tipul, pero aquí, ¿por qué lo traes? Ya, es lo que estoy trayendo. Entonces, vemos que siempre que no quieras hacer la halajá como Betilel"
+},
+{
+"startMs": 1676141,
+"endMs": 1682341,
+"text": "es, se destruye el mundo. Entonces, tenemos cuatro. No es más cuando no es como Betshamay. Afilo cuando no es como Betshamay."
+},
+{
+"startMs": 1682621,
+"endMs": 1688841,
+"text": "Por no hacer como Betilel, ya está. Por no hacer como Betilel, es esta cana. Dijimos el Bet Hamikdash shomem."
+},
+{
+"startMs": 1688981,
+"endMs": 1697501,
+"text": "Vean cuántos rayotes, pelem. Bet Hamikdash shomem. Que hay una, nasá eguel. Nasá eguel. Tercera, esta, zarpat hajal."
+},
+{
+"startMs": 1697601,
+"endMs": 1704221,
+"text": "Cuarta... Casi matan Betshamay a Betilel, los alumnos. Los alumnos se están matando ahí. ¿Y la cuarta cuál?"
+},
+{
+"startMs": 1704281,
+"endMs": 1712061,
+"text": "Nuestra Mishná. Que ¿qué pasó con rab Iatarfon? Rab Iatarfon se acostó para decir que hace más como Betshamay."
+},
+{
+"startMs": 1712360,
+"endMs": 1723141,
+"text": "Afilo que también según Betilel sale de Yahovah. Nada más que hiciste algo parecido a rabí Zjarya ben Afkulas, que quisiste hacer como los dos y, y no quisiste hacer como Betilel."
+},
+{
+"startMs": 1723621,
+"endMs": 1732321,
+"text": "Afilo que al final hiciste como los dos. Acá rabí Zjarya ben Afkulas hizo como los dos, pero no quiso definir como Betilel, no quiso cortar el pastel."
+},
+{
+"startMs": 1732981,
+"endMs": 1739860,
+"text": "Entonces, entonces, cada vez que no haces como Betilel, sakánat nefashot. Jaia mitá. Nuestra Gemara dijo jaia mitá."
+},
+{
+"startMs": 1740701,
+"endMs": 1746781,
+"text": "Dale. Entonces, lo vemos mamash, claramente, cómo este tema es, es, es mamash."
+},
+{
+"startMs": 1747081,
+"endMs": 1753441,
+"text": "Lo pasut, afilo que está haciendo como Betilel, tienes que decir Hilel y no Shammai. Porque si no dices Hilel y no Shammai,"
+},
+{
+"startMs": 1754721,
+"endMs": 1760121,
+"text": "zarpat hajal. Rabí Zjarya, ¿qué hizo? ¿Qué hizo? No-- na, nada más no hizo,"
+},
+{
+"startMs": 1761461,
+"endMs": 1767981,
+"text": "no quiso hacer lejamí, lejaquel como Betilel. Pero también Betilel estaba bien que lo ha hecho para atrás, no pasa nada."
+},
+{
+"startMs": 1768041,
+"endMs": 1769661,
+"text": "Es que no hizo como Betilel. Claro."
+},
+{
+"startMs": 1771101,
+"endMs": 1773041,
+"text": "Se puede aumentar también tal vez, o sea, ayer"
+},
+{
+"startMs": 1775021,
+"endMs": 1783561,
+"text": "el Noða Vidudá, el Ben Yehu-- Yehoyadá. Ben Yehoyadá. Trae de Itá be Likutet Torá de Rabeno Arizal, shilel haya bejat rajel, Betshamay ya bejat leá."
+},
+{
+"startMs": 1784041,
+"endMs": 1791641,
+"text": "Gabio da meshketá Rabeno Arizal, shebabón haeguel pakmú bejat rajel bejol bemjé shamam. Entonces, también de que ver la persona en que es rajel o leá."
+},
+{
+"startMs": 1791941,
+"endMs": 1792601,
+"text": "No puedes--"
+},
+{
+"startMs": 1793860,
+"endMs": 1796041,
+"text": "si eres esto, eres esto. Betshamay es jiná rajel."
+},
+{
+"startMs": 1797661,
+"endMs": 1806621,
+"text": "Pero no, digo también en, en, en la-- lo que siempre el Shiur Qof siempre hay rajel y leá. La verdad para él es esta y la verdad para él es esta y no puedes tú irte para allá."
+},
+{
+"startMs": 1806661,
+"endMs": 1811821,
+"text": "Vamos a entenderlo más aquí. Mira, la Mishná lo trae al revés, al revés. No, no queda para lo que quieres tú llegar. O sea, igual"
+},
+{
+"startMs": 1813081,
+"endMs": 1818201,
+"text": "es... No, luego se cambia ahí. Sí, aquí se ha cambiado. No, luego se cambia, hay que... Ah."
+},
+{
+"startMs": 1819581,
+"endMs": 1831701,
+"text": "Hay que estudiar con la Gemara y todo. Sí. Eh... Zjarya ben Af."
+},
+{
+"startMs": 1831741,
+"endMs": 1833360,
+"text": "Si hay más rayota, lo mismo."
+},
+{
+"startMs": 1835681,
+"endMs": 1837041,
+"text": "Ahí hay otro sipur."
+},
+{
+"startMs": 1838701,
+"endMs": 1839741,
+"text": "No sé si verlo ahorita."
+},
+{
+"startMs": 1842681,
+"endMs": 1843821,
+"text": "No sé si verlo ahorita."
+},
+{
+"startMs": 1845021,
+"endMs": 1855841,
+"text": "Igual, le va a Betshamay y así. Baba ben Buta. Baba ben Buta es el que identifica que nosotros es-- ahorita estamos que irnos escuchando el bato, ¿me explico?"
+},
+{
+"startMs": 1856201,
+"endMs": 1864641,
+"text": "Que estás viendo que siempre que la halajá es como Betshamay, sakánat nefashot. Y Baba ben Buta es el que lo identifica y lo voltea. O sea, hay una Gemara sobre Baba ben Buta, ábranla."
+},
+{
+"startMs": 1864681,
+"endMs": 1870921,
+"text": "Es, eh... Vamos a verla, digo, si tenemos, tenemos todavía una hora, entonces. Vamos pasear. ¿Cuál?"
+},
+{
+"startMs": 1872481,
+"endMs": 1879341,
+"text": "Daf guimel. ¿Y ma?"
+},
+{
+"startMs": 1879341,
+"endMs": 1885041,
+"text": "¿Y ma la-- la alef? Gimel, amud bet, astava."
+},
+{
+"startMs": 1893041,
+"endMs": 1897341,
+"text": "Dice así. ¿Normal?"
+},
+{
+"startMs": 1898921,
+"endMs": 1905161,
+"text": "Ordus, avda de Beis Hashmonai haba. ¿Tienen? Sí. Claro."
+},
+{
+"startMs": 1905961,
+"endMs": 1909801,
+"text": "Entonces, Ordus era eved de Beis Hashmonai. Natan einav beota tinoket."
+},
+{
+"startMs": 1911141,
+"endMs": 1913641,
+"text": "Vio a una niña. Dice"
+},
+{
+"startMs": 1915360,
+"endMs": 1928081,
+"text": "bat kala de amar kol avda de marid hasta matzah. Un día Ordus escuchó un batkol que cualquier eved que ahorita moreh va a tener atslajá."
+},
+{
+"startMs": 1928761,
+"endMs": 1931360,
+"text": "Entonces, Ordus era un eved de los Hashmonaim"
+},
+{
+"startMs": 1933041,
+"endMs": 1939061,
+"text": "y escuchó un batkol que el que ahorita moreh va a tener atslajá, se va a hacer rey. ¿Qué hizo?"
+},
+{
+"startMs": 1939401,
+"endMs": 1953021,
+"text": "Kam katlinu leku marvate. Beshaire la haye nocta. Mató a todos los Hashmonaim, a toda la casa de los Hashmonaim, y dejó nada más a esa niña que le gustaba para casarse con ella."
+},
+{
+"startMs": 1953541,
+"endMs": 1962661,
+"text": "Quijada haye nocta de que ba ele min seba. Cuando vio la niña que se-- él quería casarse con ella, slika ligra, se fue al techo, berama kala amra."
+},
+{
+"startMs": 1963481,
+"endMs": 1971101,
+"text": "Al tala gag. Se salió, subió al techo y empezó a gritar: \"¡Kol man de ateve amar mibét Hashmonai katina, avdau!\"."
+},
+{
+"startMs": 1972581,
+"endMs": 1981761,
+"text": "Todos los que digan que es de la casa de Hashmonai es un eved. De lo ishtaira minai la haye nocta, va ye nocta nafla me igra le-ana."
+},
+{
+"startMs": 1982501,
+"endMs": 1987321,
+"text": "Y ella se cayó del techo al piso. ¿No dice que se tiró?"
+},
+{
+"startMs": 1988521,
+"endMs": 1993561,
+"text": "¿Eh? ¿No dice que se tiró? No sé. Tamna sheva shanim be dovsha."
+},
+{
+"startMs": 1994880,
+"endMs": 2003901,
+"text": "No, ya ni lo de que dijo. O sea, que si se casa Ordus con ella, entonces va a ser un eved. Y entonces ella también está anunciando que Ordus es eved."
+},
+{
+"startMs": 2007141,
+"endMs": 2007561,
+"text": "Tamna."
+},
+{
+"startMs": 2011261,
+"endMs": 2018721,
+"text": "Dice: \"La escondió siete años- En miel. En miel, para que no se eche a perder su cuerpo."
+},
+{
+"startMs": 2019581,
+"endMs": 2026281,
+"text": "Y que de hambre balea-- hay quien dice que balea después de que estaba muerta. Y que de hambre lo balea."
+},
+{
+"startMs": 2026981,
+"endMs": 2032360,
+"text": "De hambre balea a Tamna\", dice: \"Lituv ale itzet\"."
+},
+{
+"startMs": 2034561,
+"endMs": 2044221,
+"text": "Guau. ¿Genérico? No, es para aguantarse a no tener que la balea muchas veces. Ah, no, para poderla balea muchas veces la tenía que mantener, eh..."
+},
+{
+"startMs": 2045860,
+"endMs": 2053961,
+"text": "Sí, que, que no se echa a perder. Ve de hambre se lo balea ay de Tamna, que eje de nombru bat melej nasá."
+},
+{
+"startMs": 2054880,
+"endMs": 2056081,
+"text": "Dice: \"Es para que digan"
+},
+{
+"startMs": 2057321,
+"endMs": 2060480,
+"text": "que se casó él con la hija de un rey\". Amar,"
+},
+{
+"startMs": 2062181,
+"endMs": 2072101,
+"text": "man darish mikera bajija tasim alejamel. ¿Sí? ¿Quién doreish el pasuk que solo un yehudí no eved puede ser rey?"
+},
+{
+"startMs": 2072341,
+"endMs": 2079421,
+"text": "Entonces Ordus, que él se, se pu-- se postuló como rey porque mató a los reyes que eran los Hashmonaim."
+},
+{
+"startMs": 2080440,
+"endMs": 2086121,
+"text": "Entonces dijo: \"¿Quién dijo que un eved no puede ser melech?\". Pues dijeron: \"Rabanan,"
+},
+{
+"startMs": 2087341,
+"endMs": 2094360,
+"text": "kam katlinu leku rabanan\". Mató a todos los ajamim. Shabkei, Baba ben Buta"
+},
+{
+"startMs": 2095581,
+"endMs": 2104721,
+"text": "le mishcal etzeminim. Dejó-- el único ajam que dejó vivo fue a Baba ben Buta para poder aconsejarse con él."
+},
+{
+"startMs": 2104941,
+"endMs": 2108681,
+"text": "¿Que mató a todos también? Sí, sí, sí, sí."
+},
+{
+"startMs": 2110821,
+"endMs": 2114041,
+"text": "Aberlei, klile dale."
+},
+{
+"startMs": 2116121,
+"endMs": 2122281,
+"text": "Dice nacrinu leeine. Equip Ordus de trosha shel Baba ben Buta bat rashan kipud."
+},
+{
+"startMs": 2123841,
+"endMs": 2125041,
+"text": "Le puso como que una"
+},
+{
+"startMs": 2126701,
+"endMs": 2133601,
+"text": "corona, ¿sí? Klile dale, nacrinu leeine, lo encegó a Baba ben Buta."
+},
+{
+"startMs": 2134441,
+"endMs": 2137561,
+"text": "Iom ajad ata veiativ kame- ¿Le rompió, no?"
+},
+{
+"startMs": 2139081,
+"endMs": 2146661,
+"text": "Nacrinu. No, no con crear, con eine. En ecáret enave. En ecáret enave. Le picó los ojos ya para que no pueda ver."
+},
+{
+"startMs": 2147381,
+"endMs": 2159361,
+"text": "Entonces, iom ajad ata veiativ kamei. Vino un día Ordus con Baba ben Buta frente a él y Baba ben Buta, de manera que Baba ben Buta no sea-- no sepa quién es."
+},
+{
+"startMs": 2159441,
+"endMs": 2167821,
+"text": "Amar. Jat demar hay avda bisha maika avid. Oye, Baba, checa este Ordus, eved rashá, todo lo que está haciendo."
+},
+{
+"startMs": 2168981,
+"endMs": 2176520,
+"text": "amarlei, ma ya avidle. ¿Yo qué puedo hacer? Amarlei neltie mar. ¿Sí? Te kalel oto."
+},
+{
+"startMs": 2177020,
+"endMs": 2184541,
+"text": "Amarlei ktiv, gam bemeadaja, melej al tekalel. También en tu edad no puedes le kalel un, un rey."
+},
+{
+"startMs": 2185301,
+"endMs": 2194821,
+"text": "Amarlei, ail a meleju, ahí no es rey. Arei, él es, él es-- él es un eved. Amarlei, veleve hashir ve alma."
+},
+{
+"startMs": 2195501,
+"endMs": 2202181,
+"text": "Dice, bueno, a filu que no es rey, también es un hashir. Ujtiv, ubjadrei mishkaveja, al tekalel hashir."
+},
+{
+"startMs": 2202641,
+"endMs": 2206560,
+"text": "A filu un hashir no puede le kalel. Dice: \"Lo yehe la nasí\"."
+},
+{
+"startMs": 2207821,
+"endMs": 2213201,
+"text": "Aunque sea nada más nasí, que sea nada más nasí. Dice: \"Ujtiv, ve nasí vaamejal otaron\"."
+},
+{
+"startMs": 2215461,
+"endMs": 2222901,
+"text": "Amarlei, no, pero hace maase amejah. Gaila no hace maase amejah. Amarlei, mis tafina minei."
+},
+{
+"startMs": 2223701,
+"endMs": 2230081,
+"text": "Dice, ¿me da miedo? Amarlei, lei keinish de adil de leimale. De ana ve atetiv, estamos solos."
+},
+{
+"startMs": 2230681,
+"endMs": 2236961,
+"text": "Nei ken le diga. Amarlei ktiv, ki of hashamaim iulij et hakol ubal cnafaim yagid davar."
+},
+{
+"startMs": 2237941,
+"endMs": 2244761,
+"text": "Dice, la, la, la voz-- sí, un pajarito lo va a contar. Amarlei, ana hu."
+},
+{
+"startMs": 2245621,
+"endMs": 2251901,
+"text": "Dice: \"Yo soy Ordus\". Iavai adana, de zahiri rabonon kulejai. Si hubiera sabido yo"
+},
+{
+"startMs": 2253241,
+"endMs": 2260221,
+"text": "que los-- todos los rabanim son tan zehirim con sus palabras, lo iajava katlina lev. Hasta maita kante de au gabra."
+},
+{
+"startMs": 2260381,
+"endMs": 2268681,
+"text": "¿Qué puedo hacer? Amarlei, ujkiba oró shel olam. Dice: \"Apagaste la luz del mundo\", porque los ajamim son la luz del mundo."
+},
+{
+"startMs": 2268721,
+"endMs": 2276861,
+"text": "Dijtim, kiner mitzva ve torahór, yelej veiasok ve oró-- ve oró shel olam. Necesitas le itaseque en el or del mundo."
+},
+{
+"startMs": 2276921,
+"endMs": 2282939,
+"text": "Dijtim, ve naharú elav kol agohim. Bet Hamikdash es el orden del mundo. Y"
+},
+{
+"startMs": 2285779,
+"endMs": 2287138,
+"text": "cerraste al mundo dictib."
+},
+{
+"startMs": 2290519,
+"endMs": 2291319,
+"text": "yalej ve'itasek"
+},
+{
+"startMs": 2293598,
+"endMs": 2296419,
+"text": "libnot el ayin del mundo dictib."
+},
+{
+"startMs": 2298939,
+"endMs": 2301578,
+"text": "ge'on uzejem mahmad einejem."
+},
+{
+"startMs": 2303078,
+"endMs": 2303538,
+"text": "Entonces ve,"
+},
+{
+"startMs": 2315299,
+"endMs": 2319578,
+"text": "mándales, pregúntales si en lo que esto y el otro ya lo destruiste, ya lo construiste."
+},
+{
+"startMs": 2325698,
+"endMs": 2328178,
+"text": "Le contestaron los romanos: si no lo has destruido,"
+},
+{
+"startMs": 2329578,
+"endMs": 2336698,
+"text": "o sea, era destruir para construir, no lo destruyes. Pero si ya lo destruiste, di-uh, dice: no lo, no lo construyes."
+},
+{
+"startMs": 2338718,
+"endMs": 2340419,
+"text": "Y si ya lo destruiste y ya lo construiste,"
+},
+{
+"startMs": 2344337,
+"endMs": 2347319,
+"text": "Después de que hiciste te aconseja"
+},
+{
+"startMs": 2354138,
+"endMs": 2356178,
+"text": "Dice: si tienes ahí un arma contigo"
+},
+{
+"startMs": 2358339,
+"endMs": 2365519,
+"text": "y ahí, eh, y tienes tu sefer, o sea, tu, tu libro de... De De , ¿sí?"
+},
+{
+"startMs": 2366459,
+"endMs": 2373019,
+"text": "Entonces dice: tienes que que no eres ni rey ni hijo de rey. Ordus es un eben, eh,"
+},
+{
+"startMs": 2375499,
+"endMs": 2380339,
+"text": "Es un eben que dice-- solito se convirtió en, eh, ben jorí."
+},
+{
+"startMs": 2382939,
+"endMs": 2390038,
+"text": "Eso pasó Roma. Entonces, acá vemos que aquí hay algo muy, muy amok. Babe, mucho."
+},
+{
+"startMs": 2390618,
+"endMs": 2393678,
+"text": "Tanto así que la aquí más adelante dice:"
+},
+{
+"startMs": 2396098,
+"endMs": 2398638,
+"text": ". Es en la letra vav de Sefaria, es la siguiente párrafo."
+},
+{
+"startMs": 2405439,
+"endMs": 2412439,
+"text": "El vinian más bonito que hab-- remodeló todo el Bet Hamikdash y lo dejó Ba'al Shem Tov. ¿Cuándo fue que lo remodeló todo?"
+},
+{
+"startMs": 2412718,
+"endMs": 2418319,
+"text": "Ordus remodeló todo Ba'al Shem Tov por esta historia de Baba Ben Buta, por él querer hacer teshuvá, de haber matado a los ."
+},
+{
+"startMs": 2419979,
+"endMs": 2424058,
+"text": "Hizo teshuvá y construyó el Bet Hamikdash más bonito que hay en el mundo."
+},
+{
+"startMs": 2431899,
+"endMs": 2435158,
+"text": "¿Y ahora qué? Mmm. Era eben. Un eben tiene"
+},
+{
+"startMs": 2440538,
+"endMs": 2448538,
+"text": ". Entonces, acá-- vemos acá un paralelo muy interesante con nuestra Guemará. Baba Ben Buta fue el que se dio cuenta en nuestra Guemará, ¿que qué?"
+},
+{
+"startMs": 2448999,
+"endMs": 2458919,
+"text": "Que había un batkol, que la halajá- Que el Bet Hamikdash está ashomem. Y él, al detectar que el Bet Hamikdash está ashomem, dijo: «No, necesitamos construir el Bet Hamikdash y cabal la halajá como Hilel»."
+},
+{
+"startMs": 2459778,
+"endMs": 2469519,
+"text": "Y en esta, en esta Guemará- Para remodelar el Bet Hamikdash. Él, el Bet Hamikdash está ashomem, porque si mató a los , entonces no hay Bet Hamikdash."
+},
+{
+"startMs": 2470499,
+"endMs": 2477499,
+"text": "No hay Bet Hamikdash y él mismo hace que se remodele el Bet Hamikdash. Entonces, vemos como Baba Ben Buta, él es justamente--"
+},
+{
+"startMs": 2479519,
+"endMs": 2485939,
+"text": "quiere decir que el talmid de Shammai, que acepta que la halajá es como Hilel, él es el que construye el Bet Hamikdash."
+},
+{
+"startMs": 2485939,
+"endMs": 2501839,
+"text": "¿Sí? Vemos mamash paralelo en las Guemarot. Está ciego. ¿Eh? O sea, no, como que está ciego, que no ve el metsut, como si todos lo ven y él ve- Él, él ve, ve- Como dice Rabajá: «¿Quieres ver el tajlit?» Cierra los ojos."
+},
+{
+"startMs": 2501879,
+"endMs": 2505299,
+"text": "Los ojos fuertes. Exactamente. Adultos. Entonces, él cierra los ojos."
+},
+{
+"startMs": 2508879,
+"endMs": 2516799,
+"text": "Cierra también de-- Shammai cierra los ojos y deja la halajá . Sí. Está muy duro. ¿Cómo sigue la historia? Ya hizo teshuvá, construyeron esto, lo amaban, ¿eh?"
+},
+{
+"startMs": 2517198,
+"endMs": 2524538,
+"text": "No, no. Lo amaban, no sé. Hay que ver la historia, no lo sé. Entonces, ¿por qué es así?"
+},
+{
+"startMs": 2525158,
+"endMs": 2526339,
+"text": "Pues vemos claramente,"
+},
+{
+"startMs": 2528278,
+"endMs": 2547359,
+"text": "o sea, un patrón muy claro, incluyendo el patrón de Baba Ben Buta con el Bet Hamikdash destruido y construido. O sea, teniendo esta Guemará y comparándolo con la Guemará en Beца, si tenías dudas si el Bet Hamikdash era ashomem y era-- y luego otra vez Baba Ben Buta hizo que otra vez el Bet Hamikdash florezca."
+},
+{
+"startMs": 2547778,
+"endMs": 2554538,
+"text": "Cuando ves otra vez la misma historia, dices: «Ah, lo que viste en Beца era mamash, que iba a ser ashomem mamash», ¿sí?"
+},
+{
+"startMs": 2554678,
+"endMs": 2562979,
+"text": "Y Baba Ben Buta es el que hace que se florezca el Bet Hamikdash. Ya, absoluto. Sí. Ahora, Baba Ben Buta- ¿Batkol cómo captó Ordun?"
+},
+{
+"startMs": 2563658,
+"endMs": 2566638,
+"text": "Habrá sido un batkol. Ah, yo creo que era mentira eso, ¿no?"
+},
+{
+"startMs": 2568198,
+"endMs": 2571259,
+"text": "Un niño diciendo que... algo así."
+},
+{
+"startMs": 2573198,
+"endMs": 2580638,
+"text": "Se lo mandaron a decir del Shammai de una manera que le quede- ¿Fue verdad? Claro, eso. ¿Eh? ¿Fue verdad el batkol? Algo escuchó, escuchó un niño."
+},
+{
+"startMs": 2581379,
+"endMs": 2587259,
+"text": "que acabó construyendo- Sí, se hizo rey. Mató a todos los jasmonaím y les quitó el maljut. El rey"
+},
+{
+"startMs": 2589299,
+"endMs": 2593618,
+"text": ". ¿Cómo puede ser que el Beis Hamikdash está construido por un ?"
+},
+{
+"startMs": 2596339,
+"endMs": 2602379,
+"text": "¿Eh? Ordus que le dé ese- Fue Ba'al Shem Tov, la remodelación de Ba'al Shem Tov fue así. Hay que entender."
+},
+{
+"startMs": 2602419,
+"endMs": 2610799,
+"text": "Malos, malos. Hay que entender. Porque se destruye, ¿no? ¿No opinas así?"
+},
+{
+"startMs": 2611419,
+"endMs": 2619939,
+"text": "Hay que entender por qué. No, pero lo veo algo malo, ¿no? Que el Bet Hamikdash necesita ser remodelado por Ordus es un simán malo del Bet Hamikdash que necesita."
+},
+{
+"startMs": 2620138,
+"endMs": 2623078,
+"text": "Sí, sí, sí, sí. Hay que entender 100 %."
+},
+{
+"startMs": 2627178,
+"endMs": 2633479,
+"text": "Todo lo que hay hoy en Jerusalén lo hizo él. ¿Pero qué hay? Lo que hay del-- No, remodeló el Bet Hamikdash y ya."
+},
+{
+"startMs": 2633538,
+"endMs": 2639979,
+"text": "Los murallas. No. La Guemará dice cómo lo hizo. Él fue lo último. Pero acá la Guemará luego sigue diciendo cómo lo remodeló."
+},
+{
+"startMs": 2642078,
+"endMs": 2642618,
+"text": "Nosotros decimos"
+},
+{
+"startMs": 2646194,
+"endMs": 2649194,
+"text": "¿La voz no tiene que ver con el size de la mentira?"
+},
+{
+"startMs": 2650455,
+"endMs": 2651415,
+"text": "No tengo idea."
+},
+{
+"startMs": 2672935,
+"endMs": 2679975,
+"text": "Entonces, hay un Zohar que dice así No, la Gemara sigue preguntando cómo puede ser que hizo algo así Rebe Bambuta, ¿no?"
+},
+{
+"startMs": 2679975,
+"endMs": 2681674,
+"text": "¿Por qué le dio esa tsad?"
+},
+{
+"startMs": 2683015,
+"endMs": 2690394,
+"text": "Como que mal, mal. Como, como- La Gemara pregunta por qué, por qué Le dio esa tsad."
+},
+{
+"startMs": 2690435,
+"endMs": 2693375,
+"text": "Le dio esa tsad y dice: \"Bet hamikdash van\". ¿Qué Zohar?"
+},
+{
+"startMs": 2694794,
+"endMs": 2695734,
+"text": "Es un Zohar..."
+},
+{
+"startMs": 2697754,
+"endMs": 2704294,
+"text": "Daf-- Helek Guimel, Daf Resh Bet, Mem He, Amud Alef. No, pero ¿qué Zohar? De qué Parashat. ¿Eh? Helek Guimel, ¿así?"
+},
+{
+"startMs": 2704314,
+"endMs": 2706694,
+"text": "¿O no dice Parashat? No."
+},
+{
+"startMs": 2708734,
+"endMs": 2720615,
+"text": "A ver, mándalo al grupo. Está muy corto, ya se los leo. Dice: \"Amar rab Meir. Hilel veShammai de atun jad misitra de rahamei ve jad misitra de dina\"."
+},
+{
+"startMs": 2722595,
+"endMs": 2730035,
+"text": "La mahloket de Hilel y Shammai es que uno viene del olam de Rahamim, del lado de Rahamim, y Shammai viene del olam del Din."
+},
+{
+"startMs": 2730035,
+"endMs": 2739314,
+"text": "\"De inun jesed ugvura dargin de Abraham veYitzhak\", que son jesed y gvura, que son las madregot de Abraham veYitzhak."
+},
+{
+"startMs": 2740174,
+"endMs": 2744174,
+"text": "VeHilel es jesed y veShammai es gvura."
+},
+{
+"startMs": 2747075,
+"endMs": 2748134,
+"text": "Ora, dice acá..."
+},
+{
+"startMs": 2750174,
+"endMs": 2752515,
+"text": "Eh, les voy a leer aquí un Malbim, dice así."
+},
+{
+"startMs": 2754615,
+"endMs": 2766595,
+"text": "Dice: \"Kvar amarnu shevinian ze hayu mehulakim veShammai veHilel, sheShammai venimshajim acharav su mehalaj era haya darkem lemaes beolam hazeh velaazov col iniyenei hajom\"."
+},
+{
+"startMs": 2767415,
+"endMs": 2776354,
+"text": "Ese es lo que es de midat hadin. Como Itzjak avinu, es un prishut total dejar el olam hazeh. Porque midat hadin, por ejemplo- ¿Y eso es midat hadin?"
+},
+{
+"startMs": 2776754,
+"endMs": 2782834,
+"text": "Claro, para dejarlo. Dejas todo el olam hazeh. ¿Por qué? Porque si tú, si tú tienes una comida,"
+},
+{
+"startMs": 2784314,
+"endMs": 2790334,
+"text": "midat hadin dice: \"Tienes que hacer un beirur muy, muy amok\". Ma kesher kom?"
+},
+{
+"startMs": 2791975,
+"endMs": 2796015,
+"text": "Arei-- Lo único que puedo lehot es de Hashem, lenot mitzvat shina."
+},
+{
+"startMs": 2797234,
+"endMs": 2806854,
+"text": "Entonces, tienes que hacer un beirur muy, muy, muy amok, muy dak, para que no seas un gazlan, para que no comas algo-- se lo da al Piadin."
+},
+{
+"startMs": 2809055,
+"endMs": 2820154,
+"text": "Entonces, tienes que lifrosh y solamente algo que es mamash kodesh kodashim lo puedes usar. Entonces, tanto es así que el midat hadin de Itzjak lo llevó a convertirse en una olá."
+},
+{
+"startMs": 2820415,
+"endMs": 2827634,
+"text": "Dice: \"En el-- un mundo de midat hadin, el único lugar que puede existir es con Hashem allá arriba, pero mi existencia aquí es una mentira\"."
+},
+{
+"startMs": 2828515,
+"endMs": 2834915,
+"text": "Esa es la yitda del midat hadin de convertir el mundo en un mundo rujaní totalmente."
+},
+{
+"startMs": 2835634,
+"endMs": 2842734,
+"text": "Dice: \"VeHilel vanimshajim acharav. Hayu omrim shein laazov et haolam\". Esto lo explicamos más."
+},
+{
+"startMs": 2843254,
+"endMs": 2852875,
+"text": "Dice: \"Kvar amru sheveShammai veHilel nejelku im tov lo leadam mi shenibra, shenibra, mi shelo nibra. Ki veShammai katsu baolam hazeh veraotav umeasu bo\"."
+},
+{
+"startMs": 2853354,
+"endMs": 2860475,
+"text": "Entonces, es un mundo feo, malo. ¿Eso no es lo nibra? Shelo nibra. \"Vehistadlu tamid lahapshit hanefesh min haguf."
+},
+{
+"startMs": 2860995,
+"endMs": 2867194,
+"text": "Vehayu omrum shetov haya lo leadam im lo haya nibra lejiot im hagvia susma venefesh bemasaror lev ha'ata."
+},
+{
+"startMs": 2867814,
+"endMs": 2882555,
+"text": "Kvar katav haAriza\"l shema sheein halajá keveShammai ukerashbi u mipnei godel ma'alata\", que es una darga tan, tan boa, \"shelo asku vetorat haolam hazeh klal, rak vetorat haolam haatsilot."
+},
+{
+"startMs": 2883075,
+"endMs": 2897535,
+"text": "Ki hatora mitpashet et kol olam veolam venifredu min haolam hazeh veascu vetorat hasichlim hanifradim, vehatora kefi sodoteha beolamot haelionim, hiljoteha meshunim mitfi inyanam baolam hagufim\"."
+},
+{
+"startMs": 2898814,
+"endMs": 2906035,
+"text": "Para- ¿Por eso tienen los sodot? ¿O hay sodot también abajo y sodot en arriba? No, ellos ven-- El Metsiut de esa forma."
+},
+{
+"startMs": 2906095,
+"endMs": 2912955,
+"text": "Ellos ven el Metsiut de Amadez de su aspecto rujaní. \"Veamru shebashamaim poskim keveShammai ukevarashbi."
+},
+{
+"startMs": 2913634,
+"endMs": 2921975,
+"text": "Sheken nifzeju halajá laatid labo, cheit pashtu hanefesot min hagufim, sheaz tie halajá lemata, como shu baolam haeliyon."
+},
+{
+"startMs": 2922015,
+"endMs": 2931274,
+"text": "Veal zejat katuv ki torá jadashá amitit tete. Shetie hatora lemata como shehi iti lemal\". Que la Torá de aquí abajo va a ser como la Torá de arriba."
+},
+{
+"startMs": 2931294,
+"endMs": 2935415,
+"text": "¿Dónde está lemal? Dime. Parashat Juká. Torá Or, Parashat Juká."
+},
+{
+"startMs": 2937634,
+"endMs": 2943154,
+"text": "Entonces, la Gemara dice: \"Rashi lodrai\"."
+},
+{
+"startMs": 2944754,
+"endMs": 2952035,
+"text": "Es el Midrash, perdón. \"Bitjila alá bemajshavá livró et haolam bemidat hadin\"."
+},
+{
+"startMs": 2952214,
+"endMs": 2959814,
+"text": "Por eso la Parashat empieza: \"Bereshit bará Elokim\". Está en Shonei Bet Ari. En Perek Bet ya dice: \"Hashem Elokim."
+},
+{
+"startMs": 2960595,
+"endMs": 2975174,
+"text": "Raá shelo mitkayem, shitef imo midat harachamim\". Cuando vio Hashem que si el mundo es bemidat hadin no puede leitkayem, entonces HaKadosh Baruj Hu ahí shitef midat harachamim a midat hadin."
+},
+{
+"startMs": 2978075,
+"endMs": 2979234,
+"text": "Entonces..."
+},
+{
+"startMs": 2983875,
+"endMs": 2987055,
+"text": "¿Le leo una Gemara más? No, es para entenderlo un poquito. Dale."
+},
+{
+"startMs": 2988354,
+"endMs": 2998435,
+"text": "No, ya se las leo. Dice así: \"Mahloket Shammai veHilel. Tanu rabanan. VeShammai omrim: Shamaim nivreu tjila veajarkaj nivret ha'aretz\"."
+},
+{
+"startMs": 2998515,
+"endMs": 3008854,
+"text": "¿De qué talmud? Dime, ahora. Gemara Jaga, Yod Bet, Amud Alef. Dice: \"VeShammai omrim: Shamaim nivreu tjila veajarkaj nivret ha'aretz, shene'emar: Bereshit bará Elokim et hashamayim veet ha'aretz."
+},
+{
+"startMs": 3009294,
+"endMs": 3016111,
+"text": "UveHilel omrim: Eretz nivret tjila veajarkaj nivra shamaim\". Si Neymar vio Mazote, llámelo King versus Shamay."
+},
+{
+"startMs": 3016171,
+"endMs": 3022951,
+"text": "¿Qué se creó primero, el cielo o la tierra? Según Beth Shamay, el cielo. Según Beth Hillel, la tierra. Aquí hay una Si no está caminando allá Si no está--"
+},
+{
+"startMs": 3024491,
+"endMs": 3035151,
+"text": "exactamente Pero para Beth Hillel, se creó la tierra antes de que exista el cielo."
+},
+{
+"startMs": 3035211,
+"endMs": 3035211,
+"text": "¿Qué puede existir la tierra?"
+},
+{
+"startMs": 3036451,
+"endMs": 3036651,
+"text": "Está"
+},
+{
+"startMs": 3039211,
+"endMs": 3086451,
+"text": "en caja. Se llama Midat Harajavim. Afilo, todavía no existe el cielo, entonces todavía"
+},
+{
+"startMs": 3086451,
+"endMs": 3087571,
+"text": "no tiene un tajlit mamash."
+},
+{
+"startMs": 3089031,
+"endMs": 3105850,
+"text": "Afilo que no tiene un tajlit mamash, pero va a tener tajlit ahorita que creamos el cielo. Entonces, eso le da a la tierra existir aun siendo que no está ya en ese estado que está- Claro Eh, conectada al- Según Beth Shamay, si el mundo de abajo no está caminando ahí, mabúl, acaba con todo."
+},
+{
+"startMs": 3106051,
+"endMs": 3109111,
+"text": "Exactamente. ¿Por qué tiene que existir si no? Exactamente. Según Beth Hillel, no"
+},
+{
+"startMs": 3110470,
+"endMs": 3119790,
+"text": "Exactamente. Para Beth Shamay, el mundo es una de dos. Midat Hadin es ¡o todo o nada!"
+},
+{
+"startMs": 3120691,
+"endMs": 3127411,
+"text": "Hoy es mota Mashíaj y el Tikún Hashalem, y si no, es el Jurbán, ¿sí?"
+},
+{
+"startMs": 3128010,
+"endMs": 3134131,
+"text": "O es el Mashíaj y es el Tikún Hashalem o es el Jurbán. Beth Hillel dice: \"No, hay rajamim\". Rajamim,"
+},
+{
+"startMs": 3157810,
+"endMs": 3159250,
+"text": "sí. Entonces,"
+},
+{
+"startMs": 3160691,
+"endMs": 3164651,
+"text": "dijimos- ¿Nos está hablando? ¿Mmm? ¿Nos está hablando?"
+},
+{
+"startMs": 3165970,
+"endMs": 3174611,
+"text": "Sí. Es esperar a que llegue, a llegar al Tajlit. Vamos a llegar, vamos a llegar al Tajlit. Y estamos caminando hacia el Tajlit."
+},
+{
+"startMs": 3174611,
+"endMs": 3182830,
+"text": "¿Cuál es el Tajlit del mundo? \"Vaya Hashem lemelej al kol haaretz, bayom ahú ye Hashem ejad usmo ejad\"."
+},
+{
+"startMs": 3182830,
+"endMs": 3184911,
+"text": "¿Notas las palabras?"
+},
+{
+"startMs": 3186370,
+"endMs": 3189731,
+"text": "Shema Israel, Hashem Eloquenu, Hashem ejad."
+},
+{
+"startMs": 3190951,
+"endMs": 3201071,
+"text": "Sí o no. Hashem Eloquenu, Hashem ejad, es el matzav de el Tajlit De la tierra que se convierte en cielo Es machlóket Beth Shamay y Beth Hillel."
+},
+{
+"startMs": 3202491,
+"endMs": 3203430,
+"text": "Si el criat Shemá,"
+},
+{
+"startMs": 3204930,
+"endMs": 3213211,
+"text": "el momento del criat Shemá, ¿met olublech tejavá derech o no met olublech tejavá derech? Según Beth Shamay, no."
+},
+{
+"startMs": 3213770,
+"endMs": 3226810,
+"text": "Beshochejá uvkumejá. Total Total. Hillel met el blech tejavá derech, tanto al beshochejá y tanto al uvkumejá Es el majar, el blech tejavá derech Blech tejavá derech es el ayom ¿No es el majar?"
+},
+{
+"startMs": 3227470,
+"endMs": 3231531,
+"text": "Estás caminando Está va derech lemajar El majar es el beshochejá uvkumejá."
+},
+{
+"startMs": 3233430,
+"endMs": 3243411,
+"text": "O sea, el majar, majar, majar es Beth Shamay. La mañana, la Tila o la Haljá es como Shamay. Ba'alam HaZeh, la halajá es como Hillel."
+},
+{
+"startMs": 3244790,
+"endMs": 3252071,
+"text": "Entonces, fíjate qué increíble. ¿Hillel tiene que aceptar que la halajá va a ser mañana como Beth Shamay?"
+},
+{
+"startMs": 3253890,
+"endMs": 3255551,
+"text": "A fuerza. ¿Eh?"
+},
+{
+"startMs": 3257370,
+"endMs": 3269930,
+"text": "Tiene que hoy aceptar Esa es la pregunta, ¿va a aceptar mañana o va a aceptar desde hoy? Acepta desde hoy Tiene que ace- El futuro va a ser como veo yo Y entonces, cuá-- ahora, ¿qué pasa si Hillel no acepta bijlal que la halajá sea como Beth Shamay?"
+},
+{
+"startMs": 3270870,
+"endMs": 3278031,
+"text": "Entonces, tampoco la halajá puede ser como Beth Hillel. Porque si mañana no vas a llegar a Beth Shamay, entonces hoy no puede ser como Beth Hillel tampoco."
+},
+{
+"startMs": 3278731,
+"endMs": 3286111,
+"text": "Porque todo, porque todo el malaj de Beth Hillel es el, el derech que te lleva Es para que mañana pueda ser como Beth Shamay Exactamente."
+},
+{
+"startMs": 3286131,
+"endMs": 3295091,
+"text": "Es la única manera es llegar a ser mañana como Beth Shamay Mañana puede ser en absolu ¿Sí? Pero si hoy, ahora, ¿qué pasa si hoy hago la halajá como Beth Shamay?"
+},
+{
+"startMs": 3295951,
+"endMs": 3307111,
+"text": "Entonces, tampoco voy a hacer la halajá mañana como Beth Shamay. Porque se va a destruir el mundo Acta de Samá Se necesita los ingredientes o todos los ingredientes ¿Sí?"
+},
+{
+"startMs": 3307731,
+"endMs": 3313951,
+"text": "Entonces, entonces, si el mundo hoy es bemidat hadin, se destruye."
+},
+{
+"startMs": 3314991,
+"endMs": 3322090,
+"text": "Pero si el mundo hoy es bemidat harajamim- Y mañana más Entonces, entonces tampoco va a existir, también se destruye. Tiene que ser, betsen,"
+},
+{
+"startMs": 3323531,
+"endMs": 3328750,
+"text": "que Hillel acepte que la halajá sea como Beth Shamay, se destruya el mundo."
+},
+{
+"startMs": 3329991,
+"endMs": 3330850,
+"text": "Y mi meile,"
+},
+{
+"startMs": 3332071,
+"endMs": 3341991,
+"text": "bijjalá lave mashav libo et haolam bemidat hadin, raá sheeno mitkayem, no puede litkayem- Allá pone hola Shitef imo midat harajamim."
+},
+{
+"startMs": 3343691,
+"endMs": 3352970,
+"text": "Entonces, entonces, le fidé Después se destruye y ya si-- y se construye midat harajamim Ya, afilo Beth Shamay entiende que necesita rajamim ahorita Ya, ¿y después?"
+},
+{
+"startMs": 3353211,
+"endMs": 3362671,
+"text": "Entonces, afilo Beth Shamay dice que la única manera cómo hacer que la halajá sea como yo es aceptando que la halajá hoy sea como Hillel, porque si no, tampoco yo soy yo."
+},
+{
+"startMs": 3363830,
+"endMs": 3370290,
+"text": "Pero si Beth Shamay betsen deja el isbor como Beth Shamay, entonces tampoco Hillel puede el isbor como Beth Hillel. Entonces, tiene que pasar ese sede."
+},
+{
+"startMs": 3370810,
+"endMs": 3376930,
+"text": "Entonces, ¿por qué la halajá es como Beth Hillel? Porque son ano-- nojim bealumim. ¿Por qué la halajá no es como Beth Shamay?"
+},
+{
+"startMs": 3377151,
+"endMs": 3389330,
+"text": "La titla, ¿vos sabes qué van a preguntar? Mi-- u mi freim azaju, Beth Shamay bezaju lijua halajá kemotam Porque aceptaron que la halajá sea como Hillel Porque-- no, porque dibréem beemet, son bemidat hadin."
+},
+{
+"startMs": 3390171,
+"endMs": 3403430,
+"text": "Ahí afuj. Cuando es midat harajamim, haya-- del otro, es el midat hadin, que es el emet, que es llegar al midat hadin, a mitia, a mitukán, a, a Shalem, que es bekut con Hashem."
+},
+{
+"startMs": 3404371,
+"endMs": 3412711,
+"text": "Ser-- tener beemet es et bekut, existir por ese et bekut. Entonces, pero si no hay midat harajamim, entonces tampoco hay midat hadin."
+},
+{
+"startMs": 3413231,
+"endMs": 3419510,
+"text": "Entonces, ¿por qué la halajá es como Hillel Ba'alam HaZeh? Porque son nojim bealumim, ¿sí?"
+},
+{
+"startMs": 3420163,
+"endMs": 3426723,
+"text": "Y aceptan anteponer a Bet Shammai a sus palabras. ¿Qué significa anteponer Bet Shammai a sus palabras?"
+},
+{
+"startMs": 3427223,
+"endMs": 3435823,
+"text": "Bitjila alave mashavá libro taolam bemidata dim. Entonces, dice Bet Hillel: \"Sí, la halajá es como tú, Bet Shammai\"."
+},
+{
+"startMs": 3435823,
+"endMs": 3438543,
+"text": "¿Sí? Pero él no mitkayem."
+},
+{
+"startMs": 3439803,
+"endMs": 3446423,
+"text": "Se destruye el Bet Hamikdash. Haya Bet Hamikdash shamem. ¿Sí? Al vanuto de rabí Israel navculas."
+},
+{
+"startMs": 3446923,
+"endMs": 3454163,
+"text": "Haya Yom Kipper que Yom Shenasalbo a Egip. ¿Sí? Entonces, no mitkayem. Entonces, mimel, por eso la halajá tiene que ser como Hillel."
+},
+{
+"startMs": 3455843,
+"endMs": 3470183,
+"text": "Eh, eh, por eso la halajá tiene que ser como Hillel. Ba, ba, ba, ba, ba, baolamaser. Pero eso los lleva a los mismos de Shammai a entender que la única manera en cómo la halajá va a ser como ellos es haciendo que hoy en día la halajá sea como Hillel."
+},
+{
+"startMs": 3470863,
+"endMs": 3475103,
+"text": "Entonces, ellos también hicieron el, el, el, el levater. Sí."
+},
+{
+"startMs": 3478043,
+"endMs": 3486163,
+"text": "El, el bitur, el levater, igual que Bet Hillel también. Y por eso es lo que dije, no es el levater, que es el premio del levater, es lo que estamos explicando."
+},
+{
+"startMs": 3486243,
+"endMs": 3495683,
+"text": "Es una, una mecánica, es un... Es el emet, es el emet, que el, el, el, el, el borde es que Hillel- El tiempo. Su mahalaj es midata rajamim y el mahalaj de Shammai es midata dim."
+},
+{
+"startMs": 3495963,
+"endMs": 3506103,
+"text": "Por eso el primero que hace levater es Hillel, y mimel el primero en darse cuenta que no puede ser la halajá como él es Shammai. Y es mimel el mismo Shammai dice: \"Como no puede ser la halajá como yo\", entonces, mimel la halajá va a ser como tú."
+},
+{
+"startMs": 3506103,
+"endMs": 3516183,
+"text": "¿Sí? ¿Está claro cómo mamash todas las cosas? Acá la-- o sea, la mahalaj de Hillel también la tiene, pero Shammai no empezó."
+},
+{
+"startMs": 3516403,
+"endMs": 3526743,
+"text": "No, o sea, no les quedó de otra más que aceptar. ¿Sí? No les quedó de otra más que aceptar, porque se dieron cuenta cómo beemet su mahalaj se destruye, se autodestruye."
+},
+{
+"startMs": 3528183,
+"endMs": 3529083,
+"text": "No, no me..."
+},
+{
+"startMs": 3530963,
+"endMs": 3532043,
+"text": "Entonces..."
+},
+{
+"startMs": 3535723,
+"endMs": 3538743,
+"text": "El tema es que hoy, hoy la halajá es un jarabú, que tú ves, este, cumbró."
+},
+{
+"startMs": 3540983,
+"endMs": 3542323,
+"text": "Y no entró en el mundo de Hillel."
+},
+{
+"startMs": 3544943,
+"endMs": 3550843,
+"text": "Nada de... A ver, es lo primero de Shammai, la, la, la de diez y cinco, que no nace."
+},
+{
+"startMs": 3552343,
+"endMs": 3553383,
+"text": "Nunca has visto Shammai."
+},
+{
+"startMs": 3555423,
+"endMs": 3562503,
+"text": "Una vez habló del estudio, dijo que se puede hablar de los babish, ¿no? No sé, después, ¿no?"
+},
+{
+"startMs": 3562583,
+"endMs": 3563403,
+"text": "No. Rabbi, rabbi."
+},
+{
+"startMs": 3565123,
+"endMs": 3567063,
+"text": "Bueno, Shammai y Bet Hillel, uno de área."
+},
+{
+"startMs": 3569263,
+"endMs": 3573723,
+"text": "Puede ser que lo hable, no sé, no, no, no. Entonces..."
+},
+{
+"startMs": 3581503,
+"endMs": 3585143,
+"text": "Entonces, la majlá que Bet Hillel y Shammai. Entonces, vean qué pena."
+},
+{
+"startMs": 3592883,
+"endMs": 3600543,
+"text": "La única manera que la halajá sea como Bet Hillel es que Bet Hillel acepte que la halajá es como Bet Shammai, y que Bet Shammai acepte que la halajá es como Bet Hillel."
+},
+{
+"startMs": 3601103,
+"endMs": 3607403,
+"text": "Pero en el momento que Hillel diga que la halajá es como él, no es la halajá como él. Shammai diga que la halajá es como él, tampoco es la halajá como él."
+},
+{
+"startMs": 3607903,
+"endMs": 3612803,
+"text": "Pues cada uno, betem, tiene que al final, betem, aceptar al otro lado."
+},
+{
+"startMs": 3615343,
+"endMs": 3619343,
+"text": "Ni mimel le queda de que no hablamos de la halajá es como Hillel, la, la, la halajá es como,"
+},
+{
+"startMs": 3621423,
+"endMs": 3626523,
+"text": "como Shammai. ¿Por qué la-- ¿por qué es kasheh que Yom Shenasalbo a Egip?"
+},
+{
+"startMs": 3628003,
+"endMs": 3628683,
+"text": "¿Por qué el Egip?"
+},
+{
+"startMs": 3630163,
+"endMs": 3637783,
+"text": "Ya dijimos el otro día que por qué el Egip, ¿qué tiene el Egip de especial? Shammai eran duros, no es la hora, ya se acabó, no, no la pongo usted."
+},
+{
+"startMs": 3639263,
+"endMs": 3639723,
+"text": "No. ¿El Egip?"
+},
+{
+"startMs": 3640963,
+"endMs": 3642743,
+"text": "No. Es porque el Egip,"
+},
+{
+"startMs": 3644063,
+"endMs": 3650783,
+"text": "betem, el midata dim, cuando fue el Het Egip, que hayame jayev, que se destruye todo Am Israel."
+},
+{
+"startMs": 3651963,
+"endMs": 3663863,
+"text": "Eso es lo que pasó en el Egip. Hayame jayev, que se destruye Am Israel completamente. Esa es la halajá de Shammai. Y ahí, ese es cuando la halajá-- entonces, el Egip es que la halajá es como Bet Shammai"
+},
+{
+"startMs": 3665663,
+"endMs": 3671763,
+"text": "y es una de dos. Entonces, tú meres estas épocas, Yud Bet Musá hasta Tishá BeAv, la halajá es como Bet Shammai."
+},
+{
+"startMs": 3672983,
+"endMs": 3677803,
+"text": "Entonces, tú meres o son los mejores días o es el Jurmá. Tú meres estos son los días"
+},
+{
+"startMs": 3679043,
+"endMs": 3693123,
+"text": "del ideal de Am Israel. Porque sobrevivir estamos, pero como Hillel. Pero como-- pero estos días, le máz, hay una Dargá más, que queremos Bet Hamikdash, queremos Mashíaj, queremos Hashem, Ain, Be Ain, y eso no lo tenemos."
+},
+{
+"startMs": 3693923,
+"endMs": 3700623,
+"text": "Entonces, y si exigimos eso y no lo tenemos, entonces mimel es una Velut. Entonces, estos días son los días que la halajá es como Shammai."
+},
+{
+"startMs": 3700623,
+"endMs": 3707743,
+"text": "¿Me explico? En el Ikalón. Idealmente. Idealmente, sí. Que la halajá es como Shammai. ¿Por qué la halajá es como Shammai?"
+},
+{
+"startMs": 3708483,
+"endMs": 3722083,
+"text": "Porque hay un ideal más gaboa que no lo tenemos. No lo tenemos. Oraí, no tenerlos implica que, que hay beemet Jurmá en el Galut, que hay Tzar y hay Jurmá en el Galut."
+},
+{
+"startMs": 3722963,
+"endMs": 3732823,
+"text": "Ora, pero Hillel dice: \"Pero dayin es rajamim\". Entonces, meretadain ahí un mahalaj para llegar, eh, a la, la, la, la tit la vo, a que la halajá sea como, como Shammai."
+},
+{
+"startMs": 3733703,
+"endMs": 3735743,
+"text": "Ora, ¿cuál fue el Tikún al Egip?"
+},
+{
+"startMs": 3737143,
+"endMs": 3744623,
+"text": "Rajmán haMizra. Acá. ¿Cuál fue el Tikún al Egip? Dila Shebejalaym. No, pero ¿cuál fue el Tikún? ¿Cuá-cuándo se perdonó el Egip?"
+},
+{
+"startMs": 3744683,
+"endMs": 3747023,
+"text": "¿En el Matán Torá? Yom Kipur."
+},
+{
+"startMs": 3748343,
+"endMs": 3755203,
+"text": "Yom Kipur. Después. ¿Sí? Moisés subió otra vez, pidió perdón. Tercera vuelta."
+},
+{
+"startMs": 3755263,
+"endMs": 3758403,
+"text": "No, eso fue antes del Egip. Es el, el derecho a la..."
+},
+{
+"startMs": 3760383,
+"endMs": 3766463,
+"text": "Entonces, en, en, en-- cuando Moisés subió la última vez, entonces Hashem le dio la Ziv Guimel midot rajamim."
+},
+{
+"startMs": 3766463,
+"endMs": 3773083,
+"text": "¿Cómo sobrevivir en el mundo de midata dim aun siendo que no estás metucam en midata dim?"
+},
+{
+"startMs": 3774363,
+"endMs": 3780523,
+"text": "Estás en el mundo de, del, del Het, de la Berá. Haciendo la halajá como... Entonces, la halajá es como Bet Hillel."
+},
+{
+"startMs": 3780563,
+"endMs": 3790871,
+"text": "Entonces, cuando, cuando la Torá se dio en Yom Kipur, entonces, betem, cuando Hashem nos perdonó en Yom Kipur- Entonces ahí dijo, aún siendo que según Beth Shammai tiene que ver si va a ser"
+},
+{
+"startMs": 3792551,
+"endMs": 3800851,
+"text": ". Pero en Yom Kipur, adai, hay un malaj que se llama el malaj de Hilel, que es el malaj de ir hacia el Tikún. Ese es, ese es Bet en Yom Kipur."
+},
+{
+"startMs": 3802611,
+"endMs": 3810971,
+"text": "Entonces, ¿qué pasa si yo quito a Hilel? ¿Qué pasa si yo quito a Hilel? ¿Qué pasa si lo quito?"
+},
+{
+"startMs": 3811331,
+"endMs": 3818751,
+"text": "Si quito Kipur. Si quito Kipur, mi maaleh ese día, hay Yom Kasher le Israel, Yom Shaná Habo heger."
+},
+{
+"startMs": 3818751,
+"endMs": 3826731,
+"text": "¿Sí? Vidjuk regresas a jet haegel. En el momento que, que Hilel estaba kafuf lifnei Shammai, quejaba tal meaning."
+},
+{
+"startMs": 3828091,
+"endMs": 3834511,
+"text": "Va de regreso. Entonces, automáticamente regresas al jet haegel o al Mashíaj. ¿Cómo al Mashíaj?"
+},
+{
+"startMs": 3835591,
+"endMs": 3842251,
+"text": "el Shammai ideal. Al ideal que... O jet haegel o no sé, eso es lo, lo mejor."
+},
+{
+"startMs": 3842571,
+"endMs": 3844491,
+"text": "¿Qué Shammai? O Mashíaj o hegel."
+},
+{
+"startMs": 3847391,
+"endMs": 3853611,
+"text": "Va a ser el día bueno, claro, van a ser los días más bueno. Van a ser estos días, son los días bueno."
+},
+{
+"startMs": 3855491,
+"endMs": 3864111,
+"text": "Entonces, entonces por eso hay un cachet de Israel que nosotros sabemos. Mi maaleh también, por eso Beth Shammai estaban"
+},
+{
+"startMs": 3865451,
+"endMs": 3871151,
+"text": "duros y tercos de que la halajá sea como ellos. Que lo ellos decían"
+},
+{
+"startMs": 3872431,
+"endMs": 3875251,
+"text": "en ese día que subió Jananía ben Hiskia ben Garón,"
+},
+{
+"startMs": 3876851,
+"endMs": 3880291,
+"text": "subió a la Aliah. ¿A-- qué hizo en la Aliah?"
+},
+{
+"startMs": 3882391,
+"endMs": 3889731,
+"text": "¿Qué hizo en la Aliah? Porque Yehezkel puede... Las tirot que hay entre Yehezkel y la Torá. ¿Cuáles son las tirot entre Yehezkel y la Torá?"
+},
+{
+"startMs": 3890591,
+"endMs": 3898431,
+"text": "Yehezkel, las tirot son todas las-- no, ese es Hezkiau. Yehezkel es"
+},
+{
+"startMs": 3900771,
+"endMs": 3902971,
+"text": "el que hizo el tziur de Beit Shlishi."
+},
+{
+"startMs": 3904831,
+"endMs": 3913731,
+"text": "Es el que hizo el tziur de Beit Shlishi. Ah, Yehezkel, el Shofar, la Menkabah. No, otra. Las tirot están en per-- mem bet, por ahí."
+},
+{
+"startMs": 3914791,
+"endMs": 3921251,
+"text": "Es una hermana de Menajot, trae todas las tirot que hay entre Sefer Yehezkel y la Torá. Entonces..."
+},
+{
+"startMs": 3924211,
+"endMs": 3931571,
+"text": "Entonces, ¿qué pasa ahí, en Sefer Yehezkel? Hay tirot. ¿Por qué hay tirot? Porque Yehezkel habla de Beit Shlishi."
+},
+{
+"startMs": 3932311,
+"endMs": 3936211,
+"text": "Beit Shlishi, ¿qué malaj es? Es el malaj de Beth Shammai."
+},
+{
+"startMs": 3937691,
+"endMs": 3948451,
+"text": "En la Torá es con Kipur, es el malaj de Beth Hillel. Entonces, había tirot entre el olam de Beth Shammai y el olam de Beth Hillel."
+},
+{
+"startMs": 3949011,
+"endMs": 3963351,
+"text": "Y quería el-- no Sefer Yehezkel, ya se iba a perder porque hay tirot con la Torá. Entonces, a fuerzas tiene que ser que el pshat de la Torá es como Beth Hillel, pero fatay que ve homin, que la Torá se puede estudiar completamente como Beth Shammai."
+},
+{
+"startMs": 3963731,
+"endMs": 3967911,
+"text": "Entonces, hay avliot que no hay tirot entre el Beit Shlishi y el Tiferet Torá Beazmam."
+},
+{
+"startMs": 3969691,
+"endMs": 3976391,
+"text": "Hay avliot que yo puedo leer todo el Humash con los lentes de Beth Shammai. ¿Sí?"
+},
+{
+"startMs": 3976471,
+"endMs": 3982791,
+"text": "Afilo que la Torá te cuente que hubo jet haegel y que hubo Kipur, pero todo eso lo puedes ver desde la perspectiva de Shammai."
+},
+{
+"startMs": 3983631,
+"endMs": 3989331,
+"text": "Todo eso. Pero va a haber muchos tirot con Sefer Yehezkel, que está hablando de la nevuah de la tit lavó."
+},
+{
+"startMs": 3990571,
+"endMs": 3997951,
+"text": "Está hablando en un mundo completo y tahor de Beth Shammai. ¿Sí están claros? Entonces..."
+},
+{
+"startMs": 3999711,
+"endMs": 4002611,
+"text": "entonces, ¿él se subió a la Aliah? ¿Por qué se subió a la Aliah?"
+},
+{
+"startMs": 4004331,
+"endMs": 4006071,
+"text": "Porque es la Aliah, dotomeret."
+},
+{
+"startMs": 4007271,
+"endMs": 4010491,
+"text": "Segundo piso. La del ar, siempre también de..."
+},
+{
+"startMs": 4011731,
+"endMs": 4016251,
+"text": "Entonces, es el mundo de Beth Shammai, subió al Shammai. ¿Sí? Le trajeron"
+},
+{
+"startMs": 4017631,
+"endMs": 4025891,
+"text": "garbi shemen. Shemen, puro aceite, es como si fuera neshamá, shemen. ¿Sí? Dotomeret es-- no, no se alimenta de cosas,"
+},
+{
+"startMs": 4027171,
+"endMs": 4032931,
+"text": "eh, físicas del Olam Hazé, se alimenta de shemen. Shemen es milazón neshamá. ¿Y qué otra cosa?"
+},
+{
+"startMs": 4034351,
+"endMs": 4043111,
+"text": "No, barriles. También, Rabí Shimon bar Yojai. También es el maestro de Beth Shammai. También, jarub. Jarubín, jarub es eljimá dregrura."
+},
+{
+"startMs": 4044371,
+"endMs": 4048151,
+"text": "Jarub es eljimá dregrura. Entonces, él cuando se sube"
+},
+{
+"startMs": 4049591,
+"endMs": 4060371,
+"text": "a, a, a, a contestar, entonces Bet me está subiendo al lugar de que podemos en el Olam Hazé, litfós, ¿sí?"
+},
+{
+"startMs": 4060571,
+"endMs": 4069691,
+"text": "Kilo el Sefer Yehezkel es el Bet Hamikdash Omem. ¿Por qué es el Bet Hamikdash Omem? Porque hay tirot entre Sefer Yehezkel y Tiferet Torá, dotomeret, no nos cuadra."
+},
+{
+"startMs": 4070511,
+"endMs": 4079931,
+"text": "Dotomeret, el mundo de Shammai no cuadra con el mundo. Si, si la halajá es como Shammai, se destruye el mundo. Entonces, en ese momento que él fue a contestar todas las tirot entre Sefer Yehezkel y la Torá, ¿qué hicieron Shammai?"
+},
+{
+"startMs": 4081151,
+"endMs": 4091931,
+"text": "Llegó el momento que la halajá sea como nosotros. Y si los talmidim de Hilel se entercan en subir a la Aliah para ser más y que la halajá sea como Hilel,"
+},
+{
+"startMs": 4093651,
+"endMs": 4099151,
+"text": "entonces ellos vienen con espadas. ¿Por qué vienen con espadas? Porque tú eres el que está haciendo el jet haegel."
+},
+{
+"startMs": 4101211,
+"endMs": 4105491,
+"text": "Dotomeret, si tú no aceptas- ahorita estamos haciendo el Tikún, queremos regresar"
+},
+{
+"startMs": 4106791,
+"endMs": 4118011,
+"text": "al Lujot Rizonot. La ca-- tu ca-- la ca-- tu mundo es el mundo de la caída. Si tú no aceptas el mundo de las Lujot Rizonot, entonces vamos con espadas, con las mismas espadas que fueron con"
+},
+{
+"startMs": 4119231,
+"endMs": 4123651,
+"text": "Am Israel a matar a todos los que hicieron el egel. Fueron con las mismas espadas."
+},
+{
+"startMs": 4125031,
+"endMs": 4133791,
+"text": "Claro, porque Bet Shema acá, acá era el, el punto muy dak. Que Bet Shema, ellos querían di-- la-- traer laregulá."
+},
+{
+"startMs": 4134531,
+"endMs": 4142691,
+"text": "Y beemet, veyajá de laregulá tiene que ser la halajá como Beth Shammai. Entonces, y si no, entonces quiere decir que nos vamos a quedar en el egel toda la vida."
+},
+{
+"startMs": 4142991,
+"endMs": 4151171,
+"text": "Allá, allá es Shaya. ¿Eh? Era Shaya el que, que delata laregulá, que delataba laregulá. Ellos pensaban así, ellos pensaban así."
+},
+{
+"startMs": 4152011,
+"endMs": 4166719,
+"text": "Entonces, entonces Ellos pensaban así. Y entonces una de dos: o que de momento están Ya no hay, no hay,"
+},
+{
+"startMs": 4167979,
+"endMs": 4168439,
+"text": "no"
+},
+{
+"startMs": 4191919,
+"endMs": 4192999,
+"text": "hay kiun Sí."
+},
+{
+"startMs": 4194219,
+"endMs": 4201239,
+"text": "Entonces, pero Sofó se va a dar sí kabú dieciocho halajó, como se llama. A ver, ¿qué dijimos?"
+},
+{
+"startMs": 4201439,
+"endMs": 4209279,
+"text": "¿Qué hizo ahí? Contestar las tiros de Fejes, ¿qué él y qué más? Escribió que Megilá Tanit, que son las Tsarot y las Geulot."
+},
+{
+"startMs": 4209399,
+"endMs": 4214699,
+"text": "Dijimos que las Tsarot. Sí. Entonces, donde me habibi meta Tsarot es kibiajol,"
+},
+{
+"startMs": 4216599,
+"endMs": 4221339,
+"text": "es el mundo de Shamay. Kibiajol, el mundo de Shamay es el mundo de que"
+},
+{
+"startMs": 4222999,
+"endMs": 4229199,
+"text": "ahí está, ahí está que el olam has de be'emet no es el olam, ah, efosenoaj lo leadam liot."
+},
+{
+"startMs": 4229779,
+"endMs": 4237739,
+"text": "Be'emet lo ha tikun. Entonces, las Tsarot nada más te regresan a la Geula. En, en las Tsarot son los beretzer, el, el cómo el tov está ahí atrás."
+},
+{
+"startMs": 4238439,
+"endMs": 4250479,
+"text": "Exactamente. Cómo be'emet no hay nada tov en el Ra. Entonces, todas las, eh, niánim de Miglat Ani, de escribir todos los nisim que llegaron davka, por-porque hubo midat hadin, que el midat hadin trae los estos."
+},
+{
+"startMs": 4250899,
+"endMs": 4255519,
+"text": "Entonces, por eso se llama Hananiah Ben Hizkia. Hananiah es milashón"
+},
+{
+"startMs": 4256759,
+"endMs": 4270579,
+"text": "rajamim. Hananiah es todo el... la perashá de... Exactamente, de, de, del tikún de legguen, de Yom Kipur, es lema nemtsajén beneja, vejanotiet asher ajón."
+},
+{
+"startMs": 4271159,
+"endMs": 4277479,
+"text": "Todo es el hala janiná de Hashem. ¿Ven quién está esta, esta janiná? En Hizkia. ¿Qué es Hizkia?"
+},
+{
+"startMs": 4279579,
+"endMs": 4283539,
+"text": "Azak. Azak, midat hadin, de Hezkiel. Sí, Hashamay."
+},
+{
+"startMs": 4284798,
+"endMs": 4291359,
+"text": "Es Hananiah Ben Hizkia es el midat ha'rachamim, que es el hijo del midat hadin. ¿Sí? Ven Garón."
+},
+{
+"startMs": 4291759,
+"endMs": 4298319,
+"text": "Garón es garganta. Garganta es el- Venika Garón. Es el que-- la que conecta, de hecho, los dos olamot."
+},
+{
+"startMs": 4298819,
+"endMs": 4308759,
+"text": "El olam del din es el olam de la cabeza. La Bab, de la dos yudin. ¿Cómo Hashem actúa? No con la cabeza, que es el emet, o sea, el, el, el ideal, porque el ideal es midat hadin."
+},
+{
+"startMs": 4309319,
+"endMs": 4317559,
+"text": "Pero ¿cómo actúa con rajamim? Entonces, se llama Hananiah Ben Hizkia Ben Garón. Entonces, él conecta be'emet los dos olamot, Hananiah Ben Hizkia Ben Garón."
+},
+{
+"startMs": 4318059,
+"endMs": 4326139,
+"text": "Y en ese mundo, la halajá es como Bethamai y como Betilel a la vez. En la Aliyah es como Bethamai y abajo es como Betilel."
+},
+{
+"startMs": 4326159,
+"endMs": 4333999,
+"text": "¿Sí? Allá arriba, Betilel está kafuf y abajo están matando. Entonces, si están matando, quiere decir: no puede ser la-- ¡fuf!"
+},
+{
+"startMs": 4334059,
+"endMs": 4340219,
+"text": "Está pasando el legguen, no está bien lo que está pasando. Que lo es el-- que lo que están los dos mundos arriba,"
+},
+{
+"startMs": 4341619,
+"endMs": 4353099,
+"text": "los, los rajamim be'atzma, está el minim abajo, y arriba está la halajá como Shamay, y ahí se están contestando las, las tirot de Zefer Yeahhezkel, y abajo es la, la halajá como Hilel."
+},
+{
+"startMs": 4356059,
+"endMs": 4362239,
+"text": "Pero la Bab, ¿no? Es la de Teshua. Ahí las dos yudin y la Bab. Puede ser. Que ve los nisronot."
+},
+{
+"startMs": 4363159,
+"endMs": 4363579,
+"text": "Puede ser."
+},
+{
+"startMs": 4365279,
+"endMs": 4365839,
+"text": "Puede ser."
+},
+{
+"startMs": 4369399,
+"endMs": 4370679,
+"text": "Entonces..."
+},
+{
+"startMs": 4373079,
+"endMs": 4379979,
+"text": "Entonces, ese es el, el-- ese es el inián acá de la machlóket de Bethamai u Betilel."
+},
+{
+"startMs": 4381239,
+"endMs": 4386959,
+"text": "Entonces, acá es algo muy... ¿Qué hay, Isaac?"
+},
+{
+"startMs": 4393859,
+"endMs": 4400019,
+"text": "Nos está dejando en el galut, aret. Y Sham-- y Hilel le dice: «Enajename, enajename»."
+},
+{
+"startMs": 4400179,
+"endMs": 4407319,
+"text": "Entonces, ahora si quieres traer la Geula, tráela. Pero si no la vas a traer. Pero, eh, y entonces tratan de traer la Geula y se destruye."
+},
+{
+"startMs": 4407879,
+"endMs": 4422059,
+"text": "Entonces, entonces ahí es el lugar donde Hilel llora por el Jurbán. Entonces, que, que de hecho está el lugar, dak, que be'emet la halajá es como Bethamai, que be'emet necesitamos anhelar be'emet a, a, a, a, al olam de Bethamai."
+},
+{
+"startMs": 4422839,
+"endMs": 4433599,
+"text": "Eso hay que hablarlo más después, de ajas a Tishá b'Av, que es- Está que-- está muy interesante, porque ve Hilel todo está llorando para que la halajá sea como Bethamai."
+},
+{
+"startMs": 4433659,
+"endMs": 4440339,
+"text": "Que Shamai no dice nada y solo Hilel está increíble. Sí. Sí, sí, sí, sí, sí, increíble, increíble."
+},
+{
+"startMs": 4440999,
+"endMs": 4441719,
+"text": "Exactamente."
+},
+{
+"startMs": 4442979,
+"endMs": 4444079,
+"text": "Y, y, y Shamai,"
+},
+{
+"startMs": 4445579,
+"endMs": 4447659,
+"text": "y, y Shamai, por otro lado,"
+},
+{
+"startMs": 4449299,
+"endMs": 4456959,
+"text": "él quiere que sea la halajá como él, y tiene que querer que sea la halajá como él y no como Hilel, y siempre tiene que tener canaut contra Hilel."
+},
+{
+"startMs": 4457699,
+"endMs": 4460659,
+"text": "Porque, porque si no, nunca se va a construir el Beit Shishi."
+},
+{
+"startMs": 4463199,
+"endMs": 4478419,
+"text": "Entonces, él tiene que enterarse que la halajá sea como él, hasta que se da cuenta que be'emet, si él se enterca que la halajá sea como él, se rompe la halajá como él y no Shaiash, las bimeile, ahí es cuando, cuando se, se corrige."
+},
+{
+"startMs": 4479199,
+"endMs": 4488159,
+"text": "Acepta que la halajá sea como Hilel. ¿Te acuerdas cuando me enseñaste un cuerno hace unos dos años del rabí Eliezer?"
+},
+{
+"startMs": 4488679,
+"endMs": 4495139,
+"text": "Lo mismo, había sido- Sí, es muy parecido, sí, porque rabí Eliezer lo cita de Shamai. Y él quería como que era el be'emet y la perdió."
+},
+{
+"startMs": 4498099,
+"endMs": 4504399,
+"text": "Llegar al medio. Sí, al principio. Es mejor que subas. Subir al pódcast, los que no has subido también."
+},
+{
+"startMs": 4504859,
+"endMs": 4511279,
+"text": "Ya fue hecha. No, no he ido a subir. No, sí, ¿los últimos no los subiste? ¿Cuáles últimos?"
+},
+{
+"startMs": 4511279,
+"endMs": 4517779,
+"text": "¿De la noche? ¿Del Mikutsé? Es que no tiene el sonido."
+},
+{
+"startMs": 4517839,
+"endMs": 4527699,
+"text": "Es la halajá de la suca. ¿Por qué qué? ¿Por qué justamente trae la Gemara una dugmá de que la halajá es como Betilel en el caso--"
+},
+{
+"startMs": 4529239,
+"endMs": 4540879,
+"text": "por traer la, el ejemplo del caso de la suca, y justamente ahí la halajá es como Bethamai? Porque Tishá b'Av es Shamai, pero es cuando Mitgalé, que no estamos en la halajá de Shamai."
+},
+{
+"startMs": 4541419,
+"endMs": 4548459,
+"text": "Kipur es que la halajá es como Betilel. ¿Y cuál es? ¿Qué negue? ¿Qué jag es que negue Diemot Hamashiah?"
+},
+{
+"startMs": 4551039,
+"endMs": 4551579,
+"text": "Sucot."
+},
+{
+"startMs": 4553899,
+"endMs": 4568113,
+"text": "Porque después de Kipur, ¿sí? Entonces, bimeile llegas ahorita al mahalaj De que si ya estás como Kipur, entonces mi mail le vas a llegar a Yom HaMashiaj, toda la sucá, es sucá todo el Shaliabiatán, es la sucá del Mashíaj."
+},
+{
+"startMs": 4569193,
+"endMs": 4577492,
+"text": "Entonces, ahí davka la halajá es como Shamay. ¿Sí? En esa halajá-- hay que entender por qué es halajá específica, ¿sí?"
+},
+{
+"startMs": 4577933,
+"endMs": 4585113,
+"text": "Pero esa halajá, davka, es como Shamay. Que está afuera y está adentro y eso. Hay que entender, sí. Pero el punto es que en esa halajá, davka, la halajá es como Shamay."
+},
+{
+"startMs": 4585513,
+"endMs": 4592533,
+"text": "¿Por qué la halajá es davka como Shamay? Porque Hilel aceptó que la halajá sea como Shamay. A ver, de Kol HaKneit."
+},
+{
+"startMs": 4593533,
+"endMs": 4604353,
+"text": "Kilo. Pero ¿por qué pasa, pasa? Sí, porque la halajá es como tú en Sucot. Por eso Ani Maktim. Y por eso hasta llegar a Sucot, la halajá va a ser como yo, porque solo Kipur nos lleva a Sucot."
+},
+{
+"startMs": 4604393,
+"endMs": 4614433,
+"text": "Y ajá de que pasó Kipur, imagina. Sí. Después de que pasas Kipur, Rahamim-- ah, entonces, claro. Entonces, mi mail, después de Kipur puedes saber que algún día vas a llegar a Be'shamay."
+},
+{
+"startMs": 4614433,
+"endMs": 4620653,
+"text": "¿Me explico? Que ahí tú ajilás Rujani, ti-- que to-- que vas a vivir en el olam haze, tú la Rujani."
+},
+{
+"startMs": 4621713,
+"endMs": 4629733,
+"text": "Que no tienes tu casa, tienes tu, tienes tu sucá, vives mamash en el olam de Hashem. Entonces, ahí, be'emet, dice: \"Después de Kipur, la halajá es como tú\"."
+},
+{
+"startMs": 4630313,
+"endMs": 4637613,
+"text": "Imagina. Entonces, por eso davka la halajá ahí es como Shamay, en Sucot. ¿Sí?"
+},
+{
+"startMs": 4637633,
+"endMs": 4643713,
+"text": "¿Hay otras halajot en Sucot que siguen siendo como de Hilel y nada más eso o es una de las que son...?"
+},
+{
+"startMs": 4643753,
+"endMs": 4656113,
+"text": "No, esa, porque todas las halajot al final, en sucá, tienen que ser como Hilel. Porque seguimos haciendo sucá del olam haze, pero tiene que haber una halajá en Sucot, porque Arest Sucot es Ben, en Sumajut es del olam haba."
+},
+{
+"startMs": 4656193,
+"endMs": 4665033,
+"text": "Es que la halajá más maujit que explica el, la esencia de- Exactamente. Sí, hay que entender por qué. También en Bersá, en Bersá, Daf Bet, tocando la ajila."
+},
+{
+"startMs": 4665452,
+"endMs": 4669973,
+"text": "Sí, que, que, ¿qué pasa si, si el Surjan está en la casa?"
+},
+{
+"startMs": 4671293,
+"endMs": 4678273,
+"text": "Si el Surjan está en la casa, ¿cuál es el problema? Es que todo el Inién de la Sucá es que sea Kol Kulot Binjinat Sucá, Rujani."
+},
+{
+"startMs": 4678593,
+"endMs": 4683593,
+"text": "La casa es regresar al Gashtmiut. Entonces, si en Sucot tienes algún Shayajut a la casa,"
+},
+{
+"startMs": 4684973,
+"endMs": 4694393,
+"text": "entonces, Hilel dice: \"Mea, si Adán es el Sucot del olam haze, entonces tú tienes que estar en la sucá, dejer la olam haba\"."
+},
+{
+"startMs": 4695253,
+"endMs": 4702952,
+"text": "Pero si el Surjan está en la casa, Adán conocemos la casa. Y Shamai dice: \"No, no, no, no, en Sucot no puedes ni siquiera conocer tu casa."
+},
+{
+"startMs": 4703492,
+"endMs": 4710513,
+"text": "Necesitas mamash meterte con todo tu ramaj de Shazal a, a la sucá, al olam de la... Que burra."
+},
+{
+"startMs": 4711513,
+"endMs": 4717533,
+"text": "En Bersá, Daf Bet, al principio trae otras como Be'shamay. O sea, creo que son varias."
+},
+{
+"startMs": 4719393,
+"endMs": 4721992,
+"text": "Al principio. Sí. Son tres."
+},
+{
+"startMs": 4723733,
+"endMs": 4724633,
+"text": "Muy Jazar."
+},
+{
+"startMs": 4726093,
+"endMs": 4731452,
+"text": "En total no son dieciocho. En total. No, las dieciocho son las Gzerot. Que Jazar Be'shamay."
+},
+{
+"startMs": 4735553,
+"endMs": 4736473,
+"text": "¿Podemos regresar?"
+},
+{
+"startMs": 4737893,
+"endMs": 4738433,
+"text": "Trataremos."
+},
+{
+"startMs": 4741753,
+"endMs": 4748233,
+"text": "Vean acá. Sanu Rapanán. Regresamos a nuestra hermana. ¿Se acuerdan? Berajot Yud Dalet."
+},
+{
+"startMs": 4748233,
+"endMs": 4753952,
+"text": "¿Qué dijimos, el Hevdél entre Nar y Zaken? ¿Quién es el Nar y el Zaken entre Shamai y Hilel?"
+},
+{
+"startMs": 4755253,
+"endMs": 4760753,
+"text": "Betilel es el Nar y el Zaken es Be'shamay. Exactamente. ¿Qué pasa si Betilel quiere ser el Nar, que sea Nar?"
+},
+{
+"startMs": 4762633,
+"endMs": 4774133,
+"text": "No va a ser Nar. ¿Qué pasa si Be'shamay quiere ser el Zaken? No, no va a servir. Que cambia el- Necesita que, que la única manera de llegar a ser, exactamente, Zaken..."
+},
+{
+"startMs": 4774753,
+"endMs": 4782133,
+"text": "Es cuando entiendas que hay un proceso de Nar. Exactamente. Y la Shkia en el, en el Nar como Nar."
+},
+{
+"startMs": 4783393,
+"endMs": 4793133,
+"text": "No nomás que es un Hejetimtsel para llegar. Si es Peire. Sino acá es, haces el Peire, Tiva. Veas, mi mail, el Tiva se hace Peire y empieza a dar Perot y entonces los Perot le dan Tiva, la halajá es como Sham."
+},
+{
+"startMs": 4793413,
+"endMs": 4802533,
+"text": "Lo comprobé esta semana físicamente. Si toma mash... ¿En qué? En Shomer. Pero si toma mash, pel."
+},
+{
+"startMs": 4803053,
+"endMs": 4803653,
+"text": "Fuera, no."
+},
+{
+"startMs": 4805173,
+"endMs": 4811853,
+"text": "El Tive lo hice Peire y automáticamente el Tive fue Peire y ya. Y hubo, y hubo Peire."
+},
+{
+"startMs": 4811873,
+"endMs": 4812793,
+"text": "¿Y vas a explicar o no?"
+},
+{
+"startMs": 4814013,
+"endMs": 4820993,
+"text": "Es que... ¿Vas a explicar o no? Eh, los dos ejemplos que dio él, la del jueves. ¿Cómo lo comprobaste?"
+},
+{
+"startMs": 4822193,
+"endMs": 4831153,
+"text": "Porque cuando le haces, cuando le haces mamash que el Tive no es Tive para algo, es Peire mamash, todo se arregla. Pero, pero lo vi, ¿eh?"
+},
+{
+"startMs": 4831273,
+"endMs": 4838173,
+"text": "Con mis ojos. Ya enseña cómo. Eso se llama que la halajá sea como Betilel, ¿me entienden? Entonces, que a Filo que vehechen la halajá es como Be'shamay."
+},
+{
+"startMs": 4838532,
+"endMs": 4844553,
+"text": "Pero la única manera para que la halajá sea como Shamay es haciendo que la halajá sea como Betilel, que el Derej sea Derej."
+},
+{
+"startMs": 4845373,
+"endMs": 4852313,
+"text": "Pero en el momento que dices: \"No, Arel, al final tenemos que, a Filo Hilel tiene que ser como Be'shamay\". Dice: \"No, entonces que Hilel haga como Shamay y ya\"."
+},
+{
+"startMs": 4853153,
+"endMs": 4861353,
+"text": "No, entonces no llegas a Be'shamay. La única manera para llegar a Be'shamay es haciendo no como Be'shamay. Y la, y esa es la única manera de hacer como Be'shamay."
+},
+{
+"startMs": 4861393,
+"endMs": 4868873,
+"text": "¿Me explico? La única manera de hacer como Be'shamay es hacer no como Be'shamay y meterte fuerte en el olam de Hilel."
+},
+{
+"startMs": 4869333,
+"endMs": 4877653,
+"text": "Es, estoy en el olam haze y no estoy en el olam de Tutal. Ani lo nimtavo olam de Tutal. Y voy a, a, a, a litaseque en el olam haze,"
+},
+{
+"startMs": 4879013,
+"endMs": 4887113,
+"text": "como hay-- aceptándolo, no, no aceptándolo. Queriendo y con la claridad de Be'shamay adentro. Y aceptando que me meta dijiste lo noto en olam haze."
+},
+{
+"startMs": 4887693,
+"endMs": 4901413,
+"text": "Porque si no aceptas, es como si- Te destruyes. Ese es el Mealer que hacían Tsitufim y esto, y vino el rabino y dijo: \"No, es como que ese Mealer, no necesitas ser un Tsitufim, puedes comer, puedes ir, pero es con el este, tienes que ser como Hilel\"."
+},
+{
+"startMs": 4901653,
+"endMs": 4909333,
+"text": "Es, es ¿qué pasaría acá? Es alguien que vehechen, imagínate, dice: \"Yo tengo la escuela ideal, no sé qué\", y las cosas no van."
+},
+{
+"startMs": 4910073,
+"endMs": 4917473,
+"text": "Y él nada más lo único que hace hoy en día es puros corajes de que la escuela no es el ideal. Y él dice: \"Si dejo de hacer corajes, nunca la escuela va a llegar a su ideal\"."
+},
+{
+"startMs": 4918113,
+"endMs": 4928153,
+"text": "Entonces, nunca va a llegar a su ideal. Tiene que aceptar que la escuela tiene un problema. En el momento que aceptas que tiene un problema y la aceptas con su problema Y, y desde ahí empiezo a trabajar, así la vas a llevar a su ideal."
+},
+{
+"startMs": 4928493,
+"endMs": 4938273,
+"text": "Pero si no, y te dices: \"No, me voy a quedar en el ideal\", entonces allá Bet Amikdash Amén. Entonces, la única manera que la halajá sea como Beth Shammai es que Beth Shammai acepte que la halajá sea como Bet Hillel."
+},
+{
+"startMs": 4938532,
+"endMs": 4945532,
+"text": "Que el Zaquen acepte que nar es nar ahorita. Y que Beth Shammai sabe que-- y que Bet Hillel sabe que la halajá va a ser como Beth Shammai."
+},
+{
+"startMs": 4945913,
+"endMs": 4954373,
+"text": "Solo que ahorita no puede. Claro. Ahorita no puede. Claro, claro. Y que, y que, y que Bemed haga la, la halajá como Bemed."
+},
+{
+"startMs": 4954393,
+"endMs": 4964253,
+"text": "Como él. Como él. Aceptando que no estoy, no estoy en el Zaquen y Por eso cuando fue a el, al Bet Amikdash, que era como él, porque ahí lo dijo."
+},
+{
+"startMs": 4964473,
+"endMs": 4976573,
+"text": "Porque Bet Hillel hizo que la gente piense que él no estaba, él no estaba. Él tiene que ser como el Chamai. Sí, él tiene que aceptar de que Bemed todo su malaj, Bemed está encaminado hacia ser como Shammai."
+},
+{
+"startMs": 4977373,
+"endMs": 4984813,
+"text": "Pero no ahorita, no ahorita, Mikdash. No, un segundo. Shammai dice: \"No sé si ahorita o no ahorita, pero ahorita es ahoritita, y es que no es la geulá ahorita\"."
+},
+{
+"startMs": 4985173,
+"endMs": 4993113,
+"text": "Dice: \"Ah, piensas que es la geulá\", najera. La geulá todos... Najera, geulá, najera. Pero no estamos ahí. Pero si no estamos ahí ahorita, te vas a dar cuenta si sí o si no."
+},
+{
+"startMs": 4993113,
+"endMs": 4997133,
+"text": "¿Por qué la geulá es? Ahorita te vas a dar cuenta si sí o si no."
+},
+{
+"startMs": 4998593,
+"endMs": 5004693,
+"text": "Entonces, dice... No es cierto, es cuando ya está el matzá de que puede ser geulá, ahí Bet Hillel acepta que es el malaj de Beth Shammai."
+},
+{
+"startMs": 5008733,
+"endMs": 5013253,
+"text": "¿Tienen? Bet Hillel omrín. ¿Tienen?"
+},
+{
+"startMs": 5014793,
+"endMs": 5018273,
+"text": "A la mitad. nuestro animal. Ven, de Joseph."
+},
+{
+"startMs": 5021933,
+"endMs": 5026613,
+"text": "No me hagas imaginar. Bueno, cuenta."
+},
+{
+"startMs": 5030532,
+"endMs": 5036913,
+"text": "Qué locura de shivur. ¿Ya había dado este shivur de Bet Hillel y Beth Shammai?"
+},
+{
+"startMs": 5037753,
+"endMs": 5037893,
+"text": "Sí."
+},
+{
+"startMs": 5039673,
+"endMs": 5046373,
+"text": "Todo bien, rabí Joseph Amar. La saque de Beth Shammai y lo hace lo club. Al final mi señor Rosh me robó más abajo. No, más arriba."
+},
+{
+"startMs": 5051213,
+"endMs": 5055233,
+"text": "es lo mismo. ¿Y si del ombrín? Queríamos que fuera como él, el mundo no fue como él."
+},
+{
+"startMs": 5056513,
+"endMs": 5056993,
+"text": "Dice..."
+},
+{
+"startMs": 5069273,
+"endMs": 5082433,
+"text": "dice, eh: \"Para mí el kriat shema es baderej\". ¿Por qué es kriat shema baderej? La única manera para que bayoma uyé asemejad usmohejal es que baolam ase encuentres que asemejad usmohejal, filo en el derej."
+},
+{
+"startMs": 5082873,
+"endMs": 5088273,
+"text": "Esa es la shitá de Hillel. Que es el derej, que todavía no hemos llegado allá, claro, claro. Claro. Dice..."
+},
+{
+"startMs": 5092213,
+"endMs": 5098293,
+"text": "que es la melajá. Melajá es las tiras más grandes del, de, de la shemejad usmohejal. O sea, ¿por qué?"
+},
+{
+"startMs": 5098373,
+"endMs": 5106452,
+"text": "Porque Adam Harishón code majed, no había melajá. Después del-- exactamente. Después del jed, dice Bet Hillel una de dos."
+},
+{
+"startMs": 5106993,
+"endMs": 5113393,
+"text": "Beth Shammai dice: \"No, no, no, no entiendes. Si dices kriat shema, entonces dices kriat shema\". Y Bet Hillel dice: \"No, no, no, no, no."
+},
+{
+"startMs": 5113813,
+"endMs": 5121073,
+"text": "Necesito, la única manera para decir kriat shema como tú es solamente aceptar que ahorita yo estoy en esta melajá\"."
+},
+{
+"startMs": 5121273,
+"endMs": 5123952,
+"text": "Y digo con todo y todo: \"Asemejad usmohejal\"."
+},
+{
+"startMs": 5126353,
+"endMs": 5126653,
+"text": "acá."
+},
+{
+"startMs": 5127913,
+"endMs": 5129952,
+"text": "por acá. Entonces, dice:"
+},
+{
+"startMs": 5132153,
+"endMs": 5143213,
+"text": "Rabi Ismael estaba ya acostado y Rabi Eleazar ben Azaria estaba parado."
+},
+{
+"startMs": 5146452,
+"endMs": 5148473,
+"text": "y está Rabi Eleazar ben Azaria Rabi Ismael."
+},
+{
+"startMs": 5149853,
+"endMs": 5154733,
+"text": "Se acostó Rabi Eleazar para hacer, para hacer kriat shema como Beth Shammai,"
+},
+{
+"startMs": 5156013,
+"endMs": 5163073,
+"text": "porque se acostó, ¿sí? Y al ver eso, Rabi Ismael se para."
+},
+{
+"startMs": 5174053,
+"endMs": 5183313,
+"text": "Le dicen: \"Oye, tienes ya barba muy bonita\". Dice: \"No, córtenmela\". Ahora, nosotros sabemos que Rabi Eleazar ben Azaria es el joven que se hizo viejito siendo joven."
+},
+{
+"startMs": 5184012,
+"endMs": 5191393,
+"text": "Es Beth Shammai. Sí. Literal. No sé, ahorita vemos. Dice que ya estaba ahí donde el derej. No. No, no, no, ahorita vemos."
+},
+{
+"startMs": 5191693,
+"endMs": 5198773,
+"text": "Pero era el joven que se hizo viejito siendo joven. ¿Sí? Era joven, se hizo viejito siendo joven."
+},
+{
+"startMs": 5199613,
+"endMs": 5201333,
+"text": "Ahora... Como en las dos."
+},
+{
+"startMs": 5203273,
+"endMs": 5210313,
+"text": "Ahorita vemos. Quien es viejo tiene joven. Ahorita vemos. Ahora, pero al ver que Rabi Eleazar se hace como Beth Shammai,"
+},
+{
+"startMs": 5211593,
+"endMs": 5225032,
+"text": "él se hizo como Beth Shammai, Rabi Ismael se para a propósito para hacer como Bet Hillel, pero como reacción a que Rabi Eleazar se está acostando a hacer como Beth Shammai."
+},
+{
+"startMs": 5225073,
+"endMs": 5229093,
+"text": "Ahora, hay que saber que Rabi Eleazar ben Azaria, todo lo que minuto,"
+},
+{
+"startMs": 5230353,
+"endMs": 5236613,
+"text": "como todo lo que le creció la barba, fue porque lo pusieron de Nazi. ¿Y por qué lo pusieron de Nazi?"
+},
+{
+"startMs": 5236773,
+"endMs": 5246833,
+"text": "Porque el Nazi antes era Rabban Gamaliel, y Rabban Gamaliel era Beth Shammai. Era muy duro. Dijo: \"Solamente puede entrar al Bet Amik-- al Bet Amikdash el que es"
+},
+{
+"startMs": 5248393,
+"endMs": 5250933,
+"text": ". Y puso un jéret, muy paralelo a las historias."
+},
+{
+"startMs": 5252373,
+"endMs": 5258813,
+"text": "Lo quitaron a Beth Shammai, que había jol. Para poner a un Bet Hillel. Para poner a un Bet Hillel. Y Rabi Eleazar se acuesta."
+},
+{
+"startMs": 5259593,
+"endMs": 5265893,
+"text": "Y ahorita Rabi Eleazar se acuesta y él, ¿qué significa acostarse según el mashal que él puso?"
+},
+{
+"startMs": 5266933,
+"endMs": 5277493,
+"text": "Ponerse barba. Entonces, quiere decir que el acostarse es ponerse barba, ¿me entiendes? ¿Sí? Y cuando Rabi Ismael se para, que como quién está siendo Rabi Ismael, es cortarla."
+},
+{
+"startMs": 5277493,
+"endMs": 5279233,
+"text": "¿Sí?"
+},
+{
+"startMs": 5280913,
+"endMs": 5281393,
+"text": "Entonces, dice:"
+},
+{
+"startMs": 5290101,
+"endMs": 5299261,
+"text": "Amarló ani asiti kedibre betile el bata asita kedibre betshamaí. Tú hiciste como betshamaí. Veloó de lashem airuat almidin bi-- vehu halaja ledorot."
+},
+{
+"startMs": 5299901,
+"endMs": 5308800,
+"text": "Me da miedo. ¿Por qué le da miedo? Ya vimos que es un miedo que la halaja sea como betshamaí. Jaya mitá, bet hamikdash shamaim, egaíl."
+},
+{
+"startMs": 5311961,
+"endMs": 5314201,
+"text": "Entonces, quiere decir acá algo muy amor--"
+},
+{
+"startMs": 5315641,
+"endMs": 5315800,
+"text": "que"
+},
+{
+"startMs": 5317561,
+"endMs": 5320041,
+"text": "cuando la halajá fue como Rabiel Azár ben Azaria,"
+},
+{
+"startMs": 5323061,
+"endMs": 5330821,
+"text": "que el naar se hizo zaken, significa que, en otras palabras, Rabán Gamaliel se llama Rabán Gamaliel HaZaken."
+},
+{
+"startMs": 5331141,
+"endMs": 5337461,
+"text": "Stamka, ¿sí? Entonces, y, y Rabiel Azár ben Azaria es el naar que se hace zaken."
+},
+{
+"startMs": 5338841,
+"endMs": 5345961,
+"text": "Entonces, ¿qué está pasando? Betzem es Rabán Gamaliel-- no estamos diciendo que la halajá no es como tú."
+},
+{
+"startMs": 5346541,
+"endMs": 5354880,
+"text": "Betzem estamos diciendo que la halajá es como tú. Pero para llegar a ser como tú necesitamos- Necesitamos, betzem, hacer al naar zaken."
+},
+{
+"startMs": 5355921,
+"endMs": 5362241,
+"text": "Hacer al naar zaken es que aceptar al naar como naar, hacer el tiva. Peire."
+},
+{
+"startMs": 5362341,
+"endMs": 5363541,
+"text": "Sí, peire."
+},
+{
+"startMs": 5364861,
+"endMs": 5374121,
+"text": "Dijimos Rebe Beialduce, Rebe Bezicruce. Beialduce es la única manera que él entendió que puede llegar a ser Rebe Bezicruce, que el zav es zav."
+},
+{
+"startMs": 5374481,
+"endMs": 5381861,
+"text": "Solo si Beialduce hace que el, que el, que el késef sea el zav, que el késef sea el peire, ¿sí?"
+},
+{
+"startMs": 5382201,
+"endMs": 5395781,
+"text": "Entonces, como cuando quitan a Rabán Gamaliel no es para quitarlo, es para ponerlo. Y la única manera de ponerlo es poner a Rabiel Azár ben Azaria y decir que ahorita el naar él es el zaken, él es el zaken."
+},
+{
+"startMs": 5396021,
+"endMs": 5402601,
+"text": "Entonces, agarrar a, a Beizilen, que es quilo, el olam haZe es como el naar, y decir: \"La halajá es como Beizil\"."
+},
+{
+"startMs": 5403381,
+"endMs": 5416101,
+"text": "Y hacerlos zaken, pero al hacerlos zaken es la manera como haces, betzem, zaken al final al- Ahí Rab Loders se quiso brincar y decir como que no hay ni una beneficio en el naar, hay que seguir a zaken."
+},
+{
+"startMs": 5416401,
+"endMs": 5426641,
+"text": "Oh, entonces, dice, dice... Entonces, ahí es cuando Rabiel Azar dice: \"No, la halajá es como Rabán Gamaliel, bene, quilo, como, como betshamaí\"."
+},
+{
+"startMs": 5427061,
+"endMs": 5435800,
+"text": "Tu mente le está respeta-- dice: \"Haré todo en el lineán de mi malaj, es para que mi malaj sea el de betshamaí\". Ve allá, que me creció la barba, ¿sí?"
+},
+{
+"startMs": 5436961,
+"endMs": 5443601,
+"text": "Entonces, dice Rabi Ishmael: \"Pero la única manera que pase eso es que yo me pare cuando tú digas que era betshamaí."
+},
+{
+"startMs": 5444321,
+"endMs": 5453221,
+"text": "Porque si yo no me paro, la gente va a pensar que de verdad la halajá es como betshamaí. Y haré todo lo que tú entraste acá fue por ser naar."
+},
+{
+"startMs": 5454201,
+"endMs": 5457841,
+"text": "Esa es la única raison para que tú entraste acá\". Entonces,"
+},
+{
+"startMs": 5461741,
+"endMs": 5462241,
+"text": "dice así,"
+},
+{
+"startMs": 5463981,
+"endMs": 5465461,
+"text": "cinco minutos. Dice..."
+},
+{
+"startMs": 5467901,
+"endMs": 5474021,
+"text": "Afka jata. Tana Rabi Yejezkel. ¿Quién es Rabi Yejezkel? Yejezkel."
+},
+{
+"startMs": 5474041,
+"endMs": 5480201,
+"text": "Yejezkel. Todo lo que se opina al dibre Betilel. Asá kedibre Shamai asá, kedibre betilel asá."
+},
+{
+"startMs": 5480361,
+"endMs": 5488201,
+"text": "Para Yejezkel sí existe que sea la halajá, que no se estira a ser mamash como betshamaí. Rab Iosef Amar asá..."
+},
+{
+"startMs": 5489681,
+"endMs": 5495881,
+"text": "Aquí no es como, como, como el otro, de que por su bambooito y no querer tomarlo. Aquí es ni la guebulá."
+},
+{
+"startMs": 5496300,
+"endMs": 5502921,
+"text": "Sí, Yejezkel betzem está en la guebulá. No como el otro que, que no quiso decir como ninguno de los dos ahí en la- Rabí Isharo ben Afkula."
+},
+{
+"startMs": 5503061,
+"endMs": 5510621,
+"text": "No, él dice: \"No, no, no, acá hay...\" La guebulá. Sí, Yejezkel, pele, que es justamente el nombre Yejezkel, ¿sí?"
+},
+{
+"startMs": 5511041,
+"endMs": 5517701,
+"text": "Rabí Yejezkel, y dijimos que Yejezkel es el, el olam de la guebulá. Él dice: \"No, existe lugar a la halajá como betshamaí\"."
+},
+{
+"startMs": 5518221,
+"endMs": 5524501,
+"text": "Pero Rabió Isefamár asá kedibre Shamai lo asá velo klum, no sea allá. ¿Por qué?"
+},
+{
+"startMs": 5525300,
+"endMs": 5534181,
+"text": "Porque no hiciste afilu lefi betshamaí. Porque betshamaí tiene que lisbor, que la única manera para que sea la halajá es como betilel, porque si no, no llegas a betshamaí."
+},
+{
+"startMs": 5536641,
+"endMs": 5540781,
+"text": "De-- atajó ketashá. De Tnan, ¿y cuál nos trae? Esta."
+},
+{
+"startMs": 5558841,
+"endMs": 5560021,
+"text": "De aquí traen raya que qué,"
+},
+{
+"startMs": 5561701,
+"endMs": 5573541,
+"text": "que el que hace como betshamaí lo asá velo klum. Pero no entendí. Esta raya es que el que hace como betilel lo asá velo klum, porque los genim de Shamai le dijeron a Rabió Jana Mejonanit que uló asá velo klum."
+},
+{
+"startMs": 5573661,
+"endMs": 5582761,
+"text": "¿Qué tiene que ver? Es, es que betzem es lo mismo, que si ilel trata de decir como ilel en el mundo de Shamai, uló asá velo klum, ¿sí?"
+},
+{
+"startMs": 5582921,
+"endMs": 5589441,
+"text": "Entonces, mi meile, de ahí aprendemos que si Shamai trata de ser como Shamai en el mundo de ilel, gam ju lo asá velo klum."
+},
+{
+"startMs": 5589861,
+"endMs": 5596880,
+"text": "Porque si él quiere ser como él, es solamente como ilel. ¿Y la raya cuál es? Que justamente es la Mishná en Sucá."
+},
+{
+"startMs": 5597321,
+"endMs": 5604661,
+"text": "Que la Mishná en Sucá la halajá es como Shamai, y es la raya, que la halajá es como ilel para todas las otras halajot en olam haZe."
+},
+{
+"startMs": 5604800,
+"endMs": 5619861,
+"text": "¿Sí me explico? Entonces, entonces, esa es la raya que lo asá velo klum, porque la única manera para ser como Shamai es que ilel-- esta es la raya que la-- todas las halajot son como ilel, y en esta halajá ilel dijo ante-- puso a Shamai antes que él."
+},
+{
+"startMs": 5620561,
+"endMs": 5627141,
+"text": "Rab Najor Itzjanamar asá kedibre betshamaí, jayav mitá. Eguél. Es bidiuq el punto."
+},
+{
+"startMs": 5627380,
+"endMs": 5634761,
+"text": "El lo asá velo klum, ese es el mismo jayav mitá que te está desconectando del mundo de Shamai. Tú dijiste que hay un proceso de- No puedes llegar ahí, estás..."
+},
+{
+"startMs": 5635300,
+"endMs": 5644380,
+"text": "De Tnan, Amar Rabitarfon, exactamente. Ani ahiti bav derej, bav derej. Yo estaba en el derej, en el derej la halajá como quien tiene que ser, como ilel."
+},
+{
+"startMs": 5644421,
+"endMs": 5653281,
+"text": "Como ilel. Beitéh tilikrot kedibre betshamaí, ve si kanti ve atsmí. Mi pene alistim. Mi pene alistim. Amrulo, tú tomer no aceptaste que hay listim en tu mundo."
+},
+{
+"startMs": 5653481,
+"endMs": 5660461,
+"text": "Ahora estás en el derej. En ese derej hay listim. Si hay listim... Tienes que estar en la halajá de betilel. Hay clipot, ¿sí?"
+},
+{
+"startMs": 5660681,
+"endMs": 5668701,
+"text": "Es el, el, la, la Mishná era de clipot, del Muchta era de clipot. Huesos. De los huesos. Ilel sí le da, sí te deja agarrar las clipot en Shabat."
+},
+{
+"startMs": 5668821,
+"endMs": 5678041,
+"text": "Shamai dice: \"No, Shabat no. No existen las clipot, betzem, en Shabat\". No, ese es olam hatilú, no hay clipot. Pero ilel dice: \"No, hay clipot\", y hay que levarerotam, hay que sacarlas."
+},
+{
+"startMs": 5678441,
+"endMs": 5681481,
+"text": "Para Shamai dice: \"Ya no hay clipot, tenemos que vivir en uno sin clipot\"."
+},
+{
+"startMs": 5682781,
+"endMs": 5691261,
+"text": "Dice Amrulo: \"Kedai ahita laju ve atmejá, shabarta aldibre betilel\", porque en el derej no quisiste aceptar que hay derej, que hay listim."
+},
+{
+"startMs": 5691281,
+"endMs": 5700902,
+"text": "No puedes llegar a betshamaí. Mi meile tampoco llegas al final del camino, que es el camino de betshamaí. Y el único que puede decir que puede ser-- que el que hace como betshamaí ahorita es Yejezkel Ezequiel."
+},
+{
+"startMs": 5701222,
+"endMs": 5712122,
+"text": "Espere. Justo Ezequiel. Justo O, o Janinia ben- Je-janania ben Jizkia, que estaba adoresme ese María Ezequiel Es que viene Alía."
+},
+{
+"startMs": 5714342,
+"endMs": 5720722,
+"text": "Presidente Shur. Dice Guau, impresionante, impresionante No me digas."
+},
+{
+"startMs": 5721542,
+"endMs": 5722142,
+"text": "No se grabó"
 }
 ]
 }

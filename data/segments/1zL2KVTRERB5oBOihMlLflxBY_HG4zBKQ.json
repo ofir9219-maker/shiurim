@@ -1,318 +1,696 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 1000,
-"endMs": 4000,
-"speaker": "Speaker 1",
-"text": "Por qué Wushi Wut Mitztraim?"
+"startMs": 1140,
+"endMs": 7400,
+"text": "¿Por qué hubo shivut Mitzrayim? ¿Por qué baja-- por qué bajamos a Mitzrayim? ¿Por qué bajamos a Mitzrayim?"
 },
 {
-"startMs": 4000,
-"endMs": 8000,
-"speaker": "Speaker 1",
-"text": "Por qué bajamos a Mitztraim?"
+"startMs": 8200,
+"endMs": 14720,
+"text": "Porque vendieron a Yosef. Entonces, ¿qué significa? Que Esav,"
 },
 {
-"startMs": 8000,
-"endMs": 44000,
-"speaker": "Speaker 1",
-"text": "Porque vendieron a Yosef. Entonces, ¿qué significa? Que Estav le pegó a Yaakov en el Yereh, en el Gida Nashé. Significa que si ustedes no pueden tener Erez Israel Bishnemut, que son la beraja, Ellen Ken, mi parte la tienen integrada de manera correcta. Sí o no? Si no tienen mi parte integrada de manera correcta, si usted no tiene la mejorá, entonces tampoco van a poder tener la beraja."
+"startMs": 16580,
+"endMs": 28620,
+"text": "Esav pe-le pegó a Yose-- a, a Yaakov en el- Yerej ...en el yerej, en el guid hanashé. Significa que si ustedes no pueden tener Eretz, Eretz Israel Bishlemut, que esa es la, es la berajá,"
 },
 {
-"startMs": 44000,
-"endMs": 47000,
-"speaker": "Speaker 1",
-"text": "Quién representa la mejorá?"
+"startMs": 30080,
+"endMs": 36320,
+"text": "el en Ken, mi parte, la tienen integrada de manera correcta. ¿Sí o no? Amén."
 },
 {
-"startMs": 47000,
-"endMs": 80000,
-"speaker": "Speaker 1",
-"text": "Josef. Por qué? Otra vez. Yakob le dio la mejorá a Josef. Si los hermanos venden a Yosef, entonces anulan la mejora, veas mi email, se pierde también la berajá. Entonces si Yosef no está en la familia de Yaakov, es Galut, total. Por eso cuando vendan a Yosef, también Yehudah, Bayer y Yehudah Mehtejav, lashinah Istalká, de Yaakov Istalek, y empezó todo el Galut Mitrai."
+"startMs": 36800,
+"endMs": 43960,
+"text": "Si, si no tienen mi parte integrada de manera correcta, si usted no tiene la bejorá, entonces tampoco van a poder tener la berajá."
 },
 {
-"startMs": 80000,
-"endMs": 115000,
-"speaker": "Speaker 1",
-"text": "Entonces luego cuando se reúnen otra vez se reúnen Jacob, Joseph y sus hermanos entonces en cierto aspecto pueden regresar a Israel regresa a la Shkinah Jacob, Rúa Jacob, a bien dicen Shemá a Israel y mi mail le pueden regresar a Jacob a Eres Israel ¿Sí? A Jacob lo pueden regresar a Eres Israel pero ellos están en el Mistraim el Shevudiam gracias el Shevut de Mistraim empezó ¿No empezó? Cuando ellos estaban los hermanos en Mitraim ya reunidos ¿Era Galut o no era Galut?"
+"startMs": 44340,
+"endMs": 45780,
+"text": "¿Quién representa la bejorá?"
 },
 {
-"startMs": 115000,
-"endMs": 130000,
-"speaker": "Speaker 1",
-"text": "Mitraim Shibut no había. No había Shibut. Shibut empezó después. Vamos a ver cuando empezó. Quiero que lean los escuchando. Si? Conocen."
+"startMs": 47560,
+"endMs": 61500,
+"text": "Yosef. ¿Por qué? Otra vez. Yaakov le dio la bejorá a Yosef. Si los hermanos venden a Yosef, entonces anulan la bejorá, de Hashem se pierde también la berajá."
 },
 {
-"startMs": 130000,
-"endMs": 162000,
-"speaker": "Speaker 1",
-"text": "Beleshemot, venir a Israel a Bai Mitraima. Etia a Kobi Shuge Tobau. Entonces les voy a ir explicando lo que está difícil de escuchar. Qué es \"Etiakovichubetovau\"? \"Et le rabot\". \"Et\". Por qué es \"Etiako\"? Cómo que \"Etiako\"? Le rabot, sí. No, ¿qué es \"le rabot\"? No. \"Etiakov\" es \"Ai y mi\" y \"Ai i ti\". Sí? Le hu y mi, le hu i ti. Cuál diferencia entre \"Lech y mi\" o \"Lech i ti\"?"
+"startMs": 62060,
+"endMs": 63240,
+"text": "Entonces, si Yosef"
 },
 {
-"startMs": 162000,
-"endMs": 169000,
-"speaker": "Speaker 1",
-"text": "Cuál diferencia entre \"Ain\" y, Y es conectado."
+"startMs": 64500,
+"endMs": 75700,
+"text": "no está en la familia de Yaakov, es galut total, ¿sí? Por eso cuando venden a Yosef, también Yehuda, 1 de Yehuda me atajao, la Shejiná istalká, ¿sí?"
 },
 {
-"startMs": 169000,
-"endMs": 208000,
-"speaker": "Speaker 1",
-"text": "Et es juntos pero no conectados. En otras palabras, entonces llegan los shemot beneizal que llegan a Mizrain. No llegan \"imyakov\" sino \"etyakov\". Qué significa que eran \"etyakov\"? Sobre Yakov existe Shibu o no existe Shibu? No existe Shibu. Por qué? Porque él haré como peleo contra Saros El Esav. Frente a frente. Entonces Yaakov cuando baja a Mitraen, y ellos cuando bajan a Mitraen, son dos de margen diferentes, por eso Yaakov y Jal ya está en el Tizrael, aquí, Yaakov ya en Baijí ya lo habían regresado en el Tizrael."
+"startMs": 75760,
+"endMs": 79300,
+"text": "De Yaakov istalek, y empezó todo el galut Mitzrayim."
 },
 {
-"startMs": 208000,
-"endMs": 242000,
-"speaker": "Speaker 1",
-"text": "Entonces ahorita te estaba hablando antes de que antes, o sea te está como que diciendo cuando bajaron. Entonces estos son los que bajaron, pero no bajaron Imyakov sino Etiakov. Si la fuerza de Yaakov sigue acá, si la fuerza de Yaakov sigue, En Amisrael, entonces Amisrael no pueden estar en Galut, pero si la fuerza de Jacob se pierde, entonces ya se separa. Quién conecta, vamos a llamarle así a los hijos, a los Fatim con Jacob?"
+"startMs": 80640,
+"endMs": 88520,
+"text": "Entonces, luego cuando se reúnen, otra vez se reúnen Yaakov, eh, Yosef y sus hermanos, entonces en cierto aspecto"
 },
 {
-"startMs": 242000,
-"endMs": 275000,
-"speaker": "Speaker 1",
-"text": "No, Joseph, Joseph conecta a los Fatim con Yosef, Binyamin conecta a los Fatim con Yosef. Y quién conecta a los Fatim con Yacob? Joseph, porque Yosef es el, el mejor, el que representa la mejorá de Yaacov. Entonces Mimeile es el mejor, es el que sigue al papa en la siguiente generación. El de Toledo, Yaacov. Joseph. Entonces Mimeile, pero si los hermanos se desconectan de Yosef, entonces Mimeile se pierde la fuerza de Yaacov, se pierde la mejorá. Entonces primero los dos pierden, también Yosef y también los hermanos."
+"startMs": 90060,
+"endMs": 100680,
+"text": "pueden regresar a Eretz Israel. Regresa la Shejiná a Yaakov. Batejí, ruaj Yaakov, va bien, dicen Shemá Israel, y mi mail le pueden regresar a Yaakov a Eretz Israel, ¿sí?"
 },
 {
-"startMs": 275000,
-"endMs": 280000,
-"speaker": "Speaker 1",
-"text": "Entonces, y el único que reconecta a Yosef con los hermanos es Benjamin. Estamos claros mas o menos como funciona."
+"startMs": 101160,
+"endMs": 109140,
+"text": "A Yaakov lo pueden regresar a Eretz Israel, pero están en Mitzrayim. El shivut ya-- gracias. ¿El shivut de Mitzrayim empezó o no empezó?"
 },
 {
-"startMs": 280000,
-"endMs": 285000,
-"speaker": "Speaker 2",
-"text": "Por qué se le sigue el llamando Yaacov? Que Lucía hizo Israel, y ya hizo el deste."
+"startMs": 110280,
+"endMs": 116360,
+"text": "Cuando ellos estaban los hermanos en Mitzrayim ya reunidos, ¿era galut o no era galut Mitzrayim?"
 },
 {
-"startMs": 285000,
-"endMs": 318000,
-"speaker": "Speaker 1",
-"text": "En todas las torres se le llama eso. Porque Lemai dicen a lo mejor porque. También acá, porque Yeshu estaba en Galut, si puede ser. Porque Lemai se. Los hijos siguen en Galut, si. Estamos hablando a Yakub como el papá de sus hijos, no Yakub. Puede ser. Y la mayoría de veces que le dice. Hay veces y hay veces. Canire la mayoría de veces que. El es Chahub ven a Israel. Ven a Israel es Yakub. Está bueno. Está muy bueno. Son de Israel. Sí, pero ahorita vienen, bajen con Yaakov."
+"startMs": 116420,
+"endMs": 128199,
+"text": "Shivut no había. No había shivut. Shivut empezó después. Vamos a ver cuándo empezó. Quiero que, que, que lean el, los pesukim escuchando, ¿sí?"
 },
 {
-"startMs": 318000,
-"endMs": 323000,
-"speaker": "Speaker 1",
-"text": "Hay que ver. Entonces Rubén."
+"startMs": 128320,
+"endMs": 129000,
+"text": "Conocen."
 },
 {
-"startMs": 323000,
-"endMs": 330000,
-"speaker": "Speaker 2",
-"text": "Dice también Israel también Yaakov es de Israel. Y luego es Yaakov."
+"startMs": 130800,
+"endMs": 131640,
+"text": "Ve-ele Shemot."
 },
 {
-"startMs": 330000,
-"endMs": 339000,
-"speaker": "Speaker 1",
-"text": "Tienen o no? Sí. Rubén Shimon le vi viuda y sakar de volum viyamin. Por qué se saltó a Joseph? Porque Joseph ya estaba en Mitraim exactamente."
+"startMs": 133020,
+"endMs": 134600,
+"text": "Benei Israel habaim Mitzrayimá."
 },
 {
-"startMs": 339000,
-"endMs": 342000,
-"speaker": "Speaker 2",
-"text": "No pero desató a Adán de Naftali, exactamente."
+"startMs": 136000,
+"endMs": 143220,
+"text": "Et Yaakov shuv et bo bau. Entonces, les voy a ir explicando lo que está difícil escuchar. ¿Qué es \"Et Yaakov shuv et bo bau\"?"
 },
 {
-"startMs": 342000,
-"endMs": 375000,
-"speaker": "Speaker 1",
-"text": "No, Dan Naftali, Asher son Nashfajot. Ok. Entonces Joseph ya está en Mitraim. Joseph, si ellos no reconocen a Joseph en Mitraim, cómo llegaron cuando Joseph no era Joseph era el sufrimiento de la vida para los hermanos. Cuando Joseph fue Joseph, dejaron de sufrir. Sí o no? Sí? Ve ahí con Nefesh. Yotsei yereje. Quieres? Qué está diciendo el paso?"
+"startMs": 144020,
+"endMs": 150040,
+"text": "Et Yaakov. Et, et, ¿por qué es Et Yaakov? ¿Cómo que Et Yaakov? Derabot, sí. No, ¿qué es derabot?"
 },
 {
-"startMs": 375000,
-"endMs": 418000,
-"speaker": "Speaker 1",
-"text": "Sí? Son los son los nefesh que son los yotsei yerejeakov pero Josef uy ya ya ve mi traen vayamos Josef, Hubnei, Israel, parubisher, tuve erbubits, mot, mot tiene la mertretam. Y entonces mi melei, ¿qué pasa? Vea como mele jadash, al mitraim asher, loi ha dae, Josef. Vaya hombre, el amoi, y hambreiseldrabazumi, men no, no! Entonces cuando Josef desaparece, mi melei se quita la fuerza que conecta."
+"startMs": 150860,
+"endMs": 158100,
+"text": "No, Et Yaakov es, hay imí y hay iti, ¿sí? Leju imí, leju iti."
 },
 {
-"startMs": 418000,
-"endMs": 449000,
-"speaker": "Speaker 1",
-"text": "Entonces Antes preguntaste que Josef es Yesod. Sí, Josef es el Brit. Entonces tenemos el Jerek. Entonces lo que conecta los Jerekhaim con el GU, el Jerek se conecta al Jezod y después se conecta al GU. Entonces lo que conecta los Jerekhaim con el GU, Bethem es el Jezod. El GU es el conducto que conecta entre el Jerek y el Britz. Entonces primero cuando ataca, cuando le pegan el GUID a Nasheh,"
+"startMs": 158100,
+"endMs": 165000,
+"text": "¿Cuál es la diferencia en lej imí o lej iti? ¿Cuál es la diferencia entre im y et?"
 },
 {
-"startMs": 449000,
-"endMs": 466000,
-"speaker": "Speaker 1",
-"text": "Le está pegando la conexión que hay entre el Brit, que es Yosef, es el que me va a ver con Jacob, y todos los hermanos y todo el Yerech, entonces el Yerech se ve afectado, entonces Mimele aquí por eso ya a Misterel están en Gallut."
+"startMs": 165060,
+"endMs": 172940,
+"text": "Iti es conmigo, pero no conectado. Eso, im es conectado, et es juntos, pero no conectados."
 },
 {
-"startMs": 466000,
-"endMs": 473000,
-"speaker": "Speaker 2",
-"text": "Ahora Binyamin, de Jura tampoco es como Yerech Yacob, que ahí ya estaba, él nació día después,"
+"startMs": 173460,
+"endMs": 181960,
+"text": "En otras palabras, entonces, llegan los Shemot Benei Israel que llegan a Mitzrayim, no llegan im Yaakov, sino et Yaakov."
 },
 {
-"startMs": 473000,
-"endMs": 479000,
-"speaker": "Speaker 1",
-"text": "Él también, Binyamin sería como el Kit mismo, tipo algo así."
+"startMs": 181960,
+"endMs": 189700,
+"text": "¿Qué quiere decir que llegan et Yaakov? ¿Sobre Yaakov existe shivut o no existe shivut? No existe shivut."
 },
 {
-"startMs": 479000,
-"endMs": 496000,
-"speaker": "Speaker 1",
-"text": "A la conexión, la conexión entre el safon, que vino lo más arriba y el darón y los raglang, que iba a fondo. Ese es más o menos aquí el tema."
+"startMs": 189700,
+"endMs": 193260,
+"text": "¿Por qué? Porque el Haré cómo peleó contra Sarosh y Lesav,"
 },
 {
-"startMs": 496000,
-"endMs": 499000,
-"speaker": "Speaker 1",
-"text": "Qué estás diciendo?"
+"startMs": 194640,
+"endMs": 202060,
+"text": "frente a frente. Entonces, Yaakov cuando baja a Mitzrayim y ellos cuando bajan a Mitzrayim, son dos maljim diferentes."
 },
 {
-"startMs": 499000,
-"endMs": 500000,
-"speaker": "Speaker 2",
-"text": "A ver como les paras."
+"startMs": 202120,
+"endMs": 208220,
+"text": "Por eso Yaakov Israel ya está en Eretz Israel. Aquí, Yaakov ya, ya en Vayijí ya lo habían regresado a Eretz Israel, ¿sí?"
 },
 {
-"startMs": 500000,
-"endMs": 524000,
-"speaker": "Speaker 1",
-"text": "Cuando ya no se reconoce el coach de Yosef, entonces mi email es. Ya ahí, sí, porque esa es la marcada de Saab. Y me meta así se llama, es el Sharjov. A Michael cuando bajaron a Mistrain, es el Sharjov. Que paranu y por eso me guían la nueva ERT Israel. Cuando el Saab dice, ¿Por qué ustedes se van a merecer ERT Israel? Dicen, no, nosotros Paranu está Sharjov. Sí, Rushin, Jukat."
+"startMs": 208580,
+"endMs": 218220,
+"text": "Entonces, ahorita te está hablando antes de que, antes, o sea, te está como que diciendo cuando bajaron. Entonces, estos son los que bajaron, pero no bajaron im Yaakov, sino et Yaakov."
 },
 {
-"startMs": 524000,
-"endMs": 531000,
-"speaker": "Speaker 2",
-"text": "O sea, ¿es Sharjov es el Shibut? Eh? El joven es pagar con Shibut."
+"startMs": 218560,
+"endMs": 220420,
+"text": "Si la fuerza de Yaakov sigue acá,"
 },
 {
-"startMs": 531000,
-"endMs": 565000,
-"speaker": "Speaker 1",
-"text": "Es pagar con Shibut Mitrain. Si, es Kilu es la manera como entregarle a las barajota's a Avpendaim Es como que entregarle. Mi maile, entregarle Kilu a las barajota's a Av. No somos Avadim, no somos Melajin. Tu quedaste en Melappendaim van a formar a Vadim, nosotros ahorita nos estamos puliendo. Mi maile, todo el Agueula es cuando Hashem dice \"Bnibhor Israel\" Cuando es \"Bnibhor Israel\" significa que se recuperó el quad de Yosef, Por eso ¿Qué hace mi Yada Mistral al salir de Mitrain?"
+"startMs": 221820,
+"endMs": 223380,
+"text": "si la fuerza de Yaakov sigue"
 },
 {
-"startMs": 565000,
-"endMs": 600000,
-"speaker": "Speaker 1",
-"text": "Qué hace en Miya? Miya salen de Mitrain que es lo primero que hace mucho rape ¿No? Y por eso se agarran a Joseph y Joseph sale aquí lo el dirigente Ruhani esta al lado de la esquina que es de lo que les abre el mal, les abre todo, Es regresar cuando regrese el cuadro de Joseph, entonces regresa la. Cuando regresa el coach de Yosef? Después de que Hashem le dice a Israel: \"Finifhor Israel, ustedes son el mejor\"."
+"startMs": 224620,
+"endMs": 231200,
+"text": "en Am Israel, entonces Am Israel no pueden estar en galut. Pero si la fuerza de Yaakov se pierde,"
 },
 {
-"startMs": 600000,
-"endMs": 606000,
-"speaker": "Speaker 2",
-"text": "Hay dos pilotes entonces en el Kesher de Israel, ahí en Yosef y ahí viñamín."
+"startMs": 232820,
+"endMs": 239960,
+"text": "entonces ya se separa. ¿Quién conecta, vamos a llamarle así a los hijos, a los batim con Yaakov?"
 },
 {
-"startMs": 606000,
-"endMs": 638000,
-"speaker": "Speaker 1",
-"text": "Uno es con Jacob y otro es entre Yosef y sus hermanos. Y otro es Yosef es también papá y también hijo. Entonces quiere decir que cuando está Yosef tenemos el coach de los sabot en los banim, entonces se llama el mejor. Entonces Bethem Yosef también es papá y también es hijo, entonces cuando está Jacob, Entonces Joseph era igualito a Jacob, vele todo a Jacob y Joseph, entonces mi mail y Joseph tiene su fatim, en Efraín me ha hecho su fatim, entonces quiere decir que cuando esta Joseph, esta Jacob y si esta Jacob, Jacob no tiene suibur, como dijimos toda la mitad de Joseph, cual era?"
+"startMs": 239980,
+"endMs": 246500,
+"text": "¿Quién cona--? No. Yosef. Yosef. Yosef conecta a los batim con Yosef."
 },
 {
-"startMs": 638000,
-"endMs": 678000,
-"speaker": "Speaker 1",
-"text": "Que no hay alud, como explicamos en la subida de atrás, rápido Juana, que la mitad de Joseph es que no hay alud, pues se notó, el jurad mixtaime, era fijo que alrededor parezca Galut, el en si no hay ese galut, Y si todos los hermanos están conectados a Yosef, entonces nadie va a tener galutos, mi maile se anula el galut completamente. Entonces, es el cuatro de Yosef, que él es el que trae a Jacob, Ijal no tiene galut, Jacob Ijal es el que pelea con el malaj frente a frente y le gana. En los hijos, entonces todo depende de qué tan conectados estén a Jacob, y entonces el que representa a Jacob, el dos de los hijos es Yosef, y por eso también es Av, ¿Sí?"
+"startMs": 246720,
+"endMs": 252820,
+"text": "Binyamín conecta a los batim con Yosef. ¿Y quién conecta a, a, a los batim con Yaakov? Yosef."
 },
 {
-"startMs": 678000,
-"endMs": 710000,
-"speaker": "Speaker 1",
-"text": "Yosef también es Av, Y tienen hijos que son Shvatim, entonces cuando está el cosa de Josef quiere decir que está el cosa de Jacob, entonces Jacob es como la yugula que no tiene Joshe, y o sea, afilo que los hijos están en Joshek, pero él tiene oro, si están conectados a él, entonces mi men es su ore mi hirota, y entonces Rapio Hanan es el que levanta todo, de su Joshek, si lo saca, Rapio Hanan hace así su mano y entonces todo el Joshek se hace oro, la suya justo la de antes, y entonces luego dice, bueno tenemos, fíjense, está más impresionante, porque lloró aquí en nuestra suya?"
+"startMs": 253080,
+"endMs": 262780,
+"text": "Yosef. ¿Por qué? Porque Yosef es el, el bejor, él es el que representa la bejorá de Yaakov. Entonces, mi mail, el bejor es el que sigue al papá en la siguiente generación."
 },
 {
-"startMs": 710000,
-"endMs": 741000,
-"speaker": "Speaker 1",
-"text": "Se va a perder esa luz. Porque se va a perder la luz de Arapia, Hernán. Cual es la luz de Arapia? Falta la luz de Joseph. Joseph. Entonces, entonces ya se viene la oscuridad. Entonces por eso la siguiente es su guía. Entonces. Por qué se pierde la luz de Joseph? Porque falta quién? Viñamín. Falta Viñamín. Entonces lo sigue en su guía, estaba Viñamín. Estaba Viñamín. Y cuál es? Qué viene a decir algo Viñamín? Todas las conexiones del Safon y el Daro. Y la viuda también tuvo que reconocer."
+"startMs": 262860,
+"endMs": 271640,
+"text": "Él es el teledot de Yaakov, Yosef. Entonces, mi mail, pero si los hermanos se desconectan de Yosef, entonces mi mail se pierde la fuerza de Yaakov, se pierde la bejorá."
 },
 {
-"startMs": 741000,
-"endMs": 759000,
-"speaker": "Speaker 1",
-"text": "Se equivocó con lo del Aries. El review de Rabuna, ahí tiene que ver, hay que entender ahí que tiene que ver, está muy profundo ahí. Es justamente la mitad de Rabuna, era Betsem y Zurin Shennon se la daba. Es hacer chuba, hacer Betsem, regresar la vinagre a hacerla vino. Entonces, el vino es la mitad de quién?"
+"startMs": 272040,
+"endMs": 278740,
+"text": "Los primeros los dos pierden, también Yosef y también los hermanos. Entonces, y el único que reconecta a Yosef con los hermanos es Binyamín."
 },
 {
-"startMs": 759000,
-"endMs": 781000,
-"speaker": "Speaker 1",
-"text": "Vino es la mitad de Yehuda. Pues tri la que venerino. Ve la zona y caminato no, que ves baia, y el buzo, se van a vinsuto, todo es jaclilena, y me jala, no, mas o menos. Todo es vino, todo, todo es udah, el yain, el rojo."
+"startMs": 278840,
+"endMs": 285240,
+"text": "¿Estamos claros más o menos cómo funciona? ¿Por qué, por qué se le sigue llamado Yaakov? Si Lucía hizo Israel y ya hizo el de este."
 },
 {
-"startMs": 781000,
-"endMs": 789000,
-"speaker": "Speaker 1",
-"text": "También aquí en nuestra subida apareció el vino, los Mazdikin,"
+"startMs": 285680,
+"endMs": 292740,
+"text": "En todas las Torás se le llama Yaakov. Ahí entendés, ahí entendés. Porque le maise a lo mejor porque, porque- También acá, porque Yehoshúa está en galut, sí puede ser."
 },
 {
-"startMs": 789000,
-"endMs": 819000,
-"speaker": "Speaker 1",
-"text": "Están alrededor y \"kastle ale ugia\" que es ugia, un viñedo que está en una montaña, entonces yo entiendo que la vagina de montaña es Yosef y el viñedo es Yurdan y entonces alrededor de los dos están todos los Maziki y el Tikun es \"Jofef Alavkolayo\" en vez de que sean \"Jofefim\" los Mazikin, el Tikun es Vijamin y es que Vijamin haga la xquina, que haga el \"Jofef Alavco\" de yo, que te fav, swajem, Sí. Esta bien. Por qué llora?"
+"startMs": 292760,
+"endMs": 299440,
+"text": "Porque le maise... Los hijos siguen en, en galut, sí. Estamos hablando a Yaakov como el papá de sus hijos, no Yaakov."
 },
 {
-"startMs": 819000,
-"endMs": 849000,
-"speaker": "Speaker 1",
-"text": "Eh. Radio Fernán. Si él es luz, tota bien. No lloró Rabio Hernán. Lloró Rabiel Adar. Porque dijo se va a morir no pioja. No, y ahí dijo. Termina su hoyo. Lloraron juntos. Eh. Dice que lloraba. Sí, Allai de ahí. Por qué? Porque entiende que, entiende, ya explicamos ahí, que era después de que ya se había separado de Rzlakis. Rzlakis es el coso de Yudáh, es el coso del Eric, es el coso del, La chuva es el cosa que viene de abajo."
+"startMs": 300040,
+"endMs": 308000,
+"text": "Puede ser. Y la mayoría de las veces que le dice... Hay veces y hay veces. Que a mí de la mayoría de veces que... Él es Shemot Ben Israel."
 },
 {
-"startMs": 849000,
-"endMs": 884000,
-"speaker": "Speaker 1",
-"text": "Entonces cuando Rapeo Hanan ya no tiene Rislakis ya se está perdiendo el mismo Rapeo Hanan. Entonces Rapeo Hanan tiene que entender que todo lo que la complementa es el mismo Rislakish. Entonces no te sirve nada de tu luz si no se la das a alguien. Tu luz no es como la de Yakov, que no hay José. La luz de Yosef es la luz que me mira José, es la luz que está en el Galut. Y entonces tiene coaj ahorita de leer el José y hacer que todos los demás hagan chuva y entonces cuando todos hagan chuva, entonces te vas a dar luz. Entonces, pero cuando se repara Rapiohanan y Richshakesh, entonces mi meile, la fuerza de Rapiohanan ya no tiene que le ir."
+"startMs": 308040,
+"endMs": 314880,
+"text": "Ben Israel es Yaakov. Está bueno. Está muy bueno. Son Ben Israel, ¿sí?"
 },
 {
-"startMs": 884000,
-"endMs": 916000,
-"speaker": "Speaker 1",
-"text": "Es mi meile, ya se pierde. Entonces ahora Benjamin realmente nos esta explicando la subida de arriba. Entonces hablamos arriba de la subida de Rapiohawen Levi y Rapiohanan que dijimos que Rapiohawen Levi es mas estilo yuda. El dice en la noche hay ghula, no hay gula. Entonces donde empezo la subida? Si en la noche subjin ghula lechwila, la mahlo que dice en la noche hay ghula, no hay gula. En el mundo Rabbi Yohana, en la noche hay Yula, si, porque Yosef es el que jala, la Yula, si, hay noche alrededor de él, pero él, si, él no está."
+"startMs": 315140,
+"endMs": 317800,
+"text": "Pero ahorita vienen, bajan con Yaakov."
 },
 {
-"startMs": 916000,
-"endMs": 948000,
-"speaker": "Speaker 1",
-"text": "Entonces mi ven tú puedes, en la noche también mismo Gulalitfila, como en Mitrai, cuando se dijo Gniv Hori Israel, si, en la noche, Makat mejoro en la noche, esa es la Yulah de Yosef, la Yulah de la noche es la Yulah de Yosef. Si, entonces me imaginate Yosef, cuando ya nos llamamos mejor. Alrededor hay Mitraim. Pero nosotros somos Yosefanes, somos el mejor. Somos el mejor, ya estamos Betsem, ya está en la Gurá. Ah, pero sigues en Egipto. Si, pero ya estamos en Gurá."
+"startMs": 319980,
+"endMs": 327700,
+"text": "Hay que ver. Entonces, Rubén. No, dice también Israel y también Yaakov, es Shemot Ben Israel. Y luego es Yaakov."
 },
 {
-"startMs": 948000,
-"endMs": 949000,
-"speaker": "Speaker 1",
-"text": "Si, entonces."
+"startMs": 327700,
+"endMs": 335020,
+"text": "¿Tienen o no? Sí. Rubén, Shimon, Levi, Biniamin, Yehuda, Isajar, Zevulún, Binyamín."
 },
 {
-"startMs": 949000,
-"endMs": 953000,
-"speaker": "Speaker 2",
-"text": "La Vida melia es al revés, no? Es el."
+"startMs": 335240,
+"endMs": 343940,
+"text": "Híjole. ¿Por qué saltó a Yosef? Porque Yosef ya estaba. Ya estaba en Mitzrayim, exactamente. No, pero se saltó a Dan Ben Naftalí, o sea- No, Dan Naftalí y Asher son Nash Fajut."
 },
 {
-"startMs": 953000,
-"endMs": 985000,
-"speaker": "Speaker 1",
-"text": "Si, está acá, no hay. El Apujo, ofecta a Joshek León. Trapiushaven Levi dice, no, hay mala de decir que el Joshek es Joshek. Porque si tu dices que todo el Josh es or, y Vemet no es or, además es que gula, te vas a quedar con la gula media. También empieza a perder el mismo or de Rapiojana. Porque todo el or de Rapiojana es para hacer que el Josh se convierta en or. Entonces Rapioj Shelley dice, no, no, necesitamos la kill que quiere el Josh, y necesitamos anhelar el or. Cuál es la fuente del or?"
+"startMs": 344020,
+"endMs": 352920,
+"text": "Ah, okey. Okey. Entonces, Yosef ya está en Mitzrayim. Yosef, si ellos no reconocen a Yosef en Mitzrayim, ¿cómo llegaron-- cuando Yosef no era Yosef?"
 },
 {
-"startMs": 985000,
-"endMs": 1020000,
-"speaker": "Speaker 1",
-"text": "En la final me tu rápido Hana, pero yo desde mi perspectiva tengo que no dismojula lixfila en Arbit, porque en la noche no es Ghula, la Ghula es hasta la mañana, entonces Rapiocheva le dice, yo necesito convertir esta oscuridad en luz, no puedo hacer el Ixtapé con la luz, como decimos el Dr. Avitzado, y el. El Raffel letra Rabizadok, que rapió Hammendaka y pidió Shusalta Rabangambli, el Raffel letra. Necesito las dos fuerzas, Raffel sigue el Mikdash en el Kalout y Rabsadok, ya estaba ayunando por el Mikdash antes de que se destruya."
+"startMs": 354420,
+"endMs": 360480,
+"text": "Era el sufrimiento de la vida para los hermanos, ¿majal? Cuando Yosef fue Yosef, dejaron de sufrir. ¿Sí o no?"
 },
 {
-"startMs": 1020000,
-"endMs": 1062000,
-"speaker": "Speaker 1",
-"text": "Si, entonces son las dos fuerzas opuestas totalmente que se necesitan. Y entonces ve este Makattoa nuestra Sugya. En Abba Binyamin viene a unir estas costas. Todo atrás se empieza a unir acá. La luz del sol se parece a luz del sol esta en el espacio, si no hay cuerpo, si no hay tierra, no hay luz en verdad la luz de rompiojos no se parece a luna, son dos aspectos de la luna y la del sol es mas como Yaakov, es la luz en si, es el mejor de la luz Josef nada mas, el no tiene luz propia, sino el es el mejor hijo del mejor, el nada mas representa Betsem, la luz de Yaakov va abajo."
+"startMs": 360480,
+"endMs": 371404,
+"text": "¿Sí? Sí. Vehi col nefesh yotsé yerej Yerej Yaakov, setenta nephesh, y Yosef haya beMitzrayim."
 },
 {
-"startMs": 1062000,
-"endMs": 1071000,
-"speaker": "Speaker 1",
-"text": "Y entonces, si le tienes envidia, entonces te estás quemando a ti mismo, vas a empezar a ver más de quien. Es que lo."
+"startMs": 371404,
+"endMs": 378344,
+"text": "¿Qué es? ¿Qué estoy diciendo del pasuk? Yerej Yaakov. ¿Qué tiene que ver el yerej de Yaakov?"
 },
 {
-"startMs": 1071000,
-"endMs": 1072980,
-"speaker": "Speaker 1",
-"text": "Es como lo impresionante."
+"startMs": 378464,
+"endMs": 387844,
+"text": "¿Sí? Entonces son los, son los nephesh, que son los yotzei yerej Yaakov, pero Yosef- Haya beMitzrayim."
+},
+{
+"startMs": 387884,
+"endMs": 397364,
+"text": "Hu ya haya beMitzrayim. Va'yamot Yosef vekol ejah vejol ha-dor hahu, u-vnei Israel paru vi-shertzu ve'erbu ve'atzmu meod meod tilameal et-adam."
+},
+{
+"startMs": 397864,
+"endMs": 409364,
+"text": "Y entonces, mi mele, ¿qué pasa? Ve'akam melej jadash al Mitzrayim asher lo yada et Yosef, ve'yomer el ha'am, hinei amnei Yisrael rabatzu mimeinu, ha'an itjachmonom, lo, empezó el shivut."
+},
+{
+"startMs": 409904,
+"endMs": 416704,
+"text": "Entonces, cuando Yosef desaparece, mi mele, el, el se que-- se quita la fuerza que conecta."
+},
+{
+"startMs": 416964,
+"endMs": 423204,
+"text": "Yosef. Sí, entonces ayer-- antes preguntaste que Yosef es Yesod. Sí, Yesod es el Brit. Entonces, tenemos el yerej."
+},
+{
+"startMs": 423704,
+"endMs": 431024,
+"text": "Entonces, lo que conecta los yerajaim con el guf, ¿sí? Es los-- el, el yerej se conecta al Yesod y Yesod se conecta al guf."
+},
+{
+"startMs": 432344,
+"endMs": 442924,
+"text": "Entonces, lo que conecta los yerejaim con el guf, béchemet, es el Yesod. El gid es el conducto que con-- que conecta entre el, el yerej y el, y el, y el Brit."
+},
+{
+"startMs": 442924,
+"endMs": 447964,
+"text": "¿Sí? Entonces, mi mele, cuando ataca el, el, el-- cuando le pegan al gid hanashé,"
+},
+{
+"startMs": 449264,
+"endMs": 456684,
+"text": "le está pegando la conexión que hay entre el Brit, que es Yosef, es el que majaver con Yaakov y todos los hermanos y todo el yerej."
+},
+{
+"startMs": 457124,
+"endMs": 464264,
+"text": "Entonces, mi mele, el yerej se ve afectado. Entonces, mi mele, aquí por eso ya, ya Am Israel están en, en, en, están en galut."
+},
+{
+"startMs": 464304,
+"endMs": 471364,
+"text": "Guau. Sí. Ahora, Binyamín, dijora, tampoco es como yerej Yaakov. Dijimos que ahí ya estaba..."
+},
+{
+"startMs": 472164,
+"endMs": 477604,
+"text": "Él nació ya después. Él también, eh, Binyamín sería como el gid mismo, ¿no? Tipo algo así."
+},
+{
+"startMs": 479304,
+"endMs": 486264,
+"text": "A la conexión, la conexión entre el tzafon, que viene lo más arriba, y el darom, y los raglaim que bajaron."
+},
+{
+"startMs": 487124,
+"endMs": 487704,
+"text": "Ese iba a ser."
+},
+{
+"startMs": 490244,
+"endMs": 493084,
+"text": "Mekitzur, ese es más o menos aquí el tema."
+},
+{
+"startMs": 496583,
+"endMs": 498084,
+"text": "Tú estás diciendo, ve, como le farás,"
+},
+{
+"startMs": 499744,
+"endMs": 507284,
+"text": "cuando ya no hay Yosef. Cuando ya no se reconoce el koaj de Yosef, entonces mi mele- ¿Y el galut? Ya hay-- sí, porque ese es el, la macá de Esav."
+},
+{
+"startMs": 507544,
+"endMs": 515664,
+"text": "De momento así se llama, es el Shar Hov. Am Israel, cuando bajaron a Mitzrayim, es el Shar Hov, que paranu, y por eso me guía la nueva Eretz Israel."
+},
+{
+"startMs": 516024,
+"endMs": 521384,
+"text": "Donde Esav dice: \"Eh, ¿por qué ustedes se van a merecer Eretz Israel?\". Dice: \"No, nosotros paramos esto, Shar Hov\"."
+},
+{
+"startMs": 522804,
+"endMs": 531044,
+"text": "Sí, Rashi en, eh, Jukat. ¿El Shar Hov es el shivut? ¿Eh? El Hov es, o sea, es pagar, entonces, ¿es pagar con el shivut?"
+},
+{
+"startMs": 531684,
+"endMs": 536964,
+"text": "Es pagar con el shivut Mitzrayim. Sí, es kilo, es la manera como entregarle las berajot a Esav de un time."
+},
+{
+"startMs": 538304,
+"endMs": 545864,
+"text": "Es como que entregarle. ¿En ruín? Sí, mi mele, entregarle kilo, las berajot a Esav. Estamos-- somos agadim, no somos melajim."
+},
+{
+"startMs": 545864,
+"endMs": 555364,
+"text": "¿Tú qué vas a hacer, melaj? Ven, dame una, somos agadim, nosotros ahorita nos estamos puliendo. Entonces, mi mele, todo el, la geulá es cuando Hashem dice, bnibjór Yisrael."
+},
+{
+"startMs": 556004,
+"endMs": 563704,
+"text": "Cuando es bnibjór Yisrael, significa que se recuperó el koaj de Yosef. Por eso, ¿qué hace mi yaam Am Israel al salir de Mitzrayim?"
+},
+{
+"startMs": 563704,
+"endMs": 570024,
+"text": "¿Qué hacen? Mi yaam, mi yaam, salen de Mitzrayim, ¿qué es lo primero que hace Moshe Rabenu? Ir por Yosef."
+},
+{
+"startMs": 570504,
+"endMs": 580044,
+"text": "Ir por Yosef. Se acaba. Ki ashbeha, ishbea. Pakod, pakod elokim etzeim, ve'alitem et atzmotam midebar."
+},
+{
+"startMs": 580584,
+"endMs": 589664,
+"text": "Se agarran a Yosef, y Yosef se hace kilo el dirigente rujaní, ananó es el Yosef. Está al lado, al lado de la Esquina, que es de lo que les abre el mar, les abre todo."
+},
+{
+"startMs": 590044,
+"endMs": 599304,
+"text": "Es regresar-- cuando regrese el koaj de Yosef, entonces mi mele regresa la geulá. ¿Cuándo regresa el koaj de Yosef? Después de que Ha-Hashem le dice a Am Israel, bnibjór Yisrael, ustedes son el bejór."
+},
+{
+"startMs": 600264,
+"endMs": 605264,
+"text": "Hay dos jilot, entonces, en el quéser de Am Israel. Hay el Yosef y hay, y hay Binyamín."
+},
+{
+"startMs": 606764,
+"endMs": 614024,
+"text": "Uno es con Yaakov y otro es entre Yosef y sus hermanos. Yosef y sus hermanos es Binyamín. Y otro es, Yosef es, es también papá y también hijo."
+},
+{
+"startMs": 614644,
+"endMs": 622144,
+"text": "Entonces, quiere decir que cuando está Yosef tenemos el koaj de los abot en los baním. Entonces, se llama ser bejór. Entonces, béchemet, Yosef también es papá y también es hijo."
+},
+{
+"startMs": 622184,
+"endMs": 628564,
+"text": "Entonces, cuando está Yaakov, entonces Yaakov-- Yosef era igualito a Yaakov. Véle, todos, Yaakov, Yosef. Entonces, mi mele, Yosef tiene shvatim."
+},
+{
+"startMs": 629084,
+"endMs": 635424,
+"text": "Tiene Efraim y Menashe, son shvatim. Entonces, quiere decir que cuando está Ya-- Yosef, está Yaakov. Y si está Yaakov, Yaakov no tiene shivut."
+},
+{
+"startMs": 636184,
+"endMs": 643744,
+"text": "Como dijimos, toda la midá de Yosef, ¿cuál era? Que no hay galut, como explicamos en la subida de atrás, Rab Iojanan. Que la midá de Yosef es que no hay galut, béchemet."
+},
+{
+"startMs": 643784,
+"endMs": 650284,
+"text": "Que nato el jurad Mitzrayim. El filó que lo alrededor parezca galut, él, él en sí no hay ese galut."
+},
+{
+"startMs": 650744,
+"endMs": 657044,
+"text": "Y si todos los hermanos están conectados a Yosef, entonces nadie va a tener galut. Entonces, mi mele, mi mele se, se anula el galut completamente."
+},
+{
+"startMs": 657664,
+"endMs": 667224,
+"text": "Entonces, entonces, es el koaj de Yosef, que él es el que trae a Yaakov. Yaakov, bijal, no tiene galut. Yaakov, bijal, es el que pelea con el Malaj frente a frente y le gana."
+},
+{
+"startMs": 667824,
+"endMs": 676924,
+"text": "En los hijos, entonces, todo depende qué tan conectados estén a Yaakov. Y entonces, el que representa a Yaakov en la-- el dor de los hijos es Yosef, y por eso también es Av."
+},
+{
+"startMs": 676964,
+"endMs": 684584,
+"text": "¿Sí? Yosef también es Av, y tiene hijos que son shvatim. Entonces, cuando está el koaj de Yosef, quiere decir que está el koaj de Yaakov."
+},
+{
+"startMs": 684964,
+"endMs": 694024,
+"text": "Entonces, Yaakov es como la geulá que no tiene Joshef. Yosef es-- a filó que los hijos estén en Joshef, pero él tiene Or. Si están conectados a él, entonces mi mele su Or meirotam."
+},
+{
+"startMs": 694084,
+"endMs": 700904,
+"text": "Y entonces Rab Iojanan es el que levanta todo de su Joshef, ¿sí? Lo saca. Rab Iojanan hace así su mano, y entonces todo el Joshef se hace Or, ¿sí?"
+},
+{
+"startMs": 701304,
+"endMs": 709244,
+"text": "La subida justo la de antes. Y entonces, luego dice: \"Bueno, tenemos--\". Fíjense, está más impresionante. ¿Por qué llora Rab Iojanan aquí en nuestra subida?"
+},
+{
+"startMs": 709904,
+"endMs": 718884,
+"text": "Porque se va a perder esa luz. Porque se va a perder la luz de Rab Iojanan. ¿Cuál es la luz de Rab Iojanan? La luz de, de Yosef. Yosef. Entonces, el, el-- y entonces ya se viene la oscuridad."
+},
+{
+"startMs": 719164,
+"endMs": 723944,
+"text": "Entonces, por eso la siguiente subida-- Entonces, ¿por qué se pierde la luz de Yosef?"
+},
+{
+"startMs": 725284,
+"endMs": 735104,
+"text": "Porque, ¿falta quién? Binyamín. Falta Binyamín. Entonces, la siguiente subida estaba Binyamín. ¿Y cuáles-- qué viene a decir Aba Binyamin?"
+},
+{
+"startMs": 735944,
+"endMs": 747344,
+"text": "Todas las conexiones del zafón y el darón. Tremendo. Y Rab Yu también tuvo que reconocer que se equivocó con lo del Arij para que se- Rab Yu de Rab Una, ahí tiene que ver, hay que entender ahí que tiene que ver."
+},
+{
+"startMs": 747424,
+"endMs": 755824,
+"text": "Está, está muy profundo ahí. Es justamente la midá de Rab Huna era betem isurim shana nish'labá. Es hacer teshuvá, hacer betem, regresar la vinagre, hacerla vino."
+},
+{
+"startMs": 756264,
+"endMs": 767724,
+"text": "Entonces, ¿el vino es la midá de quién? ¿Quién-- vino es la midá de Yehudá? \"Zri la kephenei ainó, ve lasón ekaveniatónó, ki bet bayin leushó,"
+},
+{
+"startMs": 769744,
+"endMs": 780004,
+"text": "ana vimsutó, tod, tod, jachlí leainai, mehala\", ¿no? Más o menos. Todo es vino, vino, vino, todo, todo Yehudá es betem el, el yayn, el rojo."
+},
+{
+"startMs": 781624,
+"endMs": 784404,
+"text": "Ta-también aquí en nuestra zugeia, en nuestra zugeia apareció el vino."
+},
+{
+"startMs": 785604,
+"endMs": 787644,
+"text": "Es el, el, el, los mazrikim"
+},
+{
+"startMs": 789284,
+"endMs": 795524,
+"text": "están alreded-- están alrededor, ki kas leale ugia, que es ugia un viñedo que está en una montaña."
+},
+{
+"startMs": 795744,
+"endMs": 802004,
+"text": "Sí. Entonces, yo entiendo que la jina de montaña es Yosef y el viñedo es Yehudá. Y entonces, alrededor de los dos están todos los mazrikim."
+},
+{
+"startMs": 802484,
+"endMs": 809284,
+"text": "Y el tikún es jofé falav kol hayó. Es, es, en vez de que sean jofefím los mazrikim, el tikún es Binyamín."
+},
+{
+"startMs": 809784,
+"endMs": 818064,
+"text": "Y es, es que Binyamín haga laeshkiná, que haga betem el, la jofé falav kol hayó, que tepar shajén, ¿sí?"
+},
+{
+"startMs": 818224,
+"endMs": 830404,
+"text": "Ya está bien. ¿Por qué llora Yehudá, eh, Rab Yehudá Nanciele, tú, todo está bien, todo está bien? No llora Rab Yehudá Nanciele, llora Rab Elazar, porque dijo: \"Se va a morir Rab Yehudá Nanciele\"."
+},
+{
+"startMs": 830464,
+"endMs": 836724,
+"text": "No, y ahí termina. No llora Rab Yehudá Nanciele. Lloran juntos. Sí, no llora. Dice que lloraban juntos. Sí, alai, alai, dadai kabajim. ¿Por qué llora?"
+},
+{
+"startMs": 837404,
+"endMs": 849524,
+"text": "Porque entiende que, entiende, ya di-- explicamos ahí, que era después de que ya se había separado Rish Lakish. Rish Lakish es el koaj de Yehudá, es el koaj betem del Jose, es el koaj del Eretz, es el koaj del bal teshuvá, es el koaj que viene de abajo."
+},
+{
+"startMs": 850004,
+"endMs": 860723,
+"text": "Entonces, cuando, cuando Rab Yehudá Nanciele ya no tiene Rish Lakish, ya está perdiendo el mismo Rab Yehudá Nanciele. Entonces, entonces, eh, Rab Yehudá Nanciele tiene que entender que todo lo que la complementa es el mismo Rish Lakish."
+},
+{
+"startMs": 861084,
+"endMs": 869844,
+"text": "Entonces, no te sirve nada tu luz si no se la das a alguien. Tu luz no es como la de Yaacov, que no hay Jose. La luz de Yosef es la luz que me hir el Jose, es la luz que está en el galut."
+},
+{
+"startMs": 870204,
+"endMs": 876344,
+"text": "Y entonces, betem, tiene koaj ahorita de la hir el Jose y hacer que todos los demás hagan teshuvá. Y entonces, mi mele, cuando todos hagan teshuvá, entonces todos se va a hacer luz."
+},
+{
+"startMs": 876944,
+"endMs": 885904,
+"text": "Entonces, pero cuando se repara Rab Yehudá Nanciele y Rish Lakish, entonces, mi mele, la fuerza de Rab Yehudá Nanciele ya no tiene que le ha hir, entonces, mi mele, ya se pierde."
+},
+{
+"startMs": 886304,
+"endMs": 897264,
+"text": "Entonces, toda la-- entonces Aba Binyamín realmente nos está explicando la zugeia de arriba. Sí, entonces hablamos arriba la zugeia de Rab Yehoshúa ben Levi y Rab Yehudá Nanciele, que dijimos que Rab Yehoshúa ben Levi es más estilo Yehudá."
+},
+{
+"startMs": 897784,
+"endMs": 904184,
+"text": "Quilo, él dice: \"En la noche hay geulá o no hay geulá\". ¿Dónde, dónde empezó la zugeia? Si en la noche es omjin geulá le tfilá."
+},
+{
+"startMs": 904504,
+"endMs": 912144,
+"text": "La majlóket es, en la noche hay geulá o no hay geulá. En el mundo de Rab Yehudá Nanciele, en la noche hay geulá, sí, porque Yosef es el que jala- No hay noche."
+},
+{
+"startMs": 912184,
+"endMs": 919624,
+"text": "La geulá. Sí, hay noche alrededor de él, pero él, sí, él no está. Entonces, mi mele, tú puedes en la noche también ir smoj geulá le tfilá."
+},
+{
+"startMs": 920104,
+"endMs": 928404,
+"text": "Como en Mitzráim, ¿sí? Cuando se dijo, knip jori Israel. Sí, en la noche, este, macat bejorot fue en la noche."
+},
+{
+"startMs": 928684,
+"endMs": 939284,
+"text": "Esa es la geulá de Yosef. La geulá de la noche es la geulá de Yosef, ¿sí? Entonces, mi mele, mi jinat Yosef, cuando ya nos llamamos bejor, ah, alrededor hay Mitzráim, séde."
+},
+{
+"startMs": 939784,
+"endMs": 945984,
+"text": "Pero nosotros somos Yosef, ani, somos el bejor, somos el bejor, ya estamos betem, ya está la geulá. Ah, pero sigues en Egipto."
+},
+{
+"startMs": 946584,
+"endMs": 951164,
+"text": "Sí, pero ya estamos en geulá. ¿Sí? Entonces- La midá de melej es al revés, ¿no? Es"
+},
+{
+"startMs": 953144,
+"endMs": 961364,
+"text": "el-- Sí, exactamente. No hay. No, no hay. El apuj, ofejta Josej leor. Entonces Rab Yehoshúa ben Levi dice: \"No, no, no, no, hay mala de decir que el Josej es Josej\"."
+},
+{
+"startMs": 962244,
+"endMs": 969444,
+"text": "Porque si tú dices que todo el Josej es Or y beemet no es Or, no es geulá, te vas a quedar con la geulá a medias."
+},
+{
+"startMs": 969764,
+"endMs": 976824,
+"text": "Todo, eh, también empiezas a perder el mismo Or de Rab Yehudá Nanciele, porque todo el Or de Rab Yehudá Nanciele es para hacer que el Jose se convierta en Or."
+},
+{
+"startMs": 977724,
+"endMs": 984224,
+"text": "Entonces, Rab Yehoshúa ben Levi dice: \"No, no, no, necesitamos la kir que quede Jose, necesitamos anhelar el Or\". ¿Cuál es la fuente del Or?"
+},
+{
+"startMs": 985164,
+"endMs": 992304,
+"text": "Imagínate, tú, Rab Yehudá Nanciele, pero yo desde mi perspectiva tengo que no ir smoj geulá le tfilá en arbit, porque en la, en la noche no es geulá."
+},
+{
+"startMs": 992884,
+"endMs": 1000164,
+"text": "La geulá es hasta la-- geulá mealit es hasta la mañana. Entonces, Rab Yehoshúa ben Levi dice: \"Yo necesito convertir este, esta oscuridad en luz\"."
+},
+{
+"startMs": 1000604,
+"endMs": 1005084,
+"text": "No puedo, eh, listape con la luz. Como dijimos, el doctor Rab Tzádok, el,"
+},
+{
+"startMs": 1006544,
+"endMs": 1020464,
+"text": "el rofel es Rab Tzádok, que Rab Yehudá Nanciele mensaje pidió, eh, su shalt a Rab Gamaliel, el rofel es-- Si ponen siendo dos fuerzas, Rab Gamaliel sigue el Mikdash en el galut y Rab Tzádok ya estaba ayunando cua-- por el Mikdash antes de que se destruya, ¿sí?"
+},
+{
+"startMs": 1020524,
+"endMs": 1031924,
+"text": "Entonces, son dos fuerzas opuestas totalmente que se necesitan. Y entonces, betem acá toda nuestra zugeia, en Aba Binyamín viene a unir estas cosas, to-todo atrás se empieza a unir acá."
+},
+{
+"startMs": 1032503,
+"endMs": 1032644,
+"text": "La"
+},
+{
+"startMs": 1033904,
+"endMs": 1034763,
+"text": "luz del sol se apaga,"
+},
+{
+"startMs": 1035964,
+"endMs": 1042184,
+"text": "Rabió. La luz del sol está en el espacio. Si no hay cuerpo. Si no hay tierra. No hay luz. Sí."
+},
+{
+"startMs": 1043664,
+"endMs": 1051484,
+"text": "En verdad, en verdad la luz de Rab Yehudá Nanciele se parece a la luna, son dos espíritus de la luna y la del sol es más como Yaacov. Es la luz en sí, es el mejor de la luz."
+},
+{
+"startMs": 1052304,
+"endMs": 1058224,
+"text": "Yosef namás, él no tiene luz propia, sino él es el bejor hijo del bejor. Él namás representa betem"
+},
+{
+"startMs": 1060144,
+"endMs": 1066844,
+"text": "la luz de Yaacov abajo. La luna. Y entonces, si le tienes envidia, entonces te estás quemando a ti mismo, vas a empezar a ver mazikim."
+},
+{
+"startMs": 1068124,
+"endMs": 1068924,
+"text": "¿Entendés, quilo?"
+},
+{
+"startMs": 1071284,
+"endMs": 1072564,
+"text": "Te saco lo impresionante."
 }
 ]
 }

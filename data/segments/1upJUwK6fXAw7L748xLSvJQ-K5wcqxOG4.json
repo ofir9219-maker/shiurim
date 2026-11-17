@@ -1,546 +1,1356 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 0,
-"endMs": 31000,
-"speaker": "אופיר סגל",
-"text": "Vamos rápido. Vamos a revisar el le dije que hablamos de la Amor, mi amor malkazare de final Kadosh Baruj, le ponemos a la mala y el lu dicha veneno, Amar le, le kabel, Tora va. ¿Qué hace aquí un dilu dice? Dice no vino a recibir la Tora. Amor le faná, jamuda que nos da. Si nos da la Kadosh otra, Shivim, barbadorot, todos mis ni brau, la me tengo que escritanle bastar Badam. Dice, \"Mai no es que tizkeenu, bendon que tizkeenu\". La persona dice..."
+"startMs": 720,
+"endMs": 1120,
+"text": "No, no lo hace."
 },
 {
-"startMs": 31000,
-"endMs": 64000,
-"speaker": "אופיר סגל",
-"text": "¿Qué es la persona? Dice, \"Ashei me donenu, madate Shin Fabu, hola eretz\". Tuho tiene que estar en el Shamayim. \"Amarlo, a quedos por julio, moshé\". Contéstales. \"Amarlo fanav, podemos hablar a mi tarea ni se me extrafuni, bebe el Sheva pie, amigo que me queme\". \"Abrulo, el ajoz el kize Kavod, agárrate del kize akavoddo, jas, hola, Teshuva\" \"En mi hermano, me a jaspeh en kise para chas a la bananut\" Que es este paso, que lo expliquen a mi hermano."
+"startMs": 3140,
+"endMs": 9520,
+"text": "No lo hizo. En el día seis, ala Moshe la Marón, le mandó malajar de penas bájalo. Y bueno, sola mala y lo dicha veneno."
 },
 {
-"startMs": 64000,
-"endMs": 97000,
-"speaker": "אופיר סגל",
-"text": "\"Me la mejor pirecha acá y mis dichos que me tomeh a nanu\" Se agarró del kize akavoddo y así con que lo cubrió, de que no lo quemen, y así lo protegió. Entonces ahorita Mosé va a contestarle a los malajim ¿Qué hace una persona con la Torá? Y los malajim toanim, la Torá pertenece al Shamayim. Podemos hablar de Torá, no tenli maktivba, dice: “A no quien se me lo que, José, es Mitzrayim, mamá la emir, el Mitzrayim meraten, el periodista baten”."
+"startMs": 10600,
+"endMs": 17080,
+"text": "A Marlen le cabe el Torah va. Qué hace aquí un iludisha? Eso no vino a recibir la Torah."
 },
 {
-"startMs": 97000,
-"endMs": 128000,
-"speaker": "אופיר סגל",
-"text": "“Tora la mate helah, ustedes no, la Torá no les pertenece a ustedes”. “Maktivba, sumaktivba, lo voy a dejar de lo imagine. “Ben a mi matem surim, sudim, sumaktivba. The quartium sabbadikade show, klumatam ofzim, melakhashatem sikims root. Subaktivam, Lotisa matammatan, Lotizah, the swa. Que usted exit the swa, matamtem is benechem. Subaktivba, kaleta wika vetimenkha. Havi, vaem is lahem."
+"startMs": 17860,
+"endMs": 25500,
+"text": "Amén. Le fana, jamuda, gnoza, gnoza leja, nueve cientos setenta y cuatro dors, todo lo que se libra el hombre, el hombre que se le dan a besar al Adam."
 },
 {
-"startMs": 128000,
-"endMs": 164000,
-"speaker": "אופיר סגל",
-"text": "Sumaktivba, lotichak, loti naf. Lotiknob, to this is a kei, nai is benechem. Yester, ra is benechem. Y entonces cuando dijo “Yetzer ara Ies benhem” hasta ahorita aquí lo escuchaban, no se habían convencido. Llegó Yetzer ara, miado dulo, la kusborkusenaymar, Hashem es el mismo mismo, y acaba así, dice “Ashem donenu, matir Shimcha jav kola aretz se deterna dejala samai” dice: “Ashermado de hala samai em bloktiv y asher ternao de hala Shamayim em bloktiv” así acaba."
+"startMs": 26500,
+"endMs": 39640,
+"text": "Dice: \"¿Ma enosh que te esquereno, ven Adam que te esquereno?\" La persona es, eh, que es la persona, pues. Dice: \"Hashem Adonai, no ha de ir sin un cabo, cola a la Earth, que se tiene a dejar a la Shamaím, to hod tiene que estar en Shamaím\"."
 },
 {
-"startMs": 164000,
-"endMs": 181000,
-"speaker": "אופיר סגל",
-"text": "Shem addonen matir Shimchahav kola aretz. Principio, el mismo aretze, o sea, donde el matirmo con la aretze siete na dejala samai. Y lo otro es, y acaba el mismo, diciendo a don el matirmo que con la aretze. Entonces más ma quizquimo que la Torá esté en el aretze. ¿Sí."
+"startMs": 41820,
+"endMs": 52500,
+"text": "A Marlo, el Kadosh Baruj Hu, lo mose, es decir, le han chuba, contéstales. A Marlo fana, ribonos olam, y tiene ani shama, y se funi, y evil se befie, y ami o que me quemen."
 },
 {
-"startMs": 181000,
-"endMs": 182000,
-"speaker": "Speaker 2",
-"text": "Y ya..."
+"startMs": 53400,
+"endMs": 57420,
+"text": "Amro lo, lejos de que se cubodí, agarrote el que sea cobodo y chazoó le han chuba."
 },
 {
-"startMs": 182000,
-"endMs": 218000,
-"speaker": "אופיר סגל",
-"text": "No ni cual fue la realidad del paseo, porque... Que el soft, el principio el mismo dice “Don el matirmo que con la aretze, es el que no dejala samai”. ¿Qué más? Pero tu hod es que tiene que estar en el samai. Y luego acaba y dice \"Asem a donar, maldición a kolaaretz\". Y ahí acaba. No es de ser tena de jala su man. Entonces, dice \"Vihlu tena de jala su man, y blokti, millah cole jal bean na sal Ohel, hizo su amigo, umazarlo da bar, sin llamar alita la maron, shavita, shavi la cajta, matanott balam."
+"startMs": 58920,
+"endMs": 67800,
+"text": "Se me amar, me achaz pene qui se parshaz a la banano. Que se te pasó el club, díganle a Marán. Va a Mar Rabí Nachún, melamed se pire shakai, mizrit shijinatón, a nanó a la."
 },
 {
-"startMs": 218000,
-"endMs": 253000,
-"speaker": "אופיר סגל",
-"text": "Cada malaj bezem le dio una mataná, para la caja hasta la tierra bezem. Adam, la caja matanot. Malakhamabet mas salud de Abarash, Neemar, vayiten, et Toret, vikhapelaam. También el Malakhamabet le dio un regalo. ¿Cuál fue el regalo? El Toret. Vomer veyamod ben metim u benjaim, ilab de Amar le. Si no fuera que el Malakhamabe le dijo a Moshe, ¿Cómo voy a saber? Entonces, esta membrana le estoy diciendo a Bisham Levi, esta membrana, todo lo que viene aquí a decir, ¿Qué viene a decir acá?"
+"startMs": 71220,
+"endMs": 74020,
+"text": "Se agarró del que sea cobodo y Hashem con que lo, lo cubrió"
 },
 {
-"startMs": 253000,
-"endMs": 283000,
-"speaker": "אופיר סגל",
-"text": "La Torá pertenece al Shamaim o al Aritz. Entonces por un lado los Malakim Tuanim que pertenecen al Shamaim. Y por otro lado necesita a Muchel Ajir Chuba, que sí pertenece al Aritz. La Chubanitzakhat es Dafka, la Budak que tenemos diez serán. La Budak que tenemos diez serán es la Chubanitzak. Y entonces, ¿por qué? Porque dice “Ajozbe kissek bodi” Así le dice “Lihwashem verdelam Teshuva”. ¿Qué es Ajozwi Kizekodi?"
+"startMs": 75420,
+"endMs": 77360,
+"text": "de que no lo quemen"
 },
 {
-"startMs": 283000,
-"endMs": 314000,
-"speaker": "אופיר סגל",
-"text": "Los malajim están en el Olama Itzirah, y cuando ya llegan al Olama Beriah, más arriba, ya son Serafim, ya se queman, no pueden, mucho, el que se ha acabado está en el Lama Beriah, el museo puede agarrarse el que se ha acabado. primero lamio que los Malajim no quemen. Y luego Mousseu de repente de repente se puede agarrar del lugar del que sea Kavodd donde los Trafim vetzene, los Trafim se queman."
+"startMs": 78720,
+"endMs": 85660,
+"text": "y así lo protegió. A Marlo fana-- entonces, ahorita Moshe va a contestarle a los malajím: ¿Qué hace una persona con la Torah?"
 },
 {
-"startMs": 314000,
-"endMs": 345000,
-"speaker": "אופיר סגל",
-"text": "Entonces, Mapsad, ¿por qué Mousseu Rappen no puede llegar a un lugar más alto? Porque Mousseu Rappen no es el único que le puede dar Kavodd a Kavodd Bourho, es una persona. Porque el que no tiene Jettxarat no le puede dar Kavodd, Kavodd no hay. Y una persona, Es el único que le puede dar kavod a mi tía Kadosh Boruku. ¿Qué? ¿Qué es lo que depende de todo, que él está arriba de todo."
+"startMs": 86200,
+"endMs": 93700,
+"text": "Y los malajím todavía: \"No, la Torah pertenece al Shamaím\". Y por eso hablá, toré sotá, no ten li maqtiba. Dice: \"No, aquí ya somos lo quejosos\"."
 },
 {
-"startMs": 345000,
-"endMs": 377000,
-"speaker": "אופיר סגל",
-"text": "Eso se llama Kadosh, pero Jabón tiene que ser que tengas dos opciones. Y digas, no, yo quiero más la opción de Kadosh Boruku. El email es lo que le llama a todos los malahim batsman. todo lo que los malajim... los malajim beatsman no tienen mash mouta, mas que por medio de que haya akavod de aquí abajo. Si no, ellos beatsman no tienen mash mouta, porque no es... no es mito que los malajim lo puedes creer hasta cambies de lianchir."
+"startMs": 93740,
+"endMs": 102340,
+"text": "Entonces, te come el mizraím, amarle a mí, el mizraím eraten, el pero ahí sabaten. Torah, Torah, ¿láma tehe lajen? Dice: \"Usted no, la Torah no es pertenencia a usted\"."
 },
 {
-"startMs": 377000,
-"endMs": 385000,
-"speaker": "Speaker 2",
-"text": "Es un compromiso nomás que... ¿Eh? El malaj, también no tienen ella, es como que... es como que siguen las vienen ahora."
+"startMs": 103460,
+"endMs": 109780,
+"text": "Dice: \"Maqtiba, shumaqtiba, lo ir a lo ajením\". Ven a mí, me atem, suyím, sobdim, a bodad gilulím, shumaqtiba."
 },
 {
-"startMs": 385000,
-"endMs": 416000,
-"speaker": "אופיר סגל",
-"text": "Sí, la hacen más potente, más a mí, entienden, pero el punto es que este en sushira, que no venga de un lugar de Kavod, no tiene tanto más mood, y entonces mi mail le sale que kol la Teshuva en itzajat, que Amisel tiene este ara, y como Amisel tiene este ara, por eso Moishe puede agarrar el que se ha acabó, por eso siempre dice \"Agárrate el que se ha acabó\", y el que se ha acabó, El shayehout, el que se acabó, es solamente porque como solamente menu, tiene jet-ser."
+"startMs": 110100,
+"endMs": 116220,
+"text": "Zojor el yomo, sabat le kadesho, club, me atem, osím, melajá, se atem, sijím, suut, shumaqtiba."
 },
 {
-"startMs": 416000,
-"endMs": 437000,
-"speaker": "Speaker 2",
-"text": "De sobra, o sea, bueno, lo que yo no es kavod, de acabar a tu papá, tiene algún queso normal, cómo se que esta palabra, cómo tiene que ver con cómo se va a ver luego, cómo hacer. Tengo un excel con el trabajo que no le damos al respeto, ¿no? O sea, yo respeto a mi papá, el respeto."
+"startMs": 116600,
+"endMs": 125720,
+"text": "No tisa, mata o matán, yes ben-- eh, no tisa, de shua, que usted es que usted es shua, mata o matán, yes ben ajén, shumaqtiba, que eres a mi hijo, a ti meja,"
 },
 {
-"startMs": 437000,
-"endMs": 469000,
-"speaker": "אופיר סגל",
-"text": "Es importante. Más importante, la respuesta, te rebajas a ti. No, pero el kavod de es que no haces tu razón y es el de él. No es tu razón y haces el de él, eso es kavod. Que ves su razón primero antes que el tuyo. Podría ser tu razón, pero ese es el kavod. Entonces todo el kavod de allí en vez de llegar a la oportunidad. Entonces... Por eso es \"bisjar she kara uja Adam la kakta matanot\"."
+"startMs": 127040,
+"endMs": 130720,
+"text": "ab y a em, yes lajen, shumaqtiba, lo tirtaj, lo tinaf,"
 },
 {
-"startMs": 469000,
-"endMs": 499000,
-"speaker": "אופיר סגל",
-"text": "Dafka por ser Adam, la dama de la tierra. La jem la kakta matanotv, que viajó los malajín dicen: \"Ahora queremos nosotros estar abajo\", entonces estamos matanots. ¿Y quién le dio mataná especial? Malajamave, porque ¿quién es el Ietchara? El mismo Malajamave. Te está diciendo el Malajamave, entonces estás hablando bien de mí. \"Sale que sólo por mí a mí se pudieron recibir la otra\". Sólo por mí pudieron recibir la Torah y entonces le da el ktoret. El ktoret su mataná es el jaim."
+"startMs": 132140,
+"endMs": 144080,
+"text": "lo tignom. Entonces, dice: \"Que quinay, yes ben ajén, yetser hará, yes ben ajén\". Y entonces, cuando dijo: \"Yetser hará, yes ben ajén\", hasta ahorita, kilo, escuchaban, no se habían convencido."
 },
 {
-"startMs": 499000,
-"endMs": 531000,
-"speaker": "אופיר סגל",
-"text": "Él es el mahamavet. El ktoret lo usó Moshé para quitar la maguefah. Entonces Mapshat, el mahamavet de dónde saca jaim? Porque el mahamavet es el malahaja jaim también, porque... El tafkir el mahamavet él está esperando que le digas que no. Él te ofrece jaim de mentiras. Te ofrece \"oye ve esto, haz esto, pone esto, pone un estudio\". que Kiilu a simple vista parece que era en Chaim, pero en verdad tiene veneno adentro."
+"startMs": 144420,
+"endMs": 160080,
+"text": "Y llegó Yetser Hará, y ya lo dulo, la Kadosh Baruj Hu. Se me amar, Hashem, es el mismo mizmor, y acaba así, dice: \"Hashem Adonai, no, matish unjabo, cola a la Earth, ser tenao dejal a Shamaím\", dice, \"aser tenao dejal a Shamaím, lo ktiv\","
 },
 {
-"startMs": 531000,
-"endMs": 561000,
-"speaker": "אופיר סגל",
-"text": "¿Por qué? Porque si le dices que sí, va a ir para arriba, o le a un mastín, lloras del hotel HHashema. Este es el hermana Jamavet. Si uno dice que sí, aceptó Kiilu la vida aparente, la cambió en vez de la vida real, que es la vida de Hashem. Cuando dices que no, le dices, no, entonces yo, a Nitofez, que mi único mejor del Chaim es hacer. Mi mail le sabe hacer que tengas Tvekut con el Chaim, que tengas Tvekut con Oshem."
+"startMs": 161540,
+"endMs": 171760,
+"text": "y, y \"aser tenao dejal a Shamaím, lo ktiv\", así acaba: \"Shem Adonai, no, matish unjabo, cola a la Earth\". En principio, el mizmor es: \"Hashem Adonai, no, matish unjabo, cola a la Earth, aser tenao dejal a Shamaím\"."
 },
 {
-"startMs": 561000,
-"endMs": 594000,
-"speaker": "אופיר סגל",
-"text": "Porque hasta ahorita, la verdad es que tiene Devekut con Hashem. Y el hecho de decirle que no, ese es el Kipur que da el Chaim. Entonces el Malaj Hamavet, justamente por ser que es el Malaj Hamavet, cuando uno dice que no, eso es lo que da Kipur al Chaim. Por eso, el que mete Ietz Ara, con Jacob, cuando estaba peleando, le dijo \"ya, ya, me necesito subir a decir \"Shirah\", aquí los escapó. Están ganando, ¿verdad? ¿Por qué te escapas que ya viniste a pelear como mala, pierde?"
+"startMs": 172560,
+"endMs": 179620,
+"text": "El otro es-- y acaba la, el mizmor diciendo: \"Hashem Adonai, no, matish unjabo, cola a la Earth\". Entonces, más, más que isquimo, que la Torah está en el Earth."
 },
 {
-"startMs": 594000,
-"endMs": 628000,
-"speaker": "אופיר סגל",
-"text": "Pues no, fujo. Cuando Jacob le ganas, es algo se le sale, es el Saint Mahmain. Cuando Jacob le gana, pues normalmente si él gana, sube a las Tzim. Pero si le ganas, sube a decir Shirahh. El mismo, el mismo, el mismo, ahora en vez de subir a las Tzim sube a decir Shirahh. Y mi mail le dice \"Gufa\" lo que corremos la Shirahh de todos los Malajim. Ahí es cuando hay Shirahh, a mi T. Pues mi mail es eso que los Malajim vienen a darle matanota a Moshe."
+"startMs": 180880,
+"endMs": 189500,
+"text": "¿Sí? Y ya- ¿Cuál fue la raya del pasú? Porque- Que la, el sof del-- el principio del mizmor dice: \"Hashem Adonai, no, matish unjabo, cola a la Earth, aser tenao dejal a Shamaím\"."
 },
 {
-"startMs": 628000,
-"endMs": 658000,
-"speaker": "אופיר סגל",
-"text": "¿Quién está diciendo esta membrada? ¿Quién es la Torah del Shamayim? La Torah de la Geulah, de arriba, de Hashem, como es, auténtica. ¿Qué se le hace al Ietzar ahora es segundo a Pyojana? No le dejan ni entrar, ¿sí? Y ahí la bodada de quien dice al Ietzar, es bien... ... y lo... ... y lo... ..."
+"startMs": 190660,
+"endMs": 199680,
+"text": "Dice: \"Por tu hod, es tiene que estar en el Shamaím\". O sea, la Torah tiene- La Torah tiene que estar en el Shamaím. Y luego acaba y dice: \"Hashem Adonai, no, matish unjabo, cola a la Earth\", y ahí acaba."
 },
 {
-"startMs": 658000,
-"endMs": 689000,
-"speaker": "אופיר סגל",
-"text": "y lo... Si el hitzah árabe metes mano, el mambat de Rebbi Ohan. Entonces el mafdiel, tov tov benatov la rab. Estamos diciendo que la boda Rebbi Joshua en Levi es \"no, déjala en la noche, es ser noche, déjale que sea un momento que ya no hay joba, no es un momento de joba\". Y como dijimos, el mismo Rebbi Joshua, no Rebbi Shua en Levi, pero Rebbi Yeshua se tiene que afiliar de Rebbi Joshua. Aquí es Dafka Fuj, ¿Qué lo que hay y tierra?"
+"startMs": 200300,
+"endMs": 205380,
+"text": "No dice: \"Asher tenao dejal a Shamaím\", no, ahí acaba. Ah, okey. Entonces,"
 },
 {
-"startMs": 689000,
-"endMs": 720000,
-"speaker": "אופיר סגל",
-"text": "Hay más cómo que viajó a nituk. Bueno, él dice que se llamaba como a nituk. En represión levi, hay más cómo. Hay más cómo a nituk, pero no hay nituk. Eso tampoco. Pero el tarde hay más cómo que viajó, eso es lo que puede hacer ahorita. La foja está en todo. ¿Qué está haciendo rapición levi? Diciendo que el mala jamás ve que es bueno. El día de ahora es bueno. Aquí es... En el mundo de Rapeojana, el Ietzchar es completamente malo."
+"startMs": 206780,
+"endMs": 218300,
+"text": "dice: \"Yilu tenao dejal a Shamaím, lo ktiv\". Miad, kol jal vejal, nasa loel, hizo su amigo, un masar lo dabár, se me amar, alita la Marón, shabi ta shevi, lakajta, matanot va Adam."
 },
 {
-"startMs": 720000,
-"endMs": 755000,
-"speaker": "אופיר סגל",
-"text": "En el mundo de Rapiushuan el Levi, ¿no? Podemos hacerlo Balchube. El mismo Ietzharara lo podemos hacer Balchube. Y también cuando ganó, y me trajo de Bichhube, como se llama lechuga ondin, entonces aquí Rapiushuan el Levi es Dafka la shita fuja, donde no es que se aleja del Ra, sino... no es itkafia, que es kofe, el Ra, sino itapa, o fehotum. El \"Raaletu\". Si tu quieres la \"foca\" el \"raaletu\", tienes \"qui lu\", darle lugar, no como \"ra\", sino como potencial."
+"startMs": 218600,
+"endMs": 226480,
+"text": "Queda malaj, betzem, le diuna mataná, para lakajta la tierra, betze. Mizjar, su cruja, Adam, lakajta matanot."
 },
 {
-"startMs": 755000,
-"endMs": 788000,
-"speaker": "אופיר סגל",
-"text": "Y la \"fojote letu\". Agarrar la \"chuka\", ¿si? De mal y la \"fojote achuka letu\". La otra vez \"qui lu\" reprimirla. Aléjate, Leo. Y el otro, el \"malaga\" es más peligroso en cierto aspecto. Es un balaj de Itap, la fogetaraleta. Acá son como cinco membrot de Rebiushoab en Levi, que todas van así de la mano, digo, no hay tiempo ahorita para ver todas."
+"startMs": 227000,
+"endMs": 233140,
+"text": "Af malaja Maré, un masar lo dabár, se me amar, y itén et ha Tóret, y kapel a Am. También el malaja Maré, de un regalo."
 },
 {
-"startMs": 788000,
-"endMs": 821000,
-"speaker": "אופיר סגל",
-"text": "Esta es Mimrot, pero podemos ver... podemos ver... hay otras dos Gemarot, una en Baba Batra, y no es Rebiushoab en Levi, es Reb Levi, es su papá. Amar Reb Levi, \"Satan ni nada, le shem llaman nitkav nu\", si es el animal. Que el Satán, como yo, fue que habían llamado. Pero este es el ómico. Que el Satán, ¿por qué le dio mataná? Porque... ¿Qué es lo que pasa tan cuida?"
+"startMs": 234200,
+"endMs": 243780,
+"text": "Cual fue el regalo, el Tóret. Yומר, ve yamot ven a metím, ven a jaim, y lav de amberlem, ya vaya. Si no fuera que el malaja Maré le dijo a Moshe, ¿cómo iban a saber?"
 },
 {
-"startMs": 821000,
-"endMs": 827000,
-"speaker": "אופיר סגל",
-"text": "Si bien, no, para que le digas que no. ¿Cómo la bien se vuela."
+"startMs": 244800,
+"endMs": 250320,
+"text": "Entonces, esta memrá la está diciendo Rabí Shón Levi. Esta memrá, todo lo que viene aquí a decir,"
 },
 {
-"startMs": 827000,
-"endMs": 832000,
-"speaker": "Speaker 2",
-"text": "Lo vuela, loco."
+"startMs": 251600,
+"endMs": 259339,
+"text": "¿qué viene a decir acá? ¿La Torah pertenece al Shamaím o al Earth? Entonces, por un lado, los malajím toanín que pertenece al Shamaím."
 },
 {
-"startMs": 832000,
-"endMs": 836000,
-"speaker": "אופיר סגל",
-"text": "¿Quién? ¿Con viejo, no? ¿Eh."
+"startMs": 260240,
+"endMs": 264760,
+"text": "Y por otro lado, necesita Moshe la zdír chuba, que sí pertenece al Earth."
 },
 {
-"startMs": 836000,
-"endMs": 844000,
-"speaker": "Speaker 2",
-"text": "Son dos Gishot, son dos Gishot, aquí hay dos cosas."
+"startMs": 266260,
+"endMs": 273200,
+"text": "La chuba nizajak es dasca, la boda que tenemos de Yetser Hará. La boda que tenemos de Yetser Hará es la chuba nizajak."
 },
 {
-"startMs": 844000,
-"endMs": 874000,
-"speaker": "אופיר סגל",
-"text": "Hay Isurim, entonces aquí hay dos Gishot, una, aceptar que hay aquí una lejanía. Ese es el Mahalak de Rebisho en Levi. Rebisho dice, no, busca como Ashem sigue estando acá. Tanto así que existe en Isurim Shelemah. Clan ni siquiera buscas quitártelos en Isurim Shelemah. \"No, no, es ma. Y es puisurim. ¿Qué cabeza es porrijuk?"
+"startMs": 274100,
+"endMs": 281400,
+"text": "Y entonces, ¿por qué? Porque dice: \"Ajos ve kisé kvodi\". Así le dijo Hashem, y arde la enchuba."
 },
 {
-"startMs": 874000,
-"endMs": 906000,
-"speaker": "אופיר סגל",
-"text": "¿Qué es un dogeot? Ahora, pero lo que tienes que hacer, no es, aquí es otra vez, es peligroso. Siente una tarjeta, siente. Siente que me mete una tarjeta. Entonces aquí ya le estás dando lugar, peta aquí viajó, la letra era. Porque aquí viajó, ah, si es un dogeot, entonces me voy más lejos. No, acepta que ya para reconectar otra vez, pide la kirba otra vez, pide lo que te quitó, pide lo regreso. Ese es el malaj de Reb John. Sí, pero hay que cada uno más quema el otro."
+"startMs": 282080,
+"endMs": 292900,
+"text": "¿Qué es Ajos ve kisé kvodi? Moshe Rabénu, los malajím, están en el Olam HaYetsirá, y cuando ya llegan al Olam Habriáh, más arriba, ya son serafín, ya se, se queman."
 },
 {
-"startMs": 906000,
-"endMs": 937000,
-"speaker": "אופיר סגל",
-"text": "Son dos. Si no hay Reb John Levi no tiene ni a donde la Zubi Chubakio. ¿Mi explico? Reb Johana necesita dejar un lugar auténtico, donde Afilu en el Choshech tiene que haber or, porque si en el Choshech sigue habiendo or, otra vez regresar, como dijimos Rappan Gambliel y Rapbitzado. Como dijimos Rappan Gambliel y Rapbitzado, en el Churban. Uno se acepta, Lipcot, no hay vetamina, uno se abandonó, o sea, viajó y se alejó."
+"startMs": 293240,
+"endMs": 301540,
+"text": "No, no pueden, eh... Es mucho, mucho para ellos, mucho, mucho que usar. El que sea cobod está en el Olam Habriáh, y Moshe Rabénu puede agarrarse del que sea cobod."
 },
 {
-"startMs": 937000,
-"endMs": 952000,
-"speaker": "אופיר סגל",
-"text": "Y entonces mi mail acá najo mi Torerim al regresar. Ese es un malaj. Y el otro malaj es: \"No, no, espérate, el orden del vete a mi guitasio, ni a Dain Matzliach, la amígdota, ni a Dain Matzliach les da auto, yo sigo pudiendo tenerlo acá\"."
+"startMs": 302120,
+"endMs": 310320,
+"text": "Moshe Rabénu primero le da a mí que los malajím lo quemen. Y luego, Moshe Rabénu de repente se puede agarrar del lugar, del que sea cobod, donde, donde los serafín, betze--"
 },
 {
-"startMs": 952000,
-"endMs": 961000,
-"speaker": "Speaker 2",
-"text": "Uno se enfoca en lo que mira Vegan, en lo que está como que más en la cifra de las cosas. que lo acabas de dicho con..."
+"startMs": 311860,
+"endMs": 318040,
+"text": "los serafín se queman, aquí abajo, ¿me explico? Entonces, mapsha, ¿por qué Moshe Rabénu puede llegar a un lugar más alto?"
 },
 {
-"startMs": 961000,
-"endMs": 978000,
-"speaker": "אופיר סגל",
-"text": "Es que tampoco, no es que es lo que está Mulaneja. Mulaneja está que hay Choshech. Pero él dentro del Choshech, \"dingarma de azarabi\". Vine después de \"tzato\", vine de... Es una semilla... No, eso es que te fijas no en lo que el de mama."
+"startMs": 318680,
+"endMs": 326040,
+"text": "Porque Moshe Rabénu es el único que le puede dar cobod a Kadosh Baruj Hu, es una persona. Porque el que no tiene Yetser Hará no le puede dar cobod."
 },
 {
-"startMs": 978000,
-"endMs": 981000,
-"speaker": "Speaker 2",
-"text": "Se fijan en el shore y es lo que..."
+"startMs": 326080,
+"endMs": 331680,
+"text": "Cobod no hay. Y una persona es el único que le puede dar cobod a mi tío, a Kadosh Baruj"
 },
 {
-"startMs": 981000,
-"endMs": 1015000,
-"speaker": "אופיר סגל",
-"text": "Eso, en algo muy \"dakamok\", lo que queda en el sherit. De todo, han instaire mi shapiri de Yushalay, como dijo Robbio Jhanaan, yo me quedé de los únicos que tienen la belleza de Yushalay, mi amor que Robbio Jhana, aquí lo que sigue jalando es en el orde de Yushalay, afilo a la demantada del galud. Y aquí Robbi Yushan Levi, me galé un malaj diferente, que el malaj es la foj etarra le to, agarrar el mitmodel diashar con el Ietzar, no se aleja de él, son dos tipos de abodotos, uno que se llama."
+"startMs": 333200,
+"endMs": 335900,
+"text": "Hu. Le katishó. ¿Eh?"
 },
 {
-"startMs": 1015000,
-"endMs": 1046000,
-"speaker": "אופיר סגל",
-"text": "Entonces el que hace Ikafia está Digamu. ¿Cómo quitarra? Uno puede estar con su hijo en dos mal. Mnebrak, que viajon, el niño Vichal o Jasuf, al mundo donde existen Vichal a las películas. Lo aleja. Primera hay un mundo muy raro, pero no lo conoce Vichal. O sea, hay cosas que nosotros somos rápido, no te explico, hay cosas que no te puedes ir a conocer, pero hay cosas que ya las conozco. Tú no puedes ir ahorita, ¿podemos poner?"
+"startMs": 337660,
+"endMs": 345120,
+"text": "A Maré tiene katsim. Me katshim es que Hashem está me román, me acól, que Hashem de él depende todo, que él está arriba de todo."
 },
 {
-"startMs": 1046000,
-"endMs": 1049000,
-"speaker": "אופיר סגל",
-"text": "Vamos a ver una película o no. ¿Me explico."
+"startMs": 345860,
+"endMs": 355120,
+"text": "Eso se llama que Hashem es Kadosh. Pero cobod tiene que ser que tengas dos opciones y digas: \"No, yo quiero más la opción de Kadosh Baruj Hu\"."
 },
 {
-"startMs": 1049000,
-"endMs": 1053000,
-"speaker": "Speaker 2",
-"text": "Pero es que uno no es Giliz, que llegó de ahí."
+"startMs": 355280,
+"endMs": 367500,
+"text": "Y me dice lo que le da mashmaut a todos los malajím ve hatmam. Tomera, todo lo que los malajím no-- los malajím ve hatmam no tienen mashmaut a su shirá, más que por medio de, de, de que hay cobod aquí abajo."
 },
 {
-"startMs": 1053000,
-"endMs": 1071000,
-"speaker": "אופיר סגל",
-"text": "Pero llegó de ahí, o uno cayó a Filu, o uno es safa, algo a Filu que no es video que azul, algo que es parve, algo que es así. Entonces tienes que, tienes que ahorita preguntarle a Rabio Schwab en Levi que hace. ¿Sí? Y hay cosas que le tienes que preguntar a la viejo nanga."
+"startMs": 368364,
+"endMs": 376804,
+"text": "Si no, ellos de עצמם no tienen משמעות, porque no es, no es מתוך שירה. Y de verdad que tú, que los מלאכים no פותחים שירה, hasta que אמיתי על דין שירה."
 },
 {
-"startMs": 1071000,
-"endMs": 1077000,
-"speaker": "Speaker 2",
-"text": "Y va a salir que le pide a la viejo en una idea, una malada, cosa que ya estamos llamando."
+"startMs": 377444,
+"endMs": 384924,
+"text": "Es el complemento na más que- ¿Eh? El מלאך de menos de una שירה también se ve como que, es como que siguen las reglas del בעל הארם."
 },
 {
-"startMs": 1077000,
-"endMs": 1108000,
-"speaker": "אופיר סגל",
-"text": "Pues vamos, como si está aquí muriendo con el lechuga un dime, sabe quién lo había mi amor, pero el viejo nantes dice a fuego. Mi amor, como si está aquí murimos, dicen que la lechuga con mi amor, que no hay una malada de que cómo, yo nunca conocía el bar, que fui tan casán, que al finlo nunca me acerqué a la Lalo. Y la otra ciudad, En el Marai es... si no me equivoco. Entonces, la otra ciudad es, \"No, vamos a como se llama lechuga hundi, entra de quien muri, mejor ni la amo\"."
+"startMs": 385884,
+"endMs": 395224,
+"text": "Sí, la hacen más potente, más עמוק, bien, bien. Pero el punto es que בעצם su שירה, hasta que no venga de un lugar de כבוד, no tiene tanto משמעות."
 },
 {
-"startMs": 1108000,
-"endMs": 1159000,
-"speaker": "אופיר סגל",
-"text": "No, no, que llegan estos cotes, traen sexú."
+"startMs": 395904,
+"endMs": 404324,
+"text": "Y entonces, ממי le sale que, que ¿cuál la תשובה נצחית? Que אמיתי él tiene יצר הרע. Y como אמיתי él tiene יצר הרע, por eso Moshe puede agarrar el כסף כבוד."
 },
 {
-"startMs": 1159000,
-"endMs": 1166000,
-"speaker": "אופיר סגל",
-"text": "No lo conozco, pero lo quiero conocer. Nunca me he metido. Pero sé que tiene que ver. ¿No, güey."
+"startMs": 404624,
+"endMs": 415324,
+"text": "Por eso Hashem le dice: \"Agárrate el כסף כבוד, me hace una תשובה\". Porque el כסף כבוד, el שייכות del כסף כבוד, es solamente porque Moshe Rabenu tiene יצר הרע."
 },
 {
-"startMs": 1166000,
-"endMs": 1177000,
-"speaker": "Speaker 3",
-"text": "O sea, puede ser que sí, pero en lo que estaba viendo."
+"startMs": 416584,
+"endMs": 416924,
+"text": "De seguro,"
 },
 {
-"startMs": 1177000,
-"endMs": 1208000,
-"speaker": "אופיר סגל",
-"text": "En Dynamount Bed, creo. La madre. Vamos a ver. Justo aparece la pioja no por acá. ¿Eh? Ah, le digo, porque justo ayer le dije a este..."
+"startMs": 419104,
+"endMs": 422744,
+"text": "yo no diría un כבוד de hablar a tu papá, ¿no? Tiene algún que hacer."
 },
 {
-"startMs": 1208000,
-"endMs": 1265000,
-"speaker": "אופיר סגל",
-"text": "¿Cómo se llama? que vino ayer este... Ergo, Madrid. ¿Y él quiere? Le dije, pues que nosotros fuimos con Eduardo, vamos a estoy a la... Ya justo hoy como que lo estaba el carteando y ya hoy como que ya les conoce. Que ya no va a ir para allá, ahorita le digo. No se vaya derecho gritar no se. Vaya se queda acá un rato Órale a ver empieza por ahí no sé hay que buscar dónde empieza."
+"startMs": 424384,
+"endMs": 432644,
+"text": "Esa palabra, ¿cómo se, cómo tiene que con, cómo se habla, cómo se puede hacer, dale כבוד a Hashem? ¿Tiene algún que ser con el כבוד que le damos a las personas?"
 },
 {
-"startMs": 1265000,
-"endMs": 1306000,
-"speaker": "אופיר סגל",
-"text": "estamos en una hermana azul o la metita. Mi mamá es Mati, creo que estoy entendiendo algo muy pelas ya. Estamos antes de bajar el Sipur, pero antes del Sipur es como cada uno mi tejer es no sé exactamente aquí."
+"startMs": 434344,
+"endMs": 442744,
+"text": "Sí. O sea, yo respeto a mi papá, es un respeto, no hay un- Importante. ¿Qué? Más importante, el respeto, te rebajas a ti, como te..."
 },
 {
-"startMs": 1306000,
-"endMs": 1342000,
-"speaker": "אופיר סגל",
-"text": "¿Qué hay Gabi? ¿Tú? ¿Por qué?"
+"startMs": 444524,
+"endMs": 452064,
+"text": "Eso es el כבוד. ¿Eh? Para eso es el כבוד. No, pero el כבוד es aquilo que no haces tu razón y haces el de él. No es tu razón y haces el de él, eso es el כבוד."
 },
 {
-"startMs": 1342000,
-"endMs": 1380000,
-"speaker": "אופיר סגל",
-"text": "Era justo ahí no sí sí."
+"startMs": 453204,
+"endMs": 462244,
+"text": "Que ves su razón primero antes que el tuyo. Podría ser tu razón, pero ese es el כבוד. Entonces, entonces todo el כבוד a Hashem, בעצם llega, davka por tener יצר הרע."
 },
 {
-"startMs": 1380000,
-"endMs": 1401000,
-"speaker": "אופיר סגל",
-"text": "Qué hay ahorita empezamos no a ver si alguien que está enfermo de ratan no sé qué es ratan tiene que ver ahí."
+"startMs": 463484,
+"endMs": 473364,
+"text": "Entonces, por eso es בזכות שקראוך אדם לקחת מתנות. Davka por ser אדם, de la adama, de la tierra, ¿sí?"
 },
 {
-"startMs": 1401000,
-"endMs": 1409000,
-"speaker": "Speaker 3",
-"text": "Design, un segundo."
+"startMs": 473424,
+"endMs": 481304,
+"text": "לכן לקחת מתנות, que viajó los מלאכים, dicen: \"Ahora queremos nosotros estar abajo\", entonces te damos מתנות. ¿Y quién le dio מתנה especial?"
 },
 {
-"startMs": 1409000,
-"endMs": 1423000,
-"speaker": "אופיר סגל",
-"text": "Debilitan mucho. Es como una debilidad tremenda. Este es Ratán."
+"startMs": 481904,
+"endMs": 488784,
+"text": "המלאך המוות. Porque, ¿quién es el יצר הרע? El mismo המלאך המוות. Está diciendo el המלאך המוות: \"Entonces estás hablando bien de mí\"."
 },
 {
-"startMs": 1423000,
-"endMs": 1433000,
-"speaker": "Speaker 3",
-"text": "Ok, entonces ¿qué hacían."
+"startMs": 489804,
+"endMs": 492884,
+"text": "Dijo: \"Sale que solo por mí אמיתי él pudieron recibir la Torá."
 },
 {
-"startMs": 1433000,
-"endMs": 1465000,
-"speaker": "אופיר סגל",
-"text": "Vaya sute. ¿Cómo se cura? Amara baie, pila, si ya, no sé qué es, un tipo de ese, una medicina. Ludana, vegirda de goza, vegirda de aspa, vejalil malka, matkalededik kla zunka, beshalli kleu beadadi, maile eleveite deshisha. Dice, vilo, ika veite deshisha, meaile eleveite deshav divnearija, divne bearija."
+"startMs": 494144,
+"endMs": 501504,
+"text": "Solo por mí pudieron recibir la Torá\". Entonces le da el כתורת. El כתורת, su מתנה es el חיים. Él es המלאך המוות."
 },
 {
-"startMs": 1465000,
-"endMs": 1503000,
-"speaker": "אופיר סגל",
-"text": "Benat dile tlat me akasalreisha de rafia, ar ite de mojabikitsu toum zipur que se hace exactamente con el... Umait arbat tar fe de asa, traes cuatro adazim, Umat le kol hat kara, Umot dit have shakil betsavta, becalele, lok quemas dilo. Ese es... este... ¿cómo se llama? Abayi. Mahitzrab yojanan. Izarum is vou beix el ballet ratan, tengan miedo de cuando las moscas que están cerca del ballet ratan, que me iré las."
+"startMs": 502064,
+"endMs": 510824,
+"text": "El כתורת lo usó Moshe para quitar la מגפה. Entonces, ¿ma pashat? El המלאך המוות, ¿de dónde saca חיים? Porque el המלאך המוות es el המלאך החיים también."
 },
 {
-"startMs": 1503000,
-"endMs": 1535000,
-"speaker": "אופיר סגל",
-"text": "Pasan, te dice, cuídate. No se sentaba donde el viento soplaba al lado de la rata para que no se contagie. Abi el Azar lo hayá, veale, no se mete ni siquiera en el mismo ohel. Rab Ami y verrabái, eh? Covid. Rab Ami y verrabái, todavía más. Lo hago akle y mi beit le hago mi bo. No comían. Ni siquiera los huevos que pasaron cerca de la..."
+"startMs": 510844,
+"endMs": 511304,
+"text": "¿Por qué?"
 },
 {
-"startMs": 1535000,
-"endMs": 1552000,
-"speaker": "אופיר סגל",
-"text": "del mamboy donde estaba ese jole. O sea, \"Jumrat tzuma\". \"Bishuam Levi, en Lobain\". Mi crack, Beit, los abraza, le hace que veTorá. Los abraza, no se aleja."
+"startMs": 512764,
+"endMs": 515784,
+"text": "El, el tafki del המלאך המוות, él está esperando que le digas que no."
 },
 {
-"startMs": 1552000,
-"endMs": 1556000,
-"speaker": "Speaker 2",
-"text": "El que se meta donde está aquí."
+"startMs": 516984,
+"endMs": 521884,
+"text": "Él te ofrece חיים de mentiras. Te ofrece: \"Oye, ve esto, haz esto, come esto\"."
 },
 {
-"startMs": 1556000,
-"endMs": 1557000,
-"speaker": "אופיר סגל",
-"text": "Vale rata."
+"startMs": 523164,
+"endMs": 531184,
+"text": "Todo un estudio. Que, que, aquilo, a simple vista parece que dan חיים, pero en verdad tiene veneno adentro."
 },
 {
-"startMs": 1557000,
-"endMs": 1559000,
-"speaker": "Speaker 2",
-"text": "Según el Covid."
+"startMs": 531804,
+"endMs": 551424,
+"text": "¿Por qué? Porque él, si le dices que sí, va a ir para arriba, volve a un masín y ahora ya no tiene נשמה. Entonces, el המלאך המוות, בעצם, si, si uno le dice que sí, aceptó aquilo la vida aparente, la cambió en vez de la vida real, que es, que es, que es la vida de Hashem."
 },
 {
-"startMs": 1559000,
-"endMs": 1560000,
-"speaker": "אופיר סגל",
-"text": "¿Ah, sí."
+"startMs": 552224,
+"endMs": 561684,
+"text": "Cuando le dices que no, le dices: \"No, yo, אני תופס que mi único מקור de חיים es Hashem\". ממי eso hace que tengas זכות con el חיים, que tengas זכות con Hashem."
 },
 {
-"startMs": 1560000,
-"endMs": 1563000,
-"speaker": "Speaker 2",
-"text": "Así decirlo. Ah, sí."
+"startMs": 562104,
+"endMs": 562804,
+"text": "Porque tú ahorita,"
 },
 {
-"startMs": 1563000,
-"endMs": 1589000,
-"speaker": "אופיר סגל",
-"text": "Ahora, yeladá vive a lat jen. Shem hen dice, im hen ma laolam de, alguno lo imagna. La Torá no va, justamente en nuestra sugiyá, que el nidón acá es como cuando uno tiene Isurim, entonces apégate más, aprovecha para pegarte más a la Torá y que los Isurim con eso..."
+"startMs": 564524,
+"endMs": 576584,
+"text": "no es que tienes זכות con Hashem. Y el hecho de decirle que no, ese es el חיבור que te da el חיים. Entonces, el המלאך המוות, justamente por ser que es el המלאך המוות, cuando uno le dice que no, eso es lo que da חיבור al חיים."
 },
 {
-"startMs": 1589000,
-"endMs": 1599000,
-"speaker": "Speaker 2",
-"text": "Pero aquí vemos que él tiene una utilizada Torá, también en el Shore, de que... que le metes el M."
+"startMs": 576624,
+"endMs": 579004,
+"text": "Por eso el, el, de primera, el יצר הרע,"
 },
 {
-"startMs": 1599000,
-"endMs": 1629000,
-"speaker": "אופיר סגל",
-"text": "No, pero aquí él no se aleja Be'etzem de los Mazikim, no se aleja, aquí hay Mazikim, lo sabrá, aquí lo sabrá, pero Be'etzem, el Kor de su Torá hace que Be'etzem no tenga... Magen Umatz, el Kor de su Tora hace que haya Magen Umatz. Entonces, can idea zulai, dibujar la tarara visión levi, que toda la tarara visión en levi, es que lu agarrar esos matik in batsmam, agarrar le dicha a batsmo, soi kerori, no? Es de... Sinai."
+"startMs": 580264,
+"endMs": 586804,
+"text": "eh, con Yaacov, cuando estaba peleando, le dijo: \"Ya, ya, ya me necesito subir a decir שירה\". Aquilo se escapó."
 },
 {
-"startMs": 1629000,
-"endMs": 1660000,
-"speaker": "אופיר סגל",
-"text": "Tara de Sinai. Es de... lo viu keren es Sinai. Ei kerori, me safek, keilu, ni lek larra, ni lo karato. Ani kir tarra, no, no lo karato, ni lek larra ni lo karato mi pesharon ni motzi leTorah. Entonces, acá hay un tipo directo ahora que él entiende, donde be'etzem... ¿Puede be'etzem irse a...? ¿Para qué los abrazaba? ¿A qué no te vas? No me voy. No te vas. No, hoy no me voy."
+"startMs": 588084,
+"endMs": 595244,
+"text": "Están ganando, ya, no te escapas, que ya viniste a pelear como מלאך, pierdes. Entonces, no, así."
 },
 {
-"startMs": 1660000,
-"endMs": 1692000,
-"speaker": "אופיר סגל",
-"text": "Saben, ahorita te agarro. Dice... ¿Quién va Shahi? Entonces, ¿por qué los abrazaba? Me'ila, si... Justo llegó alguien, agarró una Mishna. Los abrazas Kilomar Pit'om, de Nir'eh Pashut, entonces de... Dice, no, después de darga, de que... Bona foho tamble lomar dikima le deTorah, Bona foho tamble tou."
+"startMs": 596104,
+"endMs": 605904,
+"text": "Cuando Yaacov le gana, al, al-- esto, esto Dios lo sabe, es el משגמן. Cuando Yaacov le gana, pues normalmente, si él gana, sube al אסתים."
 },
 {
-"startMs": 1692000,
-"endMs": 1724000,
-"speaker": "אופיר סגל",
-"text": "Es una darga, que lo va a abrazarlos, no es unirsu, que lo puede aprovechar, que es después de lavar afu, rabá, mimenu, que haba sahi, estam sipur. Amru lei, la Malach HaMavet. Dile, Abil de Rouse. Se estaba muriendo Robijo en Levi. Entonces fueron el... le dijeron al Malach HaMavet en el Shamai. \"Ve y haz su ratzon\". Que lo mejor. Entonces el keilu y es después de Mazul que..."
+"startMs": 607004,
+"endMs": 608064,
+"text": "Pero si le ganas,"
 },
 {
-"startMs": 1724000,
-"endMs": 1757000,
-"speaker": "אופיר סגל",
-"text": "Abil de Rouse, si tu lo lees, es keilu y hazte su amigo. \"Ve y haz su ratzon, keilu y es después de su kesher\". Andan ib Hadar lei se le apareció a Amar lei, Rabi Yehoshua Levi al Malakhamavet, Achvili dukhti. Enséñame mi Makom en el Malakhamavet, en el Gan Eden. ¿Cuál es mi moto? A Amar lei, me explico, aquí el Makhamave todos tiemblan de él."
+"startMs": 609264,
+"endMs": 618564,
+"text": "sube a decir שירה. El mismo, el mismo, el mismo יצר הרע, en vez de subir al אסתים, sube a decir שירה. Y ממי es eso es gufa lo que, lo que גורם la שירה de todos los מלאכים."
 },
 {
-"startMs": 1757000,
-"endMs": 1790000,
-"speaker": "אופיר סגל",
-"text": "Rabi Yehoshua levi, Abille Raushe, que lo vieja, enséñame qué lugar me hace... Tiene que ver él, el keilu es el que te gustaría llevarte al guinam. No, el keilu, él va a enseñar cuál es mi lugar en el ganet. Amar lei, lechai. Dice, adelante lechai. Dice, Amarlei, hables aquí, dame tu... tu sakin, porque Dilma me ba'ata le'orech, por ahí en el camino me vas a espantar."
+"startMs": 619484,
+"endMs": 626283,
+"text": "Ahí es cuando hay שירה אמיתי. Pues ממי es, es que los מלאכים vienen a, a, a darle מתנות a Moshe."
 },
 {
-"startMs": 1790000,
-"endMs": 1805000,
-"speaker": "אופיר סגל",
-"text": "Ya havan ale. Confianza. Le dio el sakin. ¿Qué significa que le da el sakin? No, no. No piensa, ¿qué va a pasar con el Malach HaMavet ahorita? ¿Qué va a pasar."
+"startMs": 626304,
+"endMs": 634344,
+"text": "¿Quién está diciendo esta memrá? ¿Rosh HaLev? Pues aquilo, ¿quién es la Torá del Shamayim?"
 },
 {
-"startMs": 1805000,
-"endMs": 1806000,
-"speaker": "Speaker 2",
-"text": "No lo puede matar."
+"startMs": 635644,
+"endMs": 641784,
+"text": "Rabbi Yohanan. La Torá de la Geulá, de, de arriba, de Hashem, como es, la auténtica."
 },
 {
-"startMs": 1806000,
-"endMs": 1830000,
-"speaker": "אופיר סגל",
-"text": "No a él, a nadie. Mi lado es la neta, mi esposa de matar, de la neta. Llegó vivo el ganede. No existe llegar vivo el ganede, porque el guf shalem. Esto es que lo alejarte, más bien. El existe que llegue con su guf puede llegar al ganede. ¡Ki mata alei hatam."
+"startMs": 642484,
+"endMs": 649604,
+"text": "Aquilo, ¿qué se le hace al יצר הרע según Rabbi Yohanan? אין כזה דבר, no tiene מקום בכלל. No lo dejan ni entrar, ¿sí?"
 },
 {
-"startMs": 1830000,
-"endMs": 1833000,
-"speaker": "Speaker 2",
-"text": "Ya que él piensa así, que ya que él ya mete..."
+"startMs": 650164,
+"endMs": 654404,
+"text": "Aquilo, ahí la avodá que tiene el יצר es בעצם, aquilo..."
 },
 {
-"startMs": 1833000,
-"endMs": 1864000,
-"speaker": "אופיר סגל",
-"text": "Ese es su toráh, ese es su emet, ese es su guf, sí. \"Ki mata alei hatam dalieh\" Lo levantó el malajama. Kamah vele, le enseñó, lo levantó hoy y le dijo: \"Mira, ahí ves, es tu lugar\". Brincó, pensó que nada más lo hizo Pashut, que dejó. O sea, lo levantó, más para ver, brincó. Ya, se metió, se metió el Gan Eden, pero se metió el gane con su cuchillo."
+"startMs": 656864,
+"endMs": 663104,
+"text": "אתה לא שייך לשם, אתה, tiene מנותק מזה. Sí, el יצר הרע es realmente malo, desde el punto de vista de Rabbi Yohanan."
 },
 {
-"startMs": 1864000,
-"endMs": 1912000,
-"speaker": "אופיר סגל",
-"text": "Dice \"Shema, nafal le hau giza\", cayó en el Gan Eden. \"Nakte ve karna de glime\", lo agarró en su... en la punta de su ropa. \"Amarlene, bishwata de loatina\". Dice \"Ani nisvaken ni loetse\", ya no hay. ¿Quién es agarra quien? Balajab está agarrando la ropa de Rabbi Yehuda alehi. A Markou Chabriho, dice a Markou Chabriho, iche la suata, si rabiu sua, alguna vez ni alt sobre una sua, si hubo una sua que uber ni sale, ni nada, si?"
+"startMs": 663664,
+"endMs": 670864,
+"text": "El מבדיל tov, tov, entre lo טוב y lo רע. Estamos diciendo que la avodá de Rabbi Yehoshua ben Levi es: \"No, déjala en la noche ser noche."
 },
 {
-"startMs": 1912000,
-"endMs": 1944000,
-"speaker": "אופיר סגל",
-"text": "entonces se la vamos a el Israel. \"Vilo, lo niada\", si no, no. Y se va a quedar en el Gan Eden. A Marlene, le dijo el Malaj HaMavet, dice, bueno, habli zakinai, regresa mi zaken por lo menos. Loavakayaible, no se lo regresaba. Nafka, bat kol, amrale, abniale, de mitzvah beraita. Dice, se necesita el zaken, para hacerle bien a Don Chamor, para la Friedotan de su gufo."
+"startMs": 671504,
+"endMs": 677444,
+"text": "Déjale que sea un momento que ya no hay Jovah, no hay, no es, no es un momento de Jovah\", ¿sí?"
 },
 {
-"startMs": 1944000,
-"endMs": 1975000,
-"speaker": "אופיר סגל",
-"text": "Está raro que Rabbi Yehoshua en Levi se. Lo quitó, Ariel fue el que más lo entendió. Y Pemé se quedó ahí, como nunca inicial sobre ningunoshua, Rabbi Yehoshua en Levi se quedó vivo en el canal. No se murió Rabbi Yehoshua en Levi. Ah, no? Makriya de Liau Kamei, panim Kon le balabayit, panim Kon le balabayit. Ya hay algo keshet, ¿no? Nunca se regresó. Nunca se lo regresó. ¿No le regresó el cuchillo?"
+"startMs": 678724,
+"endMs": 687124,
+"text": "Y como dijimos, el mismo Rabbi Yehoshua, no Rabbi Yehoshua ben Levi, pero Rabbi Yehoshua sostiene que la תפילת ערבית es זכות. Aquí es davka apuj, aquilo,"
 },
 {
-"startMs": 1975000,
-"endMs": 2010000,
-"speaker": "אופיר סגל",
-"text": "¿No se regresó? No, el cuchillo sí, él se quedó. Ya, el vatico ya, fue el vatico. Ya, fue el vatico. Lo pusieron un variante. Ya te iba atrás de que pizza. Tenía 13... sillas, desde habait ahora, amarle. \"Atu para levi, tu eres yo, belevia, amarley\". ¿Eh? Le dijo sí. \"Nirata kechet behameha, que acaso algún día, mientras tú vivías, se vio el keshet\"."
+"startMs": 688484,
+"endMs": 699884,
+"text": "aquilo que hay יצר, hay מקום, kiviajol, a נתוק. Rabino Levi dice: \"אין כזה דבר מקום a נתוק\". Rabbi Yehoshua ben Levi, hay מקום, hay מקום a נתוק, pero no hay נתוק, eso tampoco."
 },
 {
-"startMs": 2010000,
-"endMs": 2041000,
-"speaker": "אופיר סגל",
-"text": "\"Amar lehin\", le dijo sí. \"Im ken, y estaba levi?\" Dice, \"No, no sabía, no sabía que tú eres...\" El keshet es un matar del mabul. Por mi maayan, que viajó el shevu keshet en el tiempo de Robishofar de Levi, Robishofar de Levi tiene que ser la estira al keshet. Tienen que ser la estira más grande al keshet. No, porque Gemara el shofar de Levi es, como oraba Grande, es el contra. No, es el contra. ¿Y por qué? ¿Por qué es la estirada del keshet?"
+"startMs": 700524,
+"endMs": 707944,
+"text": "Pero el darle מקום, kiviajol, eso es lo que puede hacer ahorita la הפוך את, את הרע עצמו לטוב."
 },
 {
-"startMs": 2041000,
-"endMs": 2073000,
-"speaker": "אופיר סגל",
-"text": "No sé, entonces estoy leyendo... No, fue lo que estudiaba, dale. Canire la madriga de... La madriga... Sí, o sea, la madrigada Rabbi Shimon Levi, no es que... La piha Na'anel se puede ir a su cuarto y el mundo pueda ser... Puede existir el rav, nada más que se aparta. La madrigada Rabbi Shimon Levi es la que sigue esta rara de todo. Entonces no sé ya que es mejor el que Nirata keshet le llama, algo así."
+"startMs": 708284,
+"endMs": 719304,
+"text": "¿Qué está haciendo Rabbi Yehoshua ben Levi? Está diciendo que el המלאך המוות, veome, que es bueno, el יצר הרע es bueno. Ha ido-- aquí es-- en el mundo de Rabbi Yohanan, el יצר הרע es completamente malo."
 },
 {
-"startMs": 2073000,
-"endMs": 2103000,
-"speaker": "אופיר סגל",
-"text": "Veloi, velova midi. Vehemet no se ve el keshet. en la época de rabbi Show en Levi. Ella sabe lo has dicho tributado en la nefesh. No me voy a adjudicar a mí que en su tiempo. keshet existe cuando hay todo y hay rab. En la amenaza. Si? Se queda, no va, destruye el mundo. Si? No, cuando esta nafta. Pero rabbi Show en Levi va a decir, no, circula me sube, me sube."
+"startMs": 720084,
+"endMs": 726244,
+"text": "En el mundo de Rabbi Yehoshua ben Levi, no, podemos hacerlo בתשובה, al, al, al mismo יצר הרע lo podemos hacer בתשובה."
 },
 {
-"startMs": 2103000,
-"endMs": 2138000,
-"speaker": "אופיר סגל",
-"text": "Bona acepta rana, poco toletón. Entonces Mimeila, esa es la bodega, pero Michel Levi, no tiene que haber amenaza del mampul que viejo, en su tiempo, porque todo el problema del Noaj fue que lo rechaza a la Xibichube. Pero me hizo Levi que su humildad es agarrar al malajama, es la foto de todo. Entonces Mimeila es así. A ver, la buscandina o el Papa se escribe. Rabbi Chanina el Papa era amigo del Malajama, es el sipurim de los amigos del Malajama, intentes que..."
+"startMs": 726584,
+"endMs": 747296,
+"text": "Y también cuando ganó, sí, מתחבר בתשובה, מקבל שווה תשובה ודין, זה כם מוריד מן החולים לנו. Pues aquí la Rabbi Yehoshua ben Levi es davka la shitá apujá Donde, donde no es que se aleja del Ra, sino no es Itkafia, que Kofe, el Ra, sino Itap, Ofejoto, el Ra le to."
 },
 {
-"startMs": 2138000,
-"endMs": 2179000,
-"speaker": "אופיר סגל",
-"text": "Ya va kanaf kanaf ya am brulei, de Malajama, bien le reguta, ve y hasta su amigo, hace el que hace un sipurim de Rabbi Chanina el Papa. Pero el más dice, vemos este ya, donde... donde Robio Xoab en Levi, su mitad principalmente era... era el... No, no, no la kuf bethemento contra el Ra, sino, fuf, darle que viajó lugar al Ra, la kiro to, pero agarrarlo desde sus horas más amok y la foco todo el todo."
+"startMs": 747776,
+"endMs": 756776,
+"text": "Si tú quieres lafoja el Ra le to, tienes kilu kibejol, darle lugar, no como Ra, sino como potencial, y lafojote le to."
 },
 {
-"startMs": 2179000,
-"endMs": 2186460,
-"speaker": "אופיר סגל",
-"text": "No, es otro."
+"startMs": 758076,
+"endMs": 765316,
+"text": "Lafoj kibejol el Ra le to, agarrar la chuká, ¿sí? De, de, de, de mal y lafojot la chuká le tor."
+},
+{
+"startMs": 765916,
+"endMs": 775376,
+"text": "No otra vez kilu reprimirla, la, la chuká. Aléjate, deo. O sea-- y lo otro, rabí, el malaj rabí Joshua ben Levi, como es más peligroso en cierto aspecto,"
+},
+{
+"startMs": 776636,
+"endMs": 789836,
+"text": "es un malaj de, de, de Itap, lafoje tarra le to. Acá obviamente son como cinco Memrot de rabí Joshua ben Levi, que todas, todas van así de la mano, digo, no hay tiempo ahorita para ver todas estas Memrot, pero podemos ver, eh,"
+},
+{
+"startMs": 791256,
+"endMs": 799316,
+"text": "podemos ver, eh, hay otras dos Guemarot, una es en Babá Batra, y no es rabí Joshua ben Levi, es rab Leivi, es su papá."
+},
+{
+"startMs": 800235,
+"endMs": 809316,
+"text": "Omar rab Leivi: \"Satán upniná leshem shamayim nitkavnu\". Tziz leimán. El Satán, con Yob, se vuelve leshem shamayim."
+},
+{
+"startMs": 810016,
+"endMs": 819576,
+"text": "En verdad está-- es el Ome, que el Satán, porque le dio Mataná, porque-- כאילו תפסת את הנקודה, שבעצם השורש שלו זה לשם שמיים."
+},
+{
+"startMs": 819816,
+"endMs": 828636,
+"text": "זה השורש של ה-- כאילו, הוא לא רע כל כולו. יש פה איזה צד מאוד עמוק, מאוד גבוה, כי הוא מתכוון לשם שמיים כדי להגיד שכן הוא."
+},
+{
+"startMs": 831036,
+"endMs": 833796,
+"text": "No puede hablar con él. ¿Quién? ¿Rabí Yojanan?"
+},
+{
+"startMs": 835056,
+"endMs": 841816,
+"text": "Rabí. ¿Eh? No puede-- es una metziut también, o sea, en vez de matar a Shem, te vas a la... Son dos guishot. Son dos guishot."
+},
+{
+"startMs": 841936,
+"endMs": 850376,
+"text": "Aquí hay dos cosas. No, no, no. Kibejol, hay, hay isurim. Entonces, aquí hay dos guishot. Una, aceptar que aquí hay una lejanía."
+},
+{
+"startMs": 851316,
+"endMs": 857456,
+"text": "Ese es el malaj de rabí Joshua ben Levi. Rabí Yochanan te dice: \"No, besum manim va'ofen. Busca cómo Hashem sigue estando acá\"."
+},
+{
+"startMs": 858436,
+"endMs": 864475,
+"text": "Tanto así que existen isurim de la Avá. Claro, ni siquiera busques quitártelos, el isurim de la Avá. ¡Sísbolo tam!"
+},
+{
+"startMs": 864536,
+"endMs": 870956,
+"text": "Es Avá. Eso va a ser muy de to. No... Y el otro malaj: \"No, no, no, no, no, tsja. Yesh po isurim."
+},
+{
+"startMs": 872696,
+"endMs": 881656,
+"text": "Te kavel sheyesh po riju. Kavel, que son dos geot\". Ahora, pero lo que tienes que hacer no es, eh, aquí es otra vez peligroso, Kibejol."
+},
+{
+"startMs": 881836,
+"endMs": 892716,
+"text": "Siente una tejer, siéntelo. Siente que me mete una tejer. Pues aquí ya le estás dando lugar, petaj, Kibejol, al Yetser hará, porque Kibejol-- ah, si hay, si Hashem dos geot, entonces me voy más lejos."
+},
+{
+"startMs": 893656,
+"endMs": 899176,
+"text": "Pero no, no, no. Acepta que es Geá para reconectar otra vez. Pídele a Kirva otra vez. Pide lo que te quitó, pídelo de regreso."
+},
+{
+"startMs": 901816,
+"endMs": 911536,
+"text": "Ese, ese es, ese es el malaj de, de rabí Joshua ben Levi. Sí, pero tiene que cada uno más que el otro. Son dos-- si no hay rabí Yochanan, rabí, rabí Joshua ben Levi no tiene ni a dónde la sufri Teshuvá, ¿me explico?"
+},
+{
+"startMs": 912296,
+"endMs": 923736,
+"text": "Rabí Yochanan necesita dejar un lugar auténtico donde, donde,afilu en el Josef tiene que haber Or, porque si en el Josef sigue habiendo Avá, entonces mi melej se deja otra vez regresar, como dijeron rabí Gamaliel y rabí Tzadok."
+},
+{
+"startMs": 926176,
+"endMs": 932216,
+"text": "Como dijimos rabí Gamaliel y rabí Tzadok en el Jurbán. Uno es aceptar, libkot."
+},
+{
+"startMs": 932256,
+"endMs": 941416,
+"text": "No hay Bet-- no hay Bet Hamikdash. Hashem nos abandonó, o sea, se-- se alejó. Y entonces, mi melej, acá anajanu mitorerim a, a, a regresar."
+},
+{
+"startMs": 942476,
+"endMs": 950856,
+"text": "Ese es un malaj. Y el otro malaj es: \"No, no, no, no, espérate. El orden Bet Hamikdash ani, ani adái matzliáj lamid otan, ani adái matzliáj lezaot oto\"."
+},
+{
+"startMs": 950936,
+"endMs": 963796,
+"text": "Yo sigo pudiendo tenerlo acá. Hoy nos enfoca en lo que mira de galut, lo que estamos de-- nosotros lo tenemos como que más en la cima de las cosas, en-- que lo, lo acabas de decir Es que tampoco, rabí Yochanan no es que es lo que está muy lejaná."
+},
+{
+"startMs": 964456,
+"endMs": 975616,
+"text": "Muy lejaná está que hay Josef, pero él dentro del Josef, dingar madahasará bi. Puede ver el kibejol-- y después de tsató, viene de, de joder le jia."
+},
+{
+"startMs": 975896,
+"endMs": 986816,
+"text": "Si no es una semilla, que... Es que se fijan no lo que es gal de mamá, se fijan el shoreh de lo que... Eso, כאילו en algo muy da, camok, כאילו que lo que queda en el sherit del to."
+},
+{
+"startMs": 986916,
+"endMs": 995055,
+"text": "Ani istare mi shapire, mi shapire de Yerushaláyim, como dijo rabí Yochanan. Yo me quedé de los únicos que tienen la belleza de Yerushaláyim, me voy a quedar."
+},
+{
+"startMs": 995096,
+"endMs": 1006716,
+"text": "Rabí Yochanan, כאילו que sigue jalando en el orden de Yerushaláyim, eh, afilu a la matzá del galut. Y aquí rabí Joshua ben Levi me gale un malaj diferente, que el malaj es lafoj et hará le to."
+},
+{
+"startMs": 1007896,
+"endMs": 1014356,
+"text": "Es decir, agarrar-- él mitmoded yashar con el Yetser hará, no se aleja de él. Son dos tipos de avodot, ¿sí?"
+},
+{
+"startMs": 1014516,
+"endMs": 1024195,
+"text": "Una que se llama-- entonces, el que hace Itkafia es tzadik amur, como kir tará. כאילו, uno puede estar con su hijo en dos malajim, ¿sí?"
+},
+{
+"startMs": 1025016,
+"endMs": 1032276,
+"text": "En Nevraq, Kibejol, el niño bijlá, no jasuf al mundo donde existen bijlá las películas."
+},
+{
+"startMs": 1032356,
+"endMs": 1039296,
+"text": "O sea, lo aleja. Mi melej, hay un mundo muy rá, pero lo-- no lo conoce bijlá. Entonces, hay cosas que nosotros somos rabí Yochanan, ¿me explico?"
+},
+{
+"startMs": 1039316,
+"endMs": 1050216,
+"text": "Hay cosas כאילו no te puedes ir a conocer, pero hay cosas que ya las conoces, ¿me explico? Tú no puedes ir ahorita-- puedo poner-- vamos a ver una película, una cosa bichola, ¿me explico?"
+},
+{
+"startMs": 1050276,
+"endMs": 1052656,
+"text": "Pero a veces uno no es que dice que llegó de ahí."
+},
+{
+"startMs": 1053936,
+"endMs": 1060716,
+"text": "Llegó de ahí o uno cayó a filu, o uno nejsafá algo, a filu que no es bidiuk azur, algo que es parve, algo que es así."
+},
+{
+"startMs": 1062576,
+"endMs": 1069216,
+"text": "Tiene una mala mención y me dijiste mal. Entonces, tienes que, tienes que ahorita preguntarle a rabí Joshua ben Levi qué hace, ¿sí?"
+},
+{
+"startMs": 1069876,
+"endMs": 1077136,
+"text": "Y hay cosas que le tienes que preguntar a rabí Yochanan qué hace. Y va a salir que le sí rabí Joshua ben Levi hay una malaj, cosa que ya está muy mal."
+},
+{
+"startMs": 1077196,
+"endMs": 1080376,
+"text": "En un lugar que tzadikim gurim-- baal Teshuvá amdin, ven tzadikim--"
+},
+{
+"startMs": 1081816,
+"endMs": 1095916,
+"text": "rabí Yochanan dice afoj. En un lugar que tzadikim gurim amdin, ven baal Teshuvá יכולים laamot. כאילו, hay una malaj de que, como yo nunca conocí el ra, כאילו, fui tan jazán, de que afilu nunca, nunca me acerqué bijlá al ra."
+},
+{
+"startMs": 1097216,
+"endMs": 1100076,
+"text": "Y el, el-- la otra shita, Nahemará, es"
+},
+{
+"startMs": 1101276,
+"endMs": 1108456,
+"text": "rabí Abaj, si no me equivoco. Entonces, la otra shita es no, ba lugar que baal Teshuvá amdin, ven tzadikim gurim יכולים laamot."
+},
+{
+"startMs": 1108876,
+"endMs": 1114456,
+"text": "Machloket, rabí Yochanan dice: \"No\", tzadikim gurim. Seim sipur de Kair Nan"
+},
+{
+"startMs": 1139816,
+"endMs": 1139916,
+"text": "Tzukotet."
+},
+{
+"startMs": 1159909,
+"endMs": 1166669,
+"text": "No lo conozco, pero lo quiero conocer. No, no, no, nunca me he metido, pero sé que tiene que ver. No WhatsApp."
+},
+{
+"startMs": 1167309,
+"endMs": 1169689,
+"text": "O sea, puedes escribir en lo que está bien, ¿no?"
+},
+{
+"startMs": 1177869,
+"endMs": 1179169,
+"text": "En Zain amud Bet, creo."
+},
+{
+"startMs": 1183029,
+"endMs": 1185669,
+"text": "Está mal. No es zin amud, ¿no?"
+},
+{
+"startMs": 1193649,
+"endMs": 1197949,
+"text": "Sí, hay zain amud Bet. Justo aparece Rab Yohanan por acá. No."
+},
+{
+"startMs": 1200149,
+"endMs": 1202969,
+"text": "¿Eh? No. Creo que es-"
+},
+{
+"startMs": 1205509,
+"endMs": 1210429,
+"text": "Ah, le digo, porque justo ayer le dije a este-- ¿cómo se llama? Que vino ayer, este..."
+},
+{
+"startMs": 1212849,
+"endMs": 1220169,
+"text": "Verga. No viene. ¿Y él quiere? Le dije: \"¿Por qué no te sumas con Eduardo? Ustedes los dos\". Dijo: \"Sí, puede ser\"."
+},
+{
+"startMs": 1220169,
+"endMs": 1227029,
+"text": "No, si ya justo hoy como que lo estaba cacheteando y ya hoy como que le dije mucho. Que ya no va a ir para allá. Ahorita le digo."
+},
+{
+"startMs": 1228449,
+"endMs": 1231449,
+"text": "No se vaya y le dice ahorita el martes. ¿Si queda acá un rato?"
+},
+{
+"startMs": 1233409,
+"endMs": 1234029,
+"text": "Órale."
+},
+{
+"startMs": 1238009,
+"endMs": 1242349,
+"text": "A ver, empieza por ahí, no sé. Hay que buscar dónde empieza."
+},
+{
+"startMs": 1264909,
+"endMs": 1266709,
+"text": "Estamos en una hermana azul, hola."
+},
+{
+"startMs": 1271149,
+"endMs": 1274029,
+"text": "Hola, Metivta. Traete Metivta, todavía."
+},
+{
+"startMs": 1289249,
+"endMs": 1292929,
+"text": "Mira, ממש matim. Creo, estoy entendiendo algo muy pele acá."
+},
+{
+"startMs": 1294409,
+"endMs": 1301409,
+"text": "Tam, antes de vijlál-- el sipur, vadai matir, pero antes del sipur, es como que uno mitiajedes, no sé exactamente aquí."
+},
+{
+"startMs": 1301409,
+"endMs": 1307729,
+"text": "¿Qué hay, primo? ¿Qué hay, Gabi?"
+},
+{
+"startMs": 1307749,
+"endMs": 1309429,
+"text": "¿Tú? Sí."
+},
+{
+"startMs": 1310709,
+"endMs": 1313049,
+"text": "¿Por qué? Parece que se va a casar."
+},
+{
+"startMs": 1342669,
+"endMs": 1346829,
+"text": "Ay, ¿era ahí, va? Hay zain amud Bet. Ahí creo que llega justo ahí. No, sí, sí llega."
+},
+{
+"startMs": 1349789,
+"endMs": 1351329,
+"text": "A mí me gusta bien de alante."
+},
+{
+"startMs": 1354229,
+"endMs": 1380829,
+"text": "Malá India. ¿Qué"
+},
+{
+"startMs": 1380829,
+"endMs": 1384269,
+"text": "hay? ¿Cómo está? Ahorita empezamos, ¿no? Ahora sí. Sí. Órale."
+},
+{
+"startMs": 1389249,
+"endMs": 1393269,
+"text": "Alguien que está enfermo de ra'atan. No sé qué es ra'atan, hay que ver ahí."
+},
+{
+"startMs": 1401489,
+"endMs": 1402589,
+"text": "Zain, punto uno."
+},
+{
+"startMs": 1408989,
+"endMs": 1410049,
+"text": "Debilita mucho."
+},
+{
+"startMs": 1413309,
+"endMs": 1415249,
+"text": "Es como que una debilidad tremenda."
+},
+{
+"startMs": 1416649,
+"endMs": 1417769,
+"text": "Sí, eso es ra'atan."
+},
+{
+"startMs": 1431089,
+"endMs": 1436709,
+"text": "Okey, entonces, ¿qué hacían? Vaya sute, cómo se cura. Amar a valle, pila."
+},
+{
+"startMs": 1437989,
+"endMs": 1450569,
+"text": "Ya, no sé qué es. Una, un tipo de ese, una, una medicina. Ludana, begirda de egoza, begirda de aspá, bejalil malka, matjal de diklasunka, beshalik lehu bead de hadad."
+},
+{
+"startMs": 1450869,
+"endMs": 1452269,
+"text": "Maile lebeite de shisha."
+},
+{
+"startMs": 1454069,
+"endMs": 1463049,
+"text": "Dice... Vi lo ica beite de shisha, maile lebeite de shav divne arija, divne ve arija."
+},
+{
+"startMs": 1465089,
+"endMs": 1471869,
+"text": "Venati le tlat meakasa el reisha de rafeah, ari te de moj. En fin, es todo un sipur que se hace exactamente con el..."
+},
+{
+"startMs": 1473129,
+"endMs": 1483149,
+"text": "Umaite arba tarfe de asa, traes cuatro hadasim, matle kol jad karha, umot ti jha ve shaquil ve tsafta, ve kalelen, lo quemas, y lo--"
+},
+{
+"startMs": 1485729,
+"endMs": 1486869,
+"text": ". Ese es, eh..."
+},
+{
+"startMs": 1488149,
+"endMs": 1495269,
+"text": "Este, este, ¿cómo se llama? Abaye. Majris Rab Yohanan, y zarum izvuvei shel baale ra'atan."
+},
+{
+"startMs": 1495429,
+"endMs": 1503589,
+"text": "Tengan miedo de cuando las moscas que están cerca del baale ra'atan, que ni de las- Pasan."
+},
+{
+"startMs": 1503649,
+"endMs": 1504929,
+"text": "Entonces Rabí Yohanan dice cuídate."
+},
+{
+"startMs": 1507849,
+"endMs": 1513089,
+"text": "No se sentaba donde el, el viento soplaba al lado de porque no se contagie."
+},
+{
+"startMs": 1515389,
+"endMs": 1517809,
+"text": "No se mete ni siquiera en el mismo oil."
+},
+{
+"startMs": 1519809,
+"endMs": 1521429,
+"text": "¿Eh? COVID. COVID."
+},
+{
+"startMs": 1524569,
+"endMs": 1525209,
+"text": "Todavía más."
+},
+{
+"startMs": 1528769,
+"endMs": 1536529,
+"text": "No comían ni siquiera los huevos que pasaron cerca de la, del maboi donde estaba ese jole."
+},
+{
+"startMs": 1537889,
+"endMs": 1541069,
+"text": "O sea, jumrad suma. Rabí Yehoshua Hanani Levi,"
+},
+{
+"startMs": 1542369,
+"endMs": 1542909,
+"text": "él no va ahí."
+},
+{
+"startMs": 1546349,
+"endMs": 1547889,
+"text": "Los abraza y"
+},
+{
+"startMs": 1550129,
+"endMs": 1555869,
+"text": ". Los abraza y no se aleja. Es que se meta donde está aquí el alcohol. En el COVID habían rabanim que así-"
+},
+{
+"startMs": 1557509,
+"endMs": 1562049,
+"text": "Que uno de ellos está muriendo de COVID. Ah, ¿sí? Los así decían. Así."
+},
+{
+"startMs": 1567789,
+"endMs": 1568108,
+"text": "Dice:"
+},
+{
+"startMs": 1571789,
+"endMs": 1575389,
+"text": "La Torá no es-- le dijo Rabí Yehoshua Hanani Levi justamente en nuestra"
+},
+{
+"startMs": 1577049,
+"endMs": 1585969,
+"text": ". Que el, el midón acá es como cuando uno tiene isurim, entonces apégate más-- aprovecha para apegarte más a la Torá y que los isurim con eso..."
+},
+{
+"startMs": 1586609,
+"endMs": 1586849,
+"text": "No sé."
+},
+{
+"startMs": 1589829,
+"endMs": 1594369,
+"text": "Pero aquí vemos que lo-- que él tiene una Torá también en el de que"
+},
+{
+"startMs": 1596769,
+"endMs": 1602889,
+"text": "que le metes en el . No, pero aquí lo-- él, él no se aleja de los mazikim, no se aleja."
+},
+{
+"startMs": 1603009,
+"endMs": 1612629,
+"text": "Aquí hay mazikim, los abraza. Aquí los abraza, pero el, el koaj de su Torá hace que no tenga que--"
+},
+{
+"startMs": 1613969,
+"endMs": 1615129,
+"text": "El koaj de su Torá hace que haya"
+},
+{
+"startMs": 1616329,
+"endMs": 1616909,
+"text": ". Entonces,"
+},
+{
+"startMs": 1620209,
+"endMs": 1624029,
+"text": "que toda la Torá de Yehoshua Hanani Levi es como agarrar esos mazikim en"
+},
+{
+"startMs": 1625969,
+"endMs": 1632848,
+"text": ", agarrar en . Es , no es, eh, China. Es , China. Es Rabí Yohanan China."
+},
+{
+"startMs": 1634949,
+"endMs": 1641709,
+"text": "Es como yo lejo al ra, yo okelo tú. Yo okel-- yo, yo no, no okelo tú."
+},
+{
+"startMs": 1641789,
+"endMs": 1643769,
+"text": "Yo lejo al ra, yo okelo tú y ."
+},
+{
+"startMs": 1646029,
+"endMs": 1653089,
+"text": "Entonces, acá hay un tipo de Torá que él, que él, que él, que él entiende donde puede irse a..."
+},
+{
+"startMs": 1653449,
+"endMs": 1659489,
+"text": "¿Pa qué los abrazaba? ¿A qué hora-- a qué hora te vas? No me voy. ¿No te vas? Hoy no me voy."
+},
+{
+"startMs": 1659529,
+"endMs": 1660929,
+"text": "Hoy no te vas. Está bien, ahorita te agarro."
+},
+{
+"startMs": 1662569,
+"endMs": 1662989,
+"text": "Dice:"
+},
+{
+"startMs": 1667049,
+"endMs": 1668429,
+"text": "Entonces, tam, ¿por qué los abrazaba?"
+},
+{
+"startMs": 1670289,
+"endMs": 1670429,
+"text": "Si"
+},
+{
+"startMs": 1672029,
+"endMs": 1674129,
+"text": "justo llegó alguien, agarró una Mishna."
+},
+{
+"startMs": 1676749,
+"endMs": 1678029,
+"text": "Los abrazas, ¿ma pitóm?"
+},
+{
+"startMs": 1683249,
+"endMs": 1684109,
+"text": "Dice: \"No, no, no, no\"."
+},
+{
+"startMs": 1692989,
+"endMs": 1694129,
+"text": "de que la Torá. Abrazarlos"
+},
+{
+"startMs": 1695389,
+"endMs": 1701429,
+"text": ". Ahí no es un issue. Es como puedo aprovechar que es apuj, ra, y además me lo-- eso."
+},
+{
+"startMs": 1703709,
+"endMs": 1704289,
+"text": "Tam, sipur."
+},
+{
+"startMs": 1712989,
+"endMs": 1719909,
+"text": "Rabí Yehoshua Hanani Levi. Entonces, fueron al, al Malaj HaMavet en el shamayim. Su ratón."
+},
+{
+"startMs": 1722509,
+"endMs": 1723569,
+"text": "Es como que--"
+},
+{
+"startMs": 1724949,
+"endMs": 1730309,
+"text": "si tú lo lees, es como ella es tu, su amigo, ¿sí? su ratón. Como"
+},
+{
+"startMs": 1731629,
+"endMs": 1733209,
+"text": "el keshut, ¿sí?"
+},
+{
+"startMs": 1737149,
+"endMs": 1737909,
+"text": "Se le apareció."
+},
+{
+"startMs": 1740469,
+"endMs": 1742989,
+"text": "Rabí Yehoshua Hanani Levi al, al Malaj HaMavet."
+},
+{
+"startMs": 1744369,
+"endMs": 1749089,
+"text": "Enseña mi, mi Makom en el Malaj HaMavet, en el, en el, en el Gan Eden."
+},
+{
+"startMs": 1750709,
+"endMs": 1751109,
+"text": "Gan Eden."
+},
+{
+"startMs": 1753549,
+"endMs": 1755409,
+"text": "El Malaj HaMavet"
+},
+{
+"startMs": 1757029,
+"endMs": 1764909,
+"text": "Rabí Yehoshua Hanani Levi como llega, enseña como él, él, como el que te gustaría llevarte al Gan Eden."
+},
+{
+"startMs": 1764969,
+"endMs": 1768249,
+"text": "No, él, como él, él va a enseñar cuál es mi lugar en el Gan Eden."
+},
+{
+"startMs": 1772569,
+"endMs": 1774109,
+"text": "Dice: \"Adelante, lejaim\"."
+},
+{
+"startMs": 1777829,
+"endMs": 1778389,
+"text": "Dice:"
+},
+{
+"startMs": 1780949,
+"endMs": 1781449,
+"text": "Dame tu,"
+},
+{
+"startMs": 1783009,
+"endMs": 1784529,
+"text": "tu saquin, porque"
+},
+{
+"startMs": 1787168,
+"endMs": 1788709,
+"text": "en el camino me vas a espantar."
+},
+{
+"startMs": 1791869,
+"endMs": 1796509,
+"text": "Confianza. Le dio el saquin. ¿Qué significa que le dio el saquin? ¿Ma pitóm que le dio el saquin?"
+},
+{
+"startMs": 1799529,
+"endMs": 1805989,
+"text": "No, no, piensa. ¿Qué, qué va a pasar con el Malaj HaMavet ahorita? ¿Eh? ¿Qué va a pasar? No lo puede matar."
+},
+{
+"startMs": 1806188,
+"endMs": 1807489,
+"text": "Ya no a él, a nadie."
+},
+{
+"startMs": 1824989,
+"endMs": 1828089,
+"text": "que llegue con, con su guf puede llegar al Gan Eden, ¿sí?"
+},
+{
+"startMs": 1829629,
+"endMs": 1837529,
+"text": "Ese de que tú puedes-- ya que él piensa así, va a su-- ya que sea ¿no? Esa es su Torá, esa es su emet, ese es su guf, ¿sí?"
+},
+{
+"startMs": 1841549,
+"endMs": 1847168,
+"text": "Lo, lo levantó el Malaj HaMavet. Le enseñó, lo, lo levantó y le dijo: \"Mira, ahí, ¿ves? Es tu lugar\"."
+},
+{
+"startMs": 1849349,
+"endMs": 1849889,
+"text": "Brincó."
+},
+{
+"startMs": 1851509,
+"endMs": 1857709,
+"text": "Pensó que nada más lo hizo pato, . O sea, lo, lo levantó más todavía. Brincó."
+},
+{
+"startMs": 1858709,
+"endMs": 1861849,
+"text": "Ya, se metió. Se metió al Gan Eden, pero se metió al Gan Eden con su cuchillo."
+},
+{
+"startMs": 1864009,
+"endMs": 1864309,
+"text": "Dice:"
+},
+{
+"startMs": 1867869,
+"endMs": 1873741,
+"text": "Cayó en el Gan Eden Nakte ve carna de glime. Lo agarró en su..."
+},
+{
+"startMs": 1875201,
+"endMs": 1881561,
+"text": "En la punta de su ropa. Amarle, bishuata de lo atina. Dice, ani nibá que ani lo ecé,"
+},
+{
+"startMs": 1882801,
+"endMs": 1889161,
+"text": "ya no hay. ¿Quién era el que lo-- malaj hamavet? Malaj hamavet está agarrando la ropa de rabí Yoshua Ha-Levi. Amárku tsabrichu."
+},
+{
+"startMs": 1896561,
+"endMs": 1900821,
+"text": "Dice, amárku tsabrichu, y ichi la shuada. Si, si rabí Yoshua"
+},
+{
+"startMs": 1902421,
+"endMs": 1903501,
+"text": "alguna vez"
+},
+{
+"startMs": 1904721,
+"endMs": 1911581,
+"text": "nish'al sobre una shua. Si hubo una shua que hubra nishal aleha, nihada. ¿Sí?"
+},
+{
+"startMs": 1912321,
+"endMs": 1917201,
+"text": "Entonces se la, se la vamos a, a Eliyahu HaNavi. Y lo, lo nihada. Si no, no."
+},
+{
+"startMs": 1918701,
+"endMs": 1927421,
+"text": "Y se va a quedar en el Gan Eden. Amarle, le dijo el Malaj Hamavet, dice, bueno, abli saquinai. Regrésame mi saquín, por lo menos."
+},
+{
+"startMs": 1928101,
+"endMs": 1935561,
+"text": "Lo ava que ai, no se lo regresaba. Nafka bat kala y amrale abni ale. De mitbaele baraita."
+},
+{
+"startMs": 1936721,
+"endMs": 1943241,
+"text": "Dice: se necesita el saquín para hacerle bien a Don Shamot, para la fridota Don de Zugu."
+},
+{
+"startMs": 1943821,
+"endMs": 1951360,
+"text": "Si no es-- es al, al fuj de rabí Yoshua. Rabí Yoshua Ha-Levi ki-- sí. Claro, que rabí Yoshua Ha-Levi se lo quitó, él fue el que más lo entendió."
+},
+{
+"startMs": 1951681,
+"endMs": 1958821,
+"text": "Y, y realmente quedó ahí, como nunca nishal sobre ni una shua, rabí Yoshua Ha-Levi se quedó vivo en el Gan Eden, ya. No se murió rabí Yoshua Ha-Levi."
+},
+{
+"startMs": 1959101,
+"endMs": 1965321,
+"text": "Ah, no, quedó... No. Machriz el yahú kamei panú macom lebarlibai, panú macom lebarlibai. Haga lelúa."
+},
+{
+"startMs": 1967360,
+"endMs": 1975241,
+"text": "A, a, a, a balibai. Hay algo que sostén, ¿no? ¿Nunca se lo regresó? ¿Eh? ¿Nunca se lo regresó? ¿No le regresó el cuchillo?"
+},
+{
+"startMs": 1975301,
+"endMs": 1981641,
+"text": "¿No se lo regresó? No, el cuchillo sí, él, él se quedó. Ya, el batkol, ya, fue el batkol. Ya, fue el batkol."
+},
+{
+"startMs": 1982321,
+"endMs": 1988661,
+"text": "Azal ve ashkeje, rab Shimon bar Yojai dabre, yatibatla tesar tajte kepit-piza."
+},
+{
+"startMs": 1992121,
+"endMs": 1992981,
+"text": "Tenía trece,"
+},
+{
+"startMs": 1995081,
+"endMs": 2005341,
+"text": "eh, eh, sillas de zahav tahor. Amarle, atú barlibai, tú eres Yehoshua Ha-Levi, amarle. Et, le dijo sí, ¿nirata keshet beameja?"
+},
+{
+"startMs": 2005341,
+"endMs": 2014481,
+"text": "¿Que al-- acaso algún día mientras tú vivías se veía el que-- se vio el keshet? Amarlehen, le dijo sí, imken, iata barlibai."
+},
+{
+"startMs": 2015701,
+"endMs": 2022701,
+"text": "Dice, no, no shayah. No shayah que tú eres rabí Yoshua Ha-Levi. El keshet es un mata del mabúl."
+},
+{
+"startMs": 2023721,
+"endMs": 2030761,
+"text": "Con mi maile, que viajol, si hubo keshet en el tiempo de rabí Yoshua Ha-Levi, rabí Yoshua Ha-Levi tiene que ser la estira del keshet."
+},
+{
+"startMs": 2031841,
+"endMs": 2038641,
+"text": "Tiene que ser la estira más grande del keshet. No, porque rabí Yoshua Ha-Levi es como rabí Abimelik, es el contra. No, es el contra."
+},
+{
+"startMs": 2038841,
+"endMs": 2045821,
+"text": "¿Y por qué, y por qué es la estira del keshet? No sé, entonces estoy leyendo la Mara. No, hacemos lo que estudiamos, dale."
+},
+{
+"startMs": 2047481,
+"endMs": 2049801,
+"text": "Que ni de, que ni de la madrega de..."
+},
+{
+"startMs": 2051900,
+"endMs": 2052520,
+"text": "La madrega..."
+},
+{
+"startMs": 2055541,
+"endMs": 2062181,
+"text": "Sí, o sea, la madrega de rabí Yoshua Ha-Levi no es que-- rabí Johanan él se puede ir a su cuarto y el mundo puede ser, eh..."
+},
+{
+"startMs": 2064221,
+"endMs": 2072541,
+"text": "Puede existir el Ra, nomás que se aparta. La madrega de rabí Yoshua Ha-Levi es lajdire tarra de todo. Entonces, no shayah que viajol que nirata keshet de ama, algo así."
+},
+{
+"startMs": 2073360,
+"endMs": 2080380,
+"text": "Ve lo í, ve lo ava midi, beemet no se vio el keshet en la época de rabí Yoshua Ha-Levi."
+},
+{
+"startMs": 2080400,
+"endMs": 2090380,
+"text": "Ela, sava, lo ajrif tivuta el nenafsha, nafsha. No vorá el judical ami, que en su tiempo, quiero, keshet existe cuando hay tov y hay ra."
+},
+{
+"startMs": 2090741,
+"endMs": 2097941,
+"text": "No hay amenaza, ¿sí? O sea, que Noaj destruyó el mundo, ¿sí? Entonces, Noaj es tzadik, hay tzadik."
+},
+{
+"startMs": 2098541,
+"endMs": 2102101,
+"text": "Pero rabí Yoshua Ha-Levi va a decir: «No, si kula mesub bi tshuve,"
+},
+{
+"startMs": 2103601,
+"endMs": 2116781,
+"text": "vo nase tarra, nafoj to le tov». Pues mi maile, esa es la boda de rabí Yoshua Ha-Levi, en decirse, no tiene que haber que, no tiene que haber amenaza de mabúl, que viajol, en su tiempo, porque todo el problema de Noaj fue que lo roza la shubitsuve."
+},
+{
+"startMs": 2117761,
+"endMs": 2125141,
+"text": "Pero rabí Yoshua Ha-Levi, que su mitad es, es agarrar al Malaj Hamavet a tsmo ve lafoj to le tov. Entonces, mi maile es ese."
+},
+{
+"startMs": 2128000,
+"endMs": 2130081,
+"text": "A ver, rab Chanina bar Papa susvineaba."
+},
+{
+"startMs": 2132441,
+"endMs": 2138561,
+"text": "Rab Chanina bar Papa era amigo del Malaj Hamavet. Su, esos son los sipurim de los amigos del Malaj Hamavet, ¿entiendes?"
+},
+{
+"startMs": 2138641,
+"endMs": 2148741,
+"text": "Ki ava canaija nafse amrulai, de Malaj Hamavet, sin ravid le rahuta, ve yaste su amigo. Azal le gave bitchazele, amele shafkitlat-- aquí esto ya es un sipur de, de rab Chanina bar Papa."
+},
+{
+"startMs": 2149401,
+"endMs": 2158041,
+"text": "Pero le mais, eh, vemos este guión, donde, donde rabí Yoshua Ha-Levi, su mitad principalmente era, eh,"
+},
+{
+"startMs": 2159561,
+"endMs": 2160381,
+"text": "era el"
+},
+{
+"startMs": 2161621,
+"endMs": 2168301,
+"text": "lajdire tarra le tov y no, betem, no la kuf, betem, el tov contra el ra, sino al fuj."
+},
+{
+"startMs": 2168341,
+"endMs": 2175381,
+"text": "Dale, que viajol lugar al ra, la quiro tov, pero agarrarlo de, de sus ores más amoque y lafoj to le tov."
+},
+{
+"startMs": 2177801,
+"endMs": 2184921,
+"text": "El Moshfele, que es justamente con, con la hermana. ¿Rabí Yoshua Ha-Levi no es rabí Yoshua? No, es otro."
 }
 ]
 }
