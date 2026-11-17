@@ -22,7 +22,7 @@ Trae el texto del daf de Sefaria (la red lo permite):
 - Etiquetas de hablante: no las incluyas en el texto.
 
 ## 3. Escritura de la salida (en partes, para no exceder límites)
-Escribe con la herramienta Write archivos `data/polished/parts/{id}/000.json`, `001.json`, … cada uno con ~120 segmentos:
+Crea la carpeta (`mkdir -p data/polished/parts/{id} data/rename-log.d`) y escribe con la herramienta Write archivos `data/polished/parts/{id}/000.json`, `001.json`, … cada uno con ~120 segmentos:
 `[{"i": 0, "text": "..."}, {"i": 1, "text": "..."}, ...]`  (i = índice del segmento en data/segments, desde 0). JSON válido (escapa comillas).
 Luego `data/polished/parts/{id}/meta.json`:
 ```json
@@ -38,6 +38,9 @@ Formato EXACTO: `{order}. ברכות {daf} ע׳׳{amud} - {temas}` + extensión 
 - temas: 2-5 temas principales EN HEBREO, breves, separados por coma o punto. Ej: `10. ברכות ג ע׳׳א - רבי יוסי חורבה, גלות גאולה. תפילה.m4a`
 - Sin `/`, `:` ni comillas dobles ASCII en el nombre.
 `title` = newName sin extensión.
+
+- El título se basa en el CONTENIDO: si la clase estudia otro daf distinto al del nombre original, usa el daf real. Si el fragmento no permite determinar el daf (p. ej. es un pedazo de otra clase), conserva el daf del nombre original y dilo en el reporte.
+- Si más del 20% de los segmentos llevan [inaudible], agrega `"needsReview": true` a meta.json y dilo en el reporte.
 
 ## 5. Renombrar en Drive (directamente, sin pedir aprobación)
 Solo después de que merge diga OK:

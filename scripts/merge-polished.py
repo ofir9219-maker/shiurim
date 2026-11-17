@@ -22,9 +22,19 @@ try: meta = json.load(open(f'data/polished/parts/{id}/meta.json'))
 except Exception as e: errs.append(f'meta.json: {e}'); meta = {}
 for k in ('summary', 'tags', 'daf', 'title', 'newName'):
     if not meta.get(k): errs.append(f'meta.{k} missing')
+inv = {i['id']: i for i in json.load(open('data/inventory.json'))}[id]
+nn = meta.get('newName', '')
+if nn:
+    if not nn.startswith(inv['order'] + '. '): errs.append(f"newName must start with '{inv['order']}. '")
+    if inv['ext'] and not nn.endswith(inv['ext']) : errs.append(f"newName must end with {inv['ext']}")
+    if not re.search(r" ע׳׳[אב]", nn): errs.append("newName needs amud as ע׳׳א / ע׳׳ב (U+05F3 twice)")
+    if ' - ' not in nn: errs.append("newName needs ' - ' before topics")
+    if re.search(r'[/:"]', nn): errs.append('newName contains / : or "')
+    if meta.get('title') and meta['title'] != (nn[:-len(inv['ext'])] if inv['ext'] else nn): errs.append('title must equal newName without extension')
 if errs:
     print('FAIL', id); [print(' -', e) for e in errs]; sys.exit(1)
 out = {'id': id, 'segments': [{'startMs': s['startMs'], 'endMs': s['endMs'], 'text': texts[i]} for i, s in enumerate(src)], **meta}
 json.dump(out, open(f'data/polished/{id}.json', 'w'), ensure_ascii=False, indent=0)
 ch = sum(1 for i, s in enumerate(src) if texts[i] != s['text'].strip())
-print(f'OK {id}: {len(src)} segments, {ch} changed; title={meta["newName"]}')
+inaud = sum(1 for i in texts.values() if '[inaudible]' in i)
+print(f'OK {id}: {len(src)} segments, {ch} changed ({100*ch//len(src)}%), {inaud} with [inaudible] ({100*inaud//len(src)}%); newName={meta["newName"]}')
