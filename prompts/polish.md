@@ -6,6 +6,10 @@ Trabajas en /home/user/shiurim. Te asignan UNA clase (id = id de Drive del audio
 
 Es un shiur de Guemará (Masejet Berajot, a veces Likutey Moharán, Zohar, Nedarim, Horayot…) dado en ESPAÑOL con muchas frases en hebreo y arameo. El reconocimiento de voz destrozó las frases hebreas/arameas convirtiéndolas en palabras latinas sin sentido.
 
+## 0. Fuentes
+- Si `data/segments/{id}.json` tiene `"source": "fal"`, la base es Fal Scribe v2 (mejor calidad). Si existe `data/md/{id}.md` (transcripción Plaud de la misma clase, con timestamps), úsala SOLO como segunda opinión para palabras dudosas (los timestamps coinciden aprox.). Nunca copies segmentos de Plaud; corriges los segmentos de Scribe.
+- Si la clase ya fue pulida antes (existe `data/polished/{id}.json` o partes), es un RE-PULIDO: borra `data/polished/parts/{id}/` y empieza de cero sobre los segmentos nuevos. Al renombrar, el nombre actual en Drive es el `newName` anterior (consúltalo con mcp__Google_Drive__get_file_metadata); si el nuevo título es igual, no renombres. Agrega las entradas nuevas al log existente `data/rename-log.d/{id}.json` (no borres las anteriores).
+
 ## 1. Entender el contexto
 Lee TODA la transcripción primero (con Bash: `python3 -c` imprimiendo `i | mm:ss | text`, en bloques de ~250 segmentos si es larga). Identifica: qué daf/amud se estudia, la Guemará citada, nombres (Rabí Yojanán, Rav Huna, Bilam, David hamélej…), temas.
 Trae el texto del daf de Sefaria (la red lo permite):

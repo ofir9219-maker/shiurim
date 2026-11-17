@@ -1,6 +1,6 @@
 """Assemble data/raw/{id}.json = {"parts":[{"part","offsetMs","result":<untouched Scribe result>}]} from data/fal-results/{id}_{NN}.json"""
 import json, os, sys
-m = json.load(open('data/fal-parts.json'))
+m = json.load(open(sys.argv[1] if len(sys.argv)>1 else 'data/fal-parts.json'))
 ids = sorted({p['id'] for p in m})
 for id in ids:
     parts = sorted([p for p in m if p['id'] == id], key=lambda p: p['part'])
