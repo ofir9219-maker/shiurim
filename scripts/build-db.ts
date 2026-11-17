@@ -18,6 +18,8 @@ type Seg = { startMs: number; endMs: number; text: string };
 type Pol = { id: string; segments: Seg[]; summary?: string; tags?: string[]; daf?: { daf: string; amud: string }[]; title?: string; newName?: string };
 
 const polDir = path.join(root, "data", "polished");
+const hollowFile = path.join(root, "data", "gaps-hollow.json");
+const hollow: { id: string; startMs: number }[] = fs.existsSync(hollowFile) ? JSON.parse(fs.readFileSync(hollowFile, "utf8")) : [];
 const polFiles = fs.existsSync(polDir) ? fs.readdirSync(polDir).filter((f) => f.endsWith(".json")) : [];
 const fixtureMode = useFixtures || polFiles.length === 0;
 const invPath = fixtureMode && (useFixtures || !fs.existsSync(path.join(root, "data", "inventory.json")))
@@ -56,7 +58,12 @@ const tx = db.transaction(() => {
     const extra: Seg[] = pol
       ? [gf, gf2].flatMap((f) => (fs.existsSync(f) ? (JSON.parse(fs.readFileSync(f, "utf8")) as Seg[]) : []))
       : [];
-    const segs = [...(pol?.segments ?? []), ...extra].sort((a, b) => a.startMs - b.startMs);
+    // Drop a "hollow" polished segment (long, almost no text) when recovered segments cover its time range.
+    const hollowStarts = new Set(hollow.filter((h) => h.id === inv.id).map((h) => h.startMs));
+    const base = (pol?.segments ?? []).filter(
+      (s) => !(hollowStarts.has(s.startMs) && extra.some((e) => e.startMs >= s.startMs && e.endMs <= s.endMs + 1000)),
+    );
+    const segs = [...base, ...extra].sort((a, b) => a.startMs - b.startMs);
     const daf = pol?.daf ?? [];
     const ord = parseFloat(inv.order);
     upC.run({
