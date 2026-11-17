@@ -9,7 +9,7 @@ Es un shiur de Guemará (Masejet Berajot, a veces Likutey Moharán, Zohar, Nedar
 ## 1. Entender el contexto
 Lee TODA la transcripción primero (con Bash: `python3 -c` imprimiendo `i | mm:ss | text`, en bloques de ~250 segmentos si es larga). Identifica: qué daf/amud se estudia, la Guemará citada, nombres (Rabí Yojanán, Rav Huna, Bilam, David hamélej…), temas.
 Trae el texto del daf de Sefaria (la red lo permite):
-`curl -s "https://www.sefaria.org/api/v3/texts/Berakhot.7a?version=hebrew" | python3 -c "import json,sys,re; d=json.load(sys.stdin); [print(re.sub('<[^>]+>','',t)) for t in d['versions'][0]['text']]"`
+`curl -s "https://www.sefaria.org/api/v3/texts/Berakhot.7a?version=hebrew" | python3 -c "import json,sys,re; d=json.load(sys.stdin); [print(i, re.sub('<[^>]+>','',t)) for i,t in enumerate(d['versions'][0]['text'])]"`
 (también sirve `.../Berakhot.7a?version=english` para ubicarte; otras obras: `Nedarim.31b`, `Horayot.10a`, `Likutei_Moharan.19`…). Úsalo para reconstruir con exactitud las citas que el rabino lee.
 
 ## 2. Pulido (corrección CONSERVADORA, no redacción)
@@ -19,6 +19,8 @@ Trae el texto del daf de Sefaria (la red lo permite):
 - Detecta galimatías que en realidad son hebreo/arameo ("memat kor in shem" → "meematai korín"; "el rap mi tapextle todo" puede ser "rav mitapjim le-tov"… solo si el contexto y Sefaria lo confirman). Si la Guemará se lee en voz alta, alinéala con el texto de Sefaria (transliterado).
 - No traduzcas, no resumas, no reordenes, no inventes, no agregues explicaciones. Muletillas y repeticiones se quedan (puedes limpiar tartamudeos obvios "que que que" → "que").
 - Si un fragmento es irrecuperable, escribe `[inaudible]` en esa parte (no adivines).
+- Convenciones: Rabí (incluido "Rebbi" a secas → Rabí), Rav, Hashem, Kadosh Baruj Hu, Guemará, Mishná, Rashí, Tosafot. Tags del meta en español.
+- Si `data/polished/parts/{id}` ya existe con partes, sobrescríbelas.
 - Etiquetas de hablante: no las incluyas en el texto.
 
 ## 3. Escritura de la salida (en partes, para no exceder límites)
@@ -32,7 +34,7 @@ Valida: `python3 scripts/merge-polished.py {id}` → debe imprimir OK. Si FAIL, 
 
 ## 4. Título nuevo (según el contenido real de la transcripción pulida)
 Formato EXACTO: `{order}. ברכות {daf} ע׳׳{amud} - {temas}` + extensión original (`ext` del inventario; si el nombre original no tenía extensión, no agregues).
-- `order` = el del inventario, tal cual (ej. "4.2", "38").
+- `order` = el del inventario, tal cual (ej. "4.2" → `4.2. ברכות ...`, "38" → `38. ברכות ...`).
 - daf en letras hebreas sin puntuación (ג, יא, יג); amud `ע׳׳א` o `ע׳׳ב` (usa el carácter ׳ U+05F3 dos veces). Si abarca dos amudim: `ברכות ג ע׳׳א-ע׳׳ב`. Si abarca dos dapim: `ברכות ט ע׳׳ב-י ע׳׳א`.
 - Si la clase NO es de Berajot (ej. Nedarim, Horayot, Meguilá, Likutey Moharán), pon la obra real en lugar de ברכות (נדרים לא ע׳׳ב / ליקוטי מוהר״ן יט). Si es Berajot pero el foco es otra fuente, mantén el daf de Berajot que se estudia.
 - temas: 2-5 temas principales EN HEBREO, breves, separados por coma o punto. Ej: `10. ברכות ג ע׳׳א - רבי יוסי חורבה, גלות גאולה. תפילה.m4a`

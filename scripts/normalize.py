@@ -28,7 +28,14 @@ def md(item):
 
 def scribe(item):
     r = json.load(open(f"data/raw/{item['id']}.json"))
-    words = [w for w in r['words'] if w.get('type','word') != 'audio_event']
+    # raw is either one Scribe result, or {"parts":[{"offsetMs":..,"result":<Scribe result>}]} for split audio
+    allw = []
+    for part in (r['parts'] if 'parts' in r else [{'offsetMs': 0, 'result': r}]):
+        o = part['offsetMs'] / 1000
+        for w in part['result']['words']:
+            allw.append({**w, 'start': w['start'] + o, 'end': w['end'] + o})
+        allw.append({'text': ' ', 'type': 'spacing', 'start': allw[-1]['end'] if allw else o, 'end': allw[-1]['end'] if allw else o})
+    words = [w for w in allw if w.get('type','word') != 'audio_event']
     segs, cur = [], None
     for i, w in enumerate(words):
         if cur is None:
