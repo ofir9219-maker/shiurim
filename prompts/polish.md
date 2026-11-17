@@ -37,7 +37,7 @@ Formato EXACTO: `{order}. ברכות {daf} ע׳׳{amud} - {temas}` + extensión 
 - `order` = el del inventario, tal cual (ej. "4.2" → `4.2. ברכות ...`, "38" → `38. ברכות ...`).
 - daf en letras hebreas sin puntuación (ג, יא, יג); amud `ע׳׳א` o `ע׳׳ב` (usa el carácter ׳ U+05F3 dos veces). Si abarca dos amudim: `ברכות ג ע׳׳א-ע׳׳ב`. Si abarca dos dapim: `ברכות ט ע׳׳ב-י ע׳׳א`.
 - Si la clase NO es de Berajot (ej. Nedarim, Horayot, Meguilá, Likutey Moharán), pon la obra real en lugar de ברכות (נדרים לא ע׳׳ב / ליקוטי מוהר״ן יט). Si es Berajot pero el foco es otra fuente, mantén el daf de Berajot que se estudia.
-- temas: 2-5 temas principales EN HEBREO, breves, separados por coma o punto. Ej: `10. ברכות ג ע׳׳א - רבי יוסי חורבה, גלות גאולה. תפילה.m4a`
+- temas: 2-4 temas principales EN HEBREO, breves (máx ~50 caracteres en total), separados por coma o punto. Ej: `10. ברכות ג ע׳׳א - רבי יוסי חורבה, גלות גאולה. תפילה.m4a`
 - Sin `/`, `:` ni comillas dobles ASCII en el nombre.
 `title` = newName sin extensión.
 
