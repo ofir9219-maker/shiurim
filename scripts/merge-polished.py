@@ -27,7 +27,7 @@ nn = meta.get('newName', '')
 if nn:
     if not nn.startswith(inv['order'] + '. '): errs.append(f"newName must start with '{inv['order']}. '")
     if inv['ext'] and not nn.endswith(inv['ext']) : errs.append(f"newName must end with {inv['ext']}")
-    if not re.search(r" ע׳׳[אב]", nn): errs.append("newName needs amud as ע׳׳א / ע׳׳ב (U+05F3 twice)")
+    if not re.search(r" ע׳׳[אב]", nn) and not re.search(r"ליקוטי|זוהר|תניא", nn): errs.append("newName needs amud as ע׳׳א / ע׳׳ב (U+05F3 twice)")
     if ' - ' not in nn: errs.append("newName needs ' - ' before topics")
     if re.search(r'[/:"]', nn): errs.append('newName contains / : or "')
     if meta.get('title') and meta['title'] != (nn[:-len(inv['ext'])] if inv['ext'] else nn): errs.append('title must equal newName without extension')
