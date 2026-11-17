@@ -1,630 +1,1061 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 2000,
-"endMs": 9000,
-"speaker": "Speaker 1",
-"text": "La hermaranda beta mud bet."
+"startMs": 2140,
+"endMs": 4360,
+"text": "La Gemara, la Gemara en Daft Bet Hamud Bet."
 },
 {
-"startMs": 9000,
-"endMs": 18000,
-"speaker": "Speaker 1",
-"text": "La hermaranda beta mud bet habla de varias chitot de cuándo es la hora del kriya chema."
+"startMs": 9460,
+"endMs": 12940,
+"text": "La Gemara en Daft Bet Hamud Bet habla de varios"
 },
 {
-"startMs": 18000,
-"endMs": 51000,
-"speaker": "Speaker 1",
-"text": "Pues primero tenemos la mishna. La mishna dijo, meshaswa kuanim nijnasim le jolbetro matam, la hora que los kuanim, Entran a cogerte broma. A qué hora es esa hora? Zetako Javi. La hermana luego se pasa aquí y dice: \"Ama a armar\" dice: \"No, Mishayakoanini, me maté con el chama a verbín\". En el momento que la niña entra a comer su pan con sal. Entonces aquí no entiendo qué necesidad hay de poner."
+"startMs": 14260,
+"endMs": 16720,
+"text": ", de cuándo es la hora del Kriyat Shema."
 },
 {
-"startMs": 51000,
-"endMs": 53000,
-"speaker": "Speaker 1",
-"text": "Que el aní come su pan con sal."
+"startMs": 18540,
+"endMs": 28120,
+"text": "Entonces, primero tenemos la Mishná. La Mishná dijo: \"Misha'ash u-ha-kohanim nijjasim lejol betrumatam\", la hora que los kohanim entran al jol betrumata."
 },
 {
-"startMs": 53000,
-"endMs": 86000,
-"speaker": "Speaker 2",
-"text": "Sí, la camarada habías dicho que todo lo que te viene a enseñar a tomar. Aquí que. Algo tiene que ver, algo tiene que ver que diga pan con sal. No, porque a lo mejor en algún momento comían primero su pan con sal porque ya no aguantaban el hambre y después cenaban. No, no importa, yo di que diga la hora que entran a comer los pobres ya, pero a lo mejor había un horario que se comían un pan para aguantar y luego había un horario que cenaban, no sé."
+"startMs": 28260,
+"endMs": 37880,
+"text": "¿A qué hora es esa hora? Tzet ha-kohavim. La Gemara luego se pasa aquí y dice: \"Amar Mar\", dice: \"No, misha'ash u-ha-kohanim nijjasim lejol betrumatam,"
 },
 {
-"startMs": 86000,
-"endMs": 97000,
-"speaker": "Speaker 2",
-"text": "Ahora. No, es lo único que tenías, seguro. Es lo único que pobre, pero si es lo único que tiene, no te tengo que mencionar ya a la hora que entran a comer los pobres, es lo único que tiene."
+"startMs": 39940,
+"endMs": 47340,
+"text": "misha'ani nijjas lejol pitó bamelaj\". En el momento que el ani entra a comer su pan con sal."
 },
 {
-"startMs": 97000,
-"endMs": 129000,
-"speaker": "Speaker 1",
-"text": "Sí, y más, Rashi, aquí, ¿de quién era la pregunta tuya? Rashi dice, dice el pobre, ¿por qué pobre? Él no tiene vela para aprender en su seuda. Entonces que uno lee Rashi, que es buena que viene Rashi a decir, que el aní tiene que ir a comer a fuerzas antes de oscurecer."
+"startMs": 47800,
+"endMs": 59540,
+"text": "Entonces, aquí no entiendo qué necesidad hay de poner que el ani come su pan con sal. Sí, la Gemara antes había dicho que todo lo que te vino a enseñar es Trumat, pero aquí ya todos los rabinos que llegan no la mía, que no llegan para tomar melaj."
 },
 {
-"startMs": 129000,
-"endMs": 135000,
-"speaker": "Speaker 1",
-"text": "Uno ve la hemara más adelante y claramente la hemara, primero que nada, tiene duda."
+"startMs": 59560,
+"endMs": 66620,
+"text": "Claro. No, además te dijo el menú. Sí, sí. Algo tiene que ver. Claro. Algo tiene que ver que se diga pan con sal."
 },
 {
-"startMs": 135000,
-"endMs": 169000,
-"speaker": "Speaker 1",
-"text": "Primero dice la hemara, no, a lo mejor koanime y aní es la misma hora. Entonces primero, o sea, Rashi ya desde el primer paso en la hemara ya no va a cual, o sea, los koanimes en ZKohobin. Entonces, ¿para qué Rashi nos dijo el Psat? Y más cuando la hermana más adelante dice la mascaná dice “Mista beer” es lógico que el Ani es todavía más tarde. Entonces quiere decir que el Ani es todavía más tarde y Rashi, o sea, ¿para qué necesidad nos dijo el Psat que no tiene nerla, que no tiene una vela para prender su ciudad?"
+"startMs": 66660,
+"endMs": 74120,
+"text": "Pan con sal. Pan con sal. Y... No, porque a lo mejor en algún momento comían primero su pan con sal, porque ya no aguantaban el hambre y después cenaban."
 },
 {
-"startMs": 169000,
-"endMs": 192000,
-"speaker": "Speaker 1",
-"text": "Si primero la hermana no lo dijo, la hermana nunca quiso decir que el Ani es más temprano, nunca quiso decir algo así. Quiso decir que es igual y luego se quedó en que es más tarde, entonces salió completamente, al parecer, irrelevante lo que dijo Ras y más que la hermana no dice nada de la vela, sino dice cuando la niña entra a comer, pitó bamela. Entonces yo quiero decir un chat en eso."
+"startMs": 74420,
+"endMs": 75880,
+"text": "Porque es pobre, no va a comer pan con sal."
 },
 {
-"startMs": 192000,
-"endMs": 196000,
-"speaker": "Speaker 2",
-"text": "Para Comer pan con salud y necesita vela. Muy bien, pero Rashi entonces ¿por qué dice?"
+"startMs": 77160,
+"endMs": 85760,
+"text": "No, no importa. Yo dije: \"A la hora que entran a comer los pobres\", ya, bueno, lo que sea, pero a lo mejor había un horario que se comían un pan para aguantar y luego había un horario que cenaban, no sé."
 },
 {
-"startMs": 196000,
-"endMs": 200000,
-"speaker": "Speaker 1",
-"text": "Sí, qué, qué, tipo qué."
+"startMs": 86300,
+"endMs": 93720,
+"text": "Ahora-- No, el ani es lo único que tenía, seguro. Es lo único que tiene, pero si es lo único que tiene, no te tengo que mencionar, ya, a la hora que entra a comer el pobre."
 },
 {
-"startMs": 200000,
-"endMs": 233000,
-"speaker": "Speaker 1",
-"text": "Confundo el Rashi y te confunde. Bueno, entonces. Entonces pregunta, Anikohen, ¿es el mismo shiur o no es el mismo shiur? Entonces como que la hermana se le hace que sí y luego dice que no, luego viene otra cita. Cuando la gente entra a comer pan en el Shabbat en la noche, que eso es, al parecer es no, es más tarde."
+"startMs": 94080,
+"endMs": 94920,
+"text": "Es lo único que tiene."
 },
 {
-"startMs": 233000,
-"endMs": 256000,
-"speaker": "Speaker 1",
-"text": "Es después de este taco, Javi. En las noches de chapa. De eres. No eres, chapa. Y por qué es más tarde? Qué? Así se ve la demorada más adelante. Así es. Sí, más rápido de lo que sería una cena el jueves."
+"startMs": 96460,
+"endMs": 99140,
+"text": "Que comía. Sí. Y más--"
 },
 {
-"startMs": 256000,
-"endMs": 258000,
-"speaker": "Speaker 2",
-"text": "Y lo va a hacer más tarde todavía."
+"startMs": 102740,
+"endMs": 111740,
+"text": "Rashi, aquí, ¿de quién era la pregunta? ¿Tuya? Sí. Rashi dice: \"Misha'ani, shein lo ner ladlik beseudató\"."
 },
 {
-"startMs": 258000,
-"endMs": 290000,
-"speaker": "Speaker 1",
-"text": "Sí, ahorita vamos a ver ahora. Va a ser más tarde. Porque un día normal en lo que llegas y preparas y te sientas, entonces te tardas. El Shabbat se adelanta, ya está listo, entonces ya se hace de noche este taco Javi y ya. Eso es un tiempo después de este taco Javi. Eso es Rapi Mail. Luego la memorá aquí nos trae que Jakamim dicen, igual discuten al Mail, es igual que la Mishnah, Mishah Shakwanim Zakain, le jolbitro matan."
+"startMs": 112400,
+"endMs": 118740,
+"text": "Dice: \"El pobre, ¿por qué pobre? Él no tiene vela para prender en su, en su seudá\"."
 },
 {
-"startMs": 290000,
-"endMs": 298000,
-"speaker": "Speaker 1",
-"text": "Ahí hay muchos que tratan de explicar por qué se usa otra razón diferente, pero no."
+"startMs": 119420,
+"endMs": 127280,
+"text": "Entonces, ¿qué? Uno lee Rashi, ¿qué suena que viene Rashi a decir? Que el, el ani tiene que ir a comer a fuerzas antes de oscurecer."
 },
 {
-"startMs": 298000,
-"endMs": 300000,
-"speaker": "Speaker 2",
-"text": "Es que haya una diferencia,"
+"startMs": 129080,
+"endMs": 133980,
+"text": "Uno bien ve la Gemara más adelante y claramente la Gemara primero que nada tiene duda."
 },
 {
-"startMs": 300000,
-"endMs": 308000,
-"speaker": "Speaker 1",
-"text": "Es el momento más exacto, desde que ya tiene el potencial de,"
+"startMs": 135740,
+"endMs": 145640,
+"text": "Primero dice la Gemara: \"No, a lo mejor koanim y ani es la misma hora\". Entonces, primero, o sea, Rashi ya desde el primer, eh, paso en la Gemara ya no va, ya no va de acuerdo."
 },
 {
-"startMs": 308000,
-"endMs": 318000,
-"speaker": "Speaker 2",
-"text": "A menos de que se purificó y entonces no podía y ahorita ya puede. Aquí ya te está diciendo que esta porque normalmente."
+"startMs": 145800,
+"endMs": 157280,
+"text": "O sea, los koanim es en Tzet ha-kohavim. Entonces, ¿pa qué Rashi nos dijo ese peshat? Y más cuando la Gemara más adelante dice la Mascaná, dice: \"Mistabé\", es lógico que la ani es todavía más tarde."
 },
 {
-"startMs": 318000,
-"endMs": 349000,
-"speaker": "Speaker 1",
-"text": "Claro, sí, es el momento que se hace apto a comerte nomás. También Ignazin es como que meter un poquito un detalle más técnico, que no es el esencial, o sea, el momento esencial este taco, que en ese momento. El Cohen se hace, se hace, se aceptador. Nasín le dejó el truma. Sí, en el momento que ellos se preparan a comer truma."
+"startMs": 157860,
+"endMs": 169180,
+"text": "Entonces, quiere decir que la ani es todavía más tarde. Y Rashi, entonce-- o sea, ¿para qué necesidad nos dijo el peshat? Que no tiene ner ladlik beseudató, que no tiene una vela para prender su seudá."
 },
 {
-"startMs": 349000,
-"endMs": 382000,
-"speaker": "Speaker 1",
-"text": "Entonces, y la hermana dice aquí tiene una raya. Tiene la hermana aquí una raya. Cuál es la raya de la hermana? Dice, el pasuca está hablando de las personas que construyen el Beta Mikdash en by Cheni. Apenas regresaron a Miseral en Bai Cheni y empezaron a construir el Beta Mikdash. Entonces dice el Pasuk. Banaq nousimbe melajá, vejetzian maqzikim barremajim, mealotta Shahara, etc. Entonces hacíamos la melajá, trabajar el Beta Mikdash, construido el Beta Mikdash, desde Alotta Shahar hasta Tzetakohabim."
+"startMs": 169620,
+"endMs": 178300,
+"text": "Si primero la Gemara no lo dijo, la Gemara nunca quiso decir que la ani es más temprano, nunca quiso decir algo así. Quiso decir que es igual y luego se quedó en que es más tarde."
 },
 {
-"startMs": 382000,
-"endMs": 419000,
-"speaker": "Speaker 1",
-"text": "Vemos que hasta Tzetakohabim todavía es tiempo de trabajo, así se ve de ese Pasuk. Dice la mara, “Beomer, va a la noche era para nosotros mishman, o sea, era espera para el siguiente día y el día era melajá”. Entonces pregunta la mara “May beome, ¿para qué necesito doble pasuk? Si ya el pasuk de arriba, ya me dice muy claramente que trabajaban hasta este taco joven, dice “Vehitema, mijearvashim chaleilayau”, en verdad se hace de noche desde la sequía, ya no es momento de trabajo, pero ellos,"
+"startMs": 178600,
+"endMs": 188200,
+"text": "Entonces, salió completamente, al parecer, irrelevante lo que dijo Rashi. Y más que la Gemara no dice nada de la vela, sino dice: \"Cuando el ani entra a comer pitó bamelaj\"."
 },
 {
-"startMs": 419000,
-"endMs": 449000,
-"speaker": "Speaker 1",
-"text": "Por ser que están haciendo una mixbada de construir veta miktash. Entonces aumentaban tiempo después y aumentaban tiempo antes. Y entonces vino de mejash come kadme. Entonces no dice la hermana, no. Dice, nosotros ellos mismos sobre sí mismos, que ellos lo que en la noche no trabajaban y en el día trabajaban. Entonces de ahí la hermana trae una regaya, que se llama tiempo que todavía no es tiempo de beso jueja."
+"startMs": 189280,
+"endMs": 196200,
+"text": "Entonces, yo, yo quiero decir un peshat en eso. ¿Eh? Para comer pan con sal no se necesita vela. Muy bien, pero, pero Rashi entonces, ¿por qué dice...?"
 },
 {
-"startMs": 449000,
-"endMs": 455000,
-"speaker": "Speaker 1",
-"text": "Dice."
+"startMs": 196200,
+"endMs": 204060,
+"text": "¿Y qué, qué? Tipo ¿qué? Ya responda la pregunta. Sí. Sí, sí. Te confunde, el Rashi te confunde. Bueno, entonces..."
 },
 {
-"startMs": 455000,
-"endMs": 487000,
-"speaker": "Speaker 1",
-"text": "Entonces la llamara empieza a checar si son el mismo tiempo el aní y el kohen, el aní o la gente que comen en el Shabbat. Y entonces la más que nada de la llamara, dice, “Aní me coge el hachiurao, no, esa es la última, pero la más que nada fue que aní y kohen, Hachiurau hasta ahorita. Anico eres hachiura y arbe shabatot es un poquito después. Comer en el shabat es después. La hambra luego trae otra prayita."
+"startMs": 207740,
+"endMs": 214320,
+"text": "Entonces, pregunta Ani Cohen es el mismo shiur o no es el mismo shiur. Entonces, como que la Gemara se le hace que sí, luego dice que no."
 },
 {
-"startMs": 487000,
-"endMs": 519000,
-"speaker": "Speaker 1",
-"text": "Qué dice la prayita? La hambrayita trae cinco shitot, si no me equivoco. Entonces empieza así. La primera shita es Rapiel Iesde. Cuándo es? Ven ashemazot. Por qué? Mi shada se ki desayon me arbe shabatot. Desde que empieza a hacerse. Desde que ya no puedes hacerme la ja en Shabbat, ¿cuándo es? Ven a Semazot desde la siquía, porque ya recibió Zapata un aspecto de noche, ahí ya no. Entonces yo aquí estamos otra pregunta, no entiendo, Rafael, no puedes decir, ven a Semazot. Hizo lo mismo. Pero para qué me dices, qué me importa, Zapa?"
+"startMs": 215000,
+"endMs": 222560,
+"text": "Luego viene otra sita: \"Bematái metjilin ikol she'amar bavim\", dice: \"Misha'ash bena'adam nijnasin lejol pitán bearbe shabatot\"."
 },
 {
-"startMs": 519000,
-"endMs": 526000,
-"speaker": "Speaker 2",
-"text": "Igual como con Truma, acá también igual usted. Si, pero ¿por qué?"
+"startMs": 222620,
+"endMs": 234800,
+"text": "Cuando la gente entra a comer pan en lel Shabat. Shabat en la noche, que eso es, eh, al parecer, es-- no, es más tarde, es después de Tzet ha-kohavim."
 },
 {
-"startMs": 526000,
-"endMs": 528000,
-"speaker": "Speaker 1",
-"text": "Igual que Truma, ¿qué estás diciendo con eso?"
+"startMs": 237280,
+"endMs": 244000,
+"text": "En la noche de Shabat, de erev, no erev, Shabat, eh,arbe Shabatot. ¿Y por qué es más tarde? Eh?"
 },
 {
-"startMs": 528000,
-"endMs": 533000,
-"speaker": "Speaker 2",
-"text": "Qué Te quiere enseñar de Truma, como vimos atrás, que hay algo en Tulio, en Truma, etcétera."
+"startMs": 244080,
+"endMs": 249380,
+"text": "¿Por qué es más tarde? ¿Qué? Eh... Así se ve la Gemara más adelante. Así se--"
 },
 {
-"startMs": 533000,
-"endMs": 543000,
-"speaker": "Speaker 1",
-"text": "Pero qué necesidad, dime, ven a su massot, no de Shabbat, qué tiene que ver cuando aquí de Shayom, no es porque te enseño a."
+"startMs": 253000,
+"endMs": 260899,
+"text": "Sí, sí, más rápido de lo que sería una cena el jueves. Rabajai, que va a ser más tarde todavía. Sí, ahorita vamos a-- Un día normal va a ser más tarde."
 },
 {
-"startMs": 543000,
-"endMs": 577000,
-"speaker": "Speaker 1",
-"text": "Trabajar, No se ve, no algo mucho, o sea, él lo ve en Shabbat, o sea, en Hall no podrías ver nada, en Hall tú no puedes ver nada, porque en Hall, ven a su massot sigue siendo en cierto aspecto, puedes decir, espérate, esto sigue de día. Y tanto así que hay gente que seguía trabajando, como vemos la gente del Betamigdal. Y dice Ravi Eliez, él dice “No, Shabbat”. O sea, ¿qué viene a decir? Que realmente está aprendiendo Shabbat. Les voy a decir un poquito a dónde voy. Vamos a decir otra cosa más profunda después, pero algo muy pashut."
+"startMs": 261220,
+"endMs": 270380,
+"text": "Eso. Un día normal. Porque un día normal en lo que llegas y preparas y te sientas, entonces te tardas. En Shabat se, se adelanta, ya está listo."
 },
 {
-"startMs": 577000,
-"endMs": 607000,
-"speaker": "Speaker 1",
-"text": "Él estaba buscando cuando es el tiempo de “shoj ve ha” O sea, ¿cuándo la persona deja de hacerme la ha? Cuándo dejas de estar en estado laboral? Y empiezas, dices ya, entonces él aprende de Shabbat, dice, mira. Sabbat, ahí ves que desde Benassot dejaste de trabajar. Entonces a él no le va a molestar, espérate, pero la gente en el veterano todavía no es un hall, pero yo veo que en Shabbat ya puedes considerar que empezó el tiempo de descanso, de no hacerme lajar,"
+"startMs": 270440,
+"endMs": 277380,
+"text": "Entonces, ya, se hace de noche, Tzet ha-kohavim y ya. Eso es un, sí, un tiempo después de Tzet ha-kohavim."
 },
 {
-"startMs": 607000,
-"endMs": 613000,
-"speaker": "Speaker 2",
-"text": "Porque ya no estoy en horario de trabajar, es porque ya está prohibido hacerme la por eso,"
+"startMs": 278020,
+"endMs": 289660,
+"text": "Eso es Rabimeil. Luego, la Gemara aquí nos trae que los jajamim dicen, igual, discuten a Rabimeil, es igual que la Mishná: \"Misha'ash ha-kohanim zakaim lejol betrumatam\"."
 },
 {
-"startMs": 613000,
-"endMs": 633000,
-"speaker": "Speaker 1",
-"text": "Porque significa estar prohibido que necesitas descansar, por este Shabbat. De las dos ideas. Lo voy a explicar, lo voy a explicar, por eso dije que voy a hacer algo más pronto. No, no, pero aquí el punto es, vamos a preguntar más duro. La realidad está mala. Claro, o sea, ¿por qué un día de la semana le va a enseñar a todos los demás? Por qué."
+"startMs": 290360,
+"endMs": 294460,
+"text": "Ahí hay muchos mefarshim que tratan de explicar por qué se usa otra razón diferente."
 },
 {
-"startMs": 633000,
-"endMs": 635000,
-"speaker": "Speaker 2",
-"text": "La hora."
+"startMs": 295720,
+"endMs": 302220,
+"text": "Eh, eh, pero no, no es que hay una diferencia. ¿Por qué no? Está mejor dicho como ahorita. Sí, es el momento más exacto."
 },
 {
-"startMs": 635000,
-"endMs": 666000,
-"speaker": "Speaker 1",
-"text": "Del anís él va a fijar para todos? Entonces lo único que yo veo en Rapiel y Esther es que él dice, espérate, en Chapat, ¿cuándo acaba el tiempo la hora laboral el viernes? En Bena Semazot. Entonces dice, “Ah, si estás buscando el horario más antes de Shohwehá, entonces en Shabbat ya empezó el Shohwehái. Sí, Shabbat ya empezó el Shohwehái. Pero no se entiende. Busca el horario de Shohwehá general. Qué me importa? El de Shabbat? Qué le viste al de Shabbat?"
+"startMs": 302240,
+"endMs": 314680,
+"text": "¿Por qué ellos pueden? O sea, querés decir: no, no, por qué ellos pueden. Desde que ya tiene el potencial de. Podría comer, a menos de que, de que se purificó y entonces, o sea que ahí es que estaba, estaba impuri-- no podía y ahorita ya puede."
 },
 {
-"startMs": 666000,
-"endMs": 704000,
-"speaker": "Speaker 1",
-"text": "Ahora, esa es una. La segunda shita es “Rabi-ushua, mishashokoanime tuharin le dejó el viknumataam” cuando estás en Teorim. Cuando es en la es igual que la Mishna, Zeta Cohabin, luego tenemos Rabimeir. Rabimeir es en el momento que los coanim entran a la Tevila, a la Tevila pueden entrar a las 2:00 de la tarde, pero el último momento que hay para entrar a la Tevila, sí, o sea, ahora pregúntale a mi hermana, cómo puede ser la Raviuda le pregunta, espérate a la Tevila, tú tienes que entrar antes de ven a Shemazot, así le pregunto, porque entonces eso es de día, eso no lo puedes llamar."
+"startMs": 314720,
+"endMs": 321080,
+"text": "Aquí ya te está diciendo que está... Porque normalmente no puede comer Trumá todo el día. Claro, claro, claro, claro. La palabra correcta es esta, no la de la..."
 },
 {
-"startMs": 704000,
-"endMs": 717000,
-"speaker": "Speaker 1",
-"text": "“No, no, para mí ven a Semazotes, ven a Semazotes de Rabiosi, y ven a Semazote de Rabiosi es minutos antes de etcétera Cojavín. Entonces, ¿cuándo los coanimes entraban a hacer Tevilah?"
+"startMs": 321300,
+"endMs": 330940,
+"text": "Sí, es el momento que se hace apto a comer Trumá. También nijnasin es como que meter un poquito un detalle más técnico, que no es el esencial."
 },
 {
-"startMs": 717000,
-"endMs": 719000,
-"speaker": "Speaker 2",
-"text": "Esta Es la llamada de abajo,"
+"startMs": 331340,
+"endMs": 338300,
+"text": "O sea, el, el momento esencial, el Tzet ha-kohavim, que en ese momento el Cohen se hace, se hace, se hace tabor."
 },
 {
-"startMs": 719000,
-"endMs": 753000,
-"speaker": "Speaker 1",
-"text": "No llegan ustedes, hasta abajo la llamada. Entonces, ¿cuándo entraban a hacer Tevilah? Entonces, podían antes del Venus Semazote de Rabiosi. Entonces, ¿es lo que pregunta, espérate, Es todavía de día. Entonces dice, no, Romer dice, no, mi ven a Semazot es el ven a Semazot de Arabiosi, y entonces son, es un instante antes de este taco Javi, y entonces cuando entran a la Tevila, entonces a lo mejor unos 4 minutos antes de del ven a Semazot de Arabiosi, para que de tiempo de entrar y salir antes."
+"startMs": 338440,
+"endMs": 341700,
+"text": "También me llama la Gemara que dijo nijnasin, también hizo un poco de trinchá, porque no me ."
 },
 {
-"startMs": 753000,
-"endMs": 760000,
-"speaker": "Speaker 1",
-"text": "Entonces es Romer. Luego tenemos otra cita que es Rojanin y Homer,"
+"startMs": 343000,
+"endMs": 352440,
+"text": "Sí, nijnasin lejol Trumá. Sí, en el momento que ellos se preparan a comer Trumá. Entonces, y la Gemara dice aquí tiene una rayá,"
 },
 {
-"startMs": 760000,
-"endMs": 775000,
-"speaker": "Speaker 2",
-"text": "Cuando llegó la primera y dijo: Si está la de rabijanina, tendría que decir “Rabijanina, ahí no este jaja” No, porque no es de medio semasón. Si antes después de una semasón. Está buena la pregunta,"
+"startMs": 353700,
+"endMs": 362080,
+"text": "tiene la Gemara aquí una rayá. ¿Cuál es la rayá de la Gemara? Dice: \"El Pasuka está hablando de las personas que construían el Beit Hamikdash en Beit Chenini\"."
 },
 {
-"startMs": 775000,
-"endMs": 804000,
-"speaker": "Speaker 1",
-"text": "Está buena la pregunta, pero eso como que no es un horario definido, ¿me explico? O sea, cuando la hembra quiere, dice “el anís, si es antes, entonces es como rapidín dice “Rabmeir” es un horario completamente, no dependiendo del sol, sino técnico completamente. Entonces, como que no tiene ninguna, o sea, sí, ¿sabes a qué hora se mete el anís? El anís se mete a cenar a la hora que los coani, no, o sea, tipo qué le dieron a ese horario."
+"startMs": 363664,
+"endMs": 374724,
+"text": "Apenas regresaron a Israel en Beit Sheni y empezaron a construir el Bet Hamikdash. Entonces dice el pasuk: \"Y anajnu osim bemelajá bejtziyan machzikim baremajim me'alot hashajar ad tzet hakojavim\"."
 },
 {
-"startMs": 804000,
-"endMs": 807000,
-"speaker": "Speaker 3",
-"text": "Entonces, Antes de echarle."
+"startMs": 375044,
+"endMs": 381984,
+"text": "Entonces hacíamos la melajá, trabajar el Bet Hamikdash, construir el Bet Hamikdash, desde alot hashajar hasta tzet hakojavim."
 },
 {
-"startMs": 807000,
-"endMs": 840000,
-"speaker": "Speaker 1",
-"text": "Cojabi, porque 1 minuto, 1 segundo antes ven a cenar, así que dura 1 segundo y entonces unos minutos antes es cuando entraban a la Tevila. Luego tenemos otra cita que es Ravajanina. Ravajanina es la misma que dijo arriba, que era el horario del aní que entra, que entra a comer pan. Y por último tenemos la cita de Ravajay y hay quien dice que es Ravaja y es desde la hora que todo el mundo entra a comer."
+"startMs": 382464,
+"endMs": 389984,
+"text": "Vemos que todo hasta tzet hakojavim todavía es tiempo de trabajo. Así se ve de ese pasuk."
 },
 {
-"startMs": 840000,
-"endMs": 877000,
-"speaker": "Speaker 1",
-"text": "Sí, entonces esas son todas las citat que tenemos acá. Pregúntale a la Mara. Entonces, si Ani y Cohen, antes habíamos dicho que es el mismo horario, entonces quiere decir que Rabjanina y Rabi Ushua dicen lo mismo. Entonces dice, la fuerza Ani y Cohen es otro horario, pregunta, ¿cuál es más tarde que cuál? Dice, Mistabeh, que el Ani es más tarde. Por qué? Porque si fuera antes, entonces el Ani sería igual al horario de Rabí Eliezer, y entonces ya que no queremos que nos choque con Rabbi Eliezer, porque no, si no es lo mismo Rabjanina, Rabbi Eliezer, entonces quiere decir que el Ani."
+"startMs": 390344,
+"endMs": 401964,
+"text": "Dice la Gemara: \"Beomer veaiyu lanu halaila mishmar, veaiyu melajá\". Y la noche era para nosotros mishmar, o sea, era espera para el siguiente día, y el día era melajá."
 },
 {
-"startMs": 877000,
-"endMs": 883000,
-"speaker": "Speaker 1",
-"text": "Es unos momentos después, ya estando aquí el rash de arriba, ya nos hace un cortocircuito total."
+"startMs": 402684,
+"endMs": 410504,
+"text": "Entonces, pregunta la Gemara: \"Ma ibeomer\", ¿pa qué necesito doble pasuk? Si ya el pasuk de arriba ya me dice muy claramente que trabajaban hasta tzet hakojavim."
 },
 {
-"startMs": 883000,
-"endMs": 893000,
-"speaker": "Speaker 3",
-"text": "Entonces tienes tres horarios de Pne Adam y Ani. Tienes Ani, Ne Adam en Hermet Sabatot y Pne Adam en Hall."
+"startMs": 410824,
+"endMs": 418284,
+"text": "Dice: \"Veji teiman bejegiar bashim shallailaijahú\". En verdad se hace de noche desde la shekiah, ya no es momento de trabajo."
 },
 {
-"startMs": 893000,
-"endMs": 898000,
-"speaker": "Speaker 1",
-"text": "Sí, entonces tenemos muchos horarios. Vamos a ver cómo van los horarios en orden."
+"startMs": 418664,
+"endMs": 425844,
+"text": "Pero ellos, por ser que están haciendo una mitzvá de construir el Bet Hamikdash, entonces aumentaban tiempo después y aumentaban tiempo antes."
 },
 {
-"startMs": 898000,
-"endMs": 913000,
-"speaker": "Speaker 3",
-"text": "No, aparte de koani, porque arriba, arriba dijo. Koani y Mai van los horarios en orden. Que Ani y Pne Adam en Erup Shabat. No son lo mismo. No, no son lo mismo. Entonces tienes Z Cojavin que es Cohen, luego tienes ahí un."
+"startMs": 426224,
+"endMs": 438784,
+"text": "Y entonces vino de mejasho mekadme, tashemá veaiyu lanu halaila-- entonces, no dice la Gemara no, dice nosotros, ellos mismos dijeron sobre sí mismos, que ellos lo que se-- en la noche no trabajaban y en el día trabajaban."
 },
 {
-"startMs": 913000,
-"endMs": 925000,
-"speaker": "Speaker 1",
-"text": "Pero Empieza antes, antes, antes. Tienes antes. A partir del Z Cojavin, sí. Cómo sería el horario? Z Cojavin, Ani. No, Nadan. Qué es Nadan?"
+"startMs": 439384,
+"endMs": 447124,
+"text": "Entonces, de ahí la Gemara trae una regalla, que tze-- hasta tzet hakojavim se llama tiempo que todavía no es tiempo de beshovjá."
 },
 {
-"startMs": 925000,
-"endMs": 928000,
-"speaker": "Speaker 1",
-"text": "No, eso es después del Ani."
+"startMs": 449084,
+"endMs": 449664,
+"text": "Dice..."
 },
 {
-"startMs": 928000,
-"endMs": 932000,
-"speaker": "Speaker 3",
-"text": "Entonces lo mismo que Ani de Votahol."
+"startMs": 455664,
+"endMs": 458344,
+"text": "Entonces, la, la Gemara empieza a, a, a, a, a,"
 },
 {
-"startMs": 932000,
-"endMs": 960000,
-"speaker": "Speaker 1",
-"text": "No, No, no, no. Sí, se parece. Puede ser que la hermana llegó otra vez a la abamina, ahorita la hermana como que antes sí tenía una abamina, que, si aní y cohe no es igual, entonces aní y gente en el ebshabbat sí es igual. Entonces puede ser que regresamos otra vez de que hay tzetakohabim, un poco después es al aní y en ese mismo momento también es la gente que come en el Shabbat, que es un poquito después de tzetakohabim y después ya tenemos cuando la gente come en hall,"
+"startMs": 459664,
+"endMs": 466164,
+"text": "a, a chequear si son el mismo tiempo el ani y el kohen, el ani o la gente que come en erev Shabat."
 },
 {
-"startMs": 960000,
-"endMs": 964000,
-"speaker": "Speaker 2",
-"text": "Para que me creas más orales, igual ya no hay nada."
+"startMs": 466564,
+"endMs": 467964,
+"text": "Y entonces la mascaná de la Gemara"
 },
 {
-"startMs": 964000,
-"endMs": 970000,
-"speaker": "Speaker 1",
-"text": "No, porque algo le vieron al anil o algo le vieron a la gente comiendo, es."
+"startMs": 469364,
+"endMs": 477464,
+"text": "dice: \"Veani vekohen jachi uraú\", ur minun mematai-- eh, no, esa ya la, la última, pero el, el, la mascaná fue que ani y kohen"
 },
 {
-"startMs": 970000,
-"endMs": 977000,
-"speaker": "Speaker 2",
-"text": "Lo que yo quiero entender."
+"startMs": 478724,
+"endMs": 484844,
+"text": "jachi uraú hasta ahorita. Ani y kohen es jachi ura y harbé Shabatot es un poquito después. Comer en erev Shabat es después."
 },
 {
-"startMs": 977000,
-"endMs": 1018000,
-"speaker": "Speaker 1",
-"text": "Claro, Entonces aquí se va algo impresionante. Sí, aquí se va algo muy interesante que se ve que estos horarios no son un siman al horario real. Aquí dijeron ellos que la emarada dice “Simán Nadabar Zeta Cojobim”. O sea, cuando dice el coherente dice “Ah, ¿quieres un simán para saber cuándo los koanimes entraban a comer? Ah, Zeta Cojobim es el simán”. Entonces quiere decir que lo que fija el horario no es Zeta Cojobim, sino el Zeta Cojobim nomás es un simán para saber cuándo los koanimes entraban, pero quiere decir que realmente el horario de los koanimes que comían Teuma, eso es lo que fija para todos cuando es de su acueja."
+"startMs": 485164,
+"endMs": 491984,
+"text": "La Gemara luego trae otra praita. ¿Qué dice la praita? La Gemara ahí te trae cinco shitot, si no me equivoco. Entonces, empieza así."
 },
 {
-"startMs": 1018000,
-"endMs": 1028000,
-"speaker": "Speaker 1",
-"text": "Y por ahorita dices, espérate, ya es de Sojoga o no es de Sojoga. Ah, espérate, no sé, los coanimes ya están comiendo entre humanos. Entonces, de eso depende, no de Zeta Cojabi. Si mal le daba arte."
+"startMs": 492043,
+"endMs": 498844,
+"text": "La primera shitá es Rabi Eliezer. ¿Cuándo es? Be bain hashemasot. ¿Por qué? Misá sheki des haiom bearbé Shabatot."
 },
 {
-"startMs": 1028000,
-"endMs": 1031000,
-"speaker": "Speaker 2",
-"text": "Porque Los coanimes como sabían cuando ya podían."
+"startMs": 499464,
+"endMs": 509604,
+"text": "Desde, desde que empieza a hacerse-- desde que ya no puedes hacer melajá en Shabat, ¿cuándo es? Be bain hashemasot, desde la shekiah, porque ya recibió Shabat un aspecto de noche, ahí ya no."
 },
 {
-"startMs": 1031000,
-"endMs": 1037000,
-"speaker": "Speaker 1",
-"text": "Ellos saben de Zeta Cojabi. Sí, pero tú no dependes de Zeta Cojabi. Tú dependes de los coanimes."
+"startMs": 510044,
+"endMs": 517063,
+"text": "Entonces, yo aquí instamo otra pregunta. No entiendo, Rabi Eliezer, ¿no puedes decir be bain hashemasot? Hizo lo mismo. Pero ¿pa qué me--?"
 },
 {
-"startMs": 1037000,
-"endMs": 1040000,
-"speaker": "Speaker 2",
-"text": "Toda parte de Zeta Cojabi, los coanimes en ese horario dicen ya puedo."
+"startMs": 517224,
+"endMs": 524744,
+"text": "¿Qué me importa Shabat? ¿Qué, qué, qué te quiere enseñar con...? Igual como con Trumá, acá también igual es Shabat. Es lo mismo, te quiere enseñar desde qué hora ya no puedes hacer melajá."
 },
 {
-"startMs": 1040000,
-"endMs": 1076000,
-"speaker": "Speaker 1",
-"text": "No, pero ellos por su alhajá de Julio. Sí, pero no, y tú por ellos, ¿me explico? Es algo bien raro. Cuál es la prueba? Cuál es la prueba que realmente depende de ellos? Existe un horario que no tiene ningún sentido en el horario de la Torá, que se llama el horario del Aní. No, es lo que tú estás tratando de comprobar. Lo De la gente. Eso no es un horario en el sol, es un tiempo que ahorita el hecho que el aní está comiendo, entonces, ah, ya, eso juega, porque el aní está comiendo, así parece, o sea, y así es real."
+"startMs": 524784,
+"endMs": 532964,
+"text": "Sí, pero ¿por qué? Igual que Trumá, ¿qué tiene que ver? ¿Por qué? ¿Qué está diciendo con eso? ¿Qué, qué? ¿Qué te quiere enseñar de Trumá? Como vimos atrás, que hay algo en Juliom, en Trumá, etcétera."
 },
 {
-"startMs": 1076000,
-"endMs": 1115000,
-"speaker": "Speaker 1",
-"text": "Y entonces por eso yo digo también cuando Rabi Eliezer prefiere decir, no decir “Ben a Semazot” porque para él “Ben a Semazot” no es horario, para Rabi Eliezer no. Si no existiría Shabat, entonces “Ben a Semazot” no sería el horario de Rabi Eliezer, pero ya que para Rabi Eliezer existe un día a la semana que se llama Sabbat, que ya deja de hacerme la jaipa, ese día empezó “Besho jueja” antes, entonces quiere decir que cuando “Besho jueja” en “Ben a Semazot” ¿Me explico? Entonces quiere decir que cada uno está diciendo, La cita que está diciendo lo está diciendo real, no es que está diciendo tipo que realmente se refiere al horario del reloj o del sol, y te dice un simán, es totalmente al revés."
+"startMs": 533284,
+"endMs": 540744,
+"text": "Pero ¿qué, qué necesita? Dime, ¿en be bain hashemasot? No, no, no, de Shabat. ¿Qué tiene que ver? Cuando ki des haiom, no, no es porque te enseñe otra halajá."
 },
 {
-"startMs": 1115000,
-"endMs": 1147000,
-"speaker": "Speaker 1",
-"text": "Tú necesitas copiarle al aní, copiarle al Cohen, copiarle a lo que haces en Shabat, copiarle a la mayoría de la gente, y los horarios del reloj son simani, a eso, y en algunos ni siquiera hay horario de reloj. Por ejemplo, el horario del aní son minutos después de Cojobim, el horario de la gente que entra a comer. En hall es todavía muchos después de esto, entonces la pregunta es aquí, qué sentido nos hacen todas estas chitot, o sea, si fueran tan ahí, qué hubieran, cuál cuál hubieran escogido?"
+"startMs": 540844,
+"endMs": 547084,
+"text": "Así como en la Mishná, enseñó otra halajá de a qué hora los koanim pueden- No, no, se ve. No, no, no. Algo mucho-"
 },
 {
-"startMs": 1147000,
-"endMs": 1153000,
-"speaker": "Speaker 1",
-"text": "O sea, tipo, me explico, tipo, por qué se te ocurre decir, espérate, no, yo opino aní, o sea, ¿de dónde se te viene?"
+"startMs": 548524,
+"endMs": 561444,
+"text": "Que entra algo nuevo. De, o sea, el, el lo ve en Shabat. O sea, en Jol no podrías ver nada. En Jol tú no puedes ver nada, porque en Jol be bain hashemasot sigue siendo, en cierto aspecto, puedes decir: \"Espérate, esto sigue de día\"."
 },
 {
-"startMs": 1153000,
-"endMs": 1167000,
-"speaker": "Speaker 3",
-"text": "Hace rato estaba preguntando, según la ciudad que es cuando entra a comer el aní, es desde que entra a comer hasta que termina de comer. Entonces el Ani, el Ani, tiene que decir que se lo pregunto a todos."
+"startMs": 562004,
+"endMs": 568264,
+"text": "Y tanto así que hay gente que seguía trabajando, como vemos la gente del Bet Hamikdash. Y dice Rabi Eliezer, dice: \"No, Shabat\"."
 },
 {
-"startMs": 1167000,
-"endMs": 1170000,
-"speaker": "Speaker 1",
-"text": "Entonces. Entonces lo pregunto."
+"startMs": 568464,
+"endMs": 576744,
+"text": "O sea, ¿qué viene a decir? Que realmente está aprendiendo Shabat. O sea, les voy a decir un poquito a dónde voy. Vamos a decir otra cosa más, más profunda después, pero algo muy peshut."
 },
 {
-"startMs": 1170000,
-"endMs": 1189000,
-"speaker": "Speaker 2",
-"text": "Pero Él le pregunté a la cámara antes. Amar More, mi chacha, cuando le tu meta. Tipo, More no entendió. Amar More no entendió que estamos hablando, mamá. No, él preguntó. Porque él sí, él preguntó. Está buena la pregunta,"
+"startMs": 577284,
+"endMs": 587124,
+"text": "Él estaba buscando cuándo es el tiempo de beshovjá. O sea, cuándo la persona deja de hacer melajá, cuándo dejas de, de estar en estado laboral y empieza..."
 },
 {
-"startMs": 1189000,
-"endMs": 1191000,
-"speaker": "Speaker 1",
-"text": "Estoy con la pregunta."
+"startMs": 587384,
+"endMs": 596024,
+"text": "Dices: \"Ya\". Entonces, él aprende de Shabat. Dice: \"Mira, Ssshabat, ahí ves que desde be bain hashemasot dejaste de trabajar\"."
 },
 {
-"startMs": 1191000,
-"endMs": 1194000,
-"speaker": "Speaker 2",
-"text": "O sea, la que me la preguntó."
+"startMs": 596584,
+"endMs": 607624,
+"text": "Entonces, a él no le va a molestar: \"Espérate, pero la gente en el Bet Ha--\". Está bien, eso era en Jol, pero yo veo que en Shabat ya puedes considerar que empezó el tiempo de descanso, de no hacer melajá, ¿eh?"
 },
 {
-"startMs": 1194000,
-"endMs": 1220000,
-"speaker": "Speaker 1",
-"text": "No, ¿por qué? Sí, estoy de acuerdo con la pregunta, pero quiere decir que sí se relaciona con el por qué de los coanim, con el zeta de los coanim, se relaciona con el tema que se llama el fullion, no me acuerdo si lo dejan en una clase de aquí. Sí, no me acuerdo si lo dije en el fullion, ¿qué hora es? Y qué hora es mi hija? Y 35 y medio? No, lo bajaron, lo bajaron. Bueno, pues empezamos."
+"startMs": 607924,
+"endMs": 614984,
+"text": "¿Por qué? Porque el Shabat no es porque, no es porque ya no estoy en horario de trabajar, es porque ya está prohibido hacer melajot. Por eso, pero ¿qué significa estar prohibido?"
 },
 {
-"startMs": 1220000,
-"endMs": 1226000,
-"speaker": "Speaker 3",
-"text": "No Lo que nos quiere cada que era un Siman. No, no un tiempo sino."
+"startMs": 615304,
+"endMs": 622644,
+"text": "Que necesitas descansar. Por eso es Shabat. Lo que quieres hacer es empatar las dos ideas. Sí, ya sé, pero- Luego explica, luego explica. Por eso dije que voy a decir algo más profundo."
 },
 {
-"startMs": 1226000,
-"endMs": 1233000,
-"speaker": "Speaker 1",
-"text": "No, porque quiere ser un Siman. Por qué? Por qué el Ani? Por qué el Ani va a fijar? Esta es la orden."
+"startMs": 623044,
+"endMs": 632504,
+"text": "No, no, pero aquí el punto es: vamos a preguntar más duro. La regalla está mala. O sea, si no quieres descansar un Shabat, no es el Shabat. Claro. O sea, ¿por qué un día de la semana le va a enseñar a todos los demás?"
 },
 {
-"startMs": 1233000,
-"endMs": 1243000,
-"speaker": "Speaker 2",
-"text": "A ver, una pregunta. Eso va a definir todo. Talú y Bametzihute, cuando la gente se acuesta, el Criacho. Ahora, si la gente después, como ya hay luz eléctrica, se empezará a acostar después."
+"startMs": 632684,
+"endMs": 646684,
+"text": "O ¿por qué no enseña el ani también, el ani? ¿Por qué copia a los demás? ¿Por qué el ani? ¿Por qué la hora del ani él va a fijar para todos? Entonces, lo único que yo veo en Rabi Eliezer es que él dice: \"Espérate, en Shabat yo-- ¿cuándo acaba el tiempo, la, la hora laboral el viernes?"
 },
 {
-"startMs": 1243000,
-"endMs": 1270000,
-"speaker": "Speaker 1",
-"text": "Muy bien, muy bien, ahí está. Claro que no esta cojabi. Nada más que no puede ser que cada quien tiene su propio personal."
+"startMs": 647844,
+"endMs": 657664,
+"text": "En be bain hashemasot\". Entonces, dice: \"Ah, si estás buscando el horario más an-antes de beshovjá, entonces en Shabat ya empezó el beshovjái, ¿sí?"
 },
 {
-"startMs": 1270000,
-"endMs": 1300000,
-"speaker": "Speaker 1",
-"text": "Eso es, esa es la cita, la última cita en la semana, cuando la mayoría de la gente, según la sociedad, hoy en día, si diríamos como esas, sí sería como a las 9:00, no sé a qué hora la gente, según esa cita, realmente cambiaría hoy en día. Es la única ciudad que hoy en día cambiaría. No, también el Aní. No, no, no, ahorita vamos a explicar por qué el Aní no. Porque no, hoy no hay Aní."
+"startMs": 657784,
+"endMs": 665044,
+"text": "Shabat ya empezó el beshovjái\". Pero, pero no se entiende. Busca el horario de beshovjá general. ¿Qué, qué me importa el de Shabat?"
 },
 {
-"startMs": 1300000,
-"endMs": 1304000,
-"speaker": "Speaker 2",
-"text": "Es El último llegar porque va a llegar a transporte público."
+"startMs": 665084,
+"endMs": 674984,
+"text": "¿Qué le viste al de Shabat? Ora, esa es una. La segunda shitá es Rabi Yehoshua: \"Misá shehakohanim le tujarim lejol bikdushatam\", cuando se hacen tehorim."
 },
 {
-"startMs": 1304000,
-"endMs": 1306000,
-"speaker": "Speaker 1",
-"text": "No, no, no."
+"startMs": 675484,
+"endMs": 681744,
+"text": "¿Cuándo? Es en la, es en, en, es igual que la Mishná, tzet, tzet hakojavim. Luego tenemos Rabi Meir."
 },
 {
-"startMs": 1306000,
-"endMs": 1314000,
-"speaker": "Speaker 2",
-"text": "Ya no hay nadie a quien pedirles de acá. Ya no hay nadie, ya de fueron todos, ya me tengo que ir yo. Yo soy después."
+"startMs": 682264,
+"endMs": 692004,
+"text": "Rabi Meir es en el momento que los kohanim entran a la tevilá. A la tevilá pueden entrar a las dos de la tarde, pero el último momento que hay para entrar a la tevilá."
 },
 {
-"startMs": 1314000,
-"endMs": 1349000,
-"speaker": "Speaker 1",
-"text": "Vamos a ver, vamos a ver qué hay en el Aní, qué hay en cada una de la situación. La pregunta es así, ¿Quién es el esencial? Sí, quién es el quién? Quién es el que fija el besojvejá más real y quién es el raro? Quién es el que esa es la cita de la baja? Sí, quién es el ¿Quién es el que le está cambiando? Entonces la cita más lógica, vamos a llamarla, es la cita de la baja. O sea, ¿quién es el raro? El que hoy en día vamos a agarrarle, el cuate está cenando a las 7:00 o el que cena a las."
+"startMs": 692024,
+"endMs": 699544,
+"text": "¿Sí? O sea, ora, pregunta la Gemara cómo puede ser. La Rabiuda le pregunta: \"Espérate, a la tevilá tú tienes que entrar antes de be bain hashemasot\"."
 },
 {
-"startMs": 1349000,
-"endMs": 1390000,
-"speaker": "Speaker 1",
-"text": "9:30 o el que cena a las 12:00? Quién es el raro? Entonces pues fíjate en la mayoría, fíjate en la mayoría que hace y el que no lo hace así es el raro. Entonces quiere decir tú ahorita no es real que es tu besojoveja, ahorita que te vas a cenar a las 7:00. Por qué? Porque tú eres muy tempranero, sí, y el otro que se va a cenar a las 11:30, no, tú eres raro, tú fuiste muy tarde. Entonces, ¿qué es lo que fija? Aquí es la pregunta de la hermana. Que necesitamos ahorita fijar el besochuejá general de todos y por eso necesitamos a alguien que digas, este es el ejemplar, el modelo, y entonces todos los que no son idéntico a este, entonces son los raros."
+"startMs": 700304,
+"endMs": 712704,
+"text": "Así le pregunta, porque entonces eso es de día, eso no lo puedes llamar shékia. Dice: \"No, no, no, no, para mí be bain hashemasot es be bain hashemasot de Rabiosí, y be bain hashemasot de Rabiosí es minutos antes de tzet hakojavim\"."
 },
 {
-"startMs": 1390000,
-"endMs": 1425000,
-"speaker": "Speaker 1",
-"text": "Entonces tú ahorita no digas, no, ahorita ves mi besochuejá, espérate, ayer, entonces ¿qué me vas a cambiar? Que ayer tu shochuejá es así y mañana es así. No, ayer acabaste más temprano, entonces hiciste besochuejá más temprano, otro día, Más tarde, entonces, ¿cuál es lo normal? Rob Naddam, esa es la ciudad más lógica y en la semana la última. Sí, entonces, basado en esto, piensen qué tiene de especial el ani. Quiere decir que el ani en cierto aspecto, ahorita vemos los koanin, vemos en cierto aspecto, el ani es el que demuestra el más, el beso hueja más puro,"
+"startMs": 713104,
+"endMs": 720064,
+"text": "Entonces, ¿cuándo los kohanim entraban a hacer tevilá? Esa es la Gemara abajo, no llegaron ustedes."
 },
 {
-"startMs": 1425000,
-"endMs": 1429000,
-"speaker": "Speaker 2",
-"text": "No, el rock de la gente era pobre, el original."
+"startMs": 720384,
+"endMs": 728564,
+"text": "Hasta abajo la Gemara. Entonces, ¿cuándo entraban a hacer tevilá? Entonces, podían antes del be bain hashemasot de Rabiosí."
 },
 {
-"startMs": 1429000,
-"endMs": 1459000,
-"speaker": "Speaker 1",
-"text": "No, No, no, el robo de la gentecito, el robo de la gente es rico, va a cambiar para todos, ¿me explico? Y entonces el raro va a ser pobre y el que se tarda muchísimo va a ser también raro, ¿me explico? Qué tiene de especial? No, no dijeron, si no hubieran dicho Rob Nadan, dijeron “ani”, aunque sea humo. Entonces, ¿por qué el ani? Por qué no decimos “pérate”, el ani es el raro, la mayoría de la gente no son anim, entonces por qué no decimos que el ani es el raro, por qué el ani es el como que agarra, Besoja más puro."
+"startMs": 728744,
+"endMs": 735240,
+"text": "Entonces- Rabiosí va, va los kohanim veot yom en Tohim Sí, es lo que pregunta. Espérate, es, es todavía de día."
 },
 {
-"startMs": 1459000,
-"endMs": 1494000,
-"speaker": "Speaker 1",
-"text": "Quién no sabe decir? Eso se llama no tiene vela. Él no puede jalar parte del día a su noche. Este es el tema de Lani. Cuando no tiene vela significa que no tiene cómo hacer su noche día. Su noche es la noche más real y ni siquiera tiene para comprar hummus para, Echarle al pan y entonces tardarse. Entonces no es que llega a la casa y dice, bueno, echar las risas, no hay luz, vamos a esto y lo otro a jugar con los niños, no hay nada."
+"startMs": 735420,
+"endMs": 740440,
+"text": "Entonces dice: \"No, Ramair dice: no, mi ven a Shemashot es el ven a Shemashot de Rabió, ¿sí? Y entonces son--"
 },
 {
-"startMs": 1494000,
-"endMs": 1527000,
-"speaker": "Speaker 1",
-"text": "Entonces para él, él es el que no tiene ninguna, si tú quitas ningún, es el más natural, más yo que hay, es la diferencia entre Ani con Aleph y Ani con Ain es la Aleph y la Ain. Si tú quieres el yo quitándole todas las. Todas las cosas que se te agregan a tu yo, me explico, se te agregan muchas cosas, ya sea tu ropa, tu comida, tu dinero, todo esto, todo lo otro, tu casa, le agregas muchas cosas a tu y yo. Quién es el yo más puro yo?"
+"startMs": 741780,
+"endMs": 753280,
+"text": "Es, es un instante antes de Tzet HaKochavim. Y entonces, ¿cuándo entran a la Tevilá? Entonces, a lo mejor unos cuatro minutos antes de, de, del ven a Shemashot de Rabió, para que dé tiempo de entrar y salir antes."
 },
 {
-"startMs": 1527000,
-"endMs": 1567000,
-"speaker": "Speaker 1",
-"text": "Es el aní, aníconain, es como que el yo más amoklein demuestra omek, es la esencia del yo antes de que le metas más cosas, es el aní, entonces el horario del aní es tú, ¿sabes por qué te estás tardando? Mira, porque primero que nada tienes vela y si tienes vela, tu noche la haces día. Si tu noche tú la haces día, entonces tu jueja se está tardando más, pero no porque su jueja real se está tardando más. Fíjate en el aní y entonces tú tienes que agarrar el aní para ver, espérate, ahorita me estoy atrasando, no porque yo me estoy atrasando, porque tengo dinero para comprarme una vela y por eso mi día es un poquito más largo."
+"startMs": 753900,
+"endMs": 760980,
+"text": "Entonces, es Ramair. Luego tenemos otra shitá que es, eh, Rav Janina Omer. Queda que sí, porque es así."
 },
 {
-"startMs": 1567000,
-"endMs": 1581000,
-"speaker": "Speaker 1",
-"text": "Me explican, entonces, ah si no dice el tema de la vela. Si con esto estamos para decir que él llega más temprano, no dice que el tema de la vela para decir,"
+"startMs": 761320,
+"endMs": 770580,
+"text": "Cuando llegó la Gemara y dijo: \"Nistá, de Rav Janina Har, de Yamarté, de Aminustán, Ravi Janina\", tendría que decir: \"Ravi Janina, ainú, es Tzet HaKochavim\"."
 },
 {
-"startMs": 1581000,
-"endMs": 1590000,
-"speaker": "Speaker 2",
-"text": "Si te diera raza y te contrata de Abogados."
+"startMs": 771260,
+"endMs": 778900,
+"text": "No es de ven a Shemashot. Si, si es después de ven a Shemashot, no- Está buena la pregunta. Sí, está buena la pregunta, pero eso como que no es un horario definido, ¿me explico?"
 },
 {
-"startMs": 1590000,
-"endMs": 1622000,
-"speaker": "Speaker 1",
-"text": "100% Claro, y por qué, por qué justamente está buenísimo lo que está diciendo la citada que dice Ani, te dice el Ani. Es el comienzo es al Ani y el fin es al Ani, de principio a fin. Entonces, ¿cuándo es el fin? Ya como la Mishná, sí, el que dice Ani te dice no, el principio del fin, porque el que está buscando el Ani en esencia, cuando el Ani se va a dormir, entonces te dice, espérate, tú nada más tienes el tiempo del Ani, ya cuando te pasaste, ¿sabes por qué te pasaste?"
+"startMs": 779280,
+"endMs": 790780,
+"text": "O sea, cuando la Gemara quiere, dice: \"El Ani, si es antes, entonces es como Raviel y es de\". Ramair es un horario cul-- completamente no dependiendo del sol, sino técnico completamente."
 },
 {
-"startMs": 1622000,
-"endMs": 1630000,
-"speaker": "Speaker 1",
-"text": "Porque tienes vela, porque tenías para ponerle al pan y por eso la embara dice, Pat Mamela, no."
+"startMs": 791120,
+"endMs": 799420,
+"text": "Entonces, como que no, no tiene ninguna... O sea, sí: \"Ah, ¿sabes a qué hora se mete el Ani? El Ani se mete a cenar a la hora que los Kohanim\"."
 },
 {
-"startMs": 1630000,
-"endMs": 1648000,
-"speaker": "Speaker 2",
-"text": "No es más temprano que la gente. O sea, es más temprano que la gente, pero más tarde. Pero más tarde que se te coja bien. Porque lo que llega a su casa y se sienta comiendo solo que ya, pero es más temprano que la gente, pero más tarde que se te coja bien."
+"startMs": 799560,
+"endMs": 806300,
+"text": "No, o sea, tipo, ¿qué? ¿Q-qué le vieron a ese horario? Entonces- ¿Qué horario es la Tevilá, entonces? ¿Antes de ven a Shemashot o antes de...?"
 },
 {
-"startMs": 1648000,
-"endMs": 1659000,
-"speaker": "Speaker 1",
-"text": "Claro, por eso dicen que el anís come Pat Mamela, porque si ya tiene más que pa echarle al pan. Entonces, otra vez, ya es alguien que se tarda más, se tarda en preparar la cena. No, ya tiene velas,"
+"startMs": 806620,
+"endMs": 813360,
+"text": "Antes de Tzet HaKochavim. Antes de Tzet HaKochavim, porque un minu-- un segundo antes, ven a Shemashot de Rabió, ¿sí? Que dura un segundo."
 },
 {
-"startMs": 1659000,
-"endMs": 1661000,
-"speaker": "Speaker 2",
-"text": "Si tiene para frijoles, tiene para vela."
+"startMs": 814020,
+"endMs": 821920,
+"text": "Y entonces, unos minutos antes es, eh, es, es, es, es cuando entraban a la Tevilá. Luego tenemos otra shitá, que es Rav Janina."
 },
 {
-"startMs": 1661000,
-"endMs": 1703000,
-"speaker": "Speaker 1",
-"text": "Claro, sí, o sea lo que sea. Claro, ya no es el anís puro, que es que su noche realmente es noche, que tiene sed. Quería explicar toda la chistosa, ¿eh? Los koanin. Los kuanim que entran a comer teruma, ¿qué me pueden decir acá? Pensándoles de la misma escafa, estamos buscando al original, estamos buscando al esencial, entonces Alani en cierto aspecto es el esencial porque es el que no tiene nada extra y entonces él vive el día y la noche como de verdad son, que no tiene como que meterle noche, día a noche."
+"startMs": 822320,
+"endMs": 828460,
+"text": "Rav Janina es la misma que dijo arriba, que era el, la, el horario del Ani, que entra, que entra a comer pan."
 },
 {
-"startMs": 1703000,
-"endMs": 1710000,
-"speaker": "Speaker 2",
-"text": "El Kuen también se mete porque ya es de noche, no porque él quiere comer turma ahorita, tengo que ir."
+"startMs": 829280,
+"endMs": 838480,
+"text": "Y por último tenemos la shitá de Rav Hai. Y hay quien dice que es Rav Hai, y es desde la hora que todo el mundo entra a,"
 },
 {
-"startMs": 1710000,
-"endMs": 1742000,
-"speaker": "Speaker 1",
-"text": "El Kuen se mete porque ya es de noche, Y el Cohen, fíjense, es un horario que es el horario del sol. Sí, mamá, Chetako Javi, el Cohen es el que vive su vida, todo su alrededor es el beta amig dash, entonces el día y la noche no lo fija él según sus necesidades, sino según el trabajo que pone acá en el beta amig dash. Entonces mira, el señor trabaja que vende no sé qué y el otro ara y el otro no sé qué está bien, este ¿sabes por qué se tarda?"
+"startMs": 840200,
+"endMs": 855780,
+"text": "a comer, ¿sí? Entonces, esas son todas las shitot, eh, que tenemos acá. Pregunta la Gemara: entonces, si Ani y Cohen antes habíamos dicho que es el mismo horario, entonces quiere decir que Rav Janina y Rav Yehoshua dicen lo mismo."
 },
 {
-"startMs": 1742000,
-"endMs": 1772000,
-"speaker": "Speaker 1",
-"text": "Porque pues está en el campo y el otro sabes por qué llega temprano, porque cambia monedas y la gente no cambia monedas de noche y el otro porque esto es cada uno, perdón, cada uno por tener otro tipo de trabajo, entonces cambia sus horarios. Dónde podemos ver el horario como que de la persona más como Ashem lo creó así idéntico? Ese es el horario, el COEN, el COEN es el que sus horarios son los horarios del beta amig dash, el trabajo es el trabajo del beta amig dash."
+"startMs": 856920,
+"endMs": 864820,
+"text": "Entonces, dice: entre la fuerza de Ani y Cohen es otro horario. Pregunta: ¿cuál es más tarde que cuál? Dice: \"Mistaber\" que el Ani es más tarde."
 },
 {
-"startMs": 1772000,
-"endMs": 1819000,
-"speaker": "Speaker 1",
-"text": "Digo, lo quería explicar más a fondo que el Kohen es como Adam Marichon antes del “het”. Adam Marichon después del “het” cambió todo su orden del día, “ves data peja to jalejem” y entonces todo tu día, noche, etcétera, cambió por Adam Marichon después del “het”. En los koanim son los que se quedaron auténticos, así dice el rama, así se ve de la zona del rama. En muchos lugares, ellos como que se quedaron auténticos en como era Dama Richón fue de Majet, trabajan en el Ganeden, Leoudable, Shambrada, trabajan, sí, trabajan con Hashem, están, llevan los horarios de Hashem, entonces por eso los koanim en cierto aspecto, el Aní tiene un aspecto de que para las personas normales, si les quitas todas las capas."
+"startMs": 864840,
+"endMs": 879140,
+"text": "¿Por qué? Porque si fuera antes, entonces el Ani sería igual al horario de Rav Hiel y Ezzer. Y entonces, ya que no queremos que nos choque con Rav Hiel y Ezzer, porque no, si no es lo mismo Rav Janina, Rav Hiel y Ezzer, entonces quiere decir que el Ani es unos momentos después."
 },
 {
-"startMs": 1819000,
-"endMs": 1843000,
-"speaker": "Speaker 1",
-"text": "Exteriores, el ANI es el que demuestra más y el COHEN es el que es la persona más real porque dedica toda su vida a lo que Ashem creó exactamente a la persona para eso. Entonces mi mail, el COHEN también, por otro lado, es el que fija cuando es el horario de Visoja. Entonces, ¿quién es el raro? Pues el que no es COHEN, porque si no eres COHEN, entonces quiere decir que estás en el mundo normal."
+"startMs": 879500,
+"endMs": 886060,
+"text": "Ya estando aquí, el Rashi de arriba ya nos hace un cortocircuito total. Entonces, pero entonces, ¿tienes tres horarios?"
 },
 {
-"startMs": 1843000,
-"endMs": 1844000,
-"speaker": "Speaker 2",
-"text": "Eres el raro."
+"startMs": 886420,
+"endMs": 887100,
+"text": "Del Y Ani."
 },
 {
-"startMs": 1844000,
-"endMs": 1863842,
-"speaker": "Speaker 1",
-"text": "Sí, para el COHEN que lleva toda la, Sí, en cierto aspecto es el es el emet la mito, sí, es como que le me la mito es el co, está bien, y los demás ya lo pueden pensar solito, pero si no igual lo la siguiente lo podemos hablar."
+"startMs": 888740,
+"endMs": 895400,
+"text": "Tienes- Ani, Y Ani, Y Ani, Y Ani, y Yemot HaHol. En Hol, sí. Entonces, tenemos muchos horarios."
+},
+{
+"startMs": 895480,
+"endMs": 902400,
+"text": "Entonces, vamos a ver, ¿cómo van los horarios en orden? No, aparte de Kohanim, porque arriba, arriba di- Kohanim, ahí van los, los horarios en orden."
+},
+{
+"startMs": 902440,
+"endMs": 908940,
+"text": "Que, que, que Ani y Y Ani en Erev Shabat no son lo mismo. No, no son lo mismo."
+},
+{
+"startMs": 909140,
+"endMs": 916020,
+"text": "Entonces, tienes Tzet HaKochavim, que es Cohen. Luego tienes ahí un, eh- Pero va, va-- empieza antes, antes, antes. ¿Quién es antes?"
+},
+{
+"startMs": 916560,
+"endMs": 924080,
+"text": "A partir de Tzet HaKochavim, sí. ¿Cómo sería el horario? Tzet HaKochavim, Ani. No, Y Ani. ¿Qué es Y Ani?"
+},
+{
+"startMs": 924200,
+"endMs": 932080,
+"text": "Y Ani en Erev Shabat. No, eso es, eso es, eso es después del Ani. Entonces, lo mismo que Ani y Yemot HaHol. ¿Eh? Entonces, lo mismo que Yemot HaHol."
+},
+{
+"startMs": 932160,
+"endMs": 945220,
+"text": "No, no, no, no, no. Es... Sí, se parece, se parece. Puede ser que la Gemara llegó otra vez a la Bamina, ahorita, la Gemara como que antes sí tenía una Bamina, que: \"Ah, si Ani y Cohen no es igual, entonces Ani y gente en Erev Shabat sí es igual\"."
+},
+{
+"startMs": 945600,
+"endMs": 957020,
+"text": "Entonces, puede ser que se-- regresamos otra vez a que hay Tzet HaKochavim, un poco después es el Ani, y en ese mismo momento también es la gente que come en el Shabat, que es un poquito después de Tzet HaKochavim."
+},
+{
+"startMs": 957620,
+"endMs": 967520,
+"text": "Y después ya tenemos cuando la gente come en Hol. ¿Por qué me, por qué me creas más horarios? Igual ya no hay nada. Como que te estoy viendo- No, porque algo le vieron al Ani, o algo le vieron a la gente comiendo."
+},
+{
+"startMs": 967540,
+"endMs": 974060,
+"text": "Por eso, el Ani lo estorba ahí. Es lo que yo quiero entender. Sería un horario nuevo. O sea, no, no es que... O sea, sería un horario nuevo."
+},
+{
+"startMs": 976720,
+"endMs": 987400,
+"text": "Claro, entonces aquí se ve algo impresionante, ¿eh? Sí, aquí se ve algo, a-algo muy interesante, que se ve que estos horarios no son un zimán, ¿sí?"
+},
+{
+"startMs": 987980,
+"endMs": 994220,
+"text": "A, al horario real, ¿sí? Aquí dijeron ellos que la Gemara dice: \"Zimán ladavar, Tzet HaKochavim\"."
+},
+{
+"startMs": 995100,
+"endMs": 1001120,
+"text": "O sea, cuando dice la, el Cohen te dice: \"Ah, ¿quieres un zimán para saber cuándo los Kohanim entraban a comer?"
+},
+{
+"startMs": 1002160,
+"endMs": 1010400,
+"text": "Ah, Tzet HaKochavim es el zimán\". Entonces, quiere decir que lo que fija el horario no es Tzet HaKochavim, sino el Tzet HaKochavim nos hace un zimán para saber cuándo los Kohanim entraban."
+},
+{
+"startMs": 1010700,
+"endMs": 1018440,
+"text": "Pero quiere decir que realmente el horario de los Kohanim, que comían Terumá, eso es lo que fija para todos cuándo, cuándo es Besozjuja."
+},
+{
+"startMs": 1018780,
+"endMs": 1025420,
+"text": "Tipo ahorita dices: \"Esperate, ¿ya es Besozjuja o no es Besozjuja? Ah, espérate, no sé, ¿los Kohanim ya están comiendo Terumá o no?\". Entonces, de eso depende, ¿no?"
+},
+{
+"startMs": 1025500,
+"endMs": 1032579,
+"text": "Tzet HaKochavim. Es zimán ladavar, tze-- No, porque los Kohanim cómo sabían cuándo ya podían. ¿Eh? No, ellos saben el Tzet HaKochavim."
+},
+{
+"startMs": 1032599,
+"endMs": 1040700,
+"text": "Ellos sabían que- Sí, pero tú no dependes de Tzet HaKochavim, tú dependes de los Kohanim. Todo parte de Tzet HaKochavim, los Kohanim en ese horario dicen: \"Ya puedo\"."
+},
+{
+"startMs": 1040839,
+"endMs": 1047640,
+"text": "No, pero ellos por su halajá de Tulion. Sí, pero no, y tú por ellos. ¿Me explico? Es algo bien raro."
+},
+{
+"startMs": 1047859,
+"endMs": 1057360,
+"text": "¿Cuál es la prueba? ¿Cuál es la prueba que realmente depende de ellos? Que existe un horario que no tiene ningún sentido en el horario de la Torá, que se llama el horario del Ani, ¿no?"
+},
+{
+"startMs": 1057440,
+"endMs": 1067040,
+"text": "Es lo que tú estás tratando de comprobar. O de la gente, o de la gente. O de la gente. Ese no es un horario en el sol. Es un tiempo que, que, sí, sí, o sea, que el, el..."
+},
+{
+"startMs": 1067500,
+"endMs": 1074020,
+"text": "Ahorita el hecho que el Ani está comiendo, entonces, ah, ya es Besozjuja, porque pues el Ani está comiendo, así parece."
+},
+{
+"startMs": 1074360,
+"endMs": 1083820,
+"text": "O sea, y así es real. Y entonces, por eso yo digo, también cuando Rav Hiel y Ezzer, no, prefiere decir, no decir: \"Ven a Shemashot\", porque para él ven a Shemashot no es horario."
+},
+{
+"startMs": 1084600,
+"endMs": 1090660,
+"text": "Para, para Rav Hiel y Ezzer no. Si no existiría Shabat, entonces ven a Shemashot no sería el horario de Rav Hiel y Ezzer."
+},
+{
+"startMs": 1091020,
+"endMs": 1102400,
+"text": "Pero ya que para Rav Hiel y Ezzer existe un día a la semana que se llama Shabat, que ya dejas de hacerme la jaipa, ese día empezó Besozjuja antes, entonces quiere decir que cuándo es Besozjuja, en ven a Shemashot."
+},
+{
+"startMs": 1102840,
+"endMs": 1114980,
+"text": "¿Me explico? Entonces, quiere decir que cada uno está diciendo, lo, la shitá que está diciendo, lo está diciendo real, no es que está diciendo tipo que realmente se refiere al horario del reloj o del sol y, y te dice un zimán, es totalmente al revés."
+},
+{
+"startMs": 1115340,
+"endMs": 1125700,
+"text": "Tú necesitas copiarle al Ani, copiarle al Cohen, copiarle a lo que haces en Shabat, copiarle a la mi-- a la mayoría de la gente, y los horarios del reloj son zimanim a eso."
+},
+{
+"startMs": 1126580,
+"endMs": 1138140,
+"text": "Y en algunos ni siquiera hay horario de reloj. Por ejemplo, el horario del Ani son minutos después de Tzet HaKochavim. El horario de, de la ma-- de la gente que entra a comer en Hol es, es todavía mucho después de Tzet HaKochavim."
+},
+{
+"startMs": 1138420,
+"endMs": 1144695,
+"text": "Entonces, la, la pregunta es aquí qué sentido... Hacen todas estas shitot. O sea, si fueran tanim, ¿qué hubieran opi--?"
+},
+{
+"startMs": 1144715,
+"endMs": 1151475,
+"text": "¿Cuál, cuál, cuál hubieran escogido? Hay que tenerlos- O sea, tipo, ¿me explico? Tipo, ¿por qué se te ocurre decir: \"Pérate, no, yo opino ani\"?"
+},
+{
+"startMs": 1152015,
+"endMs": 1159075,
+"text": "O sea, ¿de dónde se te viene? También Toño, Toño hace rato estaba preguntando. De según la Está buena la pregunta, estoy de acuerdo con la"
+},
+{
+"startMs": 1160955,
+"endMs": 1164395,
+"text": "pregunta. O sea que la camarada me la"
+},
+{
+"startMs": 1193295,
+"endMs": 1208435,
+"text": "preguntó. No, porque- Me dijo Sí, está-- estoy de acuerdo con la pregunta, pero quiere decir que sí se relaciona con el, el, el porqué de los koanim, con el z de los koanim, se relaciona con el tema que se llama el tulion, no me acuerdo si lo dejan en una clase aquí."
+},
+{
+"startMs": 1209035,
+"endMs": 1215895,
+"text": "Sí, no me acuerdo si lo dejan en tulion, creo. Sí, sí. ¿Y qué horas, mi hija? Y treinta y cinco y media. No. No, lo bajaron, lo bajaron."
+},
+{
+"startMs": 1216075,
+"endMs": 1224115,
+"text": "Treinta y cinco. Yo creo que traen en el preguntando. Bueno, pues empezamos. No, lo que nos quiere, cada Janam nos quiere es clar-- un, un zimán."
+},
+{
+"startMs": 1224315,
+"endMs": 1232715,
+"text": "No el tie-- no, no un tiempo, sino- No, ¿por qué quiere decir un zimán? ¿Por qué, por qué, por qué el ani? ¿Por qué el ani va a fijar esta es la hora?"
+},
+{
+"startMs": 1232755,
+"endMs": 1233295,
+"text": "A ver, una pregun--"
+},
+{
+"startMs": 1234695,
+"endMs": 1242535,
+"text": "Eso para definir todo. Talui va metziute, cuando la gente se acueste, el kriá chemá, a ver, si la gente después, como ya hay luz eléctrica, o sea, se empezara a acostar después."
+},
+{
+"startMs": 1242595,
+"endMs": 1251975,
+"text": "Muy bien, muy bien, ahí está. Porque si dice: \"No es chetakojavim\". Claro que no es chetakojavim, es besojbeja. Nada más que no puede ser que cada quien tenga su propio sojbeja personal."
+},
+{
+"startMs": 1252015,
+"endMs": 1259035,
+"text": "No, no, no, pero de la gente, pero- Oh, muy bien. Hoy en día, hoy en día la gente no se duerme a las diez. Muy bien, muy bien, ahí está, ahí está."
+},
+{
+"startMs": 1259395,
+"endMs": 1265855,
+"text": "Casi cambio. A las nueve de la noche. Se ponen a las diez. A las diez ya empiezan"
+},
+{
+"startMs": 1267095,
+"endMs": 1270695,
+"text": "a dormir. Pero sí cambiamos. Pero es un venisa. Pero"
+},
+{
+"startMs": 1272695,
+"endMs": 1280675,
+"text": "más que el mercado, más que el mercado, la calle. Eso es, eso, eso, ¿sabes qué? Esa es, esa es la shitá, la última shitá de la Gemara. Cuando la mayoría de la gente, ¿eh?"
+},
+{
+"startMs": 1281015,
+"endMs": 1288415,
+"text": "Según la sociedad, hoy en día, si man kriá chemá, si iríamos como esas, sí, sería como a las nueve, no sé a qué hora la gente cena."
+},
+{
+"startMs": 1288875,
+"endMs": 1295435,
+"text": "Según esa shitá, realmente cambiaría hoy en día. Es la única shitá que hoy en día cambiaría. No, también el ani."
+},
+{
+"startMs": 1295495,
+"endMs": 1301875,
+"text": "No, no, no, ahorita vamos a explicar por qué el ani no. Ya se fueron todos a su casa. Porque no, hoy no hay ani. Es el último en llegar a su casa."
+},
+{
+"startMs": 1301915,
+"endMs": 1308995,
+"text": "Es el último en llegar porque va en el transporte público. No, no, no. No, sí, es el último en llegar a su casa. Ya no hay nadie a quien pedirle sacado."
+},
+{
+"startMs": 1310115,
+"endMs": 1317095,
+"text": "Ya no hay nadie, ya se fueron todos, ya me tengo que ir yo, yo soy después. Vamos a ver, vamos a ver qué hay en el ani, qué hay, qué hay en cada una de las shitot."
+},
+{
+"startMs": 1318155,
+"endMs": 1328535,
+"text": "Ya es tardísimo. La pregunta es así: ¿Quién es el esencial? ¿Sí? ¿Quién es el, quién, quién es el que fija el besojbeja más real?"
+},
+{
+"startMs": 1328875,
+"endMs": 1336655,
+"text": "La gente con- ¿Y quién es el raro? El rov. ¿Quién es el que...? Esa es la shitá de Rabaja, ¿sí? ¿Quién es el, quién es el que le está cambiando?"
+},
+{
+"startMs": 1337175,
+"endMs": 1351635,
+"text": "Entonces, la, la shitá más lógica, vamos a llamarla, es la shitá de Rabaja. O sea, ¿quién es el raro? El que hoy en día, vamos a agarrarle, el cuate está cenando a las siete, o el que cena a las nueve y media, o el que cena a las doce."
+},
+{
+"startMs": 1351655,
+"endMs": 1358635,
+"text": "¿Quién es el raro? Entonces, pues fíjate en la mayoría. Fíjate en la mayoría qué hace, y el que no lo hace, sí es el raro."
+},
+{
+"startMs": 1359035,
+"endMs": 1365235,
+"text": "Entonces, quiere decir, tú ahorita no es real que es tu besojbeja ahorita que te vas a cenar a las siete. ¿Por qué?"
+},
+{
+"startMs": 1365775,
+"endMs": 1373735,
+"text": "Porque tú eres muy tempranero, ¿sí? Y el otro que se va a cenar a las once y media, no, tú eres raro, tú fuiste muy tarde."
+},
+{
+"startMs": 1374035,
+"endMs": 1389795,
+"text": "Entonces, ¿qué es lo que fija? Aquí es la pregunta de la Gemara, que necesitamos ahorita fijar el besojbeja general de todos, y por eso necesitamos a alguien que digas: \"Este es el, el, el ejemplar, el modelo\", y entonces todos los que no son idénticos a este, entonces son los raros."
+},
+{
+"startMs": 1390255,
+"endMs": 1397975,
+"text": "Entonces, tú ahorita no digas: \"No, ahorita ves mi besojbeja\". Ah, ah, espérate. Ayer, ¿entonces qué me vas a cambiar? Que ayer tu besojbeja es así y mañana es así."
+},
+{
+"startMs": 1398235,
+"endMs": 1405015,
+"text": "No, ayer acabaste más temprano. Entonces, hiciste tu besojbeja más temprano, otro día más tarde. Entonces, ¿cuál es lo normal?"
+},
+{
+"startMs": 1405175,
+"endMs": 1414555,
+"text": "Rov neadam. Esa es la shitá más lógica y en la Gemara es la última, ¿sí? Entonces, basado en esto, piensen, ¿qué tiene de especial el ani?"
+},
+{
+"startMs": 1414815,
+"endMs": 1424955,
+"text": "Quiere decir que el ani, en cierto aspecto, ahorita vemos los koanim, vemos-- en cierto aspecto, el ani es el que demuestra el más, el, el besojbeja más puro."
+},
+{
+"startMs": 1425795,
+"endMs": 1434415,
+"text": "No, el rov del, de la gente, era pobre. El original. No, no, no, no. No, no, el rov de la gente. Si todo el rov de la gente es rico, entonces va a cambiar para todos, ¿me explico?"
+},
+{
+"startMs": 1434795,
+"endMs": 1441575,
+"text": "Y entonces el raro va a ser el pobre y el, el, el, el, el, el, y el, el que, el que se tarda muchísimo va a ser también raro, ¿me explico?"
+},
+{
+"startMs": 1441875,
+"endMs": 1449115,
+"text": "¿Qué tiene de especial? No, no dijeron, si no hubieran dicho rov neadam, dijeron ani, aunque sea uno. Entonces, ¿por qué el ani?"
+},
+{
+"startMs": 1449935,
+"endMs": 1459255,
+"text": "¿Por qué no decimos: \"Espérate, el ani es el raro\"? La mayoría de la gente no son ani. Entonces, ¿por qué no decimos que el ani es el raro? ¿Por qué el ani es el como que agarra el besojbeja más puro?"
+},
+{
+"startMs": 1459255,
+"endMs": 1461135,
+"text": "¿Quién nos sabe decir? Porque no tiene..."
+},
+{
+"startMs": 1464915,
+"endMs": 1473395,
+"text": "Oh, muy bien. Eso se llama no tiene vela. Él no puede jalar parte del día a su noche."
+},
+{
+"startMs": 1474275,
+"endMs": 1480935,
+"text": "Ese es el tema del ani. Cuando no tiene vela, significa que no tiene, no tiene cómo hacer su noche día."
+},
+{
+"startMs": 1481275,
+"endMs": 1488015,
+"text": "Entonces, su noche es la noche más real y ni siquiera tiene para comprar humus, para echarle al pan y entonces tardarse."
+},
+{
+"startMs": 1488275,
+"endMs": 1494375,
+"text": "Entonces, no es que llega a la casa y dice: \"Bueno, echar la rice\". No hay luz. Vamos a esto, lo otro, a jugar con los ni-- no hay nada."
+},
+{
+"startMs": 1494915,
+"endMs": 1498515,
+"text": "Entonces, para él, él, él es el que no tiene ninguna..."
+},
+{
+"startMs": 1499775,
+"endMs": 1509775,
+"text": "Si tú quitas ningún, eh... Es el más natural. Es el más natural, más yo que hay, es el, el, la diferencia entre ani con alef y ani con ain, es la alef y la ain."
+},
+{
+"startMs": 1510315,
+"endMs": 1517135,
+"text": "Si tú quieres el yo, quitándole todas las, todas las cosas que se te agregan a tu yo, ¿me explico?"
+},
+{
+"startMs": 1517195,
+"endMs": 1524479,
+"text": "Se te agregan muchas cosas. Sí, ya sea tu ropa, tu comida, tu dinero, tu este, tu el otro, tu casa, le agregas muchas cosas tuyo."
+},
+{
+"startMs": 1524719,
+"endMs": 1532219,
+"text": "¿Qué es el yo más puro? Yo es el Ani, Ani Koin es el como que el yo más Amo Klein demuestra Omec."
+},
+{
+"startMs": 1532699,
+"endMs": 1541099,
+"text": "Es la, la esencia del yo antes de que le metas más cosas es el Ani. Entonces, el horario del Ani es tú, ¿sabes por qué te estás tardando?"
+},
+{
+"startMs": 1541459,
+"endMs": 1554639,
+"text": "Mira, porque primero que nada tienes vela, y si tienes vela, tu noche la haces día. Entonces, si tu noche la, tú la haces día, entonces tu Shajuajá se está tardando más, pero no porque el Shajuajá real se está tardando más, fíjate en el Ani."
+},
+{
+"startMs": 1555119,
+"endMs": 1567419,
+"text": "Y entonces, tú tienes que agarrar al Ani para ver, espérate, ahorita me estoy atrasando, no porque yo me estoy atrasando, porque tengo dinero para comprarme una vela y por eso mi no-- mi día es un poquito más largo."
+},
+{
+"startMs": 1567779,
+"endMs": 1574199,
+"text": "¿Me explico? Entonces, Rashi no dice el tema de la vela, eh, sí, con esto estamos para decir que él llega más temprano."
+},
+{
+"startMs": 1574279,
+"endMs": 1577259,
+"text": "No, dice que el tema de la vela para decir..."
+},
+{
+"startMs": 1581239,
+"endMs": 1584879,
+"text": "Si te diera Rashi te contrata de abogado cien por ciento para- ¿Eh?"
+},
+{
+"startMs": 1589619,
+"endMs": 1602079,
+"text": "¿Por qué? Claro, claro. ¿Y por qué? ¿Por qué justamente está buenísimo lo que está diciendo Dani? La sitá que dice Ani, te dice: \"El Ani es el comienzo es el Ani y el fin es el Ani\"."
+},
+{
+"startMs": 1603259,
+"endMs": 1619659,
+"text": "De principio a fin. En todas las shitot, ¿cuándo es el fin? Ya, como la Mishná, ¿sí? El que dice Ani, te dice: \"No, el principio y el fin\", porque el que está buscando el, el, el, el, el, el Ani en esencia, cuándo el Ani se va a dormir, entonces se dice: \"Espérate, tú nada más tienes el tiempo del Ani\"."
+},
+{
+"startMs": 1620399,
+"endMs": 1626839,
+"text": "Ya cuando te pasaste, ¿sabes por qué te pasaste? Porque tienes vela, porque tenías pa ponerle humus al pan."
+},
+{
+"startMs": 1626979,
+"endMs": 1629219,
+"text": "Y por eso la Gemara dice: \"Pat vamel\". No."
+},
+{
+"startMs": 1630639,
+"endMs": 1638119,
+"text": "No. No, es- Es más temprano que la gente. Sí. O sea, es más temprano que la gente, pero más tarde que- Pero más tarde que Tzedakó Jabi."
+},
+{
+"startMs": 1638159,
+"endMs": 1646159,
+"text": "Sí, porque es opinan Tzedakó Jabi, en vez de no opinar. Porque el que llega a su casa y se sienta a comer es el de hoy día, pero... Es más temprano que la gente, pero más tarde que Tzedakó Jabi."
+},
+{
+"startMs": 1646379,
+"endMs": 1658659,
+"text": "Pat vamel es que está en Polonia. Claro, por eso dicen que el Ani come pat vamel, porque si ya tiene más cosas pa echarle al pan, entonces otra vez ya, ya es alguien que se tarda más, se tarda en preparar la cena."
+},
+{
+"startMs": 1658839,
+"endMs": 1665639,
+"text": "No, ya tiene velas, si tiene pa frijoles, tiene para vela. Claro, sí, o, o sea lo que sea. Ya no es el Ani que quiere Rashi."
+},
+{
+"startMs": 1665819,
+"endMs": 1672139,
+"text": "Claro, ya no es el Ani puro, que es que su noche realmente es noche, que tiene ese... Está bien."
+},
+{
+"startMs": 1672399,
+"endMs": 1678299,
+"text": "Pues... No me vale así. Quería explicar todas las shitot. ¿Eh? Decirlo en otro momento."
+},
+{
+"startMs": 1681159,
+"endMs": 1687459,
+"text": "Los Kohanim, los Kohanim que entran a comer Terumá. ¿Qué me pueden decir acá? Pensándolo desde la misma scafá."
+},
+{
+"startMs": 1687759,
+"endMs": 1703399,
+"text": "Estamos buscando al original, estamos buscando al esencial. Entonces, el Ani en cierto aspecto es el esencial, porque es el que no tiene nada extra, y entonces él vive el día y la noche como de verdad son, y no tiene como, como, como que meterle noche, día, noche, ¿sí?"
+},
+{
+"startMs": 1703779,
+"endMs": 1710159,
+"text": "El Cohen también, se mete porque ya es de noche, no porque él quiere comer Terumá ahora, a lo mejor no quiere comer Terumá. Ya le tengo que ir..."
+},
+{
+"startMs": 1710199,
+"endMs": 1716859,
+"text": "Muy bien, el Cohen se mete porque ya es de noche. Y el Cohen, fíjense, es un horario que es el horario del sol, ¿sí? Mamá Tzedakó Jabi."
+},
+{
+"startMs": 1717339,
+"endMs": 1723619,
+"text": "El Cohen es el que vive su vida, todo su alrededor es el Bet Hamikdash."
+},
+{
+"startMs": 1724259,
+"endMs": 1732999,
+"text": "Entonces, el día y la noche no lo fija él según sus necesidades, sino según el trabajo que pone Hakados Baruju en el Bet Hamikdash."
+},
+{
+"startMs": 1733499,
+"endMs": 1740079,
+"text": "Entonces, mira, el señor trabaja, que vende no sé qué, y el otro, ara, y el otro, no sé qué."
+},
+{
+"startMs": 1740099,
+"endMs": 1749659,
+"text": "Está bien, este ¿sabes por qué se tarda? Porque, pues, está en el campo. Y el otro, ¿sabes por qué llega temprano? Porque, porque cambia monedas y la gente no cambia monedas de noche."
+},
+{
+"startMs": 1749919,
+"endMs": 1762999,
+"text": "Y el otro, ¿por qué? Entonces, cada un, perdón, cada uno por tener otro tipo de trabajo, entonces cambia sus horarios. ¿Dónde podemos ver el horario como que de la persona más como, como Hashem lo creó así, idéntico?"
+},
+{
+"startMs": 1763859,
+"endMs": 1771819,
+"text": "Ese es el horario, el Cohen. El Cohen es el que sus horarios son los horarios del Bet Hamikdash. El trabajo es el trabajo del Bet Hamikdash."
+},
+{
+"startMs": 1772199,
+"endMs": 1790879,
+"text": "Digo, lo quería explicar más a fondo, que el Cohen es como Adam HaRishon, co-- antes, antes del Jet. Adam HaRishon, después del Jet, cambió todo su orden del día, desde la tapeja to jalejem, y, y, y entonces todo tu día, noche, etcétera, cambió por Adam HaRishon después del Jet."
+},
+{
+"startMs": 1791319,
+"endMs": 1800639,
+"text": "Los Kohanim son los que se quedan auténticos, así dice el Rama, así se ve en la zona del Rama, en muchos lugares, ellos como que se quedaron auténticos en cómo era Adam HaRishon con el Majet."
+},
+{
+"startMs": 1800899,
+"endMs": 1820919,
+"text": "Trabajan en el Gan Eden, le audaron los Amrah, trabajan, sí, trabajan con Hashem, están, llevan los horarios de Hashem, entonces, entonces por eso los Kohanim, en cierto aspecto, el Ani tiene un aspecto de que para las personas normales, si les quitas todas las, las, eh, capas exteriores, el Ani es el que demuestra más."
+},
+{
+"startMs": 1821239,
+"endMs": 1829919,
+"text": "Y el Cohen es el que, esa es la persona más real, porque dedica toda su vida a lo que Hashem creó exactamente a la persona para eso."
+},
+{
+"startMs": 1830399,
+"endMs": 1836559,
+"text": "Entonces, mi mail, el Cohen también, por otro lado, es el que fija cuándo es el horario de Bisoj Beja. Entonces, ¿quién es el raro?"
+},
+{
+"startMs": 1836599,
+"endMs": 1844779,
+"text": "Pues el que no es Cohen. Porque si no eres Cohen, entonces quiere decir que estás en el, en el mundo normal. Trabajando, no es, no es, eres raro."
+},
+{
+"startMs": 1844839,
+"endMs": 1851359,
+"text": "Sí, pero el Cohen, que lleva toda la, la... Sí, en cierto aspecto es el, es el Emet la mito, sí."
+},
+{
+"startMs": 1852219,
+"endMs": 1859339,
+"text": "Es como que el Emet la mito es el Cohen. Está bien, y los, los demás ya lo pueden pensar solitos, pero si no, igual lo... la siguiente lo podemos hablar."
+},
+{
+"startMs": 1863639,
+"endMs": 1863699,
+"text": "Wow."
 }
 ]
 }

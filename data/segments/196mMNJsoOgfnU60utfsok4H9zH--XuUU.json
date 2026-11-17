@@ -1,96 +1,176 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 1000,
-"endMs": 17000,
-"speaker": "Speaker 1",
-"text": "Es algo muy amor, ahora nosotros entendemos que el rap mi tapextle todo, en algo bien, tapexle todo, acá como la vinaja. Exactamente, entonces."
+"startMs": 1660,
+"endMs": 8039,
+"text": "Es algo muy amor. Ahora nosotros entendemos que el RAM y tapej le tov en algo que le pasó algo mal."
 },
 {
-"startMs": 17000,
-"endMs": 48000,
-"speaker": "Speaker 2",
-"text": "Veme, tú sabes que al final cualquier rap, José al doble auto, ¿quién dijo que también la sabe auto? No? Claro, piénsalo, es a fuerza. Porque no existe que entender un tema sin entender el otro. Por qué si fuéramos todos tatikin, no habría sufrimiento? Por qué sufrimiento hay de uno ahora? Lo único que va a hacer que el rai tapexle todo es porque la verá que garma el ra, mi tapexle todo."
+"startMs": 10980,
+"endMs": 14140,
+"text": "Exactamente. Entonces- ¿Es absoluto? Sí, sí, no es-"
 },
 {
-"startMs": 48000,
-"endMs": 56000,
-"speaker": "Speaker 2",
-"text": "Entonces vengo y yo le digo, ash, espérate, ashem. Hazarti bichua."
+"startMs": 16100,
+"endMs": 17780,
+"text": "A ver, ven me."
 },
 {
-"startMs": 56000,
-"endMs": 93000,
-"speaker": "Speaker 2",
-"text": "Okay, pero sufrí. Sufrimiento. Sufrí, me dolió. Pero ahorita disparar lemos free que yo era. Estoy diciendo que todo lo que un rami tapej le todo es porque un averami tapej le todo."
+"startMs": 19640,
+"endMs": 26100,
+"text": "Tú sabes que al final cualquier RAM, o sea, sol y otro, quien dijo que también la saber otro. Otro. ¿No? Claro."
 },
 {
-"startMs": 93000,
-"endMs": 107000,
-"speaker": "Speaker 2",
-"text": "No es porque un rami tapej le todo empieza y acaba ahí. Empieza a verse. El chipuro empieza porque la verami tapej le todo. De la gena, raja y habla, soy neoto. Presto free, perdí dinero."
+"startMs": 26300,
+"endMs": 28060,
+"text": "Piénsalo, esa fuerza."
 },
 {
-"startMs": 107000,
-"endMs": 143000,
-"speaker": "Speaker 2",
-"text": "Después de que hiciste chuba, ve a fajta, estas donot. Qué suyo? Y cómo puede ser que sufriste? Ahora yo ya soy. Chattiklemafrend. Entonces. Qué es el rey y tapexleto? No te había pasado lo que dices? No, al final pensé que estaba mal y se ve bien. Claro, claro, claro. Yo no pude invertir y tus demás dicen que ya quebró y. Que al final mi tapexleto. Pues sale que no fue, no, no es que aquí lo uones."
+"startMs": 29320,
+"endMs": 35740,
+"text": "Porque no existe el entender un tema sin entender el otro. ¿Por qué? Si fuéramos todos ństwa dikin, no habría sufrimiento, ¿no?"
 },
 {
-"startMs": 143000,
-"endMs": 175000,
-"speaker": "Speaker 2",
-"text": "De la misma manera que mi padre es toda la no como algo mujlat, era como un talich que Adam Luistai y cuando misterio el talich, haz mi mei y le sale que meten todos todo un talich, como llegue a hacer entonces, entonces sale que iman imba, que cola rai y tape, no. Cómo puede ser?"
+"startMs": 35780,
+"endMs": 41020,
+"text": "¿Por qué sufrimiento de dar a uno avera? Pues va a pitar mal y tapej le tov."
 },
 {
-"startMs": 175000,
-"endMs": 185000,
-"speaker": "Speaker 2",
-"text": "No entendemos todo, por eso tiene que ser que en Purín, y cuando me."
+"startMs": 42320,
+"endMs": 49920,
+"text": "Lo único que va a hacer que el ray tapej le tov es porque la avera que garma el RAM y tapej le tov. Entonces, vengo y yo le digo: Hashem, espérate."
 },
 {
-"startMs": 185000,
-"endMs": 186000,
-"speaker": "Speaker 1",
-"text": "Cabe en."
+"startMs": 50540,
+"endMs": 50860,
+"text": "Hashem,"
 },
 {
-"startMs": 186000,
-"endMs": 189000,
-"speaker": "Speaker 2",
-"text": "El misterio, me free,"
+"startMs": 52060,
+"endMs": 54880,
+"text": "hazar ti bi chuá, hazar ti bi chuá."
 },
 {
-"startMs": 189000,
-"endMs": 193000,
-"speaker": "Speaker 3",
-"text": "Mele todo y pasa todo el."
+"startMs": 57000,
+"endMs": 59140,
+"text": "Okey, te nefast mezjút, pero sufrí."
 },
 {
-"startMs": 193000,
-"endMs": 197000,
-"speaker": "Speaker 3",
-"text": "Pero todo el tema de Purimer Leafoc le affecta la varilla."
+"startMs": 60420,
+"endMs": 66680,
+"text": "Al tilai. Sufrimiento a tsmoo me afojo to le tov. ¿Me explico?"
 },
 {
-"startMs": 197000,
-"endMs": 199000,
-"speaker": "Speaker 1",
-"text": "En la fog? En la fog."
+"startMs": 66780,
+"endMs": 76320,
+"text": "Jaiablión. Ahora, ima, si ti chuá, ahora me castigas. ¿No? Sufrí, me dolió. Pero ahorita y parar le mafré que yo era tsadik."
 },
 {
-"startMs": 199000,
-"endMs": 208000,
-"speaker": "Speaker 3",
-"text": "Ya no quise decirlo a la mitad de lo que está sobrando, pero ayer hablé algo en Tania. También es la fog."
+"startMs": 77980,
+"endMs": 85820,
+"text": "Desde antes. Es lo hay algo que llegue a Onush. Jaiablión, chivasóf. Gam, gama avera. Gama es un todo. No gama avera, la verdad es que prácticamente."
 },
 {
-"startMs": 208000,
-"endMs": 227712,
-"speaker": "Speaker 3",
-"text": "Te iba a decir, pues ya no quise meter, pero sí. Al final es. O sea, todos los temas de Leafoc están conectados. La espada, mientras fecha, todos. Sí, jabón, busque allá, yo no, yo no sé qué hora."
+"startMs": 85860,
+"endMs": 93080,
+"text": "Sí, sí, sí, sí, sí, sí, sí. Entonces, gam todo era- Estoy diciendo que todo lo que un RAM y tapej le tov es porque una avera y tapej es mezjút."
+},
+{
+"startMs": 93660,
+"endMs": 100540,
+"text": "No es porque un RAM y tapej le tov empieza y acaba ahí. Empieza a ver, el sipuro empieza porque la avera y tapej es mezjút."
+},
+{
+"startMs": 100820,
+"endMs": 102760,
+"text": "De la jena raja y habla sol y otro."
+},
+{
+"startMs": 104200,
+"endMs": 105540,
+"text": "Pero sufrí, perdí dinero."
+},
+{
+"startMs": 107320,
+"endMs": 114960,
+"text": "Después de que hiciste chuvá, ve a fasta, estás donot, te subió, haz mi mele, lo me guié al jaones, haz de."
+},
+{
+"startMs": 114980,
+"endMs": 122080,
+"text": "¿Y cómo puede ser que sufriste? Are yo ya soy tsadik le mafré. Entonces... Entonces, Jaiablión, que ese ray tapej le tov."
+},
+{
+"startMs": 123320,
+"endMs": 129419,
+"text": "Jaiablión, que... Hashem tiene sus planes. ¿No te ha pasado que dices- Sí, sí, sí, sí. Ah, al final pensé que estaba mal."
+},
+{
+"startMs": 130120,
+"endMs": 140180,
+"text": "Claro, claro, claro. Va a salir que- Ya lo pude invertir, entonces ma dice que ya quebró y... Que al final me tapej le tov. O sale que ve este, no fue, no, no es que quilú hu Onesh."
+},
+{
+"startMs": 140460,
+"endMs": 142280,
+"text": "No, mi pare, no era Onesh, mi jam."
+},
+{
+"startMs": 143820,
+"endMs": 152880,
+"text": "De la misma manera que mi pare es Jaiablión, la verdad. Toda la avera que hay emet, no como algo muchlat, era como un talij que Ada en lo istá."
+},
+{
+"startMs": 153180,
+"endMs": 160860,
+"text": "Y cuando me istá el talij, haz mi mele, sale que ve este todos, todo un talija, como, como llegué a ser tsadik."
+},
+{
+"startMs": 161740,
+"endMs": 168160,
+"text": "Entonces, entonces sale que ima ni magsil las averas los juzgíos. Jaiablión, que cola ray tapej le tov."
+},
+{
+"startMs": 169240,
+"endMs": 177800,
+"text": "Que gama tsar y tapej, no fue tsar, ya fue tov. ¿Cómo puede ser? Hashem tiene sus planes, que es yamitjat amentim, no tenemos todo, yamitjat amentim."
+},
+{
+"startMs": 178240,
+"endMs": 188700,
+"text": "Por eso tiene que ser que en Purim, y kapló ta torá me ahvá, y cuando me kaplín ta torá me ahvá, mi mele, mi esté le mafré, ninfajliot vehem les juzgíos."
+},
+{
+"startMs": 189160,
+"endMs": 192020,
+"text": "Haz mi mele todo, y pasa todo el es de Purím, pasa todo el..."
+},
+{
+"startMs": 193700,
+"endMs": 200080,
+"text": "Todo el, todo el tema de Purím le afoj, le afejla de barim. ¿De nafoju? De nafoju. De nafoju. En realidad no sé."
+},
+{
+"startMs": 200120,
+"endMs": 206340,
+"text": "Ya no quise decirlo a la mitad de lo que estaba hablando, pero ayer hablaste algo en, eh, Tana, también el afoj."
+},
+{
+"startMs": 208660,
+"endMs": 214260,
+"text": "Te iba a decir, pero ya no quise meter, pero sí, al final es... O sea, todos los temas del afoj están conectados."
+},
+{
+"startMs": 215960,
+"endMs": 222820,
+"text": "La espada, el tafeje, todo, o sea, todo lo que tiene el afoj está relacionado. ¿No es así? Jawohl, mosquetar, ya."
+},
+{
+"startMs": 223200,
+"endMs": 227680,
+"text": "Corran. Yo no, yo no. Dale. Bueno, yo no. No sé qué hora es, no sé qué hora es, ya no sé. Ya, ya, ya"
 }
 ]
 }

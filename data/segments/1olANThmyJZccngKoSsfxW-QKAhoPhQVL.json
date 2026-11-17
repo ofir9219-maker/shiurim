@@ -1,1224 +1,2381 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 14000,
-"endMs": 72000,
-"speaker": "אופיר סגל",
-"text": "No se entiende Viglal, no se entiende Lisboa como Rabí Eliezer. No existe Lisboa como Rabí Eliezer. Ahora, porque la majloqueta es cómo leer Besoqbeja. Besoqbeja es cuando te vas a dormir o mientras estás dormido. Rabí Eliezer dice, mientras estás dormido. Si ese es el personaje de Besoqbeja, es toda la noche. Rabí Eliezer dice, Besoqbeja es..."
+"startMs": 2700,
+"endMs": 3960,
+"text": "Chachamim omrim at chatzot."
 },
 {
-"startMs": 72000,
-"endMs": 85000,
-"speaker": "אופיר סגל",
-"text": "El camarada Kilo dice, no, no me cuelga con Rapangamilí, no me cuelga con Rapleze. Con Rapleze no existe ni siquiera que te empiece a cuadrar."
+"startMs": 5540,
+"endMs": 6960,
+"text": "Chachamim keman tsvira lehu."
 },
 {
-"startMs": 85000,
-"endMs": 89000,
-"speaker": "Speaker 2",
-"text": "O sea, al final va a quedar, pero también en una familia cuando no sabes que es una..."
+"startMs": 8700,
+"endMs": 14820,
+"text": "Ikra Rabbi Eliezer tsvira lehu ulim lo k'Rabbi Eliezer. V'ikra Raban Gamliel tsvira lehu ulim lo k'Raban Gamliel."
 },
 {
-"startMs": 89000,
-"endMs": 96000,
-"speaker": "אופיר סגל",
-"text": "No, pero existe que haya menos. ¿Me explico? Hasta una jumbra, un derrapón..."
+"startMs": 15640,
+"endMs": 27240,
+"text": "No se entiende en general, no se haya que es tsvira como Rabbi Eliezer. No existe el tsvira como Rabbi Eliezer. Ahora, kilo es pashut que chatzot no es horario, porque la machloket es como leer beshokhbecha."
 },
 {
-"startMs": 96000,
-"endMs": 128000,
-"speaker": "אופיר סגל",
-"text": "Pero que haya de más... Si es hasta la cuarta hora... No, ¿sabes qué? Te dejo hasta Hatshota. O sea, que se me vaya de horaita. Sí, también, aparte de que no se haya gastado. No sabes que te alarguen la hora de horaise. Que te acorten... ¿Sabes? En lugar de tacones... Está bien, el pastor de la Mishnah, más o menos que es tacones. Rapán Gamliel mismo dice..."
+"startMs": 27360,
+"endMs": 33980,
+"text": "Beshokhbecha es cuando te vas a dormir o mientras estás dormido. Raban Gamliel dice mientras estás dormido. Si este es el pasaje, no es shokhbecha, es toda la noche."
 },
 {
-"startMs": 128000,
-"endMs": 161000,
-"speaker": "אופיר סגל",
-"text": "Entonces... ¿No entendí? Si me mete el pastor de la Mishnah... Eh, eh... Dice la Hedia, que es una tacaná... Entonces, ¿qué es este tipo de pregunta? ¿Por qué tienes que Rapán Gamliel? ¿Cuál es el salmichal que más te apetece? Está mal. לא אילום, כרבן גמליאל סביר עליו ועדה כאמרת חצות כדי להרחיק את האדם מן האבירה כאתה נחמים עשו שיאג לדבריהם, כדי שלא יהיה אדם בא מן השדה בערב ואומר, אלך לביתי ואוכל כמעה ושתי כמעה ושן כמעה ואחר כך הקרא כי עוד שמע ותפלל וחוטף תושנה."
+"startMs": 34900,
+"endMs": 41460,
+"text": "Rabbi Eliezer dice: beshokhbecha es, eh... El momento que te vas a dormir."
 },
 {
-"startMs": 161000,
-"endMs": 192000,
-"speaker": "אופיר סגל",
-"text": "ונמצא ישן כל הלילה, תוסקי חשושו חמים כי לפרסון הזה כדורמי אתו על הנות אבל אדם בא מן השדה בערב, נכנס לבית הקלסת אם רגיל לקרוא עוד קורא, מרגיל לשנות שונה קורא קורא את שמע, ומתפלל, בוכל פתאום ומברך וכל עובר על חמים חייאמיתה, מה ישנה בכל דוכתה, דלו קטנה חייאמיתה, ומה ישנה אחר, דקטנה חייאמיתה, היא בהתאמה משום דקה עונה שנה."
+"startMs": 41520,
+"endMs": 47940,
+"text": "Es cuando te vas a dormir. Entonces, mi mail: no existe el momento que se llama chatzot, no existe leer el pasuk y digas: beshokhbecha, chatzot."
 },
 {
-"startMs": 192000,
-"endMs": 200000,
-"speaker": "אופיר סגל",
-"text": "והיא בהתאמה לפוקים מן דאמר תפילה תרבית רשות כמה שואלה נדחובה, אז..."
+"startMs": 48180,
+"endMs": 58340,
+"text": "No hay. Te existe la hermana Mima Nafsha, pero no se entiende el color que es rabí Eliezer. ¿Qué tú puedes, kilo, que se te vaya el horario de Shemá y puedes jalarte hasta chatzot?"
 },
 {
-"startMs": 200000,
-"endMs": 206000,
-"speaker": "Speaker 2",
-"text": "עונה שנה זה כאילו הייתי פודד למסיימפה דיסקה."
+"startMs": 58800,
+"endMs": 69080,
+"text": "Se te fue. Más chat que rabí Eliezer. Sam, realmente, tamo avid, ¿me explican bien? O sea, pashut, el tirut de la hermana es pashut, que es pashut que se tiene como Raban Gamliel."
 },
 {
-"startMs": 206000,
-"endMs": 237000,
-"speaker": "אופיר סגל",
-"text": "Sí, por eso ya que hay una escena y me le dijeron Me colo a ver el jamin, dime jamin, jayamita, que es mamash hamur, pasarse el kriyat shema de chatzot, porque hay sacanake y shan, y luego te dice que el otro tzad, por qué dijeron acá, jayamita, porque hay un mandamer que dice tzfilat arvit reshut, y viene jamin, te dicen, no, de mamash jova que tzfilat arvit si es reshut o es jova, kriyat shema igual es jova."
+"startMs": 69560,
+"endMs": 73200,
+"text": "Nomás, porque es de chatzot, está esta hora. La hermana aquí lo dice: no,"
 },
 {
-"startMs": 237000,
-"endMs": 267000,
-"speaker": "אופיר סגל",
-"text": "entonces qué tiene que ver ahorita si es chatzot, kriyat shema, la puke mandama, reshut. entonces, se ve aquí algo, yo, yo, entonces acá se ve que jajamim hay una estirada entre jamin y rabban gamliel también, de la misma manera que jamin no cuadra con rabbi eliezer jamin tampoco cuadra con rabban gamliel, hay aquí una estirada con rabban gamliel."
+"startMs": 74820,
+"endMs": 82040,
+"text": "mi hermana es loaj. No, no, no me cuerda con, eh, eh, con Raban Gamliel, nunca con rabí Eliezer."
 },
 {
-"startMs": 267000,
-"endMs": 307000,
-"speaker": "אופיר סגל",
-"text": "Y eso es lo que la mamá trata del atún, porque a filo que entendamos que es Takana, a filo que entendamos que Hamim dice que es Takana, dice, esa Takana no me va de la mano con Rapan Gamblian. Esa Takana no me va de la mano con Rapan Gamblian, y algo me hace un choque acá, dice todo lo que dice, que es Takana, y la Pukimanda, entonces ahí es cuando ya puedes entender, ah, ok, ok, se va a entender que es como Rapan Gamblian."
+"startMs": 82580,
+"endMs": 92660,
+"text": "Con rabí Eliezer no existe ni siquiera que te empiece a cuadrar. O sea, al final va a quedar, pero también es una familia cuando no sabes que es una, una- No, pero existe que, que haya menos."
 },
 {
-"startMs": 307000,
-"endMs": 341000,
-"speaker": "אופיר סגל",
-"text": "Sí, nada más estoy diciendo como un Mibne, un Mibne general, ¿me explico? El Mibne, como Mibne en general. Sí, nada más. Ahora, ¿cuál es? Claro, te dule a gente que todo el colmo se lo hemos dejado a mí, me lo he dejado a todos. Sí, entonces Rafa Gamliel quiso que a mí, que a mí también nos dijimos que tiene que ser, que estemos toda la noche, ¿sí? Entonces, ya, los de las que porque me meto ahí estirando, no está caro,"
+"startMs": 92680,
+"endMs": 101240,
+"text": "¿Me explico? Hasta una jumrá, de rabono. Por un, por un querer. Pero, pero que haya de más- Y como dice- Si es hasta, hasta la cuarta hora, te..."
 },
 {
-"startMs": 341000,
-"endMs": 372000,
-"speaker": "אופיר סגל",
-"text": "no está caro, malo todo si hay que ganar, malo todo si hay que ganar. O sea, ¿qué quiere decir? O sea, Rafa Gamliel me meto con el que le tengo ganado. ¿Están? ¿Por qué? ¿Qué te importa aquello, no? O sea, eres del oso, ¿sí? Entonces, se ve que la verdad que hay que ganar... Sí, sí, hasta si voy a irme a irme a ganar, no sé. Él dice, no, no, yo necesito yo decir hasta Muda Shahar. A la vez que Hamim dice que hay que ganar el Hatzot, pero en el momento en que yo me convierta en Hamim."
+"startMs": 101280,
+"endMs": 107700,
+"text": "No, ¿sabes qué? Te dejo hasta chatzot. O sea, que se me vaya la hora esta. Rashi dice todavía de Fataí, considera Tolishén, que varía Shen, que bajaba Yashen."
 },
 {
-"startMs": 372000,
-"endMs": 379000,
-"speaker": "אופיר סגל",
-"text": "Entonces ahí se va a perder la Shitala Gamri, Hamim es como un complemento a Rapam Gamliel, pero Rapam Gamliel tiene que lograrlo."
+"startMs": 107900,
+"endMs": 114200,
+"text": "Quilo, ya él ya está dormido, kilo. Y es para decir que, que rabí Eliezer, porque en, en chatzot él ya está dormido."
 },
 {
-"startMs": 379000,
-"endMs": 400000,
-"speaker": "Speaker 2",
-"text": "Es que Rapam Gamliel se tuvo que quedar original."
+"startMs": 115000,
+"endMs": 123020,
+"text": "Ya no se haya. Sí, también, aparte de no se haya, están. No, no sabes que te alarguen la hora de horaice, que te acorten, o sea, no la tacone."
 },
 {
-"startMs": 400000,
-"endMs": 435000,
-"speaker": "אופיר סגל",
-"text": "Y Kilo, en el momento en que metes a Hamim, Rapam Gamliel tiene que decir, pero el original es así. Vente, vente, Entonces, Jamin dice que el Rapangambliel quiere decir, espérate, a filo que hay y tacone, yo necesito dejar el original así, porque si no, aquí hay un shibush. Entonces, de verdad, la chita de Jamin me shabesheta a Rapangambliel, y por eso Rapangambliel, él, betim, se necesita que agarre hasta a muda shaha."
+"startMs": 123300,
+"endMs": 130220,
+"text": "Está en el pashut de la Mishná, más que esta cone, Raban Gamliel mismo dice: Kol ma she'amru jamim at chatzot. Entonces, no entendí."
 },
 {
-"startMs": 435000,
-"endMs": 467000,
-"speaker": "אופיר סגל",
-"text": "¿Sabes por qué me shabesh? Ahora, lo más menien es que dice aquí, dice, Y todo esto está diciendo, para cuadrar Ulay de cierta manera, Jamin con Rapangambliel, ¿mejor? Entonces, de verdad, ¿quién sostiene que Tfilat Arbitjo va? ¿Quién sostiene que Tfilat Arbitjo va? No, Rapangambliel. ¿Sí? Es el mismo Rapangambliel."
+"startMs": 130280,
+"endMs": 131740,
+"text": "Si realmente el pashut de la Mishná,"
 },
 {
-"startMs": 467000,
-"endMs": 483000,
-"speaker": "אופיר סגל",
-"text": "Entonces, Jamin, betim, cuando dijeron, Ahí, si no se puede decir, la PUC, se están diciendo, vamos como Rambam Gamlié, ¿sí? Eso a lo mejor un poquito comprueba la teoría que estamos tratando de... Está fuertísimo."
+"startMs": 133060,
+"endMs": 139400,
+"text": "eh, eh, dice la Hedya, que es una tacaná, entonces, ¿qué existe tipo de pregunta? O la que se tiene con Raban Gamliel, o la que se tiene con rabí Eliezer."
 },
 {
-"startMs": 483000,
-"endMs": 485000,
-"speaker": "Speaker 2",
-"text": "Tipo, vamos como Rambam Gamlié, él, solamente hicimos un..."
+"startMs": 139740,
+"endMs": 142520,
+"text": "¿Cuál es el chat, mi chat con rabí Eliezer? No tiene sabor."
 },
 {
-"startMs": 485000,
-"endMs": 497000,
-"speaker": "אופיר סגל",
-"text": "Y esta, mejor que te salga, a mí lo que es algo que..."
+"startMs": 144780,
+"endMs": 163800,
+"text": "Lo hilom, que Raban Gamliel tsvira lehu, velaika amra al chatzot, kele jarjiki et ha-adam min ha-avera, que etan ejamim asú siag le divrehem, kele shelo yehi Adam bá min hashadeh beerev, ve'omer: Elech leveti ve'ochal kimá veeshte kimá, ve'ishan kimá, ve'ajarkaj ekrá krias Shemá vetpalel, vechotavto shená, venimtsá yashen kol halailá."
 },
 {
-"startMs": 497000,
-"endMs": 511000,
-"speaker": "Speaker 3",
-"text": "A mí lo que les ahora es otra cosa, nada que ver. A mí lo que les ahora, hasta ahorita, no tiene nada que ver una cosa con la otra. Dicen en el busagre que vamos como Rambam Gamlié, pero no es de que tiene que ver algo ahorita, hasta ahorita, crea Chema con..."
+"startMs": 164460,
+"endMs": 180380,
+"text": "Entonces, aquí chashushú jamim que la persona que duerme toda la noche. Abel Adam bá min hashade beerev, nijánat levét hakéset, im regil likrót, koré, im regil lisnót, shoné, ve'ikoré krias Shemá, umi'itpalel, u'ochel pitó, u'mevaréj."
 },
 {
-"startMs": 511000,
-"endMs": 541000,
-"speaker": "אופיר סגל",
-"text": "Por eso, sí, eso también comprueba un poquito esto, que es más general con Rambam Gamlié, con el cap de Rambam Gamlié, hay que entender. por eso si el jayab mita viene a legalot que tfilat arvit no es reshut sino es jova entonces viene aquí como que a la mit las cosas más en el estilo de rapangamliel, no, no se lo hablo es que aquí lo veo en prati acá al kriyat shema."
+"startMs": 180840,
+"endMs": 188640,
+"text": "Ve'kol over halajamim jáie mitá. Ma ishná, ojó dujtá, de loktán jáie mitá. Uma ishná, haja, de ktáné jáie mitá."
 },
 {
-"startMs": 541000,
-"endMs": 571000,
-"speaker": "אופיר סגל",
-"text": "si lo, que viene a decir que es más como rapangamliel entonces cual la shita rapangamliel, y por qué me metes hasta muda shahar y por qué jajamim, decir que es hasta jatsogat es una estira estas agarrando mas o menos, el punto que queremos buscar es que la hermana pregunto atrás dijo, jajamim que man sfiraleu, que dicen hasta jatsogat como rapiel y es de lo que es rapangamliel, si preguntamos."
+"startMs": 189720,
+"endMs": 196320,
+"text": "Sí, y veitema, mishum de ikká, one shená, y veitema, la pukim mandáamar, filát arvit reshut."
 },
 {
-"startMs": 571000,
-"endMs": 602000,
-"speaker": "אופיר סגל",
-"text": "como Rappi Eliezer no hay tad, si Rappi Eliezer te dice cuatro horas no existe que Jamin te diga no sabes que yo te regalo otras dos extras, más que ese, de horaita te dan cuatro horas, no existe alargar, obviamente se tiene como Rappi Eliezer entonces que se ve que también como Rappi Eliezer de la misma manera que suena absurdo que vaya Jamin como, como Rappi Eliezer, a la que me suena igual de absurdo que vaya como Rappi Eliezer hay Takana y esto y lo otro, es el mundo de Rappi Gamliel esas cosas, no me suenan."
+"startMs": 197020,
+"endMs": 204320,
+"text": "Kamasho alá, de joba. Entonces, ¿por qué aquí dijeron...? One shená es kilo, hay que poner a las cien patizas."
 },
 {
-"startMs": 602000,
-"endMs": 633000,
-"speaker": "אופיר סגל",
-"text": "entonces más absurdo, Rappi Gamliel suscita de Kriya Chema porque él dice que hay Kriya Chema hasta la mañana si yo lo ve Shohbeja, me suena al ve Shohbeja de Rappi Eliezer quien dice, quien dice Shema, el dormido o el que se va a dormir, el que se va a dormir es el que dice Shema, el dormido, está dormido, él no puede dormir, está dormido él no puede decir Shema porque está dormido, ¿Si? Es más pictónico. Entonces, ¿cómo existe el leer?"
+"startMs": 206880,
+"endMs": 218920,
+"text": "Sí, por eso, ya que hay one shená, mi mail le dijeron: Eh, ve'kol over halajamim, divre jamim, jáie mitá, que es ממש jamur pasarse krias Shemá de chatzot, porque hay sakaná que ishan."
 },
 {
-"startMs": 633000,
-"endMs": 636000,
-"speaker": "אופיר סגל",
-"text": "O sea, Rabban Gamliel te dice, es hasta la mañana."
+"startMs": 219900,
+"endMs": 223820,
+"text": "Y luego te dice que el otro chat, porque dijeron acá"
 },
 {
-"startMs": 636000,
-"endMs": 641000,
-"speaker": "Speaker 4",
-"text": "Es más shahibah a las 7 de la noche que a las 5 de la mañana."
+"startMs": 225080,
+"endMs": 232100,
+"text": "jáie mitá, porque hay un mandamar que dice: Filát arvit reshut. Y vienen jamim, te dicen: No, de ממש joba."
 },
 {
-"startMs": 641000,
-"endMs": 648000,
-"speaker": "אופיר סגל",
-"text": "A las 5 nadie se acuesta. Por eso. Entonces, la única manera de cómo sostener la cita de Rabban Gamliel."
+"startMs": 233740,
+"endMs": 241840,
+"text": "Que te crees filát arvit, si es reshut o es joba. Krias Shemá igual es joba. Entonces, que te creo, ahorita sí es at chatzot, kilo, כן, la pukimandáamar reshut."
 },
 {
-"startMs": 648000,
-"endMs": 660000,
-"speaker": "אופיר סגל",
-"text": "Es que, ¿si? El dormido tiene que decir K'yat Shema. ¿Me explico? Eso es lo que Rabban Gamliel tiene que decir. Dice que el K'yat Shema no es para el despierto, sino el K'yat Shema es para el dormido mismo."
+"startMs": 244640,
+"endMs": 248740,
+"text": "Entonces, entonces, se ve aquí algo. Yo, yo."
 },
 {
-"startMs": 660000,
-"endMs": 662000,
-"speaker": "Speaker 2",
-"text": "Nada más que cuando estás dormido no lo puedes decir."
+"startMs": 250180,
+"endMs": 250960,
+"text": "Entonces, acá se ve"
 },
 {
-"startMs": 662000,
-"endMs": 668000,
-"speaker": "אופיר סגל",
-"text": "Cuando estás dormido no lo puedes decir. Entonces, pero el punto es que tú tienes que decir K'yat Shema."
+"startMs": 253160,
+"endMs": 264180,
+"text": "que jamim, hay una estirada entre jamim y, y, y, y Raban Gamliel también. De la misma manera que jamim no cuadra con rabí Eliezer, jamim tampoco cuadra con Raban Gamliel."
 },
 {
-"startMs": 668000,
-"endMs": 673000,
-"speaker": "Speaker 2",
-"text": "Es shahibah el dormido. Nada más que no lo puedes decir porque estoy dormido ahora. Si no estuviera despierto."
+"startMs": 264660,
+"endMs": 266160,
+"text": "Hay aquí una estirada con Raban Gamliel"
 },
 {
-"startMs": 673000,
-"endMs": 681000,
-"speaker": "אופיר סגל",
-"text": "Entonces acá, entonces más del hombre de Rabban Gamliel es que."
+"startMs": 267860,
+"endMs": 269840,
+"text": "y, y eso es lo que la hermana trata de ladún."
 },
 {
-"startMs": 681000,
-"endMs": 684000,
-"speaker": "Speaker 5",
-"text": "Se tiene que quedar dormido mientras K'yat Shema."
+"startMs": 271040,
+"endMs": 271460,
+"text": "Porque"
 },
 {
-"startMs": 684000,
-"endMs": 716000,
-"speaker": "אופיר סגל",
-"text": "No, un poquito diferente. Es que Rabban Gamliel te dice. Mira, no existe. no existe dormirse, sin decir Kriya Chema el problema de Kriya Chema de la noche es evitar llegar a estar dormido, sin haber dicho Kriya Chema, Rav Angam Liel tiene un problema con los dormidos porque alguien dormido, entra en un estado de dormido, de desconexión, de hoser mudaut, de hoser dat, entonces Rav Angam Liel dice Kriya Chema de la noche no es para que digas Kriya Chema de la noche."
+"startMs": 273100,
+"endMs": 283740,
+"text": "a filo que entendamos que es tacaná, a filo que entendamos que jamim dicen que es tacaná, dice: Esa tacaná no me va de la mano con, con Raban Gamliel."
 },
 {
-"startMs": 716000,
-"endMs": 730000,
-"speaker": "אופיר סגל",
-"text": "es para que no te llegas a quedar dormido sin Kriya Chema. si me explico, Rav Angam Liel dice no es una mitzvah jihubit decir en la noche si no hay un problema en quedarse, es casi un lab."
+"startMs": 284120,
+"endMs": 292300,
+"text": "Esa tacaná no se haya que vaya de la mano con Raban Gamliel. Y, y, y algo me, me hace un choque acá, que está que la hermana vehem,"
 },
 {
-"startMs": 730000,
-"endMs": 733000,
-"speaker": "Speaker 4",
-"text": "es un isur quedarte dormido sin Kriya Chema."
+"startMs": 293620,
+"endMs": 301900,
+"text": "eh, dice vehem todo lo que dice, que es tacaná y kol over jamim divre jáie mitá y la pukimandáamar filát arvit reshut."
 },
 {
-"startMs": 733000,
-"endMs": 739000,
-"speaker": "אופיר סגל",
-"text": "no es un isur pero es un bitulase o sea alguien que no se vaya a dormir."
+"startMs": 301940,
+"endMs": 309560,
+"text": "Entonces, ahí es cuando ya puedes entender: Ah, okey, okey, se haya de entender que es como, como Raban Gamliel. Sí, nada más estoy diciendo como que un mivné,"
 },
 {
-"startMs": 739000,
-"endMs": 749000,
-"speaker": "Speaker 2",
-"text": "hasta la noche dejar aquí Kriya Chema si yo no me voy a dormir esta noche, me voy a hacer desvelada hasta la noche dejar aquí Kriya Chema no está bueno, Rav Angam Liel."
+"startMs": 311000,
+"endMs": 322360,
+"text": "muy-- un mivné general. ¿Me explico el mivné? Como mivné en general. Ahora, col- En la Mishá también, más o menos, porque en la Mishá Raban Gamliel- Claro."
 },
 {
-"startMs": 749000,
-"endMs": 753000,
-"speaker": "אופיר סגל",
-"text": "Osea si no, si no Osea al final pues esta la jugada de Brighton."
+"startMs": 322420,
+"endMs": 333780,
+"text": "Tedú lajem, que todo el kol ma she'amru jamim at chatzot. Sí, atrás, que está ahí, no te explico bien qué es. Sí. Entonces, Raban Gamliel, kilo, quiso le'amim, que jamim también masquimim que tienen que ser vehem kol halailá."
 },
 {
-"startMs": 753000,
-"endMs": 754000,
-"speaker": "Speaker 2",
-"text": "Esa en la esfera de las cosas."
+"startMs": 333780,
+"endMs": 335980,
+"text": "¿Sí? Entonces,"
 },
 {
-"startMs": 754000,
-"endMs": 786000,
-"speaker": "אופיר סגל",
-"text": "Si Kilo en la esfera de las cosas y se va a quedar despierto estudiando toda la noche, Entonces De hecho el que Kilo Román Gamliel dice, Dice que casi casi si a las, Si a las 5 de la tarde decidiste ir a echar un pádel, Entonces dice, Vaya tendrías que seguir a Chema antes No existe que estés un segundo al día si no estás en un estado, De Kriya Chema, No existe estar en una tarde llena."
+"startMs": 338020,
+"endMs": 344840,
+"text": "la shalá es kilo, porque realmente hay estirada. No, no tacaná, ma, ma, ma lo tov si hay tacaná. Ma lo tov si hay tacaná."
 },
 {
-"startMs": 786000,
-"endMs": 818000,
-"speaker": "אופיר סגל",
-"text": "¿Me explico? Para Ramban Gamliel, ¿eh? Sí, esa es la noche de Ramban Gamliel, que él no acepta que no estés bajo el Kriya Chema. Ramban Gamliel dice constantemente que necesitas estar en un estado de Kriya Chema, de Kabel Ol Mahuchamayim. Entonces el problema del dormido es la verdad que se va a dormir. Entonces mi mele, no puede ser una mitrata C de decir Kriya Chema, que tengas un horario para decir Kriya Chema, sino no puedes no estar en un estado de Kriya Chema."
+"startMs": 345240,
+"endMs": 352320,
+"text": "O sea, que es, o sea, Raban Gamliel vehemeth jolé kalá tacaná. Están, porque lama talo metakén. Que te importa, kilo, no, zare, זה lo soté."
 },
 {
-"startMs": 818000,
-"endMs": 824000,
-"speaker": "אופיר סגל",
-"text": "Entonces mi mele, Kriya Chema, no se vea que tenga un horario, Kriya Chema de la noche. No existe que tenga un horario."
+"startMs": 352840,
+"endMs": 360300,
+"text": "Entonces, se ve que el evudá que hay tacaná- La legalidad de la fiesta. Sí, sí. Si ve, ima itam metakén, ulái, no sé."
 },
 {
-"startMs": 824000,
-"endMs": 826000,
-"speaker": "Speaker 2",
-"text": "¿Por qué ahora tengo que ir a dormir."
+"startMs": 360340,
+"endMs": 367340,
+"text": "O sea, ya sabe que jamim ya teknum, kilo, y por eso tú... Él dice: No, no, yo necesito yo decir hasta, hasta amud ha-shajar."
 },
 {
-"startMs": 826000,
-"endMs": 856000,
-"speaker": "אופיר סגל",
-"text": "Porque en el momento que yo pongo un horario, me hace una que tienes que decir Chema. y el ira van a enviar sostiene es que no puede no decir llamar, pero en el momento en el que tengo que decir llamada hasta cierta hora, entonces otros gafas totalmente es como lo convertirte como que no me tratas deseaba se está hasta ahora y más maestra, hasta esta hora, y así lo podrías pensar y no más, y entonces ahora van a ver si empieza a poner nerviosos como como limita del guillermo no se haya limitado el tema de la noche."
+"startMs": 368552,
+"endMs": 374772,
+"text": "A la vez que jajamim dicen que hay tekana del chatzot, pero en el momento que yo me convierta como jajamim, entonces ahí se va a perder la shitá de Gamaliel."
 },
 {
-"startMs": 856000,
-"endMs": 895000,
-"speaker": "אופיר סגל",
-"text": "del mundo y lo limitó hasta acá en el momento que lo limitó hasta acá todo, entonces el gobierno de la nación, Entonces dijeron hasta Hatzot, entonces Hatzot no me cuadra con Rapa Gamliel, porque toda la Shita de Rapa Gamliel es que, es que toda la noche tiene que ser un matzah de Kedah Shema, en el momento como que lo hace es como que un momento específico, el maúd, el maúd de la mitzvá, entonces no me hagas ese Keder, me estás cambiando la mitzvá, se lo va a mitzvá, claro, o sea Rapa Gamliel quiere que nos metamos a la cabeza,"
+"startMs": 375212,
+"endMs": 381032,
+"text": "Quiero decir, jajamim es como que un complemento, en vez de rabí Gamaliel, pero rabí Gamaliel tiene que la jlok ale. O sea, si no hay erde"
 },
 {
-"startMs": 895000,
-"endMs": 928000,
-"speaker": "אופיר סגל",
-"text": "Rapa Gamliel quiere que te metas a la cabeza el hecho de que no existe estar en un estado fuera del Kedah Shema, no existe estar en un estado fuera del Kedah Shema, tienes que siempre constantemente estar en Kedah Shema, y por eso Kedah Shema tiene que ser hasta la mañana, porque todo el punto es Lelamed. que hay un gizarrón que te vas a dormir sin Kriya Chema, entonces mi mail es siempre que estas antes de dormir tienes que decir Kriya Chema pero en el momento que me dices no tienes que decir Kriya Chema entonces ya lo convertiste como que hay algo una de las cosas que hay que hacer en la noche es decir Kriya Chema y el punto que dice Rapan Gamliel no es una de las cosas que quiero que hagas en la noche."
+"startMs": 382572,
+"endMs": 385112,
+"text": "del jasidut con el tayut y Joseph y todo esto,"
 },
 {
-"startMs": 928000,
-"endMs": 937000,
-"speaker": "אופיר סגל",
-"text": "sino lo que no quiero que hagas es que te desconectes del Kriya Chema y por eso necesito que digas Kriya Chema si es Rapan Gamliel cambia el switch."
+"startMs": 386452,
+"endMs": 393952,
+"text": "que necesitamos a, al tayut, al de este que es el-- Im lo, el, él no es por ejol. Mhm. El jasidut no tiene efó de jol."
 },
 {
-"startMs": 937000,
-"endMs": 952000,
-"speaker": "Speaker 4",
-"text": "y también el tema de decir Nelbeta Knesset está estando en la torre, también el tema de decir Nelbeta Knesset está estando en la torre. si eso no es Rapan Gamliel, lo dijiste en Narvit pero claro ya estamos hablando de Kriya Chema en la mitad."
+"startMs": 395372,
+"endMs": 406312,
+"text": "Es que rabí Gamaliel se tuvo que quedar, eh, original, así. Y, y como que en el momento que metas a, a jajamim, rabí Gamaliel tiene que decir: «Pero el original es así»."
 },
 {
-"startMs": 952000,
-"endMs": 963000,
-"speaker": "אופיר סגל",
-"text": "no está bien que lo dijiste en Narvit no ya si tu dijiste Kriya Chema en la noche también a la primera hora de la noche está muy bien porque ya hiciste que toda la noche sea una noche de Kriya Chema."
+"startMs": 407672,
+"endMs": 408012,
+"text": "Qué hay?"
 },
 {
-"startMs": 963000,
-"endMs": 964000,
-"speaker": "Speaker 4",
-"text": "pero le pusiste un sman le pusiste un."
+"startMs": 409332,
+"endMs": 409612,
+"text": "Qué hay?"
 },
 {
-"startMs": 964000,
-"endMs": 971000,
-"speaker": "אופיר סגל",
-"text": "no si le pusiste sman es un problema por eso pero si no le pongo sman no le pusiste sman, entonces si le pones un sman."
+"startMs": 414152,
+"endMs": 426632,
+"text": "Vente, vente. Entonces, jajamim dicen que el, que el rabí Gamaliel quiere decir: «Espérate, a filu que hay tekana, yo necesito dejar el original así, porque si no, aquí hay un shibush»."
 },
 {
-"startMs": 971000,
-"endMs": 985000,
-"speaker": "Speaker 4",
-"text": "no digo sman de hora. Lo estas limitando a Arbit, yo no veo que ponerle de hora, Osea que diferencia decir entre 7 y 8 o en Arbit."
+"startMs": 427272,
+"endMs": 431272,
+"text": "Entonces, realmente, la sh-la shitá de jajamim desordena la de rabí Gamaliel, y por eso rabí Gamaliel,"
 },
 {
-"startMs": 985000,
-"endMs": 986000,
-"speaker": "אופיר סגל",
-"text": "No porque en Arbit."
+"startMs": 432571,
+"endMs": 442992,
+"text": "él, en verdad, se necesita quedar hasta amud ha-shájat. La pregunta es por qué desordena. Ahora, lo más interesante es que dice aquí, dice: «La pukim mandá mar tfilat arbit, reshut, ka mashma lan de jova»."
 },
 {
-"startMs": 986000,
-"endMs": 988000,
-"speaker": "Speaker 4",
-"text": "El chiste es que no tenga Gbull."
+"startMs": 443492,
+"endMs": 448092,
+"text": "Ese fue el tilut al final de la Gemara, porque dijeron: «Kol ha'over al divrei jamim chai hamitá»."
 },
 {
-"startMs": 988000,
-"endMs": 991000,
-"speaker": "אופיר סגל",
-"text": "Si bueno, el que es que no tenga Gbull nomas que lo pusieron en Arbit."
+"startMs": 449652,
+"endMs": 457252,
+"text": "Y todo esto está diciendo para cuadrar, tal vez, de cierta manera, jajamim con rabí Gamaliel, ¿no? Entonces, realmente, ¿quién sostiene que tfilat arbit jova?"
 },
 {
-"startMs": 991000,
-"endMs": 993000,
-"speaker": "Speaker 4",
-"text": "Le estas dando Gbull."
+"startMs": 457612,
+"endMs": 464172,
+"text": "¿Quién sostiene que tfilat arbit jova? Rabí Yeshua. No, rabí Gamaliel."
 },
 {
-"startMs": 993000,
-"endMs": 1024000,
-"speaker": "אופיר סגל",
-"text": "No, es un poquito diferente, No, no, no No porque no es como que la esencia del Crash de Massi Si no tu tienes toda la noche para decir Crash de Massi No mas que obviamente no queremos que a la gente se le olvide Entonces lo ponemos en Arbit, Y fatai que sale 10 de jugada para Crash de Massi y Laila Si, entonces el punto es que Rappan Gamliel Osea me sanó muchisimo lo que hace y mamas para los que estan haciendo eso Si, eso es lo que quiere El Tadic Amour no le da lugar, no le da lugar al Josef."
+"startMs": 465772,
+"endMs": 471012,
+"text": "Sí, es el mismo rabí Gamaliel. Entonces, jajamim, en verdad, cuando dijeron: «Kol ha'over al divrei jamim chai hamitá»,"
 },
 {
-"startMs": 1024000,
-"endMs": 1058000,
-"speaker": "אופיר סגל",
-"text": "Rappan Gamliel es de la cita del que no puede darle lugar al Josef Yo se, yo se, Tiene que haber horror siempre, Tiene que haber or siempre, entonces no puede haber, el Hosej no puede tener lugar, entonces como tiene que haber or constante, entonces el dormirse es Hosej. Raman Gamliel dice, no, también el dormido es jayabe sir kriyat shema, también el dormido tiene un aspecto que él tiene una jova, o sea Raman Gamliel dice, yo tengo un problema."
+"startMs": 472272,
+"endMs": 478692,
+"text": "ahí se-- itkavnu a decir: «La puk--», este, se están diciendo: «Vamos como rabí Gamaliel», ¿sí?"
 },
 {
-"startMs": 1058000,
-"endMs": 1082000,
-"speaker": "אופיר סגל",
-"text": "que me digas que el dormido es para dormir a mitzvot, no, es jayabe sir kriyat shema, entonces ¿qué mitzvot está cumpliendo el dormido? Que no se durmió sin kriyat shema, Raman Gamliel dice, no, necesito jalar la luz, afilo el mazap cuando está dormido. La placer te dice, no, tú tienes que decir que es Chema cuando empieza la noche. Es la hora, el que dijo hasta la cuarta hora."
+"startMs": 479112,
+"endMs": 485872,
+"text": "Eso a lo mejor un poquito comprueba la teoría que estamos tratando de... Está fuertísimo. Si podemos como rabí Gamaliel, a filu que estamos haciendo un..."
 },
 {
-"startMs": 1082000,
-"endMs": 1086000,
-"speaker": "Speaker 5",
-"text": "¿A él no le molesta que haya un masado de nituc."
+"startMs": 485912,
+"endMs": 495492,
+"text": "Ani jolek alá, y esta majloket es al-- a filu que es algo, sí, a filu que es algo que, hamur yot que sotér legamre rabí Gamaliel, pues, shma, ani olej como rabí Gamaliel."
 },
 {
-"startMs": 1086000,
-"endMs": 1087000,
-"speaker": "אופיר סגל",
-"text": "¿Eh."
+"startMs": 495552,
+"endMs": 503312,
+"text": "Ljan, ani omer lejá: «Ve kol ha'over al divrei jamim chai hamitá». A mí lo que dije ahora es otra cosa, nada que ver. ¿Eh? A mí lo que dije ahora hasta ahorita no tiene nada que ver una cosa con la otra."
 },
 {
-"startMs": 1087000,
-"endMs": 1091000,
-"speaker": "Speaker 5",
-"text": "¿Él tendría que haber un masado de dormir? ¿No le molesta que haya un nituc."
+"startMs": 503312,
+"endMs": 509412,
+"text": "¿Qué? Está, es en el musar de que vamos como rabí Gamaliel, pero no es de que tiene que ver algo hasta ahorita Kriat Shemá con..."
 },
 {
-"startMs": 1091000,
-"endMs": 1121000,
-"speaker": "אופיר סגל",
-"text": "Eso no es un nituc de Averá, no es un nituc de Averá, sino que metes algo que puedes tú ahorita crear con eso, un jibur masamoc en la mañana. Entonces, déjale a la persona, lo dejas dormir, ¿ves? Lo dejas dormir, le dejas kilo al Ra, no es el Ra, pero le das macombe, meta el guf, vamos a llamarle existir. No necesita ser la persona constantemente en el Shema, sino la persona tiene el Shema y el guf. Entonces, el guf es guf. ¿Ese quién es? La piel de ser que limita la hora del que hace más."
+"startMs": 510232,
+"endMs": 519552,
+"text": "Si rabí Gamaliel sostiene que Kriat Shemá- Por eso, sí, eso, eso, eso también comprueba un poquito esto, que en verdad como que es más general con rabí Gamaliel, con la, con el kav de rabí Gamaliel, hay que, hay que entender."
 },
 {
-"startMs": 1121000,
-"endMs": 1139000,
-"speaker": "אופיר סגל",
-"text": "Dice, ¿qué hace más cuando estás consciente? Cuando no estás consciente, tienes que reconocer que hay momentos que no estás consciente y esos momentos los necesitas aprovechar para la fojota, la foja el jose, la fojota leor."
+"startMs": 519991,
+"endMs": 536352,
+"text": "Lo que estaba preguntando que, que Kriat Shemá con la ley, rabí Gamaliel dice que con la ley. Por eso, si el chai hamitá viene a legalot, que tfilat arbit no es reshut, si no es jova, entonces vienen, viene aquí como que a lamid las cosas más en el estilo de rabí Gamaliel."
 },
 {
-"startMs": 1139000,
-"endMs": 1149000,
-"speaker": "Speaker 5",
-"text": "O sea, mi chamba, eso vale olivor, pero no es jose, pero vale olivor. Lo que no le voy a preguntar que hagan es porque pasó fiavior, pero ese es, ahorita sí es matoso, es jose."
+"startMs": 537092,
+"endMs": 546012,
+"text": "No, no se habla de que aquí lo voy a hacer en práctica al, al Kriat Shemá, sino como que viene a decir que es más como rabí Gamaliel."
 },
 {
-"startMs": 1149000,
-"endMs": 1190000,
-"speaker": "אופיר סגל",
-"text": "Sí, sí, y Robán Gamliel dice, no existe. No existe, no existe betem, levatel kriyat shema, ni un segundo. Tiene que haber or constante siempre en todos los matzavim. Y Robán Gamliel dice, él entiende el yjud Hashem de una manera diferente. Él entiende yjud Hashem no de que el or mit pachet, siempre en el jose, sino que el jose, betem, se puede la fojliot or. Entonces Kilo no tiene miedo del jose, mientras no sea una vera, ¿sí? Mientras no sea una vera, no tiene miedo del jose, pero puedes agarrar el jose y hacerlo or, ¿sí?"
+"startMs": 546732,
+"endMs": 552992,
+"text": "Entonces, con la shitá rabí Gamaliel y por qué realmente hasta amud ha-shájat y por qué jajamim--"
 },
 {
-"startMs": 1190000,
-"endMs": 1196000,
-"speaker": "אופיר סגל",
-"text": "Sí, sí, David Amelec. Sí, seguro."
+"startMs": 554452,
+"endMs": 568092,
+"text": "Decir que es hasta chatzot es una tsirá. ¿Estás agarrando más o menos? Entonces, el punto que queremos buscar es que la Gemara preguntó atrás, dijo: «Jajamim que man tsirá lehu», que dicen hasta chatzot."
 },
 {
-"startMs": 1196000,
-"endMs": 1199000,
-"speaker": "Speaker 5",
-"text": "¿Y la verguería de cómo animas a la vera? ¿Qué va a decir la verguería."
+"startMs": 568152,
+"endMs": 576252,
+"text": "Como rabí Eliezer con rabí Gamaliel. Entonces, preguntamos: «Como rabí Eliezer no hay tzad». Si rabí Eliezer te dice cuatro horas, no existe que jajamim te diga: «No, ¿sabes qué?"
 },
 {
-"startMs": 1199000,
-"endMs": 1200000,
-"speaker": "אופיר סגל",
-"text": "¿Qué."
+"startMs": 576292,
+"endMs": 582472,
+"text": "Yo te regalo otras dos extras». Tipo, ma kesh, de Orit te dan cuatro horas, ¿cómo lo...? No existe alargar."
 },
 {
-"startMs": 1200000,
-"endMs": 1203000,
-"speaker": "Speaker 5",
-"text": "La falta de misaftas, que son la mayoría que hay allá."
+"startMs": 582552,
+"endMs": 590552,
+"text": "Entonces, obviamente, se tiene como rabí Gamaliel. Entonces, ¿qué se ve? Que también como rabí Gamaliel, de la misma manera que suena absurdo que vaya jajamim como..."
 },
 {
-"startMs": 1203000,
-"endMs": 1208000,
-"speaker": "אופיר סגל",
-"text": "No, Rapan Gamliel, ese es el problema. Rapan Gamliel, Mehmet, ve una vera con un problema muy serio."
+"startMs": 591072,
+"endMs": 598092,
+"text": "Rabí Eliezer. Como rabí Eliezer a la Gemara dice: «Mira, a mí me suena igual de absurdo que va como rabí Gamaliel». Hay tekana, hay esto, lo otro."
 },
 {
-"startMs": 1208000,
-"endMs": 1209000,
-"speaker": "Speaker 5",
-"text": "Por el David."
+"startMs": 598152,
+"endMs": 610012,
+"text": "Mira, no, eso es el mundo de rabí Gamaliel, esas cosas no me suenan. Entonces, más, más, más pshat. Rabí Gamaliel, su shitá de Kriat Shemá, ¿por qué él dice que hay Kriat Shemá hasta la mañana?"
 },
 {
-"startMs": 1209000,
-"endMs": 1242000,
-"speaker": "אופיר סגל",
-"text": "Ya, vete al besmedre de Yosef, de Lopo, de David. Y Lopo, hasta Bajuz, hasta Bajuz. Hasta Lopo, hasta Bajuz."
+"startMs": 610832,
+"endMs": 619732,
+"text": "Si yo leo Beshoshbeja, me suena al Beshoshbeja de rabí Eliezer, porque, ¿quién dice, quién dice Shemá, el dormido o el que se va a dormir?"
 },
 {
-"startMs": 1242000,
-"endMs": 1268000,
-"speaker": "אופיר סגל",
-"text": "El que dice que Tzvilat Arbit es Joba, Espera un momento, ¿qué significa que Tzvilat Arbit es Joba? Si es noche, es que Biajol cuando a Shem te deja solo Te dijimos que la Joba, decir Shachrit, decir Mija Porque a Shem ponele En la noche, que Biajol te deja solo Entonces, el mandamán que dice Tzvilat Arbit Reshut es Yo estoy solo, entonces yo busco a Shem Yo ahorita en mi soledad, yo busco a Shem."
+"startMs": 619872,
+"endMs": 623592,
+"text": "Está muy bien, ya lo escuché. El, el que se va a dormir es el que dice Shemá."
 },
 {
-"startMs": 1268000,
-"endMs": 1271000,
-"speaker": "Speaker 4",
-"text": "Y si quiero, si, si."
+"startMs": 625092,
+"endMs": 631112,
+"text": "El dormido está dormido. Él no puede decir Shemá porque está dormido. ¿Sí?"
 },
 {
-"startMs": 1271000,
-"endMs": 1301000,
-"speaker": "אופיר סגל",
-"text": "Claro, claro, si, Entonces, ¿y quién sostiene que es Joba? Y dice, no, no, a Shem está, no lo estás viendo Pero ahí está Shem, no hay vez en un matzah de, de josef muhlat, o entonces aquí es cuando viene jajamim, entonces es la shita rapa gamliel que tfilat harbit no es reshut sino es jova es porque él encuentra el or dentro del josef y la otra shita es afuj es mas mala."
+"startMs": 632212,
+"endMs": 641372,
+"text": "Entonces, ¿cómo existe leer? O sea, ra-rabí Gamaliel te dice: «Es hasta la mañana». Es más, es más, es más shelivá a las siete de la noche que a las cinco de la mañana."
 },
 {
-"startMs": 1301000,
-"endMs": 1331000,
-"speaker": "אופיר סגל",
-"text": "dice kilu el decir que es reshut es mejor esa es la otra shita, porque como yo busque a Hashem, si me dices que Hashem siempre esta constante, entonces no me dejas yo buscarlo, siempre me tengo que mantener ahí, pero si me dejas Hashem que crea shema por ejemplo es tamuk bala un cierto momento entonces quiere decir que hay un mazab donde kibahol sientes una lejanía y esa lejanía es la que te permite a ti ahora en vez de que Hashem te este buscando y tu nada mas te estas agarrado ahí."
+"startMs": 641652,
+"endMs": 648752,
+"text": "A las, a las cinco, no. Nadie se acuesta. Por eso. Entonces, entonces, la única manera de cómo sostener la shitá rabí Gamaliel- Es estar dormido."
 },
 {
-"startMs": 1331000,
-"endMs": 1336000,
-"speaker": "אופיר סגל",
-"text": "entonces ahora tu te das la oportunidad de tu buscar a Hashem ese es el mandama que dice."
+"startMs": 648812,
+"endMs": 660012,
+"text": "Es que sí, el dormido tiene que decir Kriat Shemá. Exactamente. ¿Me explico? Eso es lo que rabí Gamaliel tiene que decir. Dice, dice que no, el Kriat Shemá no es para el despierto, sino el Kriat Shemá es para el dormido mismo."
 },
 {
-"startMs": 1336000,
-"endMs": 1341000,
-"speaker": "Speaker 4",
-"text": "desde los ojos del emet se ve mejor lo va en gamliel pero desde los ojos de la boda se ve mejor la piel."
+"startMs": 660032,
+"endMs": 667852,
+"text": "Sí, en verdad yo lo decía. Nada más que cuando estás dormido no lo puedes decir. Cuando estás dormido no lo puedes decir. Entonces, pero el punto es que tú tienes que decir Kriat Shemá."
 },
 {
-"startMs": 1341000,
-"endMs": 1375000,
-"speaker": "אופיר סגל",
-"text": "muy bien exactamente si, Sí, sí, sí exactamente. Como que Rambam Gamliel él agarra el emet como está en el Shamaim, como está en el Shamaim constantemente y el otro malaj, dijimos, es el de David Amelech, es darle lugar al Eretz, es darle lugar al Eretz, como es el Eretz, pues mi mele, el Eretz, le da, hay que ya decir mi hija, ¿no? Sí, ya es 56, 5 minutos. No, no, les voy a decir algo, 5 minutos para que vean qué estudiar."
+"startMs": 669312,
+"endMs": 675272,
+"text": "Es jáver dormido. Nada más que no, no lo puedes decir, porque estoy dormido, are. Si no estuviera despierto. Se refuerza lo que tú decías."
 },
 {
-"startMs": 1375000,
-"endMs": 1406000,
-"speaker": "אופיר סגל",
-"text": "Una, Rambam Gamliel, ahí es el sipur famoso de Rambam Gamliel, él era el nazi y lo bajaron del Nesiyut, lo bajaron del Nesiyut y todo el vikuaj era porque Rambam Gamliel decía que el árbitro es Jobá y Rabí Yoshua sostenía que el árbitro es Reshut. y entonces, no, no es Rabí Yehoshua Ben Levi, pero es Rabí Yehoshua, entonces."
+"startMs": 677692,
+"endMs": 685692,
+"text": "Entonces, acá, el, el-- entonces, más delomde de rabí Gamaliel es que, ve etzem- Se tiene que quedar dormido mientras Kriat Shemá. No, un poquito diferente."
 },
 {
-"startMs": 1406000,
-"endMs": 1433000,
-"speaker": "אופיר סגל",
-"text": "él sostiene que es Reshut, y no había manera de decir que, que es Reshut, porque, Rabí Yehoshua, alguien le preguntó a Rabí Yehoshua, le dijo es Reshut, fueron y le dijeron a Rabá Gamliel, le dijeron oye Rabí Yehoshua dijo que es Reshut dijo ¿qué? tráelo, dijo ¿dijiste que es Reshut? dijo no, para nada, dije que es Jehová pero me dijeron que dijiste que es Reshut y entonces fueron."
+"startMs": 685752,
+"endMs": 689772,
+"text": "Es que rabí Gamaliel te dice: «Mira, no existe,"
 },
 {
-"startMs": 1433000,
-"endMs": 1435000,
-"speaker": "Speaker 4",
-"text": "¿por qué? ¿por qué le da miedo."
+"startMs": 691112,
+"endMs": 692172,
+"text": "no existe dormirse"
 },
 {
-"startMs": 1435000,
-"endMs": 1477000,
-"speaker": "אופיר סגל",
-"text": "sí, esa es parte de la chitarra de Rabá Gamliel, lo mismo que sostiene que es Jehová, no existe que sea Reshut o sea, tipo en su mundo en su mundo no puede existir el Reshut no puede existir que sea Reshut, Y que le digas, no, pero es para, imagínate que le dices, no, pero vas a tener más conexión, porque, bájale, bájale, no lo matas, entonces esa es la cita de Rafa Gamliel, no existe, entonces, entonces puso a Rabi Oshua así enfrente de todo el Midrash, y fue algo como que Rabi Oshua se sintió un poquito, se puso parado y le preguntó enfrente de todos, tú dijiste que sos Joash Reshut,"
+"startMs": 693792,
+"endMs": 701432,
+"text": "sin decir Kriat Shemá». El problema de Kriat Shemá en la noche es evitar llegar a estar dormido sin haber, eh, dicho Kriat Shemá."
 },
 {
-"startMs": 1477000,
-"endMs": 1506000,
-"speaker": "אופיר סגל",
-"text": "entonces dijo, sí, la verdad, si no hubiera Edim que me contradicirían, entonces, te podía contradicir, pero ahorita hay testigos, entonces no puedo decir nada, y entonces a la gente no le gustó este malaj muy taquif de Rafa Gamliel, no, sí, y dijeron, ya, Rafa Gamliel no puede ser más del Nasi, y a quién pusieron de Nasi, a Rabi Oshua de Nazaria."
+"startMs": 701912,
+"endMs": 711152,
+"text": "O sea, rabí Gamaliel tiene un problema con los dormidos, porque alguien dormido entras a un estado de dormido, de desconexión, dejó ser mudáud, dejó ser daat."
 },
 {
-"startMs": 1506000,
-"endMs": 1508000,
-"speaker": "Speaker 4",
-"text": "¿Pero eso no fue en la ley de Kipur? No, no."
+"startMs": 711772,
+"endMs": 719672,
+"text": "Entonces, rabí Gamaliel, en verdad, dice: «Kriat Shemá de la noche no es para que digas Kriat Shemá en la noche, es para que no te llegues a quedar dormido sin Kriat Shemá»."
 },
 {
-"startMs": 1508000,
-"endMs": 1539000,
-"speaker": "אופיר סגל",
-"text": "es otra historia que también con Rafa Gamliel y Rabia Shua puede ser que tenga que ver puede ser que tenga que ver porque también fue con Rafa Gamliel y Rabia Shua también fue algo así entonces escuchen esto ¿qué pasó? el siguiente día, no, no lo regresaron Rafa Gamliel el siguiente día de repente se llenó todo el Midrash, ¿por qué? entonces se sintió feo Rafa Gamliel ¿por qué se llenó el Midrash? porque la política de Rafa Gamliel es aquí estudias solamente."
+"startMs": 719672,
+"endMs": 730032,
+"text": "¿Sí, me explico? Rabí Gamaliel dice: «No es una mitzvá jiuvit decir en la noche, sino hay un problema en quedarse...»."
 },
 {
-"startMs": 1539000,
-"endMs": 1571000,
-"speaker": "אופיר סגל",
-"text": "Tojoquevaro es el que está pleno íntegro por adentro como por afuera aquí no hay lugar a más o menos, ¿sí? es otra vez la misma escritura de Rafa Gamliel y todos los que no afuera ya, no estudian en Breslau, buscan otro lugar pero no, aquí quien es es el que es hasta el final, Y entonces, Rafa Gamliel, cuando vio que se aumentaron 400, 800 safsalim en el Bet Midrash, se sintió mal, entonces tuvo un sueño."
+"startMs": 730072,
+"endMs": 731472,
+"text": "Es casi un lav, ¿me explico?"
 },
 {
-"startMs": 1571000,
-"endMs": 1607000,
-"speaker": "אופיר סגל",
-"text": "Y Rafa Gamliel ahí dijo, Hashem, tú sabes que yo no lo hice por mi honor, yo lo hice por tu honor. O sea, Rafa Gamliel, Mehmet, dice, en el momento que yo le dé lugar a donde el or de Hashem no esté, entonces es un problema muy serio. Entonces Rafa Gamliel, él tiene que ser muy de esa, dice, no es por mí, era por ti. Pero con todo y todo está la otra cita, y ahí cambió la política en el Bet Midrash. Entonces lo que yo quiero que vean, y vean cómo es la cita a Rafa Gamliel, hay como cuatro mishnayot al final de Perek Bet, estudianlas."
+"startMs": 732812,
+"endMs": 739004,
+"text": "Sin Kriat Shemá. Sin Kriat Shemá. No es un isur, pero es una, un bitul ase. Tipo- Alguien que no se vaya a dormir."
 },
 {
-"startMs": 1607000,
-"endMs": 1617000,
-"speaker": "אופיר סגל",
-"text": "nos vemos a las 6.40, vean las cuatro Mishnayot y traten de pensar, ¿se traen cosas sobre Rabban Gamliel? Blikeshir."
+"startMs": 739004,
+"endMs": 739704,
+"text": "¿Eh?"
 },
 {
-"startMs": 1617000,
-"endMs": 1619000,
-"speaker": "Speaker 4",
-"text": "no, pero si, esa si tiene que ser."
+"startMs": 741784,
+"endMs": 746384,
+"text": "Si yo no me voy a dormir esta noche, me voy a hacer desvelada, a las tres de la noche decir Krias Shemá, difícil."
 },
 {
-"startMs": 1619000,
-"endMs": 1621000,
-"speaker": "אופיר סגל",
-"text": "por eso, por eso les estoy diciendo que las vean."
+"startMs": 749344,
+"endMs": 758424,
+"text": "O sea, sí y no, sí y no. O sea, al final está la jugada ahorita. Sí, sí, Kilo, en la Zohar, mitad de las cosas, y se va a quedar despierto estudiando toda la noche."
 },
 {
-"startMs": 1621000,
-"endMs": 1625000,
-"speaker": "Speaker 4",
-"text": "si, para que te des cuenta que si que es un chiste alejano."
+"startMs": 759244,
+"endMs": 763944,
+"text": "Entonces, sí. De hecho, es que Kilo, Rabán Gamliel dice,"
 },
 {
-"startMs": 1625000,
-"endMs": 1655000,
-"speaker": "אופיר סגל",
-"text": "entonces parece que que él, si no se puso de luto por su esposa porque, o sea, que si no total, se bañó porque él es isteniz y por su ebed tabi, si hizo luto porque era casher entonces el chema de novio, bueno, estábamos en Rabban Gamliel Rabban Gamliel, las Mishnayot. Rabio Shoa Ben Levi."
+"startMs": 765864,
+"endMs": 775204,
+"text": "dice que casi, casi si a las, si a las cinco de la tarde decidiste ir a echar un pádel, entonces dice: \"Vaya,"
 },
 {
-"startMs": 1655000,
-"endMs": 1686000,
-"speaker": "אופיר סגל",
-"text": "dijo que aunque dice, hay mitzvah de leer que ha chema la mitad, Esa es como el criat shema que es Reshut, ¿De Levi o...? De Ravishoa ben Levi Acá no se sube ya, Ravishoa ben Levi ¿Qué dijo Ravishoa ben Levi? Que hay mitzvá de decir, Al fin y al cabo que Adán crea el criat shema, Mitzvá le creó tal mitató, Como Rav Gamliel a lo mejor No hay eso, ya dijiste el shema de esto."
+"startMs": 776424,
+"endMs": 783204,
+"text": "tendrías que decir Krias Shemá antes\". No existe que estés un segundo al día si no estás en un estado de Krias Shemá."
 },
 {
-"startMs": 1686000,
-"endMs": 1718000,
-"speaker": "אופיר סגל",
-"text": "¿Me explico? El criat shema a la mitad de Rabán Gamliel, Es Bithilat alayla, Y ese es el miedo, Jajamim, Me explico, Jajamim dice Desde el principio de la noche No vayas, lo primero que haces es decir que es shema Porque como vas, imagínate Empiezas ahorita a comer y a tomar Dice, si empiezas a comer y a tomar ahorita en la noche Ya te distrajiste, Ya Bithalta Ya Bithalta del Kabbalah Todo el maljucho amá en algún momento, Entonces."
+"startMs": 783684,
+"endMs": 793364,
+"text": "No existe estar en un estado de Shemá. ¿Me explico? Para Rabán Gamliel, ¿eh? En el día, tú lo agarras como un estado que no estás en un estado de Shemá."
 },
 {
-"startMs": 1718000,
-"endMs": 1751000,
-"speaker": "אופיר סגל",
-"text": "Entonces es imposible, o sea, dice Ramán Gamliel, es imposible Entonces cuando Jajamim dijeron hasta Hazot, por un lado es algo que contradice a Ramán Gamliel Por otro lado es algo que lo apoya Lo contradice como ya lo dijimos Porque en el momento que tú le estableces un horario para decir que es Shema Y no dijiste que es toda la noche Quiere decir que, estás diciendo que hay momentos de no decir que es Shema Pero viene un Jajamim, entonces si fuera como que Vamos a llamarle que Jajamim dicen, Hay mucho a decirle hasta Hazot Como que hay, y ni han de decirlo hasta Hazot sería contradictorio."
+"startMs": 793444,
+"endMs": 804644,
+"text": "Sí, ya es, Kilo, esa es la noche de Rabán Gamliel, que él no, él no acepta un estado que no estés bajo el Krias Shemá. Rabán Gamliel dice constantemente: \"Necesito estar en un estado de Krias Shemá\", de ."
 },
 {
-"startMs": 1751000,
-"endMs": 1802000,
-"speaker": "אופיר סגל",
-"text": "Pero no, el punto de Jajamim es como que reforzar a Ramán Gamliel Dice, no vaya a ser que la persona se quede dormido Por eso te digo hasta Hazot, Porque el problema según Ramán Gamliel No es que tú tienes que decir que es Shema Sino que no te puedes quedar dormido sin, Entonces Jajamim, nada más establecieron, Que si se te va a Hazot, Entonces, ya es como que decir la shita de Rabán Gamliel, decirla, tú tienes que preocuparte a que no hay manera que se te vaya el Shema antes de, el Shema sin irte a dormir, pero por otro lado le están dando un tiempo, entonces Rabán Gamliel dice, no, es toda la noche, porque Jajamim dice en este Zahatzot, lo que significa que Jajamim sostiene que vienen como que a cuidar, vamos a llamarle la shita esta de Rabán Gamliel,"
+"startMs": 804724,
+"endMs": 811684,
+"text": "Entonces, el problema del dormido es la, la, o la que se va a dormir. Entonces, mi mail, no puede ser una mitzvá ta sé de decir Krias Shemá,"
 },
 {
-"startMs": 1802000,
-"endMs": 1833000,
-"speaker": "אופיר סגל",
-"text": "y por eso aquí dijeron que es Hayav mita, el que no hace como Jajamim es Hayav mita, no es una recomendación, no es una recomendación, sino es, no hay de otra, eso es lo que lo hace como, eso es lo hace muy, muy, muy Rabán Gamliel, en el aspecto de que, sí, tenemos miedo que vaya a ser, no vaya a ser que te quedes dormido, entonces la Takanat a mí me hace que entiendas más la shita."
+"startMs": 813404,
+"endMs": 823304,
+"text": "que tengas un horario para decir Krias Shemá, sino no puedes no estar en un estado de Krias Shemá. Entonces, mi mail, Krias Shemá no será que tenga un horario, Krias Shemá de la noche."
 },
 {
-"startMs": 1833000,
-"endMs": 1835000,
-"speaker": "אופיר סגל",
-"text": "de Rabán Gamliel."
+"startMs": 823844,
+"endMs": 831524,
+"text": "No existe que tenga un horario. Porque ahora que me voy a dormir. Porque, porque en el momento que yo pongo un horario, más más que tienes que decir Shemá."
 },
 {
-"startMs": 1835000,
-"endMs": 1838000,
-"speaker": "Speaker 5",
-"text": "pero lo que hace Hayav mita es que le gabe a Arbit ¿porque."
+"startMs": 832444,
+"endMs": 845184,
+"text": "Y el, y, y Rabán Gamliel sostiene es que no puedes no decir Shemá. Entonces, mi mail, en el momento que me dices que tengo que decir Shemá hasta cierta hora, entonces es otra Shkafá totalmente, es como lo convertiste como que en una mitzvá ta sé decir Shemá."
 },
 {
-"startMs": 1838000,
-"endMs": 1839000,
-"speaker": "אופיר סגל",
-"text": "¿eh."
+"startMs": 845504,
+"endMs": 853644,
+"text": "Entonces, hasta esta hora y más más hasta, hasta esta hora y así lo podrías pensar y no más. Y entonces, eso Rabán Gamliel se empieza a poner nervioso."
 },
 {
-"startMs": 1839000,
-"endMs": 1842000,
-"speaker": "Speaker 5",
-"text": "Hayav mita es que le gabe a Arbit le gabe a Arbit."
+"startMs": 853664,
+"endMs": 859224,
+"text": "¿Cómo, cómo limitas el Krias Shemá? No se haya limitado el Krias Shemá de la noche. En el momento que lo limitas hasta Jatzot,"
 },
 {
-"startMs": 1842000,
-"endMs": 1873000,
-"speaker": "אופיר סגל",
-"text": "si. plácenlo que te piden si lo que echen no, pero el primer tiruz es Pimpneón Echená el segundo tiruz es Filat Arbit ¿que es Filat Arbit? es la chitada de Rabán Gamliel la chitada de Rabán Gamliel es Filat Arbit es Jován Orochi, entonces íbamos a ver las Mishnayot de Rabán Gamliel Hayav mita porque colaboró en el libro de Hayav mita Tatran ¿eh? Hayav mita porque colaboró en el libro de Hayav mita Tatran, si, pero no solo Arbit cualquier libro de Hayav mita Tatran."
+"startMs": 860884,
+"endMs": 867664,
+"text": "en el momento que lo limitas hasta Jatzot, entonces... Y ponen..."
 },
 {
-"startMs": 1873000,
-"endMs": 1903000,
-"speaker": "אופיר סגל",
-"text": "si, pero ¿porque lo dijeron acá? acá lo dijeron para enfatizar esto, ahora, aquí Rabán Gamliel hay tres Mishnayot o cuatro, no me acuerdo cuantas al final del proyecto B entonces Rabán Gamliel va con esa misma línea dice Jatán, patur mikriyat shema balay la rishon ont mozai shabat el jatan ya esta, de por si esta cumpliendo una mitzvah si? el esta en una mitzvah, entonces cuando es, hace una mitzvah, es patur mi no mitzvah, y dice maaseh be raban gamliel."
+"startMs": 867724,
+"endMs": 875484,
+"text": "Entonces, dijeron hasta Jatzot. Entonces, Jatzot no me cuadra con Rabán Gamliel, porque toda la shitá de Rabán Gamliel es que, es que toda la noche tiene que ser un estado de Krias Shemá."
 },
 {
-"startMs": 1903000,
-"endMs": 1939000,
-"speaker": "אופיר סגל",
-"text": "dice shekarak, balay la rishon she nasa, Dijo Kriyat Shema, desde la primera noche Dijo a los alemanes, no le mataron a nuestro Rabbeinu, que se mataron a partir de Kriyat Shema en la primera noche No es que se mataron a partir de Kriyat Shema Dijo, dijo a ellos, no les suena a ellos que se mataron a Kriyat Shema en la primera noche Es la suerte de Rabban Gamliel Es que no existe quitarse el alma a Kriyat Shema en la primera noche Es la misma línea de Rabban Gamliel, Segundo Mishnah, dice. Rabban Gamliel no quiere entrar en un resú, en algo que no haya un matado de Jehová."
+"startMs": 876084,
+"endMs": 885004,
+"text": "En el momento como que lo hago es como que un, un momento específico. Cuando tú haces un gueder, que el gueder te está cambiando totalmente el- El mahut."
 },
 {
-"startMs": 1939000,
-"endMs": 1971000,
-"speaker": "אופיר סגל",
-"text": "Dijo, no le mataron a nuestro Rabbeinu, que se mataron a partir de Kriyat Shema en la primera noche Siempre Shema está presente, entonces siempre estás tú, Mishahabad, hacia el Kabbalah o el Mehochamay Dijo, no le mataron a nuestro Rabbeinu, que se mataron a partir de Kriyat Shema en la primera noche. no es delicado no hacer la baja se hace el punto de que él es la misma cita de."
+"startMs": 885044,
+"endMs": 893464,
+"text": "El mahut de la mitzvá, entonces no me hagas ese gueder, me estás cambiando la mitzvá, cero a mitzvá. Claro. O sea, Rabán Gamliel quiere que, que nos metamos a la cabeza."
 },
 {
-"startMs": 1971000,
-"endMs": 2006000,
-"speaker": "אופיר סגל",
-"text": "jalar el quien venía guardando más que como que fuera de su guía ya vamos así en el tema y completando acá la idea pero si quieren bienvenido siempre estamos viendo como raban gamliel lleva una línea estamos usando mis rayos de más estamos dando mis rayos de más adelante para ver como que la línea general de la."
+"startMs": 893504,
+"endMs": 902904,
+"text": "Está del omek, porque el omek es... Rabán Gamliel quiere que te metas a la cabeza el, el hecho de que no existe estar en un estado fuera del Krias Shemá."
 },
 {
-"startMs": 2006000,
-"endMs": 2038000,
-"speaker": "אופיר סגל",
-"text": "cabeza de como raban gamliel ve las cosas nos vimos que raban gamliel dice que crea temas hasta la mañana no tiene un horario, Entonces dijimos que el punto en Rabán Gamliel es que el kriyat de Shema en la noche no puede tener un horario. La idea según Rabán Gamliel es, no que hay que decir Shema en la noche, sino no te puedes ir a dormir sin Shema. El problema es, o sea, el kriyat de Shema de Rabán Gamliel no es para el despierto, es para el dormido. Él dice, el que se va a dormir se desconecta. Rabán Gamliel dice, no existe un estado de desconexión."
+"startMs": 904364,
+"endMs": 916204,
+"text": "No existe estar en un estado fuera del Krias Shemá. Tienes que siempre constantemente estar en Krias Shemá, y por eso Krias Shemá tiene que ser hasta la mañana, porque todo el punto es, es lelamed, que hay un Jizarón que te vas a dormir sin Krias Shemá."
 },
 {
-"startMs": 2038000,
-"endMs": 2068000,
-"speaker": "אופיר סגל",
-"text": "No existe un estado donde haya realmente noche y como que separación de Shema. La otra línea es, no, tú dices que el Shema cuando estás despierto, cuando estás dormido, entonces ahí, como si a Shema te suelta. Entonces, ¿qué tiene de bueno eso? Que cuando a Shema te suelta, entonces es una oportunidad para buscarlo. Rabán Gamliel, él ve las cosas más desde arriba hacia abajo, más desde a Shema hacia nosotros."
+"startMs": 916644,
+"endMs": 925404,
+"text": "Entonces, mi mail es siempre que estás antes de dormir, tienes que decir Krias Shemá, pero en el momento que me dices: \"No, tienes que decir Krias Shemá\", entonces ya lo convertiste como que hay algo, una de las cosas que hay que hacer en la noche es decir Krias Shemá."
 },
 {
-"startMs": 2068000,
-"endMs": 2102000,
-"speaker": "אופיר סגל",
-"text": "Más. Más como... No existe la oscuridad, porque no, si te fijas bien vas a encontrar a Shem en la oscuridad, entonces por eso él también, él también sostiene que Tefilat Arbit es obligatoria, según los otros Hamim, Tefilat Arbit es Reshut, no es obligatoria, según Ramón de Uriel es Hobá, ¿por qué es Hobá según Ramón de Uriel? ¿por qué es obligatoria? Porque no es cierto que no hay luz, Ramón de Uriel dice, no es cierto que no hay luz, si hay luz, o sea el punto es que en el momento que hay oscuridad, Hashem ya no se está dirigiendo a ti, ya te dejó solo."
+"startMs": 925764,
+"endMs": 935124,
+"text": "Y el punto de, que dice Rabán Gamliel, no es una de las cosas que quiero que hagas en la noche, sino lo que no quiero que hagas es que te desconectes del Krias Shemá y por eso necesito que digas Krias Shemá, ¿sí?"
 },
 {
-"startMs": 2102000,
-"endMs": 2123000,
-"speaker": "Speaker 4",
-"text": "Entonces para él ya está de sobra el que ya se va a la mitad."
+"startMs": 935164,
+"endMs": 942284,
+"text": "Es, es Rabán Gamliel cambia, cam-cambia el switch. También, también el tema de decir el beta kneset estando en la torre. ¿Eh? También el tema de decir el beta kneset estando en la torre."
 },
 {
-"startMs": 2123000,
-"endMs": 2131000,
-"speaker": "אופיר סגל",
-"text": "Ramón de Uriel a lo mejor se pondría nervioso. hablame de obligaciones y la obligación ya la cumpliste y la cumpliste para toda la noche."
+"startMs": 942304,
+"endMs": 948544,
+"text": "Muy bien, sí. ¿Qué? Que también el tema de decir lo, de decir lo del beta kneset le están en la torre, Rabán Gamliel. ¿Por qué?"
 },
 {
-"startMs": 2131000,
-"endMs": 2137000,
-"speaker": "Speaker 4",
-"text": "no, no tienes que decir antes de dormir, entonces ya no tienes que decir que si es antes, justo es antes de dormir ya no tienes que decir que es antes de dormir."
+"startMs": 949404,
+"endMs": 951104,
+"text": "Lo dice en Narvit, pero Flaya."
 },
 {
-"startMs": 2137000,
-"endMs": 2169000,
-"speaker": "אופיר סגל",
-"text": "no, para Raván Gamliel no es antes de dormir, para Raván Gamliel, es le da miedo que te vayas a dormir sin, y al revés entre más antes que lo digas mejor, porque Raván Gamliel le da miedo, ahorita vas a cenar sin cría Shema, espérate, Raván Gamliel dice no entres en un estado de no cría Shema ¿me explico? ese es el miedo de Raván Gamliel entonces también ir a comer, ir a cenar te puede llevar hasta que al final te vas a dormir y se te va a ir cría Shema eso es todo lo que dice la Guemará aquí en relación a Raván Gamliel."
+"startMs": 953384,
+"endMs": 963404,
+"text": "No, no, no, está bien que lo dijiste en Narvit. No, ya. Si tú dijiste que Krias Shemá en la noche, también a la primera hora de la noche está muy bien, porque ya hiciste que toda la noche sea una, una noche de Krias Shemá."
 },
 {
-"startMs": 2169000,
-"endMs": 2201000,
-"speaker": "אופיר סגל",
-"text": "que es el miedo, no la obligación así decir sino el miedo a no decir y por eso Rabban Gamliel cuando se casó, según todos, el jatán, el novio es patur de Chema ¿sí? Rabban Gamliel, él dijo Chema dice ¿por qué? dice, no los puedo escuchar a quitarme el maljut shamayim ni siquiera ni un segundo. Es el mismo Rabban Gamliel, dice, no, para mí, ni aunque yo sea novio, y ahorita yo estoy en otras, dice, para mí no hay que estar en otras."
+"startMs": 963444,
+"endMs": 973384,
+"text": "Pero le pusiste un sman, le pusiste un... No, si le pusiste sman es un problema. Pero si no le pongo sman, entonces viene, si le pones un sman-- No, no digo sman, sman de hora."
 },
 {
-"startMs": 2201000,
-"endMs": 2234000,
-"speaker": "אופיר סגל",
-"text": "En cualquier situación no puedo quitar el maljut shamayim ni siquiera un segundo. Siguiente Mishnah sobre Rabban Gamliel, que la Mishnah trae otra Mishnah en relación a Rabban Gamliel, sin alguna relación, al parecer, con las halajot del Shema. Que cuando se murió su esposa, él se bañó, y le dijeron a sus alumnos, Rabban Gamliel, nos dijiste que es prohibido bañarse cuando uno está de luto, y tú la primera noche, fallece la esposa y ya te vas a bañar, y dice, no, yo soy delicado, yo no soy como todos."
+"startMs": 973784,
+"endMs": 975004,
+"text": "Le pus-- en Narvit."
 },
 {
-"startMs": 2234000,
-"endMs": 2266000,
-"speaker": "אופיר סגל",
-"text": "¿Para qué la Mishnah nos trae esa historia? O sea, primero que nada no aprendemos ni siquiera ni un alajá, La halajá es que no se puede uno bañar Y Rabán Gamliel es una excepción Porque él es delicado, Y no es que se aprenda ahí que cualquier delicado Así le van a decir, oh, tú eres como Rabán Gamliel No, entonces, ¿Qué sentido, Está acá ahí? ¿Por qué te lo trae justamente Después de la otra? Y no hasta lo trae después de la otra Se parece mucho, dice, Eyni Keshav Ne'eman Él hace algo, sus alumnos."
+"startMs": 977664,
+"endMs": 985304,
+"text": "Lo estás limitando a Narvit. Mmm-hmm. Yo no digo que ponerle sman de hora. O sea, ¿qué diferencia hay decir igual entre siete y ocho o en Narvit?"
 },
 {
-"startMs": 2266000,
-"endMs": 2298000,
-"speaker": "אופיר סגל",
-"text": "Le preguntan y dice Yo no soy como todos, ¿no? Así, Entonces acá la idea es que él El luto es una oscuridad. Él no se permite Nunca entrar, Plenamente a un estado de oscuridad Él jala la luz también a la oscuridad Entonces también cuando él está en un estado De luto, hay dos maneras de cómo verlo Uno es, alguien está pasando Una situación difícil, hay dos maneras De cómo atravesarla, uno Ver los puntos buenos."
+"startMs": 985644,
+"endMs": 991704,
+"text": "No, porque en Narvit-- El shit es que no tenga gul. Sí, bueno, ¿qué? Es que no tenga gul, nomás que lo puse en Narvit."
 },
 {
-"startMs": 2298000,
-"endMs": 2329000,
-"speaker": "אופיר סגל",
-"text": "donde, espérate, yo sigo viendo la presencia de Hashem acá, y la otra es no. aceptar entrar en donde uno siente esa falta y desde ahí buscar a Hashem ese es el aspecto que se llama como que te metes a la oscuridad y desde ahí, espérate, entonces Hashem yo te busco a ti, y el otro es no, no me olvido, Hashem no me ha abandonado y entonces Rabán Gamliel, él dice no, Hashem no me ha abandonado, yo sigo viendo los puntos buenos y la otra."
+"startMs": 992024,
+"endMs": 1003264,
+"text": "Ya le estás dando gul. Es la misma opinión de ahora. Un poquito diferente. No, no, no. No, porque no es, no es como que la esencia del Krias Shemá, sino tú tienes toda la noche para decir Krias Shemá."
 },
 {
-"startMs": 2329000,
-"endMs": 2369000,
-"speaker": "אופיר סגל",
-"text": "línea es no, acepto acepto lo duro, y dentro de lo duro ahora voy a ver como, regresar, vamos a llamarle como buscar a Hashem desde la oscuridad son dos, son dos perspectivas no. No deja que haya algo malo, es algo muy diferente, no acepta lo malo, no acepta lo malo, y vas a ver como lo malo se va a convertir en bueno, vas a poder tu ahorita sacar algo bueno de lo malo, lo otro es como que nunca llegar a una situación de como que desconexión,"
+"startMs": 1003764,
+"endMs": 1011944,
+"text": "Nomás que, eh, eh... Obviamente, no queremos que a la gente se le olvide, entonces lo ponemos en Narvit. Y Flay que sale de jugar para Krias Shemá de Laila, ¿sí?"
 },
 {
-"startMs": 2369000,
-"endMs": 2401000,
-"speaker": "אופיר סגל",
-"text": "explico, entonces él, él también cuando entra en un luto, él como que quiere mantener el mismo estado de luz que tenía antes, por lo menos se baña, y el hecho que él es delicado viene de la misma, eso, no, el hecho que es delicado viene, él es muy, Él nunca se baja a... Sí, él no puede aceptar suciedad. ¿Me explico? Él nunca puede entrar a un estado sucio. Él siempre necesita estar pulcro, limpio, como yo se lo traté a ti."
+"startMs": 1012184,
+"endMs": 1019464,
+"text": "Entonces, el punto es que Rabán Gamliel... O sea, me sonó muchísimo lo que ati mamás para los- Los tzadikim murim. Sí, eso es lo que quiero."
 },
 {
-"startMs": 2401000,
-"endMs": 2432000,
-"speaker": "אופיר סגל",
-"text": "Sí, era guapo, siempre era muy... O sea, aunque esté en la cárcel, pero él... Está en la cárcel, pero es el más exitoso ahí. ¿Me explico? Ve a alguien de malas en la cárcel, ¿qué le pregunta a Yosef? ¿Por qué está de malas? ¿Qué pasó? No entendí nada. ¿Quién no está de malas en la cárcel? ¿Me explico? Entonces, Yosef es el que se queda... El que jala la luz hacia la oscuridad. ¿Me explico? Ve a la línea de este de Yosef. Que él jala la luz hacia la oscuridad. Entonces, no le deja la oscuridad existir, porque él constantemente está jalando la luz."
+"startMs": 1020604,
+"endMs": 1031164,
+"text": "Eso, el tzadik amur no le da lugar, no le da lugar al Joseh. Rabán Gamliel es de la shitá del que no, no puede darle lugar al Joseh, no existe irse a dormir."
 },
 {
-"startMs": 2432000,
-"endMs": 2468000,
-"speaker": "אופיר סגל",
-"text": "Pero yo creo que el que teníamos mi calema más que el grupo. ¿Eh? No lo teníamos. Claro, aún en algo como que muy técnico, que él es muy delicado, es algo que tiene su explicación también al piso, viene de ahí, también una persona puede identificar qué tipo de Nechama es, también según si te gusta el chile, me explicó también si te gusta el chile, hay gente que le gusta lo dulce, hay gente que le gusta lo salado, hay gente que le gusta lo picoso, hay gente que le gusta,"
+"startMs": 1031243,
+"endMs": 1037464,
+"text": "Sí. Tiene que haber Or siempre. Tiene que haber Or siempre. Entonces, no puede haber, eh..."
 },
 {
-"startMs": 2468000,
-"endMs": 2500000,
-"speaker": "אופיר סגל",
-"text": "eso realmente revela mucho también cómo estudias, tú dime a alguien cómo estudia y te puedo decir qué tipo de comida le gusta, ¿me explico?, más o menos, ¿qué cena?, le gusta cenar más pollo, ¿me explico?, no cena cereal con leche, ¿me explico?, es diferente. en los extremos siempre hay medios."
+"startMs": 1037523,
+"endMs": 1039164,
+"text": "El Joseh no puede tener lugar."
 },
 {
-"startMs": 2500000,
-"endMs": 2531000,
-"speaker": "אופיר סגל",
-"text": "pero lo puedes ver le gusta así más, no es tan Raban Amlil es más así alguien más estructurado, bien hecho sería el corocha al revés del que necesita cenar pollo y que así bien es alguien más rígido más, chocolate, es más maduro es más Chama."
+"startMs": 1040523,
+"endMs": 1050944,
+"text": "Entonces, como tiene que haber Or constante, entonces el, el dormir es Joseh. Rabán Gamliel dice: \"No, también el dormido es cara de decir Krias Shemá\"."
 },
 {
-"startMs": 2531000,
-"endMs": 2553000,
-"speaker": "אופיר סגל",
-"text": "el que le gusta lo dulce es más alguien que es más si se gusta el color es el frutilupi, si cena cereal es el cuaique es el cuaique si ya cena cereal es cuaique no ahorita, frutipebes no."
+"startMs": 1051864,
+"endMs": 1060424,
+"text": "También el dormido tiene un aspecto que él tiene una Jobá. O sea, yo-- Rabán Gamliel dice: \"Yo tengo un problema que me digas que el dormido es para cumplir la mitzvá\"."
 },
 {
-"startMs": 2553000,
-"endMs": 2565000,
-"speaker": "Speaker 2",
-"text": "entonces, yo no soy de la misma cita, entonces, el pan con choco, así dobladito como el de los niños."
+"startMs": 1060564,
+"endMs": 1067484,
+"text": "No, es cara de Krias Shemá. Y entonces, ¿cuál es, cuál, qué mitzvá está cumpliendo el dormido? Que no se durmió sin Krias Shemá."
 },
 {
-"startMs": 2565000,
-"endMs": 2582000,
-"speaker": "אופיר סגל",
-"text": "yo soy igual, yo no puedo, un pollo en la noche, loco."
+"startMs": 1067804,
+"endMs": 1074584,
+"text": "Esa es la mitzvá. Rabán Gamliel dice: \"No, necesito jalar la luz, ¿sí? Afilo el mazal cuando está dormido\"."
 },
 {
-"startMs": 2582000,
-"endMs": 2590000,
-"speaker": "Speaker 2",
-"text": "la gente que necesita chile en todo, que cariño, que coso, no? tambien, el que hace más bloques en cada..."
+"startMs": 1075764,
+"endMs": 1082644,
+"text": "Rab-- Flay Tehilte dice: \"No, tú tienes que decir Krias Shemá cuando empieza la noche\". Es la hora de ser. El que dijo hasta, hasta la cuarta hora."
 },
 {
-"startMs": 2590000,
-"endMs": 2641000,
-"speaker": "Speaker 5",
-"text": "el que le gusta los picos."
+"startMs": 1082764,
+"endMs": 1090844,
+"text": "A él no le molesta que haga un mazal de nituk, de nituk. ¿Eh? Él siempre que haga un mazal de dormir, no le molesta que haga un nituk, no decide un nituk."
 },
 {
-"startMs": 2641000,
-"endMs": 2698000,
-"speaker": "אופיר סגל",
-"text": "Yosef no te lo imaginas en lodo, me explico, él es muy pulcro, muy así. Entonces, la siguiente Mishnah es que cuando se murió Tabi, su hebe, dice él le dolió, recibió nechamá, nechamá de la gente por cuando se murió su esclavo Tabi. Ahora, un esclavo es un esclavo goy, un esclavo goy casi que es una pertenencia en cierto aspecto, entonces alguien que se le muera, imagínense, no es el caso de Tavi, pero imagínense, se le mueve, si, entonces, si es de hire, de hire no es que tipo, como hire, me explica, a lo mejor tenías que ir con él, pero como hire, entonces ya, cambias, hay otra, me explico, no pasó nada, a nivel hire, a nivel sirvienta."
+"startMs": 1090924,
+"endMs": 1102664,
+"text": "Es, eso no, no es un nituk, eh, de averá, no es un nituk de averá, sino me metes algo que puedes tú ahorita, eh, crear con eso un Jibur Masamoc en la mañana."
 },
 {
-"startMs": 2698000,
-"endMs": 2727000,
-"speaker": "Speaker 4",
-"text": "me explico, y él, bueno, ese es otro rollo, es de las peores cosas normales que te pueden pasar, los niños se pegan mucho, los niños pequeños también se pegan mucho, a veces, a las muchachas, si, si, no, pero ese ya no es la sirvienta, ya es la persona, me explico, aquí es más, más la persona, no es una pérdida, no es una pérdida, es una pérdida emocional, no es una pérdida, ya, consigues otra, o sea, pérdida emocional, si, porque sufres, pero no es de que."
+"startMs": 1102764,
+"endMs": 1111064,
+"text": "Entonces, déjale a la persona, lo dejas dormir, beter, lo dejas dormir, le dejas kilo al Ra, no es el Ra, pero le das Makom vemeta al Guf, vamos a llamarle de existir."
 },
 {
-"startMs": 2727000,
-"endMs": 2740000,
-"speaker": "אופיר סגל",
-"text": "No, pero eso ya no es como que la sirvienta, me explico que no estamos hablando, la sirvienta es algo muy, no se hace el luto de eso, sino ya, se consigue otra y ya, se puede elegir, ya, consigue esa otra."
+"startMs": 1111944,
+"endMs": 1118604,
+"text": "No necesita ser la persona constantemente Neshamá, sino la persona tiene Neshamá y Guf. Entonces, el Guf es Guf. ¿Ese quién es?"
 },
 {
-"startMs": 2740000,
-"endMs": 2742000,
-"speaker": "Speaker 3",
-"text": "¿No es el luto de quien te va a limpiar la casa."
+"startMs": 1119784,
+"endMs": 1126484,
+"text": "Rabiel es el que limita la hora del Krias Shemá. Dice: \"Krias Shemá es cuando estás consciente\". Cuando no estás consciente, entonces fuj."
 },
 {
-"startMs": 2742000,
-"endMs": 2779000,
-"speaker": "אופיר סגל",
-"text": "Sí, ya, se limpia, se limpia de otra manera, pero él cuando falleció su esclavo Tavi, él sí hizo luto, entonces, me preguntaron, es algo muy opuesto a lo de antes, porque ahí cuando murió su esposa, se bañó, y aquí se muere el esclavo, y ya se bañó un medio. Amarrae dice, no, mi esclavo es diferente. En Tabi Abdi Kesharkola Abedin, Kasher allá, dice, mi esclavo Tabi era Kasher,"
+"startMs": 1126544,
+"endMs": 1139664,
+"text": "Tienes que reconocer que hay momentos que no estás consciente y, y esos momentos los necesitas aprovechar para, para, para, para la fojotam, la foj el Joseh, la fojotoleor."
 },
 {
-"startMs": 2779000,
-"endMs": 2812000,
-"speaker": "אופיר סגל",
-"text": "eso quiere decir, su esclavo Tabi llegó a una situación donde él logró llevar su luz, que también su esclavo, su esclavo mismo es luz, su esclavo no es oscuridad, su esclavo mismo es luz también, entonces tanto se jaló hasta el esclavo, que cuando murió su esclavo no era nada más un esclavo, él era un Ebed Kasher, no era como todos los esclavos, él es diferente. Él es de los mejores, en cierto aspecto parecido a Tabi."
+"startMs": 1140109,
+"endMs": 1149769,
+"text": "Nisan val-- esto vale olir or Eso vale olir or Pero vale olir or. Sí. Lo que no le va a contar que es gamlel es porque pasó que había or, pero etem red si ahorita tiene el mata resjos."
 },
 {
-"startMs": 2812000,
-"endMs": 2846000,
-"speaker": "אופיר סגל",
-"text": "Jatan imratzali krot kriachema belay la rishon kore, siguiente mishnah, dice, un jatan que quiere leer kriachema la primera noche, puede leer, rapanchimun gamriel omer, dice, loko la rotzeli tole tashemi tole. el hijo de Rapan Gamliel dice, no todos pueden ser como mi papá aquí es el punto increíble, que Rapan Gamliel, tiene que ser auténtico, porque en el momento que no es auténtico alguien que dice, bueno yo, no quiero levater mi meni, quitarme a Olman Huchamay ni siquiera un minuto."
+"startMs": 1150069,
+"endMs": 1156388,
+"text": "Sí, sí, sí, sí. Y Rabán Gamaliel dice: \"No existe. No existe betem lebatel criat shemá ni un segundo."
 },
 {
-"startMs": 2846000,
-"endMs": 2878000,
-"speaker": "אופיר סגל",
-"text": "si no eres Rapan Gamliel no lo hagas no te creas el auténtico, no te creas el auténtico si realmente no lo eres entonces si no eres Rapan Gamliel entiendes que a lo mejor tu tipo de trabajo es diferente entonces dijimos que en la yeshiva de Rapan Gamliel cuando él era el rojo yeshiva había muy pocos alumnos, porque decía aquí solo puede estudiar el que sea 100% como se ve afuera es 100% adentro si no se queda afuera cuando se pasaron a Rapan Gamliel de ser rojo yeshiva se aumentaron 800."
+"startMs": 1156809,
+"endMs": 1163329,
+"text": "Tiene que haber or constante siempre en todos los mazavim\". Y Rabí Eliezer, él entiende el Ijud Hashem de una manera diferente."
 },
 {
-"startMs": 2878000,
-"endMs": 2914000,
-"speaker": "אופיר סגל",
-"text": "800, sillas, entonces como que Rapan Gamliel él es, El lugar, vamos a llamarle, donde no le deja lugar a nada oscuro. Y la otra línea de Rabán Gamliel es, dale lugar a lo oscuro y vas a ver como al darle lugar a lo oscuro, vas a ahorita encontrar, filatar bitreshut, por ejemplo, Rabán Gamliel te dice, no, es obligatorio, es obligatorio, Hashem no se fue a ningún lugar, Hashem no se fue a ningún lugar. El otro te dice, no, suelta, suelta un poco, ahorita Hashem se está, vamos a llamarle,"
+"startMs": 1163369,
+"endMs": 1173129,
+"text": "Él entiende Ijud Hashem no de que el or mitpashet siempre en el josheq, sino que el josheq beatzmo se puede la afoc liot or."
 },
 {
-"startMs": 2914000,
-"endMs": 2937000,
-"speaker": "אופיר סגל",
-"text": "te está dejando solo, aquí la idea es que, sí, que te sientas solo y aquí vas a sacar una luz, no vas a traer la luz de antes a la oscuridad, sino la oscuridad la vas a convertir en luz. ¿Cómo? En el momento que sientes la lejanía, entonces dices, espérate, entonces Hashem yo te busco. Esa es la otra línea. La línea de Rabán Gamliel es jalar la luz a la oscuridad y la..."
+"startMs": 1173429,
+"endMs": 1181529,
+"text": "Entonces, kilo no tiene miedo del josheq, mientras no sea una berá, ¿sí? Mientras no sea una berá, no tiene miedo del josheq, pero puedes agarrar el josheq y hacerlo or, ¿sí?"
 },
 {
-"startMs": 2937000,
-"endMs": 2939000,
-"speaker": "Speaker 4",
-"text": "Pero él al final se dio cuenta que era para él nada más."
+"startMs": 1181629,
+"endMs": 1182469,
+"text": "La berá es más..."
 },
 {
-"startMs": 2939000,
-"endMs": 2940000,
-"speaker": "אופיר סגל",
-"text": "¿Eh."
+"startMs": 1184189,
+"endMs": 1190269,
+"text": "La de, la de, la de Gamaliel lo va a ver como el mazabé que también de esa berá al final va a subir, ¿no?"
 },
 {
-"startMs": 2940000,
-"endMs": 2943000,
-"speaker": "Speaker 4",
-"text": "Al principio él sí quería lograr así."
+"startMs": 1190869,
+"endMs": 1199829,
+"text": "Sí, sí, sí, sí, sí. Es, es David HaMelej, sí, es David HaMelej. Sí, sí, sí, seguro. Y Rabí Eliezer puede ver el mazá de la berá, no me agradable, creo que ha sido Rabí Eliezer."
 },
 {
-"startMs": 2943000,
-"endMs": 2945000,
-"speaker": "אופיר סגל",
-"text": "En la yeshiva, al final lo..."
+"startMs": 1200089,
+"endMs": 1208889,
+"text": "¿Qué? La falta de misav teshiro. Es una, una minoridad que hay allá. No, Rabán Gamaliel, ese es el problema. Rabán Gamaliel ve met, ve una berá como un, un problema muy serio."
 },
 {
-"startMs": 2945000,
-"endMs": 2946000,
-"speaker": "Speaker 4",
-"text": "O sea, al final ya el..."
+"startMs": 1209669,
+"endMs": 1216429,
+"text": "Ya, betem, el besmadre de Yosef. De Lopo, de David. Quiero po, ta..."
 },
 {
-"startMs": 2946000,
-"endMs": 2979000,
-"speaker": "אופיר סגל",
-"text": "No, es que hay cosas y hay cosas. Por ejemplo, sobre el jatán de decir kriya chema, eso sí es algo muy exclusivo de Rabban Gamliel. Porque ahí lo que el jatán es patú de kriya chema es porque ya está haciendo una mitzvá. ¿Me explico? El jatán ya está haciendo una mitzvá. El dormido no está haciendo nada. Entonces, en la shita de Rabban Gamliel, en relación al dormido, eso sí es más aplicable para todos. Pero decir kriya chema aún siendo jatán, jatán lo que es patú... Es porque lo que el jatán es patú es porque está haciendo una mitzvá."
+"startMs": 1217889,
+"endMs": 1224929,
+"text": "Está bajuts, está bajuts. Está lo shayah polaín, está... Está tan mamáslu, no, está ranlos bretlem, ¿qué pasa?"
 },
 {
-"startMs": 2979000,
-"endMs": 2982000,
-"speaker": "Speaker 4",
-"text": "No, pero esa es la lajade que se mira mientras termina la mitzvá."
+"startMs": 1225089,
+"endMs": 1231969,
+"text": "No, está lo litaygá. Está lo shayah pola-- ¿Qué, qué es ser parte del Mekorín?"
 },
 {
-"startMs": 2982000,
-"endMs": 2986000,
-"speaker": "אופיר סגל",
-"text": "Sí, pero Rabban Gamliel ahí te dice no, dice no, yo necesito ahí."
+"startMs": 1232049,
+"endMs": 1238629,
+"text": "Ah, Mekorín, está lo Mekorín. El Mekorín es batsua. Está lo satigado, está lo Mekorín."
 },
 {
-"startMs": 2986000,
-"endMs": 3005000,
-"speaker": "Speaker 4",
-"text": "No, yo digo eso. Él se dio cuenta que su rigidez no podía funcionar. En algunos lugares no, pero hay lugares que sí se cae como Rabban Gamliel. No, pero yo digo que así como al final, hubiera cambiado la lajade al principio también. ¿Eh? O sea, a lo mejor si este Rabban Gamliel de estas mishnayot, si hubiera hablado al principio de kriya chema, hubiera hecho la jatzot. osea dice que se repitió."
+"startMs": 1239489,
+"endMs": 1247689,
+"text": "Entonces, entonces, Rabán Gamaliel es el que dice que tefiláh darbit es jobá. Es pelepláin, más que tefiláh darbit sea jobá."
 },
 {
-"startMs": 3005000,
-"endMs": 3035000,
-"speaker": "אופיר סגל",
-"text": "no, no hay manera, no, no, no en el momento que se anula Raban Gamliel se cae todo todo, todo se derrumba si hay, vamos a ver la línea de Raban Gamliel es el que nunca cae el que siempre como que es auténtico ves el Betamigdash el sigue como que, manteniendo el Betamigdash que se destruyó, esa luz la sigue jalando y como si nunca se destruyó, por eso una de las tres cosas si en cierto aspecto es Gura, es Emet."
+"startMs": 1248609,
+"endMs": 1256749,
+"text": "Si es noche, es kibiajol cuando Hashem te deja solo. Dijimos que la jobá de si Shakhrit, de si Mikah, porque Hashem pone elejá."
 },
 {
-"startMs": 3035000,
-"endMs": 3068000,
-"speaker": "אופיר סגל",
-"text": "muy, muy el Emet entonces el nunca para el el Betamigdash lo ve como algo que no se destruyó, me explico como que el sigue llevando lo auténtico hay lugares, hay lugares hay lugares, hay lugares, fíjate una de las cosas que se pidió que se, cuando se iba, cuando se destruyó el Betamigdash este Rabihan al-Mendakai le dijo a, el César que, el Betamigdash, el de antes de titus como se llamaba las pasiones le dijo pídeme tres cosas pídeme."
+"startMs": 1257749,
+"endMs": 1264669,
+"text": "En la noche, kibiajol te deja solo. Entonces, el mandamento que es tefiláh darbit reshut es: yo estoy solo, entonces yo busco a Hashem."
 },
 {
-"startMs": 3068000,
-"endMs": 3099000,
-"speaker": "אופיר סגל",
-"text": "tres cosas pidió a llavne era la ishiva de rabindra, si lo que ha realizado que le den lo curen a rabita doc y la tercera era su celta de rabangamlil su celta de rabangamlil es como que las eslabones su, celta la dinastía de rabangamlil es como que hay el linaje el linaje de hijo tras hijo de rabangamlil eso no lo puedes quitar."
+"startMs": 1265829,
+"endMs": 1270569,
+"text": "Yo ahorita en mi soledad, yo busco a Hashem. Si quiero, sí, sí. ¿Eh? Si quiero."
 },
 {
-"startMs": 3099000,
-"endMs": 3131000,
-"speaker": "אופיר סגל",
-"text": "entonces rabangamlil dice espera se va a destruir el betamigdash pero nosotros necesitamos reconstruir el tercer betamigdash para eso necesitamos llavne que significa llavne y bane que se construye el tercer betamigdash necesita rabitza doc rabitza doc fue el que ayuno 40 años seguidos para que no se destruya el betamigdash, entonces, Ravichado que es el que siente el dolor de la pérdida del Betamigdash entonces curar a Ravichado que es."
+"startMs": 1271949,
+"endMs": 1278409,
+"text": "Eh, claro, claro, sí. Entonces, ¿y quién sostiene que es jobá? Rabán Gamaliel. Rabán Gamaliel."
 },
 {
-"startMs": 3131000,
-"endMs": 3163000,
-"speaker": "אופיר סגל",
-"text": "nosotros queremos que Ravichado que él es el que es Ravichado que es muy de la línea de David Amélez, vamos a llamarlo así él siente el dolor de la pérdida, él sí hace luto de las pérdidas, ¿me explico? va a ser la anhelación a que se construya el tercero, pero si el segundo Betamigdash que es el que está destruyendo, pasa al olvido, entonces no va a haber alguien que pueda anhelar al tercero, porque se quitó el ejemplo, entonces ¿quién es el otro que se necesita? A Ravangamliel, necesitamos a alguien que siga recordando que era el Betamigdash, entonces por eso se llama."
+"startMs": 1278729,
+"endMs": 1279489,
+"text": "Dice: \"No, no."
 },
 {
-"startMs": 3163000,
-"endMs": 3197000,
-"speaker": "אופיר סגל",
-"text": "Shushelta Rabán Gamliel, es como que el lineaje de Rabán Gamliel, que ellos siguen uno tras otro, jalando la línea del Beit Hamikdash, entonces el primer Rav en Yavne era Rabán Gamliel, y él era muy rígido, ¿por qué? ¿Cómo es? ¿Quién entraba al Beit Hamikdash? ¿Quién sube al Beit Hamikdash? Dice, ¿Qué es Barlevav? Que su corazón, así como lo tienes adentro, lo tienes afuera, Barlevav. Entonces Rabán Gamliel, él quería que Yavne sea el Beit Hamikdash."
+"startMs": 1280709,
+"endMs": 1284489,
+"text": "Hashem está, no lo estás viendo, pero ahí sí está Hashem\". No hay, no hay betem un matzá de,"
 },
 {
-"startMs": 3197000,
-"endMs": 3227000,
-"speaker": "אופיר סגל",
-"text": "¿Me explicó? Él jaló al Beit Hamikdash. Yavne es el Beit Hamikdash. No se ha destruido. Aquí seguimos. ¿Sí? Y entonces ahí es cuando bajaron a Rabán Gamliel. Y dijeron, mira, Rabán Gamliel, tú eres Rabán Gamliel. Pero Yavne es... Yavne, Yibane. Se va a construir el tercer Beit Hamikdash. También si tú... Si tú eres como tú, entonces no se va a construir el tercer Beit Hamikdash. ¿Por qué? Ya, no se destruyó. Entonces nos vamos a quedar con el chiquito. Queremos el grande. Queremos que también lo que sí se destruyó. Pero también toda la gente que se perdió por el Beit Hamikdash. Todos los que se alejaron por el Beit Hamikdash. Por la destrucción del Beit Hamikdash."
+"startMs": 1285769,
+"endMs": 1301089,
+"text": "de josheq mukhlat, ¿sí? Rabí Isaac dice al revés. Oh, entonces, aquí es cuando vienen jajamim. Entonces, la, la shitáh de Rabán Gamaliel, que tefiláh darbit no es reshut, sino es jobá, es porque él encuentra el or dentro del josheq y la otra shitáh es afuj, es más maalá."
 },
 {
-"startMs": 3227000,
-"endMs": 3261000,
-"speaker": "אופיר סגל",
-"text": "Que regresen. ¿Sí? Entonces estamos la fuerza de Rabichado. Que llora. Dice, ¿por qué lloras? No se ha destruido. No, yo lloro. Yo lloro, yo quiero el Beit Hamikdash, si yo si siento la perdida entonces yo lloro, ese es el que dice Tikun Katot como David Amele, que es la niña de David Amele me explico, el que siente la perdida, le duele y entonces anhela, anhela en base a la perdida ¿Rabiojana es Rabiojana? ¿eh? no, es Rabiojana Menzake es mucho antes, Rabiojana Menzake, Rabiojana Menzake y se ve que él es alguien que tenía como que algo muy."
+"startMs": 1301849,
+"endMs": 1307969,
+"text": "Dice: \"Quilu, el decir que es reshut es mejor\". Esa es la otra shitáh. Porque cómo yo busqué a Hashem."
 },
 {
-"startMs": 3261000,
-"endMs": 3292000,
-"speaker": "אופיר סגל",
-"text": "una visión muy general de todo de todos los estos, entonces Rapan Gamliel es el que mantiene el Beit Hamikdash construido mientras está destruido, ¿si? y ese es como que el Yehudí auténtico tipo hay las yeshivot y así, como que ellos como que siguieron la misma linea, te vas a generaciones de antes, siguen haciendo lo mismo desde el tiempo de la hermana, desde el tiempo de los Beit Hamikdash, Beit Shammai y Beit Hillel hay un Beit Midrash que esta estudiando y ahorita sigue habiendo un Beit Midrash que sigue estudiando me explico? pero ellos no hacen Kirú no traen."
+"startMs": 1308809,
+"endMs": 1319829,
+"text": "Si me dices que Hashem siempre está constante, entonces no me dejas yo buscarlo. Entonces, siempre me tengo que mantener ahí. Pero si me dejas betem que criat shemá, por ejemplo, está mukbal a un cierto momento."
 },
 {
-"startMs": 3292000,
-"endMs": 3324000,
-"speaker": "אופיר סגל",
-"text": "no hay, es como que se quedó lo mismo auténtico, así muy muy sellado, muy cerrado y entonces la otra, es Roban y Omnia y la otra es Chitá, esperate, vamos ahorita a hacer que también la oscuridad sea la luz de la oscuridad, entonces no podemos nada más quedarnos, recordando lo auténtico que siempre había, sino necesitamos ahorita ver que si, realmente cuando se destruyó el Beit Hamikdash nos alejamos, y si nos alejamos entonces necesitamos reconocer que estamos lejanos."
+"startMs": 1319869,
+"endMs": 1334069,
+"text": "Entonces, quiere decir que hay un mazá donde kibiajol sientes una lejanía, besuyemet. Y esa lejanía es la que te permite a ti, ahora, en vez de, en vez de que Hashem te esté buscando y tú nada más te estás agarrado ahí, entonces ahora tú te da la oportunidad de tú buscar a Hashem."
 },
 {
-"startMs": 3324000,
-"endMs": 3336000,
-"speaker": "אופיר סגל",
-"text": "y si reconoces que estás lejano entonces vas a encontrar una luz nueva para acercarte, y entonces es el lugar de donde están los no pueden estar parados."
+"startMs": 1334509,
+"endMs": 1341749,
+"text": "Ese es, ese, ese es el mandamiento que dice- Desde los ojos del emet se ve mejor Rabán Gamaliel, pero desde los, desde los ojos de la berá se ve mejor Rabí Eliezer."
 },
 {
-"startMs": 3336000,
-"endMs": 3337000,
-"speaker": "Speaker 4",
-"text": "y es más lo que."
+"startMs": 1341889,
+"endMs": 1348589,
+"text": "Muy bien, muy bien, exactamente, sí. Sí, sí, sí, exactamente. Como que Rabán Gamaliel él agarra el emet como está en el shamayim,"
 },
 {
-"startMs": 3337000,
-"endMs": 3369000,
-"speaker": "אופיר סגל",
-"text": "porque, y Rabia Hanan dice no bueno Rabia Hanan es como Rabia Hanan Lidl ¿por qué? porque ellos no nada más mantuvieron la luz de antes sino lograron crear una nueva luz que nunca existió que es la luz que vino después de la oscuridad es una luz que nunca existió Rabia Hanan Lidl su fuerza es que mantuvo la luz de antes y la única manera que hagas que la oscuridad regrese a ser luz es porque existe un Rabia Hanan Lidl porque puedo ver la luz lo veo y entonces quiero ahorita yo desde mi lugar."
+"startMs": 1349969,
+"endMs": 1361329,
+"text": "eh, eh, como está en el shamayim constantemente. Y, y, y, y el otro maalá, dijimos, es el de David HaMelej, es, es darle lugar al eretz, es darle lugar al eretz como es el eretz."
 },
 {
-"startMs": 3369000,
-"endMs": 3385000,
-"speaker": "אופיר סגל",
-"text": "apegarme a esa luz pero si no estuviera la luz de Rabia Hanan Lidl entonces sería como una destrucción, Una instrucción total, no hay ni siquiera donde anhelar, no hay nadie que ni siquiera nos recuerde que era el Beit Hamikdash, es como para anhelarlo, ¿sí? Entonces son las tres líneas."
+"startMs": 1361789,
+"endMs": 1368449,
+"text": "Pues mi mele, el eretz le da... Hay que ya decir Mikah, ¿no? No, yo te dejo. Yo te dejo. Cincuenta y seis, cinco minutos."
 },
 {
-"startMs": 3385000,
-"endMs": 3398000,
-"speaker": "Speaker 2",
-"text": "¿Puedo decir algo? Pensé en la mañana, cuando lo estaba haciendo ayer, una vez escuché, esto es un mismo margen, ¿no? Existe la luna, existe el sol, ¿me acuerdo? Pues la luna que es, va y viene, es David Amélez."
+"startMs": 1370229,
+"endMs": 1373569,
+"text": "No, nada más les voy a decir algo, cinco minutos para que vean, que estudien."
 },
 {
-"startMs": 3398000,
-"endMs": 3426000,
-"speaker": "אופיר סגל",
-"text": "Se hace chica, se hace grande. A veces es oscura, a veces no, a veces es David Amélez. Cuando ven en la luna, ¿qué decían todos? David Amélez es el Jaibe que... Así lo decimos en Mercado de la Habana, porque, dices, David se ve perdido y de repente regresa, por eso dices, ¿ves la luna ayer? ¡Oh, David Amélez es el Jaibe que hay! Porque David es alguien que de repente, espérate, no lo ves, está perdido, ya está muy oscuro, de repente, espérate, ¡ah, espérate! La oscuridad misma empezó a tener luz."
+"startMs": 1374769,
+"endMs": 1374809,
+"text": "Eh,"
 },
 {
-"startMs": 3426000,
-"endMs": 3441000,
-"speaker": "Speaker 2",
-"text": "Es increíble. ¿Sí? Y Rafael Gambriel es más el sol, más como que siempre... Pero ahí te va lo bueno que pensé. Eso ya, es la luna y el sol. Pero hay un dino. que haré el calendario lunar, tiene que a la fuerza acomodarse como el solar."
+"startMs": 1376329,
+"endMs": 1386069,
+"text": "una, Rabán Gamaliel, en Daf Kaf Het, ahí es, eh, el sipur famoso de Rabán Gamaliel, de-- él era el nazir y"
 },
 {
-"startMs": 3441000,
-"endMs": 3445000,
-"speaker": "אופיר סגל",
-"text": "Eso..."
+"startMs": 1387429,
+"endMs": 1399249,
+"text": "lo, lo bajaron del nesiyut, lo bajaron del nesiyut. Y toda la, el ficuáj era porque Rabán Gamaliel decía que arbit es jobá y Rab Ieshua sostenía que arbit es reshut."
 },
 {
-"startMs": 3445000,
-"endMs": 3466000,
-"speaker": "Speaker 2",
-"text": "Al fin, en el... Tienes que tú quedar, luna, vas, vienes, vas, vienes, te fuiste. Si vas, vienes y de repente volteas y ya te fuiste. Ya te fuiste del judaísmo. Tiene el sol y te tienes que acoplar al sol en algún momento. Tiene que estar alineado."
+"startMs": 1400468,
+"endMs": 1410409,
+"text": "Y entonces-- No, no es Rab Ieshua en Levi, pero es Rab Ieshua. Entonces, él sostenía que es reshut y no había manera de decir que,"
 },
 {
-"startMs": 3466000,
-"endMs": 3499000,
-"speaker": "אופיר סגל",
-"text": "Deberíamos de ver la subida de Rabán Gamliel. De la discusión de Rabán Gamliel y Rabí Joshua sobre Kipur. Y cuando caía Kipur. Y Rabán Gamliel tenía un calendario y obligó a Rabí Joshua a ir como él. Deberíamos de verlo adentro. Y es justamente en Kipur. ¿Qué es Kipur? Kipur es el día... donde, ya hablando así en teoría, es cuando la luna."
+"startMs": 1411669,
+"endMs": 1417909,
+"text": "que es reshut, porque Rab Ieshua, alguien le preguntó a Rab Ieshua, le dijo: \"Es reshut\"."
 },
 {
-"startMs": 3499000,
-"endMs": 3529000,
-"speaker": "אופיר סגל",
-"text": "alinea con el sol o sea, aquí quiere decir que la oscuridad, encontró la luz por medio de la teshuva, Ravan Ali nunca necesita hacer teshuva, el esta en el sol ¿Me explico? Entonces Yom Kippur es el día de la excursión Le dice, no, en Yom Kippur tienes que ser como yo Es Yom Kippur, te sigues diciendo que es Yom Kippur En Yom Kippur tienes que ser como yo Aquí dice, en Yom Kippur es también la oscuridad, tiene que regresar otra vez Es un día muy de los dos."
+"startMs": 1418609,
+"endMs": 1428049,
+"text": "Fueron y le dijeron a Rabán Gamaliel, le dijeron: \"Oye, Rab Ieshua dijo que es reshut\". Dijo: \"¿Qué? Tráelo\". Dijo: \"¿Dijiste que es reshut?\" \"No, no, no, para nada, dije que es jobá\"."
 },
 {
-"startMs": 3529000,
-"endMs": 3532000,
-"speaker": "Speaker 3",
-"text": "¿Qué pasa hoy en día? Había los más alejados, Yom Kippur, Esquipur."
+"startMs": 1428909,
+"endMs": 1435209,
+"text": "Dice: \"Pero me dijeron que dijiste que es reshut\". Y entonces fueron a... ¿Por qué? ¿Por qué? ¿Por qué? ¿Le da miedo?"
 },
 {
-"startMs": 3532000,
-"endMs": 3540000,
-"speaker": "אופיר סגל",
-"text": "Esquipur, Esquipur Y es cuando todos como que regresan, bueno, sí, hasta yo necesito, Necesito yo alinearme."
+"startMs": 1436209,
+"endMs": 1438789,
+"text": "Sí, es, es, es parte de la shitá de Rabán Gamaliel."
 },
 {
-"startMs": 3540000,
-"endMs": 3546000,
-"speaker": "Speaker 2",
-"text": "Ahí sí es el día de David Amelech, o sea, no hay manera."
+"startMs": 1439989,
+"endMs": 1450369,
+"text": "Lo mismo que sostiene que es jobá, es-- no existe que sea reshut. O sea, e, e, tipo, en su mundo, en su mundo no puede existir el reshut, no puede existir que sea reshut."
 },
 {
-"startMs": 3546000,
-"endMs": 3559000,
-"speaker": "אופיר סגל",
-"text": "Acá en Yom Kippur hacemos Birkat HaLevanah también, Lo aguantamos, Birkat HaLevanah, dile no, hasta después de Yom Kippur Tanto así que dice el Gaón de Vilna que los 30 días de Adán."
+"startMs": 1451269,
+"endMs": 1456789,
+"text": "Y que le digas: \"No, pero es pa--\". Imagínate que le dices: \"No, pero vas a tener más conexión, porque"
 },
 {
-"startMs": 3559000,
-"endMs": 3563000,
-"speaker": "Speaker 3",
-"text": "12 días después es el día de David Amelech."
+"startMs": 1458529,
+"endMs": 1459289,
+"text": "bájale, bájale\"."
 },
 {
-"startMs": 3563000,
-"endMs": 3597000,
-"speaker": "אופיר סגל",
-"text": "No sé nada, rapá. A lo mejor tiene que ver. Sí, seguramente tiene que ver. Entonces, el Gaón de Vilna dice que ¿qué mes hacemos extra? Adarbet. Porque se van acumulando días extras del sol a de la luna. Se acumulan días extras y cada tres años hacemos... Bueno, ¿cómo lo quieres llamar? ¿Cómo lo quieres llamar? Entonces, dice el Gaón de Vilna, ¿cuáles son los días que se acumulan para otra vez que se realine?"
+"startMs": 1460749,
+"endMs": 1485789,
+"text": "Sí. Entonces, esa es la shitá de Rabán Gamaliel, no existe. Entonces, entonces, puso a Rab Ieshua así en frente de todo el midrash y, y fue algo como que Rab Ieshua se sintió un poquito-- se puso parado y le preguntó en frente de todos: \"¿Tú dijiste que jobá es reshut?\" Le dijo: \"Sí, la verdad, si, si no hubiera edim que me, que me contradecirían, entonces te"
 },
 {
-"startMs": 3597000,
-"endMs": 3630000,
-"speaker": "אופיר סגל",
-"text": "Dice el Gaón de Vilna, son los días extras que tiene el sol a la luna. Entonces dice, se acumulan cada año 10 días, y esos días se van sumando hasta que se hace... El calendario lunar tiene 354 y 365, entonces son los primeros 10 días del año, son los días de AC, DMT, SUA, y entonces dice, lo que hace, fíjense aquí es, vean la conexión impresionante,"
+"startMs": 1485789,
+"endMs": 1497349,
+"text": "podría contradecir, pero pues ahorita hay testigos, entonces no, no puedo decir nada\". Y entonces a la gente no le gustó es-este maaláj muy taqif de Rabán Gamaliel."
 },
 {
-"startMs": 3630000,
-"endMs": 3663000,
-"speaker": "אופיר סגל",
-"text": "lo que hace que la luna se alinee con el sol, son los días que todos deciden hacer Teshuva, ¿entienden? Es exactamente eso, así dice el Gondola. ¿Cómo, cómo es todo eso? Los días de AC, DMT, SUA, son los días que alinean... El calendario lunar con el solar, son los días extras, que todos ahí son sol, entonces ahí todos tratan de ser sol, no puedes, no la luna..."
+"startMs": 1497849,
+"endMs": 1504249,
+"text": "No, no, no, ¿sí? Y dijeron: \"Ya, Rabán Gamaliel no puede ser más el nazir\". ¿Y a quién pusieron de nazir?"
 },
 {
-"startMs": 3663000,
-"endMs": 3665000,
-"speaker": "Speaker 4",
-"text": "Yo creo que Ramón también no puede..."
+"startMs": 1505149,
+"endMs": 1511781,
+"text": "A Rabí Eliezer ben Azaria. ¿Pero eso no fue en la de Kipur? Esa es otra historia, que también con Rabban Gamliel y Rabi Yoshua."
 },
 {
-"startMs": 3665000,
-"endMs": 3678000,
-"speaker": "אופיר סגל",
-"text": "Mañana vamos a seguir esto con Ming Sol. Ramón también no puede entender a Rabíos Suárez. No hay manera, le da pavor entrar en el mundo a Rabíos Suárez, dice, en el momento que el sol se quite, se destruye el mundo."
+"startMs": 1512381,
+"endMs": 1518401,
+"text": "Puede ser que tenga que ver, puede ser que tenga que ver, porque también fue con Rabban Gamliel y Rabi Yoshua también fue algo así. Bekitzur, entonces escuchen esto."
 },
 {
-"startMs": 3678000,
-"endMs": 3683000,
-"speaker": "Speaker 4",
-"text": "Rabíos Suárez va a tener que subir."
+"startMs": 1518401,
+"endMs": 1524521,
+"text": "¿Qué pasó? El siguiente día-- no, no lo regresaron Rabban Gamliel. Se llenó."
 },
 {
-"startMs": 3683000,
-"endMs": 3687000,
-"speaker": "אופיר סגל",
-"text": "Entonces, la luna necesita reconocer que tiene sol."
+"startMs": 1524921,
+"endMs": 1531581,
+"text": "El siguiente día, de repente, se llenó todo el midrash. ¿Por qué-- entonces se sintió feo Rabban Gamliel."
 },
 {
-"startMs": 3687000,
-"endMs": 3691000,
-"speaker": "Speaker 4",
-"text": "Rabíos Suárez va a tener que subir."
+"startMs": 1532041,
+"endMs": 1539781,
+"text": "¿Por qué se llenó el midrash? Porque la política de Rabban Gamliel es: aquí estudia solamente tojó kevaró."
 },
 {
-"startMs": 3691000,
-"endMs": 3715000,
-"speaker": "אופיר סגל",
-"text": "Rabíos Suárez es alguien que... es la misma línea que lo que vamos a saltar aquí es el opuesto."
+"startMs": 1539821,
+"endMs": 1547381,
+"text": "Tojó kevaró es el que está pleno, íntegro por adentro como por afuera. Aquí no hay lugar a más o menos, ¿sí?"
 },
 {
-"startMs": 3715000,
-"endMs": 3744000,
-"speaker": "Speaker 4",
-"text": "yo creo que todo está muy para los que siempre son religiosos entiendo que entiendan perfectamente el que toda su vida no puede entender en el estudio. no."
+"startMs": 1547701,
+"endMs": 1556161,
+"text": "Es otra vez la misma citada Rabban Gamliel. Y todos los que no afuera, ya, no, no estudian, pues, en Breslav, no sé dónde quieres buscarte otro lugar."
 },
 {
-"startMs": 3744000,
-"endMs": 3781000,
-"speaker": "אופיר סגל",
-"text": "no no, Ravan Gamliel le queda ir a discutir con griegos, con griegos sobre jojma, a ver como la jojma de la Torah le gana, dice, es auténtico, auténtico, Rabí Yeshua era el que iba a discutir con los griegos, Rabí Yeshua dice, yo llevo la luz de la Torah hasta la oscuridad, y te voy a enseñar como en el mundo físico, en el mundo natural, en el mundo que tú lo ves separado,"
+"startMs": 1556621,
+"endMs": 1560121,
+"text": "Pero no, aquí quieres, es el que es hasta el final."
 },
 {
-"startMs": 3781000,
-"endMs": 3813000,
-"speaker": "אופיר סגל",
-"text": "vas a ver como ahí ese tiene más luz de Torah que tu inteligencia griega, Rabí Yeshua era el que, Rabí Yeshua es Hakima de Yudá, Hakima de Yudá, no era, hay Rab, que es el Talmid Jajam, Ravan Gamliel, y Rabí Yeshua era Hakima de Yudá, era el sabio, que el que podía hablar con el César, el que iba a discutir con los griegos, es justamente la línea de Rabí Yeshua."
+"startMs": 1561341,
+"endMs": 1571821,
+"text": "Y entonces, entonces, Rabban Gamliel, cuando vio que se aumentaron cuatrocientas, ochocientas saftsalim en el bet midrash, se sintió mal, entonces tuvo un sueño."
 },
 {
-"startMs": 3813000,
-"endMs": 3845000,
-"speaker": "אופיר סגל",
-"text": "es como tu jalas la luz de la que hubo la anterior. pero necesita siempre algún auténtico que es Raban Gamliel porque si no hay auténtico no hay donde regresar no existe mejor, no, pero en lo general. necesitas agarrarte de alguien si no hubiera religioso, plenos entonces existiría cada uno inventaría otra cosa, pero el majot es el majot de David el majot de David es el majot."
+"startMs": 1572421,
+"endMs": 1586041,
+"text": "Y Rabban Gamliel ahí dijo: Hashem, tú sabes que yo no lo hice por mi honor, yo lo hice por tu honor. O sea, Rabban Gamliel, Mehmet, es-- dice: en el momento que yo le dé lugar a donde, sí, a donde el orden Hashem no esté,"
 },
 {
-"startMs": 3845000,
-"endMs": 3848000,
-"speaker": "אופיר סגל",
-"text": "si, pero hay masiaueños también si, pero."
+"startMs": 1587841,
+"endMs": 1594961,
+"text": "entonces es, es, es un problema muy serio. Entonces, Rabban Gamliel, él tiene que ser muy de esa, de eso-- dice, no es por mí, era por ti."
 },
 {
-"startMs": 3848000,
-"endMs": 3851000,
-"speaker": "Speaker 2",
-"text": "son dos lindos no, ese es cuando ya llega el masia."
+"startMs": 1595381,
+"endMs": 1606881,
+"text": "Pero con todo y todo está la otra citá, y ahí cambió la política en el bet midrash. Entonces, lo que yo quiero que vean, y vean cómo es la citá toda Rabban Gamliel, hay como cuatro Mishnayot al final de Perek Bet, estúdialas."
 },
 {
-"startMs": 3851000,
-"endMs": 3856000,
-"speaker": "Speaker 4",
-"text": "antes de que llegue el masia tiene que ser de la otra forma ya cuando llegue el masia."
+"startMs": 1607541,
+"endMs": 1613701,
+"text": "Nos vemos a las seis cuarenta. Vean las cuatro Mishnayot y traten de pensar-- Kadi aptó y todo eso."
 },
 {
-"startMs": 3856000,
-"endMs": 3888000,
-"speaker": "אופיר סגל",
-"text": "ya puede ser todo como Raban Gamliel Raban Fir, tu dijiste antes como que es la aljaga del cielo la aljaga de la tierra, Y eso es lo que yo sentí, Rabi Yisrael, Rabi Gamliel va como que con el cielo Va con el cielo y Rabi Joshua, Hashem nunca nos va a soltar, Claro, exactamente, Y nosotros si nos alejamos de él y regresamos, David Amélech, Nosotros somos David Amélech, nosotros nos alejamos, nosotros nos caemos, nosotros regresamos Nosotros, nosotros tenemos de todo Hay aspectos que somos más Rabi Gamliel Por ejemplo el Rit Milá, que es la mirada de Yosef."
+"startMs": 1613761,
+"endMs": 1622021,
+"text": "Sí, se traen cosas sobre Rabban Gamliel blikeshe. No, pero sí, esa sí es keshe. Por eso, por eso les estoy diciendo que las vean."
 },
 {
-"startMs": 3888000,
-"endMs": 3901000,
-"speaker": "אופיר סגל",
-"text": "Y es Rabi Gamliel, ahí todos los de Udim dicen Si anulas el Rit Milá ya ni siquiera dónde hay regresar Me explico, el Rit Milá ya perdiste, ya no eres de Udim Y hay algo que se tiene que quedar auténtico, es Rit Milá Y por eso Yosef es el que más trabaja el Rit Milá."
+"startMs": 1622081,
+"endMs": 1623801,
+"text": "Sí, para que te des cuenta que sí, que es Sí."
 },
 {
-"startMs": 3901000,
-"endMs": 3904000,
-"speaker": "Speaker 5",
-"text": "La forma de Bet Shamay es Rabi Gamliel."
+"startMs": 1625661,
+"endMs": 1641661,
+"text": "Entonces, parece, parece que no, o sea, que, que, que él sí, no, no se puso de luto por su esposa, porque, o sea, que dice no total, se bañó porque él es Sistenis y por su eventabi sí hizo luto, porque era kasher."
 },
 {
-"startMs": 3904000,
-"endMs": 3935000,
-"speaker": "אופיר סגל",
-"text": "Exactamente, Rabi Gamliel es muy Bet Shamay en ese aspecto, Entonces, y Yosef es el Brit Milá, es el que más cuida el Brit Milá Porque en el momento que Yosef no cuida el Brit Milá, Entonces va a haber gente que ni siquiera hace Brit Milá, Yosef es el como que el tzadik auténtico, auténtico, auténtico Y por eso, Yosef, O sea, Rabán Gamliel no le puede dejar ni a su esclavo no ser... Oscuridad. Sí, dejar que su esclavo sea oscuro, nada más es el trabajador, no existe, es el trabajador, es el tzadik, no hay."
+"startMs": 1641681,
+"endMs": 1649301,
+"text": "Entonces, el Shemá de novio-- Es muy, muy duro, muy duro, muy duro, pero- Bueno, estábamos en Rabban Gamliel."
 },
 {
-"startMs": 3935000,
-"endMs": 3968000,
-"speaker": "אופיר סגל",
-"text": "Mi casa, mi casa es mía, entonces es parte mía. Sí, exactamente, su esclavo es como él. Entonces, si él no tiene ningún lugar oscuro, entonces su esclavo va a ser... Cuando tú tienes un lugar oscuro, entonces el esclavo tuyo, que es el que se encarga de tus cosas materiales, pues tus cosas materiales tienen algo de oscuridad, entonces tu esclavo, pues va a tener oscuridad. Rabán Gamliel, su esclavo, es el esclavo de Rabán Gamliel. Rabán Gamliel no tiene ningún lado oscuro, no conoce ese lado oscuro, entonces es el esclavo de la luz. No, pero él le deja al esclavo ser esclavo, le deja al esclavo ser esclavo."
+"startMs": 1649701,
+"endMs": 1651161,
+"text": "Rabban Gamliel en las Mishnayot."
 },
 {
-"startMs": 3968000,
-"endMs": 3983000,
-"speaker": "Speaker 2",
-"text": "Pero es que es otra cosa, es otra rejina, es limzota. Sí, sí, sí."
+"startMs": 1653941,
+"endMs": 1654841,
+"text": "Rabi Yoshua Ben Levi"
 },
 {
-"startMs": 3983000,
-"endMs": 4014000,
-"speaker": "אופיר סגל",
-"text": "El ser humano es el que se aleja. El ser humano nunca se va a alejar. O sea, nosotros somos los que se hallan aquí. Exactamente. Y Rabban Gamliel ve las cosas de arriba y dice, Hashem nunca te suelta. Y si Hashem nunca te suelta, agárrate de eso, porque eso quiere decir que en cierto aspecto nunca se ha destruido el Bet HaMikdash. Pero en el momento que te agarres de eso, entonces te puedes conformar con eso. Y ahí viene el otro lado, el de David HaMelech. Que no te superas. ¿Eh? No te superas. No haces teshuva, no te acerques. Rabban Gamliel."
+"startMs": 1656321,
+"endMs": 1658441,
+"text": "dijo que aunque--"
 },
 {
-"startMs": 4014000,
-"endMs": 4078728,
-"speaker": "אופיר סגל",
-"text": "no está jazgando. ¿Te gustó el de las ondas? Bueno, Bresler, ¿dónde está? Yo veo a Bresler. No, no, no. Todo Bresler es como... Cuando hay caída, con todo y todo te levantas, cae oscuridad y anhelas... ¡Pontearla! los jajamim"
+"startMs": 1660021,
+"endMs": 1667621,
+"text": "dice hay mitzvá de leer Kriyat Shema al hamitá. Eso es kilo el, el Kriyat Shema que es reshut."
+},
+{
+"startMs": 1667741,
+"endMs": 1681041,
+"text": "¿El Ben Levi o...? Rabí Yoshua Ben Levi. Acá en Jose Suya, Rabí Yoshua Ben Levi, que dijo Rabí Yoshua Ben Levi, que hay mitzvá de decir: \"Afalpi que Adam cara Kriyat Shema, mitzvá likrota al mitadó\"."
+},
+{
+"startMs": 1681741,
+"endMs": 1683281,
+"text": "Rabban Gamliel al mojo--"
+},
+{
+"startMs": 1684641,
+"endMs": 1692261,
+"text": "no hay eso. Ya, ya dijiste Shema de esto, ¿me explico? El Kriyat Shema al hamitá de Rabban Gamliel es, es bitjilat halaíla."
+},
+{
+"startMs": 1693421,
+"endMs": 1702101,
+"text": "Y ese es el miedo, que Jamin, ¿me explico? Jamin dicen, desde el principio de la noche, no vayas a hacer-- lo primero que haces es decir Kriyat Shema, porque ¿cómo vas--?"
+},
+{
+"startMs": 1702241,
+"endMs": 1707801,
+"text": "Imagínate, empiezas ahorita a comer y a tomar. Dice: si empiezas a comer y a tomar ahorita en la noche,"
+},
+{
+"startMs": 1709021,
+"endMs": 1715501,
+"text": "ya te distrajiste. Ya vitalta, ya vitalta el Kabbalat Ol Maljut Shamayim en algún momento."
+},
+{
+"startMs": 1716441,
+"endMs": 1717461,
+"text": "Entonces,"
+},
+{
+"startMs": 1718781,
+"endMs": 1726641,
+"text": "entonces es imposible. O sea, dice Rabban Gamliel, es imposible. Entonces, cuando Jamin dijeron hasta Jatót, por un lado es algo que contradice a Rabban Gamliel, por otro lado es algo que lo apoya."
+},
+{
+"startMs": 1727281,
+"endMs": 1739880,
+"text": "Lo contradice, como ya lo dijimos, ¿sí? Porque en el momento que tú le estableces un horario para decir Kriyat Shema y no dijiste que es toda la noche, quiere decir que estás diciendo como que hay momentos de no decir Kriyat Shema."
+},
+{
+"startMs": 1740441,
+"endMs": 1748601,
+"text": "Pero vienen Jamin, y si-- entonces si fuera como que, vamos a llamarle, que Jamin dicen, hay mitzvá decir las Hatajot, como que hay,"
+},
+{
+"startMs": 1749860,
+"endMs": 1758001,
+"text": "y ni hablar de decir las Hatajot, sería contradictorio. Pero no, el punto de Jamin es como que reforzar a Rabban Gamliel. Dice: no vaya a ser que la persona se quede dormido."
+},
+{
+"startMs": 1758061,
+"endMs": 1759441,
+"text": "Por eso te digo Hatajot."
+},
+{
+"startMs": 1760701,
+"endMs": 1767460,
+"text": "Porque el problema, según Rabban Gamliel, no es que tú tienes que decir Kriyat Shema, sino que no te puedes quedar dormido sin."
+},
+{
+"startMs": 1768041,
+"endMs": 1772041,
+"text": "Entonces, Jamin nada más establecieron que si se te va el Jatót,"
+},
+{
+"startMs": 1773621,
+"endMs": 1784941,
+"text": "entonces ya es como que decir el, la citá de Rabban Gamliel, decirla, tú tienes que preocuparte a n-- a que no hay manera que se te vaya el Kriyat Shema antes de--"
+},
+{
+"startMs": 1786321,
+"endMs": 1796761,
+"text": "el Kriyat Shema sin irte a dormir. Pero por otro lado, le están dando un tiempo. Entonces, Rabban Gamliel dice: no, es toda la noche, porque Jamin dicen estas Hatajot, lo que significa que Jamin sostienen que,"
+},
+{
+"startMs": 1798081,
+"endMs": 1804621,
+"text": "que vienen como que a cuidar, vamos a llamarle, la citá esta de, de Rabban Gamliel. Y por eso aquí dijeron que es Hayamitá."
+},
+{
+"startMs": 1805241,
+"endMs": 1808421,
+"text": "El que no hace como Jamin, Hayamitá. No es una recomendación."
+},
+{
+"startMs": 1811081,
+"endMs": 1831860,
+"text": "No es una recomendación, sino es, no hay de otra. Esto es lo que lo hace como-- eso lo hace muy, muy, muy Rabban Gamliel, en el aspecto de que sí, tenemos miedo que vaya a ser \"mipנהו נשנה\", no vaya a ser que te quedes dormido sin-- entonces, entonces, la Takanat Jamin hace que entiendas más la citá"
+},
+{
+"startMs": 1833360,
+"endMs": 1833561,
+"text": "de,"
+},
+{
+"startMs": 1835061,
+"endMs": 1839301,
+"text": "de Rabban Gamliel. Pero lo que hace Hayamitá es ¿Eh?"
+},
+{
+"startMs": 1842621,
+"endMs": 1842961,
+"text": "Hayamitá Sí."
+},
+{
+"startMs": 1847301,
+"endMs": 1853860,
+"text": "Sí. No, pero el primer tirut es \"מיפניו נשנה\". El segundo tirut es \"צפילת ארבית\", ¿qué es \"צפילת ארבית\"? Es la citá de Rabban Gamliel."
+},
+{
+"startMs": 1854621,
+"endMs": 1861880,
+"text": "La citá de Rabban Gamliel es, es, es \"צפילת ארבית\", es, es Jovano Reshún. Entonces, íbamos a ver las Mishnayot de Rabban Gamliel."
+},
+{
+"startMs": 1863501,
+"endMs": 1865741,
+"text": "Hayamitá por ¿Eh? Hayamitá por"
+},
+{
+"startMs": 1868701,
+"endMs": 1871461,
+"text": "Sí, pero Nada más arriba. Cualquier"
+},
+{
+"startMs": 1873941,
+"endMs": 1887521,
+"text": "Sí, pero ¿por qué lo dijeron acá? Acá lo dijeron para enfatizar eso Ahora aquí Rabán Gamaliel-- hay tres Mishna, o cuatro, no me acuerdo cuántas, al final de Ya, ya, que ya avanzamos demasiado."
+},
+{
+"startMs": 1887941,
+"endMs": 1989041,
+"text": "Sí, sí, ustedes ya están- Fuimos para atrás,"
+},
+{
+"startMs": 1989041,
+"endMs": 1992301,
+"text": "fuimos a Sí, ahorita como que nos fuimos para atrás."
+},
+{
+"startMs": 1994661,
+"endMs": 1998221,
+"text": "Estamos viendo cómo Rabán Gamaliel lleva una línea. Estamos usando"
+},
+{
+"startMs": 1999421,
+"endMs": 2001041,
+"text": "Mishna más, eh,"
+},
+{
+"startMs": 2002581,
+"endMs": 2008821,
+"text": "estamos usando Mishna más adelante para ver cómo que la, la línea general de la cabeza de cómo Rabán Gamaliel ve las cosas."
+},
+{
+"startMs": 2009601,
+"endMs": 2019561,
+"text": "Entonces, vimos que Rabán Gamaliel te dice que Keriat Shema es hasta la mañana, no tiene un horario. Entonces, dijimos que el punto de Rabán Gamaliel es Keriat Shema en la noche, no puede tener un horario."
+},
+{
+"startMs": 2019941,
+"endMs": 2026181,
+"text": "La idea, según Rabán Gamaliel, es no que hay que decir Shema en la noche, sino no te puedes ir a dormir sin Shema."
+},
+{
+"startMs": 2026681,
+"endMs": 2035721,
+"text": "El problema es, o sea, él, el Keriat Shema de Rabán Gamaliel no está el despierto, está el dormido. Él dice: \"El que se va a dormir se desconecta\"."
+},
+{
+"startMs": 2036141,
+"endMs": 2047601,
+"text": "Rabán Gamaliel dice: \"No existe un estado de desconexión, no existe un estado donde, donde no hay, donde haya realmente noche y, y como que separación de Hashem\"."
+},
+{
+"startMs": 2048061,
+"endMs": 2054101,
+"text": "La otra, la otra línea es no, tú dices Keriat Shema cuando estás despierto, cuando estás dormido, entonces ahí"
+},
+{
+"startMs": 2055380,
+"endMs": 2061621,
+"text": "como si Hashem te suelta. ¿Entonces qué tiene de bueno eso? Que cuando Hashem te suelta, entonces es una oportunidad para buscarlo."
+},
+{
+"startMs": 2062301,
+"endMs": 2075761,
+"text": "Rabán Gamaliel, él ve las cosas más desde arriba hacia abajo, más desde, desde Hashem hacia nosotros, más como: \"No existe la oscuridad, porque no, si te fijas bien, vas a encontrar a Hashem en la oscuridad\"."
+},
+{
+"startMs": 2075860,
+"endMs": 2086900,
+"text": "Entonces, por eso él también, él también sostiene que Tefilat Aviv es obligatoria. Según los otros Jamín, Tefilat Aviv es resut, no es obligatoria."
+},
+{
+"startMs": 2086961,
+"endMs": 2093440,
+"text": "Según Rabán Gamaliel es jová. ¿Por qué es jová según Rabán Gamaliel? ¿Por qué es obligatoria? Porque no es cierto que no hay luz."
+},
+{
+"startMs": 2094121,
+"endMs": 2102421,
+"text": "Rabán Gamaliel dice: \"No es cierto que no hay luz, sí hay luz\". El punto es que en el momento que hay oscuridad, Hashem ya no se está dirigiendo a ti, ya te dejó solo."
+},
+{
+"startMs": 2102621,
+"endMs": 2109421,
+"text": "Entonces, para él ya está de sobra el Keriat Shema de la mitad. ¿Eh? Sí, sí, sí, en cierto aspecto, el, para él está de sobra el Keriat Shema de la mitad."
+},
+{
+"startMs": 2110141,
+"endMs": 2120121,
+"text": "Y digo, ahí con toda la Gemara se ve que el que dijo Keriat Shema de la mitad es justamente el que le discute a Rab Iohanan, que él va según la línea de-- sí, sí, pero sí, cien por ciento."
+},
+{
+"startMs": 2120421,
+"endMs": 2128921,
+"text": "El Rab Joshua Ben Levi dijo: \"Hay mitzvá de decir Keriat Shema de la mitad\". Rabán Gamaliel a lo mejor se pondría nervioso. ¿Cómo que mitzvá? Háblame de obligaciones."
+},
+{
+"startMs": 2129001,
+"endMs": 2137501,
+"text": "Y la obligación ya la cumpliste y la cumpliste para toda la noche. No, no tienes que decir antes de dormir, entonces ya no tienes que-- si es antes, justo antes de dormir, ya no tienes que decir Keriat Shema."
+},
+{
+"startMs": 2137901,
+"endMs": 2147161,
+"text": "No, para Rabán Gamaliel no es antes de dormir. Para Rabán Gamaliel es le da miedo que te vayas a dormir sin. Y al revés, e-entre más antes que lo digas, mejor."
+},
+{
+"startMs": 2147161,
+"endMs": 2154141,
+"text": "¿Por qué? Porque a Rabán Gamaliel le da miedo: \"Ahorita vas a cenar sin Keriat Shema. Espérate\"."
+},
+{
+"startMs": 2154281,
+"endMs": 2165141,
+"text": "Rabán Gamaliel dice: \"No entres en un estado de no Keriat Shema\". ¿Me explico? Ese es el miedo de Rabán Gamaliel. Entonces, también ir a comer, ir a cenar, te puede llevar hasta que al final te vas a dormir y se te va a ir Keriat Shema."
+},
+{
+"startMs": 2165361,
+"endMs": 2175281,
+"text": "Eso es todo lo que dice la Gemara aquí en relación a, a, a, a Rabán Gamaliel, que él es el miedo, no la obligación a sí decir, sino el miedo a no decir."
+},
+{
+"startMs": 2175841,
+"endMs": 2182060,
+"text": "Y por eso Rabán Gamaliel cuando se casó, según todos, el jatán, el novio, es patur de Shema."
+},
+{
+"startMs": 2182060,
+"endMs": 2195461,
+"text": "¿Sí? Rabán Gamaliel, él dijo Shema. Dice: ¿Por qué? Dice: \"No los puedo escuchar a quitarme el Maljut Shamayim a, a, ni siquiera ni un segundo\"."
+},
+{
+"startMs": 2195560,
+"endMs": 2202161,
+"text": "Es el mismo Rabán Gamaliel. Dice: \"No, para mí, ni aunque yo sea novio, y ahorita yo estoy en otras\", dice: \"Para mí no hay estar en otras."
+},
+{
+"startMs": 2202201,
+"endMs": 2207361,
+"text": "En cualquier situación, no puedo quitar el, el Maljut Shamayim ni siquiera un segundo\"."
+},
+{
+"startMs": 2209081,
+"endMs": 2219261,
+"text": "Siguiente Mishna sobre Rabán Gamaliel, que la Mishna trae otra Mishna en relación a Rabán Gamaliel sin alguna relación, al parecer, con las halajot del Shema."
+},
+{
+"startMs": 2220020,
+"endMs": 2234241,
+"text": "Que cuando se murió su esposa, él se bañó y le dijeron sus alumnos: \"Rabán Gamaliel, nos dijiste que es prohibido bañarse cuando uno está de luto y tú la, la primera noche se te muere la esposa, ¿ya te vas a bañar?\" Dice: \"No, yo soy delicado, yo no soy como todos\"."
+},
+{
+"startMs": 2234241,
+"endMs": 2243560,
+"text": "¿Para qué la Mishna nos trae esa historia? O sea, primero que nada, no aprendemos ni siquiera ni una halajá, porque la halajá es que no se puede uno bañar."
+},
+{
+"startMs": 2244121,
+"endMs": 2252020,
+"text": "Y Rabán Gamaliel es una excepción, porque él es delicado. Y no es que se aprende de ahí que cualquier delicado así le van a decir: \"Ah, tú eres como Rabán Gamaliel\"."
+},
+{
+"startMs": 2252101,
+"endMs": 2258781,
+"text": "No. Entonces, ¿qué-- en qué sentido está acá ahí? ¿Por qué te lo trae justamente después de la otra?"
+},
+{
+"startMs": 2258961,
+"endMs": 2268961,
+"text": "Y no solo te lo trae después de la otra, se parece mucho. Dice: \"Ei ni que sha etme adam\". Él hace algo, sus alumnos le preguntan y dice: \"Yo no soy como todos\", ¿no?"
+},
+{
+"startMs": 2269041,
+"endMs": 2274060,
+"text": "Así, entonces, acá la idea es que él, el, el luto es una oscuridad,"
+},
+{
+"startMs": 2275520,
+"endMs": 2283678,
+"text": "el luto es una oscuridad. Él no se permite... Nunca entrar plenamente a un estado de oscuridad."
+},
+{
+"startMs": 2284037,
+"endMs": 2292779,
+"text": "Él jala la luz también la oscuridad. Entonces, también cuando él está en un estado de luto, hay dos maneras de cómo verlo. Uno es, alguien está pasando una situación difícil."
+},
+{
+"startMs": 2293238,
+"endMs": 2302738,
+"text": "Hay dos maneras de cómo atravesarla. Uno, ver los puntos buenos donde: espérate, yo sigo viendo la presencia de Hashem acá y la otra es no."
+},
+{
+"startMs": 2305459,
+"endMs": 2316698,
+"text": "Aceptar, entrar en donde uno siente esa falta y desde ahí buscar a Hashem. Esa, ese es el aspecto que se llama tefilá harid rezut, como que te metes a la oscuridad y de ahí, de ahí espérate, entonces Hashem yo te busco a ti."
+},
+{
+"startMs": 2317218,
+"endMs": 2327258,
+"text": "Y el otro es: no, no me olvido, Hashem no me ha abandonado. Y entonces Rabán Gamliel, él dice: no, Hashem no me ha abandonado, yo sigo viendo los puntos buenos."
+},
+{
+"startMs": 2327658,
+"endMs": 2342479,
+"text": "Y, y, y, y, y, y, y la otra línea es: no, acepto, acepto lo, lo duro y dentro de lo duro ahora voy a ver cómo, eh, eh, eh, regresar, vamos a llamarle, cómo buscar a Hashem desde la oscuridad."
+},
+{
+"startMs": 2342638,
+"endMs": 2348698,
+"text": "Son dos, son dos perspectivas. Las cosas buenas de Rabán Gamliel. No. No, es lo que hablamos ayer."
+},
+{
+"startMs": 2348718,
+"endMs": 2355019,
+"text": "Busca los lados, las cosas buenas de Rabán Gamliel. No, es, es, no deja que haya algo malo. Es algo muy diferente."
+},
+{
+"startMs": 2355359,
+"endMs": 2363718,
+"text": "No acepta lo malo, Rabán Gamliel va a decir: espérate, hay algo malo y vas a ver cómo lo, lo malo se va a convertir en bueno. Vas a poder tú ahorita sacar algo bueno de lo malo."
+},
+{
+"startMs": 2363758,
+"endMs": 2369859,
+"text": "Lo otro es como que nunca llegar a una situación de, de como que desconexión. El título. ¿Me explico?"
+},
+{
+"startMs": 2371178,
+"endMs": 2379738,
+"text": "Entonces, él, él también cuando entra en un luto, él como que quiere mantener el mismo estado de luz que tenía antes."
+},
+{
+"startMs": 2380359,
+"endMs": 2386419,
+"text": "Por lo menos se baña. Y el hecho que él es delicado viene de la misma... Es que eso quiere que dice eso. Eso, ¿no?"
+},
+{
+"startMs": 2386499,
+"endMs": 2389078,
+"text": "El hecho que es delicado, viene, é-él es, él es muy..."
+},
+{
+"startMs": 2390439,
+"endMs": 2397999,
+"text": "muy c-- él nunca se baja al... Sí, él no puede aceptar suciedad, ¿me explico? Él nunca puede entrar en un estado sucio."
+},
+{
+"startMs": 2398379,
+"endMs": 2408238,
+"text": "Él siempre necesita estar pulcro, limpio, como Yosef hasta a ti. Sí, era guapo, siempre era muy, eh, o sea, aunque esté en la cárcel, pero él está en la cárcel, pero es el más, eh, exitoso ahí."
+},
+{
+"startMs": 2408299,
+"endMs": 2414359,
+"text": "¿Me explico? Ve a alguien de malas en la cárcel, ¿qué le pregunta Yosef? ¿Por qué? ¿Por qué estás de malas? ¿Por qué?"
+},
+{
+"startMs": 2414379,
+"endMs": 2422558,
+"text": "¿Qué pasó? No, nada. ¿Quién no está de malas en la cárcel? ¿Me explico? Entonces, Yosef es el que se queda, el que jala la luz hacia la oscuridad."
+},
+{
+"startMs": 2422919,
+"endMs": 2432859,
+"text": "Rabán Gamliel va en la línea esta de Yosef, que él jala la luz hacia la oscuridad. Entonces, no le deja a la oscuridad existir porque él constantemente está jalando la luz."
+},
+{
+"startMs": 2432979,
+"endMs": 2437359,
+"text": "Pero yo creo que es que Ben Yomi Talé mama es el buque. ¿Eh? Ben"
+},
+{
+"startMs": 2439658,
+"endMs": 2454859,
+"text": "Yomi Talé mama es un- Claro, en, en su, en, a-a-aún, aún en algo como que muy técnico, que él es muy, eeeh, delicado, es algo, sí, que tiene su explicación también, eh, al piso, viene de ahí."
+},
+{
+"startMs": 2454919,
+"endMs": 2461479,
+"text": "Sí, también una persona puede identificar qué tipo de neshamá es, también según- No, pero no sé si- Si te gusta el chile, ¿me explico?"
+},
+{
+"startMs": 2461519,
+"endMs": 2468058,
+"text": "También si te gusta el chile. Pero es al revés, no sé, puede- Si te gusta, hay gente que le gusta lo dulce, hay gente que le gusta lo salado, gente que le gusta lo picoso, hay gente que le gusta..."
+},
+{
+"startMs": 2468578,
+"endMs": 2475038,
+"text": "Es-eso realmente, eso- Yo lo digo al revés. Revela mucho, o sea, eh, también cómo estudias."
+},
+{
+"startMs": 2475238,
+"endMs": 2484218,
+"text": "O sea, él era así. Si tú ves a alguien cómo estudia y te puedo decir qué tipo de comida le gusta. ¿Me explico? O sea, más o menos. Puede, puede- Que sea uno nacional, como si este- ¿Qué?"
+},
+{
+"startMs": 2485138,
+"endMs": 2491959,
+"text": "Eh, no, es que qué cena. Le gusta cenar más, más pollo, más, eh, ¿me explico? No cena cereal con leche, ¿me explico?"
+},
+{
+"startMs": 2492158,
+"endMs": 2493718,
+"text": "Es diferente. Porque el que sea..."
+},
+{
+"startMs": 2498399,
+"endMs": 2503979,
+"text": "Ah, no, digo, en, en los extremos, siempre hay medios, pero lo puede haber. Pero lo que sí tiene con leche, ¿qué quiere decir? ¿Eh?"
+},
+{
+"startMs": 2505319,
+"endMs": 2514419,
+"text": "Le gusta, sí, más, eh... No es, eh, no es tan Rabán Gamliel, es más, eh, así alguien más así estructurado, bien hecho."
+},
+{
+"startMs": 2514819,
+"endMs": 2522879,
+"text": "El, el, el cereal con leche al revés. Del que necesita cenar pollo y que así bien. Es alguien más, eh, más rígido, más, eh..."
+},
+{
+"startMs": 2522899,
+"endMs": 2529799,
+"text": "No, Rabán Gamliel es- Frutas, chocolate, tipo, ¿no? ¿Me explico? De chamá, niños chiquitos. Es de chamái, ¿no?"
+},
+{
+"startMs": 2529919,
+"endMs": 2539357,
+"text": "Es más maduro, es más de chamái, más Rabán Gamliel, más, eh... Rabán Gamliel es más de chamái. Sí, el que le gusta lo dulce es más alguien que, así, es más, eh..."
+},
+{
+"startMs": 2539778,
+"endMs": 2546339,
+"text": "Si le gusta el cereal de colores ya es Fruti Lupi. Fruti Lupi. Yo digo, el otro si cena cereal es el Quaker."
+},
+{
+"startMs": 2546698,
+"endMs": 2552979,
+"text": "Fruti Pep. El Quaker. Si algo, si ya cena cereal es Quaker. ¿Me explico? Digo, no, ahorita Fruti Pepes no."
+},
+{
+"startMs": 2557058,
+"endMs": 2558479,
+"text": "Yo soy a la misma cita."
+},
+{
+"startMs": 2562459,
+"endMs": 2565118,
+"text": "El pan con choco, ¿no? Así dobladito como el de los niños."
+},
+{
+"startMs": 2568618,
+"endMs": 2577698,
+"text": "Sí, sí, con leche, cien por ciento. Leche con chocolate. Yo soy igual. Hay gente que también- Yo no puedo comer un pollo en la noche."
+},
+{
+"startMs": 2578479,
+"endMs": 2579198,
+"text": "Está loco. Hay"
+},
+{
+"startMs": 2582879,
+"endMs": 2590439,
+"text": "gente que necesita chile en todo. El pejarín, lo picoso, ¿no? También. Ese qué. Sabes que hace más project en cada..."
+},
+{
+"startMs": 2591578,
+"endMs": 2591778,
+"text": "Rabán"
+},
+{
+"startMs": 2595198,
+"endMs": 2602519,
+"text": "dice que si es un hombre picoso. Más din. Arturo. Rabán dice que si es un hombre picoso, sufró. Yo te manejo todo, Rabí."
+},
+{
+"startMs": 2602538,
+"endMs": 2612538,
+"text": "Ah, ¿sí? Pero es, él es al revés, ¿no? O sea, es al revés como dijo él. Él dijo: \"Yo tengo una manera de entender la Torá, y gracias a que tengo una manera de entender la Torá, se refleja mi personalidad\"."
+},
+{
+"startMs": 2612618,
+"endMs": 2622799,
+"text": "Pero es al revés. Él entendió así la Torá porque su personalidad es así. No, la personalidad es algo eloquí. La personalidad en sus shores es algo eloquí, se expresa en el mundo Be'ezrit con eso."
+},
+{
+"startMs": 2622839,
+"endMs": 2629499,
+"text": "Ah, o sea, es como dijo él. Se expresa en el mundo Be'ezrit también con esas cosas. No, yo entendía, yo entendía que era al revés completamente. No, no, no."
+},
+{
+"startMs": 2629538,
+"endMs": 2640519,
+"text": "Se expresa en el mundo Be'ezrit de esa manera, pero empieza, empieza en algo muy, muy eloquí. Entonces, el ser delicado de Rabán Gamliel se revela también sus shores de su neshamá, es muy Yosef."
+},
+{
+"startMs": 2640538,
+"endMs": 2647810,
+"text": "¿Sí? Yosef no te lo imaginas en lodo, ¿me explico? Él es muy... Muy pulcro, muy así."
+},
+{
+"startMs": 2648671,
+"endMs": 2656250,
+"text": "Entonces, la siguiente Mishná es que cuando se murió Tabi, su ebed, \"kibela labtan jumi\"."
+},
+{
+"startMs": 2657370,
+"endMs": 2666370,
+"text": "Dice: \"Él le dolió, le, eh, recibió nejamá, nejamá de la gente por, eh, por cuando se murió su esclavo Tabi\"."
+},
+{
+"startMs": 2667511,
+"endMs": 2680310,
+"text": "Ahora, un, un esclavo es un esclavo goy, ¿sí? Un esclavo goy casi que es una pertenencia en cierto aspecto. Entonces, alguien que se le muera, eh, imagínense, digo, no es el caso de Tabi, pero imagínense, se le muere, se le-- sí, entonces."
+},
+{
+"startMs": 2680470,
+"endMs": 2683571,
+"text": "Alguien se le murió el ishir. Si es el ishir, el ishir no es que tipo..."
+},
+{
+"startMs": 2685290,
+"endMs": 2691711,
+"text": "Como ishir, ¿me explico? A lo mejor tenías que ir con él, pero como ishir, ¿sí? Entonces, ya, ya, cambias, hay otra, ¿me explico?"
+},
+{
+"startMs": 2691810,
+"endMs": 2699270,
+"text": "No, no pasó nada, ¿no? O sea, a nivel ishir, a nivel de, ¿sí? A nivel, a nivel sirvienta, claro, consigues otro, ¿me explico?"
+},
+{
+"startMs": 2699810,
+"endMs": 2703051,
+"text": "Y él- Shalom bai, tumet. Bueno, ese es otro rollo."
+},
+{
+"startMs": 2705270,
+"endMs": 2712330,
+"text": "Es de las peores cosas normales que te pueden pasar. Los niños se pegan mucho, los niños pequeños también se pegan mucho a veces a las, las muchachas."
+},
+{
+"startMs": 2712350,
+"endMs": 2719850,
+"text": "Sí, sí, no, pero ese ya no es la sirvienta, ya es la persona, ¿me explico? Aquí es más, más la persona. No es una pérdida, no es una pérdida, eh..."
+},
+{
+"startMs": 2720511,
+"endMs": 2729410,
+"text": "Es una pérdida emocional, no es una pérdida, ya consigues otra. O sea, pérdida emocional sí, porque sufres, pero no es de que- No, pero eso ya no es como que la sirvienta, ¿me explico?"
+},
+{
+"startMs": 2729451,
+"endMs": 2738651,
+"text": "Es que no estamos hablando- Ya no está. La sirvienta es- Yo no tengo sirvienta, pero- Sí, es algo muy... Consigo otra. O sea que no se hace luto de eso, sino ya se consigue otra y ya, se fue el ishir."
+},
+{
+"startMs": 2738691,
+"endMs": 2745211,
+"text": "Ya, bueno, nada, consigues otra. Haces el luto de quién te va a limpiar la casa. Sí, ya, se limpia, se limpia de otra manera."
+},
+{
+"startMs": 2745410,
+"endMs": 2756290,
+"text": "Pero él cuando falleció su espa-- su, su esclavo Tabi, él sí, sí hizo luto. Entonces, \"Samud lo talmidá\", le, le preguntaron: \"Lo matán lo rapenus sheínumekablím talumím el havedím\"."
+},
+{
+"startMs": 2756651,
+"endMs": 2765031,
+"text": "Es algo muy opuesto a lo de antes, porque ahí cuando murió su esposa, se bañó. Y aquí se muere el es-el esclavo y hace tangumi, ¿sí?"
+},
+{
+"startMs": 2765051,
+"endMs": 2765810,
+"text": "No se bañó un mes."
+},
+{
+"startMs": 2767290,
+"endMs": 2774250,
+"text": "\"Amar eh, dice: \"No, mi esclavo es diferente. En Tabi abdi keshar kol havedím, kasher haya\"."
+},
+{
+"startMs": 2775011,
+"endMs": 2789830,
+"text": "Dice: \"Mi esclavo Tabi era, era kasher\". Entonces, quiere decir, su esclavo, eh, Tabi, llegó una situación donde él logró llevar su, su luz, que también su esclavo, ¿sí?"
+},
+{
+"startMs": 2790711,
+"endMs": 2806691,
+"text": "Su esclavo mismo es luz. Esclavo no es oscuridad, su esclavo mismo es, es, es luz también. Entonces, tanto, tanto se jaló hasta el esclavo, que cuando murió su esclavo, no era nada más un esclavo, era él, él era un, eh, ebed kasher, no era como todos los esclavos, él es diferente."
+},
+{
+"startMs": 2806750,
+"endMs": 2815870,
+"text": "El Yesh. ¿Eh? Sí, el Yesh a lo mejor es en cierto aspecto parecido a Tabi. \"Jatán imratzel ikrot krias Shemá belaila rishón kore\"."
+},
+{
+"startMs": 2816231,
+"endMs": 2825430,
+"text": "Siguiente Mishná, eh, dice: \"Un jatán que quiere leer krias Shemá la primera noche, puede leer. Rabán Shimon Gamaliel omér, dice: \"Lo kol harotzel yitole et Hashem itole\"."
+},
+{
+"startMs": 2826510,
+"endMs": 2834631,
+"text": "El hijo de Rabán Gamaliel dice: \"No todos pueden ser como mi papá\". Aquí es el punto increíble, que Rabán Gamaliel tiene que ser auténtico."
+},
+{
+"startMs": 2835131,
+"endMs": 2845531,
+"text": "Sí, sí, no. Porque en el momento que no es auténtico, ¿sí? Alguien que dice: \"Bueno, yo no quiero levatel mi meni, quitarme ol maljushamaim ni siquiera un minuto\"."
+},
+{
+"startMs": 2847171,
+"endMs": 2854551,
+"text": "Si no eres Rabán Gamaliel, no lo hagas. No te creas el auténtico, no te creas el, el, el, el, el auténtico si realmente no lo eres."
+},
+{
+"startMs": 2854870,
+"endMs": 2871731,
+"text": "Entonces, si no eres Rabán Gamaliel, entiende que a lo mejor tu tipo de trabajo es diferente. Entonces, dijimos que en la yeshivá de Rabán Gamaliel, cuando él era el rosh yeshivá, había muy pocos alumnos, porque decía: \"Aquí solo puede estudiar el que sea cien por ciento como se ve afuera, es cien por ciento adentro."
+},
+{
+"startMs": 2872131,
+"endMs": 2880970,
+"text": "Si no, se queda afuera\". Cuando se pasaron a Rabán Gamaliel de ser rosh yeshivá, se aumentaron ochocientas, ochocientas, eh- Sillas."
+},
+{
+"startMs": 2881711,
+"endMs": 2888770,
+"text": "Sillas. Entonces, como que Rabán Gamaliel, él es el lugar, vamos a llamarle, donde no le deja lugar a nada oscuro."
+},
+{
+"startMs": 2890131,
+"endMs": 2896770,
+"text": "Y la otra línea de Rabán Gamaliel es: dale lugar a lo oscuro y vas a ver cómo al darle lugar a lo oscuro,"
+},
+{
+"startMs": 2897991,
+"endMs": 2906770,
+"text": "vas a ahorita encontrar et filatar bit reshut. Por ejemplo, Rabán Gamaliel dice: \"No, es obligatorio, es obligatorio\". No, Hashem no se va a ningún lugar, Hashem no se va a ningún lugar."
+},
+{
+"startMs": 2907091,
+"endMs": 2908470,
+"text": "El otro te dice: \"No, no, no, no."
+},
+{
+"startMs": 2910390,
+"endMs": 2927270,
+"text": "Suelta, suelta un poco. Ahorita Hashem se está, vamos a llamarlo, te está dejando solo. Aquí la idea es que sí, que te sientas solo y aquí vas a sacar una luz, mmm, de la-- no vas a traer la luz de antes a la oscuridad, sino la oscuridad la vas a convertir en luz\"."
+},
+{
+"startMs": 2927350,
+"endMs": 2939711,
+"text": "¿Cómo? En el momento que sientes la lejanía, entonces dices: \"Espera, entonces a Hashem yo te busco\". Esa es la otra línea. La línea de Rabán Gamaliel es jalarle luz a la oscuridad y la, la- Pero él al final se dio cuenta que era para él nomás."
+},
+{
+"startMs": 2940091,
+"endMs": 2942010,
+"text": "¿Eh? Al principio, él sí quería leer así."
+},
+{
+"startMs": 2943510,
+"endMs": 2949551,
+"text": "En la yeshivá, al final lo, lo- O sea, al final ya él- No, es que hay cosas y hay cosas. Por ejemplo- Esa es mi pregunta."
+},
+{
+"startMs": 2949611,
+"endMs": 2957451,
+"text": "Sobre el jatán decir krias Shemá, eso sí es algo muy exclusivo de Rabán Gamaliel, porque ahí lo que el jatán es patur de krias Shemá es porque ya está haciendo una mitzvá."
+},
+{
+"startMs": 2957451,
+"endMs": 2968430,
+"text": "¿Me explico? El jatán ya está haciendo una mitzvá. El dormido no está haciendo nada. Entonces, en la citada de Rabán Gamaliel, en relación al dormido, eso sí es más aplicable para todos."
+},
+{
+"startMs": 2968830,
+"endMs": 2975571,
+"text": "De que el que no sea- Pero decir krias Shemá aún siendo jatán, jatán lo que es patur- No, yo creo que Rabán Gamaliel se hubiera arrepentido antes."
+},
+{
+"startMs": 2976051,
+"endMs": 2982651,
+"text": "Lo que el jatán es patur es porque está haciendo una mitzvá. Ya, pero esa es la, esa es la halaja que todos seguimos, entonces el patur ya no entra."
+},
+{
+"startMs": 2982711,
+"endMs": 2992330,
+"text": "Sí, entonces Rabán Gamaliel ahí te dice: \"No\", dice: \"No, yo necesito ahí\" No, él se dio cuenta que su reshidér no podía funcionar- En algunos lugares no, hay lugares que sí se queda como Rabán Gamaliel."
+},
+{
+"startMs": 2992370,
+"endMs": 3001970,
+"text": "No, pero yo digo que así como al final, hubiera cambiado la halaja al principio también. ¿Eh? Pues a lo mejor si este Rabán Gamaliel de estos Mishnayot, si hubiera hablado al principio de krias Shemá, hubiera dicho el hazot."
+},
+{
+"startMs": 3004451,
+"endMs": 3005671,
+"text": "O sea, dice que se repita. No."
+},
+{
+"startMs": 3007390,
+"endMs": 3013631,
+"text": "No, no hay manera. No, no, no, no. En el momento que se anula Rabán Gamaliel se cae todo el-- todo, todo, todo se derrumba."
+},
+{
+"startMs": 3014010,
+"endMs": 3020790,
+"text": "Si, si ha-- si hay, vamos a llamar, la línea de Rabán Gamaliel es el que, el que nunca cae, el que siempre como que es auténtico, ves el Bet HaMikdash."
+},
+{
+"startMs": 3020810,
+"endMs": 3029310,
+"text": "No, por eso, pero no es el ideal para todo. Él, él sigue como que manteniendo el Bet HaMikdash que se destruyó. Esa luz la sigue jalando y como si nunca se destruyó."
+},
+{
+"startMs": 3029731,
+"endMs": 3037191,
+"text": "Por eso una de las tres cosas. Es que es Burá. Sí, en cierto aspecto es Burá, es Emet, muy, muy el Emet."
+},
+{
+"startMs": 3037591,
+"endMs": 3045810,
+"text": "Entonces, él, él nunca-- para él, el Bet HaMikdash lo ve como algo que no se destruyó. ¿Me explico? Como que él sigue llevando lo auténtico."
+},
+{
+"startMs": 3046091,
+"endMs": 3064711,
+"text": "Pero para él. Hay lugares, hay lugares, hay lugares, hay lugares. Fíjate, una de las cosas que se pidió que se-- cuando se iba, cuando se destruyó el Bet HaMikdash, este, Rabí Yohanan Ben Zakkai le dijo a el, el, el César que destruyó el Bet HaMikdash, el de antes de Titus, ¿cómo se llamaba?"
+},
+{
+"startMs": 3064970,
+"endMs": 3073911,
+"text": "Espasianus, le dijo: \"Pídeme tres cosas. Pídeme tres cosas\". Yavne también, ¿no? Pidió a Yavne, era la yeshivá de Rabán Gamaliel."
+},
+{
+"startMs": 3073970,
+"endMs": 3082731,
+"text": "Sí, luego que a Rabí Tzadok le den, eh- Lo curen. Lo curen a Rabí Tzadok. Y la tercera era su sheltá de Rabán Gamaliel."
+},
+{
+"startMs": 3082790,
+"endMs": 3089111,
+"text": "Su sheltá de Rabán Gamaliel es como que las eslabones, su sheltá... La dinastía."
+},
+{
+"startMs": 3089151,
+"endMs": 3090691,
+"text": "La dinastía de Rabán Gamaliel."
+},
+{
+"startMs": 3092131,
+"endMs": 3099810,
+"text": "Es como que hay, eh... El linaje. El linaje, el linaje de, de, de hijo tras hijo de Rabán Gamaliel, eso no lo puedes quitar."
+},
+{
+"startMs": 3100231,
+"endMs": 3107010,
+"text": "Entonces, Rabán, Rabí Yohanan Ben Zakkai dice: \"Espera, se va a destruir el Bet HaMikdash, pero nosotros necesitamos reconstruir el tercer Bet HaMikdash."
+},
+{
+"startMs": 3107051,
+"endMs": 3113411,
+"text": "Para eso necesitamos Yavne. ¿Qué significa Yavne? Y vané, y vané, que se construya el tercer Bet HaMikdash."
+},
+{
+"startMs": 3113830,
+"endMs": 3121111,
+"text": "Necesito Rabí Tzadok. Rabí Tzadok fue el que ayunó cuarenta años seguidos, ¿sí? Para que no se destruya el Bet HaMikdash."
+},
+{
+"startMs": 3122010,
+"endMs": 3129310,
+"text": "Entonces, Rabí Tzadok, que es el que siente el dolor de la pérdida del Bet HaMikdash."
+},
+{
+"startMs": 3129711,
+"endMs": 3137651,
+"text": "Entonces, curar a Rabí Tzadok, que es, nosotros queremos que Rabí Tzadok, que él es el que es-- Rabí Tzadok, que es muy de la línea de David HaMelej, vamos a llamarla así."
+},
+{
+"startMs": 3137951,
+"endMs": 3142451,
+"text": "Él siente el dolor de la pérdida, él sí ha-hace luto de las pérdidas, ¿me explico?"
+},
+{
+"startMs": 3144091,
+"endMs": 3156591,
+"text": "Entonces, eso es lo que va a hacer la anhelación a que se construya el tercero, ¿sí? Pero si el segundo Bet HaMikdash, que es el que está destruyendo, pasa al olvido, entonces no va a haber alguien que pueda anhelar al tercero, porque se quitó el ejemplo."
+},
+{
+"startMs": 3156671,
+"endMs": 3163390,
+"text": "Entonces, ¿quién es el otro? ¿Qué se necesita? A Rabán Gamaliel. Rabán-- necesitamos a alguien que siga recordando qué era el Bet HaMikdash."
+},
+{
+"startMs": 3163430,
+"endMs": 3170951,
+"text": "Entonces, por eso se llama su sheltá Rabán Gamaliel. Es como que el linaje de Rabán Gamaliel, que ellos siguen uno tras otro jalando la línea del Bet HaMikdash."
+},
+{
+"startMs": 3170991,
+"endMs": 3177191,
+"text": "Entonces, el primer, el primer rav en Yavne era Rabán Gamaliel, y él era muy rígido. ¿Por qué?"
+},
+{
+"startMs": 3177890,
+"endMs": 3186010,
+"text": "¿Cómo es-- quién entraba al Bet HaMikdash? Mi ya'ale el haReshem. ¿Quién sube al Bet HaMikdash? Dice: \"Neguija, neguija paim ubar levav\"."
+},
+{
+"startMs": 3186491,
+"endMs": 3192770,
+"text": "¿Qué es bar levav? Que su corazón, así como lo tienes adentro, lo tienes afuera, bar levav."
+},
+{
+"startMs": 3193131,
+"endMs": 3202911,
+"text": "Entonces, Rabán Gamaliel, él quería que Yavne sea el Bet HaMikdash, ¿me explico? Él jaló al Bet HaMikdash, Yavne es-- no se ha destruido, aquí seguimos, ¿sí?"
+},
+{
+"startMs": 3203350,
+"endMs": 3210231,
+"text": "Y entonces, ahí es cuando bajaron a Rabán Gamaliel y le dijeron: \"Mira, Rabán Gamaliel, tú eres Rabán Gamaliel, pero Yavne es Yavne, y vané."
+},
+{
+"startMs": 3210551,
+"endMs": 3218250,
+"text": "Se va a construir el tercer Bet HaMikdash. También, si tú, si todos como tú, entonces no se va a construir el tercer Bet HaMikdash, porque ya nos destruyó."
+},
+{
+"startMs": 3218890,
+"endMs": 3229510,
+"text": "Entonces, nos vamos a quedar con el chiquito, queremos el grande. Queremos que también lo que sí se destruyó, también toda la gente que se perdió por el Bet HaMikdash, todos los que se alejaron por el Bet-- por la destrucción del Bet HaMikdash, que regresen, ¿sí?"
+},
+{
+"startMs": 3229611,
+"endMs": 3236250,
+"text": "Entonces, necesitamos la fuerza de Rabí Tzadok, que llora, dice: \"¿Por qué lloras si no se destruyó?\" \"No, yo lloro. Yo lloro."
+},
+{
+"startMs": 3236290,
+"endMs": 3242810,
+"text": "Yo quiero el Bet HaMikdash. ¿Sí? Yo sí siento la pérdida, entonces yo lloro\". Esa es que dice Tikun HaZohar, como David HaMelej, como la línea de David HaMelej."
+},
+{
+"startMs": 3243250,
+"endMs": 3252330,
+"text": "¿Me explico? El que siente la pérdida, le duele y entonces anhela, anhela, anhela en base a la pérdida. Entonces- Rabí Johanan, Rabí Johanan, de ahí se siente Rabí Johanan."
+},
+{
+"startMs": 3252411,
+"endMs": 3261071,
+"text": "No, no, no. Es Rabí Johanan Ben Zakkai. Es mucho antes. Rabí Johanan Ben Zakkai. Rabí Johanan Ben Zakkai se ve que él es alguien que tenía como que algo muy..."
+},
+{
+"startMs": 3261750,
+"endMs": 3270430,
+"text": "una visión muy general de todo, de todos los hechos. Entonces, Rabán Gamaliel es el que mantiene el Bet HaMikdash construido mientras está destruido, ¿sí?"
+},
+{
+"startMs": 3270750,
+"endMs": 3284691,
+"text": "Y ese es como que el judío auténtico. Tipo, hay las yeshivot y así, como que ellos como que siguieron la misma línea, te vas a generaciones de antes, es, es-- siguen haciendo lo mismo desde el tiempo de la-- el tiempo del Bet HaMikdash, Beth Shammai, Beth Hillel."
+},
+{
+"startMs": 3284991,
+"endMs": 3298250,
+"text": "Hay un Bet Midrash que está estudiando y ahorita sigue habiendo Bet Midrash que sigue estudiando, ¿me explico? Pero ellos no hacen kirú, no, no traen, no hay-- es como que se quedó lo mismo auténtico, así muy, muy, muy sellado, muy cerrado."
+},
+{
+"startMs": 3298810,
+"endMs": 3309750,
+"text": "Y entonces, y entonces la otra, eso es Rabán Gamaliel. Y la otra es: \"Ya, espérate, vamos a ahorita a hacer que, que también la oscuridad sea la luz de la oscuridad\"."
+},
+{
+"startMs": 3311131,
+"endMs": 3321151,
+"text": "Entonces, no podemos nada más quedarnos recordando lo auténtico que siempre había, sino necesitamos ahorita ver que sí, realmente cuando se destruyó el Bet HaMikdash nos alejamos."
+},
+{
+"startMs": 3321631,
+"endMs": 3328031,
+"text": "Y si nos alejamos, entonces necesitamos reconocer que estamos lejanos. Y si reconoces que estás lejano, entonces vas a encontrar una luz nueva para acercarte."
+},
+{
+"startMs": 3328550,
+"endMs": 3336671,
+"text": "Y entonces, es el, el, el lugar de Bemakom Se, Baale Teshuva Umdin, donde están los Baale Teshuva, los Tzadikim Murim, no pueden estar parados."
+},
+{
+"startMs": 3336711,
+"endMs": 3342810,
+"text": "Y es más cloqué. ¿Por qué? Y Rabí Johanan dice: \"No\". Bueno, Rabí Johanan es como Rabán Gamaliel, es lo mismo. Pero ¿por qué? ¿Por qué?"
+},
+{
+"startMs": 3343371,
+"endMs": 3354090,
+"text": "Porque ellos, ellos no nada más mantuvieron la luz de antes, sino lograron crear una nueva luz que nunca existió, que es la luz que vino de después de la oscuridad."
+},
+{
+"startMs": 3354470,
+"endMs": 3363930,
+"text": "Es una luz que nunca existió. Rabán Gamaliel, su fuerza es que mantuvo la luz de antes y la única manera que hagas que la oscuridad regrese a ser luz es porque existe un Rabán Gamaliel."
+},
+{
+"startMs": 3364330,
+"endMs": 3370531,
+"text": "Porque puedo ver la luz, lo veo, y entonces quiero ahorita yo desde mi lugar apegarme a esa luz."
+},
+{
+"startMs": 3370850,
+"endMs": 3377871,
+"text": "Pero si no estuviera la luz de Rabán Gamaliel, entonces sería como, como una destrucción, eh, una destrucción total."
+},
+{
+"startMs": 3377930,
+"endMs": 3385590,
+"text": "No hay ni siquiera dónde anhelar, no hay nadie que ni siquiera nos recuerde que era el Bet HaMikdash como para anhelarlo, ¿sí? Entonces, son las, las, las tres líneas."
+},
+{
+"startMs": 3385631,
+"endMs": 3392231,
+"text": "¿Te puedo decir algo? Pensé en la mañana cuando estabas diciendo ayer, este, una vez escuché, hay que-- esto es un buen arte, ¿no?"
+},
+{
+"startMs": 3393010,
+"endMs": 3399031,
+"text": "Existe la luna, existe el sol, ¿ajá? La luna qué es, va y viene. Es David HaMelej."
+},
+{
+"startMs": 3399071,
+"endMs": 3406411,
+"text": "Se hace chica, se hace grande. A veces es oscura, a veces no, a veces es David HaMelej. Cuando veían la luna, ¿qué decían todos?"
+},
+{
+"startMs": 3406411,
+"endMs": 3413411,
+"text": "\"David Melej Israel Jaav Eká\". Así lo decimos en Miká Taaná. ¿Por qué? Dices: \"David se ve perdido y de repente regresa\"."
+},
+{
+"startMs": 3414451,
+"endMs": 3419951,
+"text": "Por eso dices, ves la luna: \"Oh, David Melej Israel Jaav Eká\". Porque David es alguien que de repente, espérate, no lo ves, está por..."
+},
+{
+"startMs": 3421163,
+"endMs": 3429783,
+"text": "Está muy oscuro. De repente, espérate, ah, espérate, la oscuridad mismo empezó a tener luz. Increíble. ¿Sí? Y Rabán Gamliel es más el sol, más como que siempre..."
+},
+{
+"startMs": 3430463,
+"endMs": 3440703,
+"text": "Pero ahí te va lo bueno que pensé. Eso ya, es la luz del sol. Pero hay un din que haré-- el calendario lunar tiene que a la fuerza acomodarse como el solar."
+},
+{
+"startMs": 3441383,
+"endMs": 3450183,
+"text": "Eso, eso. Exactamente. Hermoso. Al fin, en el-- a ver, jodes shavit, \"tishmor atzaij lishmor et jodes shavit\"."
+},
+{
+"startMs": 3450963,
+"endMs": 3460923,
+"text": "Jodes shavit tienes que tú quedar luna, luna, luna, vas, vienes, vas, vienes, te fuiste. Si vas bien, es decir, de repente volteas y ya te fuiste, ya se, te fue, ya te fuiste del judaísmo, Bejalal."
+},
+{
+"startMs": 3462223,
+"endMs": 3478303,
+"text": "Viene el sol y te tienes que acoplar al sol en algún momento. Tienes que estar alineado. Deberíamos de ver las ideas de Rabán Gamliel, de la discusión de Rabán Gamliel y Rab Yehoshua sobre Kipur y cuándo cae Kipur."
+},
+{
+"startMs": 3478823,
+"endMs": 3487103,
+"text": "Que Rabán Gamliel tenía un calendario y obligó a Rab Yehoshua a- A hacer como él. Ir, ir como él, ir como él, deberíamos de verlo adentro."
+},
+{
+"startMs": 3487663,
+"endMs": 3500283,
+"text": "Y es justamente en Kipur. Kipur. ¿Qué es Kipur? ¿Qué es Kipur? Kipur es el día donde, ya hablando así en teoría, es cuando la, la luna alinea con el sol."
+},
+{
+"startMs": 3500683,
+"endMs": 3508763,
+"text": "O sea, ¿qué quiere decir? Que la oscuridad encontró la luz por medio de la teshuvá. Rabán Gamliel nunca necesita hacer teshuvá, él está en el sol."
+},
+{
+"startMs": 3508903,
+"endMs": 3516943,
+"text": "¿Me explico? Entonces, el Yom Kipur es el día de la discusión. De, de, ahí le dice: \"No, Yom Kipur tienes que ser como yo, ¿okey?"
+},
+{
+"startMs": 3517003,
+"endMs": 3523403,
+"text": "Es Yom Kipur. Dice: \"Yom Kipur tienes que ser como yo. De Yom Kipur tienes que ser como yo. Y aquí te tienes que...\". O sea, ¿qué quiere decir?"
+},
+{
+"startMs": 3523463,
+"endMs": 3529503,
+"text": "Yom Kipur es también la oscuridad, tiene que regresar otra vez. Es un día muy de los dos. ¿Qué pasa hoy en día?"
+},
+{
+"startMs": 3529543,
+"endMs": 3537023,
+"text": "Tipo, a mí lo de los más, más, más, más alejados, Yom Kipur es Kipur. Es Kipur, es Kipur. Kipur es Kipur, que es cuando todos como que regresan."
+},
+{
+"startMs": 3537103,
+"endMs": 3544863,
+"text": "Bueno, sí, hasta yo necesito- Ahí sí hay un mal- Necesito yo alinearme. O sea, ahí sí es el día de David HaMelech. O sea, no hay, no hay, no hay manera, no hay otra."
+},
+{
+"startMs": 3546403,
+"endMs": 3552983,
+"text": "O sea, cada Yom Kipur hacemos Birkat HaLevanah, también. Lo aguantamos, Birkat HaLevanah, dile a No hasta después de Yom Kipur."
+},
+{
+"startMs": 3553343,
+"endMs": 3563343,
+"text": "Tanto así que dice el Gaon de Vilna que el, el, los treinta días de Adar- Doce días después es el día de David HaMelech con Rosh Hashaná Rabá."
+},
+{
+"startMs": 3563403,
+"endMs": 3565623,
+"text": "Rosh Hashaná Rabá, a lo mejor tiene que ver, sí."
+},
+{
+"startMs": 3566983,
+"endMs": 3575243,
+"text": "Seguramente tiene que ver. Entonces, el Gaon de Vilna dice que, ¿qué mes hacemos extra?"
+},
+{
+"startMs": 3575423,
+"endMs": 3588163,
+"text": "Adar Bet. Porque se van acumulando días extras del sol a de la luna, se acumulan días extras y cada tres años hacemos, no, bueno, como lo quieras llamar,"
+},
+{
+"startMs": 3589623,
+"endMs": 3599223,
+"text": "como lo quieras llamar. Entonces, dice el Gaon de Vilna: \"¿Cuáles son los días que se acumulan para otra vez que se realine?\" Dice el Gaon de Vilna\" \"Son Aseret Yemei Teshuva."
+},
+{
+"startMs": 3599463,
+"endMs": 3602863,
+"text": "Los días extras que tiene el sol a la luna son Aseret Yemei Teshuva\"."
+},
+{
+"startMs": 3604743,
+"endMs": 3614803,
+"text": "Entonces, dice: \"Se acumulan cada, cada año diez días y esos días se van sumando hasta que se hace el- El calendario lunar tiene trescientos cin- Cincuenta y cuatro y tres sesenta y cuatro, es el punto."
+},
+{
+"startMs": 3615263,
+"endMs": 3617143,
+"text": "Entonces, dice, dice el Gaon de"
+},
+{
+"startMs": 3618603,
+"endMs": 3627743,
+"text": "Vilna: \"Son los, son los primeros diez días del año, son los días de Aseret Yemei Teshuva\" Y entonces, dice: \"Lo ha-- lo que hace\", fíjense, aquí es."
+},
+{
+"startMs": 3628123,
+"endMs": 3637143,
+"text": "Vean, vean, vean la conexión, impresionante. \"Lo que hace que la luna se alinee con el sol son los días que, que todos deciden hacer teshuvá\"."
+},
+{
+"startMs": 3637603,
+"endMs": 3643703,
+"text": "Guau. ¿Entienden? Es exactamente eso. Así dice el Gaon de Vilna. Muy impresionante. ¿Cómo, cómo estuvo eso? Estuvo bueno."
+},
+{
+"startMs": 3644183,
+"endMs": 3656783,
+"text": "Los días de teshuvá. Es justamente los Aseret Yemei Teshuva son, son los días que alinean el calendario lunar con el solar, son los días extras, que todos ahí son sol."
+},
+{
+"startMs": 3657323,
+"endMs": 3667043,
+"text": "Entonces, ahí todos tratan de ser sol. No puedes-- No la luna. Yo creo que Rabán, Rabán Gamliel- Mañana vamos a seguir esto \"coming soon\"."
+},
+{
+"startMs": 3668843,
+"endMs": 3678483,
+"text": "Rabán Gamliel no puede entender a Rab Yehoshua, mi Rabí. No hay manera, le, le da pavor entrar en el mundo de Rab Yehoshua. Dice, dice: \"En el momento en que el sol se quite, se destruye el mundo\"."
+},
+{
+"startMs": 3678683,
+"endMs": 3686183,
+"text": "Rab Yehoshua era baal teshuvá. Dice: \"La luna ya no va a tener sol\". O sea, todo el sol de la luna es porque hay sol. Entonces, la luna necesita reconocer que tiene sol."
+},
+{
+"startMs": 3687163,
+"endMs": 3690083,
+"text": "Rab Yehoshua era baal teshuvá. ¿Eh? Rab Yehoshua era baal teshuvá."
+},
+{
+"startMs": 3691283,
+"endMs": 3694143,
+"text": "Rab Yehoshua, Rab Yehoshua es alguien que..."
+},
+{
+"startMs": 3695463,
+"endMs": 3702723,
+"text": "No, a lo mejor sí, ¿qué tiene? No, no, la línea de Rab Yehoshua no es- No, claro. No, es que no, pero a lo mejor puede haber baal teshuvá."
+},
+{
+"startMs": 3703243,
+"endMs": 3704583,
+"text": "No, Rab Yohanan no, Rab Yohanan"
+},
+{
+"startMs": 3706143,
+"endMs": 3712243,
+"text": "al revés, es todo línea. Es que Rab Yohanan es la misma línea que Rabán Gamliel, lo que hablamos ayer. ¿Quién era el que iba a saltar?"
+},
+{
+"startMs": 3712543,
+"endMs": 3722383,
+"text": "Rab-- Rish Lakish. Rish Lakish. Rish Lakish es el opuesto, él es la luna. Yo creo que todo está muy pachucho. O sea, los que siempre fueron religiosos entiendo que entiendan perfectamente a Rabán Gamliel."
+},
+{
+"startMs": 3722883,
+"endMs": 3731403,
+"text": "Los que no entienden perfectamente a Rab Yehoshua, el que es religioso, sí es baal teshuvá. No, no, no, no me entendiste que es religioso, pero yo no sé que iban a Rab Yehoshua."
+},
+{
+"startMs": 3731463,
+"endMs": 3739923,
+"text": "El que toda su vida, toda la vida no puede entender a un baal teshuvá en cómo piensa, no, no, no, en el estudio. No estoy hablando en, en el estudio, no, imposible."
+},
+{
+"startMs": 3740683,
+"endMs": 3747383,
+"text": "No, no llega. No llega, o sea, imposible. No, no. Rab Yehoshua, por ejemplo, fíjense, es algo muy interesante."
+},
+{
+"startMs": 3747423,
+"endMs": 3754203,
+"text": "Rab Yehoshua es, es, es muy no Rabán Gamliel. Rabán Gamliel le queda ir a discutir con griegos."
+},
+{
+"startMs": 3754243,
+"endMs": 3759483,
+"text": "¿Con griegos? No. Con griegos sobre Jojmá. A ver cómo la Jojmá, la Torá le gana."
+},
+{
+"startMs": 3762203,
+"endMs": 3768563,
+"text": "Dice, dice... Es para él, es para él. Ese era el auténtico, auténtico. Rab Yehoshua era el que iba a discutir con los griegos."
+},
+{
+"startMs": 3769183,
+"endMs": 3772263,
+"text": "Rab Yehoshua dice: \"Yo llevo la luz de la Torá"
+},
+{
+"startMs": 3773563,
+"endMs": 3786303,
+"text": "hasta la oscuridad. Y te voy a enseñar cómo en el mundo físico, en el mundo natural, en el mundo que tú lo ves separado, vas a ver cómo ahí ese, ese tiene más luz de Torá que tu, que, que tu inteligencia griega\"."
+},
+{
+"startMs": 3786383,
+"endMs": 3795271,
+"text": "Rab Yehoshua era el que-- Rab Yehoshua es Hakima de Judá, Hakima de Judá, ¿eh? No era, eh... Hay Rav, que es el talmid jajam, ¿sí?"
+},
+{
+"startMs": 3795391,
+"endMs": 3807771,
+"text": "Rabán Gamaliel. Y Rab Ioshua era jakima de Yehuda, era el, el sabio, que el que podía hablar con el César, el que iba a discutir con los griegos, es justamente la línea de Rab Ioshua."
+},
+{
+"startMs": 3807831,
+"endMs": 3817171,
+"text": "Y esa es la que tiene el Mashíaj, no si es el Mashíaj. ¿Eh? No la de Ravi-- no la de Rabán Gamaliel. Rabán Gamaliel es como tú jalas la luz de, de la gulá anterior."
+},
+{
+"startMs": 3817391,
+"endMs": 3826191,
+"text": "Pero ya esa no funciona. Hoy en día la que funciona es la de Rab Ioshua. Pero necesitas siempre a uno auténtico que Rabán Gamaliel, porque si no hay auténtico, no hay a dónde regresar."
+},
+{
+"startMs": 3826271,
+"endMs": 3828871,
+"text": "Se tienen que unir. No, pero en lo general."
+},
+{
+"startMs": 3830851,
+"endMs": 3838111,
+"text": "Necesitas agarrarte de algo. Si no hubiera, si no hubiera religiosos plenos, entonces existiría Adán de nuevo."
+},
+{
+"startMs": 3838631,
+"endMs": 3845451,
+"text": "Cada uno inventaría otra cosa. Pero el Majut es el Majut de David. Pero el Majut es el Majut de David. Pero en tiempos- El Majut de David es el Majut."
+},
+{
+"startMs": 3845751,
+"endMs": 3851891,
+"text": "Sí, pero ahí no se abren los altanos. Sí, pero... Beth Hamai, son dos, dos líneas. No, eso es cuando ya llegue el Mashíaj."
+},
+{
+"startMs": 3851951,
+"endMs": 3858130,
+"text": "Es lo que estoy hablando. No, no, no. Antes de que llegue el Mashíaj tiene que ser de la otra forma. Ya cuando llegue el Mashíaj, ya puede ser todo como Rabán Gamaliel."
+},
+{
+"startMs": 3858171,
+"endMs": 3864231,
+"text": "A ver, Rabí, tú dijiste antes como que es la, la jalá del cielo, la jalá de la tierra. Sí. Y eso es lo que yo sentía."
+},
+{
+"startMs": 3864271,
+"endMs": 3871811,
+"text": "Rabán Gamaliel va como que con el cielo. Va con el cielo y Rab Ioshua- Hashem nunca nos va a soltar. Claro, exactamente."
+},
+{
+"startMs": 3872411,
+"endMs": 3875451,
+"text": "Y nosotros sí nos alejamos de él y regresamos, David HaMelej."
+},
+{
+"startMs": 3876971,
+"endMs": 3884691,
+"text": "Nosotros somos David HaMelej, nosotros nos alejamos, nosotros nos caemos, nosotros regresamos. Nosotros, nosotros de todo. Hay aspectos que somos más Rabán Gamaliel."
+},
+{
+"startMs": 3884731,
+"endMs": 3894151,
+"text": "Por ejemplo, el Brit Milá, el, que es la Milá de Yosef y es Rabán Gamaliel. Ahí todos los yehudím dicen: \"Si anulas el Brit Milá, ya ni siquiera dónde hay regresar\"."
+},
+{
+"startMs": 3894451,
+"endMs": 3901331,
+"text": "Digo, el Brit Milá ya perdiste, ya no eres yehudí. Y hay algo que se tiene que quedar auténtico, es Brit Milá. Y es-- por eso Yosef es el que más trabaja el Brit Milá."
+},
+{
+"startMs": 3901371,
+"endMs": 3917351,
+"text": "La forma de Beth Hamai es, es la de Rabán Gamaliel. Exactamente, Rabán Gamaliel es muy Beth Hamai en ese aspecto. Entonces, y, y Yosef es, es el Brit Milá, es el que más cuida el Brit Milá, porque en el momento que Yosef no cuide el Brit Milá, entonces va a haber gente que ni siquiera hace Brit Milá."
+},
+{
+"startMs": 3917391,
+"endMs": 3921930,
+"text": "Yosef es el, como que el tsadik auténtico, auténtico, auténtico, y por eso el..."
+},
+{
+"startMs": 3924491,
+"endMs": 3933751,
+"text": "O sea, Rabán Gamaliel no le puede dejar ni a su esclavo no ser... Oscuridad. Sí, dejar que su esclavo sea oscuro, nada más es el trabajador, no existe, ¿qué es el trabajador?"
+},
+{
+"startMs": 3934271,
+"endMs": 3955491,
+"text": "Este es el tsadik, no hay. En mi casa mía, es parte mía. Sí, exactamente, su esclavo es como él. Entonces, si él no tiene ningún lugar oscuro, entonces su esclavo va a ser comple-- cuando tú tienes un lugar oscuro, entonces el esclavo tuyo, que es el que se encarga de tus cosas materiales, tus cosas materiales tienen algo de oscuridad, entonces tu esclavo, pues va a tener oscuridad."
+},
+{
+"startMs": 3956011,
+"endMs": 3964031,
+"text": "Rabán Gamaliel, su esclavo, es el esclavo de Rabán Gamaliel. Rabán Gamaliel no tiene ni un lado oscuro, no conoce ese lado oscuro, es el esclavo de la luz."
+},
+{
+"startMs": 3964051,
+"endMs": 3968251,
+"text": "Es la más diferente. No, pero él le deja al esclavo ser esclavo, deja al esclavo ser esclavo."
+},
+{
+"startMs": 3974291,
+"endMs": 3978631,
+"text": "También es, pero que es otra cosa, es otra pjiná, es limtsota. Sí, sí, sí."
+},
+{
+"startMs": 3983871,
+"endMs": 3989971,
+"text": "El humano es el que se aleja, Hashem nunca se va a alejar. Sí. O sea, nosotros somos los que si hay aquí- Exactamente."
+},
+{
+"startMs": 3990011,
+"endMs": 4000791,
+"text": "Rabán Gamaliel ve las cosas de arriba y dice: \"Hashem nunca te suelta\", dice: \"Hashem nunca te suelta. Agárrate de eso, porque es-eso quiere decir que en cierto aspecto nunca se va a destruir el Bet Hamikdash."
+},
+{
+"startMs": 4001911,
+"endMs": 4008131,
+"text": "Pero en el momento que te agarras de eso, entonces te puedes conformar con eso. Y es, y es, ahí viene el otro lado, el de David HaMelej."
+},
+{
+"startMs": 4008171,
+"endMs": 4014731,
+"text": "Que no te superas. ¿Eh? No te superas. Si no vas a teshuvá, no te acercas. Rabán Gamaliel mismo no era-- Superar."
+},
+{
+"startMs": 4014771,
+"endMs": 4021891,
+"text": "Está arriba. ¿Te gustó el de la luna? Bueno, Breslev no está. Yo veo Breslev, sí. Rabán Gamaliel. En todas las..."
+},
+{
+"startMs": 4021951,
+"endMs": 4034191,
+"text": "No, es lo que te cae, ni se levanta. No, no, no. Todo Breslev es como, como no, como cuando hay caída, cuando todo te levantas, cae oscuridad y anhelas y tratar, voltearla."
+},
+{
+"startMs": 4034211,
+"endMs": 4037531,
+"text": "Cuando ya te caes. Te va a decir,"
+},
+{
+"startMs": 4039251,
+"endMs": 4046351,
+"text": "pues. ¿Quién mitjaver más? ¿En la adicción o en los baal teshuva? O sea, yo soy mucho, como dice, yo soy mucho más de Rab Ioshua."
+},
+{
+"startMs": 4046391,
+"endMs": 4055291,
+"text": "Soy muy... ¿Por qué no acerca al baal teshuva? O sea, en cierto aspecto. No es, pero esa teoría- Quiere decir, todo eso viene a iluminar la oscuridad."
+},
+{
+"startMs": 4055411,
+"endMs": 4064191,
+"text": "Te afecta, te afecta, pero... Entonces, el que está en oscuridad necesita eso, pero el otro, el de la adicción te va a decir: \"Bueno, eh\". O sea, yo soy- Nada, nadie necesita también, porque no es Rabán Gamaliel."
+},
+{
+"startMs": 4064211,
+"endMs": 4073111,
+"text": "Tengo que ver al Rabán, este, a las dos, las dos Torá, Rab Ioshua, que pegan en ese- Sí, hasta le, le suena hasta peligroso, porque le está dando un lugar de oscuridad."
+},
+{
+"startMs": 4073251,
+"endMs": 4078471,
+"text": "No puede existir otra cosa. Ya Torá y no se puede cambiar nada en la Torá. De acuerdo. Porque sin él"
 }
 ]
 }
