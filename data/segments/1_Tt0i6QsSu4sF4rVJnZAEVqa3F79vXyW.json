@@ -1,414 +1,821 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 1000,
-"endMs": 5000,
-"speaker": "Speaker 1",
-"text": "Tas las fila mi knadin?"
+"startMs": 1040,
+"endMs": 2420,
+"text": "Entonces, la tefila, desde el punto de vista del din,"
 },
 {
-"startMs": 5000,
-"endMs": 35000,
-"speaker": "Speaker 1",
-"text": "Las fila mi tit, perdón, no, no, ¿Qué pasa? Las fila mi tit, ¿Cuál es la fila mi tit? Es toda la fila mi tit, baruhata ashem, baruhata ashem, toda la fila esta nuya con brajot. Entonces el línea de la Braja es lo que explicó el Mara ¿Y qué es la Braja?"
+"startMs": 6360,
+"endMs": 8680,
+"text": "la tefila verdadera, la tefila desde el punto de vista del din, qué es eso?"
 },
 {
-"startMs": 35000,
-"endMs": 50000,
-"speaker": "Speaker 1",
-"text": "La Braja es el Itspashutki viaholdashem que Shem Itspashet a nosotros ¿Cómo se vería nuestra Parnasa si así no estaría revelado?"
+"startMs": 13040,
+"endMs": 20600,
+"text": "La tefila, la tefila verdadera, toda la tefila verdadera, es, toda la tefila está construida con bendiciones."
 },
 {
-"startMs": 50000,
-"endMs": 55000,
-"speaker": "Speaker 1",
-"text": "Cuando llega el Mashiaj."
+"startMs": 20880,
+"endMs": 28700,
+"text": "Baruj ata Hashem, jonen ha-daat. Baruj ata Hashem, rofé colame, Israel. Baruj ata Hashem. Toda, toda la tefila está construida con bendiciones."
 },
 {
-"startMs": 55000,
-"endMs": 61000,
-"speaker": "Speaker 1",
-"text": "Mucho chef, mejor cuando se rebele, viene el top, como se ve nuestra réfuga cuando se rebela."
+"startMs": 29440,
+"endMs": 35660,
+"text": "Entonces, el tema de la bendición es lo que explicó el Maara, que ¿qué es la bendición?"
 },
 {
-"startMs": 61000,
-"endMs": 63000,
-"speaker": "Speaker 2",
-"text": "No, no va a haber enfermos."
+"startMs": 35760,
+"endMs": 41900,
+"text": "La bendición es el itpashut, como dice el Hashem, que Hashem se itpashit hasta nosotros."
 },
 {
-"startMs": 63000,
-"endMs": 93000,
-"speaker": "Speaker 1",
-"text": "Exactamente, como se ve, ve este nuestro shalom cuando se rebela. El shalom, se quita de quina, se gana, tajarudo. Eso es, ese es toda la chila, ve este. Es le bakesh, que ashem y galela. Entonces, tú tienes que pensar en shem, shem, vaya. Y entonces cada vez que todo es el or de todo, es todo."
+"startMs": 41900,
+"endMs": 49620,
+"text": "¿Cómo se vería nuestra parnasá si Hashem estaría revelado? ¿Qué cree?"
 },
 {
-"startMs": 93000,
-"endMs": 113000,
-"speaker": "Speaker 1",
-"text": "Tú ves el que es el del del josher, del eder, de la falda."
+"startMs": 49660,
+"endMs": 53420,
+"text": "¿Cuándo? Cuando llegue el Mashíaj."
 },
 {
-"startMs": 113000,
-"endMs": 153000,
-"speaker": "Speaker 1",
-"text": "Entender qué es Shemabaya? Sí, qué es Shemabaya, quién es, quién es Abaya, qué tenemos con él, quién es el, su Sheva, su dula. Luego, entonces cada vez vas viendo otro aspecto, llegas a Tajonaen, entonces todos estaríamos melares de altashem. Sí, entonces llegas a Tajonaen. Entonces tú empiezas a ver ese aspecto de Shema Baya, como Shema Baya Beetzen tiene tiene todo el efe Jaimur, todo el chlemut de cualquier gisaron que hay en Daat, que hay en el mundo."
+"startMs": 55580,
+"endMs": 62820,
+"text": "Cuando Hashem se revele, viene el todo, ¿cómo se ve nuestra refuá cuando Hashem se revela? No va a haber enfermos."
 },
 {
-"startMs": 153000,
-"endMs": 160000,
-"speaker": "Speaker 1",
-"text": "No estás pidiendo que Shem te de una? Entonces tú eres."
+"startMs": 63100,
+"endMs": 70720,
+"text": "Exactamente. ¿Cómo se ve, en realidad, nuestro shalom cuando Hashem se revela? El shalom, no, ya, se quita kiná, se quita harut."
 },
 {
-"startMs": 160000,
-"endMs": 170000,
-"speaker": "Speaker 2",
-"text": "Berajote, entonces tú eres Berajote un Ghula."
+"startMs": 71700,
+"endMs": 74560,
+"text": "Entonces, en realidad, toda la tefila, en realidad, es bendición."
 },
 {
-"startMs": 170000,
-"endMs": 171000,
-"speaker": "Speaker 1",
-"text": "A ver,"
+"startMs": 76140,
+"endMs": 83560,
+"text": "Es pedir que Hashem se nos revele. Entonces, en realidad, tú empiezas a pensar en el nombre de Hashem, el nombre de Avaya."
 },
 {
-"startMs": 171000,
-"endMs": 176000,
-"speaker": "Speaker 2",
-"text": "En cuál Israel cómo pido que cómo Sería?"
+"startMs": 85040,
+"endMs": 92840,
+"text": "Entonces, cada vez que tú te concentras en el nombre de Avaya, en la shlemut que hay en el nombre de Avaya, que en realidad es la shlemut de todo, es el Or de todo, es, es todo."
 },
 {
-"startMs": 176000,
-"endMs": 199000,
-"speaker": "Speaker 1",
-"text": "Contra todo tipo de que tienen las personas que visitan si hay alguien por ejemplo que Barminan."
+"startMs": 93300,
+"endMs": 97240,
+"text": "Entonces, tú ves el, el nombre Avaya, que es el efecto absoluto del tzimtzum,"
 },
 {
-"startMs": 199000,
-"endMs": 202000,
-"speaker": "Speaker 1",
-"text": "Que."
+"startMs": 99500,
+"endMs": 107260,
+"text": "de la oscuridad, de la ausencia, de la falta. El nombre Avaya, en realidad, está la shlemut de todo. Entonces, vas, estás en la tefila."
 },
 {
-"startMs": 202000,
-"endMs": 207000,
-"speaker": "Speaker 1",
-"text": "Por ejemplo en cosas de mishpat, que viajó."
+"startMs": 107520,
+"endMs": 108040,
+"text": "Por"
 },
 {
-"startMs": 207000,
-"endMs": 228000,
-"speaker": "Speaker 1",
-"text": "Cosas que no pasan el mishpat, no pasan el piyoche, la gente se siente muy apachurrado que le hacen lo al piyoche, quitan cosas solo al pitin, solo al piyoche. En caso de a ver que pasa algo así cuando Ashem está revelado. Entonces vete, vete mashem, metzil ashuk me adosko."
+"startMs": 109300,
+"endMs": 109720,
+"text": "supuesto, las tres primeras partes"
 },
 {
-"startMs": 228000,
-"endMs": 256000,
-"speaker": "Speaker 1",
-"text": "Qué es el que es el que es pedir? Si tú pides que nada más algo para ti, entonces te equivocaste en el Mahut de la Baraja. Todo el Mahut de la Baraja es el Mixpalel, el Bechua, Shatamamshij, véteme ese kilo y al mundo. Y tienes que entender que ese kilo no puede el mundo, el alia de no. La Shemi ya lo tiene arriba. Todo el punto de esta Shem Mixpalel, que ese kilo y este migulela, no."
+"startMs": 112360,
+"endMs": 120100,
+"text": "son de shevach. ¿Entender? ¿Qué es Shem Avaya? ¿Sí? ¿Qué es Shem Avaya? ¿Quién es, quién es Avaya?"
 },
 {
-"startMs": 256000,
-"endMs": 286000,
-"speaker": "Speaker 1",
-"text": "Si que bajó la Shem nada más manda a refuá, sí, y esa refuá no es directamente un hipastut de Shem, sí, no es refuá mití, no es no es el punto. Si no es no es la nicuidad de la refuá, entonces la nicuidad de la refuá es que el orden de Hashem sogenba, no veas mi mela, entonces vete en cada fila, tú estás conociendo a Shem en todos sus aspectos, nuestro mundo, a Shem en todos sus aspectos, pero vete en toda la fila, que es una. Toda la chilabe hombre que es una."
+"startMs": 120100,
+"endMs": 127900,
+"text": "¿Qué relación tenemos con él? ¿Quién es él? Su shevach, su dulá. Luego, entonces, cada vez vas viendo otro aspecto."
 },
 {
-"startMs": 286000,
-"endMs": 330000,
-"speaker": "Speaker 1",
-"text": "Es el final, el swim shalom es cuando Bethem todos. Exactamente. Que Bethem todo su fuerza davar josel en el Guadalajara, que es esquivar el peneha na tatalano. Tu tienes que Bethem todo, es el el galut. El swim shalom es que todo el swim de todo junto. Entonces, entonces todo el linean de la chilabe la moda como el. El jarraín del Olam. Sí, tú tienes que sentirte el chalej tipur del mundo en bajar el guiluy y el oki, porque entre más tú aquí se entienda que cuando hay gisaron de jojma es porque hay gisaron de guilui dashem."
+"startMs": 129100,
+"endMs": 130120,
+"text": "Yeraz ata jonen."
 },
 {
-"startMs": 330000,
-"endMs": 366000,
-"speaker": "Speaker 1",
-"text": "Vezah, gisaron, porque la gente es tipesh, gente es tipesh porque no está, no tiene no hay jojma que no. Que no existe la hogoma que no es de Ashen, no existe esa hogoma. Tú te tienes que sentir del mundo en bajar la hogoma del mundo, bajar la hogoma del mundo. Sí, entonces en la Shibenu, sí, sí, todo se prende directamente a regresar a Ashen."
+"startMs": 131760,
+"endMs": 133840,
+"text": "Y cerca de Hashem estén, entonces todos seríamos"
 },
 {
-"startMs": 366000,
-"endMs": 398000,
-"speaker": "Speaker 1",
-"text": "Shibeno vino de Toroteja, que ver mal que en la. Todo lo que la gente no sabe es porque la gente piensa que esta en Shamai no es lo mejor que hay en el mundo. Entonces no hay, entonces tú te tomas esa, estás tú el canal a bajar ese oro al mundo porque baja siempre pone 10 friot y nosotros somos 10 friot."
+"startMs": 353120,
+"endMs": 361560,
+"text": "Entonces, en el Shivenú, ¿sí?"
 },
 {
-"startMs": 398000,
-"endMs": 415000,
-"speaker": "Speaker 1",
-"text": "Entonces nosotros somos los que podemos el legalot, ese guilui, entonces no hay que el virtura pratitz en esas brajot, sino hay que el ese maigalot, ese maigalot me trae chefa, le trae braja a."
+"startMs": 361940,
+"endMs": 369784,
+"text": "Si Hashem se revela, todo Am Israel se prende directamente a regresar a Hashem. Shiveinu avinu tora teja, y kreven malquen la-- mitzvoteja."
 },
 {
-"startMs": 415000,
-"endMs": 427000,
-"speaker": "Speaker 2",
-"text": "Toda mi será, si tú quieres jojma, le va a tocar jojma a todos, Sí."
+"startMs": 370424,
+"endMs": 379784,
+"text": "Todo lo que la gente no sabe es porque Es porque no- Es porque Ityal-- aún no mitgalé. La gente piensa que Hashem está en el shamayim, que Hashem no es lo mejor que hay en el mundo, ki lejál."
 },
 {
-"startMs": 427000,
-"endMs": 430000,
-"speaker": "Speaker 2",
-"text": "Es lo que estás diciendo,"
+"startMs": 380564,
+"endMs": 397004,
+"text": "Lo es que Hashem mitgalé. Entonces, no hay asíbish lipu, todo ese lille kaspo, el lille zabo. Entonces, en verdad, si tú te tomas esa jayut, eres tú el canal, ki lejál, a bajar ese or, ese or al mundo, porque Hashem baja siempre por diez sefirot, y nosotros somos diez sefirot."
 },
 {
-"startMs": 430000,
-"endMs": 454000,
-"speaker": "Speaker 1",
-"text": "Porque yo pido una vacación para ti y muy bueno, Si quieres behmet, por ejemplo, jojma, pedir jojma para ti, pide para todos, porque cuando pides para ti pides algo extremadamente muy limitado."
+"startMs": 398144,
+"endMs": 407244,
+"text": "Entonces, nosotros somos los que en verdad podemos, eh, el-- legalot en verdad ese, ese gilui. Entonces, no, no hay que litpalel de manera práctica- Ese es el punto."
 },
 {
-"startMs": 454000,
-"endMs": 477000,
-"speaker": "Speaker 1",
-"text": "Toda nuestra jojmada que tenemos a leer todo mis seres juntos, que tú puedes ahorita alejar también tus los de él y los de él y los del otro y los del otro, es el punto que muchas veces queremos, pero quiero que a mí me."
+"startMs": 407544,
+"endMs": 415504,
+"text": "En esas berajot, sino hay que litpalel al esencia de la itgalut. Esencia de la itgalut le trae shefa, le trae beraja a todo Am Israel."
 },
 {
-"startMs": 477000,
-"endMs": 480000,
-"speaker": "Speaker 2",
-"text": "Toque, si quieres nada más."
+"startMs": 415684,
+"endMs": 422924,
+"text": "Si tú quieresjut majmá, en verdad- Te va a tocar jut majmá a todos. Sí. Si tú te vas a litpalel, te voy a decir un disparate que te va a gustar."
 },
 {
-"startMs": 480000,
-"endMs": 484000,
-"speaker": "Speaker 1",
-"text": "A ti y al otro no."
+"startMs": 423544,
+"endMs": 430244,
+"text": "Si tú te vas a litpalel jut majmá aleja, te vas a litpalel a jorevet ajnét. Sí, sí. Es lo que estás diciendo. Sí, sí. Siendo lo que Israel."
 },
 {
-"startMs": 484000,
-"endMs": 488000,
-"speaker": "Speaker 2",
-"text": "Hay veces que estoy pidiendo parrasar porque."
+"startMs": 430264,
+"endMs": 437624,
+"text": "Siendo lo que Israel. Porque yo pido una, una beraja pratit, bishvili, pero una beraja pratit- De dekut. No es el gilui de Hashem. De dekut, sí, no es el gilui de Hashem."
 },
 {
-"startMs": 488000,
-"endMs": 512000,
-"speaker": "Speaker 1",
-"text": "Quiero que yo tenga, y el otro no. Esa es la jodia, así tienes que así tienes que sentirte en la fila. Esa es la fila."
+"startMs": 438624,
+"endMs": 446624,
+"text": "Y muy en verdad que si quieres de verdad, por ejemplo, jut majmá, pedir jut majmá para ti, pídelo para Am Israel, pide para todos."
 },
 {
-"startMs": 512000,
-"endMs": 542000,
-"speaker": "Speaker 1",
-"text": "Sí, que él no se queda nada más en el chamán, sino que esa es lo que él tiene en el chamán, baje hacia nosotros, que no se retenga aquí arriba, que baje hasta aquí abajo. Entonces, ¿qué significa el mitzpalel?"
+"startMs": 447264,
+"endMs": 457784,
+"text": "Porque cuando pides para ti, pides algo extremadamente muy limitado. Jut majmá, ¿kama ta jalueh así? ¿Sí? En verdad toda nuestra jut majmá es la jut majmá que tenemos que tener todo Am Israel junto."
 },
 {
-"startMs": 542000,
-"endMs": 595000,
-"speaker": "Speaker 1",
-"text": "Que nosotros, mitpalel, por eso se llama bebet filati, que es bebet filati, es en el lugar a donde mitpalelimelai, pero ¿en donde mitpalelimelai? Cuál es el lugar? Quieres saber dónde mitpalel? La cosa, porjo. Vamos con esto, es un mitpalel. Claro. Litbareski, vejolo, le deja. Es un mitpalel, ya te deja, este maratón, solo debe echo el litgalo, si lo tiraba, toda la fila. Si regresamos al tema de antes que hablamos de sí, odio todo para nada, si podemos, si es algo para ti, algo."
+"startMs": 458344,
+"endMs": 466444,
+"text": "Si tú quieres de verdad jut majmá amatit, maaay, que tú puedes ahorita lejadesh también tus chidushim, los de él y los de él y los del otro y los del otro."
 },
 {
-"startMs": 595000,
-"endMs": 626000,
-"speaker": "Speaker 1",
-"text": "Sí, algo que es cuando uno ve porque ve que es algo que."
+"startMs": 466444,
+"endMs": 472564,
+"text": "¿Sabes qué? Que tú lejadesh los chidushim de todos. Ad rabá, ¿te rotsé de verdad jut majmá? Entonces, pídelo, pídelo, jut majmá."
 },
 {
-"startMs": 626000,
-"endMs": 658000,
-"speaker": "Speaker 1",
-"text": "Y eso estás trayendo, o sea, alguien uno si tiene que sentir su dolor, su dolor, su claro y entender que el tico no es el tico, es el todo, todo mi trape, todo mi pareja, todo. Es un milu bien se le dice con eso también hay que gula la onda."
+"startMs": 472664,
+"endMs": 483304,
+"text": "Y si tú quieres bra-beraja, quieres parnasas, imple, toda mi beraja, toda mi parnasas. Es el punto, que muchas veces queremos parnasá, pero quiero que a mí me toque parnasá y que al otro- Pero si quieres nada más a ti, si quieres nada más a ti, al otro no."
 },
 {
-"startMs": 658000,
-"endMs": 665000,
-"speaker": "Speaker 1",
-"text": "Bien cada vez que haya tomado para nada. Bien se está acercando al mashia."
+"startMs": 483424,
+"endMs": 487484,
+"text": "Hay, hay veces que estoy pidiendo parnasá porque quiero que yo tenga y el otro no. Eso es- Es"
 },
 {
-"startMs": 665000,
-"endMs": 696000,
-"speaker": "Speaker 1",
-"text": "Por qué? Porque un pedacito del mashia. Un pedacito de la gula. Qué es la gula? Entonces primero tienes un guisaron. Porque si no, también es porque. Bien, bien. Si no, entonces, pensaste que fue esta mujer de Parnasa. Entonces, no, entonces tú tienes que entender que este hombre, que esa es la gibula."
+"startMs": 489164,
+"endMs": 491444,
+"text": "ajorevet ajnét, es ajorevet ajnét, te digo."
 },
 {
-"startMs": 696000,
-"endMs": 713000,
-"speaker": "Speaker 1",
-"text": "Nuestra gibula para ti te sale de el gilui de ashem que son abanim que se van sumando poco a poco hasta la gibula de toda mi será. Y tienes un flor es para ti."
+"startMs": 493624,
+"endMs": 501224,
+"text": "Entonces, de verdad tu parnasá amatit es en verdad el, el gilui de Hashem. Así tienes que, así tienes que sentirte en la tefilá. Esa, esa tefilá- Se viene a dar rey."
 },
 {
-"startMs": 713000,
-"endMs": 745000,
-"speaker": "Speaker 1",
-"text": "Y también hace un quieres el crece contigo. Lo pides en otro momento que no sea la navidad, porque nunca lo pides. Porque no significa, cuando tú pides, no estás pidiendo que a Shum le da a todos menos a ti. No, no estás, tú estás incluido en todos. Seguro? Entonces qué? No te va a tocar menos porque él está tocando. No va a tocar menos. A todos me parece nunca, nunca haces un sol en particular tuyo, no lo pides. Buchani, Buchani, no sé, no lo que hay en este."
+"startMs": 501324,
+"endMs": 510524,
+"text": "No hay otra que no mitkabelit. Esa tefilá, en verdad es la tefilá que Hashem mitpalel. Tú te vas a litpalel la tefilá de Hashem, que Hashem rotsé que nosotros lo berajemos."
 },
 {
-"startMs": 745000,
-"endMs": 778000,
-"speaker": "Speaker 1",
-"text": "No, Bule también puede ser todo. También, todo. Sí, por la torada. Yo me como el cula. Ekawan, entre más uno me faret, ¿sí? Uno me faret, su metsuka La vakasha es bete kitbarej khashem es ro fajhole a moisse Esa es la. No, no es que te sales del prat No te sales, nunca te sales del prat Nunca te sales del prat."
+"startMs": 511004,
+"endMs": 520344,
+"text": "Esa es la tefilá. ¿Sí? Ishmael beni berajeni, Hashem rotsé que nosotros lo berajemos. Y, y en verdad, Hashem mitpalel, ¿sí?"
 },
 {
-"startMs": 778000,
-"endMs": 809000,
-"speaker": "Speaker 1",
-"text": "Necesitas bemet le faret la. Necesitas bemet le faret tu vakasha para ti, Entendiendo que esta vaca ya Pratit hasta acá, hasta es afilo esto, no va a ser nada más clalicas, me explico a Sean Klali, eso no es de Barejot, Klali ya sabemos, ya sabemos, hay mucha gente para ir, me explico, el punto es de la braja, pero shock que se llenen todos los hoyos, de me explico que baje el todo y baje el agua hasta que llega hasta todos los para ti, tú tienes que la mit, tu me cuidado del Prat."
+"startMs": 520823,
+"endMs": 526844,
+"text": "Hashem mitpalel que, que él no se quede nada más en el shamayim. Sino que se revele."
 },
 {
-"startMs": 809000,
-"endMs": 819000,
-"speaker": "Speaker 1",
-"text": "Desde esa, desde esa manera. No, tenemos 10 minutos dice. Viste un maral? Hacer los hackers o no?"
+"startMs": 526924,
+"endMs": 534364,
+"text": "Sino que esa, esa, lo que él tiene en el shamayim, en verdad baje. Baje hacia nosotros, que no se retenga aquí, ki lejál, allá arriba."
 },
 {
-"startMs": 819000,
-"endMs": 851000,
-"speaker": "Speaker 1",
-"text": "Empieza el maral ahí explicando que en resona se llama ela. Soshasibut metalhelín? Bebeta, quién es? Se llamaba Anita para ti, lejado. Edrason. Y dice ahí el surgésibut. Al surge Sibur, mi palerima al surge Sibur. De es razón. Ahí está. Cuál es el razón? O sea, hacer eso Harrison, no. Qué es el razón?"
+"startMs": 534404,
+"endMs": 540424,
+"text": "Que baje, que se expanda hasta, hasta aquí abajo, Hashem mitpalel. Entonces, ¿qué significa que él mitpalel? Él mitpalel"
 },
 {
-"startMs": 851000,
-"endMs": 873000,
-"speaker": "Speaker 1",
-"text": "Qué es? Al surge Sibur. Está, es el hombre. Por eso, por eso es bebet fila, dice el beta mikdash. El beta mikdash, si mitpalem, beta mikdash pero solo de mata mitpalel. Exactamente, entonces cuando."
+"startMs": 542004,
+"endMs": 548804,
+"text": "que nosotros nitpalel. Por eso se llama vebet filati, que es vebet filati es en el lugar a donde mitpalelim elai."
 },
 {
-"startMs": 873000,
-"endMs": 925000,
-"speaker": "Speaker 2",
-"text": "Solo mit galek que viajó le estás pidiendo ganar 100 pesos, no estás pidiendo."
+"startMs": 549124,
+"endMs": 553304,
+"text": "Pero ¿en dónde mitpalelim elai? ¿Cuál es el lugar? ¿Quieres saber dónde mitpalelim al Kadosh Baruj"
 },
 {
-"startMs": 925000,
-"endMs": 935000,
-"speaker": "Speaker 1",
-"text": "Mamage, espera, mamage, que tú eres el se aleja de todo el mundo."
+"startMs": 554644,
+"endMs": 561104,
+"text": "Hu? Ba makom epje satá dofes, su mitpalel- Claro. De itbarej, ki lejál, aliadeja."
 },
 {
-"startMs": 935000,
-"endMs": 942000,
-"speaker": "Speaker 1",
-"text": "Ahora para que haya más. Dile porque."
+"startMs": 561344,
+"endMs": 567884,
+"text": "Su mitpalel satá, satá titpalel. Eso, ese es el ratzón de él, es en verdad de itgalot, que no tiene batajtonim, que se itgale."
 },
 {
-"startMs": 942000,
-"endMs": 953000,
-"speaker": "Speaker 2",
-"text": "Tiene que hacer que a todos les toque. Y no siempre es fácil que lo. Cuando pides parnasar."
+"startMs": 568224,
+"endMs": 574744,
+"text": "Entonces, toda la tefilá, tú sabes, si regresamos en verdad al tema de antes que hablamos de, ¿sí? Algo de parnasá, esto, lo otro."
 },
 {
-"startMs": 953000,
-"endMs": 987000,
-"speaker": "Speaker 2",
-"text": "Hay una mitad de quien, ah, no se si lo trae mi ciudad de Sharin o quien lo trae, que te voy a dar a ti, pero también le voy a dar al otro, a su vez que no le den al otro, pero que no te den a ti, porque le contar que le mandan al otro. Es una machad de quien amor, pero para eso tienes que tener que vigilar, no hay ninguna quien, ah, no hay ningún de este, hay que tener mucha tajara para eso. Cómo dices a Tahonen? Muchas veces yo quiero a Tahonen para yo decir el para yo decir el vort."
+"startMs": 574944,
+"endMs": 585104,
+"text": "En principio, en principio, en principio, necesitamos titpót. ¿Sí? Si podemos-- si quieres ashirut muflaget, te vas a litpalel al de-- de manera de gilui de Hashem."
 },
 {
-"startMs": 987000,
-"endMs": 1017000,
-"speaker": "Speaker 2",
-"text": "Tú dices al revés, que lo a fujo, que haya más porque haya más fujo mua, pero muchas veces no al revés. Tú quieres ser el que tú lo dices, el que tú eres el man de amar, que es todo el trabajo, no es pashoot, que imagínate que todos digan guau, que haya más, que haya más. O sea, es algo que no. No, no, yo no escucho eso."
+"startMs": 585164,
+"endMs": 592564,
+"text": "Te vas a litpalel, gilui de Hashem. Eso me vi ashirut muflaget con Am Israel, es bueno para todos, me vi. Ashirut muflaget puede ser ra, ¿sí?"
 },
 {
-"startMs": 1017000,
-"endMs": 1031000,
-"speaker": "Speaker 2",
-"text": "Y luego, ojalá, otro cole. Que haya más, que haya más jajamón que hay, que haya otro que, que para que llega otro espada, que alguien, a ver, llégale el ano, para que alguien, llegale el ano, otro soda acá en el en la suya."
+"startMs": 592624,
+"endMs": 600804,
+"text": "Si es algo, algo prati, algo, ¿sí? Algo... Puede ser de la Sitrá Hará. No es, no es beraja, no es beraja amatit."
 },
 {
-"startMs": 1031000,
-"endMs": 1044000,
-"speaker": "Speaker 2",
-"text": "Es la mejor de la persona. Pues chin, ya es la competencia. A ver, mis a ver quién se vende para el otro cole, ¿qué voy a hacer? No? En el Toc Toco, la persona estoy hablando."
+"startMs": 601184,
+"endMs": 610044,
+"text": "Beraja amatit, pirushó- Ashirut de kdeshá. Ashirut de kdeshá, pirushó se davar, que es cuando uno en verdad mitbarej, porque en verdad Shem mitbarej."
 },
 {
-"startMs": 1044000,
-"endMs": 1072000,
-"speaker": "Speaker 2",
-"text": "Vivo en este. Tú. Se te abre otro colegio. O sea, tú tienes tu colegio. Se abre otro colegio. Y a lo mejor nos aparece ese \"ah, no, no\". No? Que luego. No somos tan. Nosotros somos tanta tara. Tú sí, pero no, no. Todos nos estamos fuertes. Todo es quitar el ego y todo es quitar el."
+"startMs": 610744,
+"endMs": 619284,
+"text": "¿Qué significa que Hashem mitbarej? Baruj atá Hashem mebaroj hashanim. Eso significa que, que, que Hashem itgalé, como el que mabaroj hashanim."
 },
 {
-"startMs": 1072000,
-"endMs": 1078000,
-"speaker": "Speaker 2",
-"text": "Que es cefre usar estamos estudiando? Vi un de la explicación de Sims Salom."
+"startMs": 619364,
+"endMs": 626404,
+"text": "Esa es, esa es la nekuda. No, no es que sea algo prati tuyo. En verdad, en verdad es algo que es esencia de itgalut."
 },
 {
-"startMs": 1078000,
-"endMs": 1093000,
-"speaker": "Speaker 1",
-"text": "Fui a ver qué es ver paneja, cómo explicar ver paneja. Bueno, peleamos a la mesa, o sea, yo estaba me dijo, no te puedo explicar, no explícame, ¿tú qué es ver paneja? Sí, no sé qué es ver paneja, peleamos, por supuesto."
+"startMs": 626443,
+"endMs": 633704,
+"text": "Y es-eso estás trayendo. Cada vez que tú te vas a litpalel de verdad por tu geulá pratit, o sea, el que está todo, ¿sí?"
 },
 {
-"startMs": 1093000,
-"endMs": 1124000,
-"speaker": "Speaker 1",
-"text": "Entonces yo venía de Marcel, el CT Jaime explica. Que sin shalom le toda la baraja, la idea es que que nos dé baraja como uno solo y después de queda uno solo le entra a todos la baraja, video las palabras que estás diciendo. Wow! Es el las palabras que dices sin shalom. Oe regenerabinoculano, que esta baraja. Claro, si, no, me metes asi. Es el de orto."
+"startMs": 633784,
+"endMs": 641884,
+"text": "Alguien, ad rabá, uno sí tiene que sentir su- Su dolor. Su dolor, su jizarón ishi. Claro. Y entender que el tikun a su jizarón ishi es el itgalut de Hashem."
 },
 {
-"startMs": 1124000,
-"endMs": 1153000,
-"speaker": "Speaker 1",
-"text": "Cuando tú pides por ti, no por el otro, entonces no hay climax, no hay climax, pide por todo."
+"startMs": 642204,
+"endMs": 651544,
+"text": "El itgalut de Hashem es el tikun. Tú te vas a litpalel dentro del jizarón ishi que Hashem itgalé. Cuando Hashem itgalé, entonces, de inmediato, todo, todo se mitrapé, todo se mitbarej, todo..."
 },
 {
-"startMs": 1153000,
-"endMs": 1161000,
-"speaker": "Speaker 2",
-"text": "Cuando Pides por ti, cuando pides por todos. Eso es."
+"startMs": 652004,
+"endMs": 658304,
+"text": "Entonces, en verdad, tú estás admitiendo jizarón ishi, que su milui es el itgalut de Hashem. Con eso también viene geulá al olam."
 },
 {
-"startMs": 1161000,
-"endMs": 1175000,
-"speaker": "Speaker 1",
-"text": "En climax, yo soy el rico. Si de repente todos los niños se hacen."
+"startMs": 658684,
+"endMs": 665564,
+"text": "En verdad, cada vez que Hashem te manda parnasá, en verdad Hashem te está acercando al Mashíaj. ¿Por qué?"
 },
 {
-"startMs": 1175000,
-"endMs": 1190000,
-"speaker": "Speaker 2",
-"text": "Rico, entonces ¿qué dicen todos? Pero ya saben que hay muchos millonarios en el mundo. Y hay un poquito de como dices, si hay algo de queulá acá, que si hay más asherin yudín quiere decir que hay más no,"
+"startMs": 665884,
+"endMs": 672164,
+"text": "Porque un pedacito del Mashíaj, hero. De geulá. Un pedacito de la geulá, que llega la geulá, que itgalé Shem Hashem."
 },
 {
-"startMs": 1190000,
-"endMs": 1198000,
-"speaker": "Speaker 1",
-"text": "Entonces todo lo que hay más de todo lo que hay, sí, claro, es queulá. Paschut. También de Nobel."
+"startMs": 674144,
+"endMs": 682664,
+"text": "Entonces, de inmediato, tienes un jizarón. Ahora se te llena el jizarón ese. Claro, tú te vas a llevar después, porque si no, tú atrasas la geulá, porque en verdad esa era geulá."
 },
 {
-"startMs": 1198000,
-"endMs": 1200000,
-"speaker": "Speaker 2",
-"text": "Paschut, sí."
+"startMs": 682824,
+"endMs": 691164,
+"text": "Entonces, te vin, esa era geulá, ese era el gilui de Hashem. Si tú no entiendes que esa era geulá, si no entiendes que esa era geulá, entonces pensaste que fue esta muknech de parnasá."
 },
 {
-"startMs": 1200000,
-"endMs": 1202000,
-"speaker": "Speaker 1",
-"text": "Todo."
+"startMs": 691624,
+"endMs": 701744,
+"text": "Entonces, no. Entonces, tú tienes que entender que en verdad, en verdad que esa es la, la geulá, nuestra geulá pratit es aliadej, el gilui de Hashem, que son abaním"
 },
 {
-"startMs": 1202000,
-"endMs": 1208000,
-"speaker": "Speaker 2",
-"text": "Mientras sea camouban, como dices, el pie del hato, si ese besote, mi de hato."
+"startMs": 703304,
+"endMs": 706564,
+"text": "que se van, eh, sumando poco a poco"
 },
 {
-"startMs": 1208000,
-"endMs": 1280000,
-"speaker": "Speaker 1",
-"text": "La química, esto física. Pues de eso que lo hacen. Aquí hay un rico de. Tenemos el 20% de los Nobel, ¿no? Sí, sí, hay un rico que no. No es bate de acá y no, entonces es un aspecto, podría ser alguien muy kadosh."
+"startMs": 708104,
+"endMs": 714984,
+"text": "hasta la geulá jlalit de todo Am Israel. Si tienes un suero extra fino. Y también Hashem quiere ser kadosh contigo."
 },
 {
-"startMs": 1280000,
-"endMs": 1361000,
-"speaker": "Speaker 1",
-"text": "Soy el rabín. Sí, sí, sí. Ese es el mismo ratón que el maral habló que es la fila de su ratón. Alguien para ti, me que te dice él tiene dinero. Pues si es el Tibur para ti. Lo único."
+"startMs": 715264,
+"endMs": 724864,
+"text": "¿Lo pides en otro momento que no sea la, la Mirá? ¿Por qué? ¿O nunca lo pides? Porque no significa-- no, no, cuando tú pides, no estás pidiendo que Hashem le dé a todos menos a ti."
 },
 {
-"startMs": 1361000,
-"endMs": 1378000,
-"speaker": "Speaker 1",
-"text": "Para ti en ninguna parte de la vida, nada. Haz tu tefilar la science mai. Qué es la science mai? No. No necesitas. La gente pues se equivoca. No cami."
+"startMs": 725404,
+"endMs": 732320,
+"text": "No, no, estás pidiendo, tú estás incluido en todos. ¿Eh? Seguro. Matay. ¿Entonces qué? No te va a tocar menos porque le está tocando a otro."
 },
 {
-"startMs": 1378000,
-"endMs": 1414095,
-"speaker": "Speaker 1",
-"text": "Es esto. Dentro de eso, que tú tengas de aquí, pero cuando empieces por todo. Cuando pides por todo, no porque no porque Kilu tu corazón es."
+"startMs": 732340,
+"endMs": 733040,
+"text": "Exactamente."
+},
+{
+"startMs": 734460,
+"endMs": 744199,
+"text": "No va a tocar menos. Lo que-- fíjese, a todo me parece nunca, nunca haces un Bucaní, Bucaní, no sé."
+},
+{
+"startMs": 744560,
+"endMs": 751440,
+"text": "Lo que hay en este- No, Ulad también, eh, casi. ¿Eh? Ulad también puede ser todo. También refuá y todo."
+},
+{
+"startMs": 751920,
+"endMs": 755020,
+"text": "Sí, pues natural. Como refuá todo- Un momento, un momento, como... Sí."
+},
+{
+"startMs": 756560,
+"endMs": 764100,
+"text": "Sí. Es que aún entre más uno mefaret, ¿sí? Uno mefaret su mezuká, la bakashá es de ésem,"
+},
+{
+"startMs": 765680,
+"endMs": 772240,
+"text": "kitbarej, que Hashem es rofé jole haMoishe. Esa es la... Sí, no, no es que te sales del prat."
+},
+{
+"startMs": 773080,
+"endMs": 776040,
+"text": "No te sales, nunca te sales del prat. Nunca te sales del prat."
+},
+{
+"startMs": 777300,
+"endMs": 779920,
+"text": "Hay un, hay un... Afúj, necesitas beemet lefaret la..."
+},
+{
+"startMs": 781160,
+"endMs": 787340,
+"text": "Necesitas beemet lefaret tu bakashá pratit, entendiendo que esta bakashá pratit hasta acá, ¿sí?"
+},
+{
+"startMs": 788000,
+"endMs": 797020,
+"text": "Hasta es, a filo esto, no va a ser una más klali casi. ¿Me explico? Eso no es de barejot. Klali ya sabemos, majón, ya sabemos, hay mucho que de parir."
+},
+{
+"startMs": 797020,
+"endMs": 803740,
+"text": "¿Te explico? El punto es de la berajá, pirushok, se llenen todos los hoyos de... ¿Me explico? Que, que baje el- Todo, todo, todo."
+},
+{
+"startMs": 803760,
+"endMs": 811200,
+"text": "Que baje todo el agua hasta que llegue hasta todos los pratim. Tú tienes que lamir tu mecuká del prat desde esa, desde esa manera."
+},
+{
+"startMs": 811380,
+"endMs": 818720,
+"text": "No, tenemos diez minutos, dice. Viste, viste un Maharáll, en, en hacer ros ajakets o no, hacer ros ajakets o no."
+},
+{
+"startMs": 818760,
+"endMs": 831660,
+"text": "Sí. Empieza el Maharáll ahí explicando que en, eh, resona Shem Ela, se hace segun mepalelim, bebet hakeneses, se llama banit mefatí lejaha doma, et razón."
+},
+{
+"startMs": 831700,
+"endMs": 841500,
+"text": "Matay et razón, se hace segun mepalelim. Y dice ahí: \"LSorjé sibur, al sorjé sibur, mepalelim al sorjé sibur\", de et razón."
+},
+{
+"startMs": 842060,
+"endMs": 843620,
+"text": "Eso. Dice el Maharáll:"
+},
+{
+"startMs": 844920,
+"endMs": 851480,
+"text": "\"¿Cuál es et razón?\" O sea, hacer ros ajakets o no. Dice el Maharáll: \"¿Qué es hacer ros ajakets Shem?"
+},
+{
+"startMs": 851540,
+"endMs": 855740,
+"text": "Ros ajakets Shem es que se hace mepalelim bebet hakeneses al sorjé sibur\"."
+},
+{
+"startMs": 857020,
+"endMs": 866320,
+"text": "Está, está lome. Por eso, por eso es bebet filati se lobet hamigdash. Lobet hamigdash, es de-- si mitpalelim lobet hamigdash, pirushok, ahora, ¿mátam itpalel?"
+},
+{
+"startMs": 866960,
+"endMs": 874860,
+"text": "Giluy Shejiná. Sheha, Shejiná, da eneno del bet hamigdash. Y del bet hamidrash se jalá la berajá todo lo- Claro, ahora es el makom del mecor."
+},
+{
+"startMs": 875100,
+"endMs": 884660,
+"text": "Exactamente. Entonces, cuando solo mitgalé ki bejaol en el prat, no derech bet hamigdash, entonces ki bejaol estás pidiendo, eh, ganar cien pesos."
+},
+{
+"startMs": 884840,
+"endMs": 892360,
+"text": "No estás pidiendo de ésem que itgalé el kavod la Shejiná, y ze veatsmó memí le kulam."
+},
+{
+"startMs": 892980,
+"endMs": 896660,
+"text": "Ve gam li, et, eh, et, eh, memalé et kol ajesronot shim."
+},
+{
+"startMs": 897860,
+"endMs": 899660,
+"text": "Esa es la, la guegula."
+},
+{
+"startMs": 901020,
+"endMs": 904540,
+"text": "La guegula omitit, la guegula Shemá, que ve ésem, ve ésem, ve ésem,"
+},
+{
+"startMs": 905880,
+"endMs": 913820,
+"text": "entre más un judío está mechubár a itpalel la guegula, pues más, más uno está mechubár ve ómek al inén del alma."
+},
+{
+"startMs": 914200,
+"endMs": 916460,
+"text": "Y me forás eso- Y ahí es cuando no hay machshavot raot."
+},
+{
+"startMs": 919320,
+"endMs": 926720,
+"text": "Cuando uno beemet o bé en ese lugar, te sientes beemet shaliach cibúr del olam, y ahorita hay, eh, pashut que es, ממש es esperable."
+},
+{
+"startMs": 930020,
+"endMs": 933380,
+"text": "Sientes ממש que tú eres shaliach cibúr de todo el mundo."
+},
+{
+"startMs": 935700,
+"endMs": 939400,
+"text": "Ahora, para que haya más, más, más lo otro. Pero porque..."
+},
+{
+"startMs": 942440,
+"endMs": 947900,
+"text": "Tiene que ser que beemet quieras que todo a ti les toque. Y no siempre es fácil, Kilo, ¿sí?"
+},
+{
+"startMs": 949880,
+"endMs": 950880,
+"text": "Cuando pides parnasá."
+},
+{
+"startMs": 953160,
+"endMs": 959740,
+"text": "Hay una midá de Kin-- ah, no sé si los tres misérs de Shaarit, ¿quién lo trae? Que, im-- hay ushvalim otja."
+},
+{
+"startMs": 961040,
+"endMs": 967900,
+"text": "Te voy a dar a ti, pero también le voy a dar al otro. Azur está maldit que no le den al otro, que no te den a ti, que, por que, por contar que le den al otro."
+},
+{
+"startMs": 968420,
+"endMs": 979680,
+"text": "Es una machshav de Kinám- Jore otja. O sea, jore, jore, jore, jore. Pero para eso tienes que tener que vejelar, no hay ninguna Kin-- ah, no hay ningún de, este, no hay ningún, eh, este, hay que tener mucha tahará para eso."
+},
+{
+"startMs": 980720,
+"endMs": 990540,
+"text": "Como se dice, ataj onén. Muchas veces yo quiero ataj onén, para yo decir el pshat. Para yo decir el, el word. Entonces, es al revés, Kilo, afúj, que haya más, para que haya más, jujumá."
+},
+{
+"startMs": 991240,
+"endMs": 999180,
+"text": "Pero muchas veces no, al revés, tú quieres ser el que tú lo dices, el que tú eres el mande amar. Es que es todo el trabajo, ¿no?"
+},
+{
+"startMs": 1000760,
+"endMs": 1002100,
+"text": "No, no, no es pashut, Kilo."
+},
+{
+"startMs": 1005760,
+"endMs": 1013800,
+"text": "Imagínate que te dice que todos digan: \"Guau, que haya más, que haya más\". O sea, es algo que no... A filo en Torá, ni lo ves."
+},
+{
+"startMs": 1013800,
+"endMs": 1014020,
+"text": "¿Eh?"
+},
+{
+"startMs": 1015460,
+"endMs": 1021800,
+"text": "No, no, no, no, no, yo no escucho eso, Kilo. Otro kolel, otro. Que haya más baruj, que haya más jajamún, que haya más."
+},
+{
+"startMs": 1022280,
+"endMs": 1029640,
+"text": "Que haya otro que, que, que, para que llegue otro esfará, que alguien, a ver, llégale la-- para que alguien llégale la otro soda acá en el, en la suguía."
+},
+{
+"startMs": 1031460,
+"endMs": 1038300,
+"text": "Es la machshavé de la persona. Pues chin, ya me-- ya es la competencia. A ver, mi severiensia viene para el otro kolel, ¿qué voy a hacer?"
+},
+{
+"startMs": 1038400,
+"endMs": 1042680,
+"text": "¿Qué? No. En el tojt tojt de la persona estoy hablando."
+},
+{
+"startMs": 1044839,
+"endMs": 1050860,
+"text": "Vive un, este, Sefer Jaim. Tú, se te abre otro, otro kolel. O sea, tú tienes tu kolel, Nankin."
+},
+{
+"startMs": 1051760,
+"endMs": 1054760,
+"text": "Se abre otro kolel y a lo mejor no se abre, dice: \"Ah, no, D'm\"."
+},
+{
+"startMs": 1056020,
+"endMs": 1062960,
+"text": "No, Kilo. No somos tan, no somos tanta tara. Tú sí, pero... No, no. Todos no estamos, ¿no?"
+},
+{
+"startMs": 1063800,
+"endMs": 1074000,
+"text": "Fuerte es, D'm. Todos no estamos, ¿no? Tienes que quitar el ego y tienes que quitar el... ¿Qué Sefer Mitzvot estamos estudiando?"
+},
+{
+"startMs": 1074040,
+"endMs": 1081420,
+"text": "Vi un Sefer Jaim de la explicación de Sim, de Sim Shalom. Fui a ver qué es beor paneja, cómo explica beor paneja, porque peleamos a la mesa."
+},
+{
+"startMs": 1081580,
+"endMs": 1088000,
+"text": "Yo estaba de jasidut, me dijo: \"No, no te puedo explicar. Explícame tú qué es beor paneja\". Sí. No, no sé qué es beor paneja."
+},
+{
+"startMs": 1090200,
+"endMs": 1090560,
+"text": "Peleamos."
+},
+{
+"startMs": 1093480,
+"endMs": 1094960,
+"text": "O sea, yo venía, venía..."
+},
+{
+"startMs": 1097460,
+"endMs": 1102080,
+"text": "El Masé el Sefer Jaim explica que Sim Shalom, de toda la berajá, la idea es que,"
+},
+{
+"startMs": 1103700,
+"endMs": 1111860,
+"text": "que nos bendi-- que nos dé berajá Hashem como uno solo. Y después de que da uno solo, le entra a todos la berajá, vidiu las palabras que está diciendo ahorita."
+},
+{
+"startMs": 1112100,
+"endMs": 1119880,
+"text": "Guau. Ese es el, pero es el, pero es el, eh, las palabras que dice Sim, Sim Shalom. Beor paneja vino culano, quejá de beor paneja."
+},
+{
+"startMs": 1120100,
+"endMs": 1121980,
+"text": "Claro, sí, ¿no? Y realmente es así."
+},
+{
+"startMs": 1123180,
+"endMs": 1129360,
+"text": "En kli machzik berajá ela Shalom. Cuando tú pides por ti, no por el otro. Berajá bebet hakeneset."
+},
+{
+"startMs": 1129400,
+"endMs": 1132800,
+"text": "Ya está todo, ya es Shalom. Entonces, no hay kli machzik berajá."
+},
+{
+"startMs": 1134140,
+"endMs": 1139560,
+"text": "No hay kli, no, no hiciste un kli machzik berajá, má shalom. Tipesh, Kilo, entonces Kilo, no voy a pedir por mí, para"
+},
+{
+"startMs": 1141309,
+"endMs": 1148128,
+"text": "No, no, no, esto no, esto no נמצא en clima que diga acá pide por todos, pide la revelación de Dios, revelación de Dios es pide por todos."
+},
+{
+"startMs": 1148729,
+"endMs": 1154789,
+"text": "Cuando pides por ti, te revelas. Cuando pides por todos, Dios se revela. Digo, tú te hiciste rico. Qué fuerte frase."
+},
+{
+"startMs": 1155529,
+"endMs": 1163449,
+"text": "Cuando pides por ti, te revelas. Cuando pides por todos, Dios se revela. Está buenísimo. Eso es en clímax de ¿Con Jibio Sam Yari?"
+},
+{
+"startMs": 1163489,
+"endMs": 1171869,
+"text": "¿Con Jibio Sam Yari? ¿Hasta me revelas? Sí, yo, yo soy el rico. ¿Jibio Sam Yari? Si, si de repente todos los judíos se hacen ricos, ¿entonces qué dicen todos?"
+},
+{
+"startMs": 1172109,
+"endMs": 1181709,
+"text": "Papito, todos los judíos son ricos. Ah, Dios no está aquí. Pero ya hay una Es el nuevo rey que estamos. A ver, chita que los güey ya saben que hay muchos millonarios en el mundo que son judíos."
+},
+{
+"startMs": 1182589,
+"endMs": 1190189,
+"text": "Sí. Y ya, ya hay un poquito de, ¿cómo dices? Si hay algo de geulá acá, que si hay más ashérim judíos, quiere decir que hay más geulá de Dios en el mundo."
+},
+{
+"startMs": 1190189,
+"endMs": 1196589,
+"text": "No, entonces, entonces todo lo que hay más judíos de todo lo que hay- Sí, claro Es geulá. Pasut. También de Nobel."
+},
+{
+"startMs": 1196629,
+"endMs": 1208109,
+"text": "Pasut. Sí. Es jokemá. Todo. O sea, no sea jokemá de Dios. Mientras sea como van, como dices, el pide el-- si ese es el soté, me deja todo."
+},
+{
+"startMs": 1208129,
+"endMs": 1211309,
+"text": "La química, esto, física. Pues de eso que lo hacen."
+},
+{
+"startMs": 1214509,
+"endMs": 1220069,
+"text": "Que hay un rico de cogérse a una mediz, a lo mejor quiere, que no quiere lo hacer. Tienen el veinte por ciento de los nobles, ¿no?"
+},
+{
+"startMs": 1221329,
+"endMs": 1225229,
+"text": "Sí, si hay un rico que no, que no es batista acá y no ve--"
+},
+{
+"startMs": 1226709,
+"endMs": 1234709,
+"text": "un mareta, como lo mareta así. Entonces, es un aspecto de que lo hace, pero él podría ser alguien muy kadosh."
+},
+{
+"startMs": 1235749,
+"endMs": 1243309,
+"text": "Y él me gale, guau, se me muere que estamos. O sea, es una mitzvá para él tener, tener familia, tener familia con regla, porque él mastica."
+},
+{
+"startMs": 1244069,
+"endMs": 1250609,
+"text": "Se ve omexi, se me roza legalotbo. Algo. Su abodá es legalot, que es el de lo otro."
+},
+{
+"startMs": 1250649,
+"endMs": 1253089,
+"text": "Hashem, este. Sí, es la abodá."
+},
+{
+"startMs": 1255249,
+"endMs": 1255489,
+"text": "Está muy"
+},
+{
+"startMs": 1256869,
+"endMs": 1264289,
+"text": "bueno, dice. Está directo. Davar, esto es rつの del Makom, que todo el tema de la cibúr es rつの. La prueba de esto es que dijeron también las bendiciones. Y esto lo encontré en este sitio de Internet. Y mi oración a ti, Dios, es rつの. ¿Y cuándo es rつの? Cuando la cibúr se ora. Hable a ti, me dijo Hashem Itamarach, rつの en cibúr, precisamente, rつの cuando oran en tu nombre, lo que necesitan ellos. Y como dijo aquí, hazlo por tu cuenta."
+},
+{
+"startMs": 1264289,
+"endMs": 1281149,
+"text": "Necesitan rabín."
+},
+{
+"startMs": 1281229,
+"endMs": 1287929,
+"text": "Sí, sí, sí, que haya un-- osea, con la cibúr, porque la cibúr es rつの del Hakadosh baruj hu. Eso es, básicamente, su bendición."
+},
+{
+"startMs": 1288209,
+"endMs": 1295269,
+"text": "Es realmente el mismo rつの que el Ma'anala vlog, que es la filá, es su rつの. Y esto es un tema profundo, porque no es katreg para la cibúr."
+},
+{
+"startMs": 1296009,
+"endMs": 1303649,
+"text": "Alguien en particular, me katreg, me dice, este, ni ni ni. Si es para la cibúr, el Hakadosh baruj hu se revela, no es para el individuo."
+},
+{
+"startMs": 1303669,
+"endMs": 1316409,
+"text": "¿Y qué es la cibúr? Que tienen un poder general. General, lo único que hace es unir al conjunto, es, es el nombre de Dios. Unir al conjunto es un pecado, porque el pecado está en los detalles, pero al conjunto no le pertenece el katreg, así que el katreg para la cibúr es por la parte individual solamente."
+},
+{
+"startMs": 1316409,
+"endMs": 1323309,
+"text": "Hemos visto lo que hicieron los единственный. Unir al conjunto sin katreg, la oración de la cibúr en la sinagoga, el profesor realmente lo que destruye el Beit Hamikdash Sheini atzma."
+},
+{
+"startMs": 1325109,
+"endMs": 1331169,
+"text": "La oración de la cibúr en la sinagoga es por la cibúr, y así obtuvieron la hora de rつの. También esto, lo sabemos los sabios, y en todo caso, la cibúr está unida al rつの Itamarach, como se dijo."
+},
+{
+"startMs": 1331509,
+"endMs": 1337709,
+"text": "Fíjate, cuando no es cibúr, estás unido al rつの de Dios. Cuando no es cibúr, no estás unido."
+},
+{
+"startMs": 1337749,
+"endMs": 1341089,
+"text": "La cibúr, el hecho de que sea cibúr, es el rつの"
+},
+{
+"startMs": 1343689,
+"endMs": 1350089,
+"text": "de Dios. Es buenísimo, dice... Der Jaim Bet Dale. Sí. ¿Maral? Sí, sí, sí."
+},
+{
+"startMs": 1350089,
+"endMs": 1351629,
+"text": "Sí. El Der Jaim."
+},
+{
+"startMs": 1353789,
+"endMs": 1356569,
+"text": "Dice, dice Ofir, rabí Jacob Abuhatzira."
+},
+{
+"startMs": 1358189,
+"endMs": 1366069,
+"text": "Dice: \"No le metas nada para ti en ninguna parte de la mirada, nada. Haz tu tefilá leshem Shamayim\"."
+},
+{
+"startMs": 1366109,
+"endMs": 1366889,
+"text": "¿Qué es leshem Shamayim?"
+},
+{
+"startMs": 1368429,
+"endMs": 1376009,
+"text": "Leshem tefilá, leshem Hashem. No agregues. Mamá, esto es leshem Shamayim. No necesitas. La gente se equivoca, leshem Shamayim es que no, no para mí."
+},
+{
+"startMs": 1376749,
+"endMs": 1385029,
+"text": "Leshem Shamayim. No, leshem Shamayim es esto. Es revelación de Dios Shamayim. Dentro de eso, al revés, que tú tengas de aquí lo de Dios Shamayim."
+},
+{
+"startMs": 1385549,
+"endMs": 1391589,
+"text": "Pero cuando pides por todos. Cuando pides por todos, de verdad es leshem Shamayim. No porque, no porque como tu corazón es leshem Shamayim."
+},
+{
+"startMs": 1391669,
+"endMs": 1401189,
+"text": "Digo, más que eso, es leshem Shamayim, que va. Que va a la revelación de Dios. Sí, que es el, como, Dios Shamayim. No es que como si no, no es lisma, no, no es el punto."
+},
+{
+"startMs": 1401249,
+"endMs": 1407389,
+"text": "Es... Oh. Al revés, adónde va, que tú tengas, es leshem Shamayim. Porque, porque es..."
+},
+{
+"startMs": 1407429,
+"endMs": 1413169,
+"text": "Clave con Dios. Que, que desea que haya, realmente, que se revele Dios Shamayim al mundo. Guau."
 }
 ]
 }

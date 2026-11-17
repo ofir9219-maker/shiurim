@@ -1,972 +1,3716 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 1000,
-"endMs": 31000,
-"speaker": "Speaker 1",
-"text": "Vamos, eh, estoy a la mitad de la mishna. En Yute también le fallan a mishna. Dice así. Vamos así a avanzarle rápido. Quiero ver una llamada así casi en una mood. Ya luego entendemos, ¿Verdad? Entonces, ¿Desde dónde puedes leer la miguila y salir de joba? Romero, me dice todo. Son tres chitot."
+"startMs": 380,
+"endMs": 1220,
+"text": "Ándale."
 },
 {
-"startMs": 31000,
-"endMs": 44000,
-"speaker": "Speaker 1",
-"text": "Desde dónde se puede leer la Meguila? Salir el Hoa. Tele plain. Megi teissi. Lee un libro. Bueno, desde dónde lo puedo empezar a leer para salir el Hoa. Estoy diciendo leer. Lee."
+"startMs": 2740,
+"endMs": 7940,
+"text": "Y hasta navó el abiu. ¿Tienes? ¿Y no es otra cosa de la megila? Sí."
 },
 {
-"startMs": 44000,
-"endMs": 60000,
-"speaker": "Speaker 1",
-"text": "Vas a leer el Sefer, Shabbat. Sí, X. Desde dónde, desde qué Ali ya puedo leer para saber. Tienes que leer la playa. Leer la playa. Megi teissi que pueda leer menos. Dice la llamara, me salto a donde están los dos puntos."
+"startMs": 9680,
+"endMs": 22980,
+"text": "Dice: \"Y no es otra cosa la megila y chames madveos velo en arrabed ribeno dana dineno\". Sí, \"vehem ca-como contra chamesia gbulot anudados o seliedem yeri pedribeno yatin el dineno, que va hem talo yatin o nekama"
 },
 {
-"startMs": 60000,
-"endMs": 81000,
-"speaker": "Speaker 1",
-"text": "Dani, sí, en los dos puntos de este Keta, Taner, Rapsimu Mario Jai Omer, Tan Rapsimu Mario Jai Omer, Mibalailau, entonces acá hay este cuarta ciudad, Raspi Arestana, ¿Sí?"
+"startMs": 24580,
+"endMs": 31640,
+"text": "o dalinia hanisi\". Aquí no, no menciona lo demás, capaz, pero es- De esto tiene como diez páginas el \"Veham darkeja\"."
 },
 {
-"startMs": 81000,
-"endMs": 113000,
-"speaker": "Speaker 1",
-"text": "Raspi Estana, y está en la Yimará, entonces también es algo muy muy pele, Que Rajbi, si es Tana, ¿por qué no lo ponen en la Mishná? Entonces tenemos cuatro shitot, Kula, luego tenemos Ishi Udi, es Mordehai, luego tenemos a Hartvarima Ele Saman, y luego tenemos Balailau. Balailau, imagínate alguien empieza a leer la miguila desde Balailau. Dónde dice Tana? Dice la Mara, dice así. Llama rápido a Hanat."
+"startMs": 32200,
+"endMs": 47040,
+"text": "Ajá. Nomás esto. Sí. No, no sé si tanto, léemelos. Ajá. Dice: \"Va a estar abordo el biuri niñan, yame purim, la megila, mordejai, vejamordejai, umaat, mikvat purim, gam mishte, veasimjo\"."
 },
 {
-"startMs": 113000,
-"endMs": 147000,
-"speaker": "Speaker 1",
-"text": "Bukulaan Mikhaal Hadershuu. Todos dershu desde un Pasuk. Betiktov, este era malká, humor jai y udiet kol toque. Escribieron todo el toque. Qué significa todo el toque? Manda amar, que la miguila se resume, se define como un toque. Es que es un toque. Dice, manda amar, kula, tokpo shalh al feroz, manda amar mi shiudi, tokpo shalt mordejai. Manda amar mahad, mahad, manda amar mi balailau, tokpo, shell, nes. Entonces hay cuatro tipos de toques."
+"startMs": 49740,
+"endMs": 57740,
+"text": "Se ve que- Aquí, aquí sí que él entiende todas las mitzvot, todas estas cosas juntas, quiero decir. Mhm, mhm. También, Hamordejai, ¿qué es Hamordejai?"
 },
 {
-"startMs": 147000,
-"endMs": 184000,
-"speaker": "Speaker 1",
-"text": "El sajasweros, mordejai, aman y el nes, son cuatro tipos de tokhev, que ese es Bethzem lo que resube la meguila. Pero bhototafiloki katuet kol tokhev. Entonces tokhe, fulais, tokov shel nes, pero no escribieron balai laun na dashna tamelek, vehole. Lo escribieron desde el principio. Entonces quiere decir que cuando hice batiktoet kol tokhev, lo escribieron desde el principio. Pero bholdot, para leer la ulai alcanza a leer desde ahí. Hay que entender. Voy a saltar para no leer tanto. Hay un rabhel bueno, los renglones largos a la mitad, un poquito abajo de la mitad."
+"startMs": 58000,
+"endMs": 63960,
+"text": "Hamordejai es como que es la, la bjiná de Mordejai. Exactamente. Sí, hene nidvar etleno."
 },
 {
-"startMs": 184000,
-"endMs": 215000,
-"speaker": "Speaker 1",
-"text": "Amarra bala jaque librao merculao, si la laja es que hay que leerla toda. Pefilo le mandeaban mi siudi, si el jache tech tu va cula, escrita tiene que estar toda porque me mete kaskatu, batiktuk, etkol toque, entonces escribió bethem todo, pero ya que se define como toque, la chela es donde uno bethem, Dónde está el toque. Entonces mientras está escrita toda, entonces apilo que empieces a Balay la U, entonces este apretaje está escrita toda. Y si está escrita toda, entonces mi mail, eh."
+"startMs": 67080,
+"endMs": 72180,
+"text": "Bil Shenukve de Zo, de Zeiranpin, en el niñan miudaiiah."
 },
 {
-"startMs": 215000,
-"endMs": 237000,
-"speaker": "Speaker 1",
-"text": "Tú puedes entender que Balay la U. Como antes tienes que saber el sipor porque no vas a entender. Pero para salir de Jehová, con que entiendas desde Balay la U en adelante el mensaje que hay en Balay la U. Entonces ya con eso se llama que saliste de Jehová de leer toda la meguila. Vamos a entender. Entonces dice así, pero Tuba tiene que estar escrito a todo."
+"startMs": 74360,
+"endMs": 78620,
+"text": "Ki bajol zman shel galut omdin zo venu kajol veajol kol yimei ajol."
 },
 {
-"startMs": 237000,
-"endMs": 274000,
-"speaker": "Speaker 1",
-"text": "Vamarabhel vamarabhamavar guria, amarrab, migilani kretsefer, veni kretti ghet. Tiene dos dinim, uno que se llama sefer, otro que se llama Igaret. Ikretsefer, chim, tafra, bhutepishtam, sula. Se llama sefer porque si la si la consiste con pistan, et sula, ni kretti ghett, si mitil bash, loshah, huteiki dink será. Entonces tiene que no necesita estar cocida completamente, si no alcanza con tres. Con tres kuteikidi, no necesitas toda cocida, él alcanza con tres kuteikidi, es chera amaramnahuanu bilbachi u mezhulashin."
+"startMs": 80180,
+"endMs": 87340,
+"text": "Lulei, sharat otfila, shabatot, kayotse veze. ¿Qué estabas diciendo ayer?"
 },
 {
-"startMs": 274000,
-"endMs": 311000,
-"speaker": "Speaker 1",
-"text": "No tiene que estar cocida completamente, pero no puede ser como una grapa arriba. Me explico? Tiene que ser mezhulashin, que hace que cubra todo el. Que cubra todo, pero no tiene que estar más cocida toda. Entonces. Laia, si metemos un poquito de desver para no leer tanto sin desver. Entonces, si se llama Zefer, tiene que estar con Tfira completa. Sí, eso se llama Zefer. La nafkamina que se llama Zefer acá no es que esté completamente cocida porque se llama Igaret."
+"startMs": 87860,
+"endMs": 95120,
+"text": "Que es peli que otra vez nos sal-- me salió algo de ayer, justo que estabas diciendo del pan y me salió en el-- ese problema, ¿sí o qué? No es tan normal lo que está pasando."
 },
 {
-"startMs": 311000,
-"endMs": 346000,
-"speaker": "Speaker 1",
-"text": "Sí, pero lo que sí cosa es que tienen que estar bien cocida. Pistán es muy. Sí, es muy desechable, entonces no, si fuera solo Igeret, entonces estaría bien Pichtán. Sí, estaría bien, ya cosela con lo que sea de ganto, con unas grapas de ganto, me explico, no, la enograpa, pero sí con cualquier cosa del cuarto, entonces mi din Zefer tiene que estar Tfura, mi dini geret, lado que tiene que estar Tfura, entonces la miguila tiene 2 dinim, tienen dindice Zefer, tienen dinigeret, entonces ¿qué tiene que ver este estos dinim con el?"
+"startMs": 96020,
+"endMs": 102100,
+"text": "Sí, también todo lo del yenuka, que era- Ah, miega, pero la maleque igual, la misma pjinada, maleque de que no te tires."
 },
 {
-"startMs": 346000,
-"endMs": 387000,
-"speaker": "Speaker 1",
-"text": "Con la subida de atrás, entonces Mahebdel entre Sefer y Igeret, Mahebdel Mauti entre Sefer y Igeret, entonces Sefer. Si alguien escribe un libro, o la Torá, si el Juma se llama Sefer, sí, porque se llama Sefer, la Nkuda es Bethem. Cuando tú escribes en un Sefer, tú escribes algo kabua tipo que es un emet, un emet pua, sefer, anicotee de she mitziut, o shei dea que da de Ashley. O zame tut, sí, eso se llama la vagina que se llama Zefer, cuando la Nikotevi geret el.no es lo que está escrito en el libro con Nikotevi geret, cuál es el.es el mensaje que yo le quiero dar al otro."
+"startMs": 102120,
+"endMs": 104000,
+"text": "Que no vales, que no, no sé qué."
 },
 {
-"startMs": 387000,
-"endMs": 420000,
-"speaker": "Speaker 1",
-"text": "Sí, cuando yo escribo una carta, el verte no es el lo que está escrito, el verte es lo que yo quiero que él entienda. Luego tira la carta, pero él entendió bethem lo que le quise decir. Zefer no es desechable, Zefer es za la barbatmo. Y el otro tiene que irme de toda va, Igeret no es que sea la bargatzmo. Fuj, yo te mando un Igeret y en el Igeret te manda un mensaje entre yo y tú. Entonces ese mensaje que entre yo y tú es algo que tú tienes que meterme labin. Sefer tiene que ser algo muy mefurage."
+"startMs": 105660,
+"endMs": 112400,
+"text": "Está, en, en, estamos estudiando el Mase de Ben Shipja con Ben Mele, ¿eso lo has visto o no? No conozco casi el Mase."
 },
 {
-"startMs": 420000,
-"endMs": 451000,
-"speaker": "Speaker 1",
-"text": "Sí, no puedes. Lichtov un sefer de re masim, entonces ya dejó de ser sefer. Igeret es algo que matin dafcan re masim. Tú no quieres que el vort no es lo que está escrito, el vort es lo que él entienda. Entonces afke en un niguet tú escribes “betsura” que el vort es que él entienda la nicudad y no es lo que está escrito en sí. En un sefer se puede hacer muchos “diu kim bonicades de caja”. En un niguet tienes que entender los “remazim” al “mazerokatu”."
+"startMs": 113040,
+"endMs": 119260,
+"text": "¿Qué estabas diciendo? Ah, Mordejai Aman. Me hizo el mismo día, no te estoy engañando. Mmm."
 },
 {
-"startMs": 451000,
-"endMs": 488000,
-"speaker": "Speaker 1",
-"text": "Sí me explico la diferencia entre sefer y guere? O sea, si la es “igrot hazonish”, entonces es un sefer, es un igeret. Entonces, cuando el Hazonish mandó las cartas, era nigrot, cuando lo quieren convertir en un sefer, entonces se tiene que censurar mucho, tienen que poner los nombres, ya no se mencionan. Jalakim del Cipuri ya no se mencionan porque es de los sefer, pero imagínate el Hazonish Katav el sefer y el que lo va a imprimir empieza la Schmidt cosas, no, pero cuando es Ziggenet es algo personal, entonces el fuerte de Higet es que es personal, el fuerte Higet, que es que la nicoda es de Lomashikatub, el amazume bin."
+"startMs": 119280,
+"endMs": 127120,
+"text": "¿Qué pasó ahí? Que no tenían lo que comer y él se vendió. Es que estamos hablando de un Ben, un Ben Melej y un Ben Shipja, porque estos los revolvieron."
 },
 {
-"startMs": 488000,
-"endMs": 546000,
-"speaker": "Speaker 1",
-"text": "Sí, y el vorte sefer, entonces la nafkamina, ¿cuál es en la loja? Es que se llama sefer, tiene que estar bien fura porque no es desechable, y si es que tiene que estar bien fura por acá, ya le ha ahora no lit foro tanto en el en la meguila de la haora la nafkamina, porque se llama sefer y el vorte es que Beme tiene ducha de sefer, no es que el vorte. Si nada más se llama tigeret es más toroshevalpé, si me estoy explicando, igeret es más toroshevalpé, sefer es más torosheviktav, entonces mi maile, acá manoskumino que es sigeret, tienen que estar bien curai, no es desechable, manoskumino que es sigeret, entonces la nafkumino que es sigeret es que acá la página de toroshevalpé que tiene la meguilaz de halekma torosheviktav, tiene que estar en mi cara en la meguilabe Atzma, que y eso es de tzatzaligeret, o sea, en otras palabras."
+"startMs": 127660,
+"endMs": 138800,
+"text": "Es una historia larga, larga, larga. Los ma-- se van, esto, lo otro, pas, se encuentran, de kitsur. Eh, se-- quién sabe cómo, se encuentran en el mitad del bosque solos, con animales, con esto, no tienen lo que comer."
 },
 {
-"startMs": 546000,
-"endMs": 598000,
-"speaker": "Speaker 1",
-"text": "Si no hay un core que me que umetzaref tatzmoa la cría, sí, si no hay un core que humeetzaref tatzmoa la cría, entonces porque el sefer tatzmo también es Igeret. Entonces, ¿dónde está la necuda? Si ya empezamos un poquito más en el omek de las cosas. Cuál es el Igeret del sefer de la meguila? Mal lo que tú, va meguila, Shem Hashem. Entonces, si Shem Hashem lo que tú, toda la Torá, que es nada más de Sefer, con Qdusa sin Igeret. Porque cuál culo codes, la original de este vez paso toda la torre en el mundo, como hacemos el mundo, ahorita vemos si tienen una original de también el sefer torá, pero la inecuidad es que ves en el sefer torá, es cuál culo sefer, cuál culo."
+"startMs": 139640,
+"endMs": 146600,
+"text": "El Ben Melej, que es el Ben, el Ben Melej Hamití, que es el Ben Shipja, que piensa que es el Ben Shipja también, se encuentra un costal de legen."
 },
 {
-"startMs": 598000,
-"endMs": 635000,
-"speaker": "Speaker 1",
-"text": "Pero cuando llegas a la miguila, entonces la miguila, como dice la miguila al final, aló ik tu va, es un zipur que pasó en Madai, parás, donde está donde nefaglio que es un zipur de loki, que es un zipur como los zipurim de la Torá, entonces ese zipur del zipur de la miguila para ser un zipur de loki. De luego mi bhinata sefer, de game que tuve en las en las en los de Ibrahamim de Malhe de Malhe Madaiu Parás."
+"startMs": 147560,
+"endMs": 153900,
+"text": "Y le dice al otro: \"Dame\" Dame ahora, dame ahora. Dice: \"Te voy a voltear\". Te vendes como eve."
 },
 {
-"startMs": 635000,
-"endMs": 683000,
-"speaker": "Speaker 1",
-"text": "Entonces, ¿qué le da a Kduche? Bete me la meguila, la Udake es Igerit, la Udaka Naknutofzin, que después de algo me deben que cuando escriben ese sefer y hachon no los entrega a Chmas de los sefer, de Igerit, si estuvieran en el sefer Mahe Madai Parás y hachon no los mandó, si. Pero si Hashem nos mandó este Zefer, Betor y Geret, entonces pero solo lavar, que aquí dónde está el Shem la miguila, en la página de Igeret, no en la página de Zefer, el Zefer, porque Beetzem tiene Igeret, si me explico, si fueras Zefer, fueras, practicamos que hay aquí algo que se llama Amisrael y Beetzem está a Kusburjo, Amistrael, Kollehad, batzachelo, Kollehad Mebin, Beetzem, se hace de Beetzem y Geretz."
+"startMs": 154840,
+"endMs": 167180,
+"text": "Entonces, mime el, él era el eve de él, pero así- Las mamás lo ven. Algo morá, igualito. Y ahorita de la lu-- ah, ah, lama me acordé, porque ahí está hablando algo muy fuerte de la luna y escuchaban sonidos,"
 },
 {
-"startMs": 683000,
-"endMs": 703000,
-"speaker": "Speaker 1",
-"text": "Venenu, as mi meile, el sefer batsmeu me que belk ducha se el libreto ahora. Total, que beetzem el de nosotros en la miguila es crítico, es helek de la miguila y recibe que ducha por ser que nosotros somos helek de la criada de."
+"startMs": 168760,
+"endMs": 175280,
+"text": "cómo el yareaj y el sol ya van a ser, ya está hablando de acuerdo de la geulá, cómo ya van a ser otra vez, este,"
 },
 {
-"startMs": 703000,
-"endMs": 706000,
-"speaker": "Speaker 2",
-"text": "La miguila, no sé,"
+"startMs": 176900,
+"endMs": 180260,
+"text": "iguales, que las cosas... Está bien."
 },
 {
-"startMs": 706000,
-"endMs": 737000,
-"speaker": "Speaker 1",
-"text": "No, sí, porque beetzem es que nos mandó, me explico, pero que la nicuidad es que lo que tiene que ducha es porque beetzem es si quiere. Si no hubiera alguien que reciba el Iguet, entonces sería lo que tú a veces, entonces dice así. Sí, el Perex se llama Corel Emafrea. Sí, que podrías tú leer."
+"startMs": 182620,
+"endMs": 188700,
+"text": "Dice: \"No puede ser, a ver, que se venda con-- no tenía pan, lo que comer y se vendió y se hizo... Fele, fele, fele, flein."
 },
 {
-"startMs": 737000,
-"endMs": 772000,
-"speaker": "Speaker 1",
-"text": "Si es Tepper, entonces ¿qué tienes? Entonces igual acá. Etkol Tokev, sí, se me olvidó Mapchat, es Meijan Corea de Anta Mighlai, veis, tektu bakula, porque sí, pero Meijan ya atatofes el Vord del Cefer para que atafasta la isgueret, vas mi mele la isgueret es la que le da a Betsem a Nitafasti en la nakuda del Cefer. Entonces uno dice, otro Mordejai, otro a Man, otro, otro se llama Togfusion, vamos a ver qué estás."
+"startMs": 188900,
+"endMs": 202660,
+"text": "No, salió igual. Con diuc, con diuc, todas las- Con diuc, el pan, no tenía lo que comer, el pan se vendió y le fise ya. Ahora mime el, el, el Ben Melej, que era Ben Melej en su ciudad, mime le ya es el eve de este y es el Yetzer Hará."
 },
 {
-"startMs": 772000,
-"endMs": 831000,
-"speaker": "Speaker 1",
-"text": "Estas cuatro, cuatro tratamos de entender, vamos a seguir, dice así. Si tú lees, tú tienes un tanaj completo, sí, y parte del tanaj es la meguila. A mí me sirve como meguila o no sirve como meguila. Entonces, lo amaran, es la de la mijase o megatra puta. Si hay un eker, que esto es la meguila, entonces ahí no tienes problema. Dice que es diferente a la Igueta todo, entonces la convertiste en CF, sí, entonces mi mail le pierde el Ford de Iguet de la Miguel, entonces no lo puedes leer."
+"startMs": 202920,
+"endMs": 216480,
+"text": "No, porque también en, en la, en la misma interpretación se puede explicar, mamá, ya, Mordejai Aman, ¿eh? Quién era y el Ben Melej, quién es el Ben Shipja, que se hizo convirtió en Ben Melej y es el, el Yetzer Hará y es el este, no sé cómo explicar todo."
 },
 {
-"startMs": 831000,
-"endMs": 863000,
-"speaker": "Speaker 1",
-"text": "Pero si hay donde quiera, entonces ahí sí, yo te digo la hermana, así. Ahora no quiere parar, pero yo digo, no, es el mismo dim, dice un bajo la moja, dice que es un bajo la moja, le pegaron en el moaj de la halajá. Qué significa? La modificaron, ahorita vemos en que la modificaron, la modificaron, pero cuando modifican esa halajá, que no aplica en todos los casos. Entonces mi mail es de los tam un prat diferente, sino que envía todo el mahut de la alaha."
+"startMs": 216860,
+"endMs": 217200,
+"text": "Está bien."
 },
 {
-"startMs": 863000,
-"endMs": 880000,
-"speaker": "Speaker 1",
-"text": "Cambiaron el moh de la alaha. Y cuál kot kodash de la alaha? Por ejemplo, ¿Cuál es el cambio? Es Bethiburchan. Que todo el zul del Ikrome Gilak tu avenktubi. No hay ningún problema. Sí?"
+"startMs": 218940,
+"endMs": 225820,
+"text": "Ki bajol zman shel agalut omdin zo venu kajol veajol kol yime ajol. Lulei, sharat otfila o shabatot, kayotse veze. Como se dice ahí."
 },
 {
-"startMs": 880000,
-"endMs": 913000,
-"speaker": "Speaker 1",
-"text": "Por qué se llama Mahulah Moha? Haré a Raba antes que nos dijo? Qué quiere de Miglak tu avenktubi? De lo y mejastro o media traporta, pero si mejastro o media traporta, no hay ningún problema. Por qué ahí esa modificación no se llama Mahulahamoha? Sí, entonces un mashal pashut, viene un more y dice, repártenle dulces a todos los niños, pero a ese niño no lo repartan. Le preguntas, ¿por qué no? Dice, ya le repartí. Eso se llama Mahulahamoha o eso no se llama Mahulahamoha?"
+"startMs": 225860,
+"endMs": 246180,
+"text": "Vihe, casher, rotsim lajzor ponim be ponim, tzarij shetakdim jinat apalata durmita alza, ki bajol, que se duerma, lo que se llama Zeiranpin, que deje te aseanesira, que se separe, ki bajol la nukve de Zeiranpin, como- ¿Dónde te fuiste?"
 },
 {
-"startMs": 913000,
-"endMs": 944000,
-"speaker": "Speaker 1",
-"text": "El cleal es el mismo. Nada más el Betsem sigue perteneciendo en cierto aspecto dentro del clan. Vamos que ya le di, pero si yo digo, de repártenle usas a todos los niños. Aplan y de reparten. Por qué? Porque no saco 10. Eso se llama Majulada Moja. Antes pensábamos que Beth eche menos regalo a todos los niños. Ahorita cambió el Majut, es premio. Premio se recibe el que se sacó 10. Entonces cuando cambiaste el Prat, no cambiaste nada más ese detalle, cambiaste el moho de la Alhaja. Está claro? Ese es el Majulada Moja."
+"startMs": 246240,
+"endMs": 250680,
+"text": "Ah, sí. Como Adam Harishon, cuando Hashem lo-- y pila la tardemá."
 },
 {
-"startMs": 944000,
-"endMs": 951000,
-"speaker": "Speaker 1",
-"text": "Por qué acá se llama Mahou la moja cuando dices Vetziburchan?"
+"startMs": 252760,
+"endMs": 259820,
+"text": "Sí, Adam Harishon, Hashem y pila la tardemá. Estaban ajor ve ajor, ¿no? Adam y Javá, ¿no? Entonces, Hashem durmió a Adam Harishon y se paró de ahí a Javá."
 },
 {
-"startMs": 951000,
-"endMs": 965000,
-"speaker": "Speaker 1",
-"text": "Dijimos que el din de actuaben actubim es un problema, mi din, que la migrada es Igeret. Entonces si es Igeret tiene que haber que ver que es Igeret. La necudad que es Igeret, dijimos que es la nuestra."
+"startMs": 260480,
+"endMs": 261320,
+"text": "Entonces, igual acá"
 },
 {
-"startMs": 965000,
-"endMs": 997000,
-"speaker": "Speaker 1",
-"text": "Qué tanto el Vord de Igeret es algo nuestro y qué tanto el Vord de Igeret es algo? Que mu nach en la miguilaminei uvei, la miguilaminei uvei es zefer, pero Higheret es algo coculo nuestro, o la miglaminei uvei también, ve écheme ahí hay un eker que tiene que ser Higheret, o puede ser que es algo legambre. Higheret es algo coculo hitoni, coculo de nosotros. Entonces, fíjense algo a tu, tu abenaktubin, que parece zefer. De repente ahorita te dicen, mira, ¿por qué?"
+"startMs": 262600,
+"endMs": 264080,
+"text": "se necesita que viajol"
 },
 {
-"startMs": 997000,
-"endMs": 1030000,
-"speaker": "Speaker 1",
-"text": "Porque no es Higheret, de repente ahorita te dicen. Si la lees, sales de Jehová. No entendí? Espa azul o no espa azul? A ver si había dinde que se diga. El que la lea solo no la hace más higuer. Entonces aquí que tú el Watzun, que toda la necesidad de Higuer, se vei kar en el Corea meguila, no en la meguila. Es un dinero en el que lee la meguila, no en la meguilabatsma. Porque donde el Tibur y el yojit majin, sefer shayak be yojin."
+"startMs": 265320,
+"endMs": 267320,
+"text": "le apilen durmitas de Zeiranpin,"
 },
 {
-"startMs": 1030000,
-"endMs": 1062000,
-"speaker": "Speaker 1",
-"text": "Zefer, toda la puedes leer bien aquí, porque es Zefer, si? Zefer piruxo es la nada que os borgu va hablando y que es Piruxo se la banca que os borgu pone el cole hall waffen para ti? Empo, de Zipur de la, es de Zipur, claralli, con la muestra. Pues Zipur, me lleven la Zipur a clarli, el Zipur vetten, es el cole para tu para ti, es nada mejor total un fuerte bien a mi, verdad que os borgu viene y no es nada más un Zipur, mi pgna, zefer, es el zipur mi gnati quiere, y que eres el cole ha divert es quizás, Ahorita el team que la migra, team serigueret."
+"startMs": 268600,
+"endMs": 274120,
+"text": "dormir, durmitas, dormir. Es la, es la, es la emborrachada, aquilo, que te duermas, salí de la..."
 },
 {
-"startMs": 1062000,
-"endMs": 1079000,
-"speaker": "Speaker 1",
-"text": "Colka Higueret? Que si la lee que puedes leer bellahit. Dale, puedes leer bellahit. Y segundo que si lees bellahit ya le da el team de Higueret para quitar el gisaron de Ktuaben Aktubi. Si me estoy explicando?"
+"startMs": 275420,
+"endMs": 282900,
+"text": "No, no es quitar el daat, la, el, bien de la dormita. No sé si así le entendí un poquito, pero no, ¿verdad? ¿No? Puede ser que le entendí en Veham darkeja, no en Olay."
 },
 {
-"startMs": 1079000,
-"endMs": 1082000,
-"speaker": "Speaker 3",
-"text": "Por qué."
+"startMs": 283420,
+"endMs": 290760,
+"text": "No, por eso, es Olay, no es Veham darkeja. Okey. Más, eh, aterrizar en Aboda. No sé, no estoy seguro. El ventán no, no está hablando de eso."
 },
 {
-"startMs": 1082000,
-"endMs": 1084000,
-"speaker": "Speaker 2",
-"text": "Se quita cuando es bellahit? Qué?"
+"startMs": 291560,
+"endMs": 299640,
+"text": "A ver, nada más, nada más los puros musaguín. De Torá Shebejam nada más voy a leer también. De Torá She-- es de, es de-- vién miutaierej, ki bajol zman shel galut, omdin,"
 },
 {
-"startMs": 1084000,
-"endMs": 1109000,
-"speaker": "Speaker 1",
-"text": "Porque no, cuando es bellahit me quite y si yo lo puedo leer bellahit. Si es Seffer Bemahut es Fetzibur. Seffer Bemahut es Tibur. Si, eh, Higueres Bemahutz Diohit. Todo el línea de Higueres es una carta personal. Higueres Bemahutz Diohit. Entonces ahorita si se puede leer Bellohit, más de hombre, entonces si, eso es lo que."
+"startMs": 301400,
+"endMs": 310020,
+"text": "zain venukva. Zeiranpin venukva. Zeiranpin venukva, ajor ve ajor. Ok, Zeir anpin y nukva son dos cosas."
 },
 {
-"startMs": 1109000,
-"endMs": 1113000,
-"speaker": "Speaker 3",
-"text": "Ya No nif Han, entonces tiene que estar."
+"startMs": 310400,
+"endMs": 313100,
+"text": "Zeir anpin y nukva están ajor ve ajor."
 },
 {
-"startMs": 1113000,
-"endMs": 1145000,
-"speaker": "Speaker 1",
-"text": "Nif Han en la meguila. Tiene que estar Niphan, que es diferente. No es un Cefer normal. Sí? Tres miembros más. Dice, \"Shiura Tefer aloja le moische misinai\". Dice en Cefer Torah, cambiamos a la hot Cefer Torah. En Cefer Torah tiene que estar, es Ceferal, entonces tiene que estar cocido completamente. Hay una alhajá que necesitas tú dejar shiur arriba y shiur abajo, se llama shiura Tefer, que no esté cocido."
+"startMs": 314520,
+"endMs": 326680,
+"text": "Lulei besharat otfila o be shabatot, vekayotse baem, como se dice allá. Ok, en shabat y bemet besharat otfila, así es be panim be panim. Vihe nekasher otzim lajzor panim be panim, solejet de gam bjinat apalata dormita shel Zeiranpin, que es ta aseanesira."
 },
 {
-"startMs": 1145000,
-"endMs": 1186000,
-"speaker": "Speaker 1",
-"text": "Entonces la llamara piensa que eso es alojo de la moische meicina. Dice la llamara. Shure Teffer alojo de la moische meicina. Un majo la amoja. Le pegaron en el moho de esa edad. Dice, \"Bloe hambrú era que déche lo ikara\". Dice, \"No, Mapito, desde luego alojo de la moische meicina. Alta gichos de alojo de la moische meicina. Es nada más, ese tacones es el homing que déche lo ikara. Es una tacone para que no se rompa el sefer Dora. Con el cole makeshet porque hablamos a la jote de tfirán meguilán entonces tenemos que hablarle de. A lo hot de Tfira en Zefer Torah, no, que está muy cocido, está muy duro, entonces no es flexible."
+"startMs": 326940,
+"endMs": 329400,
+"text": "A ver qué es esto, un bueno, un poquito. Nesira."
 },
 {
-"startMs": 1186000,
-"endMs": 1223000,
-"speaker": "Speaker 1",
-"text": "Entonces, cuando tú le dejas arriba y le dejas abajo, entonces ya tiene flexibilidad, entonces ya no se rompe. Entonces, primero, porque es un mahula mojas, saber si es alohala moisin o laila alohala moisin. Para que no se rompa. Y nomás quepatli quién hidesh está al acá? Por qué se llama Mahulah Moja? De Mahuta Here, ligambre, y de laoja de moisimisina y las de tacones. No, de Mahulah Moja. Como Juan. Antes venimos de un Mahulah Moja. Están que haga esto con prueba, digo nada más sin las ricos, pero haré esta membrana con cuál esta Xura?"
+"startMs": 330700,
+"endMs": 333680,
+"text": "Esta bjinat se llama Zeiranpin, entrar en"
 },
 {
-"startMs": 1223000,
-"endMs": 1256000,
-"speaker": "Speaker 1",
-"text": "Con la Higuereti Zefer de atrás. De la tsfira de la meguila. Ktubaben actubim, leja ahora. Nosotros ya es van, pero el actubaben actubim no era un. No era quechura al cefer. Sí, al tefer y al cefer. Ahora la tercera, esta membrana aqual ksura, leja ahora a la higeretti cefer. Pero no actuaben actubim. Pero tiene un queso cuando actubaben actubim antes del esver. Qué dije? Sí, porque majulada moja. Entonces ves que esta membrana ksuraba la de antes y ksuraba una antes, la membrana que esas dos parecían oxrut."
+"startMs": 335000,
+"endMs": 348360,
+"text": "una sheiná. Ahorita, ahorita ve-vemos qué es, ¿no? Quiero ver la Tumená. Okey. Que con esa sheiná puede separar ki viajol a la nukve de él, que ya no esté- Ah, si están pegados, pues no se pueden voltear, ¿no?"
 },
 {
-"startMs": 1256000,
-"endMs": 1290000,
-"speaker": "Speaker 1",
-"text": "Me estoy explicando. Entonces ahorita vamos a ver otro más de eso muy menines. A ver, piensen algo atzum. Digo, si ya nos metemos un poquito aquí al spirit. La meguila si está muy tfura es muy sefer. Si la meguila está no tfura más de y gere. El sefer torá de fisde viene ahorita, te viene la gran amarata y dice es paloje. Que vete, me hay que dejar siura tefer. Entonces siura tefer más que tucan, El gamba zefer, la mrochu cefer, v etce miel no gambzachel igerit."
+"startMs": 348460,
+"endMs": 353440,
+"text": "Primero es separarse para luego pegarse. Okey. Que tújal ajzor imo apim be apim."
 },
 {
-"startMs": 1290000,
-"endMs": 1320000,
-"speaker": "Speaker 1",
-"text": "Ahora la chelazie este tzadei get it, que es la vaginal de Toraxevalpe o meguilat estein. Sí, es la vaginal de Toraxevalpe o meguilat estein. La chelazie es aloha la moisie mi sinai o diilma de hidusha homin. Entonces quiere decir que cualquier zefer, el shura teffer que representa meguilat estein. Entonces, pepchat, por qué me mete el shura teffer se tiene que dejar? Lamatik nuha homin. Que de ahí Chelo y Kara, sí, para que no se rompa."
+"startMs": 354940,
+"endMs": 361680,
+"text": "Dice, kan izkar be derushe roshana. Liot, ki inyan Mordejai y Ester haya be sob a shivim sha ná shel galut Bavel kanaba."
 },
 {
-"startMs": 1320000,
-"endMs": 1373000,
-"speaker": "Speaker 1",
-"text": "Entonces, si Siura Tefer es la Meguila y SFD es de Shaihus o no, es un Dinstam Techni de Rapón para que no se rompa. Y por otro lado, casi al Pi Remadim que estamos tratando de entender, no se ve Chem Siura Tefer representa la Meguilate Esther. Sí, es que es entre Chelo y Kara y Meguilate Esther. Meguilate Esther es lo que provoca que el Cefer Tobán no se rompa o no. Notai que si, si, cuando ashem dio la Toraka fa lemmar kigit y dijeron \"Mikar Modarabaloraita\" entonces cuando se fueron al Galuz se iba a romper el kesher entre Kusborhu y nosotros en otras palabras Barminan se iba a romper el Zefer Torah y entonces viene a Kusborhu y nos dijo \"No, en el Galuz no los abandoné\" nosotros seguimos juntos afilando en el Galuz entonces que es y entonces mi email \"Ah, el kiblo mi maha josh brava\" le fiis de vehmet aquí tenemos otro kesher."
+"startMs": 362200,
+"endMs": 368600,
+"text": "Y lajen az, bar bimehem nitjil inyan tikun zo venuk, ya se nestava lajzor, lajzor apim be apim, ve galu Israel."
 },
 {
-"startMs": 1373000,
-"endMs": 1421000,
-"speaker": "Speaker 1",
-"text": "Que este es el Oi Kara, el Shura Teffer, Betsem, más de. De Betsemma Meguila. Que desel Oi Kara. Qué provoca que no se rompa el Zefer Torá? Meguilat este. Sí, vamos a ver si. Metal, lo dejamos metor teoría. Vamos a ver si podemos comprobarlo que el Shura Teffer del Zefer Torá, Betsem, la Meguila. Otra membrana. Dice. Bueno, vamos que pará, vámonos pide. No se haga el gambre, la hora. Il malenishtaire, bemarach amat vamoishe, beliau kim lommeneken, mahazitkit, Moshe. Cuando, cuando, cuando Amitzel Alkhatuba Egel, entonces Moisés Vikés Rajamín, sí, que es borju, odienina, trajeja, y Vikés Mejila, Vikés Lija, y entonces a que es borju ahí tuvo un kilui atzum, amoshe, un kilui atzum."
+"startMs": 369300,
+"endMs": 382712,
+"text": "Ve inyan atjala zo, i inyan a durmite shenase az bimehem. Vezó, זה סוד הצרה עצומה שהייתה על ישראל, porque si está dormido zei anpin, entonces es como lo que dijo"
 },
 {
-"startMs": 1421000,
-"endMs": 1451000,
-"speaker": "Speaker 1",
-"text": "Sí, perraita tajorai, panai lo erau, doctor medpiana que es borju, dice animegaleja, cola poni, menenima, viret koltubialpaneja, sí, pero bezakoti, etkapialeja adobrí. Te voy a cubrir para que no puedas ver ese quilu. Y es por gilu yatzum que se llama. Si, eh, eh, anime a vivir koltubi al paneja. Para que se va a tapar a Moshe para que no pueda ver ese quiluí, porque aquí lo iran y a Adam vahai. Si? Lo iran y Adam, ¿Cuál cajeador lo iran y Adam vahai?"
+"startMs": 384292,
+"endMs": 387352,
+"text": "Amán, \"אלוהם של אלו יאשן\". Ma."
 },
 {
-"startMs": 1451000,
-"endMs": 1489000,
-"speaker": "Speaker 1",
-"text": "Si se la llamará a Luyatzur quien la meara. Hubiera un hoyito del tamaño de un alfiler. Entonces todo Aam Israel se hubieran muerto mitin lo iran y Adam vahai. Entonces Moisés estaba en la meara, ¿Ah? Sacotit Capialeja, a dubrí, viniendo entonces dice la llamada, dice. Kimlo Irán y Adán Bajai alcanzaba con melón maja para que a Misael lleguen a un que se llama lo Irani Adán Bajai."
+"startMs": 388652,
+"endMs": 394812,
+"text": "שעליו נאמר, \"והנה אימה חשכה גדולה נופלת עליו\", sobre Abrahán Avinu. יש איזה סכת חשכה."
 },
 {
-"startMs": 1489000,
-"endMs": 1519000,
-"speaker": "Speaker 1",
-"text": "Ahí voy. Y dice, vamos a hacer pará, vamos a viejo, non. Mai diktiv, otra memora. Va lehem, que hola tvarim a ser diverashem imagem bar. Y enséñales a mi Israel, todo lo que yo te enseñé en el hard. Me la mecha ak sherau kusboldholamoye. Dick duke torah, ve dik duke sufrim, umaya sufrim a tidim le jadesh. Entonces les enseño a dik duke dorah, dik duke sufrim y también le enseñaron lo que los sufrim van al jadesh."
+"startMs": 395332,
+"endMs": 407091,
+"text": "אמרו רז\"ל, \"חשכה זו גלות מדי, שהחשיך עליהם ישראל, של ישראל, ועניינו, לפי שאז היה זה אפין וסוד אורמיט, ינורא כי אמן הרשע היה אסטרולוגוס גדול\"."
 },
 {
-"startMs": 1519000,
-"endMs": 1550000,
-"speaker": "Speaker 1",
-"text": "Umai new. Mi khame gila, entonces mi khame gila, bezen fa un gilu y kashem gilalo a Moshe, ya desde Arsina. Ma que hacer ahorita esta membrada con la membrada de la meara de Moshe, con la halajá del Shura Tefer y Kamugan, con todos los dinim de la Mishná de Higeret Izefe, ¿sí? Entonces aquí estamos en un Klal, en Nagadotachaz, el que quiera más o menos saber cómo hacerle para."
+"startMs": 407472,
+"endMs": 418852,
+"text": "Mmm. כנורא, בעניין \"ויפל פור הוא הגורל מיום ליום\", בפרט במה שכתוב בספר הזוהר, \"כי הוא ועושה את בנם כוללים כל עשרה קליפין החיצוניים\"."
 },
 {
-"startMs": 1550000,
-"endMs": 1604000,
-"speaker": "Speaker 1",
-"text": "Entonces hay que abrir el ojo, los oídos del remez. Pues yo nada más escuchar remasdín que la membrana te está diciendo. Escuchas un poquito de remasdín? Aquí lo que no entiendes. Tú no entiendes. Busca palabras iguales. Busca conceptos iguales que hay entre la membrana 1 y membrana 3. Lo único que no te deja verlos es tu segel. Hay cosas igualitas entre la 1, la de Shura Teffer, la de Ilmalen Ishteier. Y la de la Loja de la Moishe Mizin, hay cosas igualitas, pero como tu cabeza te dice aquí en la prima de Alhaja en el Zefer Torah, sí que hay que dejar el Zefer Torah así y luego estás hablando de Jal del Kilu y de Neni Mabir con tu vida pareja, Loira, sí, Loira Ani Adam Bajai y la tercera te está diciendo qué cosa es Hashem le enseñamos a Shar Abenu en Arsenal 2 kilos."
+"startMs": 419852,
+"endMs": 421172,
+"text": "Sí, \"בידע וחוכמתו,"
 },
 {
-"startMs": 1604000,
-"endMs": 1634000,
-"speaker": "Speaker 1",
-"text": "Tu Zehel no te deja entender que hay un kesher porque Tuzehel dice eres un keshe. Una es una cosa. Yo entiendo esta cosa y no tenga que ver con esta. Yo entiendo esta cosa, no tenga que ver con esta. Sí, pero si apagas un poco el Sehel, yo digo Stamp como está. Lo van a ver cosas Niflaim Mamage. No hay excepción. Siempre, siempre que uno apaga el Sehel y buscas Remadim, Remadim, Stamp. Dónde hay Kesher? Uno, dos y tres, la Brodka Nirome Beam. Entonces de repente empieza a contar cosas Niflaim Mamage."
+"startMs": 422552,
+"endMs": 426752,
+"text": "עניין מיעוט השגחתו על ישראל בימים ההם להיותו בבחינת השינה\"."
 },
 {
-"startMs": 1634000,
-"endMs": 1664000,
-"speaker": "Speaker 1",
-"text": "Entonces acá, si agarramos la uno, Shura Teffer. La dos. Boisho, ilmahle 3 dik dukét ahora entre la 1 y la 2. Kekesherai? Entonces, ilmahle nichtaye se usó la palabra shiur arriba, shiura tefer, majon, ilmahle nichtayen. En la membrana 2 se habla de un tefer o no se habla de un tefer. Ahora no, pero ¿qué es nichtayer? Qué era lo que había Mur lichtayer?"
+"startMs": 428132,
+"endMs": 437212,
+"text": "Él sabía que, que, que \"אלוקהם של אלו יאשן\" ולכן חשב עליו ליבו כי הזמן מוכרח לו להוות שונאهم של ישראל, בר מינן."
 },
 {
-"startMs": 1664000,
-"endMs": 1698000,
-"speaker": "Speaker 1",
-"text": "Kim long Neke, mahat. Qué hace el mahat? Tofer. Entonces también se habló de un shuratefen en la 2, la una habló de shuratefen, la 2 habló de shuratefen. Sí, no es que hay ahora estira, porque arriba hay shuratefen o no hay shuratefen, se deja abierto en la 2 es Ilmaile nichteyen, un shuratefen, no hay ocurren, entonces no puede haber shuratefen. Sí, entonces en la 2 es no hay shuratefen, entonces aquí no, nada más que no kasur."
+"startMs": 437912,
+"endMs": 447872,
+"text": "וזה סוד עניין ויכוח אמן עם אחשוורוש, אם יעלה בידם העצה הזו. והשיב לו אמן, \"ישנו עם, שהוא רז\"ל, ישן הוא אלוה, האלוה שלהם, והבן זה\"."
 },
 {
-"startMs": 1698000,
-"endMs": 1731000,
-"speaker": "Speaker 1",
-"text": "Y ahorita a filo estamos con el techel apagado, sin entender, pero a filo ya es ya nos tira. Maptet que arriba de shure a teffer, abajo el tefferum, de dafkalotzeich schur. Si, il madenisan, pohaddim seisteier mateffer. Si, esa es la uno y la dos. Ahora si agarramos la tres, otra vez. Si aquí es otro tipo más conceptual, no, no sichli no haba nada, pero, Pero es un tipo de kesher más conceptual. Dónde se repite algo en la tres que hay en la uno y en la dos?"
+"startMs": 448652,
+"endMs": 455912,
+"text": "ולהיות כידורמיטה היא, היא לטובתן של ישראל. Esto vamos nuestro, por esto digo que nuestro saber."
 },
 {
-"startMs": 1731000,
-"endMs": 1732000,
-"speaker": "Speaker 2",
-"text": "Muy bien, Exactamente."
+"startMs": 456872,
+"endMs": 461072,
+"text": "Esto es lo que estamos viendo acá, ¿sí? Que lo-- esa dormita,"
 },
 {
-"startMs": 1732000,
-"endMs": 1748000,
-"speaker": "Speaker 1",
-"text": "El doctor Meret en la dos estábamos hablando que ashem me galelo algo a Moshe. Si? Que gila koltubialpaneja. Nada más que loin ishtayer, el doctor Meret no. Tzun kiloi que loit gala."
+"startMs": 462972,
+"endMs": 470312,
+"text": "o, o ese esmán, ese galut, ese joshe, esa averá, lo que quieras decirle, al final va a ser para que salga un, un, una luz."
 },
 {
-"startMs": 1748000,
-"endMs": 1779000,
-"speaker": "Speaker 1",
-"text": "En la tres estamos hablando también un kiloi que ashem me galelo a Moshe. Ahora, yo les pregunto ahorita, este Guilú y Qasemi Galeola Moshe, cómo se llama? En la 3, vamos a llamarle. Torah se va al pe y Mikra Meguila. Están de acuerdo? Es Torah. Entonces va el Qasem, no nada más le dio Torah se vihta, sino le dio Torah se va al pe y Mikra Meguila. Ahora, Mikra Meguila, yo les pregunto, Shem Guilalba Moshe y Mikra Meguila o no Guilalba Moshe Mikra Meguila? Piensen bien."
+"startMs": 470512,
+"endMs": 473432,
+"text": "Para להחזיר פנים בפנים. Ah, להחזיר פנים בפנים. Ajá."
 },
 {
-"startMs": 1779000,
-"endMs": 1795000,
-"speaker": "Speaker 1",
-"text": "Como la llamará define mi kra Meguila? No dice."
+"startMs": 476272,
+"endMs": 483912,
+"text": "כדי שתנסה הנקבה מאחוריי ויחזרו פנים בפנים ויגאלו ישראל ויבנה בית המקדש, לכן התייעצו שניהם."
 },
 {
-"startMs": 1795000,
-"endMs": 1813000,
-"speaker": "Speaker 1",
-"text": "Si por un lado los sufrim Kilu, pero por otro lado antes de que los sufrim Kilu Gilalo, entonces un kilu y de los sufrim mi y por otro lado es un kilu de que es Borju."
+"startMs": 484792,
+"endMs": 489792,
+"text": "כי בזמן ההוא, entonces este el נידון, ellos también saben eso, אמן sabe eso."
 },
 {
-"startMs": 1813000,
-"endMs": 1846000,
-"speaker": "Speaker 1",
-"text": "No, ahorita vemos, si sufrimen, ahorita vemos sufrimen los que estudian el CF, son los que estudian el CF, Ellos, porque eso se llama dic duquet dora, dicte sufrim, esa es la página de igeret que tienen sefer, que hay un sefer, que es botic duque, entonces si me cashrim la uno, la tres, esta es la tres, sí, a la uno, de sura tefer de sefer dora, que kesher tiene, antes de los esverim, que ya estamos jugando el lado, ¿eh?"
+"startMs": 491392,
+"endMs": 499952,
+"text": "Pero en todo, quiere-- o maybe- Aprovechar. Aprovechar. Mamash, se ve mamash como Bilán, que quiere aprovechar el momento- El momento."
 },
 {
-"startMs": 1846000,
-"endMs": 1881000,
-"speaker": "Speaker 1",
-"text": "Viduk, antes pensábamos, sura tefer de aloja la moisse misinai, Pues si una defer de hidus jajomin, entonces habaminas de aloja la moischimisinai, más que nada de hidus jajomi, viene la membrana 3 y de repente te dice algo que de repente lo ves y dices de aloja la moischimisinai, pero de aloja la moischimisinai, de aloja la moischimisinai, sí, entonces en la 3 te dice y es para aloja la moischimisinai, entonces que la micra miguila es no de aloja la moischimisinai es de hidus jajomi, no."
+"startMs": 500292,
+"endMs": 506652,
+"text": "Del, del que-- de lo que ocurre. De lo que ocurre. Es, eh, aquilo-- Amán quiere aprovechar el momento de la dormita, igualito."
 },
 {
-"startMs": 1881000,
-"endMs": 1913000,
-"speaker": "Speaker 1",
-"text": "Se aloja la moisimisina? Si, entonces en la 1 cuando teníamos a la mina del Shura Tefer, del Zefer Torah que es aloja la moisimisina y Kamash Malan, que deshelo y karaz, entonces si unimos las piezas del rompecabezas, entonces antes que dijimos que es el Shura Tefer, la pajina de Igeret que tiene el Zefer Torah. Entonces quiere decir que el Zefer Torah tiene una pajina de mequilate este. Estamos de acuerdo? Tiene uno que nada, el Zefer Tola tiene una página de miguilat este."
+"startMs": 506812,
+"endMs": 508632,
+"text": "Sí. Más. Lamehad."
 },
 {
-"startMs": 1913000,
-"endMs": 1948000,
-"speaker": "Speaker 1",
-"text": "Voy a la membrana 3 y te dice Kakusporhu kilau amosen arsinai, mi kra meguila. Lo tomé, que cuando asem gila el Zefer mamá arsinai dijo no nada más hay mamá arsinai, sino yespo mi kra meguila. Entonces sale que betsem, ahí ese es el shiura tefer. Están de acuerdo? Betsem sea shiura tefer. Entonces, pero por un lado, pero por otro lado, de Hidus hahomim, mamage Macbean, masazofrima, tienen la jadesh, de los hidus, la que es porque, y las de Hidus hahomim, que bien este masazofrima, tienen la jadesh."
+"startMs": 510172,
+"endMs": 520072,
+"text": "לכן התייעצו שניהם, כי בזמן ההוא שהאלוה שלהם הוא ישן. הקדימו הם להאבד ולהשמיד שונאهم של ישראל, כדי שלא יישארו אפילו מתיי מעט, שיהיו ראויים לגאולה."
 },
 {
-"startMs": 1948000,
-"endMs": 1984000,
-"speaker": "Speaker 1",
-"text": "Entonces, entonces, le dice mamage sale. Bueno, no sé, yo, yo para mí es muy forage. Sí, no se están de acuerdo, en la quemara, que Siura Tefer es la miguilata esté. Sí, antes era todavía que es la página de Igeret que tiene el tefer Torá. Pero cuando ya ves la membrana, las tres membranas que trae una detrás de la otra y entiendes que ve este, hay algo que hace un quilam o shen arcinal, que es vete mequilata ester y entonces a ve a ve a mina que es, que se entiende porque es la membrana que estaba el ojo de la muchísima medicinal, pero le mascone no, de hidus jajomin, si, de hidus jajomin y dice que es mequilata esté, entonces mamas el shiurate fer de arriba."
+"startMs": 520672,
+"endMs": 532292,
+"text": "אבל יהיה כך, לא ייבנה בית המקדש. ונוראה עצת אמן, מן שמשאי ספרא בנו בכתביהם אל אחשוורוש, הנקרא ארתחששתא בספר עזרא."
 },
 {
-"startMs": 1984000,
-"endMs": 2015000,
-"speaker": "Speaker 1",
-"text": "Ahora entonces tenemos, ahora se los quiero comprobar todavía más, que es de odio termfuración de la membra. Teníamos kesher entre la 1 y la 2. Están de acuerdo? Cuál era el kesher entre la 1 y la 2? Teníamos kesher y teníamos tirado. Cuál era el kesher? Que había shure Teffer y que abajo hay shure Teffer. Nada más que el shure Teffer de arriba. Sí, mechagrimel Teffer. El shure Teffer de abajo, no mechagrimel Teffer. Cuál es la chuva lefiel, eh?"
+"startMs": 533112,
+"endMs": 540252,
+"text": "Sí, כי הייתי זה, בימים ההם כתבו סיתנה. ¿Sí? על יושבי יהודה וירושלים."
 },
 {
-"startMs": 2015000,
-"endMs": 2046000,
-"speaker": "Speaker 1",
-"text": "Oh, lo tomaré. Que vetemos, hacemos como entregó el tefer, con siura tefer, oblicioura tefer. Betemos a que os borohu, gila, amoisse blicioura tefer. Sí, de lou, lo que la moisse metzina, si fuera lo que la moisse metzina, y piru soseldaban, que ni estayen, kim loi nakem mahazitki, al de lou, lo que la moisse metzina. Hacemos gila, si es poco gilu y a zum, se im, a que os borohumer, imanime galeoto, lo Irani Adam bajai."
+"startMs": 540512,
+"endMs": 549112,
+"text": "¿Qué es esto? Es un pasuk en Ezra. Que los hijos de Amán escribieron como una סיתנה para que no se vaya a construir el בית המקדש."
 },
 {
-"startMs": 2046000,
-"endMs": 2081000,
-"speaker": "Speaker 1",
-"text": "Yo te voy a dejar algún día que pienses que el kesher va a ali cara. Entonces mi maile a nigiliti lejan, ni me abrirte col tu vial pareja. Gilete lejash después de necudazo, tan jo legalot mitzats me haban lilo y galeolog. Yo no te voy a legar los tazofri. Este es vete, mas chat si de sufrí, me tiene la jadesh, es mi kameguila. Entonces quiere decir que cual es el gilo, es algo atzum, atzum, no la ve a yo. Cual es el gilo y de loir, según esto, El no iraní Adam Bajai es el kiloi enemi abirt koltubi al paneja, se beetzem."
+"startMs": 550372,
+"endMs": 555512,
+"text": "עד שביטלו, עד שביטלו בניין בית המקדש, ellos estaban construyendo el בית המקדש y lo anularon."
 },
 {
-"startMs": 2081000,
-"endMs": 2121000,
-"speaker": "Speaker 1",
-"text": "Qué es? Meguilat Esther. Meguilat Esther es el kilo que Moshé no podía ver. Kilo Irani Adam Bajai. Pero si a que os voy a megalem, meguilat Esther, desde el tiempo de Moshé. No vesturashel, meguilat Esther. Sí, que a que os voy a ustatamma suba naktukim lejadesho to, meguilat Esther. Sí, kilo y dabanistar. Desde Kusbou, quiero gilasi después de Afganistán, porque hemos megaleo todo lo dejo elimlamamos mi pene. Lo dejo elimlamamos mi peneadota ahora, entonces mi me le dijo y es porque lo que hace, esa es la vagina de sefe, pero esta es la vagina de Igarit."
+"startMs": 556912,
+"endMs": 559332,
+"text": "בראותם כי הגיע זמנו להיבנות ודי בזה."
 },
 {
-"startMs": 2121000,
-"endMs": 2148000,
-"speaker": "Speaker 1",
-"text": "Nosotros tenemos que legarlot este kilo y entonces este kilo y para que existe si lo irán y Adam Bajai existe para que tú se, Si a que os bojo mega le le hace gilui. Entonces hasta luego le dije. Pero si a que os bojo mega le hace giluga de un más tiroto."
+"startMs": 563212,
+"endMs": 570912,
+"text": "Okey. Viene, אף בזמן הדורמיטה- ¿Qué quiere decir que hoy יושן? ¿A qué, a qué se re-- a qué se refiere la Ahorita vamos a leer."
 },
 {
-"startMs": 2148000,
-"endMs": 2151000,
-"speaker": "Speaker 3",
-"text": "Pero También está escrito mi gilate este dice mi cran meguila."
+"startMs": 570912,
+"endMs": 578632,
+"text": "Vamos a leer y vamos. Okey. Viene, אף בזמן הדורמיטה. ¿Tienes ahí en tu celular? Si no te vienes acá conmigo, ven."
 },
 {
-"startMs": 2151000,
-"endMs": 2189000,
-"speaker": "Speaker 1",
-"text": "Mi cran meguila. Mi cran meguila de Ajidus. Mi gilate este es la original de Teffer, es la original de Aloha el amor y chemisina. Pero entonces ahí veis, no, no, le veis, el Mikhrabe Gilazo, lo quien hace. Entonces le dice, fíjense, vamos, me foraje. Entonces ya, si prendemos un poquito más el oído del remez, algo más. Sí, tenemos, tenemos que la membrana 2 que habla del kilo y axum, de lo iraní Adán bajái, que es un quilamos, eh, pero no, mi ginata lo que no hemos hecho misi nai, era mi ginata, ni mi galeja, si es kilo y que debe, hasta se glit fos le va a."
+"startMs": 579152,
+"endMs": 581132,
+"text": "Yo acá, mano. Mmm."
 },
 {
-"startMs": 2189000,
-"endMs": 2220000,
-"speaker": "Speaker 1",
-"text": "Desde Kiluya Demichada, Tzmeja, Iu Mishe, Ie Mishit Fosoto Este Kilui, ¿sí? Estamos diciendo que es de Kilu y Deloira Nehadanjai es Mikha Meguila Según todo lo que dijimos ¿Dónde está Ulaya Filu Mefuraj en la memara? Mefuraj, en la membranada, en la membrana 2 directamente ¿Qué es Kilui? Es Mikha Meguila ¿Desde cuándo el hora es mujer? Desde cuándo el hora es mujer?"
+"startMs": 582992,
+"endMs": 584432,
+"text": "Sí hay en el Sefaria."
 },
 {
-"startMs": 2220000,
-"endMs": 2246000,
-"speaker": "Speaker 1",
-"text": "Luego, Juli, blamamos, mi pene, otor. Desde cuándo le llamas al oro ora? Porque es el oro, ora. Cuándo le ayudo y maita ora? Pobre. Lo tomeretes, la hora, pero se la va. Sí, ahorita explicamos porque donde que va, pero de mamadas profuradas. Que el kilo y de mi lata esté. Y entonces, ¿por qué la hermana no nos dice todo este churria? Por qué te lo hace así? Porque."
+"startMs": 585712,
+"endMs": 593592,
+"text": "המן אף בזמן הדורמיטה הנקבה ישנה. ¿Sí? Entonces, אפילו que זה אפין- Sí, sí, pero הנקבה no."
 },
 {
-"startMs": 2246000,
-"endMs": 2250000,
-"speaker": "Speaker 1",
-"text": "Hasta este clavín este."
+"startMs": 593772,
+"endMs": 600312,
+"text": "הנקבה ישנה, כי אז מסתלקים המלכים מזה, como alguien que se duerme. Está inconsciente casi."
 },
 {
-"startMs": 2250000,
-"endMs": 2280000,
-"speaker": "Speaker 1",
-"text": "Entonces, ¿por qué se llama ahora? Sí? Qué se llama ahora? El que mashpia el ore es Zaharo es Nekaba, el que mashpia el ore es, es, es Zaharo es Nekba. El que mashpia el ore es Zaha. El que me cabe el oro y me galeo todo se llama. Eso se llama Nekba. Entonces vete este kilo y es lo que quiero tratar de entender. Este kilo y de esta hora a lo que le damos mi pena otra hora vete. Aquí es Bahar o no hay que va?"
+"startMs": 600332,
+"endMs": 600732,
+"text": "Sí. O sea,"
 },
 {
-"startMs": 2280000,
-"endMs": 2310000,
-"speaker": "Speaker 1",
-"text": "Si fueras Bahar, ¿Qué hubiera pasado? Lo iraní y Adam Bajain. Sí, digo, si fueras Bahar, entonces lo iraní y Adam Bajain. Pero si no me gané este or, si no nos deja a nosotros regalo todo, entonces mi madre no es or, si no es hora. Por acá hay una syrami nube, porque Mashma, si acos borjo me gané este or, también es hora. Sí o no?"
+"startMs": 602312,
+"endMs": 608792,
+"text": "hay-- tipo, tipo, tipo-- alguien que está olvido, no está muerto. Que lo-- si le da-- habla, está despierto, ¿no?"
 },
 {
-"startMs": 2310000,
-"endMs": 2364000,
-"speaker": "Speaker 1",
-"text": "Están de acuerdo conmigo? Si acusbojo megalé este oro, le damos mi pene otra hora, entonces acá de lomo va por un lado también si acusbojo megalé de lor de Gamora y si acusbojo no megalé de lor entonces y nos deja legal otra, entonces ahí me van que es hora, pero aquí hay más que es hora o difnesh acusbojo megalé otro. Sí, de ukbar beette mora quiere decir que bethem este oro que es. Más aquí un una necuda más, este fíjense algo Atzum, este de qué se trataba este para que Ashem Hevir et Kol tuvo al nemoishe, sí para qué, cuál fue él, no sé ahí que qué hubo, Jeta Egel, Vatmimele, Ashem Gilalo, que bethem lambroche en Ixperua lujot y entonces parece que el Zefer Torah Nikra."
+"startMs": 608872,
+"endMs": 618672,
+"text": "Los חושים. No sé si los חושים, los que están dormidos. ונכנסים בנקבה כדי להיבנות ולתקן פרצופה, כדי שתוכל לחזור אפין באפין."
 },
 {
-"startMs": 2364000,
-"endMs": 2399000,
-"speaker": "Speaker 1",
-"text": "Entonces viene a Kusbohu, rotzel legalot, que en Kadawarsha se efecto la nicra. Si? Entonces ese es Bethem yud give el miedo trahamein. Yud give el miedo trahamein cuándo es? En Yom Kipur. Si? Pero para el legalot, el orde yom Kipur, tu que legalot, que hay un ore más primí que un lojo legalototo. Si? Que cómo se llama el orde purim? Si, esos se llaman en la arisda que yo kipurim es kepurim. Tu madre es que el or, el mejor del orden Yom Kippur, este no es el orden de Purim, es que no el orden Purim, este no es el orden nista."
+"startMs": 619552,
+"endMs": 626372,
+"text": "כנ\"ל בניין דרוש של-- דרוש השופר של ראש השנה. והכרח יש הערה והשגחה זו על ישראל מצידה."
 },
 {
-"startMs": 2399000,
-"endMs": 2430000,
-"speaker": "Speaker 1",
-"text": "El en Yom Kippur es mi coa que hay un guilu que se llama el guilu de Purim, y luego lo dejado todo, la gente, esto es lo que provoca que se lo y cara, vamos a se suban el mismo inalma, fue en Yom Kippur del oni kara, si, en Yom Kippurim, pero en Purim es el, ahí es donde mama Shadder Kiplu a mi me baja feliz, va. Es que mamaj, mehmed, mehmed, doni crab ese, ese. Que trae Milak Balot, entonces un Kipur y Purim, los dos son coralot, los dos son."
+"startMs": 627872,
+"endMs": 638652,
+"text": "Entonces, ahorita, ya la השגחה no viene de זה, זה אפין, viene de la נקבה. ועניין אותה הערה הייתה עניין מרדכי הצדיק, como se narra en עזרת השם."
 },
 {
-"startMs": 2430000,
-"endMs": 2437000,
-"speaker": "Speaker 1",
-"text": "Si. Si hay el coral, el pur digo no. También Adelo y Adai,"
+"startMs": 638852,
+"endMs": 641572,
+"text": "Con el nombre Purim. Acá está. Acá"
 },
 {
-"startMs": 2437000,
-"endMs": 2438000,
-"speaker": "Speaker 2",
-"text": "Los dos Siri."
+"startMs": 645212,
+"endMs": 645852,
+"text": "está Pur"
 },
 {
-"startMs": 2438000,
-"endMs": 2457000,
-"speaker": "Speaker 1",
-"text": "Eh, los dos Siri, si Adelo y Adan, ¿donde lo ves? Porque ahora mejor como Highsson tienes que verlos iguales. Tienes que verlos igual. Si, y entonces ahí también los dos Siri son iguales. No sé, Vishnat tzmo. Pero yo quiero explicar qué es este “hora”. Aquí hay algo."
+"startMs": 648812,
+"endMs": 653232,
+"text": "muriendo. Acá vamos. ¿Querés bajar un tanto? Y acá estamos."
 },
 {
-"startMs": 2457000,
-"endMs": 2469000,
-"speaker": "Speaker 1",
-"text": "No sé si decirlo en el Nusaj, más mekori que hay. Lo voy a decir, lo voy a decir en el Nusaj como yo lo entiendo. No tanto en el. Como que tú en el mekor."
+"startMs": 654772,
+"endMs": 663592,
+"text": "Okey. Ahí por ahí. וכראות אמן את מרדכי, entonces quiere decir que lo-- ahorita lo que protege a Am Israel es la נקבה."
 },
 {
-"startMs": 2469000,
-"endMs": 2507000,
-"speaker": "Speaker 1",
-"text": "Hay una naga de acabado del juegos, un poquito como dice el mekor. Hay una naga de acabado del juegos que se llama “Abba”. “Abba” vamos a llamarle así. El Sakabus por Ju es nuestro papá, es Aba, es una Anaga, no es nada más Tam Kilunki, no es una Ana se llama, se llama Aba, si Aba es Kakabus por Ju es nuestro papá, pero nosotros Sakabus por Ju no es nada más nuestro papá, sino también que es nuestro Melek, es nuestro Melek, también hay más, sí, también hay más, pero sí, el cashur también, pero este Makabus por Juk es el Melek, Makabuna Kakabus por Juk es el Melek."
+"startMs": 663652,
+"endMs": 670272,
+"text": "La נקבה todavía tiene השגחה. ¿Y dónde mitgalé que la נקבה hay השגחה, que hay בעצם אור en la נקבה?"
 },
 {
-"startMs": 2507000,
-"endMs": 2566000,
-"speaker": "Speaker 1",
-"text": "Shenuquel es el papá, sí, entonces el papá, entonces esto es algo que todavía Ulopon el Enu con la Anaga que es nuestro papá. Cómo a que os pone el Enu como mitgale hacia nosotros con la Anaga de Meleg? Maca una con la Anaga de Meleg es yo soy su Meleg, yo soy su Meleg, yo los cuido, yo los protejo, yo los dirijo, les doy Torah, les doy Mitzvot, Jabim. Sí, Kulchem Haewen Bikboidi, sí, Kollmache Barak Kusbrukhwe Olamol, Obrao, Ela, Bikvodo, sí, pero béomek beomek beomek, sí, nuestro kesher beetzem es nada más derek havda que nosotros, Jaewen Latek Kusbrukhwe, es el es el Melek, es el Kemanighotanu, es el Kemobilotanu, letakhlit, pero béomek beomek, porque hay Kusbrukhu hizo toda esta nalga de Melekbeam, sí, como dijimos, el otro sure."
+"startMs": 670492,
+"endMs": 681232,
+"text": "מרדכי. כראות אמן את מרדכי שלידו הייתה הערה והשגחה לישראל בזמן ההוא, נתייעץ עם זרש אשתו וששאי לו- Ah, que ese ya es נקבה, filo."
 },
 {
-"startMs": 2566000,
-"endMs": 2598000,
-"speaker": "Speaker 1",
-"text": "Byatan, kabot lichmo, totomeret, esa una, esa naga de kabot. Beomek viene de krakausborhu tov, nada más que el tov, en el maavir koltubi al paneha, si. Beomek es el tov, solo mitkaien va uvda, seu a melek hanak no anchelo, un mitkaien vez de chanak nutzim lo kabot. Entonces, entonces acá hay, krakausborhu es abba, pero tukesh con akusborhu como abba es tukesh con akausborhu, Como Melek Beam."
+"startMs": 681232,
+"endMs": 687532,
+"text": "¿No? ¿No se ha pasado? No, no, no sé, puede ser. Está entiendo. Hay tala- Sabes, es porque era מחשבה גדולה."
 },
 {
-"startMs": 2598000,
-"endMs": 2607000,
-"speaker": "Speaker 1",
-"text": "Estamos clarísimos. La Nagade Akhusbolhu de Melek Beam. Qué pasa si dejamos de ser Suam?"
+"startMs": 687652,
+"endMs": 691612,
+"text": "אמרו רז\"ל כי זרש אשתו הייתה מחשפה גדולה."
 },
 {
-"startMs": 2607000,
-"endMs": 2624000,
-"speaker": "Speaker 1",
-"text": "Qué pasa si ya Akhusbolhu ya no Mitgalén en el mundo como Melek? Entonces la Matará de Akhusbolhu de ser Melek era ser Melek. Su Matará cuál era realmente que es la mejor manera de ser Abba."
+"startMs": 693372,
+"endMs": 693732,
+"text": "Órale."
 },
 {
-"startMs": 2624000,
-"endMs": 2680000,
-"speaker": "Speaker 1",
-"text": "La mejor manera de ser Aba. Entonces, fíjense cómo Akusborhu mantiene el kesher con nosotros. Entonces Bepastut es Akusborhu, que es Aba. Entonces, ahorita tú estás acá. Hay kesher entre Akusborhu como Aba, Urotzel de Tib, pero el Rezon de Tib es el vamos a llamarle así. Larida le llama Larida le llama Yesod Aba. Qué significa Yesod Aba? Véalo en el idioma passut, si no se vayan a la herida, pero el idioma passut, pero soso es la bar es que Aba, pero soso es la bar es que Ashem, que es nuestro papá, un espía la un hiut, pero como me espía la hahiut, me espía la hahaim, eso se llama, y esto es jaim, es el hiut que llega a ver este de Kruzborho, como me espía la hahiut, te dice, mira, tishma, aní a mele, pues mi mele, yo como mele, atamsheli, anis dan, en farnés."
+"startMs": 696272,
+"endMs": 696872,
+"text": "Toma la..."
 },
 {
-"startMs": 2680000,
-"endMs": 2710000,
-"speaker": "Speaker 1",
-"text": "De Nikasur, le deja al toza, que ponele en el con toda la naganda majut, pues me mele mas pianlanu, entonces a nosotros de donde nosotros percibimos, vete en el huit que nos llega de parte de Chris Borjo, de la UGDA, que el es melek. Cuando el es abba es muy él, cuando el es melek, ahí el pone a nosotros. Entonces el en su razón más primí, pero vete en cuando pone el enu, pone el enu como melek. Cuando el pone el enu como melek, entonces el nos dirige, nos da para pasar, nos da todo lo que necesitamos, Bette nos da?"
+"startMs": 698952,
+"endMs": 707172,
+"text": "Sí, señor. ועצתה שכולה מכל ש-- מכל ששאי רצה. ועלתה עצתם להרוג את מרדכי ולתלותו על העץ."
 },
 {
-"startMs": 2710000,
-"endMs": 2715000,
-"speaker": "Speaker 2",
-"text": "Por qué habano fue el también? Qué? Porque la esta de habano es."
+"startMs": 708312,
+"endMs": 715132,
+"text": "עוז נבה של נחש, el עץ, es el zanab del נחש. המשך רגל הקוף."
 },
 {
-"startMs": 2715000,
-"endMs": 2747000,
-"speaker": "Speaker 1",
-"text": "Muy es muy de, es un razón muy camus, muy primi, muy uponé, Derek el Maljut, el Melek, el Melek, meti, como mujer, Usolea, Usejese, sí, Umanig, Letajlit, Umanig, Letajlito, pero Beetzem, el Geset, que es una taba. De de como dijo Mosher Abenn Alemann, que es kolculo metziat hen, que es kolculo mamajnat matzat hinam."
+"startMs": 716212,
+"endMs": 723852,
+"text": "Sí, la קוף es una ה. Pero- Más, más para abajo. Entonces, ese המשך es-- en vez de ה es קוף."
 },
 {
-"startMs": 2747000,
-"endMs": 2755000,
-"speaker": "Speaker 1",
-"text": "Sí, eso, eso, y nosotros somos swam, somos el maljut, estamos claros. Antes del claro,"
+"startMs": 724992,
+"endMs": 732132,
+"text": "Y ese המשך es el zanab del נחש. Mmm. Como está-- como estamos entendiendo. כמו ארץנו, כנזכר."
 },
 {
-"startMs": 2755000,
-"endMs": 2760000,
-"speaker": "Speaker 2",
-"text": "Es el razón antes del bituy, es el."
+"startMs": 733052,
+"endMs": 733472,
+"text": "Caballa."
 },
 {
-"startMs": 2760000,
-"endMs": 2794000,
-"speaker": "Speaker 1",
-"text": "Razón antes del bituy. Te voy a poner un ejemplo. Siempre un gilui, un gilui siempre es algo un poquito más mitzunzan. Por ejemplo, si yo tengo a alguien va a dar un escuchar a Rornosan Rotman, lo escucharon en Pesaj y de repente luego te salió a escuchar un shure de él, de Purim y luego te salió a escuchar un shure de él, de Tishaweav. Si, entonces acá, ahí me cacheron entre el shure de Pesaj, de Purim y de Tishaweav, o son tres shuren completamente diferentes."
+"startMs": 734672,
+"endMs": 745440,
+"text": "בספר הזוהר שיר השירים ודי בזה. ואם חס ושלום ככה יעלה. Yojal ajarcaj leavel etsonerem shel Israel."
 },
 {
-"startMs": 2794000,
-"endMs": 2827000,
-"speaker": "Speaker 1",
-"text": "Entonces son tres shuren completamente diferentes. Porque el de Pesach es un shure, el de Purim de no sécher, un diveral Purim. Pero hay un kesher o no hay un kesher? Entonces vehmet hay un kesher, cuál es el kesher? Que en los tres bethem es el mismo, el mismo Mosera shure se está expresando a sí mismo de diferentes maneras. En Purim se expresa a sí mismo de esta manera, se expresa a sí mismo de esta manera, en Pesach se expresa a sí mismo de esta manera."
+"startMs": 747100,
+"endMs": 753620,
+"text": "Si es que llega a colgar ahí a Mordejái, entonces ahí realmente habría matado a los enemigos de Israel."
 },
 {
-"startMs": 2827000,
-"endMs": 2862000,
-"speaker": "Speaker 1",
-"text": "Los 3 shurim son leshitato? Sí, ahora hay alguien que escucha el shure, escucha, alguien que escucha el shure puede entender que los 3 shurim son leshitato. No es allá. Cuando escuchas peda, escuchaste peda, cuando escuchaste, cuando escuchaste, Purim, escuchaste Purim. Pero si escuchas más, más, siurim, entonces mi main le ha tag cuarto fest, hasta el otro fest aquí lo hice lo. Tatofens, esta Adsmusel, también Adam Beatsmo, como se está expresando en cada Guilui."
+"startMs": 753940,
+"endMs": 757260,
+"text": "No sé en la Shoá quién era Mordejái, pero lo--"
 },
 {
-"startMs": 2862000,
-"endMs": 2893000,
-"speaker": "Speaker 1",
-"text": "Ahora, qué pasa si ahorita viene, se para aquí, viene alguien y dice: \"Ma, mi Warmekir, ya llevo escuchándolo diez años, betsema. Agarrabnosa, mi Warmekir, betsemel. Animkirta premium, animkirta. Ahora, ok, déjame, déjame verlo, entonces agarra antes de empezar Shure, se empieza a Litponen, Porque haré, esta, ese orbethem está acá. Kibiahol, el ore del, del atfius antes de que. Antes de que galee, Betehem está acá, no jon."
+"startMs": 758500,
+"endMs": 766060,
+"text": "pero esa es la cosa, que si, si consiguen quitar a Mordejái, que es la ara que tiene la nukvá todavía, es el,"
 },
 {
-"startMs": 2893000,
-"endMs": 2924000,
-"speaker": "Speaker 1",
-"text": "Entonces Ulai, ¿Shagla sigo todo o no Shagla sigo todo? Por qué no Shagla sigo todo? Porque está muy primido dentro del, dentro de él, el Omega del Haut. Igual acá, esta Anaga que se llama Abba, esta Anaga que se llama Koltubialpaneja, Beettem, ese es Kibahol, cualquier Anaga, que hakusburgo y en Hig. Está expresando behome que es Anaga. Pero esa Anaga es muy él. Cómo la expresa? Por medio de la Udak, que él es Melech. Así la va expresando."
+"startMs": 768120,
+"endMs": 777200,
+"text": "el coje que me- Si quitas la hashgajá, entonces- Sí, o sea, Hamán no pensó eso. Tú dices en la Shoá, tú dices en la Shoá a la fuerza tiene que haber un Mordejái."
 },
 {
-"startMs": 2924000,
-"endMs": 2956000,
-"speaker": "Speaker 1",
-"text": "Entonces cuando es Melech te dice, oye, ahí yo puedo encontrar un Lexitoso en toda la Cutura Culau o no puedo encontrar el Lexitoso en toda la Cutura Culau. Tiene que ver si yo estudio Subes, estudio Nedarim y estudio las Klalot de Quitabó y estudio Bilam. Mi Gilat Esther y Abraham Avinu, ahí yo puedo entender aquí que hay un kesher entre todo esto, ¿no? Entonces depende de donde lo ves. Si lo ves desde el pan del malhus del melek, no, son dos sinenim, la ktuba se escribe así, si peta patuaj es así, así."
+"startMs": 778060,
+"endMs": 790920,
+"text": "A la fuerza. Pero, pero tuvo que ser que lo mataron, porque pasó la Shoá. No, pero no es que-- ah, tú lo ves como manera que sí pasó, yo lo veo que al final ellos no pudieron matar a Misrael."
 },
 {
-"startMs": 2956000,
-"endMs": 2988000,
-"speaker": "Speaker 1",
-"text": "Esta suya es así, así, la otra suya es así, así. Desde el panim del malhus, todos son guiluin diferentes, bemeto, sus guiluin, son anan nafshik, katbit y habit, anoihi. Y viajó la Shem se está expresando en todo en cada es el zoo de la Torá es el tour de la Torá Shem se está expresando en cada mitzva y mitzvah se está expresando así mismo en diferentes aspectos estamos clarísimos con este con este mashá, entonces vete en la nalga del Tov, si se acuerdan el sure pasado cuando hablamos de Tov y Kabo dijimos el Helek del zoo de la Torá es el Helek del Tov."
+"startMs": 791500,
+"endMs": 799380,
+"text": "O sea, él está diciendo que acá, Mamásh, si hubieran sido como Mordejái, se hubiera acabado a Misrael, así entendí. A Mamásh acabado. En la Shoá no se acabó."
 },
 {
-"startMs": 2988000,
-"endMs": 3022000,
-"speaker": "Speaker 1",
-"text": "El helek del chat de la otra vez el helek de Kaboo. Si yo me fijo en el chat de la Torah me meto ahí mil harakim, pero si yo me fijo en el sol, entonces todos esos mil harakim vete mi takim a una a una nkuda, es una nkuda, es ki vehol, en la noihi ashem beatzmoo se está expresando de diferentes maneras, pero en todas, en cada aspecto y aspecto es la misma expresión, entonces vehetzem, hay muchísimo gyus, hay muchísimo gyut, ki vehol desde Abba, Pero a nosotros ese Hugh solamente nos llega por medio de, por medio del Meleg."
+"startMs": 802060,
+"endMs": 811680,
+"text": "Yom Nam empezó el culpa de Shoá, Yom Nam. ¿No? Okey. O tú, o tú estás diciendo que sí se acabó en ese tiempo. No, o sea, de alguna manera fue un ataque que, que Itzli Ajed, eh, no fue un ataque a Miti."
 },
 {
-"startMs": 3022000,
-"endMs": 3055000,
-"speaker": "Speaker 1",
-"text": "Pero cuando, ¿qué pasa cuando es Meguilat este? Cuando es el Sukur de Aman, entonces Aman sabía, si, que era un Hachef, Atzun. Entonces él sabía, como dijo la que le hizo la cámara, \"Yesh no, a Mekhaan, el okem shelenu, y ashenu\". Si, el kusbolhuk y viajol estaba dormido. Mas tomate que está dormido. Lo que viste hasta ahorita, que akusborhu movil aquí un zipur, boo a meleg y tiene un \"am\", pero te la vida de Natahlit, de loco era él. No, ya akusborhu no es meleg."
+"startMs": 812780,
+"endMs": 818720,
+"text": "Luego, otra vez, eso es gufa lo que trajo otra vez a Eretz Israel. Y ponim ve ponim otra vez. Okey."
 },
 {
-"startMs": 3055000,
-"endMs": 3103000,
-"speaker": "Speaker 1",
-"text": "Ah, okey, todo, akusborhu are es Ava, todo meter. Pero eso es algo muy expidente, es como si quieres entender el shulkloli. Si, el slichitozo el shulkloli, si no escuchan ni el shulkloli. Me encantaba, eso es muy, muy, muy de él. Esto es muy, muy exmid de Akusborhu. No es algo que el Kusborhu tiene que venir y. Entonces viene Aman y dice, es deu, lo que hemos selelu, esen, entonces vete y ya no es mele, entonces am Israel, vete, que son pan comido, todo su coaje es porque acusborho esta aqui, mitgaler, acusborho esta del Shamai, baja del Shamai, aqui wehol de Swatmews, baja del Swatmews, a donde hacia nosotros."
+"startMs": 822460,
+"endMs": 826480,
+"text": "Hoy es con casco, ¿eh? ¿Eh? Es con casco. Ah, está el mesivó."
 },
 {
-"startMs": 3103000,
-"endMs": 3142000,
-"speaker": "Speaker 1",
-"text": "Como Meleg, va a suponerle, no, pero si la nada de Meleg se quitó desde el Jurban Betamiktash en cierto aspecto, este como como meleg, entonces ain shayak que hay un kesher entre a Misael y a Kusborho dice no, si a Kusborho ya no está, entonces ya no hay quien los proteja. Entonces vamos a la Shmid, la Aroit, labeh, et kola yudim, tafen ashim, beyomeha, nosotros ya podemos matar a todos los de Unim. Y entonces acá, mit galer, el watsu, que ki viajol, el kesher entre nosotros de kusborho, ulokayam dafka, que viene a kusborho, estaba chamae."
+"startMs": 828400,
+"endMs": 830540,
+"text": "Un párrafo que empieza Yom Nam. Ahí."
 },
 {
-"startMs": 3142000,
-"endMs": 3173000,
-"speaker": "Speaker 1",
-"text": "Uponer nenu, vas mi mail ahorita, nosotros me cablin, ve este mes apnea a nosotros y este es nuestro kesher. Ve omek, ve omek, el kesher, la kusborho, nosotros esta, este no chuchola. Entonces, que api lo que eso es abba y es muy, muy él, ki viajol. Entonces eso, uloqui lananu, se un daba. Pero ve, mete el muy, muy, muy él, ve ome, que es muy, muy nosotros. Nuestro kesher es tan beettem, que no es un kesher jittoni, no es un kesher que viene el beettem, luego humiggale le ha, mas mi mei le de los datos, soy kesher."
+"startMs": 831760,
+"endMs": 832160,
+"text": "Desde..."
 },
 {
-"startMs": 3173000,
-"endMs": 3204000,
-"speaker": "Speaker 1",
-"text": "El kesher con el kusporhu ya lo tienes tú mitad, smeha. Lo tomé el que este or que estaba en Abba, si me estoy explicando al cien por ciento, ese or que estaba en Abba, que es muy, muy satum, muy primi, muy, muy él, beettem, si el kusporhu lo pone le ha y. Y tú quieres encontrarlo dentro de ti? El que tenemos con el Kusbolj Kayam Beetzemanchucha. Un papá y su hijo, si el papá y su hijo no se ven, ¿sigue siendo su hijo o no sigue siendo su hijo? Sigue siendo su hijo."
+"startMs": 834100,
+"endMs": 835740,
+"text": "No, no, no, más para atrás. ¿Por qué?"
 },
 {
-"startMs": 3204000,
-"endMs": 3239000,
-"speaker": "Speaker 1",
-"text": "Y si el papá de Sakusbolhu, entonces Beetzem, si el papá es Sakusbolhu, no nada más, si el hijo sigue siendo su hijo también cuando el papá no lo ve, entonces él dice, bueno, yo soy el hijo de mi papá, acá es mucho más. Si Beetzemakusborhu es nuestro papá, Zeomeriakusborhu no tiene Wulensmanian Makon, quiere decir que donde estemos nosotros Beetzem está Kusborhu. No necesita haber un gilón para que para que Galea de Kusborhu, para que tú entiendas tu Kesha con el Gosborhu, para que ve metiste kesha con el Gosborhu, entonces necesita le flota como melek pero el Kesha que se la tzmo ukayan betsem."
+"startMs": 845620,
+"endMs": 846400,
+"text": "Más, más para atrás."
 },
 {
-"startMs": 3239000,
-"endMs": 3272000,
-"speaker": "Speaker 1",
-"text": "Entonces Beetzem cuando amán se están se está peleando con Amis Israel dice Kusborhu no está, entonces machu va. Cruz Borjo sí está. Dónde está Cruz Borjo? Beto Hein, la Cruz Borjo está, es de Helek, de Helek, que la chama es mamá, está Helek de nosotros, la Cruz Borjo de nosotros. Cruz Borjo no, cuando está en el chamán es de Ana Game, sí, pero ve este melkesh, el el con el Cruz Borjo, ve este me está mamás, Beto Toheino dentro de nosotros. Entonces le feliz, vean que pele."
+"startMs": 847600,
+"endMs": 848580,
+"text": "Leer contigo, mejor."
 },
 {
-"startMs": 3272000,
-"endMs": 3305000,
-"speaker": "Speaker 1",
-"text": "Qué pasa si el Cruz Borjo me galé este qué? Que es lo que me halle que el kesher era Pablo y mi crack, que nunca se va a romper? Entonces el kesher como melex sabe que se rompa, pero el kesher como aba no será que se rompa. Si ahorita no hay melex, entonces si no hay melex y dice Aman, pues vamos a romper el kesher, pues mi melo ahorita no megalín, que no, espérate, espérate. En que sea ver que a tu esposo nos abandona, él va a seguir siendo nuestro melex porque es nuestro ama. Entonces mi mele ahorita el melek está escondido, si está escondido, pero ve écheme nuestro ama y si no es nuestro ama, entonces ve écheme este."
+"startMs": 851160,
+"endMs": 851840,
+"text": "Ya, perfecto."
 },
 {
-"startMs": 3305000,
-"endMs": 3346000,
-"speaker": "Speaker 1",
-"text": "Ahorita esa es la que él ama mitgalec anajru megalim, si no mitgalel ama dere la el guilui del meleg, sino mitgalec, que él es ama que afilo que no hay meleg, entonces espérate, entonces ¿dónde está nuestro papá? Sí, entonces un hijo, su papá, todo el tiempo lo cuida, de repente no está, no está su papá, entonces ¿dónde está mi papá? Sí, entonces con un papá vehmet sí, no está mi papá, pero si el papá, entonces digo, no veo mi papá, dice, no, tu papá está. Porque este me gusta que tu existes de hombre que tu papá está, que el keshe con nosotros, con el kosborgho es de nosotros."
+"startMs": 854060,
+"endMs": 862280,
+"text": "Ya quedó. Ahí está. Ajarcaj rabí etsoner shel Israel. Y entonces, la segunda cosa, vamos acá: ve ze inyan, Mordejái ve harató."
 },
 {
-"startMs": 3346000,
-"endMs": 3375000,
-"speaker": "Speaker 1",
-"text": "Mismos, Seguro, por eso es que el kesher este de Aba, sí, imagínate el hombre del kilo de parte de kosborgho, que voló mit gale con kafale marqui gita. Si no ahorita pitan también cuando se quita los que nada de melech hasta megalé, que u también dije. Ah, va, uvafon no, y a dogot hai u bétzen también. Qué pasaría si es que el borjo haya megalé este gilu imitat hatsmo?"
+"startMs": 864920,
+"endMs": 868760,
+"text": "Hoy le, hoy le-- este año en la mañana hicimos un ejercicio, ¿qué hubiera pasado si Hitler"
 },
 {
-"startMs": 3375000,
-"endMs": 3408000,
-"speaker": "Speaker 1",
-"text": "Entonces, o de meleg. Qué pasaría si el megalé? Entonces, cuando es meleg, ¿cómo se llama? Or. Sí, cuando es meleg se llama Ort. U megalé. Por acá no es el kilo y que humegalele ja, sino es el kilo que hubo, que ya me toja. Entonces ese kilo y vetemos ahora mi la catagela. A mi me decía el megalele ja de ese kilo, y luego le vamos a impunidad otra hora. Si el Cruzbojo viene y te dice, ¡Toma! Y si el Cruzbojo me tigale en ese kilo, ¿eh? Es que pasa bien. Ya, somos uno mamá, es que todavía desaparecemos."
+"startMs": 873280,
+"endMs": 875580,
+"text": "le gana a Rusia? Si no cae."
 },
 {
-"startMs": 3408000,
-"endMs": 3440000,
-"speaker": "Speaker 1",
-"text": "A la Maco, Cruzbojo está escondido dentro de nosotros, pero si el Cruzbojo él decide legalote ese kilo, Un kilo de te conviertes tu en un kilo de locota directamente, luego dejo mi penedota ahora. Entonces ese kilo y vete me sobra. No es que ese ahora vete a Macus por o sea esta moto. En la mañana te dijo mira chema, nosotros no existe que vete, nos separemos porque somos un, somos uno, tu eres, yo soy el papá, tu eres mi hijo, en casa de ver que nos separemos los chumpan y me voy a favor. Si? Iman y mega, aléjate, kilo y hace. Iman y mega aléjate, kilo y hace."
+"startMs": 877340,
+"endMs": 881160,
+"text": "Hubiera entrado a Israel. ¿Qué hubiera pasado con el gobierno de América?"
 },
 {
-"startMs": 3440000,
-"endMs": 3470000,
-"speaker": "Speaker 1",
-"text": "Luego dejo mi peneta ahora. Sí, te disuelves completamente, pero lo dejo Nistar para que tú vengas después y digas este es el Fertora necesita Bethem. Entonces Bethem es la nicuidad de del hyus, ese es Yesod. Sí, Yesod es el hyus que Bethem estaba en Abba y lo ahora, pues eso es lo más él que hay, despitamos ahorita mitgale que lo más el que hay."
+"startMs": 883140,
+"endMs": 886080,
+"text": "O sea, eso es lo que estás diciendo, que van por todo."
 },
 {
-"startMs": 3470000,
-"endMs": 3530000,
-"speaker": "Speaker 1",
-"text": "No necesita haber que pasar todo tipo de ishtal chiluyot para que llegue hasta nosotros, sino lo más de estos minutes que hay en la tousborubeetzem y hasta Betoheinu, Betoheinu mamage, Betoura, misteric. Si, por eso el bala meimbre se llama. Rabijia, Hughes, bar, Abba. Si, se llama. O sea, la herita es la silla. Y eso siempre es el Hughes, en cualquier libro de Issot es Hughes. Se llama Rohiebar Aba, Beshem. Avoido, kival no me matana, este kilo y es de kivalta be avoido, be matana, si, bejanoti, etaserajón, berjanti, etasera harajén, y nenima abrid, col, col, tuve al paneja, este kilo, este makabelo to, behavoido, y si fuera de avoido, ya es que ni cara, porque son los tajisteres."
+"startMs": 887920,
+"endMs": 894380,
+"text": "Hamán quería matar a todos. Hitler igual. ¿Mmm? Hitler igual."
 },
 {
-"startMs": 3530000,
-"endMs": 3561000,
-"speaker": "Speaker 1",
-"text": "Pero esta mataná es tan fuerte que necesitas también tener un avoide porque si no tienes una necudada avoide que esa es la necudada del meleg que hay en esta necuda ¿Me explico? Dónde hay una necuda que también aquí hay un malhus? Sí. Dónde aquí hay una necuda que también hay un meleg? Que como dice hasta este regalote. Sí, imán y megaleja este. Entonces acá tiene que haber una necuda donde donde voy a sentir con un avoide, De que, es ma, ¿De Kayam?"
+"startMs": 894820,
+"endMs": 894940,
+"text": "Sí."
 },
 {
-"startMs": 3561000,
-"endMs": 3598000,
-"speaker": "Speaker 1",
-"text": "A que se le debo Kayam esa la tabaca y eme? Vea, bodas, el jai, pasut legalotxinimted. Legalotxinimted. Y es tan, tan bueno esta verdad. Que la única manera de la sigota, es decir, me vinimos, ya no como ven ni, ya ni crea. Hazlo yoda. Hazlo yoda de pasout, la vincha, talome. Ah, pero ya, pero no, o sea, eso no esta, no lo veo, no lo siento. Todo lo que no lo ves, no lo sientes, no lo entiendes, es porque tienes bullot. Luitsure que te quites los bullotes entonces vetten vas a descubrir que vetten a kusborhoom ahí está."
+"startMs": 897280,
+"endMs": 897500,
+"text": "Dice:"
 },
 {
-"startMs": 3598000,
-"endMs": 3604000,
-"speaker": "Speaker 3",
-"text": "Este es."
+"startMs": 899120,
+"endMs": 905780,
+"text": "Ve'az Hashem itbaraj berajamav heir herat nukva haelyona vi hidulat."
 },
 {
-"startMs": 3604000,
-"endMs": 3655000,
-"speaker": "Speaker 1",
-"text": "Un pan del Gilo y del Melek, del Gilo y del Melek al Maljut, es el abjinat de Zefe, siempre en Zefer a kusborhoom mitgalek como melek, Sí, en Sever, migale como melas aquí el Chema vaya loca tú, porque el Chema vaya es el Chema vaya de Abba, es el Chema vaya más primido y más gaboa que hay, es el más antes de que cuando ya Misgaleno no se fue, se fue, se fue Quiluy, se quiluy, se el melas, pero si el lo jugar era muy para él, luego regaló los a todas, sí."
+"startMs": 906540,
+"endMs": 906680,
+"text": "Sí."
 },
 {
-"startMs": 3655000,
-"endMs": 3668000,
-"speaker": "Speaker 2",
-"text": "Y la de A, la de A es mijaveret, Luis, mijaveret, y la de A también."
+"startMs": 912320,
+"endMs": 921340,
+"text": "Ve'az Hashem itbaraj berajamav heir herat nukva haelyona vi hidulat Mordejái ve Ester ve'aliadam noshu Israel min hatzara hagdola hai como se leer."
 },
 {
-"startMs": 3668000,
-"endMs": 3669000,
-"speaker": "Speaker 1",
-"text": "Abdalá, Mi nain, hace Abdalá."
+"startMs": 921400,
+"endMs": 934980,
+"text": "Ve ze inyan Mordejái ve harató. Da, ki ine bizman ado dormita de Za, lo bilvad nikrasim amoijin de Za, mitzad naí de imá, ve nikrasim ve nukve Rachel, ¿sí?"
 },
 {
-"startMs": 3669000,
-"endMs": 3679000,
-"speaker": "Speaker 2",
-"text": "Mele, pero también melegiaba, los de Macri, pero también, la misma de A, también mijaveret."
+"startMs": 935600,
+"endMs": 942380,
+"text": "Vi otza ajor ve ajor, ela af gam moijin de ve naí de aba, ve sod ai ven Hashem Elokim et ha tzelah."
 },
 {
-"startMs": 3679000,
-"endMs": 3694000,
-"speaker": "Speaker 1",
-"text": "Eso es, aquí lo aquí para el Itzvoz el gibur con el Mele, se daf que con Daat. El hipour con amba tiene que ser de Avka, me imagino a quitarte el dato, cuando hay dad, entonces mi mail ahí la boda es muy buena ahí lo trajo."
+"startMs": 943980,
+"endMs": 952060,
+"text": "El tzelah ela mukhe, entonces quien lo construye, havaye Elokim, da aba ve imá, Hashem Elokim es avaye imá, es abarim."
 },
 {
-"startMs": 3694000,
-"endMs": 3696000,
-"speaker": "Speaker 2",
-"text": "Eh? Igual trae ella."
+"startMs": 952600,
+"endMs": 953080,
+"text": "Nemtsa,"
 },
 {
-"startMs": 3696000,
-"endMs": 3701000,
-"speaker": "Speaker 1",
-"text": "Qué es de votación? Dónde están? En su Juana?"
+"startMs": 955380,
+"endMs": 962660,
+"text": "ki como veiot amoijin em, toch ze lampin, io io tzimehem ve teharot lajut, mi jina teharat amoijin de aba."
 },
 {
-"startMs": 3701000,
-"endMs": 3708000,
-"speaker": "Speaker 1",
-"text": "Sí. Eh? Pero también."
+"startMs": 969180,
+"endMs": 982400,
+"text": "Io tse Iacob, mitzad panim de Za, mi jina teharat amoijin de imá, io tzot Rachel, mitzad ajorá ve gam ata, io tzot mi Rachel nukva, de ze lampin, ve ataharot elu, gam kem bli safek."
 },
 {
-"startMs": 3708000,
-"endMs": 3710000,
-"speaker": "Speaker 3",
-"text": "No."
+"startMs": 984040,
+"endMs": 991760,
+"text": "No es que ahora dice: «Y lo», el que es amoijin, anitzka el toch nakéva, nitvasa mi jina teharat selishit, ma shen kem, ve iotam toch ze lampin."
 },
 {
-"startMs": 3710000,
-"endMs": 3768000,
-"speaker": "Speaker 1",
-"text": "Claro, Stam, todo este Stam, todo este linean, todo Torá se va al pe BT me empezó en Purín, pero por qué Torá se va al pe es Purín? Nosotros tenemos que valorar la duda que escribamos Torá al pe. Sí, porque Torá al pe Piruchos es lavar dónde está la Torá? Dónde está la Torá? Nosotros somos la Torá se va al pe. Kame tita de Kame de Kame, Kame, Kamei, Gabra Ramba. Tú tomas la Toracho Valpet Valpet Azca, no está en libros, Toracho Valpet es culpula nosotros, estás hablando que Beetzem Abaye dijo algo, si estás diciendo no lo puedes ir en el baño porque porque Kuzborhu dijo el din de Abaye, no, pero lo dijo Abaye, no, Abaye, Beetzem, Kibiahol, uh, cien de Abaye, U Beetzem, mejor, legaloti, bralo, Kim Jain, Uiahol, legaloti, bralo, Kim Jain, pero es Abaye, es una morada, es de sí, es de Robilioshi."
+"startMs": 991800,
+"endMs": 1008860,
+"text": "Ve hu, ki ne ve iotam toch ze lampin, haya yesod de imá nishlam ve jazé de ze lampin. Ve yesod de aba, she hu io telajoch, kan od ai, anishlam be ziud yesod, de ze lampin mamash, ve lo haya io tse, mi jut ze yesod klal, aval ata ve iotam amoijin toch nakéva."
 },
 {
-"startMs": 3768000,
-"endMs": 3785000,
-"speaker": "Speaker 1",
-"text": "Sí, nosotros, sí. Un director es que estamos hadet, de Omer, no, de la única que estamos hadet soto. De que nunca estamos hadet soto?"
+"startMs": 1009320,
+"endMs": 1012200,
+"text": "She yesod shelanu, ki hi katsa, mukrach hu,"
 },
 {
-"startMs": 3785000,
-"endMs": 3816000,
-"speaker": "Speaker 1",
-"text": "No existiría beette en el Museo de Torazo Alpe, si no entenderíamos beette, en la nicuidad del orca, en el de Purin que beette, pues sut, si, ha escrito ahora. Describió hoy toda la Torá que tú, cualquier necuda de Torá que tú estudias, no hay un gramo de Torá que tú estudias, que no es un una necuda de Torá que una persona aquí la otra. Tú estudias Gemara? Qué estudias? Gabina, Rabashi, Rabba, Valle."
+"startMs": 1014880,
+"endMs": 1029359,
+"text": "she yesod de aba itvashet ve itse mi jut ze yesod nukva, ve lajut ze titgalé harato ve gilu gamur legamle, menodá, ki ma she haya mitlavet ve yesod de ze lampin, hu mi jina de atará she la yesod de aba, she hi mi jina de maljut de aba."
 },
 {
-"startMs": 3816000,
-"endMs": 3844000,
-"speaker": "Speaker 1",
-"text": "Sí, estudias Jumash, pero no lo entiendo hasta que de repente te dice, te dice Betzem, Rashi, el Chad y luego el Ramban. Entonces Betzem quiere decir que Omic, la Torá. La Tora en su majut más primita es este nekuda que se llama Yesodama, que mitikale vikar derejahometo, porque nosotros tenemos esa nekuda amucada dentro de nosotros, que nosotros podemos Legalot que tenemos esa ese corte."
+"startMs": 1029920,
+"endMs": 1040760,
+"text": "Ve en safek, ki hará zon iglit, mi maljut de aba, hi hará gdola az meod. Ve hine, shores nishmat Mordejái eta min harái hi, ve lajen, al iado eta tshuva li Israel."
 },
 {
-"startMs": 3844000,
-"endMs": 3847000,
-"speaker": "Speaker 2",
-"text": "Que se llama si por eso."
+"startMs": 1041160,
+"endMs": 1046619,
+"text": "Tshuva de Israel bizman hahu. Ve ze nirmatz, Shem Mordejái mamash, amur azel shelashon mila dachia."
 },
 {
-"startMs": 3847000,
-"endMs": 3882000,
-"speaker": "Speaker 1",
-"text": "Es kepurin pidiu coge el kilo y kepurim entonces mi me la jena y moja la cabello un kpur. Kitbareja de Kilu, todo, todo Beetzen. John Kipur tenía que venir un gimnasio de Svalpé, tenía que venir. Y viajó la Cruzborho vino y le dijo: \"No, Arevmi Meribasmiden\". Por qué le dijo a Arevmi Meribasmiden? Porque yo, como tú me tienes mi kilo y sieman y poner el eje con mi kiloi. Yo soy Melej, soy Melej, que iba una falta. Abogado de Aram, veía un Hatouna, de Biltinisban."
+"startMs": 1048140,
+"endMs": 1061220,
+"text": "Mar dachi. Ve hu, targu- Mordedor. Mordedor. Gam nikrá Mor, over, ve inianu, ki hará gdola hi, im Mordedor, zach ve naki ve tachlit, overet mi pi yesod nukva ve lajut."
 },
 {
-"startMs": 3882000,
-"endMs": 3939000,
-"speaker": "Speaker 1",
-"text": "Entonces le dice \"Arefimene Bashmide\" y Moshé entiende, dice, espérate, porque me dijo \"Arefimene\", suéltame y los que nosotros aquí, entonces acá sube, aquí es una abogada suma, si no es de que no pidió el Jonon, pero aquí hay una abogada suma, que la abogada suma es, que Kibejo le tienes que tú decir a con los porjos, \"Ni rotzel y galote este, si no quiero que se quede nistar, no quiero que se quiera oprimir, yo ve este me rotzel, si Arefimene vachmide, entonces, Entonces dice, entonces tiene que ser bemetora, tiene que decir que menos nosotros hagamos todo para legalot, ese es el aloja el amor y se micina, si, que en el faglio del toque, si quieren entender el toque, entonces me digo rápido me necesito ir."
+"startMs": 1061700,
+"endMs": 1071820,
+"text": "Ve sod ha pasuk, «ve ain hamtzu Mor, over». Ve ze tavin hoalat Mordejái, she halá li jina de maljut, mi shne lama lek, ve ze sod ha pasuk, «Mordejái atá mi fne ha-melek»."
 },
 {
-"startMs": 3939000,
-"endMs": 3945000,
-"speaker": "Speaker 1",
-"text": "Vamos al toque, al toque. Entonces dijimos que hay tres hitot."
+"startMs": 1071840,
+"endMs": 1081320,
+"text": "Bulbul, maljut kale dochor, ve atá et hará gdola. Ha mashkil yavin, es et Mordejái atá, es et hará ve Mordejái, es et yesod aba."
 },
 {
-"startMs": 3945000,
-"endMs": 3975000,
-"speaker": "Speaker 1",
-"text": "Igual yo estoy grabando, creo. Hay tres hitot en la llamara, ah. Tres hitot en la Mishná y hay una en la llamara. Entonces fíjate algo. Fileplain. Entonces vas. Te estamos diciendo que qué es la página de Higueret que hay en el Cefer Tora? En la Meguila? Cuál es la página de Higueret que hay en la Meguila? Se llama Vai. Majón, es el She Mashem, She Mashem. Entonces, dónde está el She Mashem en la amiguila, la Igueret?"
+"startMs": 1082280,
+"endMs": 1096700,
+"text": "Ve ha mashkil yavin, kol prita ha pasuk haze, inyan yetzía zor mi fne ha-melek, es el maljut, Rachel, la nukva, ve atá et hará gdola, mitzad atará yesod, atará yesod aba, ve lajin nikrá gdola, queeser ja-- ja khova nikrin gdola."
 },
 {
-"startMs": 3975000,
-"endMs": 4008000,
-"speaker": "Speaker 1",
-"text": "Nosotros, nosotros, nosotros, como que nosotros, no somos She Mashem, aceptarles a persi puro. Entonces, ven que pele, tenemos cuatro, tenemos cuatro, entonces, cuántas, cuántas letras tenemos en. En She Machem, tenemos cuatro, tenemos cuatro, son paralelas a las cuatro Diot de She Machem."
+"startMs": 1097140,
+"endMs": 1105740,
+"text": "Ve sod, hagdol gigbol va'anona. Gam ha malik yaskil leiotam, shevet Benyamin, daká, ve saté et ha-yesod, ve dai ve ze, punto."
 },
 {
-"startMs": 4008000,
-"endMs": 4057000,
-"speaker": "Speaker 1",
-"text": "El Malajoas, Layud, Pirusoso Slavain, es, es Bethem, es Jojma, magan a Jojma. Layud de She Machem viene a decir que todo es uno, que es Layud, un puntito, un puntito Pirusoso Slavain, que hay una página que yo puedo ver todo el mundo entero. Cómo es todo Beettem? Sí, es Beettem Layud, todo Beettem es Ashem Beatzmo, todo lo que hace en el mundo de Beettem Gillushe, esa es Layud, pero nosotros si te dicen eso, yo veo libros, veo cosas, veo personas, pero Beettem el sobre todo, me ahora con quién es el mele jalakol."
+"startMs": 1109100,
+"endMs": 1113640,
+"text": "Esto es más o menos lo que está escrito. Explica por qué no tenemos una payola."
 },
 {
-"startMs": 4057000,
-"endMs": 4090000,
-"speaker": "Speaker 1",
-"text": "Y vahol quien es el único meleh es el único Adam Haitz Kulam, es por como yo agarro un mundo donde veo mil cosas y lo hago uno. Entonces esa yud tiene escondido dentro de él, si yo digo la letra yud la escribo completa. Yud hay una Fabi y una dalef. Entonces quiere decir que esa yud incluye dentro de ella y va a finesitar una Fabi y una dalef. Si agarra esta Fabi y dale se hace una Hei. Hei viene la palabra Hei, Heilaj suena Heilaj. Entonces Heilaj que es Eilaj? Heilaj o Joseph Tati que dijo Heilajem Zera tome, Entonces ahorita agarra esa ayud misma."
+"startMs": 1115900,
+"endMs": 1117840,
+"text": "Yo sí. ¿Tú sí? Claro."
 },
 {
-"startMs": 4090000,
-"endMs": 4097000,
-"speaker": "Speaker 1",
-"text": "Omegalela no. Con la tora."
+"startMs": 1125020,
+"endMs": 1133460,
+"text": "Ahí podemos ver una, una Gemara. Bueno, ya la hemos visto, pero la, este, Gemara es de alguna manera explica este inyan."
 },
 {
-"startMs": 4097000,
-"endMs": 4138000,
-"speaker": "Speaker 1",
-"text": "Con antes de la antes del malkos. Bete megalela no con la tora. Entonces betem yo puedo decir todo el mundo es akosborho, pero veo omex si lo quiero entender tengo que decir todo el mundo betem es un guilui de tora. Cómo se quiere va holand de betem? Y así puso la todos, la de Tora, esa es la E, la VAV es preciosa lavar que ahorita la VAV es que no es lo que hablamos todo el tiempo, que el Cruz Borjo es Melek, digo, la ayuda, es que yo, su manera como el mundo."
+"startMs": 1133620,
+"endMs": 1139500,
+"text": "¿Ya cierro esto? O sea, ¿vamos a ver la Gemara? Sí, sí, sí. ¿A cuál?"
 },
 {
-"startMs": 4138000,
-"endMs": 4173000,
-"speaker": "Speaker 1",
-"text": "La VAV viene a Cruz Borjo, oh, y entonces yo voy a encargarme. Como Meleg, sí, de que el Malaj de la Atlanta sea el Malaj que llega hasta el Tajlit. Entonces, si yo dejo la ayuda y la Ei, se quedan en donde en el Shamaimlek. Ahora cuando agarra la Baam, es Babajibur, Anim Jaberota, a la Olam, la Ares, la última Ei somos nosotros, Eskenege del Maljut y Biajol es nosotros somos somos los que Mekablim toda esa toda esa Anaga."
+"startMs": 1142409,
+"endMs": 1150429,
+"text": "¿Cómo sabes que Gemara-- Bere, ayer que dijiste Menajot. ¿Cómo sabes? Ahí te marca- ¿Qué? Ayer dijiste: \"A ver, háblame de Menajot, háblame de Rosh Hashaná\"."
 },
 {
-"startMs": 4173000,
-"endMs": 4209000,
-"speaker": "Speaker 1",
-"text": "La va es cuando dice hay muchos, hay muchas cosas que no se parecen. Y la \"hei\" ya es Beth me lo lama, somos nosotros, somos el el somos donde jala toda esa \"anaga\" entonces la \"hei\" no me ha hecho nada la última no me ha hecho nada, sino nada más megala todo el UK va la netila es la que el nos da todo ese kilo y nos lo da ese nos da ese kilo a nosotros."
+"startMs": 1150429,
+"endMs": 1156829,
+"text": "¿Cómo sabes? Esa me la sé. Esa me la sabía. No sé- Esta la sabías y ya te acordaste."
 },
 {
-"startMs": 4209000,
-"endMs": 4211000,
-"speaker": "Speaker 2",
-"text": "Valaila U es este."
+"startMs": 1157409,
+"endMs": 1159069,
+"text": "No, sabía, que conozco esas Gemarot."
 },
 {
-"startMs": 4211000,
-"endMs": 4243000,
-"speaker": "Speaker 1",
-"text": "Es la última, sí, es la última, sí, entonces vamos a ver, fíjense en la Miglata Esther cuando está Amalek Baolam, entonces qué se quita cuando hay Amalek Baolam, qué dijimos cuando hay el símbolo de Miguelata Esther, qué Anaga se queda Nisteret la Bab, sí o no, es la Bab, tiene planes, sí, entonces la Bab, Esa es la necuda de que Aman esta en contra de Saabab."
+"startMs": 1165229,
+"endMs": 1172689,
+"text": "No, no, me sabía esas Gemarot. No, no me sé un, eh, qué dicen de kavjet de Menajot, no sé. Qué dicen de flame tampoco sé, pero sabía que- Esta la sabías."
 },
 {
-"startMs": 4243000,
-"endMs": 4274000,
-"speaker": "Speaker 1",
-"text": "Cuál es la raya? En la Torah que dice. Cuando esta Malek, Killada, el que es? Ka, Yutkei. Donde esta la baby la hei? Cuando esta Malek, entonces a Cruzborhu no se ve. Tanto asi que veniamos de Kriat y Amsuf, y Tiat, ni Time, ni Flavo. De repente llegas a Malek, a Malek, a Michelen y Fidim. Si, vayamos al Moshalek, bajala, bajala non a Shim, y la cama a Malek. Espérate, eh. Y a Cruzborhu? El te dijo que Tilahem va a Malek, ¿dónde está el Ashemi Lachem?"
+"startMs": 1172989,
+"endMs": 1174909,
+"text": "En kav-kavtet de Menajot sí sé."
 },
 {
-"startMs": 4274000,
-"endMs": 4306000,
-"speaker": "Speaker 1",
-"text": "Ahorita me mete a Shem Lachem, sí, entonces cuando cuando está Malek va a Olam, ellos la dejan arriba, y entonces la vabia no le llega hasta la G de abajo. Sí, estamos clarísimos con lo que estoy diciendo, entonces esta es la nicuidad de Purim, que la nicuidad de Purim es que vete también si la va está escondida, nosotros podemos legal, vete el que esta puede bajar. Y fue el izgalot dentro de nosotros, la Babhei, todo el primer Mishana de la Meguilas,"
+"startMs": 1176229,
+"endMs": 1181749,
+"text": "Es kavtet, ¿no? Algo era nun. ¿Cuál era nun? Tal vez Rosh Hashaná. Rosh Hashaná. Era Pesajím, pero no la vi."
 },
 {
-"startMs": 4306000,
-"endMs": 4312000,
-"speaker": "Speaker 2",
-"text": "Se da cuenta que la baba está dormida."
+"startMs": 1183609,
+"endMs": 1184569,
+"text": "Vimos algún Pesajím."
 },
 {
-"startMs": 4312000,
-"endMs": 4348000,
-"speaker": "Speaker 1",
-"text": "La baba está dormida, es que la baba está dormida, entonces fíjense, entonces este, ahí va. \"Shana también es que bajó el hermano se despierta, desde la cuarta. Entonces la Yun, esto fue, es que tú pensabas, Cuando ki viajó no hay lavav en el mundo. Sí, porque a nosotros todos nos llega por medio de lavav, mejor. Entonces, mi mail ahorita layud, ¿quién se la robó? Parece. Ajashweros. Quién es el Mele Almea, Stream Muschama Medina? Sí, parece que cuando tú no ves lavav, cuando tú no ves lavav, tú no tienes cómo ver ni layud ni la E."
+"startMs": 1185789,
+"endMs": 1196869,
+"text": "Sí, tenía que ver, pero ya no la vimos. Vimos nada del Cuchi Moní, que era lo mismo, nada más que más explicado. ¿Qué abrimos, Rabí?"
 },
 {
-"startMs": 4348000,
-"endMs": 4385000,
-"speaker": "Speaker 1",
-"text": "Estamos de acuerdo? Porque, entonces, ¿quién es el layud, Bethel que incluye todo el Olam Kulo? Ajashweros. Por eso en la segunda dirección de la hermana, véanla, es porque, porque es que Ajasferoz agarró los que lim del Beta Mikdash, el se robó el Beta Mikdash, el se convirtió en la Yud. Sí, entonces durante toda la Meguila de Sayud parecía que quién tenía Sayud, Ajasferoz, pero ¿quién es el Meleg? Pues Borjo, pero eso está Nistar o está Megule, está Nistar, sí, la hay es cuál es la Ashkafak que hay en el mundo, quién es."
+"startMs": 1198429,
+"endMs": 1199269,
+"text": "Meguilá Yut-tet."
 },
 {
-"startMs": 4385000,
-"endMs": 4418000,
-"speaker": "Speaker 1",
-"text": "Decir quién, cuál es la Torá? Quién la nagueda en el mundo es quién tiene las cafas del mundo? Entonces, quién tiene, quién parece que tiene la Ei, Bethem es Bethem, Bethem Beth, es Mordejai, pero ¿quién se la está robando? La Ei se la está robando a Jasferoz, Seyaman, este morita, tienen otra nagueda aquí son Isbais, liberalismo, todo lo que hablamos la vez pasada, Bethem es la Ei se la están robando ellos, sí. Pero Mordejai dice no, no, el mundo ve eche no es la gente, el mundo a mi tía es la gente."
+"startMs": 1204929,
+"endMs": 1207989,
+"text": "Bueno, de alguna manera se entendió que tiene que ver con nuestra..."
 },
 {
-"startMs": 4418000,
-"endMs": 4449000,
-"speaker": "Speaker 1",
-"text": "Ah, ¿no lo ves? Por qué no la ves? Porque no hay Bab. Entonces, ¿quién es la Bab? Quién está? Quién es el yate de tequai en la Bab? Es Aman. Sí, Aman es Amalek, Kiyadalkezka. Entonces la tercera, Necudá es Tokfosh el Aman, es Bethem, que él es la fuerza en el mundo, la fuerza en el mundo, el kuaj en el mundo, SBS los tiene a mano. Entonces todas esas tres Necudot están nistarot. La Yud, la E y la Bab está nistarot."
+"startMs": 1209789,
+"endMs": 1218749,
+"text": "Todo esto tiene que ver con nuestra... A ver, a ver, aterrizalo. Gemara. Aterrizalo. No, están, que todo el iniano es regresar a Panim ve-Panim y que- Eso sí."
 },
 {
-"startMs": 4449000,
-"endMs": 4496000,
-"speaker": "Speaker 1",
-"text": "Cuándo? Fíjense, la E somos nosotros, ¿no? Entonces en el Zefer Torah, le viduk a Fuj. La Yud, la E y la Bab es la página de Zefer, Esquiva Holt, la Nagada de Kusborohok, suman, hijos de Amaspía. Entonces en el Zefer a Fuj, se no se me gule. El Shure Tefer es la E. Si me explico? Es la página de Higuert, la Torah Savalpé. Pues nosotros es la G, pero en la Meguila, hafzafuhlegambre, la pjinade estefer que hay en el en la Meguila, Kiwiahol, que es la ayuda Heila Babes, Kiwiahol, el Helek da Kusbolhu, Denistar, el Helek nuestro, ahorita se va a hacer el Kalui, entonces la última G que es Balailau Naderachna también, el que se llama Dogfoshelnes."
+"startMs": 1218969,
+"endMs": 1225189,
+"text": "Y que el din es la dormita y que ese es le tov. Eso, eso sí. Es ese. Eso sí. Ya."
 },
 {
-"startMs": 4496000,
-"endMs": 4532000,
-"speaker": "Speaker 1",
-"text": "Ness fue. La página de Igeret, vamos a llamarle la página de nosotros, que de repente ahí en un instante todo ahorita, el que el que se despertó no fue, no se fue, sino nada de Dam Snand, el que se despertó, que iba a gol, Sí, entonces, entonces mi mail es la Judith Gala que no es feroz, ve este mele a mi tía es Chris Borju, la hay esa me mete es mordejai, la vav si es la vav ahorita ya y lo ahí se le decretó este maman, no se extermina, no vale ya no tiene."
+"startMs": 1225349,
+"endMs": 1233629,
+"text": "¿Ya? Digo, o sea, ahorita vemos- Que se irán, pin, como de ajor be ajor, eh, que cuál es el yesod de aba, que es el-- qué pasa."
 },
 {
-"startMs": 4532000,
-"endMs": 4574000,
-"speaker": "Speaker 1",
-"text": "No, entonces mi mail la Chris Borju, megale vete en su va, pero todo eso megale en la hay, entonces sale que la original del sefer en la Meguila, son las tres primeras ciudad, la original de Igeret es la cuarta ciudad que todas las primeras tres ciudad no existen, Hasta que no haya la cuarta cita, me explico porque hasta ahorita viaja seroske y este que, y este que, entonces si es cita que tú puedes ver este leer, mi hija en Corea, lamta miquila ver este va de jova, pero tú puedes leer desde ahí es la nakuda de Iguet, ahí es bien la nakuda de Iguet, desde ahí puedes leer bulbache tek tu bakula, entonces vete me viajas entre la mishna y la llamara en una palabra es que la mishna."
+"startMs": 1234909,
+"endMs": 1235269,
+"text": "Eso."
 },
 {
-"startMs": 4574000,
-"endMs": 4607000,
-"speaker": "Speaker 1",
-"text": "Es vibhinat, sefer y la llamara, porque que es la llamara la que megalam, si quetuba mishnah sí, entonces Rajbi, sube es el gira, el que megalen los odos sí, Rajbi es es vetem, son tres hitados que están en la mishnah y pero vetem dirías que makesh es de loigari, sí, viene Rajbi, as megalalha, la nikuda, vete, dos vochones, que as bimeratta vinchikam, También es el Kilui de la Jude, es el Kilui de la Hey, es el Kilui de la Fat."
+"startMs": 1236769,
+"endMs": 1244349,
+"text": "Entonces, a ver, vamos a ver esta Gemara. Meguilá Yut-tet. ¿Tienen?"
 },
 {
-"startMs": 4607000,
-"endMs": 4613000,
-"speaker": "Speaker 1",
-"text": "Pero eso está allá más en la oficina que se llama Quemarada."
+"startMs": 1245849,
+"endMs": 1246289,
+"text": "Por A dónde."
 },
 {
-"startMs": 4613000,
-"endMs": 5768277,
-"speaker": "Speaker 1",
-"text": "Esta es la oficina de la Iguerit. Eh? Ramer es la Jude. Luego venimos tú."
+"startMs": 1249629,
+"endMs": 1252249,
+"text": "Es la Mishná, hay una Mishná, Yut-tet ."
+},
+{
+"startMs": 1253529,
+"endMs": 1253769,
+"text": "A ver."
+},
+{
+"startMs": 1257469,
+"endMs": 1267589,
+"text": "Ah, es los veintinueve, ahí está, sí, sí es veintinueve. Veintitres. Dice la Mitná, la Mishná, dice: \"Mejan koreh Adam et ha-Meguilá be-yetzeh váyej de Jova\"."
+},
+{
+"startMs": 1269029,
+"endMs": 1269988,
+"text": "Rab Meiromer kula."
+},
+{
+"startMs": 1272149,
+"endMs": 1273369,
+"text": "Rab Iehuda Omer meish yehudí."
+},
+{
+"startMs": 1274709,
+"endMs": 1281029,
+"text": "Rab Yoshi Omer me ajará devarim ha-ele. Entonces, la pregunta de la Mishná es: ¿desde dónde puedo empezar a leer la Meguilá? Hasta el día de Jova."
+},
+{
+"startMs": 1281049,
+"endMs": 1288189,
+"text": "Hasta el de Jova. Entonces, aquí hay tres shitot, ¿sí? Rab Meir dice toda. Rab Iehuda dice no."
+},
+{
+"startMs": 1289189,
+"endMs": 1295969,
+"text": "En perek bet, meish yehudí. Rab Yoshi Omer es perek guimel. Ajará devarim ha-ele. Eso es Amán."
+},
+{
+"startMs": 1301549,
+"endMs": 1307589,
+"text": "Vamos a la Gemara de esto. Están los dos puntos ahí a la mitad. Dice: \"Mejan koreh Adam et ha-Meguilá\". ¿Tienen?"
+},
+{
+"startMs": 1309069,
+"endMs": 1315729,
+"text": "Tania rab Shimón bar Jaya Omer mibalaila hau. Entonces, de ahí se puede leer la Meguilá para seguir de Jova."
+},
+{
+"startMs": 1316529,
+"endMs": 1319729,
+"text": "Es más todavía. La verdad Shemna Tamej. ¿Cómo? Es mucho más. Perek vav. Vav."
+},
+{
+"startMs": 1321689,
+"endMs": 1323929,
+"text": "Am rab Iehuda, na, na, kula mikra ejadal su--"
+},
+{
+"startMs": 1325209,
+"endMs": 1331349,
+"text": "tichtó et el ha-malca Mordejai yehudí et kol tókev. Escribieron todo el tókev. Tókev es la fuerza."
+},
+{
+"startMs": 1332249,
+"endMs": 1334189,
+"text": "Ma de amar kula tókev de Ajasverosh."
+},
+{
+"startMs": 1336809,
+"endMs": 1344749,
+"text": "Ma de amar meish yehudí, tókev de Mordejai. Ma de amar me ajará devarim ha-ele, tókev de Amán. Ma de amar mibalaila hau, tókev del Nes."
+},
+{
+"startMs": 1345089,
+"endMs": 1353569,
+"text": "Entonces, ya que la de Meguilá se define como et kol tókev. ¿Sí? Entonces, tenemos que saber cuál es el tókev que se escribe."
+},
+{
+"startMs": 1354129,
+"endMs": 1363669,
+"text": "O el tókev de Ajasverosh, o el tókev de Mordejai, o el tókev de Amán, o el tókev del Nes. Pero de ahí podemos aprender que se ella leer menos."
+},
+{
+"startMs": 1365169,
+"endMs": 1371329,
+"text": "Porque de hecho, en la Meguilá se define como el tókev. Entonces, si yo entiendo cuál es el tókev, entonces ya salgo de Jova de la Meguilá."
+},
+{
+"startMs": 1373649,
+"endMs": 1380369,
+"text": "Ahora, igual está pele. Si me-- si cae un din que puedes leer menos, menos de todo. Te dije: \"Lee la Meguilá este\"."
+},
+{
+"startMs": 1380369,
+"endMs": 1387489,
+"text": "¿Sí? No, puedo leer menos. ¿Desde dónde? Digo, lee este libro. A ver, ¿desde dónde ya salgo ya de Jova?"
+},
+{
+"startMs": 1387649,
+"endMs": 1391789,
+"text": "¿Qué sí? Lo quieres leer, te estoy diciendo que lo leas. ¡Léelo!"
+},
+{
+"startMs": 1393209,
+"endMs": 1396109,
+"text": "Rabuna amar me ajá. Uma raú al kaja maguía lehem."
+},
+{
+"startMs": 1398009,
+"endMs": 1402049,
+"text": "Mandá amar kula, ma raá Ajasverosh que ni está más de kelim del Bet Hamikdash."
+},
+{
+"startMs": 1403249,
+"endMs": 1411469,
+"text": "Entonces, ma raú al kaja, es que vio Ajasverosh por usar los kelim del Bet Hamikdash, al kaja, Mishum de Jashim shivim shinin ve-lo yifluk."
+},
+{
+"startMs": 1412449,
+"endMs": 1419589,
+"text": "Ma hijuiá lehem, ¿y qué le pasó por eso? De kata al Vashti, que mató a Vashti. Mandá amar mi- ¿Qué quiere ver?"
+},
+{
+"startMs": 1420589,
+"endMs": 1423749,
+"text": "Que lo que le pasó a él por usar los kelim del Bet Hamikdash- Es un castigo."
+},
+{
+"startMs": 1425529,
+"endMs": 1426549,
+"text": "Incluso que él mismo la mató."
+},
+{
+"startMs": 1428069,
+"endMs": 1434649,
+"text": "O sea, mató a su esposa. El galgal al final. El galgal al final. Mandá amar mi Ish yehudí, ma raá Mordejai de ikné be-Amán."
+},
+{
+"startMs": 1435309,
+"endMs": 1441589,
+"text": "Que vio Mordejai en, ¿sí? En querer, eh... Así, que vio Mordejai."
+},
+{
+"startMs": 1441689,
+"endMs": 1449929,
+"text": "Amán en, eh-- que vio Mordejai en no postergarse a Amán. Al kaja de shá be nafshi a Abudázar, porque él se quiso hacer a Abudázar."
+},
+{
+"startMs": 1450169,
+"endMs": 1457669,
+"text": "Uma hijuiá lehem ditráj ish nisá. Entonces, por ese gezajut tuvo un nes. La contestarla de ayer en la noche que te preguntaste si era Abudázar o no."
+},
+{
+"startMs": 1457729,
+"endMs": 1467889,
+"text": "Mhm. Sí, Eduardo dijo que la Amán es que es Abudázar. Uma de amar me ajará devarim ha-ele, ma raá Amán se nitganá be jol yehudim, al kaja, Mishum de Mordejai lo hijrá ve lo jischajave."
+},
+{
+"startMs": 1468749,
+"endMs": 1471489,
+"text": "Ma hijuiá lehem ve talú otó bet vanav al ha-etz."
+},
+{
+"startMs": 1473389,
+"endMs": 1482849,
+"text": "Mandá amar mibalaila hau, ma raá Ajasverosh le abiet zefer hazijronot, al kaja, de smint ester le Amán be adé."
+},
+{
+"startMs": 1483789,
+"endMs": 1490689,
+"text": "Entonces, le entraron dudas. Ma hijuiá lehem ditráj ish nisá, ¿sí?"
+},
+{
+"startMs": 1491289,
+"endMs": 1494469,
+"text": "Que pasó un nes. Amar rab Chelbo, amar rab Jama bar Guria, amar rab."
+},
+{
+"startMs": 1495729,
+"endMs": 1501829,
+"text": "Halaja que Omer-- eh, eh, eh, eh, amar rab. Halaja que dibreha Omer- Kula. Kula."
+},
+{
+"startMs": 1501829,
+"endMs": 1508429,
+"text": "¿Sí? Ve afilo de amar amar mi Ish yehudí, tsrichá she tejé ctuvá kula."
+},
+{
+"startMs": 1510659,
+"endMs": 1512739,
+"text": "Necesita estar escrita toda."
+},
+{
+"startMs": 1514939,
+"endMs": 1522959,
+"text": "Entonces, a filo que el que diga Mishudi, que ese es el que más exige leer del que no dice que leas toda, pero tiene que estar escrita toda."
+},
+{
+"startMs": 1525439,
+"endMs": 1533439,
+"text": "Ramarujel, Ramaruj, Jamabar Guria- ¿Qué pasa con los demás? O sea, también se refiere a los demás, ¿o no? ¿Qué? O sea, ¿qué pasa con el Mandamar, que es- Calpojome."
+},
+{
+"startMs": 1533899,
+"endMs": 1538579,
+"text": "A filo, el que dice Mishudi, que es Perekbet. Tienes que saber que este es Perek-- Ale."
+},
+{
+"startMs": 1539899,
+"endMs": 1546119,
+"text": "Y el que dice que empieza a Perek Gimal, también. Kol shiken. ¿Está escrito Olifibet? Kol shiken. Sí. A filo que ya leí muchísimo."
+},
+{
+"startMs": 1546139,
+"endMs": 1553299,
+"text": "¿Sí? Entonces, tiene que estar escrita toda. Si lees poquito, kol shiken que tiene que estar escrita toda. Dice..."
+},
+{
+"startMs": 1556099,
+"endMs": 1559179,
+"text": "Entonces, hasta ahorita, ¿qué tenemos? Cuatro suitot desde donde se lee."
+},
+{
+"startMs": 1560899,
+"endMs": 1561139,
+"text": "Mhm."
+},
+{
+"startMs": 1562499,
+"endMs": 1565699,
+"text": "Tenemos cuatro suitot desde donde se lee la-la Meguilá para salir de Jehová."
+},
+{
+"startMs": 1567159,
+"endMs": 1574479,
+"text": "Y-- pero le kul alma se necesita estar escrita toda y la halaja es que hay que leerla toda. ¿Sí?"
+},
+{
+"startMs": 1574598,
+"endMs": 1576819,
+"text": "\"Vamarujel,Vamaruj, Jamabar Guria, Marab."
+},
+{
+"startMs": 1578119,
+"endMs": 1585519,
+"text": "Meguilá Nikret Sefer, Nikret Igeret\". Se llama Sefer, se llama Igeret. Nikret Sefer, \"Shintafrá Bejute Pishtán Psulá\"."
+},
+{
+"startMs": 1586959,
+"endMs": 1592059,
+"text": "Por eso, por eso se llama Sefer. Algo habías dicho de esto. Sí, ya lo has escuchado entonces."
+},
+{
+"startMs": 1593379,
+"endMs": 1599539,
+"text": "Algo ya me acuerdo de esto. Sí. La hemos estudiado esta. Dice: ¿Por qué se llama Sefer?"
+},
+{
+"startMs": 1599539,
+"endMs": 1602719,
+"text": "\"Shintafrá Bejute Pishtán Psulá\"."
+},
+{
+"startMs": 1605479,
+"endMs": 1611719,
+"text": "Que si necesita ser algo duro, algo que agarre fuerte cada hoja de la Meguilá. Por eso se llama Sefer."
+},
+{
+"startMs": 1611739,
+"endMs": 1623759,
+"text": "\"Venikreti Igeret, Shemitil Bashlosaj Hutei Gidin Sheigo\". Dice que no necesita estar completamente cosida, sino alcanza con tres--"
+},
+{
+"startMs": 1625119,
+"endMs": 1633259,
+"text": "que tres, eh- Cosidas. Cosidas. \"Amarab Nachman Bilvachi Meshulashin\"."
+},
+{
+"startMs": 1634219,
+"endMs": 1643819,
+"text": "Que esté-- que haga tres con la misma distancia entre cada uno. Ah, ¿eso es? Sí. \"Amarabiuda Amar Shmuel\"."
+},
+{
+"startMs": 1645199,
+"endMs": 1651699,
+"text": "Entonces, segunda halaja que tenemos, que al parecer no tiene nada que ver, es que la Meguilá se llama Sefer y se-se llama Igeret."
+},
+{
+"startMs": 1652179,
+"endMs": 1657119,
+"text": "La Nafkamina es para cómo se cose la Meguilá, cómo se cose la Meguilá."
+},
+{
+"startMs": 1658339,
+"endMs": 1670918,
+"text": "Siguiente membra. \"Amarabiuda Amar Shmuel. Akorebe Meguilá Actuaba en Actubim lo yatsa\". Actubim es que está escrito todo el Tanaj, y parte del Tanaj es la Meguilá."
+},
+{
+"startMs": 1671438,
+"endMs": 1675399,
+"text": "Entonces, si lees una Meguilá que es parte de un Tanaj completo, no sirve."
+},
+{
+"startMs": 1680619,
+"endMs": 1686759,
+"text": "\"Amaraba lo amarán el adelomejastra umeiatra purta. Almejastra umeiatra purta letamba\"."
+},
+{
+"startMs": 1687559,
+"endMs": 1697799,
+"text": "Si no hay nada de que, de que separe, que puedas identificar la parte de arriba de la parte de abajo- O sea, empiezas como en página nueva, más o menos."
+},
+{
+"startMs": 1697859,
+"endMs": 1706579,
+"text": "Sí, aunque, aunque le dejes un reglón también, pero si viene corrido, ahí es psulá. \"Leivi Bar Shmuel que carecame de rabió Meguilá Actuaba en Actubim\"."
+},
+{
+"startMs": 1707219,
+"endMs": 1717299,
+"text": "O sea, una mamá shctuvá en Actubim, o sea, es una que no había, eh, meiatra purta, nada, venía corrida. \"Amarleare amrua korevegilá de Actubim lo yatsa\"."
+},
+{
+"startMs": 1717519,
+"endMs": 1725259,
+"text": "Dice: \"No, no estás bien\". ¿Sí? \"Amarab Chievara, Amarabiuchon. Akorevegilá Actuba en Actubim lo yatsa\"."
+},
+{
+"startMs": 1725999,
+"endMs": 1732639,
+"text": "Dice la emana: \"Umajula amoja\". Dice Rashi: \"Ikubekodkoda. La haja Shmuel zo ika el kodkoda."
+},
+{
+"startMs": 1732839,
+"endMs": 1737819,
+"text": "Klomar satar miktata veama lo amru ela betsibur\". Mhm."
+},
+{
+"startMs": 1739879,
+"endMs": 1747079,
+"text": "Dice: \"Majula amoja betsibur shán\". O sea, le pegaron en la cabeza de esta halaja. ¿Cuál halaja?"
+},
+{
+"startMs": 1747119,
+"endMs": 1756659,
+"text": "De la halaja. Y le cambiaron su esencia. Solo el problema de que Actubim en Actubim es en tsibur."
+},
+{
+"startMs": 1757339,
+"endMs": 1764739,
+"text": "En yahid se puede, porque eso se llama un majula amoja. Le pegaron en el moj de esa halaja."
+},
+{
+"startMs": 1764759,
+"endMs": 1774339,
+"text": "¿Por qué arra-- arriba, por ejemplo, cuando Raba nos dijo: \"Akorevemilán Actub. Anemilé, cuando lo mejastra lo meiatra purta\"."
+},
+{
+"startMs": 1774559,
+"endMs": 1780938,
+"text": "Pero si mejastra lo meiatra purta, está bien. Igualmente, aquí puedes decir: \"Anemilé, betsibur."
+},
+{
+"startMs": 1781499,
+"endMs": 1788659,
+"text": "Abel beyahid, yo estoy de Jehová\". ¿Sí? Entonces, ¿por qué es aquí un majula amoja? Entonces, ¿qué significa un majula amoja?"
+},
+{
+"startMs": 1788719,
+"endMs": 1798119,
+"text": "Majula amoja es que a veces yo digo: \"Repártenle dulces a todos los niños\". ¿Sí? Y les digo: \"Pero a un niño no, a ese niño no le repartan\"."
+},
+{
+"startMs": 1798938,
+"endMs": 1808539,
+"text": "Entonces, ¿de qué depende si es majula amoja o no es majula amoja? Entonces, si yo digo: \"A ese niño no le repartan porque ya le repartí\", ¿es un majula amoja eso?"
+},
+{
+"startMs": 1808719,
+"endMs": 1815859,
+"text": "No. Sino simplemente es-- el clan sigue siendo el mismo, nada más que cambió un detalle en el prat."
+},
+{
+"startMs": 1816799,
+"endMs": 1824339,
+"text": "Pero si yo digo: \"Pero a este niño no le repartan\", me dicen: \"¿Por qué?\" \"Porque solo le reparto a los que sacaron diez."
+},
+{
+"startMs": 1824619,
+"endMs": 1831979,
+"text": "Él sacó nueve\". Se llama un majula amoja. Sí, antes pensábamos- Cambiando la esencia. Que estoy repartiendo dulces a toda la clase."
+},
+{
+"startMs": 1832039,
+"endMs": 1842899,
+"text": "Pues eso, bueno, ahorita no, es un premio al que sacó diez. Ya, es diferente. Claro, cambia la esencia. Entonces, ¿por qué acá el entender que este din es nada más en tsibur, pero en yahid no hay problema,"
+},
+{
+"startMs": 1844359,
+"endMs": 1852239,
+"text": "se llama un majula amoja? Sí, eso hay que entender. Y más, hay que entender cómo puede ser. Mi mano, la Meguilá es psulá o es k'sheará."
+},
+{
+"startMs": 1852659,
+"endMs": 1858938,
+"text": "Está escrita en Actubim. Trae alguien te trae un Tanaj. ¿Es k'sherá o es pasul?"
+},
+{
+"startMs": 1859938,
+"endMs": 1867359,
+"text": "Dice: \"No, depende\". ¿Por qué depende? Si la lee solo, k'sher. Si hay otras diez personas contigo, pasul."
+},
+{
+"startMs": 1867359,
+"endMs": 1873259,
+"text": "¿Cómo puede ser algo así? Luego ven, luego ven, cuál es el yesod acá. Sí."
+},
+{
+"startMs": 1875959,
+"endMs": 1883447,
+"text": "Claro. Entonces, ¿qué tenemos hasta acá? Primero tenemos el tema: mehijen korena de-ta megilá, ve-yotze vaiye de Jehová."
+},
+{
+"startMs": 1884007,
+"endMs": 1891907,
+"text": "Segundo tema es que todo tiene que estar escrita todo. Aunque se puede empezar después, pero tiene que estar escrita todo."
+},
+{
+"startMs": 1891967,
+"endMs": 1893327,
+"text": "Todo el halajás que se lee, todo."
+},
+{
+"startMs": 1894527,
+"endMs": 1906167,
+"text": "Tercer, tercer tema que tenemos acá, ¿cuál es? Eh, que la megilá se llama sefer, se llama higueret nafcamina para lajot de tefira."
+},
+{
+"startMs": 1907327,
+"endMs": 1915747,
+"text": "Se llama sefer, que tiene que ser, que no puede ser con pishtán, que es muy débil. Se llama higueret, que no tiene que estar cocida completamente."
+},
+{
+"startMs": 1916007,
+"endMs": 1924147,
+"text": "Con tres ya. Sí. Entonces, hasta ahorita llevamos dos temas en el resumen. Tercer tema: megilá ctuvá ben actuvím"
+},
+{
+"startMs": 1925367,
+"endMs": 1933287,
+"text": "lo yotze. Todo lo que no yotze. Pero todo lo que no yotze es davka de cibúr, pero en yahitzi. Es del tercer tema que hay acá."
+},
+{
+"startMs": 1934067,
+"endMs": 1943447,
+"text": "Tres temas que parecen independientes. Cuarto tema: Va amar rabí, va a rabí Yonón. Shiurá tefer al ojeles Moisés y Sinái."
+},
+{
+"startMs": 1944807,
+"endMs": 1946767,
+"text": "Dice: ahora es una halajá de sefer Torá."
+},
+{
+"startMs": 1948407,
+"endMs": 1953206,
+"text": "Sefer Torá sí va cosido completo. Pero hay que dejarle arriba y abajo..."
+},
+{
+"startMs": 1954706,
+"endMs": 1961267,
+"text": "Cinco C. Cinco C. Cinco-- sí, que así, arriba está así y abajo está así."
+},
+{
+"startMs": 1961987,
+"endMs": 1968147,
+"text": "Pero está cosido completamente, tienes que dejar. Entonces, shiurá tefer, en un sefer Torá hay que dejar el tefer."
+},
+{
+"startMs": 1968887,
+"endMs": 1975987,
+"text": "Dice: ¿dónde aprendemos? Halajá de Moisés y Sinái. Umahula Amoja. Le pegaron en el moho de esta halajá."
+},
+{
+"startMs": 1976027,
+"endMs": 1984567,
+"text": "¿Por qué? Veloiam brujo ela que de sheloy kará. No es halajá de Moisés y Sinái, sino es para que no se rompa el Sefer Torá."
+},
+{
+"startMs": 1986547,
+"endMs": 1990427,
+"text": "Porque esto se llama un majula moja. A lo mejor halajá de Moisés y Sinái era por ese motivo."
+},
+{
+"startMs": 1992467,
+"endMs": 1999387,
+"text": "Majula moja es que la cancelaron, ¿no? No. Lo majula moja- Le pegaron en el moho. Le pegaron en el moho de esa halajá."
+},
+{
+"startMs": 2000067,
+"endMs": 2002427,
+"text": "Entonces, dice: veloiam brujo ela que de sheloy kará."
+},
+{
+"startMs": 2006447,
+"endMs": 2015087,
+"text": "Ilmale nishtayer bemeara sheamat bam Moshe ve Eliyahu. Nuevo tema. Entonces, esta fue una halajá de hiljot Sefer Torá."
+},
+{
+"startMs": 2016067,
+"endMs": 2024547,
+"text": "Que el Sefer Torá tiene que tener shiur. ¿Sí? Ma, que ayer, porque hablamos en firot de megilá, para hacer dos membró."
+},
+{
+"startMs": 2025247,
+"endMs": 2031867,
+"text": "Porque una antes fue que actuaba en actuvím. Para hacer dos hablamos de... ¿De qué hablamos una antes?"
+},
+{
+"startMs": 2032167,
+"endMs": 2039827,
+"text": "De la tefilá. De la tefilá de la megilá, que ni quiere sefer, ni quiere tiguéret. Ahora hables de hiljot tefilá de Sefer Torá, que hay que dejar un shiur de un tefer."
+},
+{
+"startMs": 2039827,
+"endMs": 2045127,
+"text": "¿Sí? Amar rabí, rabí Johanán."
+},
+{
+"startMs": 2046667,
+"endMs": 2053827,
+"text": "Ilmale nishtayer bameara sheamat ba Moshe ve Eliyahu kimlo néket macha tzidkit. Moisés y Eliyahu,"
+},
+{
+"startMs": 2056167,
+"endMs": 2063306,
+"text": "sí, tuvieron un giluy fuertísimo. ¿Sí? Dice Rashi: Sheamat ba Moshe."
+},
+{
+"startMs": 2063867,
+"endMs": 2071827,
+"text": "Que Shaba el Hakadosh Baruj Hu lefanav, sheh nemar ve zamtija ve nikrá tatsur, ve Eliyahu af hu aman ve otam meara."
+},
+{
+"startMs": 2072507,
+"endMs": 2079206,
+"text": "Eliyahu, después de nevia Baal, también él se paró en esa meara. ¿Sí? Las dos historias aparecen en nuestra gemara."
+},
+{
+"startMs": 2079306,
+"endMs": 2080127,
+"text": "¿Sí?"
+},
+{
+"startMs": 2081947,
+"endMs": 2088287,
+"text": "Dice: Eliyahu af hu aman ve otam meara. Ve hava el Hakadosh Baruj Hu lefanav, sheh nemar: Vayo vo sham el ha meara."
+},
+{
+"startMs": 2088427,
+"endMs": 2096647,
+"text": "Vayo mer tzer aman tavar. Vihe né Hashem ové. Entonces, Hashem iba a pasar ahí, iba a litgalot ahí. Dice: macha tzidkit."
+},
+{
+"startMs": 2097647,
+"endMs": 2113067,
+"text": "Dice-- ¿Qué es un macha tzidkit? Que hubiera habido en esa meara un hoyo que sale esa luz hacia afuera. Dice: shelanu shehi daka ve tofrim ba tzidkei vegedim, vi es macha tjahet gasa, si ni quiere macha shel shakaim."
+},
+{
+"startMs": 2113467,
+"endMs": 2123367,
+"text": "Pero este es el macha más delgado que hay. Si hubiera una pizquita en esa meara que sale hacia afuera, en ese gilul que hubo,"
+},
+{
+"startMs": 2124846,
+"endMs": 2132167,
+"text": "entonces, ¿qué hubiera pasado? Dice: Lo hayuj olam lamot nipenej ahora. No hubieran podido soportar a Misraele esa luz."
+},
+{
+"startMs": 2132227,
+"endMs": 2138387,
+"text": "Sheh nemar: Kiloy iran a Adam Bajai. Y por eso ayer también tapó a Moshé. Me sacó tit kapia leja."
+},
+{
+"startMs": 2138507,
+"endMs": 2143327,
+"text": "¿Sí? Y también a Moshé mismo no le dejó ver."
+},
+{
+"startMs": 2144607,
+"endMs": 2155027,
+"text": "Pero Moshé tenía que estar ahí. Y era un gilul tremendo en ese lugar. Moshé no lo podía ver y, eh, iba a salir hacia afuera."
+},
+{
+"startMs": 2155027,
+"endMs": 2161767,
+"text": "¿Sí? O sea, si salía hacia afuera, lo iran a Adam Bajai. Con un alfiler que salga para afuera."
+},
+{
+"startMs": 2161827,
+"endMs": 2164007,
+"text": "Con un alfiler que salga para afuera, lo iran a Adam Bajai."
+},
+{
+"startMs": 2166127,
+"endMs": 2172687,
+"text": "Última membrá. Toda la gente de afuera no hubiera aguantado. Sí. Va a mar rabí, va a mar rabí Johanán."
+},
+{
+"startMs": 2173647,
+"endMs": 2178547,
+"text": "Ma hi dijtiva lehem, ki jol ha dvarim ashel diber Hashem imajem."
+},
+{
+"startMs": 2179867,
+"endMs": 2182307,
+"text": "Bahar, enséñales todas las cosas que--"
+},
+{
+"startMs": 2185667,
+"endMs": 2193067,
+"text": "de la montaña. Melamed, que era el Hakadosh Baruj Hu le Moishe. Dikdukei Torá. Ve dikdukei sofrim."
+},
+{
+"startMs": 2193227,
+"endMs": 2199187,
+"text": "Uma aseha sofrim atirin le jadesh. Y lo que los sofrim van a le jadesh."
+},
+{
+"startMs": 2201067,
+"endMs": 2207187,
+"text": "Mmm, hmm. ¿Y ma hi nihu? ¿Qué son las cosas que los sofrim van a le jadesh? Mikra megilá. Mikra megilá."
+},
+{
+"startMs": 2207327,
+"endMs": 2213386,
+"text": "Que Hashem le reveló a Moshé ya desde Har Sinái lo que los sofrim van a le jadesh, que es mikra megilá."
+},
+{
+"startMs": 2213507,
+"endMs": 2217467,
+"text": "¿Sí? Entonces, es la última membrá."
+},
+{
+"startMs": 2219007,
+"endMs": 2227267,
+"text": "Entonces, ¿qué tiene que ver la meara de Moshé y Eliyahu con todos los temas? ¿Qué tiene que ver acá- El Sefer Torá."
+},
+{
+"startMs": 2227346,
+"endMs": 2236167,
+"text": "El, el, el, el, eh, el din es-- el, el inian este que Hashem le enseñó a Moshe Rabenu ya desde Mo-- ya desde, desde Har Sinái."
+},
+{
+"startMs": 2236787,
+"endMs": 2243027,
+"text": "Ma shehas sofrim atidín le jadesh. Que qué es mikra megilá. ¿Sí?"
+},
+{
+"startMs": 2243047,
+"endMs": 2247987,
+"text": "¿Cómo, cómo se puede relacionar los temas? ¿Sí? Sí."
+},
+{
+"startMs": 2251247,
+"endMs": 2256227,
+"text": "Matomer, ¿dónde hay sharim? ¿Dónde hay keshar entre las cosas?"
+},
+{
+"startMs": 2263187,
+"endMs": 2267087,
+"text": "¿Qué tipo de que-- sharim puedes encontrar? ¿Sacó el champiñón de acá? Sí."
+},
+{
+"startMs": 2276386,
+"endMs": 2277467,
+"text": "Y desde ahí toda esa historia."
+},
+{
+"startMs": 2283758,
+"endMs": 2284979,
+"text": "Agarra las últimas tres."
+},
+{
+"startMs": 2286779,
+"endMs": 2290339,
+"text": "Shiur hatefer halaja leMoshe misinai, es la halaja del Sefer Torá."
+},
+{
+"startMs": 2291979,
+"endMs": 2293799,
+"text": "Mhm. ¿Sí? Sí."
+},
+{
+"startMs": 2295238,
+"endMs": 2297078,
+"text": "Luego la de la םארת y luego la de,"
+},
+{
+"startMs": 2298819,
+"endMs": 2306339,
+"text": "la de ikar hasug guilgul masjasufrim atidim lejahedes, que es Mikra Megilá. Sí. ¿Qué puedes deducir"
+},
+{
+"startMs": 2307859,
+"endMs": 2317158,
+"text": "de la misma Gemara minei ube, minei ube, sin saber ningún yeda, sin, sin entender nada, sin...? No sabemos nada, no sabemos ni qué es lo iran ni Adam Vajai."
+},
+{
+"startMs": 2317519,
+"endMs": 2325819,
+"text": "No sé nada, nada sé. Pshat peshut de Gemara. Yo puedo, ve, usar una membrá para entender cosas de otra y usar una membrá para entender cosas de otra."
+},
+{
+"startMs": 2326658,
+"endMs": 2335019,
+"text": "O sea, dónde hay champiñones y dónde- Shiur, shiur. Muy bien, muy bien. ¿Qué shiur hay arriba? El primero, la cosida."
+},
+{
+"startMs": 2335299,
+"endMs": 2342839,
+"text": "Estamos hablando que tiene que haber una cosida arriba y abajo. Ajá. Luego, en la segunda, y en la segunda queda algo de la, del or, del, de la םארת."
+},
+{
+"startMs": 2343939,
+"endMs": 2344299,
+"text": "Shiur,"
+},
+{
+"startMs": 2345638,
+"endMs": 2351198,
+"text": "nishtayer. Nishtayer, nishtayer. La mismita palabra, nishtayer. Entonces, quiere decir que el shiur hatefer"
+},
+{
+"startMs": 2352658,
+"endMs": 2356098,
+"text": "del Sefer Torá se relaciona con nishtayer"
+},
+{
+"startMs": 2358098,
+"endMs": 2367879,
+"text": "de la םארת. De la םארת. Okey. Y la última es- Espérate un segundo. Ya nada más la única cosa que ves es el shiur o ves una palabra más que a lo mejor tiene que ver."
+},
+{
+"startMs": 2368118,
+"endMs": 2368819,
+"text": "A ver, dame un segundo."
+},
+{
+"startMs": 2374779,
+"endMs": 2381078,
+"text": "No, majul hamojá, pero hasta el final no. No, no, por el majul hamojá. No, no. Shiur, shiur, pero ¿qué más?"
+},
+{
+"startMs": 2381178,
+"endMs": 2386979,
+"text": "Tefer, tefer aparece abajo, no aparece abajo. No hay tefer. A ver, déjame ver tefer en la de, la םארת."
+},
+{
+"startMs": 2388919,
+"endMs": 2396779,
+"text": "El malen nishtayer. ¿Qué es un majat? ¿Para qué se usa el majat? A ver, kemiló nekew majat."
+},
+{
+"startMs": 2396939,
+"endMs": 2403399,
+"text": "¿Qué es un majat? Majat es un alfiler. ¿Pa qué se usa? Para picar, para ama-- para coser. Pa coser. ¿Pa coser?"
+},
+{
+"startMs": 2405879,
+"endMs": 2412738,
+"text": "Pero, Javid Jajad, ayúdanos, papi. No chepo esta. Majat, estás cosiendo y el alfiler cose."
+},
+{
+"startMs": 2413439,
+"endMs": 2413919,
+"text": "Eso."
+},
+{
+"startMs": 2415138,
+"endMs": 2423979,
+"text": "Okey. Mhm. Entonces, tienes shiur hatefer arriba y tienes shiur hatefer abajo. Pero ¿cuál es la diferencia entre el de arriba y el de abajo?"
+},
+{
+"startMs": 2424319,
+"endMs": 2431319,
+"text": "El de arriba lo dejas. Que sí hay, sí hay nishtayer. El majat sí, el majat no, ¿me explico?"
+},
+{
+"startMs": 2431618,
+"endMs": 2436198,
+"text": "No, hay, hay, ahí sí hay shiur hatefer. Y abajo no hay shiur hatefer."
+},
+{
+"startMs": 2437638,
+"endMs": 2445399,
+"text": "Ahora aquí lo hay una estira. ¿Sí? Sí, sí. Okey. Ahora, entre la shiur hatefer y la última."
+},
+{
+"startMs": 2447238,
+"endMs": 2461419,
+"text": "La uno y la tres. ¿Qué puedes encontrar ahí? ¿Qué, qué tipo de queso?"
+},
+{
+"startMs": 2461479,
+"endMs": 2465778,
+"text": "Jitzoni, así básico. Sí, sí. La uno es sefer."
+},
+{
+"startMs": 2467799,
+"endMs": 2468399,
+"text": "Sí. Y"
+},
+{
+"startMs": 2475738,
+"endMs": 2476319,
+"text": "la tres."
+},
+{
+"startMs": 2491118,
+"endMs": 2492939,
+"text": "No entiendo. ¿Qué es el majul hamojá?"
+},
+{
+"startMs": 2496038,
+"endMs": 2503939,
+"text": "Que pagú, eh... ¿Cómo dices tú? En el, en el moaj. ¿Cuál fue? ¿Eh? Shiur hatefer, ¿qué es lo que majó en el moaj?"
+},
+{
+"startMs": 2506638,
+"endMs": 2514178,
+"text": "Por un lado dijeron que es... ¿Cuál fue el majul hamojá, el psat?"
+},
+{
+"startMs": 2514178,
+"endMs": 2522558,
+"text": "¿Arriba? Sí. Ahí en esta, en shiur hatefer. ¿Cuál fue la, la, el, la primera avaminá y luego cuál fue majul hamojá que cambió?"
+},
+{
+"startMs": 2523678,
+"endMs": 2524238,
+"text": "A ver, dame un segundo."
+},
+{
+"startMs": 2527479,
+"endMs": 2541379,
+"text": "Amar rab Ji, amar rab Ijoná, shiur hatefer halaja leMoshe misinai, majul hamojá ve lo amru elá ke'zeh lo ikare. O sea, avamina de que sea, de que sea halaja leMoshe misinai, de lo que hay que dejarlo arriba y abajo, ¿que halaja leMoshe misinai?"
+},
+{
+"startMs": 2541578,
+"endMs": 2549658,
+"text": "Muy bien, sí. Que, que es halaja leMoshe misinai. Cosas que solo enseñó Moshe en el Sinaí. Y abajo también. Me la metió la cosa con Juli Mesías y lo que, que lo que le enseñó."
+},
+{
+"startMs": 2549678,
+"endMs": 2559158,
+"text": "Halaja leMoshe misinai. Halaja leMoshe misinai. ¿Najón? Sí. Ora, pero nos cuadra. Entonces, quiere decir que el shiur hatefer, de alguna manera, si se relaciona con la última,"
+},
+{
+"startMs": 2560819,
+"endMs": 2567359,
+"text": "en la última también hay algo que es halaja leMoshe misinai. Sí. Pero arriba, ¿fue halaja leMoshe misinai o no fue halaja leMoshe misinai?"
+},
+{
+"startMs": 2567638,
+"endMs": 2581319,
+"text": "Dice la Gemara que era halaja leMoshe misinai, pero es como un- Que de eso lo ikare. Que de eso lo ikare. Ma-- ¿qué quieres decir? Ve mete-- en, en la última hay un mibné, así, que algo parece halaja leMoshe misinai, pero al final ve met-- fue un, fue algo que no fue halaja leMoshe misinai o no hay."
+},
+{
+"startMs": 2581379,
+"endMs": 2587819,
+"text": "¿Hay algo que es halaja leMoshe misinai, pero no es halaja leMoshe misinai?"
+},
+{
+"startMs": 2594939,
+"endMs": 2598718,
+"text": "¿Mikra Megilá? ¿Por qué? ¿Por qué? Porque Mikra Megilá"
+},
+{
+"startMs": 2600058,
+"endMs": 2607558,
+"text": "también está escrito, también está escrito en la Torá. Uma easofrim, Hashem se lo enseñó. Entonces, ¿sí es halaja leMoshe misinai o no es?"
+},
+{
+"startMs": 2608658,
+"endMs": 2615999,
+"text": "Lee bien. Vamos allá. No dice Mikra Megilá. Dice antes de Mikra Megilá, dice una cosa, que luego la Gemara dice: \"Eso es Mikra Megilá\"."
+},
+{
+"startMs": 2616038,
+"endMs": 2626859,
+"text": "Ah, entonces, dikduque torá ve dikduque sofrim, uma easofrim atidim lejahedes. Oh. Eso es halaja leMoshe misinai o no es una, o es un jidush de ajomim."
+},
+{
+"startMs": 2627359,
+"endMs": 2634859,
+"text": "De toda uma easofrim atidim lejahedes. Es decir, no es un jidush de halaja leMoshe misinai, elá es un jidush del ajom."
+},
+{
+"startMs": 2635259,
+"endMs": 2642019,
+"text": "Entonces, eso al ro-- entonces, yo te pregunto: ¿Megilá de Esther es halaja leMoshe misinai o es un jidush de Mordejai?"
+},
+{
+"startMs": 2644906,
+"endMs": 2647906,
+"text": "¿Qué, qué me contestas? Entonces, este... No me jode."
+},
+{
+"startMs": 2649187,
+"endMs": 2655827,
+"text": "¿Por qué? Porque no estaba en el tiempo de Moshé. No, mi hermana dice que lo enseñó a Shem. Ya le enseñó a Moshe, a Miguel Atester."
+},
+{
+"startMs": 2657567,
+"endMs": 2666966,
+"text": "Hashem le enseñó a Moshe, a Miguel Atester. También sobre eso puede decir majola moja como arriba, no sé qué hace. ¿Por qué? ¿Dónde ves en la Memora que hay-- que pasa mamá del umájula moja?"
+},
+{
+"startMs": 2668567,
+"endMs": 2674986,
+"text": "Umasha sofrim atidin jadés. Entonces, ¿fue a lajalemos de Misinai o fue...? Lo que asofrim atín lejadés."
+},
+{
+"startMs": 2675086,
+"endMs": 2677526,
+"text": "Fue que sofrim atín lejadés. ¿Qué fue?"
+},
+{
+"startMs": 2678827,
+"endMs": 2688327,
+"text": "No fue a lajalemos de Finisinai, fue asofrim atín lejadés. Hashem no quidés la megillat este. Hashem guilá lo a Moshe, lo que los sofrim van a la jadés."
+},
+{
+"startMs": 2689346,
+"endMs": 2694966,
+"text": "Entonces, ese es, ese es en la domina de la mascaná arriba. Por un lado, ¿qué parece?"
+},
+{
+"startMs": 2696167,
+"endMs": 2703926,
+"text": "El shura tefer te pierde. A lo que le dicen Misinai. Luego, luego te dice: «No, no, no». Fue un quidés de jajomin, fue atacado los jajomin, que se lo hicarea."
+},
+{
+"startMs": 2706026,
+"endMs": 2714886,
+"text": "Entonces, pero quiere decir, todo lo que jajamin luego dijeron, entonces como que se entiende que también es como la jalá de Moisés."
+},
+{
+"startMs": 2715006,
+"endMs": 2719486,
+"text": "No, eso es lo que la hermana dice. No vayas a pensar que es la jalá de Moisés y Sinaí. ¿Por qué no?"
+},
+{
+"startMs": 2720926,
+"endMs": 2731426,
+"text": "Porque en la jalá de Moisés y Sinaí, guilú ma sha sofrim atirím lejadés. Hashem no guilá el veatmo, sino guilá que es pues lavar shehem yegalú."
+},
+{
+"startMs": 2731426,
+"endMs": 2741026,
+"text": "¿Sí? Entonces, quiere decir, le fizé, si yo te pregunto el shiura téfer del, del Sefer Torá, ¿a qué me ramés, según esto?"
+},
+{
+"startMs": 2742546,
+"endMs": 2748586,
+"text": "Si estamos haciendo el jesbuán bien. ¿Qué es el shiura téfer del Sefer Torá? Que atirím jadés. Que ¿qué es? Megillateester."
+},
+{
+"startMs": 2748607,
+"endMs": 2754886,
+"text": "Megillateester. Entonces, tú me dices que el Sefer Torá, en su shiura téfer es Megillateester."
+},
+{
+"startMs": 2755667,
+"endMs": 2767827,
+"text": "¿Sí? Que el Sefer Torá tiene un aspecto de Megillateester. Entonces, tú me dices: ¿qué provoca, en otras palabras, le fizé, que el Sefer Torá no se rompa, el shiura téfer?"
+},
+{
+"startMs": 2767827,
+"endMs": 2780727,
+"text": "¿Qué provocó que el Kesher entre Am Israel y Akabas Roho no se rompa? Megillateester. Sí, eso es, eso es lo que guilá, que el Kesher entre Akabas Roho y Am Israel no se pueda romper."
+},
+{
+"startMs": 2781707,
+"endMs": 2787946,
+"text": "Ahora, esa es la uno y la tres, pero también hicimos entre uno y dos. Me vuelvo loco todo esto, ¿eh? Okey, ¿no? Entre la uno y dos."
+},
+{
+"startMs": 2788846,
+"endMs": 2796147,
+"text": "Es el majat, el majat. El majat sí. El majat que cose. El majat logra- Esa no la había escuchado. Logra coser."
+},
+{
+"startMs": 2796687,
+"endMs": 2802906,
+"text": "Vente, Sadik. La dos es el majat. ¿Eh? La dos es el majat."
+},
+{
+"startMs": 2803667,
+"endMs": 2808167,
+"text": "Sí. Entonces, entre la uno y la dos... Te queda Sefer Viere."
+},
+{
+"startMs": 2809446,
+"endMs": 2813187,
+"text": "El majat, el majat cose, pero arriba- Entonces."
+},
+{
+"startMs": 2815466,
+"endMs": 2821386,
+"text": "Que tiene que en el Sefer Torá te que haber un shiur. Entonces, quiere decir que en la dos, Hashem guilá algo,"
+},
+{
+"startMs": 2822626,
+"endMs": 2824027,
+"text": "pero no guilá él."
+},
+{
+"startMs": 2825506,
+"endMs": 2833767,
+"text": "O sea, guilá algo, pero el, él no cosió con el majat. ¿Dónde encuentras aquí ese aspecto de alójelo Moisés y Misina?"
+},
+{
+"startMs": 2833787,
+"endMs": 2835506,
+"text": "¿En la dos? En la dos."
+},
+{
+"startMs": 2837346,
+"endMs": 2843647,
+"text": "Entonces, según esto, si hacemos... A ver, vamos al jesbuán. En la uno tienes shiura téfer, en la dos tienes shiura téfer."
+},
+{
+"startMs": 2843727,
+"endMs": 2850167,
+"text": "Sí. Las que dices en la dos, que el, el téfer no, Hashem lo sié, que luego meque majat sidkit. ¿Sí?"
+},
+{
+"startMs": 2851086,
+"endMs": 2860966,
+"text": "Porque lo iraniada, ¿bajái? ¿Estamos claros? Entonces-- y entonces, pero, pero no es casual que en la uno dice shiura téfer y en la dos también dice shiura téfer."
+},
+{
+"startMs": 2861307,
+"endMs": 2867366,
+"text": "No es que en la una dice shiura téfer, que sí se deja, y en la dos dices que no hubo shiura téfer. Un segundo."
+},
+{
+"startMs": 2867386,
+"endMs": 2874287,
+"text": "Entonces, eh, ya ahorita ya tenemos, ya le podemos poner nombre al shiura téfer de la uno. ¿Cómo se llama el nombre?"
+},
+{
+"startMs": 2875187,
+"endMs": 2881747,
+"text": "Al Jamshuis Nanima. No, ¿qué es el shiura téfer de la...? La megila. La megila. ¿Quién nos enseñó eso? La tres. La tres."
+},
+{
+"startMs": 2882426,
+"endMs": 2900006,
+"text": "La dos quiere decir que el-- ¿cuál es el shiur? El, si el shiura téfer de la una es el shiura téfer de la dos, entonces quiere decir que qué es lo que no it galá, lo que si se hubiera revelado en ese momento, lo iraniada en Bajay, ¿qué es?"
+},
+{
+"startMs": 2901126,
+"endMs": 2907207,
+"text": "¿Qué es? La megila misma. La megila, ¿por qué? Nosotros tres estamos hablando de la misma. ¿Por qué?"
+},
+{
+"startMs": 2907227,
+"endMs": 2913966,
+"text": "Pero ¿por qué? O sea, pero qué, pero qué hubiera pasado, si es que hubiera pasado, ¿qué hubiera sido el Guilú? No sé, yo ahorita estoy con el chip apagado."
+},
+{
+"startMs": 2914187,
+"endMs": 2926827,
+"text": "Okey, okey, okey. Ahorita es champiñón. No, pero da que hay que tener el chip apagado, porque si no, no, no, no. O sea, si uno ya busca el token, estamos buscando qué está escrito antes de entender qué está escrito."
+},
+{
+"startMs": 2926827,
+"endMs": 2935267,
+"text": "¿Me explico? Primero hay que entender qué está escrito. Majón. Pero, pero está claro el, el este, el mivné. La, la tres le puso nombre a la uno."
+},
+{
+"startMs": 2936207,
+"endMs": 2942727,
+"text": "La dos-- ¿Cuál es el shiur megila? La, a Jarek en la uno es megila, arriba sí hay shiur, en la dos no hay shiur."
+},
+{
+"startMs": 2942807,
+"endMs": 2950506,
+"text": "No hay shiur. Sobre lo que en la dos no hay shiur, sobre qué no hay shiur, sobre la megila también. Exactamente. Eso significa que a cada uno guilá"
+},
+{
+"startMs": 2951807,
+"endMs": 2961926,
+"text": "el orden, la megilá. Si hubiera sido megulé, mitad a cada uno guilá, en la dos, lo hayude jolím la amor mi peneata ahora."
+},
+{
+"startMs": 2962647,
+"endMs": 2969486,
+"text": "¿Dónde encuentras este aspecto de que es que Hashem guilá, ma sha sofrim atidím lejadés?"
+},
+{
+"startMs": 2969567,
+"endMs": 2975687,
+"text": "¿Dónde ves este aspecto, que es alójemo Shemisinai, pero majula moja, que de eso lo hicarea?"
+},
+{
+"startMs": 2975747,
+"endMs": 2978027,
+"text": "¿Dónde ves eso? En la dos."
+},
+{
+"startMs": 2983626,
+"endMs": 2985687,
+"text": "Ese es el tirutz, por qué no hubo shiura téfer."
+},
+{
+"startMs": 2987207,
+"endMs": 2993567,
+"text": "Si en la uno sería que el shiura téfer sería alójelo Moisés y Sinaí."
+},
+{
+"startMs": 2994707,
+"endMs": 2996747,
+"text": "Entonces, ¿qué-- cómo se leería la dos?"
+},
+{
+"startMs": 2998107,
+"endMs": 3004406,
+"text": "Que lo nishtayer o que sin nishtayer. ¿Me explico o no? Está muy fácil. Sí, no. No está nada, nada."
+},
+{
+"startMs": 3004466,
+"endMs": 3011231,
+"text": "Estuve un poco revolviendo. Está muy fácil. Me puedes decir nada más, eh, a lo mejor en la dos como que no la leí bien. ¿Cuál, cuál es la dos?"
+},
+{
+"startMs": 3011330,
+"endMs": 3013890,
+"text": "Que Abraham dijo el malin stayer me haría semana"
+},
+{
+"startMs": 3015930,
+"endMs": 3021970,
+"text": ". Lo hay un ahora. Quiere decir que lo ni stayer. Lo ni stayer. Quiere decir que de method no hubo nada que aflujo que maja."
+},
+{
+"startMs": 3022091,
+"endMs": 3030051,
+"text": "Que Hashem guila algo, pero no dejó que esa cosa que él me gale y gale. Okey, muy bien. Exactamente. Arriba el, pero en la uno sí, sí hay un siur."
+},
+{
+"startMs": 3030111,
+"endMs": 3037010,
+"text": "Siur o whatever. Pero de method, de method, de method, ya nos dijeron que no fue Hashem el que siur, no fue lo que la Moisés y Sinaí."
+},
+{
+"startMs": 3037191,
+"endMs": 3043731,
+"text": "Atidim le jadesh, los sofrim. Fue lo que Mashá sofrim atidim le jadesh. Okey. Quiere decir- Es que ahorita es la dos."
+},
+{
+"startMs": 3044411,
+"endMs": 3050531,
+"text": "Seo, entonces, la ahora hay una estira entre la uno y la dos. Mmm. ¿Cuál es-- cómo se contesta la estira entre la uno y la dos?"
+},
+{
+"startMs": 3051671,
+"endMs": 3058531,
+"text": "Con el majula moja. ¿Sí o no? ¿Cómo se contesta la estira entre la uno y la dos? Por medio del majula moja."
+},
+{
+"startMs": 3058750,
+"endMs": 3059310,
+"text": "Que, ¿qué?"
+},
+{
+"startMs": 3063591,
+"endMs": 3074691,
+"text": "Que no es haloja la Moisés y Sinaí, que no, Hashem no siur, no siur. Entonces, quiere decir, aquí ani megale de mashú, que im ani megale oto, ani lo de jo le galot."
+},
+{
+"startMs": 3075031,
+"endMs": 3082911,
+"text": "Entonces, no es haloja la Moisés y Sinaí, pero ani noten eta petaj que de que miso ajarcaj ya vo y gale meatsmó, si yes eta daval."
+},
+{
+"startMs": 3082930,
+"endMs": 3088970,
+"text": "Okey, excelente. ¿Sí? Entonces, quiere decir que la uno, la dos y la tres está hablando literalmente de lo mismo mamá."
+},
+{
+"startMs": 3089111,
+"endMs": 3091350,
+"text": "Ya entendí. ¿Sí? Entonces, quiere decir"
+},
+{
+"startMs": 3092651,
+"endMs": 3100350,
+"text": "que el or que Hashem no gila, pero, pero, ¿pa qué ta megale si ya ta lo megale? ¿Pa qué lo sofrim y galot?"
+},
+{
+"startMs": 3100611,
+"endMs": 3106770,
+"text": "Para que tú lo encuentres. Pa que tú lo encuentres. Pero si Hashem megale oto miatsmó, lo- No lo vas a poder lograr."
+},
+{
+"startMs": 3107131,
+"endMs": 3117231,
+"text": "Pero entonces, ¿qué hizo Hashem? Guilalo Mosheh, Mashah sofrim atidim le jadesh. Entonces, ani megale la jashé después de davar, se, se, se miso y el regalot."
+},
+{
+"startMs": 3117350,
+"endMs": 3124390,
+"text": "Te puedo un poco adelantar, que lo seguro que hemos hablado acá en este set de mucho tiempo es rabí Esquiva. Ya te estás yendo de los champiñones."
+},
+{
+"startMs": 3124671,
+"endMs": 3136671,
+"text": "Ah. Aguántale. Pero sí va por ahí también. Sí, sí, sí. Por supuesto. Sí. Vamos a, vamos a- Salvo Guilalo, es lo que Moisés no entendió y que al final sigue siendo que, que me metes a la jala Moisés y Sinaí como hablamos ayer."
+},
+{
+"startMs": 3136711,
+"endMs": 3142810,
+"text": "Sí, sí, video, que es rabí Esquiva. Sí, 100 %. ¿Por qué me estoy yendo de champiñones? ¿Por qué no- Pensé que estabas en el esbe. ¿Eh?"
+},
+{
+"startMs": 3142991,
+"endMs": 3158890,
+"text": "Pensé que estabas explicando más. Bueno, el esbe sharánun y meterse. Okey, ya, ya. Sí, sí, sí. Más qui. Entonces, sí, es, es betem quiere decir que aquí hay algo que itgala con Moshé y no itgala, es el lo ir a ni adam ajai, es betem también lo que dice aquí, eh, por ahí lo yerao, que lo ir a ni adam ajai."
+},
+{
+"startMs": 3158930,
+"endMs": 3164951,
+"text": "Es mamá, estamos hablando de la misma. Entonces, quiere decir que cuando leímos esta semana betem estamos hablando de Megilat Ester. 100 %."
+},
+{
+"startMs": 3164951,
+"endMs": 3175611,
+"text": "¿Sí? Que acá es hvorju no guila tatzu. Pues está betem, la tat zich le galototo. Ahí tú tienes una raya, que la dos está hablando de Megilat Ester, ¿o no?"
+},
+{
+"startMs": 3175790,
+"endMs": 3184211,
+"text": "Aparte de el Jesbón. O sea, entre la uno y la tres dedujimos que la u-- el shira tefer del severdorá, que es..."
+},
+{
+"startMs": 3184711,
+"endMs": 3191651,
+"text": "Mela Megil. Megilat Ester. Ahí en la dos hay un remes que es, es te or, es el or de la Megila."
+},
+{
+"startMs": 3191890,
+"endMs": 3192330,
+"text": "Déjame."
+},
+{
+"startMs": 3199171,
+"endMs": 3203991,
+"text": "¿Cómo sabes que esto es la Megila? Al pije Jesbón así tiene que salir, pero ¿cómo sabes que esto es la Megila?"
+},
+{
+"startMs": 3223571,
+"endMs": 3229330,
+"text": "Una palabra aquí, que es una palabra muy, muy, muy Megilat Ester."
+},
+{
+"startMs": 3233151,
+"endMs": 3239930,
+"text": "Nos cum rit vadai. Asto, afilo astores, sobeto astores. No, no, una palabra mefureshet."
+},
+{
+"startMs": 3242031,
+"endMs": 3249470,
+"text": "Que lo cura. Me estoy poniendo nervioso. Ilma le nishtayer ba meara shemat ba Moishe vel Yahu, ki im lo nekeb majat..."
+},
+{
+"startMs": 3250911,
+"endMs": 3259930,
+"text": "Tzidkit. Lo hayu yejolim lamod mitpené-- ora, ora. La vida de Maita, ora ve sinjav es ason."
+},
+{
+"startMs": 3259930,
+"endMs": 3267010,
+"text": "¿Por qué ora? ¿Desde cuándo el ora es mujer? Te iba a decir que ese... ¡Ah! ¿Desde cuándo el ora es mujer?"
+},
+{
+"startMs": 3267010,
+"endMs": 3273810,
+"text": "La vida de Maita, ora ve sinjav es ason bikal. ¿Ora? ¿Desde cuándo se usa ora? Ah. Ma pshat ora."
+},
+{
+"startMs": 3274330,
+"endMs": 3278711,
+"text": "Ora es mujer, es el nekeb de... Bueno, eso ahorita-- Es el nekeb de la cadera."
+},
+{
+"startMs": 3280310,
+"endMs": 3287571,
+"text": "Muy bien, pero, pero ahí está, mefuras. ¿Por qué no me impene a todo ahora? ¿Por qué me impene ahora? ¿Desde cuándo se usa ora?"
+},
+{
+"startMs": 3287611,
+"endMs": 3294611,
+"text": "¿Desde cuándo se usa ora? Pues que en la Megila. Mefuras, que este nekeb ma ja tzidkit es el or de la Megilat Ester."
+},
+{
+"startMs": 3294930,
+"endMs": 3305491,
+"text": "Mefuras, mefuras, mamá. ¿Es el, el único lugar donde está escrito ora? Hay otro, que ja, que ja se ja que ora, pero es lo mismo, que el Jose se va a hacer ora."
+},
+{
+"startMs": 3307171,
+"endMs": 3316171,
+"text": "O sea, que el Jose se convierte en ora. O sea, or, or solito es or, pero cuando el Jose se convierte en or es ora, tapsat. Sí, entonces, entonces acá ora"
+},
+{
+"startMs": 3318071,
+"endMs": 3324671,
+"text": "está, eso está muy claro que es otra vez, es mamá es la Megilat Ester. Entonces, la uno, dos y tres, mamá es lo mismo."
+},
+{
+"startMs": 3325350,
+"endMs": 3334631,
+"text": "Ora... ¿Sí o no? Sí, sí, sí, exacto. Pero pasut. No, no, no, no, no. Que quede claro que no está con cascayut como tú lo estás diciendo."
+},
+{
+"startMs": 3335470,
+"endMs": 3339750,
+"text": "Hay que meterlo. Ah, no, no, ¿no apostarías un millón de dólares?"
+},
+{
+"startMs": 3342951,
+"endMs": 3351890,
+"text": "No, si no... No, no, no, no, no. Yo apuesto cien millones de dólares. ¿Sí, mamá? No, no, ¿a qué voy? ¿A qué voy? Son cerrados. No, no lo, no lo sacaría nunca solo, en mi vida lo voy a sacar solo."
+},
+{
+"startMs": 3351911,
+"endMs": 3358010,
+"text": "Porque no te la crees de que hay estas cosas, pero si te la crees... ¿Tú esto lo sacaste solo? Sí. Oye."
+},
+{
+"startMs": 3358790,
+"endMs": 3366250,
+"text": "O sea, no está tan claro los cham-- como hemos visto, de repente, champiñones, es mucho más claro. No, no, para mí no hay más fuerte que este."
+},
+{
+"startMs": 3366250,
+"endMs": 3376231,
+"text": "¿Mamás? Se vuelan a todos. Guau. No, no, no, no lo agarraste. A lo mejor no se me hizo tan fácil a mí, no, no, no lo..."
+},
+{
+"startMs": 3377731,
+"endMs": 3387470,
+"text": "No sé, puede ser. A ver, shira tefer y shira tefer, ¿no? Sí. Majad. So está hablando dos cosas, estás hablando majad, majad, shira, tefer, shira, tefer."
+},
+{
+"startMs": 3388131,
+"endMs": 3389970,
+"text": "Ahora, que el shira de arriba es la Megilá,"
+},
+{
+"startMs": 3391991,
+"endMs": 3401991,
+"text": "ya, ya es algo que tienes que explicar, que tienes que decir, ¿no? O sea, la-- ¿Quién te, quién te dijo? O sea, a mí... Mmm. Que el shira que estamos hablando en la uno es el, la Megilá de la tres."
+},
+{
+"startMs": 3402310,
+"endMs": 3416330,
+"text": "¿Por qué? Porque, porque en la uno hay un muy, muy manén, que en la uno estás diciendo que, que por un lado este shira tefer es haloja lemoise misinai y majula moja."
+},
+{
+"startMs": 3416371,
+"endMs": 3422883,
+"text": "No, no es haloja lemoise misinai, es, eh... Que lo icra para que no se rompa. Para que lo icare. ¿Sí?"
+},
+{
+"startMs": 3423423,
+"endMs": 3430683,
+"text": "Ahora vienes en la tres y te dice que todas las alajot le Moishe Misina. Te dice todas las alajot a lo Moishe Misina."
+},
+{
+"startMs": 3430883,
+"endMs": 3437463,
+"text": "Sí, que Hashem era lo le Moishe. Dictuquetora, eh. O sea, alojé lo Moishe Misina. Pero una cosa más."
+},
+{
+"startMs": 3437503,
+"endMs": 3442863,
+"text": "Primero sí pueden dejar de... Atid más asufrir, atid le jades. Entonces, esa cosa que asufrir me tienen le jadesh."
+},
+{
+"startMs": 3444163,
+"endMs": 3447023,
+"text": "Es alojé lo Moishe Misina o de jidush jajomi."
+},
+{
+"startMs": 3448743,
+"endMs": 3455323,
+"text": "Entonces, se, se ve etzem jidush jajomi. Pero por otro lado se llama alojé lo Moishe Misina. ¿Sí?"
+},
+{
+"startMs": 3456503,
+"endMs": 3466163,
+"text": "Entonces, el shura tefer de alojé lo Moishe Misina es de jidush jajomi. Entonces, por un lado aparenta ser que es alojé lo Moishe Misina, pero no, no, ve hemente, es jidush jajomi."
+},
+{
+"startMs": 3466383,
+"endMs": 3473583,
+"text": "Y que el incento es que le enseñó Moishe, a Shem a Moishe, lo que, como tú dices, no es que le enseñó la megilá, le enseñó que los jajamim van a le jadesh megilá."
+},
+{
+"startMs": 3473603,
+"endMs": 3481623,
+"text": "La megilá. Entonces, quiere decir, por eso arriba había avaminé y mascaná. Ahora, si lo quieres todavía más, mefura'sh, mucho más mefura'sh."
+},
+{
+"startMs": 3481723,
+"endMs": 3489283,
+"text": "¿De dónde venimos? De hablar si la megilá se llama sefer o igueret. Man of Kamina. Se puede lo del pisht-- se puede con pishtán."
+},
+{
+"startMs": 3489603,
+"endMs": 3496563,
+"text": "Le ha de sefer, tiene que ser sefer que no sirve con pishtán, porque pishtán es igueret. Y le ha de igueret, no, porque tiene que ser tres."
+},
+{
+"startMs": 3497243,
+"endMs": 3504383,
+"text": "Y no completamente cocido. Y no completamente cocido. Entonces, significa que la megilá, lo cocido,"
+},
+{
+"startMs": 3506283,
+"endMs": 3514143,
+"text": "lo cocido de la megilá es el aspecto de- Es de igueret. No, lo cocido. Si fuera puro sefer estaría supercocido."
+},
+{
+"startMs": 3515363,
+"endMs": 3524983,
+"text": "Si sería completamente igueret, estaría muy poco cocido. ¿Sí? Se-- igueret no tiene que estar muy cocida, podría ser pishtán, algo que se desamarre."
+},
+{
+"startMs": 3525063,
+"endMs": 3532503,
+"text": "Sí, sí, sí. Ah, tú dices, está cocido con algo fuerte, sin pishtán, a eso te refieres, okay. Es decir que tres o todo."
+},
+{
+"startMs": 3532703,
+"endMs": 3537943,
+"text": "Sí. Sí. Entonces, ¿qué vemos? Que el aspecto de igueret es muy cocido o es no cocido."
+},
+{
+"startMs": 3540023,
+"endMs": 3546323,
+"text": "En medio. Igueret es no cocido. Igueret es no, sefer, sefer Torá es muy sí y megilá es en medio."
+},
+{
+"startMs": 3546383,
+"endMs": 3554723,
+"text": "Megilá tiene los dos. Por un lado, sefer, por un lado es-- Igueret. Igueret. Quiere decir que el aspecto no cocido de la megilá es igueret."
+},
+{
+"startMs": 3555243,
+"endMs": 3561343,
+"text": "El aspecto sí cocido de la megilá- Es sefer. Es sefer. Sí. O sea, tiene las dos cosas. Está bueno, está..."
+},
+{
+"startMs": 3561563,
+"endMs": 3571283,
+"text": "Espérate, espérate. No, no, no, está bien. Se está- Entonces. Se está haciendo con esto. Entonces, en el Sefer Torá, ¿es nada más Sefer o tiene algún aspecto de igueret?"
+},
+{
+"startMs": 3572243,
+"endMs": 3583103,
+"text": "No, tiene de igueret. ¿Cuál es el aspect-- del Sefer Torá, no de la megilá. Ah, el shiur del mismo Sefer Torá. Ah, entonces que si hay shiur en el Sefer Torá, significa que en el Sefer Torá que hay..."
+},
+{
+"startMs": 3583343,
+"endMs": 3586023,
+"text": "También está la igueret, la megilá. Entonces, quiere decir que hay megilá."
+},
+{
+"startMs": 3587483,
+"endMs": 3599743,
+"text": "Claro. Sí. Entonces, ora, si ya comparamos, comparamos, comparamos. Entonces, dijimos que el shiur tefer tiene un aspecto de alojé lo Moishe Misinai, pero tiene un aspecto, sofoz de lavar, que es jidush jajomi."
+},
+{
+"startMs": 3599743,
+"endMs": 3601003,
+"text": "¿Sí?"
+},
+{
+"startMs": 3602863,
+"endMs": 3610343,
+"text": "Y, y la megilá también. Por un lado, Shem, guilá, ota, pero por otro lado, los sofrim, jichota. ¿Sí?"
+},
+{
+"startMs": 3612543,
+"endMs": 3618983,
+"text": "Entonces, estos son los dos aspectos, que son los dos aspectos de la megilá, que por un lado es sefer, por otro lado es igueret."
+},
+{
+"startMs": 3619443,
+"endMs": 3624143,
+"text": "Por un lado, no me digas que es nada más jidush jajomi, si no sería Torá Sheba al Pe."
+},
+{
+"startMs": 3625463,
+"endMs": 3633563,
+"text": "Sino jajomi, el jichota, algo que ve etzem es alajá la Moishe Misinai, pero hacer no guilá etzem la Moishe Misinai, sino guilá que los jajomi pueden le jadesh."
+},
+{
+"startMs": 3633663,
+"endMs": 3641843,
+"text": "¿Sí? Entonces, quiere decir... Ayer también dijiste un knish que hace, que Moishe está mu-- está como que muy parecido."
+},
+{
+"startMs": 3642123,
+"endMs": 3650163,
+"text": "Sí, se-- digo que Rabí Akiva. Moishe Rabenu no es que vio-- no, en las, en las de Vuot de Am Israel, que en la de Bilán, en la de Bilán."
+},
+{
+"startMs": 3650723,
+"endMs": 3660503,
+"text": "Moishe Rabenu lo dijo todo el doctor de Vuot, aquilo, lo que Abraham ha habido, ni ba, ni va, él sabe ni va. Pero lo de Bilán dijimos que no, porque él nada, creo que él na-- no es que él nada."
+},
+{
+"startMs": 3661063,
+"endMs": 3668183,
+"text": "Y también Rabí Akiva dijo jidushi. Ah, pero es alajá lo Moishe Misiná. Es mamad lo mismo. Es mamá es lo mismo. Yo fui excelente."
+},
+{
+"startMs": 3668183,
+"endMs": 3676643,
+"text": "¿Te ya convence más o...? Sí, sí, sí. Pero es que sí está bueno. Perdón, perdón que me... No, está súper. No, no, es lo que, pa eso es que es lo que está escrito, ¿no?"
+},
+{
+"startMs": 3676902,
+"endMs": 3684503,
+"text": "O sea, yo lo que- Lo que me refería es que sí está muy difícil. Otra vez, yo nunca hubiera llegado en mi vida. Nunca hubiera llegado en mi vida."
+},
+{
+"startMs": 3685203,
+"endMs": 3691803,
+"text": "Si gusta, sí hay que hacer mucho sacar conexiones. Pero no, muy simple. ¿Muy simple? No, o sea, ¿qué quiere decir?"
+},
+{
+"startMs": 3691923,
+"endMs": 3699643,
+"text": "Muy mefura'sh. No, están complicadas, pero no es dando la vuelta. Es lo que te digo, está complicado. Pero no, no es dando la vuelta, es muyfura'sh, nomás."
+},
+{
+"startMs": 3699863,
+"endMs": 3709903,
+"text": "Todo lo mismo que encuentras abajo, lo encuentras arriba, se repite todo el tiempo, todo lo mismo. Igueret es-- Estan, yo puedo sacar de do-- de tres lugares que el shiur tefer es la megi-- de un Sefer Torá es la megilá."
+},
+{
+"startMs": 3710623,
+"endMs": 3715763,
+"text": "Uno, porque nada más la megilá se llama igueret, y igueret es algo no cocido. Entonces,"
+},
+{
+"startMs": 3717363,
+"endMs": 3724563,
+"text": "cuando la Merá me dice que en el Sefer Torá no hay que cocerlo. Sí, sí. Entonces, ese es el aspecto de megilá. Ahora, de repente te dicen: \"Espérate\"."
+},
+{
+"startMs": 3724583,
+"endMs": 3725463,
+"text": "¿Sí?"
+},
+{
+"startMs": 3726683,
+"endMs": 3734123,
+"text": "Eh, eh, en, en, en la última te dicen que la megilá de Esther es una alajá de Moishe Misinai. ¿Sí?"
+},
+{
+"startMs": 3734263,
+"endMs": 3736843,
+"text": "Es algo que Hashem me jades, no sé cómo--"
+},
+{
+"startMs": 3738303,
+"endMs": 3747103,
+"text": "la jina de Sefer, es otomet que Hashem jidesh algo. Sí, es alajá de Moishe Misinai. Pero no, no es alajá de Moishe Misinai, es un jidush jajomi."
+},
+{
+"startMs": 3747943,
+"endMs": 3756543,
+"text": "Y de repente ves en la uno, ¿sí? Que el shiur tefer, que nosotros ya sabemos de, ya nos podemos imaginar que es la megilá, ¿sí?"
+},
+{
+"startMs": 3756763,
+"endMs": 3769163,
+"text": "Es justamente el, el, el, el Mikrá megilá. ¿Por qué? Porque es también la Mikrá megilá tiene el mismito aspecto que es de shiur tefer, que, que por un lado es de lajal Moishe Misinai y por otro lado es jidush jajomi."
+},
+{
+"startMs": 3769883,
+"endMs": 3775923,
+"text": "Ahora, más que eso, ¿cuál es el, el inian del shiur tefer en el Sefer Torá?"
+},
+{
+"startMs": 3777523,
+"endMs": 3791979,
+"text": "Que no se puede romper. Que no se rompa. Que no se rompa. ¿Cuál es el jidush de megilá de Esther? Que no se rompe el Sefer Torá. No me-- Que a mis-- Eso en el gilul de la megilá es que a mis-- aún estando en el galut, el Sefer no se rompe, porque el Sefer también es Igeret."
+},
+{
+"startMs": 3792419,
+"endMs": 3794339,
+"text": "Sí, el Sefer no se rompe, también es Igeret."
+},
+{
+"startMs": 3795759,
+"endMs": 3802879,
+"text": "Y, y, y cuando yo tengo también la segunda, que te dice que en la Mihará hubo, no hubo shiuratefe."
+},
+{
+"startMs": 3803919,
+"endMs": 3811019,
+"text": "Me acabas de decir que hubo shiuratefe, luego me dices que no hubo shiuratefe. Pero no. Dice la menor: \"Espérate, majul-- Ya dijimos majula moja\"."
+},
+{
+"startMs": 3811019,
+"endMs": 3821879,
+"text": "¿Qué dijimos que el majula moja? Que ese, que ese shiuratefe de arriba, vemet mitsadá que es por juventud, debería-- Estaba cerrado."
+},
+{
+"startMs": 3822639,
+"endMs": 3827399,
+"text": "Na' más que luego, o sea, luego viene el jajam y dice: \"Pero se puede romper\"."
+},
+{
+"startMs": 3828639,
+"endMs": 3833439,
+"text": "Ok, entonces quiere decir que cuando Shen gilal or micrame gilá,"
+},
+{
+"startMs": 3835319,
+"endMs": 3843979,
+"text": "a Mosé, en Orcina, era migilá or micrame gilá. ¿Sí? Pero no gilá or micrame gilá beatsmovó, sino gilá que sale galot micrame gilá, pero no gilá."
+},
+{
+"startMs": 3844579,
+"endMs": 3851519,
+"text": "Entonces, quiere decir que la segunda es mi-- mamá es micrame gilá. ¿Qué palabra lo comprueba? Ora."
+},
+{
+"startMs": 3852179,
+"endMs": 3860199,
+"text": "Ora. Sí. Está muy claro. Creo que está demasiado claro. No. Creo que- Repítelo."
+},
+{
+"startMs": 3861379,
+"endMs": 3871559,
+"text": "No, si está claro. Sí. Digo, yo nunca-- Lo que te, lo que te quería decir además, ¿no? Si tú me ponías a mí tres horas y me hubieras dado a Filo unas cuantas ramasí, como al principio,"
+},
+{
+"startMs": 3872999,
+"endMs": 3883979,
+"text": "te sé, hasta leer, con diez horas no lo iba a sacar. Claro que sí. No creo. Si, si sabes que existen los champiñones, también hay que saber cómo usarlos."
+},
+{
+"startMs": 3884019,
+"endMs": 3890139,
+"text": "¿Qué quieres decir? Sí, sí, sí. Cómo usarlos es que, es que cada una explica la otra, cada una explica la otra. Sí, sí, no."
+},
+{
+"startMs": 3890199,
+"endMs": 3895159,
+"text": "Explico cada una. Esa parte, pero sí, más que nada. Pues de todos en pasado estamos acá para aprender."
+},
+{
+"startMs": 3897119,
+"endMs": 3903279,
+"text": "Está bien. Pero sí está claro. Sí, sí, sí. Creo que está-- Para mí es mefurash, no es, eh, rem. Mamá es mefurash. Sí."
+},
+{
+"startMs": 3907559,
+"endMs": 3916539,
+"text": "Ora. Fize, ¿qué es ktuva venaktuvim? ¿Dónde está todos estos aspectos en ktuva venaktuvim? La megilá se llama Sefer y se llama Igeret."
+},
+{
+"startMs": 3917319,
+"endMs": 3923559,
+"text": "Todo el Tanaj qué se llama. Sefer. Sefer. Entonces, ¿cómo puede ser? No, tú no la puedes poner en aktuvim."
+},
+{
+"startMs": 3923979,
+"endMs": 3927459,
+"text": "Ahora hay un gilú entre Yojid y Robin. Oh, muy bien. ¿Por qué?"
+},
+{
+"startMs": 3928799,
+"endMs": 3933379,
+"text": "Sefer Torá, ¿tú lo puedes leer solito o no? No. ¿Y megilá? Sí, sí. ¿Por?"
+},
+{
+"startMs": 3934699,
+"endMs": 3936439,
+"text": "Porque megilá... ¿Por qué?"
+},
+{
+"startMs": 3938359,
+"endMs": 3946759,
+"text": "Martel, los dos estoy leyendo. En casa. Megilá que sepas es, es, es en personalismo. Y mejor personalismo tiene que ser con gente."
+},
+{
+"startMs": 3946979,
+"endMs": 3956579,
+"text": "No, no, está, está mejor así. No, no, este, Hamacá también. No, no es que Hamacá también, pero yo diría sin-- Digo algo al revés."
+},
+{
+"startMs": 3956639,
+"endMs": 3963019,
+"text": "Debería de ser que la megilá sea Daf, Dafka con ellos. La halaja de la megilá sí es, pero no... No."
+},
+{
+"startMs": 3963379,
+"endMs": 3969979,
+"text": "Entonces, ¿cómo puede ser que Sefer Torá no necesito tzipur para leerlo y megilá no necesito tzipur para leer?"
+},
+{
+"startMs": 3971119,
+"endMs": 3979859,
+"text": "Macatuvka. Que la megilá no es Sefer. La megilá es Igeret. Igeret es algo personal. Sefer, señor, cuando eso es carta."
+},
+{
+"startMs": 3979899,
+"endMs": 3987679,
+"text": "Cuando yo tengo carta, ¿pa quién es? Particular. Particular. Para, para, para el señor Jajam Isaac de Tesh."
+},
+{
+"startMs": 3988359,
+"endMs": 3997359,
+"text": "Miguelá, Miguelá, ¿pa qué la leemos en, en betibúr? Porque es Sefer. Porque tiene un aspecto de Sefer y tiene un aspecto de Igeret."
+},
+{
+"startMs": 3997539,
+"endMs": 4004639,
+"text": "Uh, ahí, ahí se roba malas meles. Sí, no, el, el-- Si fuera solo Sefer, digo solo Igeret. Sí, imagina."
+},
+{
+"startMs": 4004699,
+"endMs": 4013659,
+"text": "Es como la Hamatguía. Claro. Is, isbetó. Ya, se acabó. Sí. Entonces, ese Igeret, ese Igeret tiene Sefer."
+},
+{
+"startMs": 4014099,
+"endMs": 4020699,
+"text": "Entonces, megilá ktuva venaktuvim la convierte a la megilá muy... Sefer. Sefer. Es igual que los otros."
+},
+{
+"startMs": 4021259,
+"endMs": 4028119,
+"text": "El muy cocido es Sefer. El no cocido, el que no puede ser pistá, o sea, el que no puede ser pistá es Sefer."
+},
+{
+"startMs": 4028839,
+"endMs": 4035079,
+"text": "Lo que da-- Lo que solamente puede ser tres y no todo cocido, eso lo hace Igeret. Acá también."
+},
+{
+"startMs": 4035839,
+"endMs": 4041959,
+"text": "Lo que es venaktuvim lo convierte en Sefer, pero lo que lo puedes leer tú solito lo convierte en Igeret."
+},
+{
+"startMs": 4042039,
+"endMs": 4048179,
+"text": "Exactamente. Mejitessi, yo estoy leyendo lo betzibúr, una megilá ktuva venaktuvim, porque es Igeret."
+},
+{
+"startMs": 4048179,
+"endMs": 4054739,
+"text": "Igeret. Mmm. Entonces, quiere decir- Entonces, de ahí saca la Guemará, lo que tú preguntaste en un principio. Makésherut. ¿Por qué?"
+},
+{
+"startMs": 4054759,
+"endMs": 4070919,
+"text": "¿Cuál es el giro entre Yahid y esto? Ya, ya se empieza acá un poquito. Eso. Entonces, acá, es, es, es el punto acá, que sale que el Umájula moja de ktuva venaktuvim y el Majula moja del shiuratefer es muy parecido."
+},
+{
+"startMs": 4071279,
+"endMs": 4079339,
+"text": "Sí. ¿Por qué? Porque ¿cuál es el Majula moja de Shiuratefer? Que el Sefer Torá tiene algún aspecto de..."
+},
+{
+"startMs": 4079639,
+"endMs": 4082419,
+"text": "De Igeret. Igeret. Muy bien. Que son los shiurim de arriba y abajo."
+},
+{
+"startMs": 4083939,
+"endMs": 4090039,
+"text": "Y entonces, y la megilá ktuva venaktuvim, la verdad que lo puedes leer de Yojid. También. Viene legalot, que es Igeret."
+},
+{
+"startMs": 4090179,
+"endMs": 4096919,
+"text": "Es Igeret. Sí. Ya no sé po. Muy bien. Ya no sé. Muy bien. Sí. Fize."
+},
+{
+"startMs": 4096919,
+"endMs": 4102299,
+"text": "¿De dónde venimos? ¿Cuál es la Mishná? Desde--"
+},
+{
+"startMs": 4103919,
+"endMs": 4111999,
+"text": "¿Desde qué parte son tres shitot? O desde el principio, o desde, eh, Ajarat Barimaele, o desde Balailau, ¿sí?"
+},
+{
+"startMs": 4112559,
+"endMs": 4118658,
+"text": "No, eran cuatro shitot, porque- Cuatro shitot. Sí, tres shitot en la Mishná, una- Y una Rash, y dijo desde Balailau. Okey."
+},
+{
+"startMs": 4118739,
+"endMs": 4126038,
+"text": "Miren, ¿qué está pasando acá? Okey. ¿Dónde encuentras estos dos aspectos de Sefer Igeret en la megh-- en esta sala J de la meghilá?"
+},
+{
+"startMs": 4126599,
+"endMs": 4128158,
+"text": "Okey, okey,"
+},
+{
+"startMs": 4129459,
+"endMs": 4141899,
+"text": "okey. Okey, okey. Que tiene que estar escrita toda. ¿Eso qué aspecto es? Es un aspecto de Sefer. Claro. Porque un Sefer Torá, si tú tienes nada más una persona, persona y tzabim solito, si no te la estás leyendo dentro de todo el Sefer, no es nada."
+},
+{
+"startMs": 4142679,
+"endMs": 4150643,
+"text": "Entonces, eso tiene un aspecto de Sefer. Y un aspecto de- Pero me dijisteis que puedo leer la mitad. Entonces, ¿por qué no es nada más Sefer, sino es Igeret?"
+},
+{
+"startMs": 4151143,
+"endMs": 4151743,
+"text": "O sea, hay un"
+},
+{
+"startMs": 4153443,
+"endMs": 4160723,
+"text": "en la Majló que yo cuando estoy leyendo, yo mi, mi cabeza trabaja, ¿cuál es el ikar el vener? ¿Por qué me importa el ikar?"
+},
+{
+"startMs": 4160763,
+"endMs": 4167243,
+"text": "No. Es que yo, yo sí me voy a eso. Es más- Es que es verdad. Es verdad, es verdad. ¿Eh? Es verdad, yo no, ni los otros."
+},
+{
+"startMs": 4167703,
+"endMs": 4174343,
+"text": "O sea, es otro- No, pero es verdad, no, es-- nomás lo estamos diciendo lo mismito en otras palabras. Si fuera Sefer no me sirve."
+},
+{
+"startMs": 4175163,
+"endMs": 4183883,
+"text": "A ver, ¿cuál es el borde en las makot de Mitráim? Tzfaldea. Ya, entonces le tzfaldea y ya. No, pero tú tienes que leer todo, es más, ve foto dos veces."
+},
+{
+"startMs": 4183883,
+"endMs": 4190643,
+"text": "¿Me explico? Eso no te va a servir esa Sfarad. Para Sefer no te va a servir esa Sfarad. ¿Pa qué sí te sirve esa Sfarad?"
+},
+{
+"startMs": 4191183,
+"endMs": 4197843,
+"text": "Pa Igeret. Igeret. Porque ¿cuál es el borde de una Igeret? El Igeret es algo que te lo paso, lo lees, entendiste el mensaje y lo tiras."
+},
+{
+"startMs": 4198043,
+"endMs": 4203923,
+"text": "Claro. Por eso no necesitas coserla de una manera impresionante. El Igeret..."
+},
+{
+"startMs": 4206223,
+"endMs": 4213903,
+"text": "Igeret, el borde, es el mensaje que te voy a tras-transmitir entre yo y tú. Claro. No es lo que yo estoy escribiendo. Sefer, el borde, es lo que escribí."
+},
+{
+"startMs": 4214723,
+"endMs": 4220783,
+"text": "Y tú cuando vas a leer, vas a leer lo que escribí. En Igeret, yo te lo voy a escribir a filo de Rash Prokim."
+},
+{
+"startMs": 4221643,
+"endMs": 4229323,
+"text": "No quiero que estés escrito. Quieres que me entiendas. Ah. Quieres que me entiendas, claro, sí, exactamente. El, el borde Igeret es el que el chiste es que me entiendas."
+},
+{
+"startMs": 4230843,
+"endMs": 4234943,
+"text": "Ese es el borde Igeret. Pero sí, sí, pero . El Rash te vota."
+},
+{
+"startMs": 4236363,
+"endMs": 4238743,
+"text": "Okey. ¿Sí? Entonces, quiere decir..."
+},
+{
+"startMs": 4240783,
+"endMs": 4250443,
+"text": "Entonces, acá, Meguilán Ikret Sefer, Ikret Igeret, eso es el biur del Inian de que la Meguilá Mejan Coré Adamta, Meguilá Betzera de Jehová."
+},
+{
+"startMs": 4250583,
+"endMs": 4262763,
+"text": "O sea, badai que tiene que estar escrito. La misma Gemara está diciendo los Esberim de por qué era casi, que tampoco se entiende mucho, pero sí es el Jose que el- Está bien, eso, el token, sí, hay que entender."
+},
+{
+"startMs": 4263003,
+"endMs": 4270943,
+"text": "El token de cada uno, que no sé, token de Hashberot, que, que me va a hacer mi token de Hashberot, pero, o sea. Pero, pero que, que, que, que márcate."
+},
+{
+"startMs": 4270983,
+"endMs": 4277243,
+"text": "Sí, sí, sí, que se puede llamar Igeret, por eso hay más quincones. Que sea nekuda, que es Igeret."
+},
+{
+"startMs": 4279983,
+"endMs": 4286103,
+"text": "Pero Hashiti Ektu Bakula. En otras palabras, ¿qué es eso? Es Sefer, ¿sí?"
+},
+{
+"startMs": 4286223,
+"endMs": 4294003,
+"text": "Y por eso la Gemara de ahí parte al no ser Sefer Igeret, hasta que se sube, hasta que el mismo Sefer tiene un aspecto de Igeret."
+},
+{
+"startMs": 4294363,
+"endMs": 4307703,
+"text": "Entonces, y la hora Moshe Mistinai. Y, y, y esto mismo de que si es Rash Berazinaí, pero por, pero es Gilú, ellos- Eso, entonces, Halajá Moshe Mistinai, Jiná de Sefer, es Gilú, Jiná de Igeret."
+},
+{
+"startMs": 4308583,
+"endMs": 4316303,
+"text": "Ya está más claro, sí. ¿Eh? Más claro, sí. Baruj, ¿no? Pues ya subió."
+},
+{
+"startMs": 4324923,
+"endMs": 4328523,
+"text": "Ahora sí. Oh, métete al este."
+},
+{
+"startMs": 4331863,
+"endMs": 4338363,
+"text": "Entonces, ¿cuáles se linean acá? Quiere decir que pasó el orden Purim según Oratsun. Es el orden de Loiran y Adam Bajai."
+},
+{
+"startMs": 4340043,
+"endMs": 4347163,
+"text": "Y, pero ya, o sea, te fuiste, ya está empezando. ¿Cuál es el orden Purim según esto?"
+},
+{
+"startMs": 4347403,
+"endMs": 4354703,
+"text": "El orden de Loiran y Adam Bajai. Es un or que Hashem Gilaque existe, pero lo ya lo legaló todo. Si Hashem legaló todo..."
+},
+{
+"startMs": 4354943,
+"endMs": 4355963,
+"text": "Es Aján. Sí."
+},
+{
+"startMs": 4360103,
+"endMs": 4361583,
+"text": "Es un or que sabes que existe."
+},
+{
+"startMs": 4364183,
+"endMs": 4370503,
+"text": "Es un or que- Pero Hashem no va a ir a Galot. No voy a Galot. Y tiene que venir de mí para ver si yo le entro a Galot. Como, como siempre hemos hablado."
+},
+{
+"startMs": 4370543,
+"endMs": 4378863,
+"text": "Tú tienes que legaló que existe ese or. Pero porque si Hashem ya legaló todo, entonces Loja Jolín la amo ahora."
+},
+{
+"startMs": 4379743,
+"endMs": 4388183,
+"text": "Pero tiene que ser que- Deja transmitirse que Loja Jolín no es primera. ¿Por qué se acusó el Juaya legalete? Hasloye, ay, Jolín, le, le..."
+},
+{
+"startMs": 4389503,
+"endMs": 4394863,
+"text": "Te quemas, o sea, es fuego, te quemas, como Mozart Benno, como Arsenio, como todo. Pero ¿por qué?"
+},
+{
+"startMs": 4398783,
+"endMs": 4405683,
+"text": "Sí. Eso es lo que hay que entender. ¿Cuál es el punto acá? ¿Cuál es la nekuda? ¿Cuál es la nekuda? ¿Cuál es la nekuda? La nekuda aquí es el que"
+},
+{
+"startMs": 4408943,
+"endMs": 4412303,
+"text": ". La nekuda es que es el Oid Carea. La nekuda es que es el Oid Carea."
+},
+{
+"startMs": 4414803,
+"endMs": 4425503,
+"text": "No importa, espera al Ariza. No, sí. Sí, sí, sí. Está muy amo, vamos a hacerlo más pasut."
+},
+{
+"startMs": 4426963,
+"endMs": 4428183,
+"text": "Primero pasut y luego amo."
+},
+{
+"startMs": 4430023,
+"endMs": 4438783,
+"text": "Pero... Entonces, aquí el punto es ese. ¿Dónde está la Jiná de Sefer Igeret en la historia de la Megila?"
+},
+{
+"startMs": 4440343,
+"endMs": 4446003,
+"text": "Tú cuando ves cada cacho por cacho por separado... Muy bien."
+},
+{
+"startMs": 4451043,
+"endMs": 4458203,
+"text": "Que... Que ves cada cacho por separado y que- O sea, no, no ves tú el, el Orá, todo esto que, todos los , todo."
+},
+{
+"startMs": 4458823,
+"endMs": 4466263,
+"text": "Cómo está escondido Hashem. Todo, tú ves- En otras palabras, la Megila de Hashem es un periodo. Sí. Son sucesos que están pasando."
+},
+{
+"startMs": 4466923,
+"endMs": 4478543,
+"text": "Pero cuando tú la lees toda junta, a todo bien que el prata-- del perecrishón, que justamente, yo qué sé, que a Hashem les faltaba ti, zejelek mecola, mecola, ze."
+},
+{
+"startMs": 4478783,
+"endMs": 4490523,
+"text": "Muy bien, muy bien, muy bien. Hasta vivir con Prat, que viene de un, de un jelek. Tenemos un din que la, la, que la Megila tiene que estar completamente abierta cuando la lees."
+},
+{
+"startMs": 4490563,
+"endMs": 4497223,
+"text": "Eso sí, sí. ¿Por qué tiene que estar completamente abierta cuando la lees? Tú, tú lees cachitos, entonces- Porque es Igeret."
+},
+{
+"startMs": 4498363,
+"endMs": 4507523,
+"text": "Ah, Igeret se abre todo, sí, de acuerdo. Por ser que es Igeret tienes que abrir todo. Porque el punto es que este Sefer no es Sefer, más-- solo porque es Igeret es Sefer."
+},
+{
+"startMs": 4508603,
+"endMs": 4515763,
+"text": "Acá necesitas, a fuer-- Betsem es un, Betsem, la Jiná de Sefer podría ser Bar Minán como si fuera un periódico."
+},
+{
+"startMs": 4516243,
+"endMs": 4524643,
+"text": "Pero el hecho que el que la está leyendo, Betsem, está entendiendo- El mensaje acá. Que hay aquí algo breve a los sucesos."
+},
+{
+"startMs": 4524703,
+"endMs": 4531003,
+"text": "Ah, sí. Entonces, Betsem, eso es lo que lo convierte, el Igeret hace que el Sefer sea Sefer, ¿sí?"
+},
+{
+"startMs": 4532143,
+"endMs": 4541543,
+"text": "Entonces, el Ige-- eso es Mejenjan Coré Adamta Megila, que desde donde yo ya puedo, ya entra Mitfisá con para darle kudushá al Sefer."
+},
+{
+"startMs": 4541583,
+"endMs": 4551303,
+"text": "¿Me explico? Dónde entra ya mi- Porque es un periódico, como dices. Sí. O sea, si lo dejo en Sefer y no hay alguien que lo lee, Kiviakó, entonces Betsem falta."
+},
+{
+"startMs": 4551323,
+"endMs": 4559963,
+"text": "Los sucesos que pasaron. Exactamente. Entonces, ¿qué le mete kudushá al Sefer? Es el de Shemishi Yavin, lo que se llama Jorépo, el Tirufa, Miká."
+},
+{
+"startMs": 4560053,
+"endMs": 4566253,
+"text": "Sí, me tiro cuatro días, claro. Sí. O sea, si yo te dije ahorita que, por ejemplo, desde que Ajasveros mató a Vashti, ya es"
+},
+{
+"startMs": 4568052,
+"endMs": 4575253,
+"text": "porque de ahí conllevó a que se casó con Esther. Desde ahí yo ya puedo decir- Exactamente, ya tapaste, ."
+},
+{
+"startMs": 4575273,
+"endMs": 4581193,
+"text": "Tapaste, que desde ahí- Entonces, ¿qué es el ? Es algo personal entre Ajasveros y nosotros."
+},
+{
+"startMs": 4582913,
+"endMs": 4583492,
+"text": "El Sefer,"
+},
+{
+"startMs": 4589992,
+"endMs": 4597492,
+"text": "está escrito-- o sea, la Megilat Esther es, es una de las historias de , ¿sí? Entonces, si tú abres las crónicas de"
+},
+{
+"startMs": 4598893,
+"endMs": 4600933,
+"text": "- Ahí está escrito todo. Está escrita la Megilat Esther."
+},
+{
+"startMs": 4603173,
+"endMs": 4603773,
+"text": "Sí, sí, sí, al final."
+},
+{
+"startMs": 4606952,
+"endMs": 4609313,
+"text": "Entonces, ¿qué es lo, lo que, qué es lo que lo convierte en uno de los"
+},
+{
+"startMs": 4611813,
+"endMs": 4615053,
+"text": "? Que lo convierte en Sefer ."
+},
+{
+"startMs": 4620593,
+"endMs": 4625013,
+"text": "Entonces, , ¿dónde está la Megilah? No está. Entonces, ¿dónde sí está?"
+},
+{
+"startMs": 4626413,
+"endMs": 4626853,
+"text": "¿Dónde está?"
+},
+{
+"startMs": 4628533,
+"endMs": 4629733,
+"text": "En el Sefer. No."
+},
+{
+"startMs": 4632073,
+"endMs": 4635353,
+"text": "¿En dónde? ¿En dónde? Ya usando los términos que todo el tiempo estamos usando."
+},
+{
+"startMs": 4636673,
+"endMs": 4642873,
+"text": "está escrito en el Sefer o en el Igeret? Igeret. Ah, ah, ah, ah, ah. En el Sefer. No, Igeret."
+},
+{
+"startMs": 4643053,
+"endMs": 4644733,
+"text": "En el Igeret. No está escrito"
+},
+{
+"startMs": 4646093,
+"endMs": 4646853,
+"text": ", porque todo"
+},
+{
+"startMs": 4648253,
+"endMs": 4654353,
+"text": "del Sefer Torá, de la Megilah está en el Igeret. Entonces, el Igeret somos nosotros."
+},
+{
+"startMs": 4658033,
+"endMs": 4665813,
+"text": "Que esto lleva un mensaje, que esto tiene porque es un Igeret, porque no es nada más algo que está escrito. Como está escrito es ."
+},
+{
+"startMs": 4668213,
+"endMs": 4668452,
+"text": "¿Sí?"
+},
+{
+"startMs": 4669793,
+"endMs": 4669853,
+"text": "."
+},
+{
+"startMs": 4673093,
+"endMs": 4679533,
+"text": "Pero acá la es que esto se llama Igeret. Entonces, se llama Igeret, , que hay algo que nosotros podemos"
+},
+{
+"startMs": 4682293,
+"endMs": 4690253,
+"text": "acá, que, que, que eso es lo que hace que el Sefer . Entonces, en otras palabras, si Shem HaShem estuviera escrito en la Megilah, ¿qué hubiera pasado?"
+},
+{
+"startMs": 4694433,
+"endMs": 4697533,
+"text": "Muy bien, exactamente. Sería . Sería ."
+},
+{
+"startMs": 4700673,
+"endMs": 4707613,
+"text": "O sea, que la Megilah es . ¿Por qué? ¿Eh? ¿Por qué qué? Según el cálculo."
+},
+{
+"startMs": 4708553,
+"endMs": 4715193,
+"text": "cálculo. No, no, ya sé. Pero ¿qué hubiera pasado si realmente la Megilat te pone y HaShem hizo de que, eh, Ahasveros mató a Vashti?"
+},
+{
+"startMs": 4715193,
+"endMs": 4717393,
+"text": "¿Qué pasa?"
+},
+{
+"startMs": 4720992,
+"endMs": 4722693,
+"text": "¿Por qué? ¿Por qué?"
+},
+{
+"startMs": 4724233,
+"endMs": 4724433,
+"text": "Sí,"
+},
+{
+"startMs": 4727973,
+"endMs": 4730373,
+"text": "sí. Tú traes el cálculo. No, es"
+},
+{
+"startMs": 4731613,
+"endMs": 4731933,
+"text": ". Sí."
+},
+{
+"startMs": 4733733,
+"endMs": 4741773,
+"text": "Que en esencia, lo-- pues si no está escrito Shem HaShem en la Megilah es por el aspecto de Igeret que tiene, porque el aspecto de Sefer..."
+},
+{
+"startMs": 4744833,
+"endMs": 4751713,
+"text": "HaShem, como es posible, dice: «No, no, no, como Sefer no me voy a revelar. Me voy a revelar que hay un estado de Igeret». Va a haber Miljáquil."
+},
+{
+"startMs": 4752393,
+"endMs": 4753492,
+"text": "Se supone que sí. ¿Sí?"
+},
+{
+"startMs": 4755933,
+"endMs": 4756393,
+"text": "¿Somos o no?"
+},
+{
+"startMs": 4765633,
+"endMs": 4767013,
+"text": "¿Estamos dónde?"
+},
+{
+"startMs": 4770173,
+"endMs": 4770353,
+"text": "Mmm."
+},
+{
+"startMs": 4772492,
+"endMs": 4779952,
+"text": "Entonces, ¿cuál es el punto? ¿Cuál es el punto? Es que viajo , ¿dónde está el Shem HaShem en la Megilah?"
+},
+{
+"startMs": 4781213,
+"endMs": 4782213,
+"text": "Lo tienes que encontrar tú."
+},
+{
+"startMs": 4784093,
+"endMs": 4791793,
+"text": "¿Qué quieres decir? ¿Que dónde está? Realmente está- En Igeret, ¿cómo dice? En Igeret. Ahí está. En HaShem y en nosotros, y no pasa por medio del Sefer."
+},
+{
+"startMs": 4791853,
+"endMs": 4794033,
+"text": "¿Te digo?"
+},
+{
+"startMs": 4795253,
+"endMs": 4801353,
+"text": "Está en HaShem. Es, este es el Igeret. Yo te mando una carta- O sea, está volando. Que yo le mando, imagino, yo le mando a él una carta."
+},
+{
+"startMs": 4801373,
+"endMs": 4808492,
+"text": "Clave Morse. Si tú la ves, no la entiendes. Claro. Pero hay algo entre yo y él que sí entendemos. Exacto. Esa es la de Igeret."
+},
+{
+"startMs": 4809033,
+"endMs": 4809393,
+"text": "Esa es la"
+},
+{
+"startMs": 4811213,
+"endMs": 4817313,
+"text": "del Shem HaShem que no está escrito en la Megilah. Es el Shem HaShem que está en lo más íntimo de HaShem."
+},
+{
+"startMs": 4818813,
+"endMs": 4818873,
+"text": "Y"
+},
+{
+"startMs": 4820153,
+"endMs": 4828313,
+"text": "en lo más íntimo de nosotros. Pero no, no pasa por medio de un Sefer. O sea, sin algún intermediario, casi me supongo."
+},
+{
+"startMs": 4828333,
+"endMs": 4836093,
+"text": "No, es clave Morse, o sea está en clave. El Sefer se puede llamar tipo el Sefer- Solo lo, solo lo-- es como los espías y las guerras, los que mandaban la paloma."
+},
+{
+"startMs": 4836613,
+"endMs": 4842273,
+"text": "Es un mensaje que, que nomás entienden ellos. Al que le agarra. Esa es la línea del Igeret."
+},
+{
+"startMs": 4843873,
+"endMs": 4845733,
+"text": "Entonces, entonces,"
+},
+{
+"startMs": 4848993,
+"endMs": 4849273,
+"text": "que el"
+},
+{
+"startMs": 4850673,
+"endMs": 4851633,
+"text": "de Megilat Esther"
+},
+{
+"startMs": 4853073,
+"endMs": 4853952,
+"text": "es que"
+},
+{
+"startMs": 4855673,
+"endMs": 4857013,
+"text": "nosotros y HaShem somos un,"
+},
+{
+"startMs": 4858833,
+"endMs": 4862393,
+"text": ". Nosotros y HaShem somos un, Am Israel y HaShem somos un. Entonces,"
+},
+{
+"startMs": 4863853,
+"endMs": 4864353,
+"text": "si HaShem"
+},
+{
+"startMs": 4867293,
+"endMs": 4877133,
+"text": "mejor que viene HaShem, su nombre que está escondido, él lo tiene muy, muy escondido con él. ¿Sí? Es el-- con Igeret se pasa de ahí, ¡fsh!, y se revela acá."
+},
+{
+"startMs": 4877133,
+"endMs": 4878013,
+"text": "¿Te digo?"
+},
+{
+"startMs": 4879773,
+"endMs": 4886793,
+"text": "O sea, en Sefer es no. Viene HaShem, lo muy, muy íntimo de él, lo revela y nosotros vemos la revelación de él."
+},
+{
+"startMs": 4888613,
+"endMs": 4895413,
+"text": "Vemos la revelación de él. Entonces, nosotros con-- cómo él se revela. Pero ¿qué pasa cuando él no se revela?"
+},
+{
+"startMs": 4896133,
+"endMs": 4900133,
+"text": "Entonces, está ahí, nosotros acá, no tenemos nada que ver. Y"
+},
+{
+"startMs": 4902853,
+"endMs": 4913813,
+"text": "ya no hay cómo llegue. HaShem es, es muy él, nosotros somos muy nosotros y no pasa, no hay cómo llegue de él hacia nosotros esa , ese, ese"
+},
+{
+"startMs": 4915473,
+"endMs": 4919753,
+"text": ", ese , ese... Antes, en otras palabras, es cuando HaShem"
+},
+{
+"startMs": 4921213,
+"endMs": 4923793,
+"text": "si HaShem había en el tiempo de la Megilah,"
+},
+{
+"startMs": 4925113,
+"endMs": 4943144,
+"text": "entonces, entonces sería Que sería nada más sefer. Entonces, si Hashem HaMitgalé en el tiempo de la megilá, entonces sería-- mira, de la misma manera que vino Hashem se reveló y nos salvó en Mitzráim, de la misma manera Hashem se reveló y nos salvó en, matando ahora, en Purim."
+},
+{
+"startMs": 4943485,
+"endMs": 4952184,
+"text": "Entonces, ¿qué sería eso? Puro sefer. Puro sefer. Pero ya no sería megilat ester. Ya no sería que algo nistar itgala."
+},
+{
+"startMs": 4952184,
+"endMs": 4953225,
+"text": "¿Sí?"
+},
+{
+"startMs": 4955585,
+"endMs": 4966985,
+"text": "Ese sería puro sefer. ¿Sí? Ese sería puro sefer. Acá el punto es que no, que qui mejor, Hashem no necesita venir y decir aquí: «Hey, yo soy el rey, yo mando, aquí estoy."
+},
+{
+"startMs": 4967345,
+"endMs": 4969025,
+"text": "Las primeras a mis hijos no los toquen»."
+},
+{
+"startMs": 4970425,
+"endMs": 4979765,
+"text": "Yo me quedo en el Shamaín, qui mejor. Yo me quedo yo, muy yo, ¿sí? Y a mis hijos son muy ellos. Pero vosotros no, no hay algo que los separe de mí, betsem."
+},
+{
+"startMs": 4979765,
+"endMs": 4988425,
+"text": "¿Sí? Lo muy muy yo es muy, muy ellos. No necesito venir yo y decir: «Pérate, yo soy el rey, son mis hijos, son mis esclavos, son mis abadim, yo los cuido»."
+},
+{
+"startMs": 4988585,
+"endMs": 4997144,
+"text": "No, no, no necesita eso. Por eso, a filo que Hashem no se busca revelar. Como sin filtros, sin tzimtzumim, sin nada."
+},
+{
+"startMs": 4997465,
+"endMs": 5006985,
+"text": "Hashem bat shmot y nosotros bat shmotenu. Somos uno, betsem. No necesita venir Hashem a revelarse con mi-- ni sin, ni flavor, y llega hasta nosotros."
+},
+{
+"startMs": 5007144,
+"endMs": 5010644,
+"text": "Sin el, lo sin el niñete tzimtzum. Sin nos-- sin aspiro, sin"
+},
+{
+"startMs": 5012385,
+"endMs": 5029385,
+"text": ". Sin zeir anpin. Ese es el punto. Eso se llama que zeir anpin se metió a dormir, qui mejor. Entonces, lo de zeir anpin se mete a dormir, pirush Hashem, que Hashem como un manhij, como un mélej, como el que cuida, como el que dirige, como el que protege a, a su pueblo y lo está llevando a un tajlí, no está."
+},
+{
+"startMs": 5030445,
+"endMs": 5036625,
+"text": "No está. No hay zeir anpin. Es qui mejor, Hashem es muy él. Eso se llama yesod Abba. ¿Se llama qué?"
+},
+{
+"startMs": 5037144,
+"endMs": 5043765,
+"text": "Es muy él, qui mejor. Hashem, qui mejor lo está en el Shamaín. ¿Y cómo se llama? Yesod Abba. Yesod Abba."
+},
+{
+"startMs": 5044184,
+"endMs": 5051565,
+"text": "Entonces, qui mejor, Hashem mashpiajaim derech la ovda, que él es el mélej, ¿sí? Él mashpiajaim, como un mélej, él mashpiajaim."
+},
+{
+"startMs": 5051625,
+"endMs": 5062525,
+"text": "Eso se llama- El Kadosh se fue a dormir, naguid, de al kasé. El Kadosh, el mélej se fue a dormir. ¿Qué significa el mélej? El que, el que, el que, el que nos lleva, el que nos cuida, el que nos protege."
+},
+{
+"startMs": 5062825,
+"endMs": 5069945,
+"text": "El líder. Sí, el líder. Entonces, él se fue a dormir. No está. Es kazama, dice: «Si el de Mitzráim, ya, vamos a acabarlos»."
+},
+{
+"startMs": 5071705,
+"endMs": 5077905,
+"text": "Él se fue a dormir. Hashem no es nada más mélej, sino también que es- ¿Cómo lo captó cuando no fue a los veinte años? Es Abba. ¿Qué significa que es Abba?"
+},
+{
+"startMs": 5078385,
+"endMs": 5085165,
+"text": "Es papá. Un hijo deja de ser hijo de su papá- Cuando se va a dormir, ¿no? Cuando se va a dormir, no. Eso, eso, betsem..."
+},
+{
+"startMs": 5085644,
+"endMs": 5094264,
+"text": "Si es algo betsem. Si el rey se va a dormir, entonces el rey en ajená. Pero acá betsem es algo betsem, pero es algo betsem mucho más que un papá y un hijo, porque es Hashem."
+},
+{
+"startMs": 5094264,
+"endMs": 5099045,
+"text": "¿Sí? Hashem no tiene límites, está-- entonces mi mélej está yehará."
+},
+{
+"startMs": 5101805,
+"endMs": 5108625,
+"text": "Tan, tan amuká que nosotros y Hashem betsem somos uno. Lo mismo de ayer, que no te va a soltar nunca. No te va a soltar nunca, exactamente."
+},
+{
+"startMs": 5109245,
+"endMs": 5115925,
+"text": "Entonces, aunque te suelte zeir anpin, qui mejor, te está uniendo de un lugar más ele-elevado, ¿sí?"
+},
+{
+"startMs": 5116285,
+"endMs": 5124805,
+"text": "Te está uniendo a un lugar más elevado. Lo más rojo es el blanco, es la carval, tranquilo. El, el que se parezca más rojo porque se está yendo a dormir- Está ahí."
+},
+{
+"startMs": 5125105,
+"endMs": 5132785,
+"text": "Pero se convierte en blanco. Se convierte en blanco. Porque ese blanco es el, el, el, el más, el más tahor, el más- Entonces, ¿qué pasaría?"
+},
+{
+"startMs": 5133305,
+"endMs": 5147365,
+"text": "Entonces, eso es algo que Hashem dio a que nosotros nos demos cuenta. Que te des cuenta que tú y Hashem eres uno, que a filo que ven no esté Hashem aquí protegiendo, dirigiendo y no está acá, yo-- estás abandonado, pero estás con él."
+},
+{
+"startMs": 5148045,
+"endMs": 5156005,
+"text": "¿Por qué? Porque no estoy abandonado. No. ¿Por qué, por qué no será que estoy abandonado? Porque betsem nosotros y él somos uno, betsem."
+},
+{
+"startMs": 5156125,
+"endMs": 5165325,
+"text": "Él, lo más él de él, es lo más nosotros de nosotros que hay, ¿sí? Lo más él, él, él, es lo más nosotros, nosotros, nosotros, betsem estamos unidos, betsem."
+},
+{
+"startMs": 5165345,
+"endMs": 5170025,
+"text": "¿Qué pasaría? Por eso Hashem perdona a Am Israel en Jetaeg. Siga subiendo esto."
+},
+{
+"startMs": 5171305,
+"endMs": 5180365,
+"text": "Por eso Hashem perdona a Am Israel en el Jetaeg. ¿Por qué? Porque, porque Hashem lo perdona a Am Israel en el Jetaeg, porque no los manda a Urá."
+},
+{
+"startMs": 5180925,
+"endMs": 5188864,
+"text": "Entonces, main el Yud Guímel Midot, main el Yud Guímel Midot de Rajamim, pero ¿cuál es el shoresh que hay Yud Guímel Midot de Rajamim?"
+},
+{
+"startMs": 5189205,
+"endMs": 5198005,
+"text": "No que Hashem me rajem, no que el Mélej me rajem, de lo amor. Exactamente, que llega a un lugar más de líon, ¿sí?"
+},
+{
+"startMs": 5199184,
+"endMs": 5208405,
+"text": "Que betsem somos uno, no existe bemet separarnos. El ajén no me lo da Rajamim a, a, a mi tío. Entonces, betsem, Rajamim, pirushot, es que viene Hashem como un Mélej y me rajem."
+},
+{
+"startMs": 5208445,
+"endMs": 5212005,
+"text": "Pero ¿por qué me rajem? ¿Y por qué Kipurim? Porque hay Purim."
+},
+{
+"startMs": 5213285,
+"endMs": 5225345,
+"text": "Por el-- la hora que hay en Purim. Que betsem somos uno con Hashem. Amán, cuando estaba buscando-- El Jetaeg, que se-- que es el Tzelafkad que lo areja en Kipur, puede pasar porque existe- Porque existe."
+},
+{
+"startMs": 5225365,
+"endMs": 5231665,
+"text": "Porque existe esa conexión. Porque si no hubiera sido así, entonces no hay perdón tampoco. Sí, eso se llama Purim."
+},
+{
+"startMs": 5231825,
+"endMs": 5239245,
+"text": "En Kipur. Kipurim, que Purim. ¿Por qué? Porque Areh, ki tot Yud Guímel Midot, Moisés le dijo a Hashem: «Areni na et hajeja»."
+},
+{
+"startMs": 5240184,
+"endMs": 5246264,
+"text": "Le dijo: «Mira, te voy a enseñar, pero no te voy a enseñar todo». Lo que no le enseñó, ¿qué fue? Ya, ese es Purim."
+},
+{
+"startMs": 5246325,
+"endMs": 5253184,
+"text": "¿Sí? Ese es lo iraní Adam HaJai, es lo que no vio Moisés, ¿sí? Y eso es más o menos lo que dice aquí la Gemara, lo de Ajulot Jalomón."
+},
+{
+"startMs": 5253485,
+"endMs": 5260465,
+"text": "¿Qué pasaría si Hashem lo revelaría en el tiempo de Moisés? Que es un guiluy, que no nosotros nos damos cuenta, que Hashem lo revela."
+},
+{
+"startMs": 5261365,
+"endMs": 5267465,
+"text": "No. Entonces- Te haces Hashem, ¿me explico? Te unes con él, lo, y lo de Ajulim Lamón, pero ahora no se oiga."
+},
+{
+"startMs": 5267985,
+"endMs": 5275125,
+"text": "Entonces, guiluy es algo, es lo más, más de líon que hay, que Hashem nada más en la megilá dejó que nosotros mejadesh."
+},
+{
+"startMs": 5276865,
+"endMs": 5285365,
+"text": "Mejadesh ese Or Primim que en el tiempo de Moisés, el guilá que es shajar mejadeshot. Pero imo haya mejadeshotó."
+},
+{
+"startMs": 5286085,
+"endMs": 5293644,
+"text": "Hazlo Ajulim Lamón, mi peneota ora. Por eso se llama ora, porque no es un Or que llega de arriba hacia abajo, sino es un Or que está abajo betsem."
+},
+{
+"startMs": 5293725,
+"endMs": 5300189,
+"text": "Ahí no Tiene que ver con- Que aquí mejor no hay plan entre arriba y abajo ¿Kiblum de abajo tiene que ver?"
+},
+{
+"startMs": 5300229,
+"endMs": 5314289,
+"text": "Seguro, esto es kiblum de abajo. Esto es más macho. Por eso es-- todo esto es más bajo y todo esto es más alto. Esto es más, más- Matar es más bajo, no fue kiblum de abajo, aquí es kiblum de abajo, llegaron a una largada también más alta en, eh, que no se queman con ese kilui."
+},
+{
+"startMs": 5314949,
+"endMs": 5321409,
+"text": "Sí, en ciertos aspectos, sí. Está tremendo. Este, este, ¿sabes que megilá es más alto que todo el Sefer Torá?"
+},
+{
+"startMs": 5322549,
+"endMs": 5323369,
+"text": "Es el Shura Tefer."
+},
+{
+"startMs": 5324869,
+"endMs": 5339389,
+"text": "Es el Shura Tefer del Sefer Torá, que de Shelo y Carea, que hace que sea imposible romper el Sefer Torá, porque rompernos a nosotros, Kibiajón, es, es, es-- el que se pega contra nosotros, está peleando directamente contra Hashem, directamente."
+},
+{
+"startMs": 5340709,
+"endMs": 5346909,
+"text": "Este es el tefilín Shelagorburg. La judía, Maitá, Orá, Resesón. Orá, Zo, Zotoiro."
+},
+{
+"startMs": 5348369,
+"endMs": 5357869,
+"text": "Sí. ¿Cuál tefilín? Eh, Yekar. Yekar, Yekar elutfilín. Este es el Yekar, ve este, que es el, el, el, Israel, Asher Bejahet, Parar."
+},
+{
+"startMs": 5358229,
+"endMs": 5372089,
+"text": "Todo lo que explicamos, que somos uno nosotros, Iacob Burju. Yekar elutfilín. Entonces, quiere decir, el Yekar elutfilín, que justamente, según esto, que Hashem no guilalo a Moisés, el orden de Purim."
+},
+{
+"startMs": 5372789,
+"endMs": 5378909,
+"text": "Y entonces, ¿qué sirvió? El nudo. El nudo del tefilín, el tefilín mismo, es el Yekar, Kibiajón."
+},
+{
+"startMs": 5379309,
+"endMs": 5391989,
+"text": "Nosotros y Hashem somos uno, Kibiajón. Israel, Asher Bejahet, Parar. Entonces, eso es todo lo que vimos de Yajas del tefilín, es, es ממש esto, que nosotros y Hashem somos uno, este es el gilul que se guilá en, en Megilat Ester."
+},
+{
+"startMs": 5392469,
+"endMs": 5399209,
+"text": "Esto es todo el lineal de poni en be poni. Esto, esto se llama que el Yesod de Abba mitgalé en la nukba, el lodo de Herzer Ampin."
+},
+{
+"startMs": 5399269,
+"endMs": 5408989,
+"text": "A ver, a ver, ¿cómo?, ¿qué es lo...? Si mitgalé de, el Yesod de Abba, es otra vez la, la protección y la Abba de Hashem mitgalé de Herzer Ampin, que viene Hashem, mitgalé como Mélech, y Manhig, que es Mimén los protege."
+},
+{
+"startMs": 5409029,
+"endMs": 5415229,
+"text": "Herzer Ampin se te quiere a dormir. Entonces, Kibiajón, ya el protector, Manhig, líder, Mélech, ya no está."
+},
+{
+"startMs": 5415329,
+"endMs": 5422769,
+"text": "¿Y cómo mitgalé? De Herck Nukva. ¿Qué es de Herck Nukva? Nosotros, Kibiajón. Ah, Nukva somos nosotros. Somos nosotros. Entonces, Kibiajón, él, nosotros somos parte de la Nukva."
+},
+{
+"startMs": 5422989,
+"endMs": 5429709,
+"text": "Entonces, Kibiajón, lo más amo, íntimo que tiene él, de repente ya no pasa por medio de, de- De Herzer Ampin. De Ampin, el Manhig."
+},
+{
+"startMs": 5429929,
+"endMs": 5438389,
+"text": "Entonces, ya no está el Manhig, Mimén el mitgalé, que igual, igual lo tenemos. El Ford no era que, que Hashem nos protege, porque, porque es el Manhig, ¿sí?"
+},
+{
+"startMs": 5438969,
+"endMs": 5442669,
+"text": "Vehome, que es, él es Manhig, porque Vehome, que somos uno."
+},
+{
+"startMs": 5444029,
+"endMs": 5452969,
+"text": "Porque Vehome, que somos sus hijos, somos, eso es Abba, somos sus hijos. Entonces, entonces, ve este, y por eso él decidió venir como Mélech."
+},
+{
+"startMs": 5453009,
+"endMs": 5455509,
+"text": "Yesod es el jiut, el ashpá de jaim,"
+},
+{
+"startMs": 5457029,
+"endMs": 5464068,
+"text": "el ashpá de jaim, ese es Yesod. Yesod mashpia jaim. Yesod es la mashpia jaim, la resposa, es jiut. A la, a la Nukva."
+},
+{
+"startMs": 5464129,
+"endMs": 5472929,
+"text": "Sí, es-- entonces, Kibiajón, el ashpá de jaim, que Hashem mashpia a la Nukva, jaim, es como Hashem mashpia jaim. Normal, como Mélech, Azán, Fanes, todo, jaim."
+},
+{
+"startMs": 5473369,
+"endMs": 5481709,
+"text": "Entonces, pita, morita, mitgalé, no. Que Kibiajón también, si Hashem no mitgalé como Mélech, la ashpá de jaim es porque nos trae jaim, es vehem sujaim."
+},
+{
+"startMs": 5482789,
+"endMs": 5497669,
+"text": "Guau. Sí, la ashpá de jaim es que nos trae jaim, es vehem sujaim, ese es el jaim de Yesod Abba. Entonces, quiere decir, es el Yesod, Kibiajón, el, la ashpá de jiut, que no llegó de Herzer Ampin, sino llegó dis-- directamente de..."
+},
+{
+"startMs": 5498529,
+"endMs": 5508949,
+"text": "Pero entiendo que antes era así y tiene que romper, quiere decir, quiere decir que se va a dormir para que luego cuando esto, otra vez- No, no, Dios santo, va a nada."
+},
+{
+"startMs": 5510289,
+"endMs": 5522449,
+"text": "Cuando, cuando Herzer Ampin se va a dormir. Cuando está Herzer Ampin, ¿quién es Herzer Ampin? Sí. Si el gólo Rajamá y todo lo que hablamos del Kabod acá, el Kasai, Kibiajón, todo lo que existe acá, ese es el aspecto de Herzer Ampin."
+},
+{
+"startMs": 5522789,
+"endMs": 5530469,
+"text": "Ya que soy el Mélech, también Kabod, Kibiajón. Entonces, Mimén, esos aspectos, pero de momento, entonces, todo ve este, viene Abba, entonces, nosotros, la bertuvia."
+},
+{
+"startMs": 5530889,
+"endMs": 5537929,
+"text": "Ya no somos... Ahora, ¿quién, quién es el-- quién es el, quién es el bala Méimre en, en Megila?"
+},
+{
+"startMs": 5539689,
+"endMs": 5543969,
+"text": "No, no somos diez. Dijimos: «¿Qué es Yesod? Ashpá dejaim»."
+},
+{
+"startMs": 5545249,
+"endMs": 5549269,
+"text": "Yesod de Abba. Sí. ¿Quién es el bala Méimre, de estos Méimre? El dios. No."
+},
+{
+"startMs": 5550648,
+"endMs": 5559109,
+"text": "Yesod es Joseph. No, más fuerte. ¿Dónde estás? Megila, Yicta, Tamuj, Bet. El Male, Nishtayer, todo eso, ¿quién lo dice?"
+},
+{
+"startMs": 5560829,
+"endMs": 5562329,
+"text": "Va a ser abajo porque somos nueve. Va."
+},
+{
+"startMs": 5564369,
+"endMs": 5570489,
+"text": "Ramjía bar Abba. ¿Qué es Jía? ¿Haiut, jaim?"
+},
+{
+"startMs": 5571189,
+"endMs": 5575529,
+"text": "Que viene de Abba. Por eso todo el tiempo Jía bar Abba. Ya está ahí"
+},
+{
+"startMs": 5576809,
+"endMs": 5583869,
+"text": "confirmando lo que es importante. Ahorita recuerdo. ¿Llega alguien?"
+},
+{
+"startMs": 5584829,
+"endMs": 5587029,
+"text": "Está increíble. Yesod de Abba."
+},
+{
+"startMs": 5588849,
+"endMs": 5596369,
+"text": "Entonces, entonces acá es Kibiajón, es el Sefer, pero no es Sefer porque no es de Herzer Ampin. Entonces, si no es, si es de Herzer Ampin, entonces es un Sefer."
+},
+{
+"startMs": 5596489,
+"endMs": 5602728,
+"text": "Ahí, Hashem mitgalé. Quilo, se puede escribir un Sefer de, de Herzer Ampin, porque ese-"
+},
+{
+"startMs": 5605249,
+"endMs": 5612009,
+"text": "El Sefer de Herzer Ampin es- Es el Sefer Torá. El Tziat Mitzrán, las Makot, Kiriati Am Suf, Hashem mitgalé."
+},
+{
+"startMs": 5612289,
+"endMs": 5626629,
+"text": "Como van sus sod- Es un... increíble. El sod de todo eso, badai, que en el primiot de cada vez que mitgalé de Herzer Ampin, ve este, puedes ver que es ve este, no, no, este señor es el Manihig y el Mélech que quiere Kabod, o sea, decir, veheme."
+},
+{
+"startMs": 5626829,
+"endMs": 5633809,
+"text": "Todavía está el Godismó, te digo que todavía está el Godismó. Pero en Purim es el guilú más grande, que de ahí vamos a- Que Kibiajón no hay Sefer."
+},
+{
+"startMs": 5633829,
+"endMs": 5644249,
+"text": "Que también- Que Kibiajón el Sefer es Sefer de Ibrahim. Entonces, parece que no hay de Herzer Ampin. Entonces, parece una historia que pasó acá. No, no, no parece una historia que Hashem movilota, ya que ahora que no es, tiene un aspecto de Sefer."
+},
+{
+"startMs": 5644568,
+"endMs": 5653449,
+"text": "Pero, kilo, nada más el sod es lo que hace que el pshat sea pshat. Es un Sefer de sod, Megilat Ester y guilú del sod."
+},
+{
+"startMs": 5653609,
+"endMs": 5660089,
+"text": "No son como aquí, que hay eventos y ahí los llevamos. Siete, corriendo como locos, sudando."
+},
+{
+"startMs": 5660089,
+"endMs": 5668749,
+"text": "No sé. Muy bueno, muy bueno. Jazak u baruj. Y Mordejái, ¿qué? ¿Qué es Mordejái, eso? Mordejái es el que me dio esta ojina."
+},
+{
+"startMs": 5669389,
+"endMs": 5679329,
+"text": "Kibiajón, él, él es el Yesod Abba que está en la Nukva. Es que Kibiajón, él es el que... Re bajo, ya está la moda, él le dijo: «Él, lo y clav, lo y se acabe, su lugar»."
+},
+{
+"startMs": 5681029,
+"endMs": 5689148,
+"text": "No, no, pero no está Hashem. Entonces, necesitas tú buscártela. ¡Sí está! Ya. ¡Sí está! No, pero queda bien con este y queda bien con el otro."
+},
+{
+"startMs": 5689189,
+"endMs": 5697929,
+"text": "Búscatelos por acá. Mordejái, ve este. O sea, pero él explica también las mitzvot, case esta, y Mishté y, y Matadot Lebión, ¿está hablando o algo así?"
+},
+{
+"startMs": 5697969,
+"endMs": 5699869,
+"text": "Pero no lo explico ahorita. No lo expli-- ah, todavía"
+},
+{
+"startMs": 5701642,
+"endMs": 5703542,
+"text": "Entonces, esa es la punto de la sheina"
+},
+{
+"startMs": 5704822,
+"endMs": 5712962,
+"text": "de Zeir Anpin y de yesod Abba que me dice- Para ahí la una nedera she'ana ta'melech, o sea, que el goel que dice que todos los reyes es el"
+},
+{
+"startMs": 5714242,
+"endMs": 5719842,
+"text": "Santo, la nedera she'ana ta'melech que es decir que él lo hace. Ah, no, es al revés. Ahí se puede dormir y acá no se duerme."
+},
+{
+"startMs": 5723082,
+"endMs": 5724402,
+"text": "Mmm. Tal hará."
+},
+{
+"startMs": 5725902,
+"endMs": 5727142,
+"text": "Ezkov ech, hazak u'baruj."
+},
+{
+"startMs": 5728501,
+"endMs": 5737022,
+"text": "Es como que se despierta. La nedera sheina ta'melech del Olam. Ahí, como que, el Hashem se despertó. Entonces, pero él se revela en la nukve, como que."
+},
+{
+"startMs": 5737062,
+"endMs": 5744222,
+"text": "No se revela como Zeir Anpin, se revela él en la nukve. Eso es-- y Mordejai salió de frente al rey, como que."
+},
+{
+"startMs": 5745082,
+"endMs": 5746562,
+"text": "Ahí, ese fue el giliul del"
+},
+{
+"startMs": 5748742,
+"endMs": 5755322,
+"text": "Santo. En la nukve, como que. ¿A quién desea el rey hacer yekar?"
+},
+{
+"startMs": 5757402,
+"endMs": 5763262,
+"text": "Eso el yekar que se revela ahí, yekar. El abito de realeza, tehelet u'chul."
+},
+{
+"startMs": 5764562,
+"endMs": 5766302,
+"text": "Esto el tema de Mordejai."
 }
 ]
 }

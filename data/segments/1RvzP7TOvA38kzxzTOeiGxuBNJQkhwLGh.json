@@ -1,1434 +1,2436 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 1000,
-"endMs": 3000,
-"speaker": "Speaker 1",
-"text": "Entonces ya vimos."
+"startMs": 80,
+"endMs": 6600,
+"text": "Tani, mi hermana. Pues ya vimos, eh, la Mishná. La milá de las, de la milá. another. Escritor."
 },
 {
-"startMs": 3000,
-"endMs": 5000,
-"speaker": "Speaker 2",
-"text": "La Guemara de Mila Nedarim לב"
+"startMs": 6640,
+"endMs": 8620,
+"text": "Que no puede Es"
 },
 {
-"startMs": 5000,
-"endMs": 36000,
-"speaker": "Speaker 1",
-"text": "\"Hשמםגקר\". \"Min HaAreilim, que no puede tener provecho de Areilim, Mutarbe Arleisrael, bemule obdeko habiim. Shaninenale mulim, Azurbe Oleisrael, Mutarbe Mulei Ovdeko habiim. Shena Orlak Kruya, la Shema Ovdeko habiim. Entonces ahí habla como todos los Grimm se llaman Arelim, Iam Israel, son Nimulim, Y todas las mahalot tan grandes que tiene el Brit Mila, que ni hija de tua le da a sloces del Britot, lo ha de tacha bata jamura ahorita."
+"startMs": 36680,
+"endMs": 43660,
+"text": "que-- ahorita me se viene a la cabeza, quiero este de que a filo una persona Harel, un Israel Harel o lo, o lo Harel."
 },
 {
-"startMs": 36000,
-"endMs": 51000,
-"speaker": "Speaker 2",
-"text": "Me enseñan a la cabeza kilo este ñan de que filo una persona a Arel, un isael arel, olo arel. Skittoni, pero también tiene que ver estas con que? Con el nanojil. Tiene que ver con que tu no lo hagas,"
+"startMs": 43660,
+"endMs": 51160,
+"text": "Es jitzoni. Es jitzoni. Es jitzoni. Pero también tiene que ver estas con qué, con el Anojí. Claro. Tiene que ver con que- Es todo en la semilla."
 },
 {
-"startMs": 51000,
-"endMs": 77000,
-"speaker": "Speaker 1",
-"text": "Aunque tu no lo hagas, Ya le dijo. Empieza de acento, empieza. Claro, eso es. Es el que te quitó la orla, ¿ves? Yo. Yo me hice divertido. Falta que lo manden, hablando de las personas que ya hemos estudiado. Legalot. Legalot que lo tienes. Exactamente."
+"startMs": 51160,
+"endMs": 57280,
+"text": "Aunque tú no lo hagas, aunque tú no lo hagas, a Dios por hijo- Ya le dijo Anojí. Empieza de Hashem, empieza- Claro, eso es. Anojí"
 },
 {
-"startMs": 77000,
-"endMs": 111000,
-"speaker": "Speaker 1",
-"text": "Dani. La presión en Kolhommer, Dola, Milá, Kols, Juyot. Ya estamos serra venu, lo amdulok se ni tras el minamilá, sin el mar, lo que es seu, que es amito, sin pagaso todo, y lo iba a matar. Ya, ya, ya. Qué es amito? Amar, revijase, solo ahí, moserra venu y tras el minamilá, y la cajamar, lo envuelve."
+"startMs": 60120,
+"endMs": 66920,
+"text": "es el que te quitó la orla, en vez. Yo, yo mi sidí, en vez de yo ni colé, te te abrí. Falta un ahí, eh, que lo manejen."
 },
 {
-"startMs": 111000,
-"endMs": 152000,
-"speaker": "Speaker 1",
-"text": "La canal, sino el mar, ahí vemos si lo hice yo, mi. Aqueados por Juan Marlin, legs of mi trai. Entonces yo tengo ahorita un tibui, y que, no sabía. Aquí, pero es que no podemos pensar que hay aquí un \"innante daddy\". Esto significa un \"innante daddy\"? Que. Mosé bien tenemos. Ahora que os lo puso a Moshé en un matarta de cuba que por un lado necesitaba la mul y Ashem no lo dejó dijo mira Moshé te vas a mister y entonces."
+"startMs": 66920,
+"endMs": 77480,
+"text": "Hablando de las personas que hemos estudiado. Legalot. Historieta el data. Legalot es de, legalot que lo tienes. Es verdad. Sí."
 },
 {
-"startMs": 152000,
-"endMs": 157000,
-"speaker": "Speaker 1",
-"text": "Entonces qué le está diciendo a Ashem a Moshé en eso? Qué le está diciendo a Moshé a Shem?"
+"startMs": 77500,
+"endMs": 89440,
+"text": "Tani, rabí Shomer Kol Jomer, glola Mila shekol zjoiot sheasa Moshe rabenu. Lo amdu lo que se nitrashel min haMila, sheh naemar, yibgashehu Hashem yibakesh amito."
 },
 {
-"startMs": 157000,
-"endMs": 159000,
-"speaker": "Speaker 2",
-"text": "Pues no eras mila ahorita."
+"startMs": 91420,
+"endMs": 97540,
+"text": "Shem pagash oto. Yyy, lo yomota. Zehu, ya, zehu."
 },
 {
-"startMs": 159000,
-"endMs": 162000,
-"speaker": "Speaker 1",
-"text": "No? Cómo?"
+"startMs": 97560,
+"endMs": 110620,
+"text": "No me acuerdo sin Moshe. Y bakesh amito. Amar rebí Chas ve Sholoim, que Moshe rabenu nitrashel min haMila, ela kaj amar: \"Emol ve etze\"."
 },
 {
-"startMs": 162000,
-"endMs": 165000,
-"speaker": "Speaker 1",
-"text": "Entonces no se mila?"
+"startMs": 111340,
+"endMs": 114060,
+"text": "Tsakanai, sheh naemar, \"y hyá el Yom Shlishi ve otam kojavim\"."
 },
 {
-"startMs": 165000,
-"endMs": 182000,
-"speaker": "Speaker 1",
-"text": "Va raya que ahorita lo va a regañar, Creo que es amito si, porque el es mi prima nena es no se, es mi primera señorita estoy como la tequila ok, pero que, que haga el brujo le esta diciendo a Mosé?"
+"startMs": 116200,
+"endMs": 123740,
+"text": "Emol ve es hes lo iso iomim. HaKadosh Baruj Hu amar li: \"Lej shof Mitzrayim\". Yo tengo que ir a Mitzrayim."
 },
 {
-"startMs": 182000,
-"endMs": 185000,
-"speaker": "Speaker 1",
-"text": "Que algo muy amor, que le esta diciendo a Mosé? Que?"
+"startMs": 124040,
+"endMs": 130960,
+"text": "Y que Hashem no sabía. Entonces, es, כאילו, aquí, ¿cuándo podemos pensar que hay aquí un iniant zdadi?"
 },
 {
-"startMs": 185000,
-"endMs": 194000,
-"speaker": "Speaker 3",
-"text": "Si Te la traen Max a las ocho esta bien? Hermoso si? Ya mas para atrás de las ocho claro ya,"
+"startMs": 133580,
+"endMs": 135860,
+"text": "Que Moshe, en vez de,"
 },
 {
-"startMs": 194000,
-"endMs": 206000,
-"speaker": "Speaker 1",
-"text": "Ahora buenísimo, gracias."
+"startMs": 137480,
+"endMs": 138040,
+"text": "nitka."
 },
 {
-"startMs": 206000,
-"endMs": 222000,
-"speaker": "Speaker 1",
-"text": "Entonces, ¿qué? Qué acabas de ver Julio, le está dando meramed a Mosé? Porque Asham no le dijo, Mosé, Mosé acaba de tener un bebé. Mosé le dijo, ve, vete. Cuándo? El octavo día."
+"startMs": 139240,
+"endMs": 146660,
+"text": "Al Kadosh Baruj Hu lo puso a Moshe en un estado takua. Que por un lado, nes tava lamul, y Hashem no lo dejó."
 },
 {
-"startMs": 222000,
-"endMs": 229000,
-"speaker": "Speaker 1",
-"text": "El Catucan, que el octavo día de que Mosé acaba de tener un bebé."
+"startMs": 147180,
+"endMs": 148640,
+"text": "Le dijo a Moshe: \"Te vas a Mitzrayim\"."
 },
 {
-"startMs": 229000,
-"endMs": 230000,
-"speaker": "Speaker 2",
-"text": "Y es el día de Brit Villa. Es el."
+"startMs": 149940,
+"endMs": 150620,
+"text": "Y entonces,"
 },
 {
-"startMs": 230000,
-"endMs": 247000,
-"speaker": "Speaker 1",
-"text": "Día de Brit Villa. Tienes que. Te imaginaste. Tú necesitas mandar a alguien y es el. Le dices oye necesito que vayas a Israel a algo, a hablar con un Ham, es algo muy importante."
+"startMs": 152120,
+"endMs": 156600,
+"text": "entonces, ¿qué le está diciendo Hashem a Moshe en eso? ¿Qué le está diciendo a Moshe, Hashem?"
 },
 {
-"startMs": 247000,
-"endMs": 254000,
-"speaker": "Speaker 1",
-"text": "Sabes que ves el Ritmila de mi hijo. Ok, entonces, entonces acá a su hijo le está diciendo a Moshe."
+"startMs": 157960,
+"endMs": 160640,
+"text": "Pues no hagas milah ahorita. Mmm. Come."
 },
 {
-"startMs": 254000,
-"endMs": 262000,
-"speaker": "Speaker 2",
-"text": "O sea, otra vez, ¿Cuál es el Siman que Ashem le está diciendo? Qué estás preguntando? Cuál es el Siman que Moshe tiene que entender?"
+"startMs": 162060,
+"endMs": 163320,
+"text": "Entonces, ahora no hace milah."
 },
 {
-"startMs": 262000,
-"endMs": 268000,
-"speaker": "Speaker 1",
-"text": "Que muchos tienen que entender que Ashem le esta diciendo con esto. Por qué Ashem lo esta haciendo Así?"
+"startMs": 165900,
+"endMs": 175360,
+"text": "Va a raya que ahorita lo va a regañar, ¿sí? Va a ir porque es amito. ¿Sí? Porque ela mi pene mane nas Moshe, en mi pene shenit ase con olot jila."
 },
 {
-"startMs": 268000,
-"endMs": 269000,
-"speaker": "Speaker 2",
-"text": "Pero cuál."
+"startMs": 175600,
+"endMs": 179960,
+"text": "No. Okey, pero que, que, que, que, ¿qué haga el brujo le está diciendo a Moshe?"
 },
 {
-"startMs": 269000,
-"endMs": 286000,
-"speaker": "Speaker 1",
-"text": "Es el punto de poner este Niza? El punto de este Nizaión es que Kibyahol, Ashem le esta diciendo, no tienes coch, bajar a mi trai. Tavine que tienes Orla."
+"startMs": 182400,
+"endMs": 189060,
+"text": "Que algo muy amo. ¿Qué le está diciendo a Moshe? A Moshe. Que- Si te la traen Max a las ocho, ¿está bien? O hoy sale- Hermoso."
 },
 {
-"startMs": 286000,
-"endMs": 318000,
-"speaker": "Speaker 1",
-"text": "Tavine que tienes Orla y por el hecho que tienes Orla, Por eso, Ashem planeo el Geshevo Hashem baibakeshamito, le esta diciendo Moshe, todavía no estas listo, hay un Betzad Mesuyam, no puedes bajar todo Mitraim, no tienes el koaj que va a Ruhani que mahinead Mitraim, el koaj Ruhani que mahinead Mitraim es la Mila, Bata, dice el pasuken, Yahushua."
+"startMs": 189300,
+"endMs": 195540,
+"text": "¿Sí? Sí. Max la trae a las ocho. Ojo. Pues ya, Moshe ya viene, porque no Uber, no Uber. Claro, ya. Órale. Pues ya. A las ocho y media."
 },
 {
-"startMs": 318000,
-"endMs": 355000,
-"speaker": "Speaker 1",
-"text": "Bata aciroti et harpat mitrai me aleja. Te quité la harpa de mitrai de ti. Cuál es la harpa de mitrai? La orla. Cuando Hashem le dijo a Yahushua que haga harbot turim. Lej mol et mei Israel shenit. Se leja harbot turim lej mol Israel shenit. Yahushua."
+"startMs": 195580,
+"endMs": 197240,
+"text": "Buenísimo. Gracias."
 },
 {
-"startMs": 355000,
-"endMs": 356000,
-"speaker": "Speaker 3",
-"text": "Ah no,"
+"startMs": 206280,
+"endMs": 212200,
+"text": "Entonces, ¿qué, qué Kadosh Baruj Hu le, le, le está merame a Moshe? Porque Hashem no le dijo: \"Moishe,"
 },
 {
-"startMs": 356000,
-"endMs": 365000,
-"speaker": "Speaker 2",
-"text": "Me suena mucho, ve como me saltó,"
+"startMs": 215100,
+"endMs": 220340,
+"text": "Moishe acaba de tener un bebé\". Hashem le dijo: \"Eh, ve, vete\". ¿Sí? ¿Cuándo? El octavo día."
 },
 {
-"startMs": 365000,
-"endMs": 384000,
-"speaker": "Speaker 1",
-"text": "Wow, wow, wow. Bamalona, shirtalin, boa laila. Sí, sí, me está hablando de eso eh. Yo quería ir a, yo quería checar si. No sé si es. Yo quería bebé checar si. Si, encontramos más porque me sonó."
+"startMs": 221940,
+"endMs": 223180,
+"text": "A ver, que catucan que"
 },
 {
-"startMs": 384000,
-"endMs": 422000,
-"speaker": "Speaker 1",
-"text": "En donde viste el malón? Dalet Gimala. Dalet Gimme. Ok, a ver vamos a verlo nomás. Ya pasaron el yardén. Entonces les dijo, vamos a semi Yoshua, mi amor, mi toja de mi mazarra y la cuanime. Usted es abanim babarte moto imagen, binajte motam bamalomachertanil un boda laila. Ustedes se van a ir un malón. Ustedes están pasando el yardén y entonces ustedes necesitan agarrar 12 abanim del yardén que estaban debajo de los pies de los kuanim."
+"startMs": 224660,
+"endMs": 225520,
+"text": "el octavo día"
 },
 {
-"startMs": 422000,
-"endMs": 457000,
-"speaker": "Speaker 1",
-"text": "Los kuanim se pararon en la entrada del yardén. Y luego es el Koj Ruhani que partio el Yarden, entonces tienes que agarrar las 12 piedras que esas demuestran vehemente el Koj Damizarla pasar, el Yarden, nombre del Yarden. Baikrai, Yoshua, Shenemastar, Ishashekim, Eishekam Entonces dice Bajomel, Miyoshua, Ibru, Lifnehasheem El Toja Yarden, Barimalachemis, Eben Ajat, Alshekmo Para agarrar las piedras, agarran las piedras y vamos a hacer un brit con acabado."
+"startMs": 227100,
+"endMs": 236040,
+"text": "de que Moshe acaba de tener un bebé. Y es el día del Brit Milá. Es el día del Brit Milá. Le dice: \"Te tienes que ir\". O sea, imagínate tú necesitas mandar a alguien"
 },
 {
-"startMs": 457000,
-"endMs": 491000,
-"speaker": "Speaker 1",
-"text": "Entonces a ver vamos a ver ahorita Perekei entonces todo esto esta pasando va dice Perekei, entonces a Misael ya pasaron, ya se rompió el yarden, ya hicieron brit con noshe, vei y kish moako el mal hai mori, un server den yam, dejó el mal hai nani, yam, Obi shashemet me ayarden mi premio de Israel a dobraham, bey mas le baban velo hay bam odruaj mi premio de Israel."
+"startMs": 237360,
+"endMs": 245560,
+"text": "y es el-- le dices: \"Oye, necesito que vayas a Israel a algo, a hablar con un jam, algo muy importante."
 },
 {
-"startMs": 491000,
-"endMs": 528000,
-"speaker": "Speaker 1",
-"text": "Ya! No tenían fuerzas para el irjan con no mi Israel, estaban devastados los gueim, nada mas de escuchar que llego aquí a Israel el pueblo de los Nizim, dice vaya a llamar a Shem el Yoshua. \"Azel hajarbot zurim, me shuv mol, et mene Israel Shenigit\" ¿Qué quiere decir? Ya estaban en Molin? Todo el mitbar, no, ni molu porque no, no, no, no, entonces, en el mitbar nada más ni molu, los yotse mitlain, al principio, esa es la mitva de la hodesh que vamos a leer en chapat,"
+"startMs": 246600,
+"endMs": 256820,
+"text": "Vea. Sabes que hoy es el Brit Milá de mi hijo. Okey, entonces, si Kadosh Baruj Hu le está diciendo a Moshe- O sea, otra vez, ¿cuál es el sin man que Hashem le está diciendo?"
 },
 {
-"startMs": 528000,
-"endMs": 536000,
-"speaker": "Speaker 2",
-"text": "Eso esta jode, esta jode les pidió que hagan la mila, fue antes de Korban pesaj no?"
+"startMs": 256880,
+"endMs": 266860,
+"text": "¿A qué te-- qué estás me estás preguntando? Mmm. ¿Cuál es el sin man que, que Moshe tiene que entender? Que Moshe tiene que entender, qué Hashem le está diciendo, en vez de con, con esto, que por qué Hashem lo está haciendo así."
 },
 {
-"startMs": 536000,
-"endMs": 569000,
-"speaker": "Speaker 1",
-"text": "El Korban pesaj fue por donde estaban dos mitrot para poder ligar, dan pesaj dan milla, Entonces fueron los Huyot que. Para poder salir de Mitra. Pero luego ya no hubo más Brit Milla. Todo el camino en el Mitbar, no hubo Brit Milla. Entonces este Harbot Surim se parece también. No sé si ya están el malón o no están el malón, pero."
+"startMs": 267880,
+"endMs": 284300,
+"text": "Que Hashem en ase oto con nisayon. Pero ¿cuál es el punto de poner este nisayon? El punto de este nisayon es que, que viajol, Hashem le está diciendo: \"No tienes koaj para bajar a Mitzrayim, mas tomeret, ta bien que tienes orla."
 },
 {
-"startMs": 569000,
-"endMs": 602000,
-"speaker": "Speaker 1",
-"text": "Malon, viene la palabra Lamul, Malon. Ven, ven, ahí. Que en el Malon, y Tase, que en el Malon y no en la Mila. Si. Mal. Los dos vienen shorts mal. Dice, \"Shuffon Mol, et brains el sherit\". Igual que si por A que tenía, que agarró el short. Por qué la palabra shenit? Después de la primera, que este es el segundo Tzibui. O sea, a Mistral fue la primera fue en el en mitraim, ahorita Shenit."
+"startMs": 286740,
+"endMs": 295320,
+"text": "Ta bien que tienes orla y por el hecho que tienes orla, y viajol por eso, Hashem planeó el bevgashehu Hashem bebakesh amito."
 },
 {
-"startMs": 602000,
-"endMs": 605000,
-"speaker": "Speaker 1",
-"text": "Berrashi dice."
+"startMs": 297040,
+"endMs": 304180,
+"text": "Le está diciendo: \"Moshe, todavía no estás listo. Ain betzad mesuyam, no puedes bajarte a Mitzrayim."
 },
 {
-"startMs": 605000,
-"endMs": 637000,
-"speaker": "Speaker 1",
-"text": "Harbou Zurinka dargumo. Ismalon Harifin. The hen aftashi tour harbou. Ksha harifutne pahla te dime no hotek jefe, behen kolkli usar alai. Dice Shenit. Shemaluk barbelei, yet si atami mitraen kal gadolia hades dopam shenit. De Koralbayim sana, se lleva a mis balaam bruj tefonit. Veloia, en la em jom noaj, la mulk, como se llamaba. De reporten ambru, xenit o priá. Priad, mila, se llamaba."
+"startMs": 304360,
+"endMs": 305540,
+"text": "No tienes el koaj"
 },
 {
-"startMs": 637000,
-"endMs": 640000,
-"speaker": "Speaker 1",
-"text": "Entonces aquí un hidus, que está enviado a priá."
+"startMs": 306860,
+"endMs": 314860,
+"text": "que va a, a, a rujaní, que machni et Mitzrayim. El koaj harujaní que machni et Mitzrayim es la Mila."
 },
 {
-"startMs": 640000,
-"endMs": 648000,
-"speaker": "Speaker 2",
-"text": "Si quiere de xenit. Xenit quiere decir. Lo que pasa es que a ellos ya hago una primera vez. Se puede ser que ya, según ese periodo,"
+"startMs": 316000,
+"endMs": 322640,
+"text": "Ve ata, dice el pasuk, en Yehoshua: \"Ve ata asiroti et jarpat Mitzrayim me aleja\"."
 },
 {
-"startMs": 648000,
-"endMs": 654000,
-"speaker": "Speaker 1",
-"text": "Ya mal también el que ya mal antes, que haga priá."
+"startMs": 323380,
+"endMs": 335140,
+"text": "De que te la jarpa de Mitzrayim de ti, toda la jarpa de Mitzrayim, la orla. No, no, cuando Hashem le dijo a Yehoshua: \"Kehara jarbot zurim,"
 },
 {
-"startMs": 654000,
-"endMs": 685000,
-"speaker": "Speaker 1",
-"text": "Bezdeh alabar a Shermal Yahoshua, Kolaama Yoshemi Mitraim Masharim, Kolam Shamilhama Metu Bamitbar, Baderek, Metzetam, Mitraim, todo Doriotse Mitraim Ya no lo estaba Metu, dice, y los que salieron de Mitraim, dice kimulimayu kolamayutsim, pero, bejolamayeludimab Mitraim, Baderek, Bezetam Mitraim, no mal. Entonces acá, Bhemet, esto es el."
+"startMs": 336760,
+"endMs": 346100,
+"text": "lej mol et bene Israel shenit, ase leja jarbot zurim, lej mol Israel shenit\", Yehoshua dala."
 },
 {
-"startMs": 685000,
-"endMs": 699000,
-"speaker": "Speaker 1",
-"text": "Los que manube, mez la mila, fueron amalek, fijas aquí la palabra, baderk, bichit jami mitraim, zakor, bichit jami mitraim,"
+"startMs": 347160,
+"endMs": 355580,
+"text": "Siyam el. ¿Es Yehoshua Hei, olai?"
 },
 {
-"startMs": 699000,
-"endMs": 700000,
-"speaker": "Speaker 2",
-"text": "Aca es."
+"startMs": 355960,
+"endMs": 356740,
+"text": "No, es Dalet."
 },
 {
-"startMs": 700000,
-"endMs": 720000,
-"speaker": "Speaker 1",
-"text": "Bamitbar, bicharlas milot, después de que. Los mataban, los vele, bajar, los cogen la horra. Total en aquellos, que ahí cogen la horra, en el a Mila."
+"startMs": 358400,
+"endMs": 365680,
+"text": "Amanigo, ¿el tema te viene a la cabeza? Ah, no. Ba, ba malona sher talinu bo halaila. Me suena mucho. Sí, sí, sí, olai. Ve como, ve como me saltó."
 },
 {
-"startMs": 720000,
-"endMs": 765000,
-"speaker": "Speaker 1",
-"text": "Que el bain sana, el hobnizel mami, para tom kolgoia chamil hamai, yo tzim mitraim, solo los amokola seamos en nizbalaim. Le piltia a la otam etaret, sozen nizbala otam, y atetla no ez dabat jalou. Beneem kim taktan, otam mali ozua, kiarelim ayu. Kilomalu otam badarej. Ve ikaser tamuko lago ileimol. Sí? Veisvu taktam me mahane al jaiotam. Entonces, después de que hicieron mila, se quedaron un tiempo hasta que ya hibriukaze, así estoy entendiendo, ya podían seguir, ahora sí, en el Mazda."
+"startMs": 366060,
+"endMs": 373680,
+"text": "Guau, guau, guau. Ba malona sher talinu bo halaila. Sí, sí, en el amito, sí, yo quería- Pero no está hablando de eso, ¿eh? Yo quería ir a, yo quería checar si..."
 },
 {
-"startMs": 765000,
-"endMs": 773000,
-"speaker": "Speaker 2",
-"text": "Entonces no se llama Majdanmar, es muy dura, muy. Cuándo entra en Israel? Es Israel con Yeshua?"
+"startMs": 375140,
+"endMs": 381360,
+"text": "No sé si es ahí. Yo quería verme checar si Sí, encontrame más \"kshari\" porque me sonó."
 },
 {
-"startMs": 773000,
-"endMs": 776000,
-"speaker": "Speaker 1",
-"text": "Si, 40 años, en Midbar, mueremos."
+"startMs": 381360,
+"endMs": 388520,
+"text": "¿En dónde viste el malón? ¿Perek daled o hei? Daled guímel. Daled guímel."
 },
 {
-"startMs": 776000,
-"endMs": 782000,
-"speaker": "Speaker 2",
-"text": "Cuánto tiempo después que mueremos entrar en mas o grande? Grápido? Siguiente mes. Vamos, es así, gradísimo."
+"startMs": 389860,
+"endMs": 399940,
+"text": "Okey, ahora vamos a verlo nomás. \"Vehi kashev tamú kol ha-góyim--\". Ya pasaron el Yarden. Entonces dice: \"Dijó Vayam Hashem el Yehoshua: 'Lekjú lajem min ha-am shnem ásar anashím ish ajad ish ajad mi-shevet."
 },
 {
-"startMs": 782000,
-"endMs": 815000,
-"speaker": "Speaker 1",
-"text": "Y esto es? Y el hijo es Israel de Israel? Aquí ahorita te dice la fecha, te dice, ve. Me llamo Rachemil Yoshua, hay yo, galoti, herpat, mitrai, me alejem. Beikrashe mamakumau gilgal! ¡Adaioma, que es gilgal, dos veces gal! Sí, tiene que ver con el gal de Raúl Rojana. Ah, mira. Te acuerdas un gal que habla con el otro gal? En Raúl Rojana? Sí, en la segunda Gadán, que hay un gal de 300 y otro gal de 300."
+"startMs": 399980,
+"endMs": 409260,
+"text": "Tzavú otam lemól tzú lam jem mize mitój hayerden mi-matav regléha koanim jechín sheitem ásar avanim ve-abarátem otam imajem ve-hinajtem otam ba-malón asher taním bú ha-láila'\"."
 },
 {
-"startMs": 815000,
-"endMs": 821000,
-"speaker": "Speaker 1",
-"text": "Entonces, y había una estrella hasta arriba. Del gal, que casi los."
+"startMs": 409700,
+"endMs": 421900,
+"text": "Ustedes se van a ir a un malón. Ustedes están pasando el Yarden y entonces ustedes necesitan agarrar doce abaním del Yarden que estaban debajo de los pies de los koanim."
 },
 {
-"startMs": 821000,
-"endMs": 826000,
-"speaker": "Speaker 2",
-"text": "Quemas, te acuerdas? O sea,"
+"startMs": 421900,
+"endMs": 423020,
+"text": "¿Mhm?"
 },
 {
-"startMs": 826000,
-"endMs": 860000,
-"speaker": "Speaker 1",
-"text": "Lo viste, nada más ya sabes. Si, si, de eso. Y hay una estrella hasta arriba. Dice, \"Galoti\". Dice. Bemanan yodim, su damila. Ukzemalu, meyushua, bauto aram, sraw tajerpa shadainer ebram. Chalui mai maiumonim laem kaj, daras, remosha darshan. Galoti, siriotik mogal, meal herpa, vaya galeta even."
+"startMs": 424720,
+"endMs": 435620,
+"text": "Los koanim se pararon a la entrada del Yarden, aquilo es el koaj rujaní que partió el Yarden. Entonces, tienes que agarrar las doce piedras, que esas demuestran demente el koaj de Am Israel a pasar el Yarden, romper el Yarden."
 },
 {
-"startMs": 860000,
-"endMs": 873000,
-"speaker": "Speaker 1",
-"text": "Esto. Vaijanun, Israel va Gilgal. Essueta pasa, barbazariom la jodes, verbo dirijo. Entonces acá, vete me espesa. Pues otra vez se repitió la historia."
+"startMs": 436060,
+"endMs": 439900,
+"text": "\"Ve-ikrá Yehoshua shnem ásar ish asher yejim min yisrael ish ajad ish ajad mi-shevet\"."
 },
 {
-"startMs": 873000,
-"endMs": 880000,
-"speaker": "Speaker 2",
-"text": "Mamá, ya sabes, la Milá, así como pesaj mitraim. Hubo scud de Milá, que también pesa esto en Milá."
+"startMs": 441760,
+"endMs": 456480,
+"text": "Entonces, dice: \"Vayomer lem Yehoshua ibrú lifné Hashem, eh, lifné arón Hashem el toch ha-Yarden va-erimú lajem ish even ajat al shejmo\" Para agarrar las piedras, agarran las piedras y vamos a hacer un brit con Hakadosh Baruj Hu."
 },
 {
-"startMs": 880000,
-"endMs": 912000,
-"speaker": "Speaker 1",
-"text": "Jerpat mitraim en el pesaj es la Milá, es la Orla. Entonces, siroti, galoti, Jerpat mitraim, es que les quite la Orla. La Orla es Jerpat mitraim, y el que sale de Mitraim, él es alguien que nimol. Si, himol haem kolzahar, kor, arelo y hojalbo, es una estirada pesaj. La Orla. La Orla las tira mas grande a Korban Pesaj porque todo el Mahut de Korban Pesaj es el Efeh de la Orla. Es el Mahut de Korban Pesaj que es el Efeh de la Orla."
+"startMs": 457480,
+"endMs": 461420,
+"text": "Entonces, a ver, vamos a ver ahorita perej hei. Entonces, todo esto está pasando ."
 },
 {
-"startMs": 912000,
-"endMs": 917000,
-"speaker": "Speaker 1",
-"text": "Entonces."
+"startMs": 471600,
+"endMs": 478100,
+"text": "Bah, dice perej hei: \"Ve-hiki shmoa kol maljei emori\". Entonces, Am Israel ya pasaron, ya se rompió el Yarden, ya hicieron brit con Hashem."
 },
 {
-"startMs": 917000,
-"endMs": 959000,
-"speaker": "Speaker 1",
-"text": "Entonces vemos a este Inyan como. Entonces ve lo polémico que esta pasando acá. Hashem le dice a Moshe, Baja a Mitraim cuando el día que tiene que ser Brit Mila ¿Cuál es el koach de Leutzieta Mizel Mitraim? Mila Quitar la Orla Todo el Mitraim es la Orla Si Mitraim es la Orla Betsma se llama Jerpat Mitraim Tshat Pashuk se llama Jerpat Mitraim Ahora Moshé tiene que bajar a Mitraim a quitar la Orla pero él Betsmo tiene Orla Su hijo Kilo."
+"startMs": 478100,
+"endMs": 491120,
+"text": "\"Ve-hiki shmoa kol maljei emorím Asher be-eerden yam ve-jol maljai knaniym Asher al-ha-yam et asher Hashem oví is Hashem et mea-Yarden mipné בני ישראל עד עברהם ויימס לבבם ולא היה בם עוד רוח מפני בני ישראל\"."
 },
 {
-"startMs": 959000,
-"endMs": 986000,
-"speaker": "Speaker 1",
-"text": "Pero él va a Smoti en Orla. Entonces, ¿qué le está diciendo acá al Rojú con eso? Le dice, Moshe, dice, necesitas Kiviajon quitarte la Orla para poder ser el que saca Misteral de Mitrain. Kiviajon le dice a Shem, yo no te necesito para sacar Misteral de Mitrain más que por el hecho que tú eres el koaj anti-Orlain. Por eso Moshe Rappenu cuando nace él le dice."
+"startMs": 491920,
+"endMs": 501800,
+"text": "Ya, no tenían fuerzas para luchar con Am Israel, estaban devastados los goyim nomás de escuchar que llegó aquí Am Israel, el pueblo de los nisim."
 },
 {
-"startMs": 986000,
-"endMs": 1004000,
-"speaker": "Speaker 2",
-"text": "A ver, a ver, a ver. Hashem lo esta mandando el octavo día que tiene ese abril bien a su hijo y lo manda yo estoy entendiendo totalmente al revés, anime bien, acaso uno no quiere que le haga abril bien a mi hijo y entonces este. Cómo sacaste esa?"
+"startMs": 502920,
+"endMs": 510180,
+"text": "Dice: \"Ve-et hahi amar Hashem el Yehoshua: 'Ase leja jarvot zurim ve-shuv mol et בני ישראל shenit'\"."
 },
 {
-"startMs": 1004000,
-"endMs": 1036000,
-"speaker": "Speaker 1",
-"text": "Que viajó el Moshé, tiene que ir Hashem le esta diciendo, mira, no estas listo le esta mandando con Urla ¿me explico? Le esta mandando con Urla ahora y Behmet cuando, Llega al malón. Qué tienes que hacer, Mosé Rapenu? Directamente hacia la. Deben de hacer el primera. Y entonces ahí acá los jugo. Le, le demostró mamage. Le dice, Mosé, no puedes tener el Goel, si hay orla. Ahora, ¿Por qué Bemetti y que el Gelbe es su brazo?"
+"startMs": 510360,
+"endMs": 518100,
+"text": "¿Qué quis-- ya estaban, ya estaban, eh, ya estaban nimolím? Todo el midbar no nimolu, porque no, no les bajó ha-ruaj tsefóntit."
 },
 {
-"startMs": 1036000,
-"endMs": 1067000,
-"speaker": "Speaker 1",
-"text": "Porque le quiso enseñar esta señal. Porque Mosé Rapenu, de alguna manera, todavía no había quitado la orla del 100% Al 100% No había quitado la orla al cien por ciento y entonces dice no Moshe todavía no puede ser el Goel necesito enseñarle entonces lo voy a mandar con Urla y en el camino se va a dar cuenta de que va a estar Vemetre Massaj el Sakanamama se va a dar cuenta que el problema es la Orla y entonces Moshe va a entender que hay un problema muy serio con la Orla y eso es lo que hay que le ataque."
+"startMs": 519900,
+"endMs": 527860,
+"text": "Entonces, en el midbar nomás nimolu los jotze Mizraim al principio. Esa es la mitzvá de ha-jodesh que vamos a leer en Shabbat."
 },
 {
-"startMs": 1067000,
-"endMs": 1071000,
-"speaker": "Speaker 2",
-"text": "Ahora, ¿Cuál sería la otra Urla de Moshe que no se ha quitado?"
+"startMs": 527900,
+"endMs": 535360,
+"text": "Claro, a-- Esa es la jodesh. Bizjut el mesirut néfesh, Hakadosh Baruj Hu les pidió que hagan la milá. ¿Fue antes de Corban Pesach, no?"
 },
 {
-"startMs": 1071000,
-"endMs": 1102000,
-"speaker": "Speaker 1",
-"text": "Oh, eso es lo que hay que entender aquí. Cuál es el Lomdes de lo que está pasando? Sí, Ashen le dice a Moshe que baje a Mitraim, pero Moshe, su hijo no tiene Britzmila. Están en el octavo día. Que viajó la Ashen le está diciendo \"No puedes cumplir ahorita la Mistra de Britzmila\". Y luego, ¿Cuál es la Tana de Ashen? Hacia Moshe. Hey, ¿No tienes Britzmila? Pero tú me mandaste Britzmila. No, no? Hay algo más amor? Itasakta Bamalon Tshila? Qué significa Itasakta? En ti, hay un problema en ti."
+"startMs": 536340,
+"endMs": 542440,
+"text": "Corban Pesach fue-- fue por-- necesitaban dos mitzvot para poder llegar. Dos mitzvot, Corban Pesach y milá. Dan Pesach, dan milá."
 },
 {
-"startMs": 1102000,
-"endMs": 1136000,
-"speaker": "Speaker 1",
-"text": "Exactamente, el problema no es el niño. Tipo, tú, si tú estuvieras completamente sin. Yo no tuviera nada de esto. Entonces, acá cuál es el GILUI, vamos a llamarle, que Ashem le dice, mira, estoy buscando de ti una nalga más, para que puedas cumplirte en el. Sea el Goel de A mi cell de mi train. Entonces, yo necesito que entiendas el INEAN de que todo el INEAN de los 7 de A mi cell de mi train es la horror."
+"startMs": 543160,
+"endMs": 550960,
+"text": "Y entonces fueron los, los joyot que... Que pudieron salir de Mitzrayim. Para poder salir de Mitzrayim. Pero luego ya no hubo más brit milá."
 },
 {
-"startMs": 1136000,
-"endMs": 1166000,
-"speaker": "Speaker 1",
-"text": "Entonces, si tú entiendes que tú tienes un INEAN tipo. Stamir, hablar, decir, ¿sí? Entonces tienes un problema. Por qué tienes un problema? Hay que presentar, no hablar. Hay que concientizarse, que lo va a representar a Mitrail, no? Que tiene que él, todo su Inian es hacer una boda rujanit de quitarle la orla a Mitrail. Esa es su Inian."
+"startMs": 551240,
+"endMs": 559380,
+"text": "Todo el camino en el midbar no hubo brit milá. \"Ve-et hahi amar Hashem el Yehoshua: 'Ase leja jarvot zurim ve-shuv mol et בני ישראל shenit'\"."
 },
 {
-"startMs": 1166000,
-"endMs": 1197000,
-"speaker": "Speaker 1",
-"text": "Es una boda rujanit y no es una boda técnica, es una boda rujanit. Si Mocharra apenas estuviera consciente de eso al 100% al bajar a Mitrain, entonces qué es el primer pendiente que él tiene? Bajar a Mitrain? O quitarle la orla a su propio hijo. Quitarle la orla a su propio hijo. Entonces, acá a Carlos Burjul le quiso legalotes. Lo mando con orla. De manera que Mosé ahorita. Haga una de dos cosas. Oh."
+"startMs": 559940,
+"endMs": 569600,
+"text": "Entonces, este jarvot zurim se parece también-- Areh, no sé si ya están en el malón o no están en el malón, pero me entiendes."
 },
 {
-"startMs": 1197000,
-"endMs": 1202000,
-"speaker": "Speaker 1",
-"text": "\"Itasek va milat kila\" y no en el malont kila. Se le hizo ver,"
+"startMs": 569640,
+"endMs": 579600,
+"text": "Malón viene la palabra la mul, mol, mal, mal, mal, malón. Me entiendes ahí. Que en el malón no-- y te sé que en el malón y no en la milá."
 },
 {
-"startMs": 1202000,
-"endMs": 1205000,
-"speaker": "Speaker 2",
-"text": "Osea como que lo puso en el masado de que."
+"startMs": 579600,
+"endMs": 587060,
+"text": "¿Sí? Mal. Mal. Los dos vienen del shorish mal. Dice: \"Shuv mol et בני ישראל shenit\"."
 },
 {
-"startMs": 1205000,
-"endMs": 1213000,
-"speaker": "Speaker 1",
-"text": "Moshé tiene que dar cuenta tu solo. Si tu sigues como estas, que viajon, no es algo malo pero es algo que. Tipo cuando tu hijo,"
+"startMs": 587240,
+"endMs": 596540,
+"text": "Igual que Zipora, que tenía-- que agarró el zor. ¿Por qué dice shenit? ¿Por qué la palabra shenit? Después de la primera, que este es el segundo tziurui."
 },
 {
-"startMs": 1213000,
-"endMs": 1228000,
-"speaker": "Speaker 2",
-"text": "Yo siento que es cuando tu hijo sabes que si hace lo que el quiere se va a arrepentir. Si se va a subir a la montaña rusa, esto va a vomitar, sabes que él va a vomitar esto. Es como siempre has dicho, sabes que déjale, Para que esto, para que se maree,"
+"startMs": 597500,
+"endMs": 607120,
+"text": "O sea, Am Israel fue la primera, fue en el, en la yetziat Mitzraim, ahorita es shenit. Be-rashí dice: \"Jarvot zurim ketergumo"
 },
 {
-"startMs": 1228000,
-"endMs": 1259000,
-"speaker": "Speaker 1",
-"text": "Para que aprenda solo, también Kilut Pero para que agarre la enseñanza sola Exactamente, entonces acá Esta muy bueno, o sea, está muy Dak O sea, Sak Bamalon no es un light, no entendemos el Vecyut, como era No, pues es justamente lo que estamos haciendo, no es un onesh porque oye, y tá fuck, no trajela Es un limut a todos sus lijut Que veche, maca, Moshe Rap Venus es el que me tienen a mis el me traen Si Moshe Rap venu tiene borla, Qué es? Se mora la Makun."
+"startMs": 608720,
+"endMs": 618100,
+"text": "iz malón jalifim. Ve-jen afty shiv tzor-- zur jarvo kshe hajalifut nehpaj latzadim velo jotéj jefve ve-jen kol kli iutzar alaich\"."
 },
 {
-"startMs": 1259000,
-"endMs": 1290000,
-"speaker": "Speaker 1",
-"text": "Porque todo su Metziut es el que gole la Amistad del Ministraen. Mientras haya Orla en Montserrappenu, entonces Montserrappenu no puede existir así. No hay otro Metziut para Montserrappenu. Entonces nivel por eso lo que llamamos el Kesha Mitolo, ya lo iba a matar. Pero, ¿Por qué lo iba a matar? Para enseñarle que con Orla, no lo que haya. Por eso Montserrappenu apenas nace. Qué dice el Pasuk? Matere Uto. Quito. Qué es Quito? Maul. Que nació Maul."
+"startMs": 618300,
+"endMs": 633280,
+"text": "Dice: \"Shenit she-malú kvar ve-lei yetziatám mim Mitzraim kahal gadol yajad vezó pam shenit shel kol arbaím shaná she-hu be-midbar lo nash bá lahem ruaj tsefóntit ve-lo haya lehem yom noaj lamul como she-ani be-ievamot."
 },
 {
-"startMs": 1290000,
-"endMs": 1307000,
-"speaker": "Speaker 1",
-"text": "Por eso cuando dices Maul. Maul. Está Maul? O sea, ¿está Maul? Está Maul. Está Maul? Ya vino con Britmila, tipo. Maul."
+"startMs": 633320,
+"endMs": 641200,
+"text": "Ve-raboteinu amru: 'Shenit,zó priá, priat milá shelo nitná la-olam avinu'\". Entonces, aquí hubo un jidush que se entregó mitzvat priá."
 },
 {
-"startMs": 1307000,
-"endMs": 1310000,
-"speaker": "Speaker 2",
-"text": "No, pero ¿qué tiene que ver? Entonces al revés. Él nació Maul,"
+"startMs": 641280,
+"endMs": 649240,
+"text": "Entiende, shenit. Shenit, ¿qué quiere decir? Pasa que a, a ellos ya hubo una primera vez. Mhm. Después de que ya, según ese pirush, ya malu."
 },
 {
-"startMs": 1310000,
-"endMs": 1322000,
-"speaker": "Speaker 1",
-"text": "Y entonces ¿qué quiere decir? Mucho rape no, Asham le está diciendo: \"Kolai ni angelha\". \"Kolai ni angelha de chata a mahul\"."
+"startMs": 649300,
+"endMs": 651600,
+"text": "También al que ya mal antes... Se haga priá."
 },
 {
-"startMs": 1322000,
-"endMs": 1354000,
-"speaker": "Speaker 1",
-"text": "Tú eres el calculo, el quilui del tov. Si no entiendes que es \"Saslihutchelha\", tu slihut es hacer mila. Si no entiendes que es tu slihut, Entonces estamos en un problema muy serio. Dice: \"Tu eres Kitov, tu eres tuvia\". Así se llamaba. El fue a sacar a la gente de Midrai. Porque el lineal se llama que fue a hacer el Mila."
+"startMs": 653500,
+"endMs": 663860,
+"text": "Sí. \"Ve-ze ha-davar asher mal Yehoshua kol ha-am ha-jotze mim Mitzraim atzharim. Kol anshei ha-miljamah métu ba-midbar ba-derej betzetám mim Mitzraim\"."
 },
 {
-"startMs": 1354000,
-"endMs": 1385000,
-"speaker": "Speaker 1",
-"text": "Osea, ir a sacarlos de Midrai, a ir a hacer el Mila. Y a Eshel no se lo dijo, por el alma le dijo. De tome toda la matarada es llegar a Coruán pes a que hagan Brit Mila. Tu tumba de acá es quitar toda la tumba de Mitraim, sacarlos de la tumba de Mitraim, que esa tumba se llama Oblah, esa es la boda de Mushrappen. Por eso toda esta subida es anoder, min, arelim, mutar orlei Israel, porque un Yudi va mahut es maul. Por qué? Porque yo temi mitraim."
+"startMs": 664160,
+"endMs": 667780,
+"text": "Todo, todo dor jotze Mizraim- Ya no estará. Metu."
 },
 {
-"startMs": 1385000,
-"endMs": 1395000,
-"speaker": "Speaker 1",
-"text": "Y muya tami mitraim, mi meile, ushayah la muli. Philo que no se ha hecho Brit Milla, pero se llama que no se ha hecho. Pero hay alguien que nunca salió de Mitrai."
+"startMs": 669020,
+"endMs": 681220,
+"text": "Dice: \"Y los que salieron de Mitzráim\", dice, \"ki mulim hayu kol ha-am ha-yotzim\". Pero, \"ve-jol ha-am ha-yelodím ba-midbar lederej Mitzraim, be-derej betzetám mim Mitzraim lo malu\"."
 },
 {
-"startMs": 1395000,
-"endMs": 1397000,
-"speaker": "Speaker 2",
-"text": "No es Mauro. Betsemezune."
+"startMs": 682180,
+"endMs": 691560,
+"text": "Entonces, saca demente eso, eso es el-- los que manú demente la milá, fueron Amalek. Después te va a decir la Palavra: \"Ba-derej\", ¿sí?"
 },
 {
-"startMs": 1397000,
-"endMs": 1406000,
-"speaker": "Speaker 1",
-"text": "Entonces aunque se haga Brit Milla. Es Arel. Como Val Mila. No, Val Mila. Si. Exactamente. Entonces esta es la subida de aquí."
+"startMs": 692140,
+"endMs": 698600,
+"text": "\"Betzetjá mim Mitzraim\", ¡zajón! Eso es lo que le hace a Amalek, ba-derej betzetjá Mitzraim, en el caso, ba-midbar."
 },
 {
-"startMs": 1406000,
-"endMs": 1415000,
-"speaker": "Speaker 2",
-"text": "Beneverit. Es verdad? Beneverit. Un GU10 Nebrit."
+"startMs": 699540,
+"endMs": 706920,
+"text": "Ba-izá, ba-izá néfesh. Beja-- todo lo que están haciendo ahora. Bejal las milot. Bejal las milot. O sea, después de que, después de que"
 },
 {
-"startMs": 1415000,
-"endMs": 1422000,
-"speaker": "Speaker 1",
-"text": "Entonces Si queremos Ulai, Ulai, Ulai, Etzaref, el Linean de."
+"startMs": 708180,
+"endMs": 712880,
+"text": "los mataban, como dijo, \"ve-ele bajarta\", aquilo, entonces es koaj es la orla."
 },
 {
-"startMs": 1422000,
-"endMs": 1453000,
-"speaker": "Speaker 1",
-"text": "El Linean que estábamos viendo, si queremos verme, les tarefe el Linean del Targumio Nathan con esto porque aquí me voy a dar que era Elieze y por otro lado, el Targumio Nathan me voy a dar que era Gershom y Gershom ya había nacido, entonces hay que andar acá y Trobetsem le dijo a Moshe, no la hagas brit mi lado, aquí en la Gershom, Si, uno si, uno no. Moshe le dijo no, yo si. Otro no."
+"startMs": 714760,
+"endMs": 718960,
+"text": "Entonces, estaban en kegios, que hay koaj en la orla, en elamilá. Mhm."
 },
 {
-"startMs": 1453000,
-"endMs": 1466000,
-"speaker": "Speaker 1",
-"text": "De repente con el segundo que viajó ah, que es el que dijo Moshe: ¡Eh! Si lo voy a hacer Brit Milá. De repente Ashein le dice: No, no puede ser Le Brit Milá, no puede ser Le Brit Milá."
+"startMs": 720680,
+"endMs": 727020,
+"text": "\"Ki arbaím shaná haljú בני ישראל ba-midbar ad tom kol góy anshei ha-miljamah jotzim mim Mitzraim asher lo shamú be-kol Hashem asher nishbá lahem."
 },
 {
-"startMs": 1466000,
-"endMs": 1484000,
-"speaker": "Speaker 1",
-"text": "No! ¡El segundo! El primero no lo hizo. Ahora el segundo, y él Moshe dijo, al segundo si lo voy a hacer. Llega lo que vean en la cabeza de Moshe, no, el segundo seguro lo voy a hacer. Y entonces, el segundo, el día que le tiene que hacer Brit Milla."
+"startMs": 727400,
+"endMs": 740260,
+"text": "Lebilti hará otám et ha-áretz asher nishbá Hashem la-avotam latet lanú et-arbat jalaovit. Ve-te-- beinehem ekim taktám otám mal Yehoshua, ki arelim hayu ki lo malu otám ba-derej\"."
 },
 {
-"startMs": 1484000,
-"endMs": 1491000,
-"speaker": "Speaker 2",
-"text": "Ya, Ya, ya sé dónde va. O sea, estás en un lugar de que, que van que él se dejó, el hit pasher, Naguin, pasher."
+"startMs": 741136,
+"endMs": 747756,
+"text": "Vayika'shel tamú col hagó lehimol. ¿Sí? Vaysuvot jatam el machané ad jayotam."
 },
 {
-"startMs": 1491000,
-"endMs": 1501000,
-"speaker": "Speaker 1",
-"text": "No sé, pasher, pero sí, no sé qué hacer. Pero no hubo Taine a él con el primero? La Taine Mikar fue con el segundo, pero por ser el que ve etsem el primero, tú."
+"startMs": 748276,
+"endMs": 761196,
+"text": "Entonces, después de que hicieron milá, se quedaron un tiempo hasta que ya-- y briú case, así estoy entendiendo, ya podían seguir, ahora sí, en el masá."
 },
 {
-"startMs": 1501000,
-"endMs": 1513000,
-"speaker": "Speaker 2",
-"text": "Yo digo, si lo veo yo más de esa manera, si lo, tú no hiciste, tú no me azarta en el primero. Entonces cuando si quieres hacerlo, es un. Es un que se racista a lo racista,"
+"startMs": 761436,
+"endMs": 762456,
+"text": "La que está aquí ahora."
 },
 {
-"startMs": 1513000,
-"endMs": 1519000,
-"speaker": "Speaker 1",
-"text": "Que se racista. Plomar, en un principio. Yo necesito una time pilo,"
+"startMs": 765576,
+"endMs": 771776,
+"text": "Entonces, nos llama mash deamar, es muy dura, muy. ¿Cuándo entra a Israel, Israel con Yehoshua?"
 },
 {
-"startMs": 1519000,
-"endMs": 1522000,
-"speaker": "Speaker 2",
-"text": "Cómodo también para ser la marca."
+"startMs": 772896,
+"endMs": 778736,
+"text": "Sí, cuarenta años en el midbar. Muere Moshé. Muere Moshé. ¿Cuánto tiempo después que muere Moshé entran en las landas?"
 },
 {
-"startMs": 1522000,
-"endMs": 1526000,
-"speaker": "Speaker 2",
-"text": "Ahorita que quieres behmet, te va a poner la trabajar."
+"startMs": 780156,
+"endMs": 787336,
+"text": "Siguiente mes. Ah, mamá, sí, rapidísimo. Y aquí esto es... ¿Jeriquó ya está entrando a Israel? Aquí ahorita te dice la fecha."
 },
 {
-"startMs": 1526000,
-"endMs": 1559000,
-"speaker": "Speaker 1",
-"text": "Eso, Si. Y te voy a decir. Pa' legalot, pa' el legalot, deja. Que el primero. Entonces a Holliot que acá le hizo mehmet brit mila a los dos. Entonces tomé, el problema fue por el IESE, porque es el kilo, y que había un problema ya desde Gershow. En Gershow me imagina mucho se puede llamar que no tuvo de otra. Aquí tampoco tienes de otra. Si? Kibahol, pero no está bien que no tienes de otra. Entonces en el primer momento que puedas, hazle Brikmila."
+"startMs": 787396,
+"endMs": 799416,
+"text": "Dice: \"Ve. Bayomar Hashem el Yehoshua, hayom galoti et cherpat Mitzráim mealejem. Vayikra Hashem hamakom hahu Gilgal, ad hayom hazé\", que es Gilgal, dos veces gal."
 },
 {
-"startMs": 1559000,
-"endMs": 1591000,
-"speaker": "Speaker 1",
-"text": "Entonces, ese es la dai. Puede ser que el efite, mit kayemet. También la Girsah la de Mara en el Sipur y también la Girsah, pero todo el Inian es el Imut que Asheun le quiere enseñar al Museo de que Brit Milá no es algo teddy, es el Mahut de su Shilhut de lo que está haciendo, es de este, el Inian de Brit Milá, y llevar a Mizrael a la larga que se llama Timimut. Tranquilo, una conversión, entrarla a Mizrael así como tipo Gerut?"
+"startMs": 799456,
+"endMs": 806016,
+"text": "Dos gal. ¿Sí? Tiene que ver con el gal de Rav Ojaná. Ah, mira. Sí, ¿te acuerdas?"
 },
 {
-"startMs": 1591000,
-"endMs": 1614000,
-"speaker": "Speaker 1",
-"text": "No, es una larga Rujanit. Es un alga rujanit, que es alga rujanit, es quitar la urla. El camón es la urlaga Schmidt, pero todos unían es hacerle acá la urla rujanit. Mucho más que una cosa técnica."
+"startMs": 806136,
+"endMs": 814396,
+"text": "Un gal que habla con el otro gal. ¿En Rav Ojaná? Sí, en la segunda gala, que hay un gal de trescientos y otro gal de trescientos."
 },
 {
-"startMs": 1614000,
-"endMs": 1623000,
-"speaker": "Speaker 3",
-"text": "Entonces."
+"startMs": 815196,
+"endMs": 822216,
+"text": "Entonces-- y, y, y, y había una estrella hasta arriba del gal que casi los quema, ¿te acuerdas?"
 },
 {
-"startMs": 1623000,
-"endMs": 1628000,
-"speaker": "Speaker 1",
-"text": "Seguimos?"
+"startMs": 822256,
+"endMs": 834536,
+"text": "Ah, o sea, lo viste nada más de esa vez. Sí, sí, de esa vez, sí. Y hay una estrella hasta arriba. Entonces, verá que dice: \"Galoti-- asiroti et cherpat Mitzráim, shehayomrim raú ki raá pen-- negued peneyjem kochav echad."
 },
 {
-"startMs": 1628000,
-"endMs": 1641000,
-"speaker": "Speaker 2",
-"text": "Dejen vender aca, malon si dijimos que."
+"startMs": 835256,
+"endMs": 842956,
+"text": "Yesh eshmo Ra'ah, que es un simán shel dam. Rainotán lo alejem bamidbar, ve胡 shamar Moshe bamidbar, lamé lomor et haim lemor ve'araot yamm\"."
 },
 {
-"startMs": 1641000,
-"endMs": 1658000,
-"speaker": "Speaker 1",
-"text": "Viene la palabra mala, La palabra mal, malon, mal, en vez de hacer Milá, yo se que en el malon, son dos,"
+"startMs": 844096,
+"endMs": 858876,
+"text": "Dice: \"Vehem enen yodi'im shehu dam milá. Ukshemalú yemei Yehoshua, ba'o oto HaKadosh Baruj Hu shra otá cherpá shadá im erev rav, shehalú im haim hayu monim lahem cáj, darash Rav Moshe haDarshán: Galoti asiroti como gal meal cherpá veyagel et haeven\"."
 },
 {
-"startMs": 1658000,
-"endMs": 1666000,
-"speaker": "Speaker 2",
-"text": "Esta Maul, Maul que esta buenisimo, y esta el malon que es malo, es un malon. Malon, jajajaja,"
+"startMs": 860836,
+"endMs": 867616,
+"text": "Top. \"Vayijánu Beni Israel bagilgal, ve'asú et hapásaj ve'arbá asar yom lajodesh ba'érev, ve'arvot yirjó\"."
 },
 {
-"startMs": 1666000,
-"endMs": 1669000,
-"speaker": "Speaker 1",
-"text": "El malon."
+"startMs": 868476,
+"endMs": 880076,
+"text": "Entonces acá, en esencia, es Pésaj. Entonces, otra vez repitió la historia que- Mamá, eso es la milá, así como en Pésaj Mitzráim hubo sujud de milá, que también Pésaj es, eh, milá."
 },
 {
-"startMs": 1669000,
-"endMs": 1675000,
-"speaker": "Speaker 1",
-"text": "Entonces, hay que entender cual es el dinero de malon, no se,"
+"startMs": 880256,
+"endMs": 888396,
+"text": "Cherpat Mitzráim en el peshat pashut es la milá, es la orla. Entonces, asiroti, galoti, et cherpat Mitzráim es que, es quitar la orla."
 },
 {
-"startMs": 1675000,
-"endMs": 1678000,
-"speaker": "Speaker 2",
-"text": "Esta mujer entrada, malon."
+"startMs": 888956,
+"endMs": 897876,
+"text": "La orla es cherpat Mitzráim. El que sale, el que sale de Mitzráim es alguien que ni mol. Sí, himol jahem col zajar, col arel lo iojal bó."
 },
 {
-"startMs": 1678000,
-"endMs": 1686000,
-"speaker": "Speaker 1",
-"text": "Pues va de comer, lom, moische, lole, moische, ropen, que es saquetan, aróguela, lo totinoc."
+"startMs": 898116,
+"endMs": 909536,
+"text": "Es una estirada a Pésaj la orla. La orla es la estirada más grande a, a, a korbán Pésaj, porque todo el majut de korbán Pésaj es el efec de la orla."
 },
 {
-"startMs": 1686000,
-"endMs": 1708000,
-"speaker": "Speaker 1",
-"text": "Es que se esperaba que lo hagan el Derek Camalón. O sea, el hacer Derek Camalón ya está mal. La sopa de Derek Camalón ya está mal. Ustedes vean el camino al Mallón, ya ahí ya está mal. Lo, cuando llega al Mallón, antes de hacer check-in, tienes que hacer Ritmila. Si llegas."
+"startMs": 909756,
+"endMs": 914196,
+"text": "Es el majut de korbán Pésaj, que es el efec de la orla. Entonces..."
 },
 {
-"startMs": 1708000,
-"endMs": 1723000,
-"speaker": "Speaker 2",
-"text": "Se toman, haya lo intense que me late jila. Pues no llego al malon, estas derecho. No ya llego, ya llego, ya llego. Ya llego. Como dices, haces tu equipo? O lo primero que es lo primero que dices? En el camino no hay tan, no? En el camino estas en el camino."
+"startMs": 917496,
+"endMs": 922936,
+"text": "Entonces, vemos este inian como-- entonces, entonces, ve, ve, ve, ve, ve"
 },
 {
-"startMs": 1723000,
-"endMs": 1755000,
-"speaker": "Speaker 1",
-"text": "No, en el derex no hay problema, el problema es cuando llegas, samucla malon. Entonces ahí en el malon, apenas llegas antes de instalarte. Eh! Robois hay fiesta, Brit Milla. Antes De desempacar, antes de pagar el hotel, antes de la Itasek, cualquiera en el hotel, se hace Mila. Por ejemplo, si. Dice, mi penshin está uno, vaihi va Derek Bamalon. Si, es la misma palabra Derek que aparece ahí en Yoshua que vimos, que por cerca, están en el Derek no pueden hacer Brit Milla."
+"startMs": 924956,
+"endMs": 931716,
+"text": "lo polémico que está pasando acá. ¿Sí? Hashem le dice a Moshe: \"Baja a Mitzráim\"."
 },
 {
-"startMs": 1755000,
-"endMs": 1790000,
-"speaker": "Speaker 1",
-"text": "Si, si, si. Entonces va a comer, luego le voy a hacer a Beinu. Rikeshatan, la arroge, la loto, Tinok, marki hatan, dami, mataali, zehure, mikarui hatan, veo mer de atinok, dice rash, dice el ran, veo mer de atinok, shenasa hatan, alede brit, se llama hatan, el limol se llama hatan, hatan a brit, porque también es hatan barbizua, hatan, que es hatan?"
+"startMs": 932696,
+"endMs": 938976,
+"text": "Cuando-- antes que tiene que hacer brit milá. Todo el el koaj de-- leotsi et Am Israel miMitzráim- Milá."
 },
 {
-"startMs": 1790000,
-"endMs": 1800000,
-"speaker": "Speaker 1",
-"text": "Pero no se ve que es."
+"startMs": 939216,
+"endMs": 948576,
+"text": "Kitar laorla. Todo Mitzráim es la orla. Si Mitzráim es la orla beatsmá, es amer cherpat Mitzráim, peshat pashut del pasuk, es amer cherpat Mitzráim."
 },
 {
-"startMs": 1800000,
-"endMs": 1805000,
-"speaker": "Speaker 3",
-"text": "Si, es como."
+"startMs": 950556,
+"endMs": 958336,
+"text": "O la Moshe tiene que bajar a Mitzráim a quitar la orla, pero él beatsmo tiene orla. Su hijo, Gil, sí."
 },
 {
-"startMs": 1805000,
-"endMs": 1818000,
-"speaker": "Speaker 2",
-"text": "Dice, es con la Torah, es un Brit se puede entender muy bien, es un Brit un hatan y una kala, es un Brit entre los hatan y la kala ¿no?"
+"startMs": 958336,
+"endMs": 973256,
+"text": "Sí, pero él beatsmo tiene orla. Entonces, ¿qué le está diciendo HaKadosh Baruj Hu con eso? Dice: \"Moshé\", dice: \"Necesitas kiviajol quitarte la orla para poder ser el que saca a Am Israel de Mitzráim."
 },
 {
-"startMs": 1818000,
-"endMs": 1841000,
-"speaker": "Speaker 1",
-"text": "Entonces acá es un Brit con la que es el Hattan La mamá lo llama, si por A lo llama hatan."
+"startMs": 973616,
+"endMs": 975876,
+"text": "Kiviajol le dice Hashem: \"Yo no te necesito"
 },
 {
-"startMs": 1841000,
-"endMs": 1845000,
-"speaker": "Speaker 3",
-"text": "Fíjate, cuando salen."
+"startMs": 977076,
+"endMs": 983636,
+"text": "para sacar a Am Israel de Mitzráim, más que por el hecho que tú eres el koaj antiorla\"."
 },
 {
-"startMs": 1845000,
-"endMs": 1887000,
-"speaker": "Speaker 1",
-"text": "A mi cel de Mitraen llegó el Mashit a Mitraen, ¿no? El Malaja Masjit, a mi no me trae pero no pudo pasar a sus puertas porque no pudo pasar a sus puertas? Porque tenían sangre entonces acá esta sangre aquí viajó Damila aquí está protegiendo al bebé del Masjit también paralelo también ahí hicieron Brit."
+"startMs": 984576,
+"endMs": 993196,
+"text": "Por eso Moshe Rabenu cuando nace es- A ver, a ver, a ver. Hashem lo está mandando el octavo dio-- el, el, el octavo día que tiene que hacer brit milá a su hijo y lo manda."
 },
 {
-"startMs": 1887000,
-"endMs": 1888000,
-"speaker": "Speaker 3",
-"text": "Eso es lo."
+"startMs": 994136,
+"endMs": 1001416,
+"text": "Yo, yo estoy entendiendo totalmente al revés. A mí me viene-- HaKadosh Baruj Hu no quiere que le haga brit milá a mi hijo y entonces, este- No."
 },
 {
-"startMs": 1888000,
-"endMs": 1894000,
-"speaker": "Speaker 1",
-"text": "Que decimos de \"Badanai Kayi\"? \"Dan Pesak, no dijo? \"Dan Pesak,"
+"startMs": 1001436,
+"endMs": 1009056,
+"text": "¿Cómo, cómo, cómo, cómo, cómo sacaste el, esa...? Kiviajol, eh, kiviajol, Moshe tiene que ir. Hashem le está diciendo: \"Mira, no estás listo\"."
 },
 {
-"startMs": 1894000,
-"endMs": 1919000,
-"speaker": "Speaker 3",
-"text": "Dan Mila\" El."
+"startMs": 1010356,
+"endMs": 1012436,
+"text": "Le está mandando con orla. ¿Me explico?"
 },
 {
-"startMs": 1919000,
-"endMs": 1944000,
-"speaker": "Speaker 1",
-"text": "Psaat según la llamara, que quien es el Hattan? Fijate, acá hay Hattan en el Psaat es Kilu que es el Tinok. Pero según el Targum Jonathan, ¿Por qué dice Jathan? Jathan es el yerno. Quién es el yerno? Moshe. Entonces dice así, dice."
+"startMs": 1013756,
+"endMs": 1020056,
+"text": "Lo está mandando con orla. Ahora, y beemet, cuando llega al malón, ¿qué tiene que hacer Moshe Rabenu?"
 },
 {
-"startMs": 1944000,
-"endMs": 1977000,
-"speaker": "Speaker 1",
-"text": "Este es un Targum al Targum Jonathan. O sea, Targum Jonathan en hebreo. Batikajtipora Tzor, Batihrote torlat gershom bena, Batikravet kritata Milale Raglav Shelmalah, Ahabalah Batome. Le dice, le dice al Mala Jabala, le dice, le enseña la orla y le dice: Hattanil Ratsalamul, ve jami vi kebala, ve ata dam kritas, ei japera la hatan shelly. Entonces Hattan es el esposo de Tzipora."
+"startMs": 1020176,
+"endMs": 1028496,
+"text": "Directamente hacer la- Directamente hacer el brit milá. Y entonces, ahí HaKadosh Baruj Hu le, le, le, le, le, le, le demostró mamash,"
 },
 {
-"startMs": 1977000,
-"endMs": 1982000,
-"speaker": "Speaker 1",
-"text": "Ahora según la de Mara que es el y es, es Hattan, es el Hattan,"
+"startMs": 1029715,
+"endMs": 1036256,
+"text": "le dice: \"Moshé, no puedes tener el goel si hay orla\". Ahora, ¿por qué beemet itgalgel betsura hazot?"
 },
 {
-"startMs": 1982000,
-"endMs": 1991000,
-"speaker": "Speaker 2",
-"text": "El Nimol, el Nimol. Ya no jala el zipurdo que el suegro no lo crea,"
+"startMs": 1036596,
+"endMs": 1044636,
+"text": "Porque le quiso enseñar esta enseñanza. Porque Moshe Rabenu, de alguna manera, todavía no había quitado la orla al cien por-- al cien por ciento."
 },
 {
-"startMs": 1991000,
-"endMs": 2010000,
-"speaker": "Speaker 3",
-"text": "Que él quería irlo y el suegro no fuera."
+"startMs": 1045016,
+"endMs": 1051816,
+"text": "No había quitado la orla al cien por ciento. Y entonces, HaKadosh Baruj Hu dice: \"No, Moshe, todavía no puede ser el goel, necesito enseñarle."
 },
 {
-"startMs": 2010000,
-"endMs": 2015000,
-"speaker": "Speaker 3",
-"text": "Atam Damim Ata Li. Eso es lo que no. Ata Li conoce."
+"startMs": 1052456,
+"endMs": 1061396,
+"text": "Entonces, lo voy a mandar con orla y en el camino se va a dar cuenta de que va a estar beemet, vematzot el tsakanam mamash, se va a dar cuenta que el problema es la orla."
 },
 {
-"startMs": 2015000,
-"endMs": 2022000,
-"speaker": "Speaker 1",
-"text": "De su hijo también."
+"startMs": 1061756,
+"endMs": 1070596,
+"text": "Entonces, Moshe va a entender que hay un problema muy serio con la orla y eso es lo que hay que le ataque. Ahora, ¿cuál sería la otra orla de Moshe que no se ha quitado?"
 },
 {
-"startMs": 2022000,
-"endMs": 2050000,
-"speaker": "Speaker 2",
-"text": "No entiendo nada. Si, no está claro. Cómo se te impasión? La gente este por acho, no me lo estoy diciendo al e. Al tinop, a Taldi, a Tal, quien, quien, al tinop. Estamos hablando del Tinoco."
+"startMs": 1071176,
+"endMs": 1081616,
+"text": "Que es lo malo. Oh, eso es lo que hay que entender aquí. ¿Cuál es el omdes de lo que está pasando? Si Hashem le dice a Moshe que baje a Mitzráim, pero Moshe, su hijo, no tiene brit milá."
 },
 {
-"startMs": 2050000,
-"endMs": 2054000,
-"speaker": "Speaker 2",
-"text": "Al niño le dijo que por su culpa."
+"startMs": 1082456,
+"endMs": 1086996,
+"text": "Está en el octavo día. Kiviajol, Hashem le está diciendo: \"No puedes cumplir ahorita la mitzvá de brit milá\"."
 },
 {
-"startMs": 2054000,
-"endMs": 2063000,
-"speaker": "Speaker 3",
-"text": "Está matándole a sus cosas. Si, si, si."
+"startMs": 1088316,
+"endMs": 1095376,
+"text": "Y luego, ¿cuál es la taná de Hashem hacia Moshe? \"¡Ey! ¿No tienes brit milá? Pero tú me mandaste en brit milá\"."
 },
 {
-"startMs": 2063000,
-"endMs": 2074000,
-"speaker": "Speaker 1",
-"text": "Igual no concuerda con Rasti tampoco, estamos subiendo."
+"startMs": 1096076,
+"endMs": 1103336,
+"text": "No, no. Hay algo más abajo. \"Itas aktava malón tejila\". ¿Qué significa \"itas aktava\"? En ti, hay un problema en ti. Exactamente."
 },
 {
-"startMs": 2074000,
-"endMs": 2128000,
-"speaker": "Speaker 1",
-"text": "Ok. Entonces acá, yo creo que hay algo amor. Qué está diciendo Rosbag? Rosbag dice que el Gizarón no lo tiene Mosorrapenuvatsmo. Dice, la Orla, Musé no tenía Orla. Toda la Orla era, Mitzar, que Mosé no entendía Kibijol que él tiene el coa. De quitarle la Orla a Misrael, que viajó el problema era el hijo, el problema no era en Moshe, aquí hay una Maklok es muy de acá, ahí aquí la Orla, que viajó, si el hijo tiene Orlaziman, que Moshe tiene Orla y por eso todavía no se la quita, oh Dilma, no, el problema no es Moshebeat, no, el problema es el hijo, y entonces a Mistral."
+"startMs": 1103476,
+"endMs": 1112076,
+"text": "Dotomeret. El problema no es del niño. Tipo tú, si tú estuvieras completamente sin- Yo no te hubiera mandado."
 },
 {
-"startMs": 2128000,
-"endMs": 2167000,
-"speaker": "Speaker 1",
-"text": "Es al que Moshe necesita aquí, quien representa a Misrael, su hijo. Porque Moshe dice, tú no necesita a Moshe, le dice, tú vas a ir a quitar la orla, entonces tú mismo, tu hijo no tiene orla, tú vas a quitarle la orla a Misrael, entonces Kiviajol, el hijo, ahorita tiene orla. Entonces Moshe es el que tiene que quitarle la orla. Entonces acá el problema de la chela es si el problema es en Moshe, o el problema es que Moshe, Kiviajol, no, Todavía no llego a entender que Betsem tiene que su slijut es quitarle la orla a Mizrael, pero el Betsmo no tenia ningún gisaron."
+"startMs": 1112076,
+"endMs": 1122936,
+"text": "Nada de esto. Entonces, acá, ¿cuál es el gilui, vamos a llamarle, que Hashem le dice: \"Mira, estoy buscando de ti una dalga más guá para que puedas cumplirte en el--"
 },
 {
-"startMs": 2167000,
-"endMs": 2180000,
-"speaker": "Speaker 1",
-"text": "O sea, hay un sabes que Mosel no estuviera Maul. Eh? El primer sabes que Mosel no esta Maul. Crees que no esta Maul? Qué tiene Morla? Otra vez, que hay un dativo. Ella le hace saber,"
+"startMs": 1124236,
+"endMs": 1136136,
+"text": "sea, sea el goel de Am Israel de Mitzráim. Entonces, yo necesito que entiendas el inian de, de que sin-- que todo el inian de, de lootsi et Am Israel de Mitzráim es la orla."
 },
 {
-"startMs": 2180000,
-"endMs": 2182000,
-"speaker": "Speaker 2",
-"text": "A Shem le hace saber como dijo."
+"startMs": 1136716,
+"endMs": 1139176,
+"text": "Entonces, si tú entiendes que tú tienes un inian"
 },
 {
-"startMs": 2182000,
-"endMs": 2189000,
-"speaker": "Speaker 1",
-"text": "Quítate tu Orla para que puedas tu sacar ambos. Sí."
+"startMs": 1140909,
+"endMs": 1141269,
+"text": "Tipo,"
 },
 {
-"startMs": 2189000,
-"endMs": 2193000,
-"speaker": "Speaker 1",
-"text": "Dice."
+"startMs": 1142489,
+"endMs": 1149809,
+"text": "está a mí, hablar, decir, ¿sí? Entonces, tienes un problema. ¿Por qué tienes un problema?"
 },
 {
-"startMs": 2193000,
-"endMs": 2217000,
-"speaker": "Speaker 1",
-"text": "\"Darasa viuda barbizna\". \"Bechaseni tras el Moserabbi no minamilaa\". \"Cuando Moseni tras el Minaminaa\". \"Tasbau af behema ublau\". \"Me lo hierum y menú el arreglar\". \"Le dejaron nada más los pies\". \"Miyaa batikasi borat zora batihrote torlat benaa\"."
+"startMs": 1150969,
+"endMs": 1157189,
+"text": "Es representar, no hablar. Hay que concientizarse que va a representar a la Misráim, ¿no? O sea."
 },
 {
-"startMs": 2217000,
-"endMs": 2248000,
-"speaker": "Speaker 1",
-"text": "Kibiahol vio que Afi Haema no están pudiendo contra el Brit Milá de Moshe, quiere decir que están viendo que Moshe tiene. Tiene Milá. Entonces si Moshe tiene Milá. Qué pasó? Canire físicamente lo que pasó es que Gulaila agarró a Moshe. Qué es Afi Haema? No es que llegó un monstruo así. Se enfermó? Se enfermó Moshe, es que me empezaron a salir los ronchos todo el cuerpo."
+"startMs": 1157409,
+"endMs": 1165029,
+"text": "Que tiene que-- él, todo su inian es hacer una boda rujanit de quitarle la orla a Misráim."
 },
 {
-"startMs": 2248000,
-"endMs": 2256000,
-"speaker": "Speaker 1",
-"text": "En los pies no tiene. Pero de repente cuando llegó hasta acá. A la cintura. A la cintura frenó. Entonces qué dice?"
+"startMs": 1165629,
+"endMs": 1172289,
+"text": "Esa es su inian. Es una boda rujanit y no es una boda técnica, es una boda rujanit."
 },
 {
-"startMs": 2256000,
-"endMs": 2289000,
-"speaker": "Speaker 1",
-"text": "Aquí hay un malaje invadiendo a Moshe y Moshe se está poniendo muy mal, pero de repente contra qué no tiene coaj contra el britz mila que tiene Mosarapenu? Ah! no tiene coaj contra el britz mila de Mosarapenu, entonces más que gimnaso, britz mila, quiere decir que acá, Entonces acá hay, mira, entonces Rápido Dever Business está diciendo aquí el Londres de la Mahloque de atrás, por un lado. Porque antes, cuál dijimos cuál la Mahloque? Quién era el problema? El Tinot con Moshe? Entonces decimos, Moshe por un lado no era el problema, pero por otro lado era el Tinot, pero por otro lado puede ser que era Moshe."
+"startMs": 1172849,
+"endMs": 1179789,
+"text": "Si Moshé Rabenu estuviera consciente de eso al cien por cien al bajar a Misráim, entonces, ¿qué es el primer pendiente que él tiene?"
 },
 {
-"startMs": 2289000,
-"endMs": 2321000,
-"speaker": "Speaker 1",
-"text": "Sí, pero Moshe, pero ahí que tenía Brit Milá. Pero el problema de Moshe, él tiene Brit Milá, pero como no le está haciendo Brit Milá a su hijo quiere decir que en cierto aspecto no ha detectado, El \"gisaron\" cae en uno \"ra\", entonces quiere decir, ese es todo delineando, es todo delineando, es que tiene tanto britmilá que en él no está el \"hitus\" del \"ra\". Me explico? No. Oser Rabbenu, él tanto, tanto vive él."
+"startMs": 1179789,
+"endMs": 1186309,
+"text": "¿Bajar a Misráim o quitarle la orla a su propio hijo? Quitar la orla a su propio hijo. Como es la ya."
 },
 {
-"startMs": 2321000,
-"endMs": 2341000,
-"speaker": "Speaker 1",
-"text": "Nació Tov. No es el Tov que vino del Ra. Me explico? Él nació del Tov, no es el Tov que había Ra, Y apago todo el de todo, él nació siendo todo. Entonces Beetzem, Kibehol, tiene un mahul, pero que luego lo avala desde Adai. Lo avala desde."
+"startMs": 1186329,
+"endMs": 1193449,
+"text": "Entonces, acá, acá el Rujú le quiso legalotes. Lo mandó con orla. De manera que Moshé ahorita"
 },
 {
-"startMs": 2341000,
-"endMs": 2345000,
-"speaker": "Speaker 2",
-"text": "Ya, Ya. Si. Se puede Josef casi."
+"startMs": 1194769,
+"endMs": 1207489,
+"text": "haga una de dos cosas. ¡Oh! Itasek ba milá tehilá y no en el malón tehilá. Se le hizo ver, o sea, como que, como que lo puso en el matado de que- Que Moshé tiene que- Date cuenta tú solo."
 },
 {
-"startMs": 2345000,
-"endMs": 2377000,
-"speaker": "Speaker 1",
-"text": "Una Página de Josef con Jehudah es Josef. Antes de que Josef va a Jamitrai, si. Antes de que Josef va a Jamitrai, entonces Josef, su gisaron era que tenía una mala tan grande, Que burlaba. Y cuando burlaba, veas así, entonces mi mail es. No los tienes desarrollados. Los kanaes. Los kanaes, los kanitas. Eso. Entonces aquí está. Exactamente. Moshé Nolas Maul. Entonces, por un lado, Moshé es el Shlemut, pero por otra. Es el que Nolas Maul, es la Mala Gigdola, pero tampoco, no es un kinyan."
+"startMs": 1207669,
+"endMs": 1218729,
+"text": "Sí. Oh, si, si tú sigues como estás, que viajon, no es algo malo, pero es algo que... Tipo cuando tu hijo, yo siento que es cuando tu hijo, sabes que si hace lo que él quiere, se va a arrepentir."
 },
 {
-"startMs": 2377000,
-"endMs": 2390000,
-"speaker": "Speaker 1",
-"text": "O sea, tiene los dos lados. Entonces, no puede quitarle el lado a otro todavía. Porque él todavía no se quitó su a sí mismo, pero él, por otro lado, es el Shremut más grande que hay. Por eso, ejemplo, ustedes cogen, ¿no?"
+"startMs": 1219589,
+"endMs": 1232869,
+"text": "Si se va a subir a la montaña rusa, esto va a vomitar, sabes que va a vomitar esto. ¿Cómo? ¿Cómo? No, es como siempre has dicho. Sabes que déjale para que esto, para que se maree, para que aprenda solo también, kilu, pero para que agarre la enseñanza solo."
 },
 {
-"startMs": 2390000,
-"endMs": 2418000,
-"speaker": "Speaker 1",
-"text": "Entonces viene dice así. Vete, vamos a rapenuki viahol, hasta que llegó al Brit Milla. Puede? Qué puede fue otra vez? Porque que ibahol, mose, el beatzmo no se hizo Brit Milla. Si él no se hubiera dicho Brit Milla. Entonces también desde la cabeza hasta la cintura, ya tiene Brit Milla. Pero, pero en donde cuando llegó al Brit Milla. Ahí sí tiene Brit Milla. Porque me tiene Brit Milla. Que lo físicamente lo tiene, vamos a llamarlo así. Físicamente lo tiene,"
+"startMs": 1234069,
+"endMs": 1241489,
+"text": "Exactamente. Entonces, acá... Está muy, eh, o sea, está muy zac. O sea, zac va malón, no es-- no, no tenemos el mechud, como era."
 },
 {
-"startMs": 2418000,
-"endMs": 2423000,
-"speaker": "Speaker 2",
-"text": "Por eso llega hasta la cintura. Pero el moa, que es la cabeza y todo eso, en la Siah, en su kinian."
+"startMs": 1241909,
+"endMs": 1249189,
+"text": "No, pues es justamente lo que estamos diciendo. No es un onesh, porque ¡oye, itasek va malón tehilá! Es un limón a todos sus lijut."
 },
 {
-"startMs": 2423000,
-"endMs": 2458000,
-"speaker": "Speaker 1",
-"text": "Todavía le falta a Moshé, que llegó el iknot, una mala, legalot, una mala que hacer. Entonces, acá se lo puso en este mata, para que ve met, y Klod vet se metan akuda, que es el Tikun de la. Que él vet moi hacerte Tikun de la orlaf, entonces quiere decir \"afi jaima\" cuando llegan, cuando enquistaron en el Brit. Eso es. Eso hay que aprender. Afijama, ya eran cuando estaban en el Bridge. Entonces, dice."
+"startMs": 1250069,
+"endMs": 1257709,
+"text": "Que ve este macá-- Moshé Rabenu es el que mantiene a Mitzráim. Si Moshé Rabenu tiene orla, ¿qué es?"
 },
 {
-"startMs": 2458000,
-"endMs": 2463000,
-"speaker": "Speaker 1",
-"text": "Los canineses son los dos tradims de arriba, si Moshué tiene que estar todo."
+"startMs": 1258409,
+"endMs": 1267409,
+"text": "Se muere a la macón. Porque todo su mechiut es él que guarda a Mitzráim. Mientras haya orla en Moshé Rabenu, entonces Moshé Rabenu no puede existir así."
 },
 {
-"startMs": 2463000,
-"endMs": 2473000,
-"speaker": "Speaker 2",
-"text": "Había en Yehoshua también Raglav, no sé si. Sabska en el Malón y todo eso, había Raglav de abajo del Yardel, las piedras de abajo del Raglav."
+"startMs": 1267629,
+"endMs": 1274549,
+"text": "No hay otro mechiut para Moshé Rabenu. Entonces, mi bele, por eso lo que yo me-- que yo me toldo, ya lo iba a matar. Pero, ¿por qué lo iba a matar?"
 },
 {
-"startMs": 2473000,
-"endMs": 2478000,
-"speaker": "Speaker 1",
-"text": "Puede ser, si todo es con Raglaim ahí, sí."
+"startMs": 1275149,
+"endMs": 1282929,
+"text": "Para enseñarle que con orla no, no cayamos. Por eso Moshé Rabenu apenas nace, ¿qué dice el pasuc?"
 },
 {
-"startMs": 2478000,
-"endMs": 2512000,
-"speaker": "Speaker 1",
-"text": "Miya, vayarez mi menu. Entonces en ese momento vayarez mi menu, se quitaron los malajindai, los mashitin, dice \"Veotasha, ah, Pikes, Moshé rape en un lover gano\" Entonces Moshé ahorita que ya, le hicieron, quitaron legambre a. Ah, fíjema. Ya matalos, los quería, vetsem, anula legambre. Shenemar aref meav a dov hema. Sí, hay que ver ahorita ese pasuk."
+"startMs": 1284029,
+"endMs": 1291529,
+"text": "Otero to, quitó. ¿Qué es quitó? Maúl. Que nació maúl. Por eso cuando dices maúl."
 },
 {
-"startMs": 2512000,
-"endMs": 2515000,
-"speaker": "Speaker 1",
-"text": "Bisombrin."
+"startMs": 1292529,
+"endMs": 1300469,
+"text": "Maúl. Está maúl. Está maúl. Está maúl. Está maúl. Ya vino a cumplir mil tipo."
 },
 {
-"startMs": 2515000,
-"endMs": 2517000,
-"speaker": "Speaker 1",
-"text": "Lejemargo."
+"startMs": 1301449,
+"endMs": 1301829,
+"text": "Maúl."
 },
 {
-"startMs": 2517000,
-"endMs": 2560000,
-"speaker": "Speaker 1",
-"text": "Shenemar hemaenli. Qué quieres sukim adentro? Sí. Bactiv, kia gordi, mi pneaav eajemá. Entonces, ejemabu. Trei hemaavu o. Bisombrin. Bisem kunda de hema. Es Gunda de Haima que hicimos? Los \"hayalim de Haima\" entonces abre \"warim tet\""
+"startMs": 1307269,
+"endMs": 1316429,
+"text": "No, pero ¿qué tiene que ver? Entonces, al revés. Él, él nació maúl, entonces, ¿qué quiere decir? No, bien. Moshé Rabenu, el Shom Leつari Sien, dice: \"Shma, kol hainiyan shelja,"
 },
 {
-"startMs": 2560000,
-"endMs": 2572000,
-"speaker": "Speaker 1",
-"text": "Jutet Hay que ver un poco antes de Jutet, pero ve que locura ¿Qué dice en Tailim? \"Haref Me'av\"."
+"startMs": 1317869,
+"endMs": 1320389,
+"text": "kol hainiyan shelja, esh atá amaúl\"."
 },
 {
-"startMs": 2572000,
-"endMs": 2579000,
-"speaker": "Speaker 1",
-"text": "\"Haref Me'av\" Un segundo, ¿qué dice el ran sobre eso? \"Haref Me'av\""
+"startMs": 1322169,
+"endMs": 1331969,
+"text": "Tú eres el colofón al guión del todo. Entonces, mimelle, si no entiendes que es de haShlijut shelja, hacer-- tu, tu Shlijut es hacer milá."
 },
 {
-"startMs": 2579000,
-"endMs": 2610000,
-"speaker": "Speaker 1",
-"text": "\"Clomara, que vas a un juegos amar rotse y asbem, alma rotse, rotzea ya le organ\". Eso le dijo, oye, eh, eh, suelta a Afi a Gema. No los elimines completamente. Pues yo, Rapenu Kilu que empezó a hacer una abogada tan fuerte, que quería eliminar en Shores del Arelute en el mundo. Que ya no se necesiten más un malaje de Afi y Gema. Por qué los va a eliminar? Eso le dijo \"Aref Meafe a Dobhama\". No lo hagas. Entonces no lo hagas. Qué es Haref? Haref, suelta."
+"startMs": 1332749,
+"endMs": 1334669,
+"text": "De haShlijut shelja es hacer Brit Milá."
 },
 {
-"startMs": 2610000,
-"endMs": 2624000,
-"speaker": "Speaker 1",
-"text": "Acuerdense de estas palabras, Haref, porque ahorita lo vamos a ver. Dice aquí \"invarim perektet\", dice: \"Pasuk, you dalef\". Antes, vamos a ver. \"Pasuk, you\"."
+"startMs": 1337389,
+"endMs": 1345169,
+"text": "Si no entiendes que ese es tu Shlijut, entonces, de hecho, estamos en un problema muy serio. Dice: \"Tú eres quitó,"
 },
 {
-"startMs": 2624000,
-"endMs": 2657000,
-"speaker": "Speaker 1",
-"text": "\"Vaitein ashemelaischnelu jota unibtubin bezwalokim valeem, keholofvarim masheldiver ashem maem, imagem bar mitohhaesh bien makal\". Bai, mi ketzar bai mi over milai, la natan, ashemelais, neluho dabanim luho dabrid, bai homenai kum red maher mi teh. I shi het dame kaserute dame mi mitrain sanumar mi naderekh, ashestiviti, mazulai masteha. Bai homenajemlai, raitieta amasde, bine ankche orefu. Heref mi meni, ve ash mide. Suéltame, heref, mi meni."
+"startMs": 1346389,
+"endMs": 1353329,
+"text": "tú eres tuvia\". Así se llamaba Mosé. Él fue a sacar a la, a la gente de Misráim, porque el inian se llama que fue a hacerles milá."
 },
 {
-"startMs": 2657000,
-"endMs": 2689000,
-"speaker": "Speaker 1",
-"text": "Ve ash mide, bem ketch, mami, ta hatasha main, bezde ut khalikoi, zum rami menu. Baefem baird minar, baarboir baesh nulkhota brit, asseyadai. Baerbig nekhatatem ashem lukhem ashit em lakhem massakha sarte main minadekh, assetivashem etchem. Bait post, mishneh lukot ashlikem, me alsteyadah bashwarem leenechem. Wet napalif nahsem kerishonah? Arbaim you overbaim lai lalahem lukaldi main losatiti. Alkolkhatotehem jakhataten lassotarra bene ashem lakhis."
+"startMs": 1354309,
+"endMs": 1363889,
+"text": "O sea, de ir a sacarlos de Misráim, a ir a hacerles milá, no, y a eso él no se lo dijo. Por el ano le dijo... Entonces, hombre, toda la matzá es llegar a Korban Pesaj, que hagan Brit Milá."
 },
 {
-"startMs": 2689000,
-"endMs": 2728000,
-"speaker": "Speaker 1",
-"text": "Kiagoorti. Mi peneha, af b'a hema. Sí? Que el gorti me dio miedo de \"afi y hema\", si el kazafa shemalehem la shmiret hem\". \"Beishma shemelaikam b'apah ma'i\". Entonces aquí está escrito algo \"atsum\". Quiere decir que \"afi y hema\", cuando llegaron otra vez? Getaegel. Entonces quiere decir que Getaegel, en cierto aspecto, romper el britz. Y entonces es bethem repetir. Y Shore Shenheta Egel está en que Moshe no le hizo Britmila a él y entonces vienes que Mashem no está la shmi dot toki viajor."
+"startMs": 1364569,
+"endMs": 1372129,
+"text": "Entonces, hombre, de acá es quitar toda la tumá de Misráim, sacarlos de la tumá de Misráim, que esa tumá se llama orla, esa es la boda de Moshé Rabenu."
 },
 {
-"startMs": 2728000,
-"endMs": 2758000,
-"speaker": "Speaker 1",
-"text": "Y Moshe hizo tikun primer tik por ah. Y quería quitar a eliminar completamente a Afhihama. Y no los eliminó y regresa. Yahsem le dijo estas palabras: \"Aref me have a dofhema\" No los elimines completamente. Por qué no los elimines completamente? Porque hay aquí algo muy de moco. De nuevo. No las elimines completamente. Por qué? Porque si tu los eliminas completamente. Es un problema. Cuál es la raya? Tu mismo. Tu mismo,"
+"startMs": 1372489,
+"endMs": 1375929,
+"text": "Por eso toda esta subida es anoder, mina, arelim,"
 },
 {
-"startMs": 2758000,
-"endMs": 2759000,
-"speaker": "Speaker 2",
-"text": "Que no hiciste Kinian."
+"startMs": 1378229,
+"endMs": 1384409,
+"text": "mutar de orlé Israel, porque un judío de majut es maúl. ¿Por qué? Porque un judío es de Misráim."
 },
 {
-"startMs": 2759000,
-"endMs": 2790000,
-"speaker": "Speaker 1",
-"text": "Exactamente. Si te quemamos antes del Kinian es. Tu no será menos, ya eres Mahul. Ya eres todo. Pero ya no hiciste Kinian, hay un problema. Porque llega. Porque lo que metes en el rostro. Muy bien. Entonces si, lo vas a matar y todo va a estar bonito y hay Tikuna Olam. Pero eso que siempre dice sería échara a Haracol, es para toda el lineal es ganarle. Entonces mi mail le dice tienes que dejar a Afijema. Porque por más que ahorita ya entendiste el lineal, el sol de la mila y vas a hacerle que todos hagan un Brit Mila y todo lo que quieras."
+"startMs": 1385169,
+"endMs": 1393009,
+"text": "Si es de Misráim, mimelle, es shayah laamulim, incluso que no se ha hecho Brit Milá, pero se llama que no se ha hecho."
 },
 {
-"startMs": 2790000,
-"endMs": 2798000,
-"speaker": "Speaker 1",
-"text": "Se lo voy a Tikun de Afijema. Verra ya que tú no tenías Brit Mila. Tú ya tenías Brit Mila y no sirvió."
+"startMs": 1393269,
+"endMs": 1396229,
+"text": "Pero alguien que nunca salió de Misráim... No es maúl."
 },
 {
-"startMs": 2798000,
-"endMs": 2830000,
-"speaker": "Speaker 1",
-"text": "Entonces mi mail le tenemos a Mistral tienen que llegar a la largada del Tikunder Brit Mila. Mekojotatsman! ¿Cuál va a ser la prueba? Que ellos van a hacer Brit Mila en Pesaj Mitrain Pero a Dain de la misma manera que tú en el Derek. Sí? Esto es Kiluki Biahoul. Tú en el Derek tuviste un problema. Sí? También van a tener un problema en el Derek. Y van a venir. Va, Malek va a venir para Derek. Y a Malek valek atrek contra la Mila."
+"startMs": 1397649,
+"endMs": 1404129,
+"text": "Entonces, aunque se haga Brit Milá, es, es arel. Como bal milá, no, bal, bal Brit. Sí, exactamente."
 },
 {
-"startMs": 2830000,
-"endMs": 2860000,
-"speaker": "Speaker 1",
-"text": "Y luego el lizaión más fuerte si Behmet, Tienen Kinian de la Milah, que es el Kinian de la Nokhia Shamlokhia Shamlokhiajim, que es Beetzem, el Brit que hay entre nosotros y ustedes. Y si la prueba si van a tener Behemet, si entendieron el Linean de la Milah, y cual es el Linean de la Milah? El Tmimut. Entonces si tu tienes ese Tmimut y no quieres Beetzem ahorita el DAT. Si, de. Chicken. Le voy a Dan, humea y aló."
+"startMs": 1404629,
+"endMs": 1411049,
+"text": "Entonces, esto lo sube aquí. Benebrit. Es verdad, esto es benebrit. Un judío es benebrit."
 },
 {
-"startMs": 2860000,
-"endMs": 2893000,
-"speaker": "Speaker 1",
-"text": "Si no estamos Sherrape. Entonces falta DAT. Pero si tienes Britmila, entonces puedes decir, también tienes, machemelo queja, que es lo que va a Legalot si ellos tienen el Britmila, Begele Kinian o si tienen Britmila, nada más por físico que viejo. Entonces dice, la prueba es el Egel. Entonces cuando hacen el Egel, sí? Cuando hacen el Egel, qué pasa? Otra vez se despiertan, no?"
+"startMs": 1413449,
+"endMs": 1413709,
+"text": "Ajá."
 },
 {
-"startMs": 2893000,
-"endMs": 2923000,
-"speaker": "Speaker 1",
-"text": "Muchos los quería limitar? Cuál es la raya? La raya es, que a mistades le hicieron el egel. Es la raya! Claro, claro. Exactamente, entonces ahí llega Nafi Haima. Y entonces acá, acá otra se usa la palabra \"hare\". Aquí en la \"hare\", no me sueltes. Es al revés. Es al revés, como dices siempre. \"Ashen estando el remez\". Si me sueltas, no me sueltes! Es encima de que te caíste y lo que quieras, pero no te sueltes."
+"startMs": 1415509,
+"endMs": 1419469,
+"text": "Entonces, si queremos ulai, ulai, ulai, letzaret, el inian de..."
 },
 {
-"startMs": 2923000,
-"endMs": 2956000,
-"speaker": "Speaker 1",
-"text": "Si, esto está muy pele. Porque por un lado \"Aref mi meni bash mi dem\" \"Es es kibiahol, en yeush, su tomeret\". Ashem le dice \"No, no me. Osea, suéltame para que los destruya\" Y allá atrás les dijo, ¿qué dijo? \"Suelta a Afi Hema\" Es exactamente al revés. Vamos a pensar como es lo mismo. Es exactamente al revés, porque allá soltar a Afijema quiere decir. Que existen los destructores de Ami Israel."
+"startMs": 1422569,
+"endMs": 1430809,
+"text": "el, el inian que estábamos viendo, si queremos de verletzaret, el inian del Targum Yonatán con esto, porque aquí me voy a dar que era Eliezer."
 },
 {
-"startMs": 2956000,
-"endMs": 2993000,
-"speaker": "Speaker 1",
-"text": "Y aquí Hashem le dice, le dice, espérate, Moshé. Haref, si tú me sueltas, entonces ¿qué va a pasar? Va a venir Afijema. Y es más más lo que dice ahí. \"Que gote mi empleada a Afijema\" porque Hashem me dijo, porque qué iba a hacer a Afijema, sí, dice: Entonces, hubo un momento donde Mosé tuvo que soltar a Afi Gema, que tengan el poder que dejó destruir y tuvo un momento donde Mosé no soltó a Kadosh Barujó."
+"startMs": 1431569,
+"endMs": 1436729,
+"text": "Y por otro lado, en Targum Yonatán, me voy a dar que era Gershom. De Natán."
 },
 {
-"startMs": 2993000,
-"endMs": 3005000,
-"speaker": "Speaker 1",
-"text": "No soltó a cada dos buruju. Para que no los destruya. Entonces cuál es el hombre que carajo? Ahora parece una astira, como funciona. Ya? Este actirutz. Pues aquí Here, mata de aquí Here. Sí, que Afi Hema,"
+"startMs": 1438169,
+"endMs": 1446889,
+"text": "Y Gershom ya había nacido. Entonces, hay que andar acá. Y Tro, betsem, le dijo a Moshé: \"No le hagas Brit Milá tú\"."
 },
 {
-"startMs": 3005000,
-"endMs": 3023000,
-"speaker": "Speaker 2",
-"text": "Acaso Buruju los creó, no para destruir. Afi Hema, acaso los creó para acercarnos. Lo que siempre dices tú del Este era que todo bien. Acá el buruju le dio regalos al saltán. Qué regalos, más de regalos?"
+"startMs": 1447469,
+"endMs": 1457929,
+"text": "¿A quién? ¿A Gershom? A-- sí, a Gershom. Uno sí y uno no. Moshé le dijo: \"No, yo sí\". Tro-- de repente, con el segundo que viajon, que es el que dijo Moshé: \"¡Eh!"
 },
 {
-"startMs": 3023000,
-"endMs": 3030000,
-"speaker": "Speaker 1",
-"text": "Estamos Parados en tus torodos, que piensas? Sh. No me acuerdo de la cara,"
+"startMs": 1458289,
+"endMs": 1465029,
+"text": "Sí le voy a hacer Brit Milá\". De repente, Hashem le dice: \"No, no puedes hacerle Brit Milá, no puedes hacerle Brit Milá\". ¿Y Tro? ¿Eh? ¿Y Tro le dijo?"
 },
 {
-"startMs": 3030000,
-"endMs": 3032000,
-"speaker": "Speaker 2",
-"text": "Eso no me acuerdo de lo mismo."
+"startMs": 1466249,
+"endMs": 1473569,
+"text": "No, el segundo. ¿Y Tro le dijo que el primero? El primero no le hizo. Ahora, el segundo, y el, el-- Moshé dijo: \"Al segundo sí lo voy a hacer\"."
 },
 {
-"startMs": 3032000,
-"endMs": 3034000,
-"speaker": "Speaker 2",
-"text": "La de Sabot en Cuernavaca en los Poche abajo."
+"startMs": 1474469,
+"endMs": 1483589,
+"text": "Llega lo que-- vean en la cabeza de Moshé Rabenu, dijo: \"No, el pri-- el segundo seguro lo voy a hacer\", ¿no? Y entonces, el segundo, el día que le tiene que hacer Brit Milá..."
 },
 {
-"startMs": 3034000,
-"endMs": 3039000,
-"speaker": "Speaker 1",
-"text": "Es lo mismo, es sobre esto, es sobre el águila. Todo ahi era sobre el águila."
+"startMs": 1484269,
+"endMs": 1491609,
+"text": "Ya, ya, ya sé dónde vas. O sea, está haciendo un lugar de que quedan que él se dejó el itpasher, Naguid, itpasher."
 },
 {
-"startMs": 3039000,
-"endMs": 3042000,
-"speaker": "Speaker 2",
-"text": "No, Fue cuando Moshe subió por la Torah."
+"startMs": 1491829,
+"endMs": 1503593,
+"text": "No sé, itpasher, pero sí. Pero no, no hubo tayne a él con el primero. La tayne bikar fue con el segundo, pero por ser el que ve este el primero no Yo lo veo, sí lo veo yo más de esa manera, Filu."
 },
 {
-"startMs": 3042000,
-"endMs": 3044000,
-"speaker": "Speaker 1",
-"text": "Si."
+"startMs": 1504273,
+"endMs": 1520773,
+"text": "Tú no hic-- tú no mazal tan efesh en el primero. Entonces, cuando sí quieras hacerlo, es un, es un, es un, es un que se racita lo racita, que se racita- Sí, es más eso ...Klomar, en un principio, yo he sido una tiny, Filu, como también para llegar a estar acá."
 },
 {
-"startMs": 3044000,
-"endMs": 3061000,
-"speaker": "Speaker 1",
-"text": "Todo es Lineana y de su vida, hasta el jeta de Guel, y enseñan donde Moshe es este. Entonces. Pero cual es el Omek? El Omek acá es eso. Desde el Ojojma destruir a Afijma. Dice todo lo que Dios me sirve que destruyas a Afijma. Dios no puede. Que te agarres de mi."
+"startMs": 1522893,
+"endMs": 1530333,
+"text": "Ahorita que quieres beber, te va a poner la traba. ¿Me entiendes? Es, sí. Para legalot, para legalot deja que el primero."
 },
 {
-"startMs": 3061000,
-"endMs": 3069000,
-"speaker": "Speaker 2",
-"text": "Claro. Ashe no puede destruir a Afijma, ¿me entiendes? Ashe no puede contrarios, Jasmi Shalom Kilo."
+"startMs": 1530373,
+"endMs": 1541233,
+"text": "Entonces, ya puede ser que acá le hizo realmente brit milá a los dos, a Gershom y a Eliezer. Entonces, también, y acá el problema fue por Eliezer, porque él está seco en el principio."
 },
 {
-"startMs": 3069000,
-"endMs": 3104000,
-"speaker": "Speaker 1",
-"text": "Dice, Yo quiero que. Mitín, que no me sueltes a mi. Eso es lo que va a destruir Afijma. Entonces, Dola, Milash, mi hijletu, ale, iud, quim el britot. Si? Dolá, mila, sin hijatola, yodkim el mito, britzot, cuáles son los sijim el brittot? Es vete, miuskim el midot, trajamín. Entonces me parece que el brit con Hashem es tan fuerte que ki viajon, también después del agel, hay brit. El brit es tan fuerte que te puedes seguir agarrando de Kadosh con el ju, para salvarte de estos malasín que se llaman Afi Haima, que mekatregin, que no hay brit milá."
+"startMs": 1541833,
+"endMs": 1551173,
+"text": "Pero es el gilu que había un problema ya desde Gershom. Gershom, imaginamos, Moisés puede llamar que no tuvo de otra. Aquí, Dios le dijo: \"Mira, aquí tampoco tienes de otra\"."
 },
 {
-"startMs": 3104000,
-"endMs": 3132000,
-"speaker": "Speaker 1",
-"text": "Entonces, eso se llama Noderme, Arlé Israel, Vamos! ¡Vamos! ¡Areli mutar bar de Israel, porque do la milasen.! ¡Viajoles que también conducieron el Eggen! ¡Que dijo la de Ferupris! ¡Exactamente! Pero Beholes, Beholes todos, agárrate. Exactamente, el Brit es tan fuerte, eh, que ni cretó a la YouTube, el Brit. Entonces. Pero esta peli,"
+"startMs": 1551173,
+"endMs": 1559213,
+"text": "¿Sí? Que vi ajol, pero no está bien que no tienes de otra, ¿sí? Y entonces, en el primer momento que puedas, hazle brit milá."
 },
 {
-"startMs": 3132000,
-"endMs": 3139000,
-"speaker": "Speaker 2",
-"text": "Porque también Afi y Gema provocaron que sepamos esto. Como siempre dices, te voy a brindar algo más."
+"startMs": 1559913,
+"endMs": 1568753,
+"text": "Entonces, es, es este plata y puede ser que el efise me kimet también la Girsá de la Memará en el Siburi, también la Girsá."
 },
 {
-"startMs": 3139000,
-"endMs": 3141000,
-"speaker": "Speaker 1",
-"text": "Claro, claro, claro."
+"startMs": 1569293,
+"endMs": 1584393,
+"text": "Pero todo el inian, ese limud que Hashem le quiere enseñar a Moisés, que brit milá no es al rotasidadi, es el mahut de su shlijut, de lo que está haciendo, es de este, el inian de brit milá y llevar a Am Israel a la larga que se llama Timimut."
 },
 {
-"startMs": 3141000,
-"endMs": 3145000,
-"speaker": "Speaker 2",
-"text": "Ahora de todo el desfilado, de todo esto, tiene que ser algo bueno, si Nasha no lo permite."
+"startMs": 1584913,
+"endMs": 1590073,
+"text": "Es como un kilo, una conversión o una-- entrar al Am Israel, así como tipo guerut."
 },
 {
-"startMs": 3145000,
-"endMs": 3146000,
-"speaker": "Speaker 1",
-"text": "Ese es."
+"startMs": 1591573,
+"endMs": 1599033,
+"text": "No, es, es una larga rujanit. Sí, me refiero a eso. Una larga rujanit, que esa larga rujanit es quitar la orla."
 },
 {
-"startMs": 3146000,
-"endMs": 3151000,
-"speaker": "Speaker 2",
-"text": "El omic de Kashon quiere que haya Fijema. Ah Fijema provocaron que entendamos este gestor."
+"startMs": 1600853,
+"endMs": 1608433,
+"text": "Como es la orla gashmit, pero todo su inian es hacerle acá la orla rujanit. Mucho más que una cosa técnica, es un- Mmm, mmm ."
 },
 {
-"startMs": 3151000,
-"endMs": 3187000,
-"speaker": "Speaker 1",
-"text": "Claro, ahorita cuando Moshe lo está matando este malaj. Es el mejor malaj que hay en el mundo! Porque ve écheme el megaleno que necesitas tener Kiniana en el brickmilla. Porque hasta ahorita porque vino el malaj. Pero yo tengo brickmilla. Le dice, no, no le queda hombre, tienes Britmila, te faltan de Britmila, te falta el Tikun en Britmila, no le quiero que estés consciente de ese Britmila, porque, Bethel, si no te hago consciente de acá, entonces no vas a poder sacar a Mistral y también si lo vas a sacar, a Mistral va a ser el Egel y no vas a creer que hay un Brit entre nosotros que puede haber Tikun."
+"startMs": 1612873,
+"endMs": 1624393,
+"text": "Entonces... ¿Vimos?"
 },
 {
-"startMs": 3187000,
-"endMs": 3199000,
-"speaker": "Speaker 1",
-"text": "Entonces, acá estoy linean este de entender que hay Tikun, entonces merece el Gisaron otra vez, cuál es el Gisaron? Está ahorita, estamos utilizando como un mahul, ahí de afratan brit,"
+"startMs": 1629073,
+"endMs": 1630652,
+"text": "Has los sabemos, Moisés rabino, así lo dijo, dijeron"
 },
 {
-"startMs": 3199000,
-"endMs": 3222000,
-"speaker": "Speaker 2",
-"text": "Y demás dice hay que hacer algo. Kilu, y si todo es lineal de brit milada, es solamente que no haya, es un, es un ñam. Ya está bien, lo oye. Hay un lineal de asiá, hay un lineal de kinian, hay un lineal de acer, hasta pilo solo a cita y un lineal de afratan brit."
+"startMs": 1633433,
+"endMs": 1639453,
+"text": "eso, sacanaí, que dijo Moisés rabino, que dijo Moisés rabino, que dijo Moisés rabino, que dijo Moisés rabino, que dijo Moisés rabino, que dijo Moisés rabino, que dijo Moisés rabino, que dijo Moisés rabino."
 },
 {
-"startMs": 3222000,
-"endMs": 3230000,
-"speaker": "Speaker 1",
-"text": "Y que pasa con el lineal de poal? Que lo concientizas, ¿no? Necesitamos. Es alguien que no pasó. Pero no es mimela,"
+"startMs": 1639613,
+"endMs": 1643213,
+"text": "Me parece que se trata de malón tefilá."
 },
 {
-"startMs": 3230000,
-"endMs": 3247000,
-"speaker": "Speaker 2",
-"text": "Tienes que hacer algo. Es lo como puede ayudar mas. Quien te puede hablar mas a ti salir de un problema? Alguien que paso ese problema o alguien que no va a pasar? Alguien que lo paso, alguien que acanaide y ya lo confirió en carne propia. Estamos a la pena. Si no, si no."
+"startMs": 1646153,
+"endMs": 1652953,
+"text": "Dijimos que era- La palabra mal. La palabra mal, malón, mal."
 },
 {
-"startMs": 3247000,
-"endMs": 3277000,
-"speaker": "Speaker 1",
-"text": "Por un lado, es para Israel, por un lado es el médico que los puede sacar. Por qué el Jabush me tire de Tasurim? Porque él es el único que no está en la cárcel, es el único que nació sino Ra. Entonces es el único que dice venganse hacia mí. Pero por otro lado, si no pasaste el Niserian de tener a Orla y quitarla, entonces no puedes tú hacerlo a ellos. Entonces ve ese Moshe es aquí en Linian, que él tiene que bajar, ve ese al Macoma donde estaba Israel."
+"startMs": 1653313,
+"endMs": 1660633,
+"text": "En vez de hacer milá- Malón. Te saquen el malón. Son dos. Está maúl, maúl que está buenísimo."
 },
 {
-"startMs": 3277000,
-"endMs": 3304000,
-"speaker": "Speaker 1",
-"text": "Y entonces cómo lo bajan sin bajarlo a él? Con su hijo. Con su hijo, Dr. Mere. Date cuenta que tu hijo, que no te diste cuenta que tu hijo no tiene orla. Él ama, entonces quiere decir que en cierto aspecto ahorita te están despertando tu Milá a entender que esta Milá tiene que hacerle Brit Milá a los demás. No están que tienes Brit Milá. Qué locura!"
+"startMs": 1661333,
+"endMs": 1663913,
+"text": "Y está el malón, que es malo. Es un malón. Malón"
 },
 {
-"startMs": 3304000,
-"endMs": 3334000,
-"speaker": "Speaker 1",
-"text": "Voy a ir un poquito con lo que dicen que el hombre tiene que hacer algo para Letaken El mensaje de Bila es que el hombre tiene que viene a este mundo Letaken No viene ya. Osafilo uno que nazome tu cam Claro ¿Sarik Letaken de Tasmo? Si, 100% Pues no hay gratis ya dentro de la. Si, venimos a la agua La vida es Kilumma Sala toda la vida La vida es que tu tienes una orla que la tienes que quitar Osafilo que al octavo día ya tienes Brit Mila."
+"startMs": 1665493,
+"endMs": 1667393,
+"text": ". Es lo que dijiste. El malón"
 },
 {
-"startMs": 3334000,
-"endMs": 3357000,
-"speaker": "Speaker 1",
-"text": "Pero este Brit Me Lah vino porque quitaron la orla. Entonces mi email, eh. Entonces, Afilo que eres Judy, entonces en este aspecto de ti es Brit Me Lah. Pero toda tu vida vas a tener que trabajar para quitar más y más esa orla. Sí?"
+"startMs": 1668953,
+"endMs": 1677733,
+"text": ". Entonces, hay que entender cuál es el inión de malón. Estamos junto a Mitzráim. Malón. Y está el niño- Que se llama, va a llevarte al malón."
 },
 {
-"startMs": 3357000,
-"endMs": 3363000,
-"speaker": "Speaker 1",
+"startMs": 1678633,
+"endMs": 1683933,
+"text": "Nashbaik omer, no Moisés, no le Moisés rabino, que es satan, la droga, el auto tinoc."
+},
+{
+"startMs": 1685953,
+"endMs": 1693233,
+"text": "Que se llama, que hatan da mi matal. ¿No se puede que se esperaba que lo hagan del derej al malón? O sea, el hacer derej al malón ya está mal."
+},
+{
+"startMs": 1693233,
+"endMs": 1699933,
+"text": "¿Mmm? La azote va derej al malón ya está mal. O sea, él va en el camino al malón, ya ahí ya está mal."
+},
+{
+"startMs": 1700693,
+"endMs": 1706373,
+"text": "No, cuando llega al malón, antes de hacer check in, tienes que hacer brit milá. ¿Llegas?"
+},
+{
+"startMs": 1707973,
+"endMs": 1712913,
+"text": "Ya está mal. Ahí ya lo hice con mina tefilá. Pero llegó al malón. No, ya llegó, ya llegó, ya llegó."
+},
+{
+"startMs": 1714173,
+"endMs": 1720273,
+"text": "Ya llegó. Como dice, ¿has hecho check in o lo primero que-- qué es lo primero que hice? Check in. En el camino no hay tanto."
+},
+{
+"startMs": 1720313,
+"endMs": 1726773,
+"text": "En el camino estás en el camino. Derecha, malón, dere. No, en el derej no hay problema. El problema es cuando llegas- Ya llegó."
+},
+{
+"startMs": 1727092,
+"endMs": 1734813,
+"text": "Samuj la malón. Entonces, ahí en el malón, apenas llegas, antes de instalarte, eh, robo y hacer fiesta, brit milá."
+},
+{
+"startMs": 1734853,
+"endMs": 1742453,
+"text": "Antes de desempacar. Antes de desempacar, antes de, de, de pagar el hotel, antes del itasec, cualquier inión del hotel, te hace milá."
+},
+{
+"startMs": 1742453,
+"endMs": 1755213,
+"text": "¿Sí? Dice: \"Mi pne se-- va a ir, va a ir, va a ir derej, va malón\". Sí, es la misma palabra derej que aparece ahí en Yehoshua, que vimos, que por ser, están en el derej, no pueden hacer brit milá."
+},
+{
+"startMs": 1755253,
+"endMs": 1764813,
+"text": "Sí, sí, sí. Entonces, Nashbaik omer, no le Moisés rabino, porque es satán la droguel a lo auto tinoc, se llama ki hatan da mi mata alí."
+},
+{
+"startMs": 1765793,
+"endMs": 1775793,
+"text": "Seure, mi karui hatan, ve omer, de tinoc. Dice Rashi, dice el Ran. Ve omer, de tinoc, se nace, se nace hatan, alié de brit."
+},
+{
+"startMs": 1776973,
+"endMs": 1784572,
+"text": "Se llama hatan, quiero el, el, el nimol- Se llama hatan. El nimol se llama hatan. Hatan a brit. Porque también hay hatan bar mitzvá."
+},
+{
+"startMs": 1784753,
+"endMs": 1793793,
+"text": "Mmm, que es hatan. ¿Eh? Que es hatan. No lo veo. Pero no, se ve que es, hay hatan bar mitzvá y hay hatan del brit."
+},
+{
+"startMs": 1795173,
+"endMs": 1796513,
+"text": "Hatan bar mitzvá es hatan de la Torá, ¿no?"
+},
+{
+"startMs": 1800133,
+"endMs": 1801353,
+"text": "Hatan bar mitzvá..."
+},
+{
+"startMs": 1805953,
+"endMs": 1812633,
+"text": "Sí, es como dice, es, eh, es con la Torá, es un brit. Se puede entender, se puede entender muy bien, es un brit."
+},
+{
+"startMs": 1814493,
+"endMs": 1821353,
+"text": "Un hatan y una kalá, es un brit entre el hatan y la kalá. No. ¿No? Entonces, acá es un brit con la cosa, pero es el hatán."
+},
+{
+"startMs": 1821833,
+"endMs": 1828653,
+"text": "La mamá lo llama, ¿sabes? Zipora lo llama hatan. ¿Cómo le dice?"
+},
+{
+"startMs": 1848473,
+"endMs": 1849213,
+"text": "Hatan."
+},
+{
+"startMs": 1851193,
+"endMs": 1861873,
+"text": ". Fíjate, cuando salen Am Israel de Mitzráim, llegó el mashjit a Mitzráim, ¿no? El malaja mashjit vino a Mitzráim, pero no pudo pasar a sus puertas."
+},
+{
+"startMs": 1861913,
+"endMs": 1868373,
+"text": "¿Por qué no pudo pasar a sus puertas? Porque tenían sangre. Entonces, acá esta sangre que vi ajol, da milá."
+},
+{
+"startMs": 1869869,
+"endMs": 1876489,
+"text": "Aquí está protegiendo al bebé del Mashgit también. Paralelo."
+},
+{
+"startMs": 1877269,
+"endMs": 1878549,
+"text": "También ahí hicieron brit, sí."
+},
+{
+"startMs": 1887109,
+"endMs": 1888409,
+"text": "¿Cómo se llama eso? Badamaí Jai."
+},
+{
+"startMs": 1889909,
+"endMs": 1894749,
+"text": "Mhm, mhm. Dam Milái, dam pesaj, ¿no? Dam pesaj, dam Milái."
+},
+{
+"startMs": 1919769,
+"endMs": 1922769,
+"text": "El peshat según la Gemara, que quién es el jatán."
+},
+{
+"startMs": 1924089,
+"endMs": 1934609,
+"text": "Fíjate, acá hay jatán en el peshat, es kilo, que es el tinoc. Sí. El hijo de ese y ese. Pero según el, el, el Targum Yonatán, ¿por qué dice jatán?"
+},
+{
+"startMs": 1934969,
+"endMs": 1942449,
+"text": "Jatán es el, el, el nu-- el yerno, que quién es el yerno, Moshé. Entonces, dice así, dice..."
+},
+{
+"startMs": 1944188,
+"endMs": 1958168,
+"text": "Este es un targum, el Targum Yonatán. O sea, Targum Yonatán en hebreo. \"Vatikaj tipora zor, vatikrot et orlat guershon bená, vatikrav et kritat amila le raglav shel malaj ajabalá, vatomen\"."
+},
+{
+"startMs": 1958889,
+"endMs": 1973269,
+"text": "Le dice, le dice al malaj habalá, le dice, le enseña a la, la orla y le dice: \"Jatani ratsa lamul, vejam, jamiv iké balam, veatadam kritá ze ijafel al ajatán shelí\"."
+},
+{
+"startMs": 1974069,
+"endMs": 1982369,
+"text": "Entonces, jatán es el esposo de, de Zipora. Ahora, según la Gemara, que es el y ese, es jatán, es el jatán- El mismo."
+},
+{
+"startMs": 1982709,
+"endMs": 1992389,
+"text": "El jatán del... El nimol, el nimol. Jatán del nimol. Ya no jala el purbe que el padre no, que él quería de los suegros."
+},
+{
+"startMs": 1999888,
+"endMs": 2010929,
+"text": "Sí, pero a ver, háblalo, ya, ya llegó el momento."
+},
+{
+"startMs": 2010969,
+"endMs": 2019089,
+"text": "Atam damin ata li. Eso es lo que no... Ata li, cosa de su hijo también. Mmm."
+},
+{
+"startMs": 2021069,
+"endMs": 2027209,
+"text": "Atam damin ata li, no entiendo nada. Sí, mástaf, claro. Atam damin ata li. Cómo es que pasó."
+},
+{
+"startMs": 2027209,
+"endMs": 2030929,
+"text": "\"Vatikaj tipora zor, vatikrot et orlat bená,"
+},
+{
+"startMs": 2032349,
+"endMs": 2034188,
+"text": "vatomen ki jatán dami ata li\"."
+},
+{
+"startMs": 2035769,
+"endMs": 2042389,
+"text": "No, pero le está diciendo al, al tinoc, no es peshat. Ata li, ata, quien, quien, el tinoc."
+},
+{
+"startMs": 2043529,
+"endMs": 2050769,
+"text": "Está hablando del tinoc. Bená, orlat bená. Goren liot ata shelí, mi ata. Ata itaj goren liot ajatán shelí."
+},
+{
+"startMs": 2051469,
+"endMs": 2055729,
+"text": "Nerつaja jalaj. Ore gishe ata li. Al niño le dijo"
+},
+{
+"startMs": 2057149,
+"endMs": 2060029,
+"text": "que por su culpa está matando a la esposa. Mmm, sí, sí, sí."
+},
+{
+"startMs": 2064649,
+"endMs": 2069909,
+"text": "Igual, ¿qué quiere decir atam damin li, ata li? No concuerda con el resto tampoco, no se entiende."
+},
+{
+"startMs": 2074649,
+"endMs": 2074949,
+"text": "Okey."
+},
+{
+"startMs": 2076589,
+"endMs": 2083229,
+"text": "Entonces, acá yo creo que hay algo amo. ¿Qué está diciendo Rosh Bag? Rosh Bag dice, betem,"
+},
+{
+"startMs": 2084449,
+"endMs": 2093748,
+"text": "que el hisarón no lo tiene Moshe Rabenu beatzmó. Dice: \"La orla, Mosé no tenía orla. Toda la orla- Era el hijo."
+},
+{
+"startMs": 2093969,
+"endMs": 2104309,
+"text": "Era mitsvá, que Mosé no entendía, kiviajol, que él tiene el koaj de quitarle la orla a Am Israel."
+},
+{
+"startMs": 2104569,
+"endMs": 2117829,
+"text": "Kiviajol, el problema era el hijo, el problema no era el Mosé. Aquí hay una ta-- mahjoquet muy de acá. Hayima aquí la orla, kiviajol, si el hijo tiene orla, simán que Mosé tiene orla y por eso todavía no se la quita."
+},
+{
+"startMs": 2118669,
+"endMs": 2126148,
+"text": "O, dirma, no, el problema no es Moshe beatzmó, el problema es el hijo. ¿Qué es el hijo? Y entonces, Am Israel."
+},
+{
+"startMs": 2128429,
+"endMs": 2134449,
+"text": "Es al que Mosé necesita. Aquí, ¿quién representa a Am Israel? Su hijo. Porque Mosé dice: \"Tú\"."
+},
+{
+"startMs": 2134969,
+"endMs": 2141369,
+"text": "Shenel dice a Mosé, le dice: \"Tú vas a ir a quitar la orla\". Entonces, tú mismo, tu hijo no tiene orla. Entonces, tú vas a quitarle la orla a Am Israel."
+},
+{
+"startMs": 2141749,
+"endMs": 2153769,
+"text": "Entonces, kiviajol, el hijo ahorita tiene orla. Entonces, Mosé es el que tiene que quitarle la orla. Entonces, acá el problema, la shalá, es si el problema es en Mosé o el problema es que Mosé, kiviajol,"
+},
+{
+"startMs": 2155288,
+"endMs": 2167409,
+"text": "no, eh, eh, todavía no llegó a, a entender que, betem, tiene que-- su shlijut es quitarle la orla a Am Israel, pero él, bet, beatzmó, no tenía ningún hisarón."
+},
+{
+"startMs": 2167529,
+"endMs": 2175129,
+"text": "O sea, ¿hay un sad que Mosé no estuviera maú? ¿Eh? El primer sad es que Mosé no está maú. ¿Crees que no está maú?"
+},
+{
+"startMs": 2175269,
+"endMs": 2182129,
+"text": "Y tiene orla. Otra vez, hay un dakut. Tiene un dakut de orla. Él tiene un dakut. Hashem le hace saber, Hashem le hace saber, como dijo."
+},
+{
+"startMs": 2182368,
+"endMs": 2186989,
+"text": "Quítate tu orla para que puedas tú sacar a Am Israel. Un poquitito. Sí."
+},
+{
+"startMs": 2190009,
+"endMs": 2197109,
+"text": "Dice: \"Darash aviuda bar bidna. Meshá se nitrashel Moshe Rabenu min haMilá\"."
+},
+{
+"startMs": 2198489,
+"endMs": 2206849,
+"text": "Cuando Mosé nitrashel min haMilá, entonces, \"bau aft vejemá ublau. Velo sheiru mimenu el raglav\"."
+},
+{
+"startMs": 2207788,
+"endMs": 2214849,
+"text": "De ahí no, namás los pies. \"Mi ya, vatikaj tipora zor vevikrot et orlat bená\"."
+},
+{
+"startMs": 2217809,
+"endMs": 2225629,
+"text": "Kiviajol vio que Af y Jemá no están pudiendo contra el Brit Milá de Mosé."
+},
+{
+"startMs": 2226189,
+"endMs": 2234189,
+"text": "Entonces, quiere decir que están viendo que Mosé tiene- Raglav, o sea, los- Tiene Milá. Entonces, si Mosé tiene Milá, o sea, ¿qué pasó?"
+},
+{
+"startMs": 2234349,
+"endMs": 2243749,
+"text": "¿Qué pasó? En realidad, físicamente lo que pasó es que Olai le agarró a Mosé, que es Af y Jemá. No es que llegó un, un monstruo así, ¿me explico?"
+},
+{
+"startMs": 2244209,
+"endMs": 2251769,
+"text": "Se enfermó, se enfermó Mosé. Dejó de-- le empezaron a salir ronchos en todo el cuerpo. Pa-pa-pa-pa. En los pies no tiene. Pero de repente, cuando llegó hasta acá- A la cintura."
+},
+{
+"startMs": 2252069,
+"endMs": 2254689,
+"text": "A la cintura, frenó. Entonces, ¿qué dice?"
+},
+{
+"startMs": 2256749,
+"endMs": 2263269,
+"text": "Entonces, tú me estás-- aquí hay un malaj invadiendo a Mosé y Mosé se está poniendo muy mal, pero de repente, ¿contra qué no tiene koaj?"
+},
+{
+"startMs": 2263328,
+"endMs": 2270649,
+"text": "Contra el Brit Milá que tiene Moshe Rabenu. Ah, ¿no tiene koaj contra el Brit Milá de Moshe Rabenu? Entonces, ma hazim lasot Brit Milá."
+},
+{
+"startMs": 2270949,
+"endMs": 2277929,
+"text": "Entonces, quiere decir que acá-- entonces, acá hay-- mira, entonces, rab jud Bar Bitna está diciendo aquí el hombre desde la mahjoquet de atrás, por un lado."
+},
+{
+"startMs": 2278288,
+"endMs": 2288939,
+"text": "Porque antes, ¿cuál dijimos, cuál es la mahjoquet? ¿Quién era el problema, el Tinok o Moshé? Entonces decimos: Moshé, por un lado, no era el problema, pero por otro lado era el Tinok, pero por otro lado puede ser que era Moshé."
+},
+{
+"startMs": 2289519,
+"endMs": 2301558,
+"text": "Sí, pero a Moshé hasta ahí que tenía Brit Milá. Pero el problema de Brit-- de, de Moshé, él tiene Brit Milá, pero como no le está haciendo Brit Milá a su hijo, quiere decir que en cierto aspecto no ha detectado"
+},
+{
+"startMs": 2303178,
+"endMs": 2310879,
+"text": "el jisaron que hay en un orla. Entonces, quiere decir, o sea, ese es, ese es todo delineando a Mosherab, todo delineando a Mosherabenú, es que tiene tanto Brit Milá"
+},
+{
+"startMs": 2312799,
+"endMs": 2323198,
+"text": "que en él no está el gidus del orla. ¿Me explico? No. Mosherabenú, él tanto, tanto vive el-- nació tov."
+},
+{
+"startMs": 2323459,
+"endMs": 2332279,
+"text": "Entonces, no entiende. No es el tov que vino del ra. ¿Me explico? Ah. Él nació del tov. No es el tov que había ra y abajo todo lo tov."
+},
+{
+"startMs": 2332339,
+"endMs": 2341419,
+"text": "Él nació siendo tov. Entonces, de ese, que de hecho tiene un majul, pero que él lo avala al de Alai, lo avala al de Legamín."
+},
+{
+"startMs": 2341459,
+"endMs": 2347979,
+"text": "Ya, ya, ya. ¿Sí? Te pone un Joseph, casi, hablando de una pjiná de Joseph con Yehuda, es Joseph."
+},
+{
+"startMs": 2348098,
+"endMs": 2356558,
+"text": "Antes, antes de que Joseph baje a Mitzráim, sí. Antes de que Joseph baje a Mitzráim, entonces, Joseph, su jisaron era que tenía una mala tan grande"
+},
+{
+"startMs": 2357779,
+"endMs": 2364459,
+"text": "que lo avalanze. Y cuando lo avalanze, entonces, mi mail es- No lo tienes desarrollado. Lo canaete. Lo canaeta, lo canita."
+},
+{
+"startMs": 2364538,
+"endMs": 2377618,
+"text": "Eso. Entonces, acá- No tiene fulá, no es un... Exacto. Entonces, Moshé no las majul. Entonces, por un lado, Moshé es el, el, el shelemut, pero por otro- Ese que no las majul es la mala gigdola, pero tampoco no es una, no es un kiñan."
+},
+{
+"startMs": 2377959,
+"endMs": 2384178,
+"text": "O sea, tiene los dos lados. Entonces, no puede quitarle al orla otro todavía, porque él todavía no se quitó su orla a sí mismo."
+},
+{
+"startMs": 2384598,
+"endMs": 2389098,
+"text": "Pero él, por otro lado, es el shelemut más grande que hay, por eso él lo está escogiendo. Buenísimo."
+},
+{
+"startMs": 2390618,
+"endMs": 2396658,
+"text": "Entonces, viene Rabí Yehuda bar Ilai y dice así: «Vehechem, amo Mosherabenú, que viajol», hasta que llegó al Brit Milá. Puede."
+},
+{
+"startMs": 2396879,
+"endMs": 2407098,
+"text": "Que vijol, que, que puede encontrar, porque que vijol Mosheh, él veasmó, no se hizo Brit Milá. Si él no se hubiera hecho Brit Milá, entonces también desde la cabeza hasta la cintura, ya tiene Brit Milá."
+},
+{
+"startMs": 2407158,
+"endMs": 2413879,
+"text": "Claro. Pero, pero en donde-- cuando llegó al Brit Milá, ahí sí tiene Brit Milá, porque bebé tiene Brit Milá."
+},
+{
+"startMs": 2413919,
+"endMs": 2423399,
+"text": "Si lo físicamente lo tiene, vamos a llamarlo así, físicamente lo tiene, por eso llega hasta la cintura. Pero el moaj, que es la cabeza y todo eso, en la ciá, en su kiñan..."
+},
+{
+"startMs": 2423538,
+"endMs": 2429839,
+"text": "Todavía le falta a Moshé que viajol licnot una mala, legalot, una mala que ya tiene."
+},
+{
+"startMs": 2430158,
+"endMs": 2442238,
+"text": "Entonces, el Kadosh Baruj Hu lo puso en este mataz- Muy bueno. Para que, de verdad, eh, iclot, de hecho, en esta nekuda, que es el, el, el tikún de la-- que él veasmó y hace este tikún de la orla y shelemut."
+},
+{
+"startMs": 2442738,
+"endMs": 2447158,
+"text": "Entonces, quiere decir, afi jama cuando llega, cuando hay un jisaron en el Brit."
+},
+{
+"startMs": 2448459,
+"endMs": 2454238,
+"text": "Eso es, eso hay que aprender, eso te lo merece. Afi jama llega cuando hay un jisaron en el Brit. Entonces, dice..."
+},
+{
+"startMs": 2458138,
+"endMs": 2473278,
+"text": "Entonces, caniretes son los dos lados de arriba. Si Moshé tiene jisaron- Había en Yoshua también raglav, no sé, sabrás que en el malón y todo eso, había raglav de lo-- abajo del, del Yarden, las, las piedras debajo del raglav."
+},
+{
+"startMs": 2473319,
+"endMs": 2475538,
+"text": "Puede ser, sí, todo es con raglavim ahí, sí."
+},
+{
+"startMs": 2478738,
+"endMs": 2488238,
+"text": "Miyad, vayaref mimenú. Entonces, en ese momento, vayaref mimenú, se quitaron los malajim de ahí, los, los mashjitim."
+},
+{
+"startMs": 2489038,
+"endMs": 2498899,
+"text": "Dice: «Veotasha, abiques, Mosher, Rabenú, Lord Gan». Entonces, Moshé, ahorita que ya, de hecho, le hicieron, quitaron legambre a, a..."
+},
+{
+"startMs": 2499419,
+"endMs": 2507198,
+"text": "Afi jama. Afi jama. Ya mátalos. Los quería, de hecho, anular legambre. Sheh naemer, aref meaf y azov jama."
+},
+{
+"startMs": 2508759,
+"endMs": 2512859,
+"text": "Sí, hay que ver ahorita este pasuk. Y es omrin..."
+},
+{
+"startMs": 2515038,
+"endMs": 2521098,
+"text": "Nejimar go. Nejimar go, sheh naemar, jama en li. Tienes que leer esos pasukim adentro."
+},
+{
+"startMs": 2521098,
+"endMs": 2528598,
+"text": "¿Sí? Veaktiv, ki agorti, mipne af vehajema. Treje majabu."
+},
+{
+"startMs": 2529238,
+"endMs": 2535979,
+"text": "Treje majabu o-- y es omrin- Gunda. Y va a decirme gunda de hem. ¿Qué es gunda de hem, aquí vimos?"
+},
+{
+"startMs": 2536819,
+"endMs": 2539819,
+"text": "Los jayalim de hemá. Entonces, abre Devarim Tet."
+},
+{
+"startMs": 2558578,
+"endMs": 2559098,
+"text": "Yud Tet."
+},
+{
+"startMs": 2560638,
+"endMs": 2563198,
+"text": "O sea, es antes de-- hay que ver un poco antes de Yud Tet, pero,"
+},
+{
+"startMs": 2565019,
+"endMs": 2571178,
+"text": "pero ve qué locura. ¿Qué dice en Tehilim? Haref meaf, veazov jemá."
+},
+{
+"startMs": 2571178,
+"endMs": 2577459,
+"text": "¿Sí? Haref meaf, veazov jemá. Muy bueno. ¿Qué dice el Ran sobre eso? Haref meaf, veazov jemá."
+},
+{
+"startMs": 2579799,
+"endMs": 2587319,
+"text": "Klomar, el Kadosh Baruj Hu amarlo, sheyaazve, malma, rotse haya leorgam. El Señor le dijo: «Eh, eh, eh, suelta af y a jemá»."
+},
+{
+"startMs": 2587759,
+"endMs": 2595499,
+"text": "No los, no los elimines completamente. Mosher Rabenú, kilu, que empezó a hacer una abodá tan fuerte que quería eliminar el shoresh"
+},
+{
+"startMs": 2596979,
+"endMs": 2603198,
+"text": "del arelut en el mundo, que ya no se necesiten más un malaj de af y jemá, porque él los va a eliminar."
+},
+{
+"startMs": 2603238,
+"endMs": 2609899,
+"text": "Y Hashem le dijo: «Aref meaf, veazov jemá». No lo hagas. Entonces, no lo hagas. ¿Qué es aref? Aref, suelta, aref."
+},
+{
+"startMs": 2610278,
+"endMs": 2616098,
+"text": "Recuérdense de estas palabras, aref, porque luego ahorita lo vamos a ver. Dice aquí en Varim, perek Tet. Dice:"
+},
+{
+"startMs": 2617339,
+"endMs": 2632479,
+"text": "pasuk Yud Alef. Antes, vamos a ver. Pasuk Yud. «Vayten Hashem elai shne luchot haonim ktuvim be etzba Elokim vealehem ki kol ha-devarim asher diber Hashem imahém, imajem ba'arim mitsok haesh be yom hakar."
+},
+{
+"startMs": 2632979,
+"endMs": 2639499,
+"text": "Vayhi mikez arbaim yom yom rabim layla natan Hashem elai shne luchot haonim, luchot habrit. Vayomer Hashem elai: Kum, reh mehér midé."
+},
+{
+"startMs": 2639718,
+"endMs": 2645879,
+"text": "Ki shijet amja shel otzetam me Mitzrayim, tzarnu meher min haderej asher tzivitim asu lahem masachah»."
+},
+{
+"startMs": 2647711,
+"endMs": 2657790,
+"text": "Y ahí me dice el Señor a mí: «He visto a este pueblo, y he aquí es un pueblo que peca. Aparta hoy de mí y los destruiré». Tú suéltame, \"heref mimeni\", y los destruiré."
+},
+{
+"startMs": 2658191,
+"endMs": 2659071,
+"text": "«Y borraré tu nombre"
+},
+{
+"startMs": 2665451,
+"endMs": 2673350,
+"text": "de debajo del cielo y te haré un gran nación, más fuerte que tú». «En el mismo lugar me hiciste fallar ante los ojos de Israel, y así ellos pecaron. Porque en aquel mismo lugar te apartaste de mí para tomarte otra esposa, la hija de Jonatán el jerezita."
+},
+{
+"startMs": 2674270,
+"endMs": 2696511,
+"text": "Y Me has hecho fallar ante los ojos de Israel». «Entonces tomé las dos tablas y las arrojé de mis manos, las rompí debajo del monte. Me postré ante el Señor por primera vez durante cuarenta días y cuarenta noches; pan no comí, ni agua bebí, porque el Señor me había hecho fallar con"
+},
+{
+"startMs": 2698691,
+"endMs": 2705451,
+"text": "severidad para exterminarte». «Pero el Señor me escuchó también en aquella ocasión». Te sacaste a escribir todo lo azul."
+},
+{
+"startMs": 2706091,
+"endMs": 2715031,
+"text": "Que es que Afijemá, cuando llegaron otra vez, el jet haegel. Te olvides que jet haegel, en cierto aspecto, romper el brit, ki vejol."
+},
+{
+"startMs": 2715491,
+"endMs": 2722091,
+"text": "Y entonces, es בעצם repetir el origen del jet haegel está en que Moshe no le hizo brit milá"
+},
+{
+"startMs": 2723410,
+"endMs": 2729651,
+"text": "a Eliezer. Y entonces, בעצם, Hashem quería la-- a destruirlo, ki vejol. Y hizo tikún con Zipora."
+},
+{
+"startMs": 2729711,
+"endMs": 2732091,
+"text": "Y Moshe hizo tikún por medio de Zipora."
+},
+{
+"startMs": 2733810,
+"endMs": 2740430,
+"text": "Y quería quitar, eliminar completamente a Afijemá. No los eliminó y regresó- Y Hashem le dijo estas palabras: «Haref me af ve'azov jemá»."
+},
+{
+"startMs": 2741451,
+"endMs": 2745531,
+"text": "No los elimines completamente. ¿Por qué no los elimines completamente? Porque hay"
+},
+{
+"startMs": 2747131,
+"endMs": 2747810,
+"text": "aquí algo nuevo,"
+},
+{
+"startMs": 2749031,
+"endMs": 2751430,
+"text": "nuevo. No los elimines completamente. ¿Por qué?"
+},
+{
+"startMs": 2753071,
+"endMs": 2759370,
+"text": "Porque si tú los eliminas completamente es un problema. ¿Cuál es la raya? Tú mismo. Tú mismo, que no, no hiciste kiñán."
+},
+{
+"startMs": 2759390,
+"endMs": 2765511,
+"text": "Exactamente, que no hiciste kiñán. Lo que hacemos antes del kiñán es-- tú, Moshe Rabenu, ya eres majúl, ya eres todo."
+},
+{
+"startMs": 2765850,
+"endMs": 2768451,
+"text": "Pero si no hiciste kiñán, hay un problema, porque llega--"
+},
+{
+"startMs": 2769671,
+"endMs": 2780270,
+"text": "porque lo que hiciste en el rosh. Entonces, sí, lo vas a matar y todo va a estar bonito y hay tikún olam. Pero es lo que siempre dice el Yetzirá, ajará kol, es para- Todo el kiñán es ganarle al Yetzirá."
+},
+{
+"startMs": 2780330,
+"endMs": 2792031,
+"text": "Ganarle al Yetzirá. Entonces, ממיליה dice: \"Tienes que dejar a Afijemá, porque por más que ahorita ya entendiste el kiñán, el sod de la milá, y vas a hacerle que todos hagan un brit milá y todo lo que quieras, זה לא יהיה תיקון של אפי חמה."
+},
+{
+"startMs": 2792071,
+"endMs": 2796411,
+"text": "Ve la raya que tú no tenías brit milá, tú ya tenías brit milá y no sirvió."
+},
+{
+"startMs": 2798370,
+"endMs": 2805790,
+"text": "Entonces, ממיליה tenemos-- Am Israel tiene que llegar a la largada del tikún de brit milá בכוחות עצמם."
+},
+{
+"startMs": 2806250,
+"endMs": 2816810,
+"text": "¿Cuál va a ser la prueba? Que ellos van a hacer brit milá en Pesach Mizraim, pero עדיין, de la misma manera que tú en el derech, ¿sí?"
+},
+{
+"startMs": 2817411,
+"endMs": 2824510,
+"text": "Esto es ki lu ki vejol. Tú en el derech tuviste un problema, ¿sí? Ellos también van a tener un problema en el derech."
+},
+{
+"startMs": 2825091,
+"endMs": 2841711,
+"text": "Y van a venir-- Amalek va a venir para el derech, ¿sí? Y Amalek va a la catre contra la milá. Y luego, el nisayón más fuerte, si беEMET tienen kiñán de la milá, que es el kiñán de anujía, Hashem lo que es, es decir, Am Israel Mizraim, que es בעצם el brit que hay entre nosotros y, y ustedes."
+},
+{
+"startMs": 2842491,
+"endMs": 2850111,
+"text": "Y si el-- la prueba, si van a tener беEMET, si entendieron el kiñán de la milá, que ¿cuál es el kiñán de la milá? El tmimut."
+},
+{
+"startMs": 2851051,
+"endMs": 2856111,
+"text": "Entonces, si tú tienes ese tmimut y no quieres, בעצם, ahorita, el daat, ¿sí? De..."
+},
+{
+"startMs": 2858390,
+"endMs": 2870611,
+"text": "Sí, que lo ya dan un meaialo, si no está Moshe Rabenu, entonces falta daat. Pero si tienes brit milá, entonces puedes decir: «Tамים תהיה עם השם אלוקיך, אנכי השם אלוקיך, אמר את מצרים, שהוציא אתכם מארץ מצרים אל תרדים»."
+},
+{
+"startMs": 2870911,
+"endMs": 2880870,
+"text": "¿Qué es lo que va a legalot si ellos tienen el brit milá beber kiñán o si tienen brit milá nada más por-- físico, ki vejol."
+},
+{
+"startMs": 2881330,
+"endMs": 2888171,
+"text": "Entonces, dice: «La prueba va a ser el eguel». Entonces, cuando hacen el eguel, ¿sí? Cuando hacen el eguel, ¿qué pasa?"
+},
+{
+"startMs": 2889711,
+"endMs": 2891890,
+"text": "Otra vez se despierta Afijemá. Claro."
+},
+{
+"startMs": 2893111,
+"endMs": 2899270,
+"text": "Moshe los quería eliminar, pero Hashem le dijo: «Me, ah». ¿Cuál es la raya? La raya es que Am Israel hicieron el eguel."
+},
+{
+"startMs": 2900510,
+"endMs": 2908350,
+"text": "Es la raya. Claro, claro. Exactamente. Entonces, entonces ahí llega Afijemá. Y entonces acá, acá otra se usa la palabra jaref."
+},
+{
+"startMs": 2909091,
+"endMs": 2918191,
+"text": "Aquí el jaref- Es «no me sueltes». Es al revés, ki vejol. Hashem estando el remes, como dice siempre. Hashem estando el remes- Si me sueltas, te destruyo."
+},
+{
+"startMs": 2918330,
+"endMs": 2924671,
+"text": "Es decir, no me sueltes. Es, es el final de que te caíste y lo que quieras, pero no te sueltes. Sí, esto está muy pele."
+},
+{
+"startMs": 2924970,
+"endMs": 2933031,
+"text": "Porque, por un lado, «haref mimeni veashmidem». Es, es ki vejol, en yosh, los dos mered."
+},
+{
+"startMs": 2933830,
+"endMs": 2938571,
+"text": "Hashem le dice: «No, no, no, no me--». O sea: «Suéltame para que los destruya»."
+},
+{
+"startMs": 2939830,
+"endMs": 2946191,
+"text": "Y, y allá atrás les dijo, ¿qué dijo? «Suelta a Afijemá». Es exactamente al revés."
+},
+{
+"startMs": 2947390,
+"endMs": 2956250,
+"text": "Vamos a pensar como es lo mismo, pero exactamente al revés, porque allá soltar a Afijemá quiere decir- Que no destruya. Que existen los destructores de Am Israel."
+},
+{
+"startMs": 2956770,
+"endMs": 2964911,
+"text": "Y aquí Hashem le dice, le dice: «Espérate, Moshe, haref, si tú me sueltas, entonces, ¿qué va a pasar?"
+},
+{
+"startMs": 2965470,
+"endMs": 2974111,
+"text": "Va a venir Afijemá». Claro. Y es más, ¿qué dice ahí? «Ki agorti mipnei Afijemá», porque Hashem le dijo. Porque ¿qué iba a hacer a, a Afijemá, sí?"
+},
+{
+"startMs": 2974671,
+"endMs": 2981330,
+"text": "Dice: «La-- Asher katav Hashem alejem, lashmid et jem». O sea, Afijemá iba a destruir a Am Israel."
+},
+{
+"startMs": 2981651,
+"endMs": 2992051,
+"text": "Entonces, hubo un momento donde Moshe tuvo que soltar a Afijemá, que tengan el poder, ki vejol, de destruir. Y tuvo un, un momento donde Moshe no soltó a Kadosh Baruj Hu."
+},
+{
+"startMs": 2993430,
+"endMs": 3000031,
+"text": "No soltó a Kadosh Baruj Hu para que no los destruya. Entonces, ¿cuál es el momento que acá? Ahora parece una tira. ¿Cómo, cómo funciona?"
+},
+{
+"startMs": 3000330,
+"endMs": 3007571,
+"text": "Ya, es el tirut. Aquí jaref mata y aquí jaref vive. Sí, que Afijemá, Kadosh Baruj Hu los creó, no para destruir."
+},
+{
+"startMs": 3008647,
+"endMs": 3012027,
+"text": "Afi y Jemá, Hakadosh Baruj Hu los creó para acercarnos."
+},
+{
+"startMs": 3013366,
+"endMs": 3019586,
+"text": "Lo que siempre dices tú del yeshiva Radak. Hakadosh Baruj Hu le dio, le dio regalos al, al, al Satán."
+},
+{
+"startMs": 3019626,
+"endMs": 3021546,
+"text": "¿Qué, qué regalos? Más de regalos."
+},
+{
+"startMs": 3023187,
+"endMs": 3024946,
+"text": "Estamos parados en tus torot, ¿qué piensas?"
+},
+{
+"startMs": 3026466,
+"endMs": 3028187,
+"text": "Es de Shira de todos. Sí, sí."
+},
+{
+"startMs": 3029747,
+"endMs": 3037506,
+"text": "No me acuerdo de los regalos, no me acuerdo de lo que- La de Shavuot, la de Shavuot en Cuernavaca en las dos chevas. Es lo mismo, es sobre, es sobre esto, es sobre el Egel, Ari."
+},
+{
+"startMs": 3037727,
+"endMs": 3042486,
+"text": "Todo ahí era sobre el Egel. No, fue cuando Moshé subió por la Torá. Sí."
+},
+{
+"startMs": 3044187,
+"endMs": 3051446,
+"text": "Todo es linián, es viraj saljatayel, y enseñando Moshé esto y enseñando... Entonces, ¿pero cuál es el ome?"
+},
+{
+"startMs": 3051506,
+"endMs": 3060827,
+"text": "Que el ome que acá es eso. No es lojo má destruir a Af y Jemá. Dice: \"Todo lo que Dios me sirve que destruyas a Af y Jemá, las que vamos a ganar- Que Hashem no puede."
+},
+{
+"startMs": 3060886,
+"endMs": 3067086,
+"text": "Que te agarres de mí. Claro. Hashem no puede destruir a Af y Jemá, ¿me entiendes? Hashem no puede contra ellos, Hashem shalom kilu."
+},
+{
+"startMs": 3068027,
+"endMs": 3077747,
+"text": "Dice: \"Yo qui-- yo quiero que mi din, que no me sueltes a mí, eso es lo que va a destruir a Af y Jemá\". Entonces, dolá milá she nijretu alei yud guimel britot."
+},
+{
+"startMs": 3077926,
+"endMs": 3086067,
+"text": "¿Sí? Dolá milá she nijretu alei yud guimel britot. ¿Cuál son los yud guimel britot? Es, en efecto, yud guimel midot rajamim."
+},
+{
+"startMs": 3086707,
+"endMs": 3093807,
+"text": "Es que el brit con Hashem es tan fuerte que, kiviajol, también después del Egel, hay brit."
+},
+{
+"startMs": 3094126,
+"endMs": 3103287,
+"text": "El brit es tan fuerte que te puede seguir agarrando Hakadosh Baruj Hu para salvarte, en verdad, de estos malajím que se llaman Af y Jemá, que me katreguín, que no hay brit milá."
+},
+{
+"startMs": 3104946,
+"endMs": 3108366,
+"text": "Entonces, eso se llama nodén mearelé Israel,"
+},
+{
+"startMs": 3110006,
+"endMs": 3113107,
+"text": "mearelé mutarvar de Israel, porque dolá milá se..."
+},
+{
+"startMs": 3116027,
+"endMs": 3124147,
+"text": "Kiviajol que también cuando hicieron el Egel, que dijo la de peru brit. Exactamente. Pero de jol, de jol dos, agárrate."
+},
+{
+"startMs": 3124446,
+"endMs": 3135767,
+"text": "Exactamente. El brit es tan fuerte que nijretu alei yud guimel britot. Entonces, es, es, es, es- Pero está pele, porque también Af y Jemá provocaron que sepamos esto."
+},
+{
+"startMs": 3137227,
+"endMs": 3145366,
+"text": "Como siempre dices. Claro. Te voy a inventar algo más. Claro, claro, claro. Ari, de todo, de todo el desfilado, de todo esto, tiene que salir algo bueno, si no, Hashem no lo permite."
+},
+{
+"startMs": 3145446,
+"endMs": 3154807,
+"text": "Claro, eso, ah- Ese es el omek de que Hashem quiere que haya Af y Jemá. Af y Jemá provocaron que entendamos este yetzer. Claro, ahorita cuando Moshé lo está matando este malaj,"
+},
+{
+"startMs": 3156086,
+"endMs": 3162147,
+"text": "es el mejor malaj que hay en el mundo, porque, en verdad, el megalelo que necesita tener kinian en el brit milá."
+},
+{
+"startMs": 3163027,
+"endMs": 3172626,
+"text": "Porque hasta ahorita, ¿por qué vino el malaj? Para yo tengo un brit milá, ¿sí? Dice: \"No, no le llamo que tienes brit milá, te faltan de un brit milá, te faltan tikkun en el brit milá."
+},
+{
+"startMs": 3172667,
+"endMs": 3179966,
+"text": "En verdad le quiero que estés consciente de ese brit milá, porque, en verdad, si no te hago consciente acá, entonces no vas a poder sacar a Am Israel de Mitzrayim."
+},
+{
+"startMs": 3180227,
+"endMs": 3186607,
+"text": "Y también si lo vas a sacar, Am Israel va a hacer el Egel y no vas a creer que hay un brit entre nosotros que puede haber tikkún\"."
+},
+{
+"startMs": 3187707,
+"endMs": 3194126,
+"text": "Entonces, acá es todo el linián este de entender que hay tikkún. Entonces, en verdad, el jisarón, otra vez, ¿cuál es el jisarón?"
+},
+{
+"startMs": 3194767,
+"endMs": 3201506,
+"text": "Está, está, está, estamos utilizando un majul. Hay, eh, afratán brit. Mhm. Jemá dice: \"Hay que hacer algo\"."
+},
+{
+"startMs": 3202247,
+"endMs": 3209647,
+"text": "Kilu, y si todo el linián de brit milá es solamente que no haya, es un, es un- Ya está majul. Shelo ye-- ya está majul, ya está bien."
+},
+{
+"startMs": 3209687,
+"endMs": 3216647,
+"text": "Ya está bien. Lo ye. Hay un linián de asiá, hay un linián de kinian, hay un linián de asér. Hasta afilo se lo hiciste y es un linián de afratán brit."
+},
+{
+"startMs": 3217107,
+"endMs": 3224386,
+"text": "Eso. Oh, papá. ¿Y qué pasa con el linián de pepoal?"
+},
+{
+"startMs": 3224486,
+"endMs": 3231346,
+"text": "Que lo concientizas, ¿no? Necesitamos. La escondió, la escondió. Es alguien que no pasó. No, no es mi mela, o sea, tienes que hacer algo."
+},
+{
+"startMs": 3231346,
+"endMs": 3237807,
+"text": "¿Quién te puede ayudar más? ¿Quién te puede ayudar más a ti a salir de un problema? ¿Alguien que pasó ese problema o alguien que no lo ha pasado?"
+},
+{
+"startMs": 3238107,
+"endMs": 3242267,
+"text": "Alguien que lo pasó. Alguien que lo pasó, alguien que acá naidse y ya lo vivió en carne propia."
+},
+{
+"startMs": 3245147,
+"endMs": 3254466,
+"text": "Este va a ser la pena. Si no, si no- Por un lado, él es-- por un lado es el único que los puede sacar, porque es Habush Matías Tasurim."
+},
+{
+"startMs": 3255307,
+"endMs": 3268326,
+"text": "Porque él es el único que no está en la cárcel, es el único que nació sin orla. Entonces, es el único que dice: \"Venganse hacia mí\". Pero por otro lado- Pero por otro lado, si no pasaste el nishayon de tener orla y quitarla, entonces no puedes tú hacerlo a ellos."
+},
+{
+"startMs": 3268366,
+"endMs": 3277126,
+"text": "Te falta el koan. Entonces, en verdad, Moshé está aquí en linián, que él tiene que-- el Itztar, el kiviajol, tiene que bajar, en verdad, al, al makoma donde está Am Israel."
+},
+{
+"startMs": 3277747,
+"endMs": 3286926,
+"text": "Y entonces, ¿cómo va, cómo lo bajan sin bajarlo a él? Con su hijo. Con su hijo. Entonces, date cuenta que tu hijo no te-- que no te diste cuenta que tu hijo no tiene orla."
+},
+{
+"startMs": 3287506,
+"endMs": 3296946,
+"text": "El amah. Entonces, quiere decir que en cierto aspecto ahorita te están despertando tu milá a entender que esta milá tiene que hacerle brit milá a los demás."
+},
+{
+"startMs": 3297527,
+"endMs": 3299207,
+"text": "No es tan que tienes brit milá."
+},
+{
+"startMs": 3301546,
+"endMs": 3302107,
+"text": "Qué locura."
+},
+{
+"startMs": 3304126,
+"endMs": 3311727,
+"text": "Voy a ir un poquito con lo que dicen que el hombre tiene que ser algo para Letaquém. El mensaje de Milá es que el hombre tiene que-- viene a este mundo a Letaquém."
+},
+{
+"startMs": 3312466,
+"endMs": 3319666,
+"text": "Mhm. No viene ya... O sea, afilo uno que en Azometucán. Claro. Salí Letaquém Tatmo. Sí, 100 %."
+},
+{
+"startMs": 3322807,
+"endMs": 3330647,
+"text": "No hay gratis ya dentro de la- Sí, vinimos a la agua, a la vida, es kilu mashala toda la vida. La vida es que tú tienes una orla, que la tienes que quitar."
+},
+{
+"startMs": 3331307,
+"endMs": 3338327,
+"text": "Entonces, afilo que al octavo día ya tienes brit milá. Pero este brit milá vino porque quitaron la orla."
+},
+{
+"startMs": 3338666,
+"endMs": 3348207,
+"text": "Entonces, mi meileh. Entonces, afilo que eres yehudí. Entonces, en ese aspecto ya tienes brit milá. Pero toda tu vida vas a tener que trabajar para quitar más y más esa orla."
+},
+{
+"startMs": 3348207,
+"endMs": 3349947,
+"text": "¿Sí?"
+},
+{
+"startMs": 3357366,
+"endMs": 3358546,
 "text": "Pues seguimos en el Darín."
 },
 {
-"startMs": 3363000,
-"endMs": 3369000,
-"speaker": "Speaker 2",
-"text": "Ahora Como entendemos esto?"
+"startMs": 3363767,
+"endMs": 3364947,
+"text": "Ahora, ¿cómo entendemos esto?"
 },
 {
-"startMs": 3369000,
-"endMs": 3375000,
-"speaker": "Speaker 2",
-"text": "Que es un ser abierto de organ, Shenemar, Arak no ha pasado el hema."
+"startMs": 3375727,
+"endMs": 3380006,
+"text": "Y es omrin lejemá haragó, ulai mató ajemá, shenemar jemá el-li."
 },
 {
-"startMs": 3375000,
-"endMs": 3381000,
-"speaker": "Speaker 1",
-"text": "Es hombre el hema Aragón, Ulay mato a hema, Shenemar hema Enli."
+"startMs": 3381626,
+"endMs": 3384207,
+"text": "Sí, hay que entender qué es cada, cada nekudá."
 },
 {
-"startMs": 3381000,
-"endMs": 3410000,
-"speaker": "Speaker 1",
-"text": "Si, hay que entender que es cada cada nekuda. Si, en canalidad unos kenega es Milá y otros kenega es Priá. Hema es kenega es Milá. Pero priá faltaba varra ya que solo hasta Yahoshua bemé tuvo priá. Me call me se mal velo para que hilo lo mal. Entonces que hilo acá hay una necudá donde jamás sigue porque AF sigue. Me explico? Entonces jamás sigue porque AF, Adain sigue."
+"startMs": 3385647,
+"endMs": 3394046,
+"text": "Sí, que aniré unos que negued milá y otros que negued priá. Jemá es que negued milá, pero priá faltaba barra ya que asó hasta Yehoshua vemé tuvo priá."
 },
 {
-"startMs": 3410000,
-"endMs": 3420000,
-"speaker": "Speaker 1",
-"text": "El abdel entre AF y Hema es que AF es hitsoni y hemás nimi. AF es hitsoni. Ah es un enojo por fuera."
+"startMs": 3394487,
+"endMs": 3401166,
+"text": "Ve kol mi shemá lveló fará, que ilu lo mal. Entonces, que ilu, acá hay una nekudá donde jemá sigue porque af sigue."
 },
 {
-"startMs": 3420000,
-"endMs": 3450000,
-"speaker": "Speaker 1",
-"text": "Entonces, entonces, le levdel entre Priá y Milá, Milá es Pnimi Priá es hitsun Priá es legalot klapeihut que es nimol. Estoy cosa de Priá. Musara Benu vino al mundo e hizo solo un Tikún, el Tikún de la Milá Pero entrar es Israel es el Tikún de la Priá Son dos Tikún que tienen que haber y a Musara Benu le entregaron Priá todavía hasta Yahoshua."
+"startMs": 3401166,
+"endMs": 3407166,
+"text": "¿Me explico? Entonces, jemá sigue porque af adáin sigue."
 },
 {
-"startMs": 3450000,
-"endMs": 3452000,
-"speaker": "Speaker 2",
-"text": "Y ahí tuve suerte les dice, es el Shenit."
+"startMs": 3410466,
+"endMs": 3417707,
+"text": "Quiter, el, el del entre af y jemá es que af es chitzoní y jemá es pnimí. Af es chitzoní."
 },
 {
-"startMs": 3452000,
-"endMs": 3488000,
-"speaker": "Speaker 1",
-"text": "Shenit es el Priya, entonces veetzen le jemarago por un lado empatar a Hema, pero por otro lado no empatar a Hema, porque con mishema el velo para aqui luro mal, entonces que viajó, Moshe hizo la mitad del trabajo, pero mientras no acabe beme todo su trabajo hasta que haya Priya, entonces veetzen. Gema sigue, Hema sigue teniendo Koj, por eso acá eso es, Por un lado a Gemaa lo mató! Porque Kilu si trajo el Guilo y el mundo que se llama Mila."
+"startMs": 3417747,
+"endMs": 3426663,
+"text": "Ah, es un enojo por fuera. Pnimí Entonces, entonces, בעצם, ללבד entre פריה y מילה, מילה es פנימי, פריה es חיצוני."
 },
 {
-"startMs": 3488000,
-"endMs": 3519000,
-"speaker": "Speaker 1",
-"text": "Pero al como que al matar a Gema no es matar a Af. Entonces Mimei le quiere decir que Gemaa sí quedó! Pero ese ya no es el Gema Beatmo, sino Gunda de Gemaa. Y entonces quién los dirige? Af! Me explico? Gunda de Gemaa sin Gemaa. De qué sirve el ejército sin el Mehfakel? Porque hay otro mapa que se llama af. Pero entonces quiere decir que Hema, en cierto aspecto, sigue existiendo. Los kilo estos son los estados, donde son el velo de velo que un frayma acá."
+"startMs": 3426663,
+"endMs": 3431903,
+"text": "¿Sí? פריה es לגלות כלפי חוץ que es נימול."
 },
 {
-"startMs": 3519000,
-"endMs": 3539000,
-"speaker": "Speaker 1",
-"text": "Dice. Le hema a la gosh en el mar hema el ni. Vamos a ver ahí el shayaf, a ver si nos llevamos alguna sorpresa. Cabeza a los de jamás y a todos estos. Matan una cabeza y tira otra cabeza, otra cabeza, otra cabeza. Jajaja. Shaya Hafdain."
+"startMs": 3433423,
+"endMs": 3439703,
+"text": "Es cosa de פריה. Moshe Rabenu vino al mundo y hizo solo un tikún, el tikún de la מילה."
 },
 {
-"startMs": 3539000,
-"endMs": 3550000,
-"speaker": "Speaker 1",
-"text": "Ahora dice Pasukkalef. Bayom, AU, Ifko Dashem, Bejarbo, Akasha, Begdollah, Behazakah."
+"startMs": 3440563,
+"endMs": 3449663,
+"text": "Pero entrar a Eretz Israel es el tikún de la פריה. Son dos tikúnim que tienen que haber y a Moshe Rabenu no le entregaron פריה todavía, hasta Yehoshua."
 },
 {
-"startMs": 3550000,
-"endMs": 3591000,
-"speaker": "Speaker 1",
-"text": "Entonces, Hashem tiene un hareb. Qué hace el hareb de Joshua? Qué hace el hareb? Milah. Y entonces qué va a quitar? Al nakash. Dice Raji quién es? Paró dice dice targumbionatán al malka di trabev que paró malka katma el malka de trabe malka tiniana veriaj pasut a calatón."
+"startMs": 3449903,
+"endMs": 3462483,
+"text": "Y ahí está Yehoshua que les dice hacer שנית פריה. שנית hacer פריה. Entonces, בעצם, לgemá, algo, por un lado es matar a gemá, pero por otro lado no es matar a gemá, porque כל מי שמל ולא פרע כאילו לא מל."
 },
 {
-"startMs": 3591000,
-"endMs": 3648000,
-"speaker": "Speaker 1",
-"text": "Bomera ni le fixe sheelu salusu mot jasubot mitraim basur bedom leka jamar alelu. Podemos llamar basto fainian, uva uddin ver esta zur, ni haveret mitrain. Si nizelu not benejasim, anus him, libetana hasbariajum mitrain, libetan hasalkatón mu asur. Entonces, baragitzatanim, serbeam, ut zort. Si, rose livnezab, iusert balev yamim, mechen kitim, kreim, ie ayam, behen romin. Entonces aca otro juegos va a venir un Herev y va a quitar a todo el Najash que todos Bethem son un mitzpashtut Bethem del Galut que se llama Mizraim Paro que es la Orlah, se va a quitar la Orla Bayomau, Keren Hemer Anula, dice Rashi, beta ghulaya shiruli, Israel, Zoi Keren Hemer, Ozia yeinatov Hemer vinos velaz, le van a llamar a Mizrael el Kerem."
+"startMs": 3462823,
+"endMs": 3472443,
+"text": "Entonces, כביכול, Moshe hizo la mitad del trabajo, pero mientras no acabe de verdad todo su trabajo, eh, eh, hasta que haya פריה, entonces, בעצם- La mitad no es nada."
 },
 {
-"startMs": 3648000,
-"endMs": 3661000,
-"speaker": "Speaker 1",
-"text": "El plantío, el plantío que plantó Hashem en el mundo es a Misrael. Ani ashem no será lergai mashkena. Benifko dale a laila beyoma serena."
+"startMs": 3472563,
+"endMs": 3481143,
+"text": "Gemá sigue. Gemá sigue teniendo koaj. Por eso acá eso es-- por un lado, a gemá lo mató,"
 },
 {
-"startMs": 3661000,
-"endMs": 3668000,
-"speaker": "Speaker 1",
-"text": "Sí?"
+"startMs": 3482403,
+"endMs": 3486423,
+"text": "porque כאילו sí, sí trajo el gilo y al mundo que se llama amila."
 },
 {
-"startMs": 3668000,
-"endMs": 3680000,
-"speaker": "Speaker 1",
-"text": "Dice. Ani ashem no será yo cuido a Misrael beta galut. Sí? Meat meat animashkeota kospuranuta baale ah."
+"startMs": 3488123,
+"endMs": 3490743,
+"text": "Pero como que al matar a gemá no es matar a Af,"
 },
 {
-"startMs": 3680000,
-"endMs": 3730000,
-"speaker": "Speaker 1",
-"text": "Yo no le traigo Tsarot, que viajo las toras vienen porque a Misrael tienen Orla. Si? Si estas de acuerdo. Orla es salirse del brit de Hashem, es Mimel es irse a Kalud. Entonces dice Hashem dice yo no mate a Misrael cuando estuvieron cuando se apegan que viajo a la Orla no los revente eh. Si no les fui poco a poco les fui trayendo Tsarot. Benefkoda leve ba atajar, mi hojalena. Que no vaya a ser que de un segundo lo acabe, le kaj laila beyoma ni mitbonemba dia y noche checo como behemet traerles colminet sarot y colminet varim para que regresen behemet oh excepto el punto si, es como igual como Moshe y el mala pero no tanto ir gemi losa ni poke de laem abonutsen marguilim lifne, laila, beyomahiti meguinalem todo lo elefen?"
+"startMs": 3491963,
+"endMs": 3494843,
+"text": "entonces, ממילא quiere decir que gemá sí quedó."
 },
 {
-"startMs": 3730000,
-"endMs": 3741000,
-"speaker": "Speaker 1",
-"text": "Si dice Hemaenli si, que es esto Hemaenli? Como va de la mano? \"Cuando. Si abría Hema\"."
+"startMs": 3496343,
+"endMs": 3502563,
+"text": "Pero ese ya no es el gemá בעצמו, sino gunda de gemá. Y entonces, ¿quién los dirige? Af. ¿Me explico?"
 },
 {
-"startMs": 3741000,
-"endMs": 3773000,
-"speaker": "Speaker 1",
-"text": "Fíjate cómo esto va de la mano con la amenaza de Hashem en el Egel. Achmiden! \"Anilombe Smidotam\". \"Lemanilombe Smidotam\". \"Porque ve med Hemaenli\". \"Afilo que no hicieron el Tikún de la Mila, bichle mut\". \"Que vehol tienen un helek de la Mila\". Amouvan, es el Helek Amouvan, es el Helek viajol, la Cruzborhu de la Mila, que Hashem nos hace Mila. La verdad es que nosotros no tenemos Mila, ese es el Helek de Gema."
+"startMs": 3503063,
+"endMs": 3511063,
+"text": "Gunda de gemá sin gemá, ¿de qué sirve el ejército sin el, sin el mefakéd? Porque hay otro mefakéd, se llama Af."
 },
 {
-"startMs": 3773000,
-"endMs": 3805000,
-"speaker": "Speaker 1",
-"text": "Y falta nuestra bodat Smith, que va a ser la priá, que nosotros negale el premius que Hashemia nos dio, negalot. Entonces Gema a Eli, porque vete a la vergada de Gema, ya llegamos. Que viajol nos convertimos en los kelim, de Cruzborhu, para que el nos haga Mila. Y entonces la pilu que hay horra, la misteria no se llama Narelim. Y por qué? Porque eso se llama Gemaenli, entonces esto dice Gemaenli dice Rashi, vamos a ver. Pues porque la mató, Lama Gemaenli. O sea, Mamaj no tiene enojo o no está el Malaj ya?"
+"startMs": 3511523,
+"endMs": 3518803,
+"text": "Pero entonces, quiere decir que gemá, en cierto aspecto, sigue existiendo. Entonces, כאילו estos son los que están donde son אלו ואלו אלוקים חיים מגן."
 },
 {
-"startMs": 3805000,
-"endMs": 3816000,
-"speaker": "Speaker 1",
-"text": "El Malaj es el enojo, es el que representa el enojo de Ashi. Ahora a Rashi lo escribe diferente. Eli pedak, birja, matialaaku, le fii shaaf y será el hotip, midata dinme que atregue."
+"startMs": 3519763,
+"endMs": 3526083,
+"text": "Dice: \"לgemá, רבו שנאמר gemá אין לי\". Ahora vamos a ver a Yeshayahu, a ver si nos llevamos alguna sorpresa."
 },
 {
-"startMs": 3816000,
-"endMs": 3818000,
-"speaker": "Speaker 2",
-"text": "Osea no puede hacer el dín con Goin también."
+"startMs": 3531983,
+"endMs": 3534243,
+"text": ". Yeshayahu jazdein. Yeshayahu jazdein."
 },
 {
-"startMs": 3818000,
-"endMs": 3822000,
-"speaker": "Speaker 1",
-"text": "En Otras palabras Kilu."
+"startMs": 3539823,
+"endMs": 3548303,
+"text": "Dice, pasuk alef: \"Bayom hahu yifkod Hashem bejarbo hakasha vehagdola vejahasaka\"."
 },
 {
-"startMs": 3822000,
-"endMs": 3846000,
-"speaker": "Speaker 1",
-"text": "Aquí están en el Emcha, si no tengo a Jaima y por eso a ellos no los puedo eliminar completamente, pero tampoco tengo a Jaima Kibiahol, fíjate acá, pero tampoco tengo a Jaima para traer en contra del Akkum. Por qué no tengo gema contra el Akkum? Porque a Misrael no tienen Pría. Entiendes esto o no? No lo agarras."
+"startMs": 3548303,
+"endMs": 3551163,
+"text": "¿Sí? Entonces,"
 },
 {
-"startMs": 3846000,
-"endMs": 3882000,
-"speaker": "Speaker 1",
-"text": "Por qué? Dice, yo no tengo gema, uno es contra A Misrael, no tengo gema. Entonces no los castigo completamente sino poco a poco porque a ellos les falta, les ayudo a hacer su pria para que Bethem lleguen a la Milá y a Gema. Pero entonces por un lado Gema no tengo porque Bethem con Amisrael, que luego ellos Bethem ya tienen Milá, pero que falta de Amisrael, es el coach de Montserrapen, pero les falta el coach de Joshua que es el coach de la pria, es el coach de licaneza de Israel con esa Milá."
+"startMs": 3552523,
+"endMs": 3558603,
+"text": "Hashem tiene un cherev, que hace el cherev de Yehoshua. \"Veater, kak leja, jarbot zurim\"."
 },
 {
-"startMs": 3882000,
-"endMs": 3918000,
-"speaker": "Speaker 1",
-"text": "Entonces veces falta la priada. Entonces si falta la priada. Sí? Entonces que me no tengo suficiente gema para los Goim. Lo tomé Luishuri que nosotros llegamos a priar. Entonces mi mente que van a para qué se van a usar Afi y Gema? Para atacar a los Goim que van a contrair a al cama que no se llegó ese Tikun de, Claro! Entonces Hema, Gunda de Hema sigue atacando a Kivahor a Israel por medio de Af."
+"startMs": 3558683,
+"endMs": 3570823,
+"text": "¿Qué hace el cherev? מילה. מילה. Entonces, que va a quitar al nahash. Sí, jasaka, liviatán, nahash beariach, veleviatán, nahash hakalaton, vehareg et hanin, hanin, sher bayam."
 },
 {
-"startMs": 3918000,
-"endMs": 3950000,
-"speaker": "Speaker 1",
-"text": "Sí, por medio de Af, que es un Kaas Jitsoni. No los quiero lashmi. Cuando son \"helek\" de Af, Af es la nariz. Kivahor es donde la nariz es el Kaas. Pero Hema, exactamente, Kaas a Pani. Pero Hema es el ardor por dentro. Gema es Kibiahol, el que me llegan adentro contra los Goim, es solamente si me meto a Misrael, llegaron a su largada de Priá. Entonces por eso, Gema Eli, todavía no puedo."
+"startMs": 3570863,
+"endMs": 3573203,
+"text": "Dice Rashi: \"¿Quién es?\" Farol."
 },
 {
-"startMs": 3950000,
-"endMs": 3981000,
-"speaker": "Speaker 1",
-"text": "Estoy en este Matsam, Kibiahol, que Gema no tengo. Sí? Por un lado, contra Misrael no tengo Gema, pero tengo AF, y si tengo AF, entonces no puedo tener Gema contra los Goim. Porque sigue Gunda de Hema, sigue actuando Kibiahol, atacando poco a poco a Misrael. Para que lleguen ve meta a la largada de de la largada de Priya, mi meile hema contra los güey. Oiejazek, me mausí, ya se shalom, le shalom, mi asel."
+"startMs": 3575003,
+"endMs": 3575223,
+"text": "Dice,"
 },
 {
-"startMs": 3981000,
-"endMs": 4027000,
-"speaker": "Speaker 1",
-"text": "Dice mit neni shamir shait va mil jamás. Pero dice rashi. Mit neni shamir shait va mil jamás. Ojalá pueda reventar a Ismael porque Ismael también tiene Mila ¿Sí? Entonces vete presumilat hit zonit también. Velotujalmidatendi limjo, si es su bichu babiano tener totish a mire beshit bem nemilhama dice ahora creo que voy a decir el otro dice."
+"startMs": 3576863,
+"endMs": 3588563,
+"text": "dice: \"Targum Yonatán, al malca de itravev kefaró, malca kadmá. Ve'al malca de itravev kesanjeriv, malca, malca tiniana, beriach pasut, hakalaton, lasón kaput\"."
 },
 {
-"startMs": 4027000,
-"endMs": 4031000,
-"speaker": "Speaker 1",
-"text": "Qué dice?"
+"startMs": 3589903,
+"endMs": 3607183,
+"text": "Dice: \"Ve'omer ani lefí she, sheelu shalosh umot jasuvot, Mitráim veAshur yEdom, lekak hamar alelu, como se amar basof ha'inyan, uva'ovdim be'eretz Ashur, ve'anijem be'eretz Mitráim, shentatzlu arnot be'nahashim hanushjim, liviatán nahash beariach hu Mitráim, liviatán nahash hakladon hu Ashur\"."
 },
 {
-"startMs": 4031000,
-"endMs": 4063000,
-"speaker": "Speaker 1",
-"text": "Dice Halicaret Jaima, en livejola que asimshi, hisani, a kerem masdot, lous lou jalis poja Mati le vara este es el chat que queríamos que diga Rashi pero Rashi lo dijo sobre los humon nosotros lo conectamos pero al final Rashi también dijo este chat que Ashem no tiene gema contra Israel, Porque si tuviera hema contra Israel, ¿que hubiera pasado? La Shmidet. Claro. Dice: \"Brit-avot\". Entonces ya que ellos tienen brit-avot, entonces ellos tienen milán en su esencia."
+"startMs": 3608323,
+"endMs": 3617763,
+"text": "Entonces, \"vehareg et hanin sher bayam, hu Tsor, shehi rosh livnei Esav, yeyeshet belev yamim, vejen kitim korim, iye hayam, vehen romim\"."
 },
 {
-"startMs": 4063000,
-"endMs": 4097000,
-"speaker": "Speaker 1",
-"text": "Mit neni que havin shavru, rule ashwait y Shamir beshait. Si no tuviera la shwa del brit-avot, ya hubiera este Sade ya se hubiera quemado completamente. Entonces mamás vienen de la mano con todo el Inan del Egel, que Hashem le dijo: \"Aref Mimeni, acuérdate de ese Aref\". Acuérdate de ese \"Aref\", Kibiahol, ¡tú quisiste matar a Af y Gema! Y yo te dije que no, porque yo quiero que ellos hagan su abuda. Entonces, entonces. Pero ¡Agema si lo mató! ¿Qué significa que Betsem el potencial de Gema?"
+"startMs": 3618183,
+"endMs": 3630883,
+"text": "Entonces, acá Dios bendito nos da un cherev, y va a quitar a todo el nahash, que todos, בעצם, son un, un, un התפשטות, בעצם, del galut que se llama Mitráim, Farol, que es la orla."
 },
 {
-"startMs": 4097000,
-"endMs": 4103000,
-"speaker": "Speaker 1",
-"text": "Eso que Liscorprita votes, así hay, pero falta Betsem con los manes."
+"startMs": 3630963,
+"endMs": 3635103,
+"text": "Shem bekitá la orla. \"Vayom hahu, keremhemer anula\"."
 },
 {
-"startMs": 4103000,
-"endMs": 4117000,
-"speaker": "Speaker 1",
-"text": "Tapele play, esto es increíble. Está muy loco. Hay que. Hay que."
+"startMs": 3637203,
+"endMs": 3644083,
+"text": "Dice Rashi: \"Be'eta geulah yeshilu leIsrael, zo hi keremhemer, hotzia yeina tovhemer, veinos velas\"."
 },
 {
-"startMs": 4117000,
-"endMs": 4122000,
-"speaker": "Speaker 1",
-"text": "Quiere decir que todo el koach contra Ishmael es cuando nosotros."
+"startMs": 3644083,
+"endMs": 3653363,
+"text": "¿Sí? Lemana ya amar Am Israel, el kerem jasuv de Hakadosh Baruj Hu, el plantío, el plantío que plantó Hashem en el mundo es Am Israel."
 },
 {
-"startMs": 4122000,
-"endMs": 4124000,
-"speaker": "Speaker 2",
-"text": "Hagamos pria, ¿no?"
+"startMs": 3653383,
+"endMs": 3659183,
+"text": "\"Ani Hashem notzerá lergame mashkena, pen yifkod aleha laila veyom atzirena\". ¿Sí?"
 },
 {
-"startMs": 4124000,
-"endMs": 4126000,
-"speaker": "Speaker 1",
-"text": "Sí. Hagamos pria."
+"startMs": 3661343,
+"endMs": 3662203,
+"text": "Dice..."
 },
 {
-"startMs": 4126000,
-"endMs": 4128000,
-"speaker": "Speaker 2",
-"text": "Qué es hacer pria, ah?"
+"startMs": 3668583,
+"endMs": 3674623,
+"text": "Dice: \"Ani Hashem notzerá\", yo, ah, yo cuido a Am Israel be'eta galut."
 },
 {
-"startMs": 4128000,
-"endMs": 4144000,
-"speaker": "Speaker 1",
-"text": "También Gichónico. Que no sea nada más el britki viajó, la schema, sino que nosotros, ¡Letchen! Sí, el Tikún de Legel. Es historia del Tata, Kilu. Hablando de Lechen, ¿qué dijiste? Está el de acá abajo con nosotros,"
+"startMs": 3674623,
+"endMs": 3678763,
+"text": "¿Sí? \"Meat, meat ani mashke otako spuranut haba aleha\"."
 },
 {
-"startMs": 4144000,
-"endMs": 4153000,
-"speaker": "Speaker 2",
-"text": "Pero está que haya el destructor y gruta de nosotros."
+"startMs": 3680763,
+"endMs": 3688363,
+"text": "Yo no le traigo tsarot, כביכול, las tsarot vienen porque Am Israel tienen orla. ¿Sí? ¿Sí estás de acuerdo?"
 },
 {
-"startMs": 4153000,
-"endMs": 4156703,
-"speaker": "Speaker 1",
-"text": "Peso 35 ahora. Ah ok."
+"startMs": 3689123,
+"endMs": 3695363,
+"text": "Orla es salirse del brit de Hashem, ממילא es irse a galut. Entonces, dice, Hashem dice: \"Yo no maté a Am Israel."
+},
+{
+"startMs": 3695643,
+"endMs": 3703383,
+"text": "Cuando estuvieron, cuando se apegan, כביכול, a la orla, no los reventé, sino les fui-- poco a poco les fui trayendo tsarot\"."
+},
+{
+"startMs": 3703383,
+"endMs": 3710843,
+"text": "\"Pen yifkod aleha bevat ajad, veojalena\", que no vaya a ser que de un segundo lo acabe. \"Lekaj laila veyoma nimitbonem ba\"."
+},
+{
+"startMs": 3711563,
+"endMs": 3713483,
+"text": "Día y noche checo cómo, בעמ,"
+},
+{
+"startMs": 3714783,
+"endMs": 3721903,
+"text": "traerles כל מיני tsarot y כל מיני devarím para que regresen, בעמ. Oh, ese es todo el punto. Sí, es como igual, como Moshe y el malaj."
+},
+{
+"startMs": 3722183,
+"endMs": 3728863,
+"text": "\"Yonatán tirké milo sheani pokéda lehem avonot sher margilim lifnei laila veyom aiti megina lehem\". Todo lo elejon."
+},
+{
+"startMs": 3729483,
+"endMs": 3736203,
+"text": "Sí, dice: \"Gemá en li\". ¿Sí? ¿Qué es esto, gemá en li? ¿Cómo va de la mano?"
+},
+{
+"startMs": 3736623,
+"endMs": 3738883,
+"text": "Dice: \"Cuando-- si habría gemá\"."
+},
+{
+"startMs": 3740983,
+"endMs": 3746143,
+"text": "Vean, que, que, fíjense cómo esto va de la mano con el, con la amenaza de Hashem en el eguel."
+},
+{
+"startMs": 3747423,
+"endMs": 3753943,
+"text": "Rebe. ¿Mmm? Ashmidem. Entonces, dice: \"Ani lo mashmid otam\". ¿Lama ani lo mashmid otam?"
+},
+{
+"startMs": 3755543,
+"endMs": 3763763,
+"text": "Porque, בעמ, gemá en li. Entonces, dice: \"Afilu que no hicieron el tikún de la מילה bi shlemut, כביכול, tienen un chelek de la מילה\"."
+},
+{
+"startMs": 3764623,
+"endMs": 3772223,
+"text": "Camón, ese chelek, camón, es el chelek, כביכול, de Hakadosh Baruj Hu, de la מילה, que Hashem nos hace מילה. Lemrot que nosotros no tenemos מילה, es el chelek de gemá."
+},
+{
+"startMs": 3772903,
+"endMs": 3779963,
+"text": "Entonces, y falta nuestra abodá tzmi, que va a ser la פריה, que nosotros negale el pnimius que Hashem ya nos dio, negalot."
+},
+{
+"startMs": 3780323,
+"endMs": 3789571,
+"text": "Entonces, gemá en li, porque, בעצם, a la llegada de gemá ya llegamos Que mejor los convertimos los kelim de Hakos Borhu para, para que él no sea la milá."
+},
+{
+"startMs": 3789831,
+"endMs": 3797811,
+"text": "Y entonces, apilu que hay orla, Am Israel no se llama ahora elim. ¿Por qué? Porque ese se llama Jema Eli. Entonces, esto dice Jema Eli, dice Rashi, ahora vamos a ver."
+},
+{
+"startMs": 3797811,
+"endMs": 3803331,
+"text": "¿Esto es porque la mató? Lama Jema Eli. O sea, ¿mamá no tiene enojo o no está el malaj ya?"
+},
+{
+"startMs": 3805271,
+"endMs": 3816631,
+"text": "El malaj es el enojo, sí, es el que representa el enojo de Hashem. Ahora, Rashi lo explica diferente: \"Eli pela egbir jamatí al akum lefí sheafi Israel jotim midata din mekatreg\"."
+},
+{
+"startMs": 3816831,
+"endMs": 3820151,
+"text": "O sea, no puede hacer el din con goim tampoco. En otras palabras, kilu..."
+},
+{
+"startMs": 3822551,
+"endMs": 3834431,
+"text": "Aquí, Am Israel está en el emtá, ¿sí? No tengo jema y por eso a ellos no los puedo eliminar completamente, pero tampoco tengo jema, kibiajol, fíjate, acá es."
+},
+{
+"startMs": 3834711,
+"endMs": 3841591,
+"text": "Pero tampoco tengo jema para traer en contra del akum. ¿Por qué no tengo jema contra el akum? Porque Am Israel no tiene priá."
+},
+{
+"startMs": 3841591,
+"endMs": 3851551,
+"text": "¿Entiendes esto o no? No lo agarrás, pero... ¿Por qué? Dice: \"Yo no tengo jema, uno es contra Am Israel, no tengo jema\"."
+},
+{
+"startMs": 3852191,
+"endMs": 3860651,
+"text": "Entonces, miméle, no los castigo completamente, sino poco a poco, porque a ellos les falta, memen, les ayudo a hacer su priá para que vehechen- Regresen."
+},
+{
+"startMs": 3860951,
+"endMs": 3870891,
+"text": "Lleguen a la milá, ¿sí? Y, eh, a jema. Pero entonces, por un lado, jema no tengo porque vehechen con Am Israel, eh, kilu ellos vechen ya tienen milá."
+},
+{
+"startMs": 3871051,
+"endMs": 3880771,
+"text": "Pero ¿qué falta de Am Israel? O sea, es el koaj de Moshe Rabénu. Pero les falta el koaj de Yehoshua, que es el koaj de la priá, es el koaj de, de likaneza de Israel con esa milá."
+},
+{
+"startMs": 3882151,
+"endMs": 3884851,
+"text": "Entonces, vehechen falta la priá. Entonces, si falta la priááá,"
+},
+{
+"startMs": 3886451,
+"endMs": 3891471,
+"text": "¿sí? Entonces, ¿qué me...? No tengo suficiente jema"
+},
+{
+"startMs": 3892791,
+"endMs": 3900451,
+"text": "para los goim. Entonces, mire, lo que quiere que nosotros llegamos a priá, entonces, miméle, ¿qué van a--?"
+},
+{
+"startMs": 3900591,
+"endMs": 3902231,
+"text": "¿Para qué se van a usar af y jema?"
+},
+{
+"startMs": 3903771,
+"endMs": 3918111,
+"text": "Para atacar a los goim, que van a contra Israel. Ad kama, ad kama, que no se acabe ese tikún deee- Claro, entonces jema, gunda de jema, sigue atacando kibiajol a Am Israel por medio de af."
+},
+{
+"startMs": 3918931,
+"endMs": 3930711,
+"text": "Sí, por medio de af, que es un kavetz jitzoni. No los, no los quiero la shmid. Cuando son chelek de af, af es la nariz, kibiajol, es donde, donde en la nariz es kilu mitgalel el kavetz."
+},
+{
+"startMs": 3930791,
+"endMs": 3946831,
+"text": "El paz, a, a, a panim keze. Jema, exactamente, kavetz a panim. Pero jema es que el ardor por dentro, jema es kibiajol, que mira el adentro contra los goim, es solamente si bemeta Am Israel llegaron a su largada de priá."
+},
+{
+"startMs": 3947611,
+"endMs": 3955231,
+"text": "Entonces, por eso, jema el, y no, todavía no puedo... Estoy en este matzán, kibiajol, que jema no tengo, ¿sí?"
+},
+{
+"startMs": 3955751,
+"endMs": 3971551,
+"text": "Por un lado, contra Am Israel no tengo jema, pero tengo af. Y si tengo af, entonces no puedo tener jema contra los goim, porque sigue, gunda de jema sigue actuando kibiajol, atacando poco a poco a Am Israel para que lleguen bemeta a la largada de, de, de,"
+},
+{
+"startMs": 3972951,
+"endMs": 3980411,
+"text": "la largada de priá, miméle jema contra los goim. \"Oh, yejazeq memauzi, iase shalom, li shalom, iase\","
+},
+{
+"startMs": 3981791,
+"endMs": 3994991,
+"text": "dice, \"Mi itneni shamir shait ba miljama efshaa, ba atiteten aiajá\". Dice Rashi: \"Mi itneni shamir shait ba miljama, be bnei miljamti vehú Ismael, mi itneni, vehújal lifkod alehem\"."
+},
+{
+"startMs": 3995071,
+"endMs": 4001991,
+"text": "Ojalá pueda de verdad reventar a Ismael, porque Ismael también tiene milá, ¿sí? Entonces, vehechen, pero su milá es jitzonit."
+},
+{
+"startMs": 4002111,
+"endMs": 4018111,
+"text": "Es ajenia. \"Ve lo tujal midata din limjot sheyeshvu Israel bi teshuvá, vi anoten et oti shamir ve shait be bnei miljama, efsa psial midata din lefkod alehem\", dice, \"Af itrom min hasafot al ha'omon ve atiteten aiajad, ken terguem el anatán al ha'omot\", dice, \"Al sal pishuaj Israel ve musaf\","
+},
+{
+"startMs": 4019791,
+"endMs": 4028211,
+"text": "dice... Ahora ve, ve, ahora quiero que veas si lo dropsha, dice: \"Ve, ve hu musaf al haka\", ¿qué dice?"
+},
+{
+"startMs": 4028991,
+"endMs": 4030211,
+"text": "Ajavresh, no sé."
+},
+{
+"startMs": 4031911,
+"endMs": 4039991,
+"text": "Dice: \"Halikaret jema, el li bejol hakeasim shihisani hakérem hazot, lo ush-- lo ujal lishpoj amatí lebaara\"."
+},
+{
+"startMs": 4040591,
+"endMs": 4053831,
+"text": "Este es el pshat que queríamos que diga Rashi, pero Rashi lo dijo sobre los umot. Nosotros lo con, lo conectamos, pero al final Rashi también dijo este pshat, que Hashem no tiene jema contra Israel, porque si tuviera jema contra Israel, ¿qué hubiera pasado?"
+},
+{
+"startMs": 4054551,
+"endMs": 4063111,
+"text": "La shmid et- Claro. Dice: \"Mapnei hashvuá she nishvat li avotehem\". Entonces, ya que ellos tienen brit avot, entonces, miméle, ellos tienen milá en su esencia."
+},
+{
+"startMs": 4063451,
+"endMs": 4069611,
+"text": "\"Mi itneni ki avin she abru, lulei hashvuá hiti shamir ve shait, po-poshea ve kerem ve atiteten aiajá\"."
+},
+{
+"startMs": 4069931,
+"endMs": 4085311,
+"text": "Si no tuviera la shvuá del brit avot, yo hubiera-- este sadé, ya se hubiera quemado completamente. Entonces, mamá viene de la mano con todo el lineamiento del Egel, que Hashem le dijo: \"Arev mimeni\", acuérdate de ese arev, acuérdate de ese arev, que kibiajol tú quisiste matar a af y jema,"
+},
+{
+"startMs": 4087251,
+"endMs": 4101731,
+"text": "y yo te dije que no, porque yo quiero que ellos hagan su abodá. Entonces, entonces, entonces-- pero a jema sí lo mató, que significa que vehechen el potencial de jema, eso que lis kor brit avot, eso sí hay, pero falta vehechen con los manim."
+},
+{
+"startMs": 4103691,
+"endMs": 4108211,
+"text": "Está pele pleim esto. Increíble. Está muy loco. Hay que, hay que..."
+},
+{
+"startMs": 4117051,
+"endMs": 4119051,
+"text": "Quiere decir que todo el koaj contra Ismael"
+},
+{
+"startMs": 4120291,
+"endMs": 4127131,
+"text": "es cuando nosotros- Hagamos priá, ¿no? Sí, hagamos priá. ¿Qué es hacer priá?"
+},
+{
+"startMs": 4127711,
+"endMs": 4137491,
+"text": "Eh, también jitzoni que- La bod-- la-- que nuestra-- que no sea nada más el brit kibiajol de Hashem con nosotros, sino que nosotros vehechen si el tikún de legue."
+},
+{
+"startMs": 4137810,
+"endMs": 4147111,
+"text": "Es historia del tata, kilu, hablando del Eshem, que dijiste, está el-- de acá es mejor con nosotros, pero está que, que haya el-- nuestra historia de nosotros."
+},
+{
+"startMs": 4148310,
+"endMs": 4148971,
+"text": "No manches, caser."
+},
+{
+"startMs": 4150591,
+"endMs": 4156431,
+"text": "Historia del tata. Yo ya dejé Minja. Ah, ¿ya dejaste? Yo ya dejé. Peso treinta y cinco, ahora. Ah, okey. Espérate."
 }
 ]
 }

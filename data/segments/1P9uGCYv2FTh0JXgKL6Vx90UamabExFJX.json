@@ -1,630 +1,1831 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 0,
-"endMs": 11000,
-"speaker": "אופיר סגל",
-"text": "¿Estás buscando dinero? ¿Cómo se pone maestro y yo? Los memeil es del Oden. Eso no es lo que estás buscando. Es el gilui aquí de Rabio Hanan, que me dijo. Estos de acá..."
+"startMs": 100,
+"endMs": 8180,
+"text": "Buscando dinero con mi tío. Pues mi mail es el orden. Eso no lo estás buscando. Es el gilui aquí de rabino Hanan, que me leyó lo Arislau."
 },
 {
-"startMs": 11000,
-"endMs": 13000,
-"speaker": "Speaker 2",
-"text": "Había los hijos de Rabi Ismael y Rabi Ismael."
+"startMs": 9020,
+"endMs": 9720,
+"text": "Entonces acá-"
 },
 {
-"startMs": 13000,
-"endMs": 18000,
-"speaker": "אופיר סגל",
-"text": "O sea, se ve que hay una... Los cuanil, los cuanil, tenían el Dófiil Beta Vintage, sí."
+"startMs": 11280,
+"endMs": 18200,
+"text": "Los hijos de rabí Ismael y rabí Ismael. O sea, sí se ve que hay una- Los coa-- los coanim, los coanim de Olim tenían el Yofel Bet Hamikdash, sí."
 },
 {
-"startMs": 18000,
-"endMs": 27000,
-"speaker": "Speaker 2",
-"text": "Que Afiil Olgoi podía decir que estaba muy guapo. O sea, Afiil Olgoi, que los compró, decía que eran guapos."
+"startMs": 18500,
+"endMs": 25840,
+"text": "Que a filo el goi podía decir que estaba muy guapo. O sea, el goim de- ¿Eh? A filo el goi que los compró decía que eran guapos."
 },
 {
-"startMs": 27000,
-"endMs": 60000,
-"speaker": "אופיר סגל",
-"text": "Vamos al final de la subida aquí, dice... Entonces pasó acá la famosa historia, digo, no hay tiempo para leer todo, entonces, entonces, tuvieron un vikuaj ahí, rapiojón en el schlokis. Ahí lo vemos, vamos. Al final se hicieron barplukta, ¿no? este es el barplukta. El barplukta aquí es que uno es el balsubillo, este es Santi Camur. Wow, entonces, esto es la subida aquí. Wow, hay que verlo. Bueno, dice. Dice \"Akre, veatne, ve Shave, cabra raba\"."
+"startMs": 26420,
+"endMs": 26560,
+"text": "Sí."
 },
 {
-"startMs": 60000,
-"endMs": 92000,
-"speaker": "אופיר סגל",
-"text": "Lo convirtió en un talmin hakam. Yo makam, sobre todo. Algo más que ve Midrash, bien makhlokat en el vet Midrash. Asaif, hazakin, vapigion, va Romach. Sí, magalado, magalkatzir. Son las herramientas de los rateros. Me matamos a mi Kaplim Tuma. Cuando ya se llama que ya tienen Shem de Kli, para que siempre tuma, dice, \"jat marmelahtan\". Entonces, badai que necesita ver que marmeloje. Ome mataik mar melahtan. Makhlk. Rapioh hanan amar misi starfam de kib shan."
+"startMs": 27920,
+"endMs": 34380,
+"text": "Vam-vamos al final de la subida aquí, dice... Entonces, pasó acá la famosa historia, digo, no, no hay tiempo para leer todo."
 },
 {
-"startMs": 92000,
-"endMs": 124000,
-"speaker": "אופיר סגל",
-"text": "Y dice, el Mar melahtan ya es desde que lo... desde que se calientan en el kib shan. ¿Qué pasó, Paco? Sí, vas a ir así. Sí, claro que sí. Ahí ya tienes el de kib shan, ¿no? Rapioh hanan tal como hacen kilim de... Así nos hacen los kelim de los cuchillos. Necesitan aparte de agua, si no les echas agua, no van a quedar bien. Entonces le dice, me hiciste agua."
+"startMs": 34420,
+"endMs": 43000,
+"text": "Entonces, entonces, eh, tuvieron un vikuaj ahí, rabió Jonan en el Shlokish. Ahí lo vemos, vamos a un- Al final se hicieron barplucta, ¿no?"
 },
 {
-"startMs": 124000,
-"endMs": 155000,
-"speaker": "אופיר סגל",
-"text": "Amarlé, dice la hijo rabio, que me hiciste ayuda. Y me vine de que quieres. Amarlé. ¿Tú qué me dices a mí? No me dijiste nada. Dice, ¿rebicarulia? Dice antes de hacer chuba, me llamaban Rebi. Y ahorita después de hacer chuba? Que el rebi que era el rojo de los rateros? Era el rojo de los rateros."
+"startMs": 43060,
+"endMs": 50540,
+"text": "rabió Jonan en el Shlokish todo. Esta es la barplucta. El barplucta aquí es que uno es el balsube y el otro es el tsadik amor. Mi mail es- Guau."
 },
 {
-"startMs": 155000,
-"endMs": 196000,
-"speaker": "אופיר סגל",
-"text": "Ahorita también ya soy rebi, que tú no me diste nada. Hay que entender esto. Pero está peli la pregunta, no? Estamos hablando que ya... Entonces Rashi dice, como lo entendieron ustedes. Dice... Debi Karol, Rappanzel Listin, de Rosh Line, y tú, no me cambiaste nada. Entonces, porque le dice, no, a nit lag de Karol Krivert like Karl Gambischkin. Entonces, aquí vemos que Shloki, digo, esto no es todo Ropsadek, pero..."
+"startMs": 50620,
+"endMs": 59940,
+"text": "Ah, entonces- Esta es la subida aquí. Guau. No, maar, hay que, hay que verlo. No, o sea, dice. Sí, no. Dice: acre ve atne ve shavi gabra raba."
 },
 {
-"startMs": 196000,
-"endMs": 227000,
-"speaker": "אופיר סגל",
-"text": "Se ve así la Nimara. Nimara nos contó que no pudo regresar. ¿Por qué? Porque aquí ve la La Voltora. ¿Por qué iba a regresar a agarrar qué? ¿Suskelim? ¿Qué kelim me iba a agarrar? De ratero. ¿Asai fa billón a Roma? Claro. Esos son los que quiero agarrar. De repente al final te dice que Richlokis entendía el Massehed Kaley. Él cambió suskelim de ratero a Massehed Kaley. ¿Me explico? Romaro. Él cambió sus kelim de ratero a Massaget Kalim, a los mismos kelim."
+"startMs": 60100,
+"endMs": 66800,
+"text": "Lo convirtieron en un talmid ajam. Yom ajá, besof yemem. Abu mafle gave midrash, había machlóket en el Bet Midrash."
 },
 {
-"startMs": 227000,
-"endMs": 259000,
-"speaker": "אופיר סגל",
-"text": "Entonces él es el que me vio en Massaget Kalim. Y entonces acá hubo un gilduy, que aquí es cuando Richlokish me está llamando, pudo regresar Mehmet por sus keling. Tomar, ¿te entendió lo que estaba buscando antes, Nefak Leotkestora? Es el cosa de Richlokish, Leut Balchube. Entonces acá... Le dice Rapiojo, le dijo: \"Listin belistiute e Yoda\". Le dijo: \"Rixloki, un tipo de desprecio un poco\"."
+"startMs": 66880,
+"endMs": 73540,
+"text": "Asaif, ha sakín, ha piguión, ha romaj. ¿Sí? Umagal yad, umagal katir. Son las herramientas de los rateros."
 },
 {
-"startMs": 259000,
-"endMs": 294000,
-"speaker": "אופיר סגל",
-"text": "Dice: \"No me discutas, eso es bueno, tú me discutes, porque eres listin, porque la gente también viene\". Y entonces acá, Richlokis me galelo algo a Rapiojo, él le dijo: \"Tú tienes el COAG del OR, pues yo tengo el COAG de la FOG, el Joshe Clevo\". Y dice, ya que yo tengo el coach de la foca tengo... Yo quedo con las palabras estas rebikarulia, rebikarulia. Ah, bueno, no la he cuidado. Entonces dice, dice, yo tengo el coach de la fogata José de oro. Entonces le dice, tu enajiname, pero de que me hiciste chube."
+"startMs": 74340,
+"endMs": 81880,
+"text": "Me matay me kaplim tumá. ¿Cuándo ya se llama que ya tienen shem de cli para recibir tumá?"
 },
 {
-"startMs": 294000,
-"endMs": 325000,
-"speaker": "אופיר סגל",
-"text": "¿Sí? Tú me hiciste chube. Ahorita yo soy chatik. Pero yo ahorita, este, Lo agarré tan a mok, que a fakti be met mi resha de antes, a tit gut. Nintza, que me etzem hoy le mafré, yo soy repi desde que era ratero. Yo ya era repi desde que era ratero. Porque nunca era rocha. Lo que habíamos visto."
+"startMs": 82920,
+"endMs": 89160,
+"text": "Dice: shad gmar melachtán. Entonces, vadai que necesita ver gmar melójet. ¿Y me matay gmar melachtán? Machlóket."
 },
 {
-"startMs": 325000,
-"endMs": 357000,
-"speaker": "אופיר סגל",
-"text": "En fakini lo julio. El que es hecho en el agua, el riju que ese te provocó un quirú más fuerte. Si me la sale que el rijuk, que todo lo que estaba yo, Rajuk, salió que, eso me hizo el Scarefa. Y lo acá es, la cama que Nefajim lescuyots, la Saverón Nefajim lescuyots, ¿qué pasa en este momento cuando Nefajim lescuyots? Quiere decir que él era Chadik también cuando era ratero, también era re bien en ese momento. No nada más hoy, o sea, le. Fío más al de... Pues está buena, eh. ¿Eh? Entonces le fío hoy."
+"startMs": 89420,
+"endMs": 94660,
+"text": "Rabí Yochanan amar mi shisarrafan be kipshán. Dice el gmar melachtán, ya desde que lo..."
 },
 {
-"startMs": 357000,
-"endMs": 391000,
-"speaker": "אופיר סגל",
-"text": "Hoy en día hay... ¡Hasta luego. Pero el Messi lo regresó. Está bien, ¿verdad? Esta es la de Nutkei. La Mikuaj estaba ahí. ¿Eh? Estaba en Kuaj. Hoy, ya en el fak en el escuyot, entonces hoy nunca fue a Rashad. Entonces le dijo Raprioj, este es el hombre de la taina que le dice Rish Lokish. Hoy es el hombre de la taina que le dice. Entonces la taina de Rapyoj es lo que dices tú. Rapyojanaan le dice, mira, en la que tú safta algo, que dice..."
+"startMs": 95900,
+"endMs": 99540,
+"text": "Desde que se calientan en el kipshán. ¿Qué pasó acá?"
 },
 {
-"startMs": 391000,
-"endMs": 423000,
-"speaker": "אופיר סגל",
-"text": "Entonces, entonces, entonces, acá, vete aquí hay un vicho muy amor, que Rapiojana le dice, le me dice yo fuí tu or, que eres el otro y entonces le dice, entonces acá Rapiojana le dice, espérate, tú algún día eras Rosha. Y entonces por eso le dice, \"Listen ve el estilo de yoda\", dice, sofocha es lavar, No puede ser la halahaki como tú."
+"startMs": 100840,
+"endMs": 107000,
+"text": "Sí, no sé qué decir. Sí, claro que sí. Mi shisarrafan be kipshán, ahí ya tiene shem de cli. No, no, la siete. Y Shlak Shamar, ¿no?"
 },
 {
-"startMs": 423000,
-"endMs": 477000,
-"speaker": "אופיר סגל",
-"text": "Porque pienso inmediato. A ti, mi imagínate, tú eres los fans, tú no puedes traer alojes del momento que era Rosha. Él dice, sí. Él dice, espérate, ¿cómo no? Dice, Ani at kamacha faktiede. Entonces ves, la halaja es dafkai como yo. Y Rapijon le dice, no, espérate. Ya que yo soy el quexarte de tropichue, entonces mi maile, en este momento tuve Rosha... Pues primero aquí hay dos, que rápido no es el que sino tu, y entonces de ese aspecto él era Rachabu, pero a Rachabu, pero Rachabu se fue, y Tiken ha sido el abar, veofen que aquí vejolo y no es bachú, ya se diga Murko llama, entonces es el bicoaxa, entonces acá el hombre que es que los dos tienen un problema, los dos tienen un problema."
+"startMs": 108240,
+"endMs": 110580,
+"text": "Rabí Yochanan, tú no me miras cómo hacen en kelim de..."
 },
 {
-"startMs": 477000,
-"endMs": 504000,
-"speaker": "אופיר סגל",
-"text": "Tanto Rabiol Honan y tanto Rich Lukish. Ahorita vemos cuál es el problema de los dos. Dice... Jalas daite Rabiol Gonon. Jalas daide. Klomar, que Lucile ganó Naguide en la pelea de Naguide. ¿Eh? Que Lucile ganó con lo que le contestó. O sea, se sintió Rabiolon."
+"startMs": 112180,
+"endMs": 114140,
+"text": "Rabí Yochanan, así no se hacen los kelim de..."
 },
 {
-"startMs": 504000,
-"endMs": 506000,
-"speaker": "Speaker 2",
-"text": "No, no, porque le dijo, tú no me hiciste nada."
+"startMs": 115460,
+"endMs": 123620,
+"text": "los cuchillos. Necesitan aparte agua. Si no les echas agua, no van a quedar bien. Rabí Shlokish dice: mi sitzaj tsejan be mai."
 },
 {
-"startMs": 506000,
-"endMs": 534000,
-"speaker": "אופיר סגל",
-"text": "No, no, ahorita no tiene nada. ¿Sí? Entonces, jalas, pero viejo no jalas. Esta es suya. Entonces dice, jalas risloquis, se enfermó risloquis. Fue cuando vinieron a levantar a los viejas, ¿no? Ahorita va a venir, ahorita va a venir. Ahorita vamos a ver. Dice..."
+"startMs": 124340,
+"endMs": 131220,
+"text": "Amar le, dice le dijo rabí Yochanan, eh, listah, listiut haioda. Tú me miras bien en ese momento, ¿sí?"
 },
 {
-"startMs": 534000,
-"endMs": 537000,
-"speaker": "Speaker 2",
-"text": "Pero deja de leer, no se enfermó."
+"startMs": 132100,
+"endMs": 132600,
+"text": "Amar le,"
 },
 {
-"startMs": 537000,
-"endMs": 574000,
-"speaker": "אופיר סגל",
-"text": "Bueno, ahorita vemos. Es que es Daite, hay que chocarse. Dice, Jala Rislokis se enfermó Rislokis, atae akte kabbakit. Se enfermó y Rislokis ya estaba muriendo. Y vino la hermana de Rabio el Gonon, o sea, la esposa de Rislokis y empezó a llorar, la Rabio el Gonon alta que pid. \"Hombrale, hace bich wil banai, no lo hagas por los loquis, ¿saben? Por mis hijos. O por mis hijos, hombre, le. Duro, dice, dice, yo me encargo de ellos, yo soy su padrastro\"."
+"startMs": 135380,
+"endMs": 145840,
+"text": "amar le- ¿Y maia qué? Maia han kli. Se enojó Rishlokish, dice: tú que me diste a mí, no me diste nada. Dice: rebicaruli acha, rebicaruli a-- li-li, eh, dice- Atá, rebicaruli."
 },
 {
-"startMs": 574000,
-"endMs": 600000,
-"speaker": "אופיר סגל",
-"text": "\"Hombre ella misma aquí\". \"Apoyate en mí\". Tanto así, que verminan, nach, nach erupción, loquis. Entonces aquí el Omek de Rapiu Canal es que me mete aquí a este estado donde Richlokis. Él no puede entender que él podría solo. La única manera de salirse del Khosek es por medio de. Hay un oro."
+"startMs": 145840,
+"endMs": 153660,
+"text": "Rebicaruli, aja, rebicaruli. Dice: antes de hacer teshuvá me llamaban rebi. Y ahorita después de hacer teshuvá... Quilo rebi que era el rosh de los, eh, rateros."
 },
 {
-"startMs": 600000,
-"endMs": 601000,
-"speaker": "Speaker 2",
-"text": "Claro."
+"startMs": 154120,
+"endMs": 164660,
+"text": "Era el rosh de los rateros. Ahorita también ya soy rebi, quilo, qué me... Tú no me diste nada. Hazte entender esto. Entonces, rabí Yochanan dice: anaila, de crevina, ajat kam feshquinó."
 },
 {
-"startMs": 601000,
-"endMs": 631000,
-"speaker": "אופיר סגל",
-"text": "Entonces después de que... el que lo sacó del \"hosher\" fue a Rapioron. Y después de... El Ciro fue a Rapioron, un \"matler\" de la \"hosher leor\". Pero en el momento en el que Richlokis dijo, \"Yo soy independiente\", entonces se le quitó el jiu. Porque todo el jiu es lo que hemos hablado. Sí. Sí, exactamente. Y cuando el Balchubi dice yo no depende del auténtico. Entonces, entonces pierde Betzem su hiu. Tienes todo el hiute, es mi coqueta."
+"startMs": 165040,
+"endMs": 172500,
+"text": "Eh, pero está pele la pregunta, ¿no? Estamos hablando que ya, eh... Entonces acá, entonces Rashi dice... Chupó, como lo entendieron ustedes."
 },
 {
-"startMs": 631000,
-"endMs": 662000,
-"speaker": "אופיר סגל",
-"text": "Pero el problema, es que el hijo no me metes, independiente de Rislokis, le hago. No, entonces Rabiojo no le hago ahora, él sí es independiente de Risloki. Pero no, ¿por qué no? Dice... No, no. Rabiol konnon, aquí este es el Hala Rabiol konnonnon estaba muy, muy triste. Rabiol estaba muy triste."
+"startMs": 173220,
+"endMs": 183980,
+"text": "Dice: rebicaruli, rabán shel listin, be rosh lahen haiti. Quilo tú no me cambiaste nada. Entonces, pele ploim, porque rabí Yochanan le dice: no, anitlá, de cri-- criot la-- ca, ca, kam feshquin."
 },
 {
-"startMs": 662000,
-"endMs": 691000,
-"speaker": "אופיר סגל",
-"text": "Amru Rabonnon, man lazi lit vele daite. Dice, ¿quién puede? Lei yachev da rabiol konnon. Daisy rabiel hazarben peda. Pues ahí vamos a mandarle a Rabiel hazarben pedat. De mejadid insch mit. Tiene todo muy claro. ¿Eso le sirve a Rapiojono o no? Alguien que tenga todo muy claro. Sí. No, él ya tiene todo claro. Él tiene otro. ¿Me explico."
+"startMs": 184520,
+"endMs": 190800,
+"text": "Entonces, aquí el pshat es así. No dice puede li shalu con Rashi, pero rotsó de que sí. Dice: el balchuve."
 },
 {
-"startMs": 691000,
-"endMs": 695000,
-"speaker": "Speaker 2",
-"text": "Necesita a alguien que le venga a enseñar la otra parte. Es de que del juegos."
+"startMs": 191960,
+"endMs": 199120,
+"text": "Aquí vemos que Rishlokish, digo, esto no es todo rotsóid, pero se ve así la Gemara. Gemara nos contó que no pudo regresar."
 },
 {
-"startMs": 695000,
-"endMs": 740000,
-"speaker": "אופיר סגל",
-"text": "Entonces, hasta el yatit cameikol milsen. ¿Dava? Omar Rapiojono, nada más le. ¿Tany no me sale? ¿A lo que dices? ¡Amar! ¡At que barlaquisha! Dice \"Tú eres como rich loquis, para la quisiera que ya viene milte, maxelling\" \"Foch me traía más José, que me traía 24 shellot\" \"De stream barba kusyata\" \"Un ferkinen la stream barba piruke\" Entonces yo le tenía 24 respuestas. \"Con eso, ahorita su hombre, tenía bituy, me va a tomar Tania de mesayala, y ahorita me traes rayos, a tu lo de dana el shapir y camina\" No sé qué estoy diciendo bien, este shapir es el mismo shapir de Rapi."
+"startMs": 199140,
+"endMs": 205500,
+"text": "¿Por qué? Porque aquí vela la voltora. ¿Por qué iba a regresar? ¿A agarrar qué? Sus kelim. Sus kelim. ¿Qué, qué kelim iba a agarrar?"
 },
 {
-"startMs": 740000,
-"endMs": 774000,
-"speaker": "אופיר סגל",
-"text": "Shapi. Shapi bien. Y arriba era Shapi de Shapire. Sí. Aquí lo que yo no sé que era ni Shapi, ni olas ni Shapi. Sí. El dedo de Rayot, fíjense, arriba, ve a la hermana arriba, dice: Iman de bai de mir de sufre de Rapiojo. El que quiere ver cómo se veía el Jofi de Rapiojo. Está arriba, dice: Naite casa de caspa que traiga un, Kos de késef, de plata, mi beisalke, recién salido del..."
+"startMs": 205580,
+"endMs": 215580,
+"text": "De ratero. Asaif, ha piguión, ha romaj. Claro. ¿Majón? Claro. Esos los que, que agarró. Y de repente, al final te dice que Rishlokish entendía el masejet kelim."
 },
 {
-"startMs": 774000,
-"endMs": 816000,
-"speaker": "אופיר סגל",
-"text": "igual que el saquín, recién salido del horno. \"Venim lai particidaia de romana\", que lo llene de garinim de rimón, que son rojos, rojos, zumka, rojos. Ven a darle clila de barda, zumka, que ponga rosas rojas, en su... en su borde, le pume, ven nut ve, ben shim chaletul, y que ponga esa plata recién salida del horno con rojo, rojo, rojo adentro, de alguna manera a lo mejor se transparenta porque está recién salida del horno y el rojo ahí, cae el sol, es una luz y se refleja sobre la sombra."
+"startMs": 216240,
+"endMs": 223540,
+"text": "Eso tomere que de hecho él cambió sus kelim de ratero a masejet kelim. ¿Me explico?"
 },
 {
-"startMs": 816000,
-"endMs": 853000,
-"speaker": "אופיר סגל",
-"text": "\"Auza harure, me en shufre de rabbi ocho\", ese zohar que hay ahí, es el shufre de rabbi ocho. Más que tú, que la única manera de reconocer el solar de rapeó el jonón, es en la sombra. Entonces quiere decir que Rishlokish, Betzen va a ser... De la misma manera que Raprio... ¿Piensas que nada más Rishlokis necesita rapeó el jonón? Aquí es el gilui que rapeó el jonón, sin el tula, sin el joshek, entonces no se refleja su... Entonces todo el olor de rapeó el jonón, entonces aquí hago un choque tremendo, cuando Rishlokis le dijo \"no te necesito, jala estaite\""
+"startMs": 223800,
+"endMs": 237560,
+"text": "Lo malo. Él cambió sus kelim de ratero a masejet kelim, a los mismos kelim. Entonces, mi mail él es el que me viene en masejet kelim. Y entonces, acá hubo un gilui, que aquí es cuando Rishlokish, besof yamá, pudo regresar de emet por sus kelim."
 },
 {
-"startMs": 853000,
-"endMs": 885000,
-"speaker": "אופיר סגל",
-"text": "¿Sí? ¿Hala estai terapeujo? ¿Ma que van a Hala estai terapeujoon? Entonces dijo: Ok, aniló a City Loclub. ¿Sí? Y entonces se murió Richlokis, pero Richlokis no no entendió que él te vio estaba. También estaba Richlokis. ¿Cuál es el esfero? Porque su... es lo que dice el mismo Rapiojon le explicó: \"Ad que Barraquisha, dice que me traigas rayot, que me pongas más cosas, más luz\". Dice yo no estaba la sombra para reflejar la luz. De tu mención estaba alguien que me haga Kushiot, que me haga José, que es mi maile, con eso mi maile, Rafa Schmein."
+"startMs": 238560,
+"endMs": 245200,
+"text": "Tomere entendió lo que estaba buscando antes, nefaj liot que es torá. Quilo, ufaj, ese joshe, ufajato var leor."
 },
 {
-"startMs": 885000,
-"endMs": 888000,
-"speaker": "Speaker 2",
-"text": "Eso fue la Taina de Rislokis ¿Eh."
+"startMs": 246100,
+"endMs": 253680,
+"text": "Es el koaj de Rishlokish, liot balchuve. Entonces, acá le dice rabí Yochanan, le dijo: listin belistiut haioda."
 },
 {
-"startMs": 888000,
-"endMs": 903000,
-"speaker": "אופיר סגל",
-"text": "Sí, los dos tienen Betsem la misma Taina, ¿Sí? Sí, exactamente, esa es la Taina de Rislokis Dice, mi hor, Betsem es tuyo Entonces cierto aspecto muy amor, sale que Betsem También el coach de Rislokis, que le hace a todos los que se encuentra rápido. ¿Sí."
+"startMs": 253880,
+"endMs": 255300,
+"text": "Dice: atá me vin belistiut."
 },
 {
-"startMs": 903000,
-"endMs": 918000,
-"speaker": "Speaker 2",
-"text": "Pues sí, estuvimos en la semana algo de que en la oscuridad se ve más la luz, ¿no? Lo vimos en la semana, algo vimos. Bueno, pues aquí está, con que tenga la oscuridad acá. No me acuerdo. La luz obviamente se va a apreciar más en la oscuridad."
+"startMs": 256540,
+"endMs": 259940,
+"text": "Le dijo Rishlokish, quilo un tipo de desprecio, un poco, ¿sí?"
 },
 {
-"startMs": 918000,
-"endMs": 950000,
-"speaker": "אופיר סגל",
-"text": "Yo digo que sí, es nada más. La subida arriba, aquí mismo, es lo que dice sobre el que quiere ver el sufra rápido que se muere. ¿Eh? Oh, entonces ¿qué pasó? Adekhazil, Avakhazil, dice, el karamani, rompió sus ropas, de kabah y lloró. Ekad bar la kisha, llamar ikad bar la kisha, ikad bar la kisha, veva katsavakh, gritaba, gritaba, de shaf daite. Minehi, baur ra bon un rahme alehi."
+"startMs": 261480,
+"endMs": 270080,
+"text": "Dice: no me discutas, eso, eso, bueno, tú, tú me discutes, porque eras listín, pero la gente me viene. Y entonces acá, Rishlokish me galelo algo rabí Yochanan."
 },
 {
-"startMs": 950000,
-"endMs": 985000,
-"speaker": "אופיר סגל",
-"text": "¿Por qué no lo revivió? Aquí, este es el Aishufra de Balevafra. De Rabbi Ojonon, hay sufra de Vale Veafra, que estaba llorando Rabiel Azar, que en Ires este Rabiel Azar, y ahora Rabiel Azar se ve que él, pero sí lo levantó, la cámara de nosotros cuenta que también le dio la mano. ¿Quién a quién? ¿Rabbiel Azar a Rabiel. No, no, eso fue Raujanina. Yo estoy hablando acá, Rabi Ojanan a Rabiel Azar. Rabiel Azar es el que entendió el sufra de Rabiel Azar es el que llora."
+"startMs": 270220,
+"endMs": 277260,
+"text": "Le dijo: yo-- tú tienes el koaj del or, pero yo tengo el koaj de la afój, el joshe cleor."
 },
 {
-"startMs": 985000,
-"endMs": 1016000,
-"speaker": "אופיר סגל",
-"text": "¿Por qué ahora? ¿Por qué él entendió que me mete el \"Ai Shufra de Vale Beafra\"? En esta historia, Canileras acá, Canileras estaba enfermo, ¿sí? Rapiel Azar, él entendió que ya esto... \"Ai Shufra de Vale Beafra\". ¿Rapiel Hana. Sí, ahorita yo quiero. Ver la de Rojanina, ahí viene Rojanina, ahorita vamos a pasar aquí, también, más adelante. Entonces, acá está increíble. Rapiel Hana. Escucha eso, escucho cómo es."
+"startMs": 277680,
+"endMs": 288440,
+"text": "Y dice: ya, que yo tengo el koaj de la afój del joshe. ¿Qué hizo aquí con las palabras? Atá rebicaruli acha, rebicaruli. Bueno, no, no lo escuchas. Entonces, dice, dice, dice: yo tengo el koaj de la afój eta joshe cleor."
 },
 {
-"startMs": 1016000,
-"endMs": 1026000,
-"speaker": "אופיר סגל",
-"text": "Rabiel Azar, Beetzem, es el que notó, en él se notó como Rabió y Hanan ya no... ya perdió su sufre. ¿Me explico."
+"startMs": 288760,
+"endMs": 294980,
+"text": "Ve sé koaj sheén haja. Entonces, le dice: tú en ajin ami, vadai que me hiciste teshuvá, ¿sí?"
 },
 {
-"startMs": 1026000,
-"endMs": 1031000,
-"speaker": "Speaker 2",
-"text": "¿Por qué? Porque hay oscuridad. No había otra."
+"startMs": 295420,
+"endMs": 307340,
+"text": "Tú me hiciste teshuvá. Entonces, tomere, yo era Rasha, ahorita yo soy tzadik. Pero yo ahorita, este tzidkut lo agarré tan amok que afajti beemet mi resha, de antes, a tzidkut."
 },
 {
-"startMs": 1031000,
-"endMs": 1064000,
-"speaker": "אופיר סגל",
-"text": "¿Qué pasó en esta suya? En nuestra cama estaba llorando. No, en esta. ¿Por qué Rabiel Azar aquí? Es el que nota que Rabí y Hanan ya... Claro, porque porque ya no hay nadie que dice ya no sirve, ya no hay más brutal. Exactamente, entonces justamente Matí mucho que Rabiela Sariore. ¿Me explico? Matí mucho que Rabiela Sariore. Porque van a la par. Son de la misma shitana aquí. Sí, entonces él ya está viendo que Rabio Hanan ya no tiene Jiut. Entonces Mimel Rabiela Sariora porque Rabio Hanan no tiene Jiut."
+"startMs": 308420,
+"endMs": 315660,
+"text": "Nimtsá que be etzem hoy le mafré yo soy rebi desde que era ratero. Yo ya era rebi desde que era ratero."
 },
 {
-"startMs": 1064000,
-"endMs": 1098000,
-"speaker": "אופיר סגל",
-"text": "Entonces, ¿de quién me cabe el Jiute, Rabio Hanan? Dafka de alguien que es, Entonces tenemos dos mitos, uno que se llama Sinai y otra que se llama Oker Harim. Sinai es rabiójana, la Torah como la recibiste en Sinai es el orden. Oker Harim son, Be'etzem es todos los otros Harim, todos los Arsinai Be'etzem de todos los Umota Olam, de todos los Umota Olam, todas las filosofías, de todos los Umota Olam, ellos también tienen sus Harim. Entonces hay gente que va al Josher y dice ah los Yevanim."
+"startMs": 316180,
+"endMs": 323280,
+"text": "Entonces, nimtsá que lo-- atá lo ajartot de teshuvá, porque ve etzem nunca era Rasha. Lo que habíamos visto- Nefajim les juyot."
 },
 {
-"startMs": 1098000,
-"endMs": 1129000,
-"speaker": "אופיר סגל",
-"text": "así? Bueno, hay quien te dice esto, pero ahí el que sabe la creja le mete, el que sabe la creja le mete es el que conoce a los otros Ari, conoce a los otros y dice, no, el único ark que hay aquí es Sinai. ¿Me explico. Y eso le da. Y eso le da a Sinai más luz, ¿sí? Se cande le da más luz a Sinai, Sinai no sabe, porque Sinai piensa yo soy el que le da a los... Él nada más mogía lo que yo tengo."
+"startMs": 323680,
+"endMs": 331000,
+"text": "Quilo el que es echó a nava, afuj, tú al saber lo que hiciste- Claro, porque Meziuz lo regresó. El rijuque ese te provocó un kiruv más fuerte."
 },
 {
-"startMs": 1129000,
-"endMs": 1165000,
-"speaker": "אופיר סגל",
-"text": "Pero el mamá dice, eso no me da a mí. Y aquí el vorte, no. Esto es lo único que hace que tu hora sea mujer y mi pasión de todos los lugares, hasta Babel y a todos los lugares. Entonces, Rishlokish para meter a Oquerari. Sí, me dice que es roer, Rishlokish para los medres. Allí donde, que, lo que es que está arriba, esta es la mitad de Rishlokish. Entonces, quiere decir, ¿qué le da hora rápido al canan? Rishlokish. Sí, es lo que le da ahora rápido hijo. En nuestra seguridad cuando se enfermó rápido, en esta ciencia, puede ser antes, puede ser después, sí."
+"startMs": 331660,
+"endMs": 342560,
+"text": "Entonces, mi mail sale que el rijuq, que todo lo que estaba yo rajó, salió que eso me hizo el karef más. Quilo acá es, el chama que nefajim les juyot, la saberot nefajim les juyot."
 },
 {
-"startMs": 1165000,
-"endMs": 1200000,
-"speaker": "אופיר סגל",
-"text": "Pero el quién le da ahora, justamente? Rabjanin. Sí, Rabjanin. Entonces vean aquí, aquí dice hambre, en el señor. Abraham Pehem Amud Bet. ¿De dónde es? Ahí mismo, vamos adelante. no sé si vienes de él si no vienen pues podríamos ver toda porque casur desde antes sí pueden ver aquí en el sexto renglón largo voy a ver un poquito."
+"startMs": 342820,
+"endMs": 349220,
+"text": "¿Qué pasa en este momento con nefajim les juyot? Quiere decir que él era tzadik también cuando era ratero. También era rebi en ese momento."
 },
 {
-"startMs": 1200000,
-"endMs": 1231000,
-"speaker": "אופיר סגל",
-"text": "¿Si? Ama Rabjama. Si es Rabjama. Vai diktib. Te he am Udbet como quinto renglón. Ama Rabjama vai diktib belev nabon tan nuah khokmah. En el Lev de alguien nabon, ahí va a la nuah khokmah. Ubi querev kzilim. Y adentro de alguien kzil, de alguien tonto tifadea. Se va... se nota a fuerza, afuera. ¿Si? ¿Quién era el Nevon? ¿Quién era el Nevon en la Torá? En ich kham ben navon kamoh, ¿quién era?"
+"startMs": 349340,
+"endMs": 350440,
+"text": "Guau. No nomás hoy."
 },
 {
-"startMs": 1231000,
-"endMs": 1262000,
-"speaker": "אופיר סגל",
-"text": "Yosef, era el Nevon. En él, la khmah nah. Tanuach, Yohanan, sí, Tanuach. Belev navon, Tanuach, Pero belev kzilim, en alguien que no tiene khmah tibadea, la khmah grita. Vamos a ver qué es eso, dice: Belev navon tahmah de Talmid khakam ben Talmid hakam. Tzadik ben sadik. O sea, ¿Quién? Yosef. Rabioh, alguien que está adicto a la vida."
+"startMs": 352420,
+"endMs": 354280,
+"text": "Punta buena, ¿eh? ¿Eh?"
 },
 {
-"startMs": 1262000,
-"endMs": 1294000,
-"speaker": "אופיר סגל",
-"text": "Ubi, creo que si liente ve adea. Zet al mid hakam ben amarit. Tom meret el balchube. Hay... Amar ula, Ainu da hambre insen, ister habele gina, kish kish karia. Cuando tú tienes una moneda, hace más ruido. En una... está vacía, suena. Entonces aquí dice hay dos torot. Talmid hakam. Ahí viene Benaj, se siente lleno. Ya, llega la torre. En el balchúe."
+"startMs": 355680,
+"endMs": 364080,
+"text": "Entonces, lefí hoy. Hoy en día- Atá lo ajartot de teshuvá. Pero el Meziuz sí lo regresó. Está bien, pero esa es la ninut que hay."
 },
 {
-"startMs": 1294000,
-"endMs": 1328000,
-"speaker": "אופיר סגל",
-"text": "¿Por qué? Porque me ven meir todo un josé. Cuando me cae en un vacío, entonces mi mail le llena mucho. Que les ven a quish, quish, loquis, loquis. Ahí viene, la hermana se pasa a hablar de Rápido Hanan Luis loquis. Ven quish y xeminis. Me voy a... Ahí está, ya sabes que es así. Justo al revés. Ah, al revés. Dice... \"Reshlokis, primer reglo largo, me salto una membrana de rosteria y que te quemó, no tiene que ver, pero..."
+"startMs": 364140,
+"endMs": 370144,
+"text": "La mikuaj estaba ahí. ¿Eh? Estaba en koaj. No, es be koaj. Hoy... Ya me he fijado las zoyotas, entonces hoy no me puedo rasar."
 },
 {
-"startMs": 1328000,
-"endMs": 1358000,
-"speaker": "אופיר סגל",
-"text": "\"Reshlokis sabe me sale harta de rapón\". \"Reshlokis, él, con Roja y Codes, podía saber dónde están los Meharots enterrados que no, que no sabían vidium Supura. Aquí mata a la Meharte de Rabijia. Cuando llegó a la Mehara de Rabijia, y a Almemine no la pudo encontrar. No la pudo encontrar. ¡Halazdaite! El premio."
+"startMs": 370704,
+"endMs": 378464,
+"text": "Entonces le dijo Rab Yochanan, este, este es el hombre de la Tane, que le dice Rish Lakish. Hoy, a su paso del Dabar, yo ya-- ya-- ya conseguí la forma de el Joseph Leon."
 },
 {
-"startMs": 1358000,
-"endMs": 1399000,
-"speaker": "אופיר סגל",
-"text": "Dice, ¿cómo puede ser que ya no encuentre Rabijia? Amar. Como que no era nada más un niño de la ubicación donde él. Camoán, ese de encontrar su Makoma Roujani. Como el cobro o algo, sí. Amar Rib Boy no solo hilo. Lo palpaldito, como todo. que yo no tuve pilpul como él, o sea la mitad de Rislakish, es el pilpul. Y entonces Rabhia su mitad era el pilpul. Vamos a ver que no nada más era el pilpul, Rabhia era un chif de los dos mil dos. Y entonces mi meile, aquí en la recordar es que él no encuentra Bhemeta Rabhia, dice, porque él dice, él pensaba que lo tiene que encontrar, mientras que él es el Shleimus del pilpul."
+"startMs": 379804,
+"endMs": 386104,
+"text": "Entonces le Tane Rab Yochanan, es lo que dice esto. Rab Yochanan le dice: «Mira, en Ajíname que tú saptas, ¿no?»."
 },
 {
-"startMs": 1399000,
-"endMs": 1430000,
-"speaker": "אופיר סגל",
-"text": "Mi vele yo tengo que encontrar Rabhia, estaba el Kol Bam Brallo, Tora que moto pilpalta. ¿Me meten pilbull? Sí. Pero Tora que moto lo ribatta. ¿Qué es ribatta? No enseñaste. ¿Eso quién lo hace? ¿Qué mitad te faltó? ¿La mitad de quién? ¿Rapiojo no. ¿Por qué? Porque Rabijo no nos enseña, porque es como Shemesh. Es el Shemesh. Sí, Shinai. El otro es el pilbull, es el kerori. Uno enseña Tora, cuando está la torá, la jalas. El otro es cuando se olvida,"
+"startMs": 387124,
+"endMs": 389604,
+"text": "Es también que el bala meme es un yumen, que dice"
 },
 {
-"startMs": 1430000,
-"endMs": 1464000,
-"speaker": "אופיר סגל",
-"text": "cuando hay joshakatamahatiriratabe pilpul. Entonces acá dice, te faltó la mitad de rapiojo, no, la genata lo mestigo. ¿Dónde pasó en la historia que a Rishloki le faltó el orden de rapiojo, no? En la historia que vimos atrás. Que Rishloki le dijo rapiojo, no, no. Dice, yo, ya que yo soy bala pilpul, akhazam, otra madre te hazarte ta Choshech clavo, ¿sí? Entonces mi mail no tengo, entonces mi mail, Aquí vejo le faltó al reshlokis, el helek ¿de quién?"
+"startMs": 391224,
+"endMs": 398104,
+"text": "que nos fijamos en los zoyotas, es Rish Lakish. Sí, es el bala meme en yuma. Rish Lakish es el que dice que nos fijamos en los zoyotas."
 },
 {
-"startMs": 1464000,
-"endMs": 1497000,
-"speaker": "אופיר סגל",
-"text": "\"Rabbiolhon\". Entonces dice, \"Kiavumanse\". ¿Quién es? Se peleaban, ¿quién y quién? \"Rabjanina, rabkhi\". Este es nuestro rabjanin. Ellos discutían. \"Amar la rabjanina\", van a ver cuál es el quad de rabjanin. ¿Sí? \"Amar la rabjanina, la rabhi\". \"Behadididikamintzat\". Sí, muy parecido a quién. No, dice, tú te peleas conmigo, dice Jasveh Xolo, y mishtak ha toi lo mismo."
+"startMs": 398644,
+"endMs": 408524,
+"text": "Entonces, entonces acá, בעצם, aquí hay un vicuaj muy amok. Que Rab Yochanan le dice: «Leamaise, yo fui tu or, que has sido tu habituá»."
 },
 {
-"startMs": 1497000,
-"endMs": 1528000,
-"speaker": "אופיר סגל",
-"text": "Si se le olvida la Torá de Israel, dice Rabhanin, Rabhina, me adarlanami pilpuli. si se olvida la torá yo puedo regresar la torá con puro pitbull o sea cuál es el coso de raujanina el coac de pitbull legalote? Rabjanina con Richlokis. Exactamente. Y Rabjia con Rabjia tiene los dos. Tiene los dos. Dice el Opi Palti que montó."
+"startMs": 408924,
+"endMs": 414164,
+"text": "Y entonces le dice-- y entonces acá Rab Yochanan le dice: «Espérate, tú algún día eras Rasha»."
 },
 {
-"startMs": 1528000,
-"endMs": 1555000,
-"speaker": "אופיר סגל",
-"text": "No, pero él tenía otra cosa. Dice: \"No, mi coja es al revés. Ab de la Torá, el lotis toca. El celular no se va a olvidar. Dice: Si yo estoy, la Torá no se olvida. Tiene cosas rápido. Y ese es el gestalón de que Richlokis, no me siguen, Rabjia. ¿Sí o no? Si él está solo, se va a olvidar la Torada Israel. Se va a olvidar la Torada Israel."
+"startMs": 415484,
+"endMs": 421624,
+"text": "Y entonces por eso le dice: «Listen, pero listen, te digo». Dice: «Soposh andavar, no puede ser la halajá aquí como tú»."
 },
 {
-"startMs": 1555000,
-"endMs": 1557000,
-"speaker": "Speaker 2",
-"text": "Sí, entonces... No hay caída."
+"startMs": 422424,
+"endMs": 431404,
+"text": "Fíjate qué dice. Porque mi opinón a ti, mi opinón a ti tú eres Rasha. Tú no puedes traer a Lojes del momento que, de, del momento que era Rasha."
 },
 {
-"startMs": 1557000,
-"endMs": 1587000,
-"speaker": "אופיר סגל",
-"text": "Rabjia dice, yo puedo decir la Torada Olvidada, y Rabjia dice, yo hago que no se olvide. ¿Yo qué hago? Entonces enseña aquí cómo le enseña la Torada a los niños. Lo vamos rápido porque quiero llegar a Rabjano Nava. Meiga vitne as dil na ve shadinakit na vegadinne nisch va vet saidana tave. Planto... algodón. Vega dilna nisch ve. Y un tipo de telas."
+"startMs": 431464,
+"endMs": 439324,
+"text": "Él dice: «Sí». Él dice: «Espérate, ¿cómo no?». Hafati etse. Dice: «Ani, hasta como se Hafati etse, entonces, בעצם, la halajá es davka como yo»."
 },
 {
-"startMs": 1587000,
-"endMs": 1622000,
-"speaker": "אופיר סגל",
-"text": "¿Para qué? Para hacer redes. Para que con esas redes yo pueda cazar zvi. ¿Sí? No compraba redes. Él las hacía con sus propias manos. Las sembraba. Y las sembraba, desde las sembraba. ¿Para que usaran las redes? ¿Para hacer redes? para que con eso cazar venados, umajin la bezareh ilei atme, y le doy de comer aa ye tomim, verik na megilta, y escribo meguilot, vekativ na hamisha jumse, y escribo los kumashim, todo él lo tiene que hacer."
+"startMs": 439924,
+"endMs": 446584,
+"text": "Y Rish-- Rab Yochanan le dice: «No, espérate. Ya que yo soy el que te hizo tu habitué, entonces, mi mele, en ese momento tú eras Rasha»."
 },
 {
-"startMs": 1622000,
-"endMs": 1653000,
-"speaker": "אופיר סגל",
-"text": "¿Me explico? Todo, Abodatya, de Salik na lematna, umakri na jamisha yemuke, y les enseño a cinco niños, bakhamisha jumse, torá, Umaknita, shita, yanuke, shita, sidra, vishna, shita, sidra, y enseño a los niños 6 diarim, vamana leu, a dar na veatina. En lo que voy y vengo a traer más comida, ustedes enseñan-sen. Mi coach es que no se olvide, el quiere vetten la meshikh lore de la manera más tora."
+"startMs": 447484,
+"endMs": 452384,
+"text": "Entonces, mi mele, aquí hay dos, dos, dos, dos, dos istakluiot, que Rab Yochanan es el que te hizo tu habitué."
 },
 {
-"startMs": 1653000,
-"endMs": 1685000,
-"speaker": "אופיר סגל",
-"text": "Dice, en el momento que compra una red, el vetten tiene el coach de la meshikh lore, tiene de la manera más tora, a los niños. ¿Por qué a los niños? Porque ellos están todavía muy teoritos, todavía no tienen ni idea. Y mi mail puede hacer que los otros dicen. Entonces, el cual es \"Rabhi\". Ahí no se llama \"Rebbi\", y come todo el maize hi. Ve los gdolinus mazim de \"Rabhi\". \"Ama la rabi small rabies y afilumimar\". Es más grande que tú. \"Rebbi si es más grande que yo\". Dijo \"Afilu me haba\"."
+"startMs": 453664,
+"endMs": 464684,
+"text": "Y entonces, de ese aspecto, él era Rasha Ujad Albichué. Pero Ajrá Sujad Albichué, Rish Lakish, aquilo se fue y tiken a filho el, el abar, de often que kibejol hoy no es batsú."
 },
 {
-"startMs": 1685000,
-"endMs": 1705000,
-"speaker": "אופיר סגל",
-"text": "Es más grande que \"Filum bin Gambie\", el papá de Rebbi. Amarle, Jasbet xolom. Lote de Razbak es papá de Rabi? Sí. Jasbet shalom, lote hekas otbitsu. Y ese es el rasvak de nosotros. El hijo de Rabanyamlien. Ah, espérate, el rash rabishi mon benga seglien. Namlien, su papá."
+"startMs": 465324,
+"endMs": 474444,
+"text": "Ya es sadigamur koliama. Entonces, ese es el vicuaj acá. Entonces, acá el home que es que los dos tienen un problema."
 },
 {
-"startMs": 1705000,
-"endMs": 1708000,
-"speaker": "Speaker 2",
-"text": "El rabí es este, cuengado, este? No."
+"startMs": 475804,
+"endMs": 482184,
+"text": "Los dos tienen un problema. Tanto Rab Yochanan y tanto Rish Lakish. Ahorita vemos cuál es el problema de los dos."
 },
 {
-"startMs": 1708000,
-"endMs": 1738000,
-"speaker": "אופיר סגל",
-"text": "No, no es este. Entonces esta es la especialidad que vimos, que él decía, no, aquí lo... Lo culam, viejo libro, es para el gas Otis, en criación del fatan. Fíjense, quiero leer esto. Entonces Rappion, fíjense que pelo. Simón el hijo de Sambliel de Rappi. Escuchen. Rislokis no puede la sig el lugar de Rappijia aquí en la tierra. ¿Por qué no puede la sig el lugar de Rappion? Porque no tenía el pelek de Rappion."
+"startMs": 482244,
+"endMs": 487584,
+"text": "Dice... Halas Daite, Rab Yochanan, Halas Da-- Ji, ji, dice..."
 },
 {
-"startMs": 1738000,
-"endMs": 1768000,
-"speaker": "אופיר סגל",
-"text": "Este es el Halas. El Halas de Rislokis, el kiru y el Halas de Rislokis de la subida de atrás. Fue en que no pudo encontrar la mayoría de Rap-G. Claro. Ahí es, ah, tu Kilu, no dependes del Rap-G. No vas a encontrar el Rap-G. Ahora, ¿qué pasa con Rap-G? ¿Ahí un Rap-Jonón puede la siga Rap-G o no puede la siga Rap-G. Ahora sí, pero Rap-G, ¿qué tenía Rap-G? Que no tenía Rap-Gonón, ahora. Pitbull. El pitbull. Porque resultó que dijo, lo pilpal."
+"startMs": 488844,
+"endMs": 496004,
+"text": "Halas Daite, Rab Yochanan. Rab Yochanan, Halas Daite. Clomar, aquilo sí le ganó en Aguid, en la pelea."
 },
 {
-"startMs": 1768000,
-"endMs": 1790000,
-"speaker": "אופיר סגל",
-"text": "¿Y de dónde sacó el pitbull de Rap-G, de Rophanina? Me meto a José en las Kabrusén. Rojanin era el Balapilpool. Robjie era balas de. Y cada uno me me tenía un coach, Mashlim. Entonces Robjie se hizo Valpilpool, me corrió Robjanin. ¿Me explico? Entonces la mera cuenta ha sido una historia muy..."
+"startMs": 496603,
+"endMs": 500364,
+"text": "Aguid, ¿sabes qué pasa? ¿Eh? Aquilo sí le ganó con lo que le contestó."
 },
 {
-"startMs": 1790000,
-"endMs": 1792000,
-"speaker": "Speaker 2",
-"text": "¿Y por qué era viajando."
+"startMs": 501944,
+"endMs": 509524,
+"text": "O sea, se, se, se sintió Rab Yochanan. Sí, no, no, porque le dijo: «Tú no me hiciste nada». No, ahorita, mi opinón a ti, ani qua, ta qua lo jazarta ti bichué, ¿sí?"
 },
 {
-"startMs": 1792000,
-"endMs": 1824000,
-"speaker": "אופיר סגל",
-"text": "No se hizo Valpilpool también. ¿Eh? Porque Rabijonón también dijo... \"Ah, no me necesitas\". Entonces no me necesites, vas a ver que significa no necesitarlo. Y entonces el kiviajol, el dakuta acá, es que Rabiojonono también estaba reshlokis. Entonces, ya que Rapiojonono también necesita reshlokis, entonces le falta kiviajol, el koja de reshlokis. Entonces vamos a ver si la hermaran también expresa el koja rabioi kononon, mulobje. Sí, vamos a ver, dice."
+"startMs": 509884,
+"endMs": 514323,
+"text": "Entonces, Halas, Rab-- Daite, Rab Yochanan. Fíjense en esta gemara, Rab Yochanan Jalash."
 },
 {
-"startMs": 1824000,
-"endMs": 1854000,
-"speaker": "אופיר סגל",
-"text": "Amar Rabzeire, em smireali, rabioizi rabijanina. Dice Rabdeir él estaba dormido y vio a Rabbius y el hijo Rabjanina. Rabius y Rabjanina había fallecido. A Marti lo esta el mia tetaku. ¿En dónde? ¿En qué mes me dice en el Shamai me estudias ahora? A Marlene, Rabio hijo no. Dice, yo estoy toda rabio hijo no. Pero Rabio hijo no, no es el mi, es el rabianai. Pero Rabiana es el mi. Rabjanin. Rabiana estudia Rabjanin."
+"startMs": 515524,
+"endMs": 522044,
+"text": "Está suya. Rab Yochanan Jalash, ¿okey? Entonces, dice: «Halas, Rish Lakish, se enfermó Rish Lakish»."
 },
 {
-"startMs": 1854000,
-"endMs": 1885000,
-"speaker": "אופיר סגל",
-"text": "¿Rabjanina con quién? Es el mi. Es el que... Robjanin es el que... Robjanin siempre necesita a veces la mejor de Robje. Entonces vemos que Robjanin si podía estudiar con Robje en su madre. Amartiló... Pero Robje no estaba con Robje. ¿Cómo es allá que Robje no estaba con Robje? ¿Rbjet en la misma madrugada. Si dijimos que tiene algo más? Oh, este es el punto, pero este va a ser el chua."
+"startMs": 522104,
+"endMs": 528184,
+"text": "Es que fue cuando vinieron a levantar a Rab Yochanan. Rab Eliezer, ¿no? Ahorita va a venir Rab Eliezer."
 },
 {
-"startMs": 1885000,
-"endMs": 1915000,
-"speaker": "אופיר סגל",
-"text": "Sí, entonces, Rabiojo no tiene rabia, amarly, ve atar de dicooking de nura, ve urin de examan, hay el barrafa caletamán, en un lugar donde está lleno de fuego, dicooking de nura, ve urin de ella, que entra rabiojo no naí. ¿Sí? Es que está pasando acá, ahora rapeo el khonon, él es el que no, el que le falta llega al lugar de Rokhie. Antes hablamos de la suya como Rislokis en la tierra no encuentra a Rokhie."
+"startMs": 528664,
+"endMs": 533564,
+"text": "Ahorita va a venir. Es Rab Eliezer. ¿Sí? Ahorita vamos a ver. Dice..."
 },
 {
-"startMs": 1915000,
-"endMs": 1945000,
-"speaker": "אופיר סגל",
-"text": "Ahora Rapyokhonon en el Shamain, no encuentra a Rokhie. Porque Rokhie tiene \"Dikukin de Nura ubeurindesha\". Que es el \"Pilpool\"? Ahora, ¿qué es el \"Dikukin de Nura ubeurindesha\"? No, son los dos cokoskuntos. Dice \"Rashi\", es \"Kikukin de Nura, dice Rashi\". Lapid esh, no lo estoy viendo, no sabes esto. Así me acuerdo que lo dice Rashi, lapid esh. ¿Qué es lapid esh? ¿Dónde hubo el taesh beta lapidín? ¿Dónde hubo eso? ¿Mamar Zinak?"
+"startMs": 534844,
+"endMs": 541404,
+"text": "Rab Yochanan es Halas Daite, no se enfermó. Bueno, ahorita vemos. Es que es Daite. Sí, sí, sí. Espérate, espérate, espérate, vamos a..."
 },
 {
-"startMs": 1945000,
-"endMs": 1989000,
-"speaker": "אופיר סגל",
-"text": "Tutomed... ¿Sinak? No, pero este es el codo de arsinak que tenían los dos cojot juntos. Cuando fue el Mamar Zinaibak, el otro dicho no, ahí fue, hubo juntos Zinaibau Kerarin. Hugo Kilu de Arsinai, y también todos los Goim, ¿verdad? El primer lujot de Xoomo, ¿eh? Es el Oi Kerori, acá todos los demás ahí. El primer kilu hizo tomar este Vitel el Malajama, Vitel el Ra, Vitel el Yet Sahara, el primer kilu de Arsinai, tenían los dos cojot juntos, no nada más se entregó la torada como viene de arriba, y hay José alrededor, entonces vete, fíjense."
+"startMs": 541724,
+"endMs": 550864,
+"text": "Dice: «Halas, Rish Lakish, se enfermó Rish Lakish. Atae achte kabajit». Se enfermó, eh, Rish Lakish y ya estaba muriendo."
 },
 {
-"startMs": 1989000,
-"endMs": 2019000,
-"speaker": "אופיר סגל",
-"text": "El \"Koja Rapyoi Konon\" es \"betem el Sinai\" de Lukochno. Si se hubieran unido el Rapyoi Kon los Rislokis, serían un matado que Lukochnot se unen. O sea, ¿qué quiere decir? Que el Lukochnoi, el Koch del Oikerorin, y el Koch de Sinai se unen. \"Betem sei a la gula\". Ahora, o sea, es \"betem el bkoch la gula\". Pero por qué, él tenía los dos cojot juntos. Entonces, el Koch de Sinai, Y el quedarin, entonces toma el otro y yo no, juntas, ese es el como de Raphi."
+"startMs": 551384,
+"endMs": 560984,
+"text": "Y vino la hermana de Rab Yochanan, o sea, la esposa de Rish Lakish, y empezó a llorarle a Rab Yochanan: «Al takpis». Amrale, hace bich vilbanai, no lo hagas por Rish Lakish."
 },
 {
-"startMs": 2019000,
-"endMs": 2052000,
-"speaker": "אופיר סגל",
-"text": "Ahora, Raphijo en los Richlokis ya estaban, Raphi era todo el tiempo de los Tanain. En el tiempo de los Samorain, que ya es el Galuth Mazamo, Talud Babli, el tiempo de los Samorain, ya era Rapjo en Richlokis. Entonces, ahí Rapjo en los Richlokis, que ya está en el tiempo de los Samorain, es mucho más difícil unir los dos cojotes que se llaman Tanain y Okerain. ¿Qué hizo Robjie? ¿Qué libro hizo Robjie?"
+"startMs": 561164,
+"endMs": 567404,
+"text": "¿Está bien? Con- Por mis hijos. Por mis hijos. Amrale, hazvaya tomai janije. Duro, duro Rab Yochanan."
 },
 {
-"startMs": 2052000,
-"endMs": 2090000,
-"speaker": "אופיר סגל",
-"text": "Todas las baratas. Los tuzefto. Es el libro de Robjie. La época de la Mishnam es muy rápido, hijo, no es pilpu, más la Torá masina, ¿sí? Guemará es mucho más... oikerori, ¿sí o no? ¿Cuál es el Emtan de Mishnay Gumara? ¿Eh? El Emtan de Mishnay Gumara es la Braise. Toda la Gimara lo que hace es agarra una Mishna, la pone frente a una Braise y sale todo el hombre."
+"startMs": 567484,
+"endMs": 575684,
+"text": "Dice-- Rab Yochanan dice, dice: «Yo, yo me encargo de ellos, yo, yo so-me-me-- soy su padrastro». Hace bich vilalmanutí."
 },
 {
-"startMs": 2090000,
-"endMs": 2121000,
-"speaker": "אופיר סגל",
-"text": "¿Me explico? No puede ser Mishna, porque no es tan auténtico en el aspecto de que aquí, mamá, de Kudot como que no tan así, No. Pero por otro lado, tampoco es el Obi Keroim. O sea, es porque es los dos, ¿me explico? El Matzlik me mete a hacer un hipo que haga de todas las Mishnayoti, hermano. Por eso le preguntó, le preguntaron a Rebi. Rebi dijo: ¿Tú eres mi Maiseshin? ¿Más grande Maiseshnai? ¿Mas tú que hiciste mishnai?"
+"startMs": 576084,
+"endMs": 585244,
+"text": "Quiero sobre ella misma, quiero. Amale, me almanutaijalai tiftaj. Dice: «Apóyatenmi». Tanto así que bar minan, nach nafше Rab Shimon ben Lakish."
 },
 {
-"startMs": 2121000,
-"endMs": 2151000,
-"speaker": "אופיר סגל",
-"text": "Dijo: Im. Es decir, ¿por qué? Porque su fosa daba, él agarra el coach de la Mishnat, o pego de la al potencial convertiendo en mano. Entonces, el coach era, es el tiro de Sinai. Si? Si quien de Nura u be urin de esha. Si? Si quien de Nura u be urin de esha, eso no es el esh va a la pidi. Que bueno no es Sinai, hubo esh y hubo la pidi. Entonces, entonces el coach era. Y..."
+"startMs": 585744,
+"endMs": 591324,
+"text": "Pesó Rish Lakish. Entonces, aquí el home de Rab Yochanan es que, demente, aquí es un tal donde Rish Lakish,"
 },
 {
-"startMs": 2151000,
-"endMs": 2183000,
-"speaker": "אופיר סגל",
-"text": "Y que vejo el rapidió, dijo, no? Aquí la llamada viene a contrastar, como el coge de Reslokis, el coge de Raphijo, ¿no? Que es en el Door de los Demorain, cada uno era un aspecto del derraphi, pero no era, pero en los dos veces me había una amina, fíjate como la llamada lo pone para, si la llamada no te das cuenta que Beth, la llamada está poniendo a Reslokis, que aquí lo que no sea acá, parece que nomás está contando tu historia, pero el no sea de acá es poner a Reslokis mulo que, y poner y dice, y hay amamina que me sigo todo."
+"startMs": 592864,
+"endMs": 600544,
+"text": "él no puede entender que, que él podría solo. La única manera de salir del Joseph es por medio de que hay un or."
 },
 {
-"startMs": 2183000,
-"endMs": 2217000,
-"speaker": "אופיר סגל",
-"text": "Jamás balancelo. Y lveego tenemos a Rabbi Yoel con el mvenrapje, a mamín es el testigo todo. Jamás balancelo. Pvees ya no sabes, ya sveya, veno mitad a pinpool, qvee el testigo todo, pero a Ripplets. ¿Lo testigo todo? Y el otro Rabbi Yoel no, deja, no, te faltó en el pool, en el height del... Del pitpool. Sí, ¿estamos claros? Sí, increíble. Entonces, Rav Amram, él es el qvee potencializó el pitpvel de Rappi. Rabbi es sve kora qvee era el Arvit Korap, el Arvit dar, entregar."
+"startMs": 600864,
+"endMs": 612004,
+"text": "Claro. Entonces, después de que-- entonces, lo que nos sacó del Joseph fue Rab Yochanan. Y después de-- el tsiru va Rab Yochanan, un matlia bemente ajrir, eh, eta, eta, eta Joseph Leon."
 },
 {
-"startMs": 2217000,
-"endMs": 2249000,
-"speaker": "אופיר סגל",
-"text": "Josef y es odio, y eso es el qvee más piensa. Pero era Jabrvese de... era Jabrvese de Robhardina. Y sí tenían sves estos, sves bekochin, padre. Dirikamintse, padre, Dirikamintse. Pero se ve qvee Betem en el chama estvevieron jventos de Robhardin y Robhill. Y también en la tierra estvevieron abajo, entonces cada veno era el otro koa. Y repejos no es lo qvee es, Betem al final, Llegó ven matave qvee se separa. Tomer no había tanto en el tiempo de los amoreños, es mvey fácil hablarlo, pero la negodad es qvee es lo qvee acá es..."
+"startMs": 612544,
+"endMs": 620964,
+"text": "Pero sofosh andavar, de jonéj también con Rab Yochanan. En el momento que Rabio-- que Rish Lakish dijo: «Yo soy independiente», entonces se le quitó el jiut, porque todo jiut- Es lo que hemos hablado."
 },
 {
-"startMs": 2249000,
-"endMs": 2281000,
-"speaker": "אופיר סגל",
-"text": "el galvet qvee había en el tiempo de los de... el galvet qvee había en el tiempo de los amoreí, Kivun no permitió qvee haya ese \"ajdvet\" entre Rabijon no Lveislokis. Pichilamonvet, qvee hacer Rabijon los lokis veían en \"Ertzislike\". ¿Sí? Rabijonol es el qvee Chiber Talmvedirivesalmi, no es pilpul. Es Kivun, Ese, pero de la Gveemara. Sí, exactamente, pero ya en Gveemara. El cojo rápido, hijo, no qveieres agarrar el kilo, le ir el José. Ay, José, pero voy a ir esta José."
+"startMs": 620964,
+"endMs": 628643,
+"text": "¿Eh? Sí. Sí, exactamente. Exacto, exacto. Cuando el batsú dice: «Yo no dependo del auténtico», entonces, entonces pierde, בעצם, su jiut."
 },
 {
-"startMs": 2281000,
-"endMs": 2317000,
-"speaker": "אופיר סגל",
-"text": "Pero además de todos los qvee cogí, están escritos, la mayoría en el Babli. Y lveego en Risoqveves. Son también familiares y trae. Este es el cojo Risoqveves. ¿Sí? El histarón qvee hvebo acá es qvee no hvebo vena actveta entre... entre el Pablo y el Rvessalm, y el bebé se hicieron, el bebé son los papás en cierto espectácvelo de la Torá qvee tenemos, pero entonces la Torá ahorita no la tvevimos en sve máximo shlemvet, en sve máximo, en sve shlemvet, además qvee pveeda haber, es el nivel de..."
+"startMs": 628824,
+"endMs": 637924,
+"text": "Tiene todo jiut, es, es mi coje, entonces, aj, בעצם, a, a Rab Yochanan. Pero el problema es que el ajoraí, Rab Yochanan, bemente, es independiente de Rish Lakish, el ajora."
 },
 {
-"startMs": 2317000,
-"endMs": 2352000,
-"speaker": "אופיר סגל",
-"text": "qvee es la Torá Machlema viaja hasta nosotros, pero el pvento es qvee yo entiendo como ha sido la Gibvelá, Es qvee el qvee ha hecho la gente qvee voy a hacer la gibola, es la misma miera aqveí adelante. Nada más qvee deja el koach de... de Rabbi. Tienen Style y Ravjaviva para Zvelmaki. ¿Sí? ¿De dónde íbamos? Style y Ravjaviva para Zvelmaki, Khazelim, Avem Rabbanan de Aveshiaj, Eliahvegave."
+"startMs": 638684,
+"endMs": 644764,
+"text": "Sí, guau. Rish Lakish es independiente. No, entonces, Rab Yochanan, el ajora, él sí es independiente de Rish Lakish."
 },
 {
-"startMs": 2352000,
-"endMs": 2385000,
-"speaker": "אופיר סגל",
-"text": "De le tzafre, Spiranini. Y le hverta también qvee de mi clan Ben Ur. Había ven talmir qvee... el liao estvediaba con él. Un ta'ir, ven talmir. Ahora bien, bveeno, no sé si ta'ir, pero ven talmir qvee estvediaba con el liao. En la mañana, sves ojos eran svespiros. ¿Qveé son svespiros? Pero le hverta..."
+"startMs": 645244,
+"endMs": 652824,
+"text": "Ah, ahí sí. Pero no, ¿por qué no? Dice, fíjense que- Nach nafше Rab Shimon. Va a bacamitzae Rab Yochanan batre tuba."
 },
 {
-"startMs": 2385000,
-"endMs": 2415000,
-"speaker": "אופיר סגל",
-"text": "En la noche también qvee mezcle venvera, parece como si se qveemaron con fveego. ¿A qveién les recveerda a la historia de arriba? Sí, cooking de nvera. Yo me aqveí lo qvee acá hay algveien mvey sapi, mire, pero vete. Avenqvee sea mvey sapir, tenga mvecha lvez, ven fveego lo qveemó. ¿Qveé fveego lo qveemó? Dice, hambre le ma hai, ¿qveé pasó? ¿Por qveé estás tan con los ojos qveemados? Ve a Marlí, da hambre liave, akwili rabonven qveizá el qvee le metiste de Rakia."
+"startMs": 653944,
+"endMs": 660484,
+"text": "Rab Yochanan, aquí es-- este es el jalash, Rab Yochanan, ¿sí? Rab Yochanan está muy, muy triste, ¿sí?"
 },
 {
-"startMs": 2415000,
-"endMs": 2450000,
-"speaker": "אופיר סגל",
-"text": "Enséñame a los khahamim, como se ven ahí en la Ishwasch el mal. Pveedes ver a todos, veve le barmi goharka de Raphiya, menos el kisé de, Ese no lo pveedes ver. Deloitistaqvee. Dice Mai Simiayve. Dice, ¿cómo pveedo saber? Si es qvee la qvee ya me mete, él tenía los dos, porqvee no la gvela por él. ¿Mmm. El Sidó. Es la de la de Mara ahorita, deja. Becvelo hazle, o sea, está Najón, qvee el de Marave ahorita lo va a pregventar."
+"startMs": 661784,
+"endMs": 669824,
+"text": "Rab Yochanan estaba muy triste. Amru Rab Bonon, man leizi litve ledaitem. Dice: «¿Quién puede leyashev dad Rab Yochanan?»."
 },
 {
-"startMs": 2450000,
-"endMs": 2482000,
-"speaker": "אופיר סגל",
-"text": "Dice, \"Mai Simiayve, ¿cómo pveedes saber? Becvelo hazle malaje. En todos los malají van qveizá el qvee Benajke. Dice, sveben y bajan. ¿A qveién les recveerda esto? A Yaakov, ¿no? De Barmi arca de Ravhie, de Minaf qvee... De Minaf sei salik benafi. Ravhie tiene... Bethem, él... No necesitaba apoyo de Malajim, él solito, Bethem, se las arregla. Dice este \"Dalmir hajam, no matchai le vekvemi ha nafchai\"."
+"startMs": 670504,
+"endMs": 677864,
+"text": "Neizi, Rab Eliezer ben Pedat. O la vamos a mandarle Rab Eliezer ben Pedat. De mejadi din shmait."
 },
 {
-"startMs": 2482000,
-"endMs": 2516000,
-"speaker": "אופיר סגל",
-"text": "Nos agveantó. Sí, nos agveantó. Qveiero ver el Lord de Ravhie. \"Iztak le va a tve trei vitvete de nvera ve majveite\". La hvegabra examinolone. Se hizo ciego. Se hizo ciego, porqvee vio a Robjie. La embajada, el sigveiente día, \"At listatja ve marta\". Fvee a pedir en la mejora de Robjie, en el qveiebre de Robjie. \"A mina matniti de mar matni, matnina\". Dice, \"Voy a estvediar tves braitos\"."
+"startMs": 678204,
+"endMs": 679364,
+"text": "Tiene todo muy claro."
 },
 {
-"startMs": 2516000,
-"endMs": 2548000,
-"speaker": "אופיר סגל",
-"text": "Dice \"Bitzail\". Y se cveró con eso. Estvedió las braitot de Arabjie y se cveró. Ella sigvee la orden de Arabjie. Es lo qvee hizo la seqvee directamente. No sé allá. Te sigo todo mi todo. Te sigo todo mi todo el rosh. Y todo mal, me toqvee. Y vas a cverarte de haber visto a Arabjie. Entonces, esto es mvey paralelo, avenqvee Rabjio con el qvee dijo \"Spira\". Y aqveí está \"Spiraoneine\". Y de repente le dejan, \"No, pero sí, Rapjie tienes hiking menvera\"."
+"startMs": 680844,
+"endMs": 688784,
+"text": "Tiene todo muy claro. ¿Eso le sirve a Rab Yochanan o no? Alguien que tenga todo muy claro. Sí. No, él ya tiene todo claro."
 },
 {
-"startMs": 2548000,
-"endMs": 2579000,
-"speaker": "אופיר סגל",
-"text": "Entonces ahí es kilos de qveema. Mimela acá se cvera por medio de estvediar la torá de Rabhi. Dice, \"Eliahve avashkyak behmetivta de Rebbe\". \"Eliahve visitaba la metivta de Rebbe\". Esta es la de la... si Robhyeh tiene cosas de tal la gvela. Según lo qvee dijimos es la Inyan, de regresar a los cveatro deja o no. Claro. Se acveerdan de la llamada qvee dijimos qvee Kayin y Hevel, Sanhedrin, Kayin y Hevel, eran los dos hijos de Rabhye, Rabiveda y Rabhizkya."
+"startMs": 689124,
+"endMs": 695584,
+"text": "Él tiene or. ¿Te fijo? Él necesita alguien que le venga a enseñar la otra parte, es-- que del Joseph le puede."
 },
 {
-"startMs": 2579000,
-"endMs": 2612000,
-"speaker": "אופיר סגל",
-"text": "qvee tenía dos hijos, qvee salía la hermia qvee es paralelo a Cai Nieves, qvee eran hermios también, despveés Tito qvee hablaba de Cai Nieves, lveego Chaltiel y todo eso, y lveego le pregventaron a Rebbe y les dijo: \"Digan ven hidves\", algo le dijeron a Rebbe ahí, qvee él no pveede ser más civedad, algo así. Entonces le dijeron indicarse años, entonces ve ahí qvee hay ven paralelo, Be'etzem, entre los hijos de Rabbi y cae nieve."
+"startMs": 695624,
+"endMs": 704384,
+"text": "Entonces, azal yativ kamei col milte, de aba Omar Rab Yochanan amarle. Tengo-- ta nié mesayala, tengo raya a lo que dices."
 },
 {
-"startMs": 2612000,
-"endMs": 2662000,
-"speaker": "אופיר סגל",
-"text": "Eso qveiere decir qvee es otra vez Bettikvem, qvee es decir qvee Rabbi es paralelo a Kayin y lo a Dama Richon, Bettikvem. Vemos acá qvee él era como Yaakov, ¿no? Y el Be'etzemel es el actitved de los dos cohots jventos, Heather, Marbit, y Vverah, es Oikerorim, y Tracht. Y el Be'etzem tiene el Tsirvep, de los dos cohots. Qvee es de Yaakov y él les ve este ven como el tico de dama y dijo en ciertas pregventas estás diciendo te estás diciendo veno de algar arriba estás diciendo el qvee bajed los dos claro en la actitved de los dos pero estamos hablando ahorita si, de Josef y David en Morain podemos hablar de él parece Yvedaios, el Biehonon Reish Lakish podemos estar hablando de Josef y Yehveda y David."
+"startMs": 704824,
+"endMs": 713284,
+"text": "Amar, at, que bar lik-- que bar lakisha. Dice: «Tú eres como Rish Lakish, bar lakisha, que aba mina milte, aba maxeli»."
 },
 {
-"startMs": 2662000,
-"endMs": 2692000,
-"speaker": "אופיר סגל",
-"text": "Sí, también vena vida de civedad y más arriba está Abraham Itzak, Jacob, pero Abraham es Jesse de Mimela, o sea. Ismael, es eso de \"dar\" Está pasado, dar, dar. Bveeno, Yosef, Shlemvet, Josef era ciego, Gevverah, le gvestaba el Sago, Ikerorin, Balchvebe. ¿Sí? Órale. Entonces... Yaakov es el shlemvendo de los dos."
+"startMs": 713764,
+"endMs": 719824,
+"text": "Fuch, me trae a más Joseph, me trae veinticuatro preguntas. De strim ve alba kushiata, un farquina le, strim ve alba piluque."
 },
 {
-"startMs": 2692000,
-"endMs": 2723000,
-"speaker": "אופיר סגל",
-"text": "Tarapajilla tiene el shlemvet de Yaakov. No lo estoy inventando yo. Vamos a leer. Dice, esvecha, deja. Pocos los personajes se van de él... ¿Tienen o no? Eliave haba es qvee fvee metivta de rebillo mahad. Regel ha haba, era Rosh jolves. Naga lo veloi ata. Se le hizo tarde a Eliave. Se le hizo tarde, era nveevo a lo Shiva. Estaban todos preocvepados. Entonces le dijeron, amrvelo, mata ami naga le lima. Eliave, ¿por qveé te tardaste hoy?"
+"startMs": 720364,
+"endMs": 727984,
+"text": "Entonces, yo, yo le tenía veinticuatro respuestas. Un mi mele, rab hashmaite. Dice: «Con eso, בעצם, ahorita su or tenía bituy»."
 },
 {
-"startMs": 2723000,
-"endMs": 2756000,
-"speaker": "אופיר סגל",
-"text": "Vamos a leer. Adeve ki na le Abraham. ¿Sí? Umashi na yade, o matzle. makin la ley deja, me tardé, yo hago shimves a Abraham, le hago netilah. Sí, lo seco, no sé qveé es makin la ley. Ahorita vemos, deja, \"Behel Yitzchak, behel de Jacob\" Entonces deja, fvei con cada veno y veno, entonces me tardé en lo qvee le hice a cada veno los shimves. Dice, \"Brvekino ve dade, ya, todos jventos, despiertalos a los tres, porqvee veno por veno."
+"startMs": 728928,
+"endMs": 736368,
+"text": "Ve'ata mar, Daniel me saya lakh, y ahorita me traes rayos. ¿A tú lo de Dana de Shapir cada mina? Que no sé que estoy siendo bien."
 },
 {
-"startMs": 2756000,
-"endMs": 2794000,
-"speaker": "אופיר סגל",
-"text": "Sabra, kitak fvee berrachmi ve ma tel le Mashiach\" ¿No es el momento qvee llegvee el Masia? Si yo despierto a los tres, llegaría el Masiaj directo porqvee vete en el tirves de Abraham se qveeda como jventos, parándose... ¡Jeves! Será la qvee bverla. Amar le ve dvek matam olamas de... ¡Y qvee rabjiave bono! Entonces Rebbe qveería qvee llegvee el Masia. Gazdarrepi, ta'anit... Rebbe dijo, y el Abraham trae el Mashiach, y hay algveien en el Olamas de qvee tiene el trae el Mashiach, qvee es como Abraham trae el Mashiach, ¿no?"
+"startMs": 736448,
+"endMs": 744188,
+"text": "Eso, este Shapir es el mismo Shapir de Rabí Ojonón. ¿Qué Shapir? Shapir, Shapir bien. Y arriba era Shapir de Shapire."
 },
 {
-"startMs": 2794000,
-"endMs": 2825000,
-"speaker": "אופיר סגל",
-"text": "Tvecela, ¿me pregventaste? Claro. Porqvee él tiene los dos cogotares. Aqveí tiene ven bono, amar, mishiba Rveach, naveska, mashiba Rveach. Llegó viento. Morida qvee se, pata matar. Literal, lo qvee iba diciendo se iba cvempliendo. Llegó la llvevia. Kimat la mema al mechaye, me si."
+"startMs": 744448,
+"endMs": 756648,
+"text": "Sí. Kilu, que yo no sé que ani Shapir, ani oda ani Shapir. Sí, las dos tres rayos. Fíjate, arriba, ve a la imagen arriba, dice: \"Hay man de bae de mij de shufre Rabí Ojonón\"."
 },
 {
-"startMs": 2825000,
-"endMs": 2856000,
-"speaker": "אופיר סגל",
-"text": "Bagash olam, qvee se está cvempliendo cada palabra. Si va a decir \"Barvekhataas, mechaye, metimashia\". Ya se acabó. Se qvea ramahi, mekayvedpentim. Dice hambre, berreqveia, mi, galeh, rasdia ve olam, qveien gila está solo. Eliao. Ambre Eliahu. Amar el Eliahu, mejor si te impvelsa de nvera, otra vez dejo el es."
+"startMs": 756808,
+"endMs": 773328,
+"text": "El que quiere ver cómo se veía el Yofi de Rabí Ojonón, está arriba, dice: \"Naite, casa de Kaspa, que traiga un cos de kesef, de, de plata, mibei zalke, recién salido del..."
 },
 {
-"startMs": 2856000,
-"endMs": 2885000,
-"speaker": "אופיר סגל",
-"text": "Es el es. Ate hit melou que duba de nura, pareció un dog, un oso de fuego, al venario tardío. Ya, los espacio. ¿Ató a todos? Si ya no tuvo tanto... ¿Ajistas. Sí, Luviaca sí, o sea. Era luego una. Entonces es una prueba de que si Rabiojo Rizloki se hubieran unido, da su yapo, ¿me explico? O sea, también la suya de Rabiojo Rizloki está aquí atrás."
+"startMs": 774408,
+"endMs": 794888,
+"text": "igual que el saquín, recién salido del horno, venimlae partzidaia de romana, que lo, lo, lo, lo llene de garinim de rimón, que son rojos, rojos, rojos, sumka, rojos, venale klila de varda, sumka, que ponga rosas rojas e-en su, en su..."
 },
 {
-"startMs": 2885000,
-"endMs": 2887000,
-"speaker": "Speaker 2",
-"text": "¿Acabaste de lo de la Bajanina o te acabo de prender."
+"startMs": 795648,
+"endMs": 811728,
+"text": "Borde. En su borde, le pume, venutve, benshim shaletul. Y que ponga esa, ese, ese, esa plata recién salida del horno con rojo, rojo, rojo adentro, que de alguna manera a lo mejor se transparenta porque está recién salida del horno y, y el rojo ahí, cae el sol..."
 },
 {
-"startMs": 2887000,
-"endMs": 2918000,
-"speaker": "אופיר סגל",
-"text": "No, entonces por eso, ¿quién es el que cura a Rabiojo no? Porque el or de Rabiojo no es justamente el pil. ¿Rigo o no? Rabjanina, ¿cuál es su Koaj? Pilp. Él es el que le dio a toda la refuah de su Koaj. ¿Me explico? Rabjanina es el Pilp. En nuestra suya, Rabjanina se enfermó. ¿Quién lo levanta? Rabjanina. Da a buscar a Ohaner."
+"startMs": 812668,
+"endMs": 819448,
+"text": "Es una luz. Y, y se refleja sobre la sombra. Au zaharure, me ein shufre de Rabí Ojonón."
 },
 {
-"startMs": 2918000,
-"endMs": 2944440,
-"speaker": "אופיר סגל",
-"text": "No alguien de estilo Rabiojanan, que le falta. Él tiene un “O” al revés, no le sirve nada. Rabiojanan entró a Jos. Entonces la única “or” que hay para Rabiojanan es el Jos. Este Rabjanin es el que lo levanta. Y ese es el hombre que ahí, de que “Rizloki, betzer” era el “or” de Rabiojanan también. Wow, qué locura."
+"startMs": 819948,
+"endMs": 828088,
+"text": "Este Zohar que hay ahí es el shufre de Rabí Ojonón. Ma kaducán, que la única manera de reconocer el Zohar de Rabí Ojonón es en la sombra."
+},
+{
+"startMs": 829048,
+"endMs": 838448,
+"text": "Entonces, quiere decir que Rishlakish, betsen, de la misma manera que Rabí Ojo-- piensas que nada más Rishlakish necesita Rabí Ojonón."
+},
+{
+"startMs": 839148,
+"endMs": 846148,
+"text": "Aquí es el giluy, que Rabí Ojonón sin, sin el tula, sin el joshe, entonces no se refleja Zohar."
+},
+{
+"startMs": 846668,
+"endMs": 852068,
+"text": "Entonces, todo el orden de Rabí Ojonón, entonces acá un choque tremendo. Cuando Rishlakish dijo: \"No te necesito\", jalas daite."
+},
+{
+"startMs": 853608,
+"endMs": 860428,
+"text": "Sí, jalas daite, Rabí Ojonón. Ma caduna jalas daite, Rabí Ojonón. Entonces, dijo: \"Okey, ani lo haziti lo club\". ¿Sí?"
+},
+{
+"startMs": 860888,
+"endMs": 867328,
+"text": "Y entonces se murió Rishlakish, pero Rish-- Rabí Ojonón no entendió... Que él también estaba. Que él también estaba Rabí-- Rishlakish."
+},
+{
+"startMs": 867428,
+"endMs": 876668,
+"text": "¿Cuál es el esber? Porque su, su-- es lo que dice el mismo Rabí Ojonón le explicó: \"At kebarlakisha\", dice: \"Que me traigas rayos, que me pongas más cosas, más luz\"."
+},
+{
+"startMs": 877148,
+"endMs": 885688,
+"text": "Dice: \"Yo no estaba la sombra para reflejar la luz\". Entonces, yo necesitaba a ese malin que me haga kushiot, que me haga joshe, que es mi mele, con eso, mi mele, Rav Hashmait."
+},
+{
+"startMs": 885708,
+"endMs": 892648,
+"text": "Entonces, fue la taina de Rishlakish. ¿Eh? Sí, los dos tienen betsen la misma taina, sí. Sí, exactamente, es la taina de Rishlakish."
+},
+{
+"startMs": 892988,
+"endMs": 903468,
+"text": "Dice: \"Mi or betsen estudio\". Entonces, de cierto aspecto muy amor, sale que betsen también el koaj de, de Rishlakish, que ofeje ta or le joshe, neefaj liot kesem koaj de Rabí Ojonón."
+},
+{
+"startMs": 903468,
+"endMs": 910808,
+"text": "¿Sí? Sí, sí hablamos en la semana algo de que en la oscuridad se ve más la luz, ¿no? O vimos en la semana, algo vimos."
+},
+{
+"startMs": 911488,
+"endMs": 918988,
+"text": "Bueno, aquí ya está, con, con que tenga la oscuridad acá. No me acuerdo. La luz, obviamente, se va a apreciar más en la oscuridad var-- ah..."
+},
+{
+"startMs": 919028,
+"endMs": 925668,
+"text": "Yo digo que sí, es más, la subida de arriba, aquí mismo, es lo que te dice sobre el que quiere ver el shufre de Rabí Ojonón y fla, fla, fla."
+},
+{
+"startMs": 925688,
+"endMs": 937648,
+"text": "Pero es que se muere. ¿Eh? Oh, entonces, ¿qué pasó? Abe Kazil. Abe Kazil dice: \"Vekara mane\", rompió sus ropas, \"vekabaji\", lloró."
+},
+{
+"startMs": 937648,
+"endMs": 945808,
+"text": "\"Eich atbarlakisha\", y amar: \"Eich atbarlakisha, eich atbarlakisha\", veabacatsavach. Gritava, gritava, de shaf daite."
+},
+{
+"startMs": 946648,
+"endMs": 952788,
+"text": "Minei, bau rabonon rach mealei... Ve dach nafshe. Ve dach nafsh. Ya. ¿Por qué no lo revisó?"
+},
+{
+"startMs": 953088,
+"endMs": 961848,
+"text": "Aquí este es el, hay shufra de bale veafra. De Rabí Ojonón es hay shufra de bale veafra, que estaba llorando Rabí Elazar."
+},
+{
+"startMs": 962948,
+"endMs": 971468,
+"text": "Canirés, este Rabí Elazar. Y ahora Rabí Elazar se ve que él... Pero sí lo levantó, la cámara de nosotros cuenta que también le dio la mano."
+},
+{
+"startMs": 972048,
+"endMs": 979748,
+"text": "¿Quién a quién? Rabí Elazar a Rabí Elazar. No, no, no, eso fue a Rav Hanina. Yo estaba hablando acá, Rab Jo-- Rabí Jochanan a Rabí Elazar."
+},
+{
+"startMs": 980188,
+"endMs": 988428,
+"text": "Rabí Elazar es el que entendió el shufra de Rabí Jochanan, y Rabí Elazar es el que llora. ¿Por qué llora? Porque él entendió, me mete la hay shufra de bale veafra."
+},
+{
+"startMs": 989188,
+"endMs": 991308,
+"text": "Tú me entiendes, en esta historia, Canirés acá,"
+},
+{
+"startMs": 993228,
+"endMs": 995308,
+"text": "Canirés Rabí Elazar estaba enfermo, ¿sí?"
+},
+{
+"startMs": 996508,
+"endMs": 1004728,
+"text": "Rabí Elazar, él entendió que ya eso hay shufra de bale veafra. Tú me entiendes, Rabí Jochanan- Ah, es que Rabí Jochanan fue al enajén."
+},
+{
+"startMs": 1004968,
+"endMs": 1012028,
+"text": "Sí, ahorita yo quiero ver la Rav Hanina, ahí viene Rav Hanina ahorita, me puse aquí. También más adelante. Entonces, acá está increíble."
+},
+{
+"startMs": 1012868,
+"endMs": 1024348,
+"text": "Rabí Ojonón... Escucha, es-- escucha uno más. Rabí Elazar, betsen, es el que notó, en él se notó, cómo Rabí Ojonón ya no, ya perdió, perdió su shufre."
+},
+{
+"startMs": 1024348,
+"endMs": 1032708,
+"text": "¿Me, me explico? ¿Por qué? A ver, ¿por qué? Dime. ¿Qué pasó en esta subida?"
+},
+{
+"startMs": 1032788,
+"endMs": 1038887,
+"text": "En esta Rabí Elazar estaba llorando. No, en esta. ¿Por qué Rabí Elazar, aquí, es el que nota que Rabí Ojonón ya...?"
+},
+{
+"startMs": 1039608,
+"endMs": 1046228,
+"text": "Ah, claro, porque, porque ya no hay nadie que le controle. Ya, dice, ya no, no sirve, ya no, ya no... Ya no sirve, ya no hay más brutal. Ya no hay brutal en esa yale. Exactamente."
+},
+{
+"startMs": 1046248,
+"endMs": 1054228,
+"text": "Entonces, justamente, matí mucho que Rabí Elazar llore. ¿Me explico? Maté mucho que Rabí Elazar llore. Porque va-van de la, a la par, aquí."
+},
+{
+"startMs": 1054868,
+"endMs": 1064728,
+"text": "Son de la misma shitá aquí. Sí, entonces él ya está viendo que Rabí Ojonán ya no tiene jiut. Entonces, mi mele, Rabí Elazar llora porque Rabí Jochanan no tiene jiut."
+},
+{
+"startMs": 1065108,
+"endMs": 1075448,
+"text": "Entonces, ¿de quién me cabe el jiut de Rabí Jochanan? Dafka de alguien que es afuja a él, ¿sí? Entonces, tenemos dos mitos, uno que se llama Sinai y otro que se llama Oker Arim."
+},
+{
+"startMs": 1076328,
+"endMs": 1087848,
+"text": "Sinai es Rabí Jochanan, la Torá como lo recibiste en Sinai es el orden. Oker Arim son, betsen, es todos los otros Arim, todos los ot-- el Ar Sinai, betsen, de todos los humot haolam."
+},
+{
+"startMs": 1088288,
+"endMs": 1094668,
+"text": "Entonces, su Torá de todos los humot haolam, todas las filosofías, los priots de todos los humot haolam, ellos también tienen sus Arim. Pero Oker, Oker."
+},
+{
+"startMs": 1094768,
+"endMs": 1101688,
+"text": "Entonces, mi mele, hay gente que va al joshe, dice: \"Ah, los llananos opinan así. Vamos a ver ef ashtut shole\"."
+},
+{
+"startMs": 1102208,
+"endMs": 1115048,
+"text": "Hay gente dice: \"Udea Torá\". No lo dan, no mucho y shubara, no emet. Pero hay el que sabe la ajreja lemet, el que sabe la ajreja lemet es el que conoce los otros Arim, conoce los otros y dice: \"No, el único Har que hay aquí es Sinai\"."
+},
+{
+"startMs": 1115048,
+"endMs": 1121748,
+"text": "¿Me explico entonces? Y eso le da. Y eso le da a Sinai más, más, más luz, ¿sí?"
+},
+{
+"startMs": 1122408,
+"endMs": 1128728,
+"text": "Se que le da más, más luz a Sinai. Sinai no sabe, porque Sinai piensa: \"Yo soy el que le da luz\". Él nada más mojíaj lo que yo tengo."
+},
+{
+"startMs": 1129808,
+"endMs": 1139248,
+"text": "Pero el maise, eso no me da a mí. Y aquí el borde, no. Eso es lo único que hace que tu or sea mujaj y pasheta a todos los lugares, hasta Babel y a todos los lugares."
+},
+{
+"startMs": 1139488,
+"endMs": 1149049,
+"text": "Entonces, Rish-- Realmente la ºquerarí, ¿sí? Mi ella era ºResh Lakish ºResh Meder, se llama ºNanzeder. Ella dome que lokaak shterarim eto Janan to bazon."
+},
+{
+"startMs": 1149429,
+"endMs": 1153709,
+"text": "Esa es la mirada de Resh Lakish. Entonces, quiere decir, ¿qué le da ahora rabió Janan?"
+},
+{
+"startMs": 1155509,
+"endMs": 1163809,
+"text": "Resh Lakish, ¿sí? Es lo que le da ahora rabió Janan. En nuestra zulia, cuando se enfermó rabió Janan, en esta ciencia en brojes, puede ser antes, puede ser después, ¿sí?"
+},
+{
+"startMs": 1165149,
+"endMs": 1167229,
+"text": "Pero ¿el quién le da ahora, justamente?"
+},
+{
+"startMs": 1169529,
+"endMs": 1178649,
+"text": "Rav Hanin. ¿Sí? Rav Hanin. Entonces, vean aquí. Aquí dice hambre ¿Sí?"
+},
+{
+"startMs": 1178669,
+"endMs": 1185069,
+"text": "Hablan Pejeam, Pejeam Amud Bet. ¿De dónde? Ahí mismo, en Amud Bet, ya. Lo subimos adelante."
+},
+{
+"startMs": 1186469,
+"endMs": 1192029,
+"text": "No sé si viene desde-- si no viene, pues podríamos ver toda, porque casual desde antes, ¿sí?"
+},
+{
+"startMs": 1196909,
+"endMs": 1203589,
+"text": "Pueden ver aquí en el sexto renglón largo. Voy a ver un poquito antes, ¿sí? Amar Rav Hama. Sí dice Rav Hama."
+},
+{
+"startMs": 1204129,
+"endMs": 1207589,
+"text": "Mai Diqtiv. Pejeam Amud Bet, como quinto renglón."
+},
+{
+"startMs": 1208909,
+"endMs": 1216349,
+"text": "Amar Rav Hama, Mai Diqtiv, belev navón, tanuaj chojma. En el lev de alguien navón, ahí va a lanuj la chojma."
+},
+{
+"startMs": 1216489,
+"endMs": 1223489,
+"text": "Ubiqueret xtilín. Y adentro de alguien xtil, de alguien tonto, tivadea. Se va, se nota a fuerza."
+},
+{
+"startMs": 1223929,
+"endMs": 1231349,
+"text": "Afuera. ¿Sí? ¿Quién era el navón, Sam? ¿Quién era navón en la Torá? En Ishjajam benavón kamoja, ¿quién era?"
+},
+{
+"startMs": 1231809,
+"endMs": 1237869,
+"text": "Joseph. Joseph. Era el navón. En el, la chojma naja. ¿Sí? Tanuj."
+},
+{
+"startMs": 1238369,
+"endMs": 1246329,
+"text": "Johanan. ¿Sí? Tanuj. ¿Sí? Belev navón, tanuj chojma. Belev xtilín. En alguien que no tiene la chojma, tivadea."
+},
+{
+"startMs": 1247629,
+"endMs": 1254669,
+"text": "La chojma grita. Vamos a ver qué es eso. Dice. Belev navón, tanuj chojma, de Talmir Jajam ben Talmir Jajam."
+},
+{
+"startMs": 1255689,
+"endMs": 1257129,
+"text": "Tzadik ben Tzadik. ¿O sea?"
+},
+{
+"startMs": 1258789,
+"endMs": 1266369,
+"text": "¿Quién? Joseph. Joseph. Rabí Johanan. Es decir, Talmir Tzadik toda la vida. Ubéqueret xtilín, te badea. De Talmir Jajam ben Ama'aritz."
+},
+{
+"startMs": 1267129,
+"endMs": 1276329,
+"text": "Es decir, el balchuve. Ay, ay, am, eh, amar ula, ainud am reinschen, istera belegina, kish, kish, karia."
+},
+{
+"startMs": 1276609,
+"endMs": 1283669,
+"text": "Cuando tú tienes una moneda... Hace más ruido. En una-- si está vacía, suena."
+},
+{
+"startMs": 1283969,
+"endMs": 1288829,
+"text": "Aquí dice hay dos toros. Talmir Jajam, ahí viene Benaja. Se siente lleno. Rabí Johanan."
+},
+{
+"startMs": 1290149,
+"endMs": 1296589,
+"text": "Ya, ya la Torá. En el balchuve. ¿Por qué? Porque veme me ir todo un josheth."
+},
+{
+"startMs": 1296909,
+"endMs": 1302969,
+"text": "Es decir, cae en un vacío, entonces mi mail le llena mucho. ¿Qué le suena a kish, kish? Resh Lakish. Resh Lakish."
+},
+{
+"startMs": 1302969,
+"endMs": 1304489,
+"text": "¿Sí?"
+},
+{
+"startMs": 1307289,
+"endMs": 1314169,
+"text": "Ándale, ahí viene, el amanecer pasa a hablar de rabí Johanan y Resh Lakish. En kish y eminé. Me voy a-- justo, Saúl."
+},
+{
+"startMs": 1314269,
+"endMs": 1315369,
+"text": "Ahí está, ahí es que es, sí."
+},
+{
+"startMs": 1317009,
+"endMs": 1319229,
+"text": "Justo al revés. Ah, al revés. Sí."
+},
+{
+"startMs": 1320569,
+"endMs": 1320769,
+"text": "Dice--"
+},
+{
+"startMs": 1323809,
+"endMs": 1330769,
+"text": "Resh Lakish, primer renglón largo. Me salto una membregadura. Diré que Tamón tiene que ver, pero Resh Lakish, Abe Metsayen, me arte de rabón."
+},
+{
+"startMs": 1332209,
+"endMs": 1340889,
+"text": "Resh Lakish, él, con Ruaj HaKodesh, podía saber dónde, dónde están las mearots enterrados Jajamim, que no,"
+},
+{
+"startMs": 1342369,
+"endMs": 1350149,
+"text": "que, que no sabían Biryuk Sukura. Kimata la mearte de Rabijía. Cuando llegó a la meara de Rabijía, yalmeminé."
+},
+{
+"startMs": 1351429,
+"endMs": 1357749,
+"text": "No la pudooo... Encontrar. No la pudo encontrar. Jalashdaite, ¿sí? Jalashdaite. El premio."
+},
+{
+"startMs": 1358109,
+"endMs": 1365149,
+"text": "Entonces, dice: «¿Cómo puede ser que yo no encuentre a Rabijía? Amar». Tamón que no ganó nada más un inian de, de la ubicación donde es."
+},
+{
+"startMs": 1365789,
+"endMs": 1378669,
+"text": "Tamón es encontrar su macom Rujaní. Su mecór o algo, sí. Amar, Ritboy, no se lo oí, lo, lo pilpal quiteró, como todo, que yo no tuve pilpul como él, o sea, la mitad de Resh Lakish es el pilpul."
+},
+{
+"startMs": 1379209,
+"endMs": 1388889,
+"text": "Y entonces, Rabijía, eh, eh, Rabijía, su mitad era el pilpul, ¿sí? Vamos a ver que no nada más era el pilpul, Rabijía era el chief de los dos Midwest, ¿sí?"
+},
+{
+"startMs": 1389289,
+"endMs": 1398889,
+"text": "Y entonces, mi mail aquí en la nekudá es que él no encuentra Beemet a Rabijía, dice, porque él dice-- él pensaba que lo tiene que encontrar, mitad que él es el schleimus del pilpul."
+},
+{
+"startMs": 1399249,
+"endMs": 1408049,
+"text": "Pues mi mail es: «Yo tengo que encontrar a Rabijía». Estaba el Kolveamralon, Torá que motó pilpalta. Beemet en pilpul, sí, pero Torá que motó lo ribatsa."
+},
+{
+"startMs": 1408149,
+"endMs": 1415369,
+"text": "¿Qué es ribatsa? Lo enseñaste. ¿Ese quién lo hace? ¿Qué mitad te faltó? ¿La mitad de quién?"
+},
+{
+"startMs": 1416009,
+"endMs": 1424129,
+"text": "Rabí Johanan. Rabí Johanan. ¿Por qué? ¿Por qué Rabí Johanan enseña? Porque es un Shemesh. Es el Shemesh, sí, en Sinai. El otro es el pilpul, es el Kerori."
+},
+{
+"startMs": 1424569,
+"endMs": 1431849,
+"text": "Es decir, uno enseña Torá con, con sola Torá, la jalas. El otro es con se olvida, Tamajzilo tabe pilpul."
+},
+{
+"startMs": 1431909,
+"endMs": 1439129,
+"text": "Cuando hay joshe, Tamajzilo tabe pilpul. Entonces, acá dice: «Te faltó la mitad de Rabí Johanan, la jena talomestigot»."
+},
+{
+"startMs": 1439189,
+"endMs": 1447589,
+"text": "¿Dónde pasó la historia que a Resh Lakish le faltó el orden a Rabí Johanan? En la historia que vimos atrás. Que Resh Lakish le dijo a Rabí Johanan, dice: «No, no»."
+},
+{
+"startMs": 1448989,
+"endMs": 1455509,
+"text": "Dice: «Yo, ya que yo soy el baal ha-pilpul, ha-hazak», es decir, «he jartie ta joshec león», ¿sí?"
+},
+{
+"startMs": 1456449,
+"endMs": 1463589,
+"text": "Entonces, mi mail no צריך otra. Entonces, mi mail te-- que vió nele faltó a Resh Lakish, el jelec de quién..."
+},
+{
+"startMs": 1463949,
+"endMs": 1470129,
+"text": "Rabí Johanan. De Rabí Johanan. Entonces, dice: «Que Abu Mante...» ¿Quién es?"
+},
+{
+"startMs": 1470509,
+"endMs": 1474929,
+"text": "Se peleaban, ¿quién y quién? Rav Hanina y Rav Jija. Este es nuestro Rav Hanina, ¿sí?"
+},
+{
+"startMs": 1476449,
+"endMs": 1480729,
+"text": "Ellos discutían. Amarle Rav Hanina, vamos a ver cuál es el cual de Rav Hanina, ¿sí?"
+},
+{
+"startMs": 1482009,
+"endMs": 1488189,
+"text": "Amarle Rav Hanina a Rav Jija. Bejade didica min tat, ¿sí? Muy parecido a quién."
+},
+{
+"startMs": 1489629,
+"endMs": 1497349,
+"text": "Rabí Johanan. A Rabí Johanan Resh Lakish, ¿no? Dice: «Ah, ¿tú te peleas conmigo?». Dice: «Jas ve sholo». Y Mishtakja toyo Misroaym."
+},
+{
+"startMs": 1497529,
+"endMs": 1508609,
+"text": "Si se olvida la Torá de Israel, dice Rav Hanina a Rav Jija: «Meadar nana mi pilpuli». Dice Rav Hanina: \"Ani, si se olvida la Torá, yo puedo regresar a la Torá con puro pilpul\"."
+},
+{
+"startMs": 1509569,
+"endMs": 1516489,
+"text": "O sea, ¿cuál es el koaj de Rav Hanina? El koaj de... Pilpul. Pilpul, legillot et haor- Resh Lakish."
+},
+{
+"startMs": 1517109,
+"endMs": 1518609,
+"text": "De Torah Joshua. Rav Hanina Rav Hanina"
+},
+{
+"startMs": 1523929,
+"endMs": 1530629,
+"text": "tiene los dos. Amale Rav Jije tiene los dos. Dice: \"Lo pilpalti que motó\". Dice: \"No, pero él tenía otra cosa\". Rav Itz Torá."
+},
+{
+"startMs": 1531089,
+"endMs": 1538449,
+"text": "Dice: \"Amale Rav Jije, la Rav Hanina, veadiz, ¡ti kamin tzad!\" Dice: \"No, mi koaj es al revés. De-- abdele Torá de lo ti shtok ajm Israel\"."
+},
+{
+"startMs": 1538489,
+"endMs": 1546909,
+"text": "Dejal no se va a olvidar. Dice: \"Si yo estoy, la Torá dejal no se olvida\". Él tiene koaj de Rav Yehonon. Y ese es el jizarón de que Resh Lakish no, no me sigue, Rav Jije."
+},
+{
+"startMs": 1547049,
+"endMs": 1555209,
+"text": "¿Sí o no? Si es-- si él está solo, se olvida la Torá de Israel. Como si hay nada más Resh Lakish sin Rav Yehonon, se va a olvidar la Torá de Israel."
+},
+{
+"startMs": 1555269,
+"endMs": 1563189,
+"text": "Sí, entonces no hay caída. Rav Hanina dice: \"Yo puedo la-- decir la Torá olvidada\", y Rav Hanin-- y Rav Jije dicen: \"Yo hago que no se olvide\"."
+},
+{
+"startMs": 1563789,
+"endMs": 1572429,
+"text": "Ma ya vidne, yo qué hago. Entonces, enseña aquí cómo le enseñaba Torá a los niños. Dice-- lo vamos rápido porque quiero llegar a, a, a Rav, Rav Yehonon haba."
+},
+{
+"startMs": 1572729,
+"endMs": 1578289,
+"text": "Dice: \"Ma ya vidne azilna ve shadina kitna ve gadilne nishba ve tsaida natavi\"."
+},
+{
+"startMs": 1579869,
+"endMs": 1580429,
+"text": "Planto,"
+},
+{
+"startMs": 1581729,
+"endMs": 1588009,
+"text": "eh, eh, algodón. \"Ve gadilna nishbe\", y un tipo de telas. ¿Para qué?"
+},
+{
+"startMs": 1588049,
+"endMs": 1597629,
+"text": "Para hacer redes. Para que con esas redes yo pueda cazar tzvi, ¿sí? Tomeren, no, no compraba redes, él las hacía con sus propias manos."
+},
+{
+"startMs": 1597849,
+"endMs": 1605849,
+"text": "Las sembraba. Las sembraba, desde la sembraba. Pa que salgan las redes, para cas-- pa, pa hacer redes, para que con eso cazar venados."
+},
+{
+"startMs": 1605849,
+"endMs": 1612509,
+"text": "\"Umajinla besarev le yatme\", y le doy de comer a yetomim."
+},
+{
+"startMs": 1612509,
+"endMs": 1621349,
+"text": "\"Ve harichna megilta\", y escribo megilot. \"Ve kativna jamisha jum-jum-jumshe\", y escribo los Jumashim."
+},
+{
+"startMs": 1621429,
+"endMs": 1628049,
+"text": "Todo él no tiene queso, ¿me explico? Todo, abodatia. \"Ve salikna le matná, u makrina jamisha yenukim\"."
+},
+{
+"startMs": 1628129,
+"endMs": 1635029,
+"text": "Les enseño a cinco niños los jamisha jumse Torá. \"U maknita shita yenuke, shita sidre Mishná, shita sidre\"."
+},
+{
+"startMs": 1635209,
+"endMs": 1642429,
+"text": "Y enseña a los niños seis Sidraim. \"Va amanaleu, ade adarna ve atina\". En lo que voy y vengo a traer más comida, ustedes enséñense."
+},
+{
+"startMs": 1642429,
+"endMs": 1649269,
+"text": "\"Akru adade ve atnu adade, ve abdele le Torá, de lo ti shakaj mi Israel\". Mi koaj es que no se olvide la Torá en Israel."
+},
+{
+"startMs": 1649609,
+"endMs": 1656749,
+"text": "Tomeren, él, él quiere, betem, lamshij haor de la manera más teórá. Dice, en el momento que compra una red, ya, ya, ya, ya- Ya puede haber, eh..."
+},
+{
+"startMs": 1656809,
+"endMs": 1668409,
+"text": "Él, betem, tiene el koaj de lamshij haor, dice, de la manera más teórá, a los niños. ¿Por qué a los niños? Porque, betem, ellos están todavía muy teorim, todavía no tienen ni ideas, y mi méleel puede hacer que la Torá no se olvide de Israel."
+},
+{
+"startMs": 1668668,
+"endMs": 1675609,
+"text": "Entonces, es el koaj de Rav Jije. Ahí nos da Amarebi: \"¡Kama gdolim maasejij!\". Ve los gdolim, los maasim de Rav Jije."
+},
+{
+"startMs": 1675949,
+"endMs": 1682929,
+"text": "Amale rabí Shmuel, va rabir, si afilu mimá es más grande que tú, amale in. Dijo Rebi, si es más grande que yo."
+},
+{
+"startMs": 1683389,
+"endMs": 1690649,
+"text": "Dijo: \"¿Afilu me aba?\". Es más grande que Shimon ben Gamliel, el papá de Rebi. Amale, haz ve shalom."
+},
+{
+"startMs": 1690829,
+"endMs": 1699168,
+"text": "No te- ¿Rashbag es papá de Rebi? Sí. Haz ve shalom, no teje cazot Israel. ¿Y es el, es el Rashbag de-- es el Rashbag de nosotros?"
+},
+{
+"startMs": 1699249,
+"endMs": 1707168,
+"text": "El hijo de Rabban Gamliel. Ah, perdón. Rash-- rabí Shimon ben Gamliel. Gamliel, su papá. Ah, Gamliel. Pero rabí Ishmael es este, el cuencadotes, ¿eh?"
+},
+{
+"startMs": 1708188,
+"endMs": 1721109,
+"text": "No. ¿No? No, no, no lo es. Entonces- De este-- pues hay el que vimos, que él decía: \"No hay kilo-- lo kulam yejolim leot ba derá azoti\", en Kiriat Shmona del Jatan."
+},
+{
+"startMs": 1721889,
+"endMs": 1732889,
+"text": "Fíjense, quiero leer esto. Entonces, rabí Yehonon, fíjense qué pele- Shimon, el hijo de Gamliel, de Rabban Gamliel. Escuchen, Resh Lakish no puede lacir el lugar de Rav Jije aquí en la tierra."
+},
+{
+"startMs": 1733029,
+"endMs": 1747409,
+"text": "¿Por qué no puede lacir el lugar de Rav Jije? Porque no en condiciones. Porque no tenía el selek de rabí Yehonon. Tomeren, este es el jalash, jalash de Resh Lakish, el girueal jalash de Resh Lakish, de la subida de atrás, fue en que no pudo encontrar la merá de Rav Jije."
+},
+{
+"startMs": 1747769,
+"endMs": 1754649,
+"text": "Claro. Entonces, tomeret, ahí es-- ah, tu kilo no depende de rabí Yehonon, entonces, mimeler, no vas a encontrar a Rav Jije."
+},
+{
+"startMs": 1754709,
+"endMs": 1759428,
+"text": "Ahora, ¿qué pasa con Rav, Rav-- ahí rabí Yehonon puede lacir a Rav Jije o no puede lacir a Rav Jije?"
+},
+{
+"startMs": 1761188,
+"endMs": 1769289,
+"text": "Ahora sí. Rav Jije, ¿qué tenía Rav Jije que no tenía rabí Yehonon, dejá ahora? Pilpul. Porque decía- El pilpul. Porque Resh Lakish dijo: \"Lo pilpalti te vac motó\"."
+},
+{
+"startMs": 1770369,
+"endMs": 1781289,
+"text": "El-- ¿y de dónde sacó el pilpul, eh, Rav, Rav Jije? De Rav Hanina. De Meteyos era en la Javrusa, Rav Hanina era el baal hahilpul, Rav Jije era baal ha-- de..."
+},
+{
+"startMs": 1781709,
+"endMs": 1788629,
+"text": "Entonces, mimeli, cada uno, bemet, tenía un koaj mashlim. Entonces, Rav Jije se hizo baal pilpul con Rav Hanina. ¿Me explico?"
+},
+{
+"startMs": 1788749,
+"endMs": 1797889,
+"text": "Entonces, la Gemara cuenta así una historia muy interesante. ¿Y por, y por qué rabí Yehonon no se hizo baal pilpul también? ¿Eh? Porque rabí Yehonon también dijo: \"Kilo, ikfir Resh Lakish\"."
+},
+{
+"startMs": 1797969,
+"endMs": 1806789,
+"text": "Y dice: \"Ah, ¿no me necesitas? Entonces, no me necesites, vas a ver qué significa no necesitarme\". Y entonces, el kivyajol, el dajutá acá es que rabí Yehonon también estaba Resh Lakish."
+},
+{
+"startMs": 1806809,
+"endMs": 1815109,
+"text": "También, eso es verdad. Entonces, entonces, ya que rabí Yehonon también necesita a Resh Lakish, entonces le falta kivyajol, el koaj de Resh Lakish. Entonces, vamos a ver si la Gemara también expresa"
+},
+{
+"startMs": 1816688,
+"endMs": 1827668,
+"text": "el koaj de rabí Yehonon mur, mur Rav Jije. ¿Sí? Vamos a ver, dice. \"Amar rab Zeiri, emet nirá li, rab Yoisi ve rav Hanina\"."
+},
+{
+"startMs": 1828349,
+"endMs": 1835349,
+"text": "Dice rab Zeiri, él estaba dormido y vio a rab Yoisi y al hijo rav Hanina. Amar-- rab Yoisi y rav Hanina había fel-- faillesido."
+},
+{
+"startMs": 1835569,
+"endMs": 1842969,
+"text": "\"Amar ti lo, etsel mi ata tacuá?\". ¿En dónde-- en qué bet midrá es en el shamayim estudias Torá? \"Amar le, etsel rab Yehonon\"."
+},
+{
+"startMs": 1843809,
+"endMs": 1849989,
+"text": "Dice, yo estudio Torá de rab Yehonon. ¿Ve rab Yehonon etsel mi? Etsel rab Ianai. ¿Ve rab Ianai etsel mi?"
+},
+{
+"startMs": 1850069,
+"endMs": 1856709,
+"text": "Etsel rav Hanina. ¿Sí? Rav Hanina. Rav Ianai estudia a rav Hanina. Rav Hanina, eh, ¿con quién? ¿Etsel mi?"
+},
+{
+"startMs": 1857409,
+"endMs": 1863829,
+"text": "Etsel rav Jije, porque rav Hanina es el que-- la Javrusa de Rav Jije. Rav Hanina siempre necesita, betem, lamshij haor de Rav Jije."
+},
+{
+"startMs": 1865933,
+"endMs": 1872973,
+"text": "Entonces vemos que Rab Hanina sí podía estudiar con Rab Je en Shamay. A Marti lo-- Rab Yoijonon se Rab Je Elói."
+},
+{
+"startMs": 1873273,
+"endMs": 1879353,
+"text": "¿Cómo es allá que Rab Yoijonon no estaba con Rab Je? A veces son la misma madregá, ¿no es cierto?"
+},
+{
+"startMs": 1879393,
+"endMs": 1887813,
+"text": "Ese dijimos que tiene algo más. Oh, este es el punto, este, pero es-- va a ser Shul-- eh, Shulaj, ¿sí? Entonces, Rab Yoijonon no tiene a Rab Je."
+},
+{
+"startMs": 1887873,
+"endMs": 1901333,
+"text": "Amar Li: \"En Atar de Zikukin de Nura ube Urin de Esha, Man Meayel Barrafa LeTaman\", en un lugar donde está lleno de fuego, Zikukin de Nura, Behurin de Esha, que es allá que entre Rab Yoijonon ahí, ¿sí?"
+},
+{
+"startMs": 1902353,
+"endMs": 1909513,
+"text": "Es que está pasando acá, que Kibi Ajón, para Rab Yoijonon, él es el que no... El que le falta. Llega al lugar de Rab Je."
+},
+{
+"startMs": 1909592,
+"endMs": 1919193,
+"text": "Antes hablamos de la subida como Reslakis en la tierra no encuentra a Rab, a Rab Je. Ahora, Rab, Rab Yoijonon en Shamay no encuentra a Rab Je, ¿sí?"
+},
+{
+"startMs": 1919613,
+"endMs": 1925993,
+"text": "Porque Rab Je tiene Zikukin de Nura ube Urin de Esha. Que es el Pilpul. Ahora, ¿qué es el Zikukin de Nura ube Urin de Esha?"
+},
+{
+"startMs": 1926173,
+"endMs": 1933413,
+"text": "No, son los dos cojotes juntos. Dice Rashi- No, los, los- Es Zikukin de Nura, dice Rashi, Lapid Esh."
+},
+{
+"startMs": 1933773,
+"endMs": 1941353,
+"text": "No lo estoy viendo, no sé dónde está. Ahora sí me acuerdo que dice Rashi, Lapid Esh. ¿Qué es Lapid Esh? ¿Dónde hubo esta Esh, esta Lapidim?"
+},
+{
+"startMs": 1941413,
+"endMs": 1943153,
+"text": "¿Dónde hubo eso?"
+},
+{
+"startMs": 1944393,
+"endMs": 1951873,
+"text": "En Maamar Sinai. Entonces, ¿tú me ves? ¿Sinai? Sinai. No, pero este es el code de Har Sinai, que tenía los dos cojotes juntos."
+},
+{
+"startMs": 1952373,
+"endMs": 1960133,
+"text": "Tú me ves, cuando fue el Maamar Sinai BeHatzmot, Lujot Rishonot, ahí fue-- hubo juntos Sinai BeOker Arim."
+},
+{
+"startMs": 1960533,
+"endMs": 1966633,
+"text": "Hubo Guilui de Har Sinai y Mimele, y también todos los Goim, y Har Sinai, LoMot HaOlam. Tú me ves, el primer Lujot Rishonot."
+},
+{
+"startMs": 1966633,
+"endMs": 1972973,
+"text": "¿Eh? Tiene que ver con el Sinai BeOker Arim. Es el Oker Arim. Acá todos los demás Arim."
+},
+{
+"startMs": 1973473,
+"endMs": 1986313,
+"text": "El primer Guilui, tú me ves, Bitel el Malaj Hamavet, Bitel el Ra, Bitel el Yetser HaRa. Tú me ves, el primer Guilui de Har Sinai tenía los dos cojotes juntos, no nada más se entregó la Torá como viene de arriba y hay Joshe alrededor."
+},
+{
+"startMs": 1986993,
+"endMs": 1999113,
+"text": "Entonces, betem, fíjense, el coje Rab Yoijonon es betem el Sinai de Lujot Shmiot. Si se hubieran unido Rab Yoijonon y Rishlakis, sería un masa que Lujot Rishonot y Lujot Shmiot se unen."
+},
+{
+"startMs": 1999713,
+"endMs": 2006213,
+"text": "O sea, ¿qué quiere decir? Que el Lujot Shmiot, el coje del Oker Arim y el coje de Sinai se unen. Betem sería la Geulá."
+},
+{
+"startMs": 2006953,
+"endMs": 2019493,
+"text": "Ahora, eh, o sea, es betem el-- de coje de la Geulá. Rab Je, él tenía los dos cojotes juntos. Tú me ves, el coje de Sinai y Oker Arim, tú me ves, Lujot Rishonot juntas, es el coje de, de, de, de Rab Je."
+},
+{
+"startMs": 2019973,
+"endMs": 2030513,
+"text": "Ahora, Rab Yoijonon y Rishlakis ya están-- Rab Je era todo el tiempo de los Tanaím, ¿sí? En el tiempo de los Amoraím, que ya es el galut más amok, Talmud Bable, ¿sí?"
+},
+{
+"startMs": 2030733,
+"endMs": 2041793,
+"text": "El tiempo de los Amoraím ya era Rab Yoijonon y Rishlakis. Entonces, ahí Rab Yoijonon y Rishlakis, que están en el tiempo de los Amoraím, ahí es mucho más difícil unir los dos cojotes que se llama Sinai y Oker Arim."
+},
+{
+"startMs": 2041793,
+"endMs": 2047413,
+"text": "¿Me explico? Calma, es para que entiendas. ¿Qué hizo Rab Je? ¿Qué libro hizo Rab Je?"
+},
+{
+"startMs": 2049553,
+"endMs": 2051313,
+"text": "¿Mira? ¿Qué libro hizo Rab Je?"
+},
+{
+"startMs": 2052592,
+"endMs": 2058553,
+"text": "Todas las beraitot. Okey. Las, las Toseftot es el libro de Rab Je, ¿sí?"
+},
+{
+"startMs": 2061632,
+"endMs": 2062793,
+"text": "La época de la Mishná"
+},
+{
+"startMs": 2064113,
+"endMs": 2072773,
+"text": "es muy Rab Yoijonon. Te digo, no es Pilpul. Es más la Torá, más Sinai, ¿sí? Guemará es mucho más Oker Arim, ¿sí o no?"
+},
+{
+"startMs": 2072773,
+"endMs": 2077113,
+"text": "¿Cuál es el emtza de Mishná y Guemará? Rabina, Rabina, Rabina,"
+},
+{
+"startMs": 2079132,
+"endMs": 2088113,
+"text": "¿eh? ¿Eh? El emtza de Mishná y Guemará es la Braita. Toda la Guemará lo que hace es agarra una Mishná, la pone frente a una Braita y sale todo el omde seis."
+},
+{
+"startMs": 2088113,
+"endMs": 2100393,
+"text": "¿Me explico? Rab Je, Rab Je betem no puede ser Mishná, porque no es tan auténtico en el aspecto de que Guilú, mamá, el, las Dekudot, como Kipalot, están así, no."
+},
+{
+"startMs": 2101133,
+"endMs": 2109933,
+"text": "Pero por, por otro lado, tampoco es el Oker Arim, o sea, es porque es los dos. ¿Me explico? Él matzlich, va a meter, hacer un jibut que haga de todas las Mishnáot Guemará."
+},
+{
+"startMs": 2110833,
+"endMs": 2119113,
+"text": "Por eso le preguntó-- le preguntaron a Rebe. Rebe dijo: \"Doy li Maise Jalal\". Más grande Maise-- Afilu Mimar."
+},
+{
+"startMs": 2120033,
+"endMs": 2129493,
+"text": "Más tú que hiciste Mishná, él dijo: \"Im\". Dice sí. ¿Por qué? Porque su Joshua Daba, él agarra el coje de la Mishná y lo fecha total, potencial a convertirla en Guemará."
+},
+{
+"startMs": 2129833,
+"endMs": 2137353,
+"text": "Entonces, el coje de Rab Je es el Tsiruf de Sinai y Oker Arim, ¿sí? Zikukin de Nura ube Urin de Esha, ¿sí?"
+},
+{
+"startMs": 2138953,
+"endMs": 2144573,
+"text": "Zikukin de Nura ube Urin de Esha son los del Esh y a Lapidim, que hubo en Har Sinai. Hubo Esh y hubo Lapidim."
+},
+{
+"startMs": 2146073,
+"endMs": 2149193,
+"text": "Entonces, entonces el coje de Rab Je y,"
+},
+{
+"startMs": 2151853,
+"endMs": 2165393,
+"text": "y Kibi Ajón, Rab Yoijonon. Aquí la Guemará viene a contrastar cómo el coje de Rishlakis y el coje de Rab Yoijonon, que es en el dor de los Amoraím, cada uno era un aspecto del de Rab Je, pero no era-- pero en los dos betem había una mamina."
+},
+{
+"startMs": 2165413,
+"endMs": 2176313,
+"text": "Fíjense cómo la Guemará lo pone para-- si observas la Guemará, te das cuenta que betem la Guemará está poniendo a Rishlakis, que Guilú, que no sea acá, parece que la Guemará está contando historia."
+},
+{
+"startMs": 2176593,
+"endMs": 2184173,
+"text": "Pero no sea acá es poner a Rishlakis mu Rab Je. Y poner-- y dice, y hay a Mamina que un Mesigotot, Kamash Al Anshe Lo."
+},
+{
+"startMs": 2184733,
+"endMs": 2191053,
+"text": "Y luego tenemos a Rab Yoijonon mu Rab Je, a Mamina ese Mesigotot, Kamash Al Anshe Lo. Pero ya no sé, ya es otra historia."
+},
+{
+"startMs": 2191333,
+"endMs": 2202793,
+"text": "Uno es Bizta a, a Pilpul, que es Mesigotot, pero Bizta a Ripus, los Mesigotot. Y el otro, Rab Yoijonon, dice: \"No, te faltó en el Pul, eh, en, en, en el Jedet del, del, del, del Pilpul\"."
+},
+{
+"startMs": 2202793,
+"endMs": 2211793,
+"text": "¿Sí? ¿Estamos, estamos claros? ¿Sí? Claro, claro. Entonces, Rab Hanina, él es el que potencializó el Pilpul de Rab Je."
+},
+{
+"startMs": 2212033,
+"endMs": 2220053,
+"text": "Rab Je, su coje era Larbit Torá. Larbit, dar, entregar, ¿sí? Yosef, Yesod, Yesod es el que mospién, ¿sí?"
+},
+{
+"startMs": 2220712,
+"endMs": 2222153,
+"text": "Pero era Javruse de,"
+},
+{
+"startMs": 2223493,
+"endMs": 2229533,
+"text": "era Javruse de Rab Hanina. Y sí tenían sus estos, sus Bikujim. Bad Didí, Kam in Seba, Bad Didí, Kam in Se--."
+},
+{
+"startMs": 2230033,
+"endMs": 2241873,
+"text": "Pero se ve que betem en Shamay estudiaban juntos Rab Hanina y Rab Je. Y también en la tierra estudiaban juntos, cada uno en el otro coje. Y Rab Yoijonon y Rishlakis, betem al final, llegó un masa que se separaron."
+},
+{
+"startMs": 2242633,
+"endMs": 2243833,
+"text": "Tú me ves, no había tanto--"
+},
+{
+"startMs": 2245212,
+"endMs": 2258533,
+"text": "en el tiempo de los Amoraím, es muy fácil hablarlo, pero la recordás es que lo que cae, el, el galut que había en el tiempo de los, eh-- el galut que había en el tiempo de los Amoraím, Kibi Ajón no permitió que haya ese Ajdut entre Rab Yoijonon y Rishlakis."
+},
+{
+"startMs": 2259133,
+"endMs": 2266133,
+"text": "Y Shlomot, fíjate, Rab Yoijonon y Rishlakis vivían en Eretz Israel, ¿sí? Rab Yoijonon es el que jiber Talmud Yerushalmi."
+},
+{
+"startMs": 2266473,
+"endMs": 2267553,
+"text": "Talmud Yerushalmi no es Pilpul."
+},
+{
+"startMs": 2268853,
+"endMs": 2278712,
+"text": "Es Kibi Ajón. Or, igual. Pero de la Guemará. Sí, esa cara antes, pero ya en Guemará. Entonces, el coje de Rab Yoijonon es agarrar Guilú, le ha ir el Joshe."
+},
+{
+"startMs": 2279252,
+"endMs": 2288618,
+"text": "Hay Joshe, hay... ¿Sí? Pero la mayoría de todos esos bikujim están escritos, la mayoría en el, en el Babli, luego en Yerushali."
+},
+{
+"startMs": 2289258,
+"endMs": 2298319,
+"text": "Son también 100 años de Israel. Este es el Koja de Yerushali, ¿sí? El, el, el jitzarón que hubo acá es que no hubo una jatuta entre, entre el Babli y Yerushalmi."
+},
+{
+"startMs": 2298359,
+"endMs": 2305058,
+"text": "¿Entendés? Israel jutsaret. Bebé, te hicieron, bebé, son los papás, ¿viste? En un cierto aspecto, aquilo del, de la Torá que tenemos."
+},
+{
+"startMs": 2305198,
+"endMs": 2311299,
+"text": "Pero entonces, la Torá ahorita no, no, no la tuvimos en su, en su máximo shlemut, ¿sí?"
+},
+{
+"startMs": 2311399,
+"endMs": 2319519,
+"text": "En su máximo, en su shlemut más quebo que pueda haber. Israel, o sea, falta que la Torá shlema viaje hasta nosotros, ¿sí?"
+},
+{
+"startMs": 2319638,
+"endMs": 2330839,
+"text": "Claro. Pero, pero el punto es que si hubiera-- yo entiendo que hubiera sido la gulá, ¿viste? El jatuta. Es que, es que el que aniño jerjalá, el que hubiera sido la, la gulá, él la menor aquí adelante."
+},
+{
+"startMs": 2331819,
+"endMs": 2333999,
+"text": "No, es que dice el koaj de, de,"
+},
+{
+"startMs": 2336258,
+"endMs": 2342598,
+"text": "de Rab Ji. Tiene nishtael y Rab Javiva parsulmakin. ¿Sí? A donde íbamos."
+},
+{
+"startMs": 2343879,
+"endMs": 2346839,
+"text": "Nishtael y Rab Javiva parsulmakin. Jadeli"
+},
+{
+"startMs": 2348558,
+"endMs": 2355038,
+"text": "au merabono davashiaj Eliahugave. De Letzafre Shpira Neini."
+},
+{
+"startMs": 2355578,
+"endMs": 2358058,
+"text": "Uleurte Damien que de Mitlan Benura."
+},
+{
+"startMs": 2359479,
+"endMs": 2362158,
+"text": "Había un, un talmid jajam que"
+},
+{
+"startMs": 2363959,
+"endMs": 2372979,
+"text": "Eliahú estudiaba con él, ¿sí? Un, un, un tzaír, un talmid jajam. Au merabono, bueno, no es tzaír, pero un talmid jajam que estudiaba con Eliahú."
+},
+{
+"startMs": 2373339,
+"endMs": 2377098,
+"text": "La mañana sus ojos eran shpira. ¿Qué son shpira?"
+},
+{
+"startMs": 2379718,
+"endMs": 2386899,
+"text": "¿Rabí Jochanan? Una shpire. Shpire. ¿Sí? Pero le hurta en la noche, damin que le mi que benura."
+},
+{
+"startMs": 2387399,
+"endMs": 2391019,
+"text": "Parece como si se quemaron con fuego. ¿A quién le recuerda la historia de arriba?"
+},
+{
+"startMs": 2392359,
+"endMs": 2399359,
+"text": "Si cooking de nura. Yo me equivo que acá hay alguien muy shapir, shpire, pero ve ten,"
+},
+{
+"startMs": 2400578,
+"endMs": 2407979,
+"text": "aunque sea muy shapir, tengo mucha luz, un fuego lo quemó. ¿Qué fuego lo quemó? Dice: \"Ambre le mai hai\", ¿qué pasó?"
+},
+{
+"startMs": 2408437,
+"endMs": 2415038,
+"text": "¿Por qué estás tan con los ojos quemados? Y a Marli, de Ambre le Eliahú, ajveli rabonen quizal que le metiste a Rakia."
+},
+{
+"startMs": 2415499,
+"endMs": 2419618,
+"text": "Enséñame a los, a los jamim cómo se ven ahí en la yeshiva del mal."
+},
+{
+"startMs": 2420959,
+"endMs": 2430578,
+"text": "A Marli, be culo matzit listakula. Puedes ver a todos, veo Levar Migoharka de Rabjia. Menos el quizé de Rabjia, ese no lo puedes ver."
+},
+{
+"startMs": 2431319,
+"endMs": 2439658,
+"text": "Ya lo itizakil ve. Dice: \"Maizi manai\". Dice: \"¿Cómo puedo saber?\". Si es que Rabjia ve mete, él tenía los dos, ¿por qué no ha sido negula por él?"
+},
+{
+"startMs": 2439658,
+"endMs": 2446379,
+"text": "¿Mmm? Mitzidó. Esa es la de la hermana ahorita, dice. Be culo azle, o sea, está najón,"
+},
+{
+"startMs": 2447698,
+"endMs": 2454479,
+"text": "que la hermana ahorita lo va, va a preguntar. Dice: \"Maizi manai\", ¿cómo puede saber? Be culo azle malaje."
+},
+{
+"startMs": 2455359,
+"endMs": 2462618,
+"text": "En todos los malajim van, quizal que ven ajte. Dice: \"Suben y bajan\". ¿A quién les recuerda esto?"
+},
+{
+"startMs": 2462799,
+"endMs": 2469738,
+"text": "A Jacob, ¿no? ¿Sí? Levar Migoharka de Rabjia, de minafque, de minafshe izalik ven ajte."
+},
+{
+"startMs": 2470178,
+"endMs": 2471839,
+"text": "Rabjia tiene, betem, él"
+},
+{
+"startMs": 2473238,
+"endMs": 2476538,
+"text": "no necesita apoyo de malajim, él solito, betem, se las arregla."
+},
+{
+"startMs": 2478299,
+"endMs": 2485819,
+"text": "Dice, dice este talmid jajam, lo matzai le ukumea nafshai. No se aguantó. ¿Sí?"
+},
+{
+"startMs": 2485919,
+"endMs": 2493759,
+"text": "No se aguantó, dice. Que ver el orden Rabjia. Dice- Itzakle va. Itzakle va, atu trey bitute de nura, un majiute."
+},
+{
+"startMs": 2494538,
+"endMs": 2500638,
+"text": "Le augabra el salminuleine. Se hizo ciego. Se hizo ciego porque vio a Rabjia."
+},
+{
+"startMs": 2501098,
+"endMs": 2508379,
+"text": "Le majar, el siguiente día, azle ishtajve mearta. Fue a pedir en la mealá de Rabjia, en el quebro de Rabjia."
+},
+{
+"startMs": 2509019,
+"endMs": 2515439,
+"text": "A mí no matniti de mar matni-- matnina. Dice: \"Voy a estudiar tus, tus beraitot\"."
+},
+{
+"startMs": 2516558,
+"endMs": 2517519,
+"text": "Dice: \"Vi zael\"."
+},
+{
+"startMs": 2519078,
+"endMs": 2525158,
+"text": "Y se curó, vemos. Estudió, entonces, hombre, estudió las beraitot de Rabjia y se curó. Entonces, hombre, él sigue el orden Rabjia, ¿eh?"
+},
+{
+"startMs": 2525759,
+"endMs": 2536537,
+"text": "Él no quiso la zig directamente. No shayah. No shayah. Tasigoto mitoj limud, tasigoto mitoj ajoshaj, mitoj amal, mitoj egiah, vas mi mail, vas a curarte de haber visto a Rabjia."
+},
+{
+"startMs": 2537178,
+"endMs": 2547419,
+"text": "Entonces, betem, esto es muy paralelo al que Rabí Jochanan dijo: \"Shpire\", ¿sí? Aquí este shpirineine. Y de repente le dicen: \"No, pero si Rabjia tienes icujin de nura\"."
+},
+{
+"startMs": 2548399,
+"endMs": 2557558,
+"text": "Entonces, ahí aquilo se quema. Las mi mail acá se cura por medio de estudiar la Torá de Rabjia. Dice: \"Eliahú abashiaj be metifte de rebi\"."
+},
+{
+"startMs": 2558218,
+"endMs": 2560058,
+"text": "Eliahú visitaba la metifte de rebi."
+},
+{
+"startMs": 2561778,
+"endMs": 2569138,
+"text": "Esta es la de la-- si, si Rabjia tiene el cosa de tener la gulá, según lo que dijimos, es la ainía, es regresar a Lujot Rishonot."
+},
+{
+"startMs": 2569178,
+"endMs": 2577439,
+"text": "Claro. ¿Se acuerdan de la gemara que dijimos que Cain y Hevel, Sanedrín, Cain y Hevel eran los dos hijos de Rabjia, Rabiu de Rab kisquia."
+},
+{
+"startMs": 2579839,
+"endMs": 2587799,
+"text": "Sanedrín, que tenía dos hijos, Rabiu, que estaría la gemara que es paralelo a Cain y Hevel. ¿Sí? Ahí. Que eran hermanos también."
+},
+{
+"startMs": 2587919,
+"endMs": 2591499,
+"text": "Después dice que hablaba de Cain y Hevel, luego Shaltiel, todo eso. Y luego,"
+},
+{
+"startMs": 2592718,
+"endMs": 2603359,
+"text": "y luego, eh, le preguntaron a Rebi, les dijo: \"Digan un jitús\". Entonces, algo le dijeron a Rebi ahí que, que él no puede ser Masiah, algo así."
+},
+{
+"startMs": 2604439,
+"endMs": 2610038,
+"text": "Entonces, le dijeron nim-- ninjatseña, estas cosas. Entonces, ve, ahí cae un paralelo, betem, entre los hijos de Rabjia"
+},
+{
+"startMs": 2611459,
+"endMs": 2619479,
+"text": "y Cain y Hevel, ¿sí? Entonces, quiere decir que-- eso también es betiku. Quiere decir que Rabjia es paralelo a quién y lo Adam HaRishon, betiku."
+},
+{
+"startMs": 2619899,
+"endMs": 2626479,
+"text": "Vemos acá que él era como Jacob, ¿no? Y él, betem, es el ajdud de los dos cojot juntos, jetet, marbit, ¿sí?"
+},
+{
+"startMs": 2626618,
+"endMs": 2635339,
+"text": "Y gbura. Es-- o Iker Orim, Itjac. Y él, betem, tiene el tsiruf vemet de los dos, de los dos cojot, que es de Jacob."
+},
+{
+"startMs": 2635999,
+"endMs": 2645799,
+"text": "Y él, él es betem como el Tikun Adam HaRishon en ciertos aspectos. ¿Estás diciendo que está siendo uno de acá arriba? ¿Estás diciendo- Que, el que baje los dos, claro, el ajdud de los dos."
+},
+{
+"startMs": 2645899,
+"endMs": 2653327,
+"text": "De Jacob. Pero estamos hablando ahorita- Sí, de Yosef y de Jacob. En Morahín Podemos hablar de- ¿Cuál es, de Yehudá y Yosef?"
+},
+{
+"startMs": 2653346,
+"endMs": 2659807,
+"text": "De Yehonon Rishlakish. Es, es cuando hay dos cojos. Podemos estar hablando de Yehonon, podemos estar hablando de Yosef. Yehudá."
+},
+{
+"startMs": 2659866,
+"endMs": 2665926,
+"text": "Yehudá y David. Sí. David es David. David es Yehudá. Y más arriba es Abraham Yitzhak."
+},
+{
+"startMs": 2666147,
+"endMs": 2673086,
+"text": "De acuerdo. Yaakov. Pero Abraham es Jesed y Nimela es Yesed. Tienen sus shores. O sea- Sí, por eso dije que Ismael es shores."
+},
+{
+"startMs": 2673127,
+"endMs": 2679287,
+"text": "Es yesod es dar, es también. Yesod, dar, dar. Oh, es bueno, yo tom, Shlemut."
+},
+{
+"startMs": 2679607,
+"endMs": 2686526,
+"text": "Yosef era, era ciego, Buráh, le gustaba besar, Goel Roni, Balchube. Sí."
+},
+{
+"startMs": 2686667,
+"endMs": 2688366,
+"text": "Órale. Entonces,"
+},
+{
+"startMs": 2689906,
+"endMs": 2696446,
+"text": "Yaakov es el shlomut de los dos. El Rab ferviente, el shlomut, el Rab ferviente de Yaakov. No lo estoy inventando yo. Vamos a leer."
+},
+{
+"startMs": 2696707,
+"endMs": 2703627,
+"text": "Dice, escucha, dice. Díjale. Otros personajes se van de... ¿Tienen o no?"
+},
+{
+"startMs": 2703807,
+"endMs": 2759406,
+"text": "Elihu Abashia El Mashíaj."
+},
+{
+"startMs": 2759946,
+"endMs": 2768386,
+"text": "Me lo dice. No es el momento que era el Mashíaj. Si yo despierto a los tres, llegaría el Mashíaj directo, porque vete al tiruf, Gabrón, Tzeck, Yaakov."
+},
+{
+"startMs": 2768787,
+"endMs": 2776086,
+"text": "Juntos parándose, zehu, se habla que Burá. Amarle bi esdugmatan be olam azé. Iker Rab Hia u Bono."
+},
+{
+"startMs": 2776127,
+"endMs": 2784127,
+"text": "Iker Rab Hia u Bono. ¿Sí? Entonces, Rebi quería que era el Mashíaj. Gazda Rebi, Tanitam."
+},
+{
+"startMs": 2784787,
+"endMs": 2795207,
+"text": "Rebi dijo: «Si hay Abraham, Tzeck, que no tiene entre el Mashíaj, y hay alguien en el olam hazé que tiene el poder de traer el Mashíaj, que es como Abraham, Tzeck, Yaakov, el Rab Hia, entonces vamos a traer el Mashíaj»."
+},
+{
+"startMs": 2795707,
+"endMs": 2800486,
+"text": "¿No? ¿Te suena? Me preguntaste. Claro. ¿De acuerdo? Dice... Porque él tiene los dos cogotares."
+},
+{
+"startMs": 2801727,
+"endMs": 2809567,
+"text": "Ahtinon Rab Hia u Bono amar meshiva ruaj, nausca-- nausva zika. Mamás, meshiva ruaj."
+},
+{
+"startMs": 2810527,
+"endMs": 2817006,
+"text": "Llegó viento. Morira geshem, data mitra. Literal, lo que iba diciendo, se iba cumpliendo."
+},
+{
+"startMs": 2817866,
+"endMs": 2823946,
+"text": "Que fue la mitrá. Llegó lluvia. ¿Sí? Ki mata leme mar jayame sir."
+},
+{
+"startMs": 2824446,
+"endMs": 2827386,
+"text": "Bergeshalma. Bergeshalma. Zehu, ya, no era el Mashíaj."
+},
+{
+"startMs": 2828747,
+"endMs": 2835906,
+"text": "Está cumpliendo cada palabra. Sivasir baruj ata HaShem me haja metim Mashíaj. Mashíaj, takabó. Es el Koja del Rab Hia, de Jahíot Metim."
+},
+{
+"startMs": 2836366,
+"endMs": 2843086,
+"text": "Es el Koja de Jahíat Metim. Es decir- Amre Berkiá. Rabió Jónon dice: «Hay joshej, harire taor. Rishlakish, ani ofej taor la joshej»."
+},
+{
+"startMs": 2843287,
+"endMs": 2849787,
+"text": "A la, a la, porque no es Koja la Koja. Dice: «Amrei Berkiá, man gale razia ve alma». ¿Quién guía este sol?"
+},
+{
+"startMs": 2849846,
+"endMs": 2857167,
+"text": "Elihu. Amre Elihu. Hay tú el Elihu, mejú shit impunse de Nura. Otra vez llegó el esh. Ese es el esh de Rab Hia."
+},
+{
+"startMs": 2857827,
+"endMs": 2860346,
+"text": "Ata isme lo que duva de Nura. Pareció un,"
+},
+{
+"startMs": 2861807,
+"endMs": 2871807,
+"text": "un dog, un, un oso de fuego. Al benay u tardí. Ya, los, los espantó a todos y ya no, no tuvo tanto agilidad al fila."
+},
+{
+"startMs": 2871966,
+"endMs": 2881167,
+"text": "Pero ya casi, o sea, venía. Era la luna. Entonces, es mi prueba de que si Rabió Jónon Rishlakish se hubieran unido, to-to-- ya subía, ¿me explico?"
+},
+{
+"startMs": 2881626,
+"endMs": 2890406,
+"text": "O sea, también la subida de Rabió Jónon Rishlakish está aquí atrás, ¿sí? Un dos, un dos más atrás. ¿Acabaste lo de Rab Hanina o te quedó pendiente? No, entonces, por eso, ¿quién es el que, el que cura a Rabió Jónon?"
+},
+{
+"startMs": 2890466,
+"endMs": 2898546,
+"text": "Rab Hanina. Porque el or de Rabió Jónon es justamente el pilpul. ¿Explico o no?"
+},
+{
+"startMs": 2898546,
+"endMs": 2905267,
+"text": "¿Eh? Rab Hanina, ¿cuál es su Koja?"
+},
+{
+"startMs": 2906167,
+"endMs": 2914446,
+"text": "Pilpul. Él es el que, el que le dio a todo el Rab Hia su Koja. ¿Me explico? Rab Hanina es el pilpul. En nuestra subida, Rabió Jónon se enfermó."
+},
+{
+"startMs": 2914787,
+"endMs": 2920807,
+"text": "Y Rab Hanina- ¿Quién lo levanta? Rab Hanina. Rab Hanina. Tú me-- no alguien de estilo Rabió Jónon. Le falta."
+},
+{
+"startMs": 2920866,
+"endMs": 2930067,
+"text": "Él, él tiene un or. Rab Hanina, Rabidi, o sea, al revés. Rabió Jónon entró-- jalash, entró a joshej. Entonces, lo único or que hay para Rabió Jónon es el joshej."
+},
+{
+"startMs": 2931107,
+"endMs": 2939446,
+"text": "Entonces, Rab Hanina es el que lo levanta. Y el que viene del joshej al or. Sí. Y ese es el, el, el omen que hay de que Rishlakish, ese man era el or de Rabió Jónon también."
+},
+{
+"startMs": 2940886,
+"endMs": 2943207,
+"text": "Guau, qué locura. Ojo."
 }
 ]
 }
