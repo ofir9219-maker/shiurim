@@ -33,6 +33,14 @@ export function textSearch(q: string, opts: { daf?: string; limit?: number } = {
   return rows;
 }
 
+/** Number of segments matching q (FTS, same tokenization as textSearch). */
+export function ftsCount(q: string): number {
+  const db = getDb();
+  const match = sanitizeQuery(q);
+  if (!db || !match) return 0;
+  return (db.prepare(`SELECT count(*) AS n FROM segments_fts WHERE segments_fts MATCH ?`).get(match) as { n: number }).n;
+}
+
 export function hasEmbeddings(): boolean {
   const db = getDb();
   if (!db) return false;

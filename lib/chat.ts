@@ -1,5 +1,5 @@
 import { getDb, listClasses, getClass, getSegments, parseJson, type Daf } from "./db";
-import { hybridSearch } from "./search";
+import { hybridSearch, ftsCount, type ChunkHit } from "./search";
 import { completeLLM, llmConfig, streamLLM } from "./chat-llm";
 import {
   SYSTEM_PROMPT, NOT_FOUND, buildContext, citedMarkers, cleanText, detectIntent, evenIndexes, fmtTime, heuristicQuery,
@@ -30,9 +30,21 @@ async function retrieve(q: string, k: number, classId?: string): Promise<Hit[]> 
   const run = async (query: string) => (await hybridSearch(query, classId ? 60 : k * 3)).filter((h) => !classId || h.classId === classId);
   let hits = await run(q);
   if (!hits.length) {
-    const kws = keywords(q, 6).sort((a, b) => b.length - a.length).slice(0, 3);
+    // Rarest keywords first (most specific); try keyword pairs before single keywords so a
+    // common word ("momento") does not drown the topic word ("Bilam").
+    const kws = keywords(q, 6).map((k) => ({ k, n: ftsCount(k) })).filter((x) => x.n > 0).sort((a, b) => a.n - b.n).map((x) => x.k).slice(0, 4);
+    const pairs: string[] = [];
+    for (let i = 0; i < kws.length; i++) for (let j = i + 1; j < kws.length; j++) pairs.push(`${kws[i]} ${kws[j]}`);
     const seen = new Set<string>();
-    for (const kw of kws) for (const h of await run(kw)) { const key = `${h.classId}:${h.startMs}`; if (!seen.has(key)) { seen.add(key); hits.push(h); } }
+    const addAll = (list: ChunkHit[]) => { for (const h of list) { const key = `${h.classId}:${h.startMs}`; if (!seen.has(key)) { seen.add(key); hits.push(h); } } };
+    for (const pq of pairs) addAll(await run(pq));
+    if (hits.length < k) {
+      // Interleave single-keyword results so no single keyword fills every slot.
+      const lists = await Promise.all(kws.slice(0, 3).map(run));
+      const inter: ChunkHit[] = [];
+      for (let i = 0; i < Math.max(0, ...lists.map((l) => l.length)); i++) for (const l of lists) if (l[i]) inter.push(l[i]);
+      addAll(inter);
+    }
   }
   return hits.map((h) => ({ classId: h.classId, title: h.title, startMs: h.startMs, text: h.text }));
 }

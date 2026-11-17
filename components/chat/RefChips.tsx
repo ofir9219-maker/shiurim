@@ -18,11 +18,12 @@ export function RefChips({ refs, cited, onPlay }: { refs: Ref[]; cited?: number[
               className="flex min-w-0 flex-1 items-center gap-2 px-3 py-2 text-left text-[#1c2a4a] hover:bg-[#f3e6c4] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#b8893a]"
             >
               <span className="grid h-5 w-5 shrink-0 place-items-center rounded-full bg-[#1c2a4a] text-[11px] text-[#f3e6c4]">{i + 1}</span>
-              <span className="truncate">{r.title} · <span className="font-semibold text-[#8a6420]">{fmtTime(r.startMs)}</span></span>
-              <span aria-hidden className="ml-auto text-[#b8893a]">▶</span>
+              <span className="min-w-0 flex-1 truncate text-right" dir="rtl" lang="he">{r.title}</span>
+              <span className="shrink-0 font-semibold tabular-nums text-[#8a6420]">{fmtTime(r.startMs)}</span>
+              <span aria-hidden className="shrink-0 text-[#b8893a]">▶</span>
             </button>
             <a
-              href={`/shiur/${encodeURIComponent(r.classId)}?t=${Math.floor(r.startMs / 1000)}`}
+              href={`/shiur/${encodeURIComponent(r.classId)}?t=${Math.ceil(r.startMs / 100) / 10}`}
               className="grid shrink-0 place-items-center border-l border-[#c9a45c]/60 px-3 text-xs text-[#8a6420] hover:bg-[#f3e6c4]"
               aria-label={`Abrir ${r.title} en ${fmtTime(r.startMs)}`}
             >

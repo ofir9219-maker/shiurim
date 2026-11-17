@@ -48,7 +48,7 @@ export default function SearchView() {
 
   const open = (h: Hit) => {
     p.playAt(h.classId, h.startMs);
-    router.push(`/shiur/${h.classId}?t=${Math.floor(h.startMs / 1000)}`);
+    router.push(`/shiur/${h.classId}?t=${Math.ceil(h.startMs / 100) / 10}`);
   };
 
   return (

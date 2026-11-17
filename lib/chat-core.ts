@@ -21,7 +21,7 @@ export function fmtTime(ms: number): string {
 const STOP = new Set(
   ("a al algo ante aqui aquí como con cual cuales cuál cuáles cuando cuándo de del desde donde dónde el ella ellos en entre era es esa ese eso esta este esto " +
     "hay la las le les lo los me mi mas más muy no nos o para pero por que qué quien quién se si sí sin sobre su sus te tiene tienen un una uno y ya " +
-    "dice dijo dicen decir habla hablan habla hablo explica explicame explícame cuentame cuéntame dime puedes puedo quiero saber shiur shiurim clase clases rab rav " +
+    "dice dijo dicen decir habla hablan habla hablo explica explicame explícame cuentame cuéntame dime puedes puedo quiero saber shiur shiurim clase clases rab rav rabino rabinos rabbi maestro " +
     "resume resumen resumi resumí resumir trata tratan the of and what is about").split(/\s+/)
 );
 

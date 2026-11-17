@@ -52,7 +52,10 @@ const tx = db.transaction(() => {
     const pol: Pol | null = fs.existsSync(pf) ? JSON.parse(fs.readFileSync(pf, "utf8")) : null;
     // Merge gap-fill segments (re-transcribed stretches Scribe had dropped) by time.
     const gf = path.join(root, "data", "gapfill", `${inv.id}.json`);
-    const extra: Seg[] = pol && fs.existsSync(gf) ? JSON.parse(fs.readFileSync(gf, "utf8")) : [];
+    const gf2 = path.join(root, "data", "gapfill2", `${inv.id}.json`);
+    const extra: Seg[] = pol
+      ? [gf, gf2].flatMap((f) => (fs.existsSync(f) ? (JSON.parse(fs.readFileSync(f, "utf8")) as Seg[]) : []))
+      : [];
     const segs = [...(pol?.segments ?? []), ...extra].sort((a, b) => a.startMs - b.startMs);
     const daf = pol?.daf ?? [];
     const ord = parseFloat(inv.order);

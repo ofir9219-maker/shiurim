@@ -70,7 +70,7 @@ export default function ChatPanel({ classId }: { classId?: string } = {}) {
   }, [msgs, busy, classId]);
 
   return (
-    <section className="mx-auto flex h-[calc(100dvh-8rem)] min-h-[24rem] w-full max-w-2xl flex-col rounded-xl border border-[#c9a45c]/50 bg-[#f6efdc] text-[#1c2a4a] shadow-sm">
+    <section className="chat-box mx-auto flex h-[calc(100dvh-8rem)] min-h-[24rem] w-full max-w-2xl flex-col rounded-xl border border-[#c9a45c]/50 bg-[#f6efdc] text-[#1c2a4a] shadow-sm">
       <div className="flex-1 space-y-4 overflow-y-auto px-3 py-4 sm:px-5" aria-live="polite">
         {ready && msgs.length === 0 && (
           <div className="space-y-3 pt-4 text-center">

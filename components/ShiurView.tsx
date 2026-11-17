@@ -66,8 +66,24 @@ export default function ShiurView({ id }: { id: string }) {
 
   useEffect(() => {
     if (!follow || idx < 0) return;
-    document.querySelector(`[data-idx="${idx}"]`)?.scrollIntoView({ block: "center", behavior: "smooth" });
-  }, [idx, follow]);
+    const el = document.querySelector<HTMLElement>(`[data-idx="${idx}"]`);
+    if (!el) return;
+    const r = el.getBoundingClientRect();
+    if (r.top > 80 && r.bottom < window.innerHeight * 0.75) return; // already comfortably visible
+    // Segments use content-visibility:auto (estimated heights), so a long smooth scroll lands in the
+    // wrong place: jump instantly when far away and re-center once the rows near the target render.
+    const far = Math.abs(r.top - window.innerHeight / 2) > window.innerHeight * 2;
+    el.scrollIntoView({ block: "center", behavior: far ? "auto" : "smooth" });
+    if (!far) return;
+    let n = 0, raf = 0;
+    const fix = () => {
+      const t = el.getBoundingClientRect().top - (window.innerHeight - el.offsetHeight) / 2;
+      if (Math.abs(t) > 40) el.scrollIntoView({ block: "center" });
+      if (++n < 6) raf = requestAnimationFrame(fix);
+    };
+    raf = requestAnimationFrame(fix);
+    return () => cancelAnimationFrame(raf);
+  }, [idx, follow, cls]);
 
   useEffect(() => {
     const stop = () => setFollow(false);

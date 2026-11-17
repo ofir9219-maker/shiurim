@@ -3,7 +3,7 @@
 OUT=/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/gaps; mkdir -p $OUT
 python3 - "$OUT" <<'PY'
 import json,subprocess,os,sys
-out=sys.argv[1]; g=json.load(open('data/gaps.json'))
+out=sys.argv[1]; g=json.load(open(os.environ.get('GAPS','data/gaps.json')))
 for id in sorted({x['id'] for x in g}):
     src=f'{out}/{id}.src'
     if not os.path.exists(src):
@@ -13,5 +13,5 @@ for id in sorted({x['id'] for x in g}):
         subprocess.run(['ffmpeg','-v','error','-y','-ss',str(x['startMs']/1000),'-to',str(x['endMs']/1000),'-i',src,'-vn','-ac','1','-ar','22050','-b:a','48k',p],check=True)
         x['path']=p; x['size']=os.path.getsize(p)
     os.remove(src); print('cut',id,flush=True)
-json.dump(g,open('data/gaps.json','w'),indent=1)
+json.dump(g,open(os.environ.get('GAPS','data/gaps.json'),'w'),indent=1)
 PY
