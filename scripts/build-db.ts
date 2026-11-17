@@ -50,7 +50,10 @@ const tx = db.transaction(() => {
   for (const inv of inventory) {
     const pf = path.join(pDir, `${inv.id}.json`);
     const pol: Pol | null = fs.existsSync(pf) ? JSON.parse(fs.readFileSync(pf, "utf8")) : null;
-    const segs = pol?.segments ?? [];
+    // Merge gap-fill segments (re-transcribed stretches Scribe had dropped) by time.
+    const gf = path.join(root, "data", "gapfill", `${inv.id}.json`);
+    const extra: Seg[] = pol && fs.existsSync(gf) ? JSON.parse(fs.readFileSync(gf, "utf8")) : [];
+    const segs = [...(pol?.segments ?? []), ...extra].sort((a, b) => a.startMs - b.startMs);
     const daf = pol?.daf ?? [];
     const ord = parseFloat(inv.order);
     upC.run({
