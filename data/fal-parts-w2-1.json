@@ -59,7 +59,8 @@
   "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_00.mp3",
   "size": 6840286,
   "offsetMs": 0,
-  "durationMs": 1140009
+  "durationMs": 1140009,
+  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4db/UUY_im5xnX8oE31lN_SaV_1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_00.mp3"
  },
  {
   "id": "1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj",
@@ -67,7 +68,8 @@
   "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_01.mp3",
   "size": 6840285,
   "offsetMs": 1140009,
-  "durationMs": 1140009
+  "durationMs": 1140009,
+  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4db/ZOeBPAKOC2-0uAzkGEq5k_1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_01.mp3"
  },
  {
   "id": "1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj",
@@ -75,7 +77,8 @@
   "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_02.mp3",
   "size": 6840129,
   "offsetMs": 2280019,
-  "durationMs": 1139983
+  "durationMs": 1139983,
+  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4db/rOypV7xO2iPsyHRx2l04c_1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_02.mp3"
  },
  {
   "id": "1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj",
@@ -83,7 +86,8 @@
   "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_03.mp3",
   "size": 6680573,
   "offsetMs": 3420003,
-  "durationMs": 1113391
+  "durationMs": 1113391,
+  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4db/QNS0hofexqryBDFqTvH-C_1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_03.mp3"
  },
  {
   "id": "15yNhd62DD2NmUmv9p0Pfq0TjOIycYcvw",
@@ -856,7 +860,8 @@
   "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1W2vcpjilAne5Hzuu8xaKbmTifaWPrxRY_01.mp3",
   "size": 6840519,
   "offsetMs": 1140009,
-  "durationMs": 1140009
+  "durationMs": 1140009,
+  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4fe/sFegIJHtHg2y-ffrjchi6_1W2vcpjilAne5Hzuu8xaKbmTifaWPrxRY_01.mp3"
  },
  {
   "id": "1W2vcpjilAne5Hzuu8xaKbmTifaWPrxRY",
@@ -882,7 +887,8 @@
   "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1W2vcpjilAne5Hzuu8xaKbmTifaWPrxRY_04.mp3",
   "size": 6840520,
   "offsetMs": 4560013,
-  "durationMs": 1140009
+  "durationMs": 1140009,
+  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4fd/OWh9iYll5p2c7XCLGuVN5_1W2vcpjilAne5Hzuu8xaKbmTifaWPrxRY_04.mp3"
  },
  {
   "id": "1W2vcpjilAne5Hzuu8xaKbmTifaWPrxRY",
@@ -890,42 +896,7 @@
   "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1W2vcpjilAne5Hzuu8xaKbmTifaWPrxRY_05.mp3",
   "size": 688213,
   "offsetMs": 5700022,
-  "durationMs": 114625
- },
- {
-  "id": "1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj",
-  "part": 0,
-  "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_00.mp3",
-  "size": 6840286,
-  "offsetMs": 0,
-  "durationMs": 1140009,
-  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4db/UUY_im5xnX8oE31lN_SaV_1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_00.mp3"
- },
- {
-  "id": "1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj",
-  "part": 1,
-  "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_01.mp3",
-  "size": 6840285,
-  "offsetMs": 1140009,
-  "durationMs": 1140009,
-  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4db/ZOeBPAKOC2-0uAzkGEq5k_1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_01.mp3"
- },
- {
-  "id": "1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj",
-  "part": 2,
-  "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_02.mp3",
-  "size": 6840129,
-  "offsetMs": 2280019,
-  "durationMs": 1139983,
-  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4db/rOypV7xO2iPsyHRx2l04c_1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_02.mp3"
- },
- {
-  "id": "1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj",
-  "part": 3,
-  "path": "/tmp/claude-0/-home-user-shiurim/f39cbfef-c1b5-5b80-9001-8723138a7602/scratchpad/audio/1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_03.mp3",
-  "size": 6680573,
-  "offsetMs": 3420003,
-  "durationMs": 1113391,
-  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4db/QNS0hofexqryBDFqTvH-C_1_dYAWUuB3mS5DHQVkgUDy_pzrKF19eGj_03.mp3"
+  "durationMs": 114625,
+  "fileUrl": "https://v3b.fal.media/files/b/0ab2d4fd/XIxS1c3SbcrmmdKTp5LMr_1W2vcpjilAne5Hzuu8xaKbmTifaWPrxRY_05.mp3"
  }
 ]
