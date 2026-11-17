@@ -1,0 +1,41 @@
+[
+ {
+  "id": "FIXTURE_ID_0001",
+  "name": "Berajot 2a - Zman Keriat Shema",
+  "order": "1.1",
+  "ext": "mp3",
+  "mimeType": "audio/mpeg",
+  "sizeBytes": 6954560,
+  "durationMs": 434660,
+  "mdId": null,
+  "mdName": null,
+  "transcript": "none",
+  "inShiurim": true
+ },
+ {
+  "id": "FIXTURE_ID_0002",
+  "name": "Berajot 3a - Ashmorot",
+  "order": "1.2",
+  "ext": "mp3",
+  "mimeType": "audio/mpeg",
+  "sizeBytes": 7420800,
+  "durationMs": 463800,
+  "mdId": null,
+  "mdName": null,
+  "transcript": "none",
+  "inShiurim": true
+ },
+ {
+  "id": "FIXTURE_ID_0003",
+  "name": "Berajot 4b-5a - Yisurim",
+  "order": "2.1",
+  "ext": "mp3",
+  "mimeType": "audio/mpeg",
+  "sizeBytes": 7887040,
+  "durationMs": 492940,
+  "mdId": null,
+  "mdName": null,
+  "transcript": "none",
+  "inShiurim": true
+ }
+]

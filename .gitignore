@@ -1,0 +1,8 @@
+node_modules
+.next
+.env
+.env.local
+data/shiurim.db*
+data/.cache
+*.tsbuildinfo
+next-env.d.ts
