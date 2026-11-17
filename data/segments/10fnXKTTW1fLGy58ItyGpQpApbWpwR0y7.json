@@ -1,0 +1,2616 @@
+{
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+"segments": [
+{
+"startMs": 420,
+"endMs": 7440,
+"text": "Vamos, gracias a Dios. Shma min ha-- mitzvot tzrichot kavana, ma im kiven libo likrot, likrot"
+},
+{
+"startMs": 8660,
+"endMs": 10460,
+"text": "ve'aka kare bekol ele hagia."
+},
+{
+"startMs": 11720,
+"endMs": 18020,
+"text": "Dice, dice, dice Rashi. O sea, ¿qué pasó? Hayak kore baTorá begia zman amikra, im kiven libo yetza."
+},
+{
+"startMs": 18060,
+"endMs": 30320,
+"text": "¿Quieres decir que- Veamos que mitzvot tzrichot kavana. Mitzvot tzrichot kavana es kavana, hay machloket, si necesitas kavana, si necesitas kavana, que estás cumpliendo una mitzvá o con el puro acto, aún siendo que no estás poniendo kavana"
+},
+{
+"startMs": 31620,
+"endMs": 38720,
+"text": "de que estás cumpliendo la mitzvá. Por ejemplo, está uno en Rosh Hashaná y de repente escucha un shofar, pero no es que dijo: \"Voy a cumplir la mitzvá del shofar\"."
+},
+{
+"startMs": 39240,
+"endMs": 47440,
+"text": "Entonces, machloket, si mitzvot tzrichot kavana o lo tzrichot kavana. ¿Cuáles son los dos opinions, entonces? Si necesitas poner kavana en cumplir la mitzvá, ¿no?"
+},
+{
+"startMs": 47580,
+"endMs": 51060,
+"text": "O ya con el puro maase de la mitzvá ya."
+},
+{
+"startMs": 52500,
+"endMs": 55560,
+"text": "Ah, ah, ah, si kavana o no kavana dijiste, okey. Sí. Vamos."
+},
+{
+"startMs": 63700,
+"endMs": 72360,
+"text": "Shma miná, mitzvot tzrichot kavana, porque la Mishná dice: \"Im kiven libo yetzá\". Dice: \"Ma im kiven libo\", dice, \"likrot\"."
+},
+{
+"startMs": 73580,
+"endMs": 81100,
+"text": "Dice, dice entonces acá, más aquí vamos a definir bien. Primero, hay machloket si mitzvot tzrichot kavana o no tzrichot kavana."
+},
+{
+"startMs": 81340,
+"endMs": 95960,
+"text": "¿Cuál es la machloket? No que sepas cuál es el tam de la mitzvá, sino nada más que pongas kavana, que estás cumpliendo la mitzvá. Hay quien dice que ni eso necesitas, pero necesitas tú, exactamente, kavana que estás haciendo el maase mitzvá."
+},
+{
+"startMs": 97000,
+"endMs": 103260,
+"text": "Si el acto de la mitzvá, eso necesitas tener kavana. Entonces- O sea, el acto del ulav, no que estoy cumpliendo la mitzvá con el ulav."
+},
+{
+"startMs": 103700,
+"endMs": 111760,
+"text": "Exactamente. Entonces, acá- Está raro, ¿no? ¿Cómo no tendrías kavana? Tipo borracho. No, no, no, no. Escuchaste- No, no sabes que es mitzvá."
+},
+{
+"startMs": 112320,
+"endMs": 118380,
+"text": "Imagínate que no sabes que es mitzvá aún, un giloni que está pasando por el Jnís. No, no, eso no es verdad, porque dice likrot, kavana de likrot. ¿Cómo?"
+},
+{
+"startMs": 118560,
+"endMs": 125860,
+"text": "Lo estoy leyendo, dizque estoy loco de la cabeza. Ya te entendí. ¿Cómo va a estar leyendo y no va a tener kavana? No es la Gemara. Sí, ya te entendí. Dice la Gemara. Es como, como empezó la Mishná."
+},
+{
+"startMs": 126100,
+"endMs": 132320,
+"text": "Ve'aka kare. No, está bien, porque estás leyendo. Ahí estás haciendo el mismo acto."
+},
+{
+"startMs": 132820,
+"endMs": 137100,
+"text": "Le shem talmud Torá. No importa, pero estás haciendo el mismo acto de kriat shemá. Sobre el acto."
+},
+{
+"startMs": 138480,
+"endMs": 148200,
+"text": "Uno se llama mikrá y, y kriat shemá se llama kriat shemá. Entonces, el acto es el mismo. Entonces, dice la Gemara, dice: \"No, ve'aka kare\", estás leyendo, entonces, ¿qué problema hay?"
+},
+{
+"startMs": 148800,
+"endMs": 160840,
+"text": "Dice: \"No, bekol ele hagía\". Está leyendo para corregir. O sea, él está, no está leyendo el Sefer Torá, sino está tratando de corregir la Torá y la va leyendo."
+},
+{
+"startMs": 161740,
+"endMs": 171500,
+"text": "Y va leyendo: Shemá, Israel. Y él está checando si está bien o está mal. Entonces, ahí, afilu según el Maadei HaMa, que mitzvot lo tzrichot kavana, no estás leyendo."
+},
+{
+"startMs": 171540,
+"endMs": 180840,
+"text": "Dice: \"Shma min ha-mitzvot tzrichot kavana\", dice Rashi, \"sheyet mitkaven es shem mitzvot ve tikshe le-Rava de-amar be-Masejet Rosh Hashaná: tokena le-shir yetzá\"."
+},
+{
+"startMs": 181500,
+"endMs": 187840,
+"text": "El que toca un shofar por música, sale de jová, porque ahí es igual, estás escuchando el shofar."
+},
+{
+"startMs": 187900,
+"endMs": 199580,
+"text": "No me importa si yo estaba haciéndolo por, por disfrutar de la música del shofar. Entonces, dice: \"Kiven likrot, aval latzet yedei mitzvá lo ba ená, sheyejet mitkaven, elav likrot baTorá ve'alma\", dice la Gemara."
+},
+{
+"startMs": 199600,
+"endMs": 205640,
+"text": "\"Akakare, akore ka'asik,ktana, ve'atte de'ktane haya kore baTorá\"."
+},
+{
+"startMs": 205940,
+"endMs": 212880,
+"text": "Dice: \"No, bekol ele hagía et haséfer im yes bo ta'ut, de'afilu le'kria náme lo mitkaven\"."
+},
+{
+"startMs": 212940,
+"endMs": 225200,
+"text": "Es como yo, es como yo, que cuando estoy escribiendo un mensaje, entonces lo, lo estoy leyendo y se queja acá mi amigo. Pero está maguía, el que está maguía, entonces lo está leyendo, pero porque está checando, no porque lo quiere leer."
+},
+{
+"startMs": 225360,
+"endMs": 231520,
+"text": "Okey, entonces, ¿cuál es la tnuat nefesh diferente en la guía a, al likrot? Está checando, no está leyendo."
+},
+{
+"startMs": 232240,
+"endMs": 240400,
+"text": "Este no está, no está leyendo. Sí, pero ale, le maise hace la peula de, de, de... ¿Qué está haciendo? Le estoy-- Ale, si dice que está leyendo be'fal. O sea, físicamente está leyendo."
+},
+{
+"startMs": 240460,
+"endMs": 247420,
+"text": "No está leyendo. O sea, ¿cuál es la diferencia entre, entre shofar para escuchar música y shofar, escuchar el shofar?"
+},
+{
+"startMs": 247960,
+"endMs": 254160,
+"text": "Y leer, ahí yo me diría: no, be'met son dos cosas, pero físicamente es el mismo acto, escuchar."
+},
+{
+"startMs": 254160,
+"endMs": 256720,
+"text": "¿Qué pasa si yo te digo que estoy en la regadera, que me pasa"
+},
+{
+"startMs": 258240,
+"endMs": 266180,
+"text": "de, así, kilo a veces, sí me pasa, y de repente estoy hablando en la regadera? ¿Va? ¿Estoy pensando o estoy hablando? ¿Qué estoy haciendo?"
+},
+{
+"startMs": 266440,
+"endMs": 269060,
+"text": "Estás pensando. Estoy pensando. De repente,"
+},
+{
+"startMs": 273020,
+"endMs": 280220,
+"text": "de repente: oye, estoy loco, estoy hablando. A mí me pasa también. A todos nos pasa. A mí no me vengas que en la regadera no les pasa. Te encuentras hablando a ti solo."
+},
+{
+"startMs": 280340,
+"endMs": 281780,
+"text": "Nada más que unos reconocen y unos no."
+},
+{
+"startMs": 283500,
+"endMs": 284380,
+"text": "Bueno, pero no."
+},
+{
+"startMs": 286140,
+"endMs": 292180,
+"text": "Porque shofar, yo quiero la música, quiero el sonido."
+},
+{
+"startMs": 292840,
+"endMs": 299580,
+"text": "El de la guía, no quiero leer, quiero la Biblia. Y acá también, yo quiero escuchar música, no quiero escuchar el shofar."
+},
+{
+"startMs": 299700,
+"endMs": 308780,
+"text": "No, no, pero voy por la... Yo voy por la, voy por la... Cuando estás checando, no estás... Estás revisando la música de cada letra."
+},
+{
+"startMs": 309920,
+"endMs": 316380,
+"text": "Estás checando si la shin tiene las coronitas. Inconsciente. ¿Cuál es la diferencia? No estoy consciente."
+},
+{
+"startMs": 316880,
+"endMs": 324860,
+"text": "No, no estás leyendo. Porque no consultas la shin de hacer su peula. Sin conciencia. Va a tener que los dos son en lo mitkaven."
+},
+{
+"startMs": 326100,
+"endMs": 327780,
+"text": "Lo mitkaven, los dos son lo mitkaven."
+},
+{
+"startMs": 330340,
+"endMs": 331420,
+"text": "¿Hay conciencia de hacer"
+},
+{
+"startMs": 338080,
+"endMs": 338380,
+"text": "lo mitzva?"
+},
+{
+"startMs": 341520,
+"endMs": 347980,
+"text": "Ahora, ¿este sí sirve? ¿Este sí sirve? Este sí sirve. ¿Cuál, cuál, cuál? El mío. Si alguien, imagínate, alguien dice..."
+},
+{
+"startMs": 349420,
+"endMs": 357700,
+"text": "No sé, no sé, ¿qué pasa si a alguien le cuentan una noticia y dice: Shemá Israel Hashem eloheinu Hashem ejad? Así, pero dijo: Shemá Israel Hashem eloheinu Hashem ejad."
+},
+{
+"startMs": 357720,
+"endMs": 359440,
+"text": "No, hizo y justo además lo pudiste, ahí..."
+},
+{
+"startMs": 360940,
+"endMs": 370504,
+"text": "No, pero hizo mikrá, leyó el Shemá. No, no, claro que no. Entonces, a ver, vamos a pensar un poquito. O sea, yo creo que todo tiene razón, ¿no?"
+},
+{
+"startMs": 370864,
+"endMs": 377704,
+"text": "Vamos a lo mejor un poquito más arriba. De Shemá, del Kriat Shemá. La Shemá del Kriat Shemá o no, que si lo importante es el dibur, es la Shemá."
+},
+{
+"startMs": 377704,
+"endMs": 385724,
+"text": "A Filo que lo hiciste así, si saliste de Jehová. No, no, no, no. Sea la que sea la cita. ¿Saliste de Jehová o no? Estamos hablando del Mase Mitzvá del Kriat Shemá."
+},
+{
+"startMs": 385904,
+"endMs": 395444,
+"text": "Tienes que la tiro, tengo que hacerlo correctamente. Ahora, si es la guía, a Filo que estoy leyendo el Shemá y estoy leyendo el Shemá, Israel, Hashem, Elohenu sinefsek."
+},
+{
+"startMs": 395844,
+"endMs": 406664,
+"text": "Pero yo estoy diciéndolo. Imagínate que el sefer Torah está bien, ¿sí? Yo, pero yo estoy checando y digo: Shemá Israel, Hashem, Elohenu, Hashem, Echad, Vehaftha, Et, Hashem, Elohecha."
+},
+{
+"startMs": 407124,
+"endMs": 411684,
+"text": "Acabé en un minuto y diez segundos, en vez de en un minuto."
+},
+{
+"startMs": 413004,
+"endMs": 420204,
+"text": "Y viene alguien y me dice: \"No saliste de Jehová\". Pero leí todo el Shemá. No, pero tú en tu cabeza estabas checando que las letras estén bien."
+},
+{
+"startMs": 420464,
+"endMs": 430984,
+"text": "Bueno, pero leí el Shemá. ¿Cuál es la diferencia entre si yo leí, estaba leyendo la Torah y de repente llegué al Shemá sin pensar que estoy cumpliendo la mitzvá del Shemá, a que los dos estoy haciendo el acto físico de leer el Shemá?"
+},
+{
+"startMs": 431404,
+"endMs": 440384,
+"text": "Yo nada más en mi cabeza estoy checando, o en mi cabeza estoy leyendo. ¿Cuál es la diferencia? La conciencia, o sea-- Pero no, la conciencia también en el shofar."
+},
+{
+"startMs": 440424,
+"endMs": 450184,
+"text": "Yo no estoy pensando en la brit de Hashem, yo estoy pensando en disfrutar una canción. Entonces, yo estoy disfruta-- eh, disfrutar la canción, entonces mi cabeza está en otra cosa."
+},
+{
+"startMs": 450284,
+"endMs": 456544,
+"text": "No, pero sí se entiende, sí se entiende. Est-estás escuchando acá un shofar. O sea, sé que estoy escuchando un shofar. Estás leyendo el Shemá."
+},
+{
+"startMs": 456704,
+"endMs": 463084,
+"text": "Estoy leyendo el Shemá. No, porque en mi conciencia no estoy leyendo, en mi conciencia estoy checando y me salió."
+},
+{
+"startMs": 463124,
+"endMs": 471284,
+"text": "Y ahí estás tocando una trompeta. Pero no estoy consciente en que quiero leer, ¿no? Yo lo tengo claro, yo lo tengo en la habaná, pero lo tengo en el gueder."
+},
+{
+"startMs": 471484,
+"endMs": 480684,
+"text": "No lo tengo, ¿por qué es así? El gueder está claro. Con intención sin conciencia. Falta un poquito la... Si lees con intención y sin conciencia, estás papaloteando, y voy a darle café."
+},
+{
+"startMs": 482424,
+"endMs": 484064,
+"text": "Por eso te diciendo, no es la conciencia. No, porque"
+},
+{
+"startMs": 489784,
+"endMs": 495944,
+"text": ". No te olvida la conciencia, porque puedes estar papaloteando y... ¿Qué pasa? ¿Qué pasa? ¿Qué pasa?"
+},
+{
+"startMs": 496004,
+"endMs": 503344,
+"text": "Escuchen este caso. Este behemet, yo creo que es Nafcamina. ¿Qué pasa? Es que decir Shemá con tus hijos es una cosa, ¿qué pasa un moreh?"
+},
+{
+"startMs": 503644,
+"endMs": 510564,
+"text": "Ah, yo lo he pensado bien. Un moreh viene con toda la clase. Shemá, y todos le repiten: Shemá, Israel, Israel, manding ahí."
+},
+{
+"startMs": 510604,
+"endMs": 517004,
+"text": "¿Sale de Jehová o no? No hizo ni un efsek, porque ahí sí quiere... No, no. Sí. Va a ser como la guía."
+},
+{
+"startMs": 517264,
+"endMs": 524384,
+"text": "Porque no es el-- tú dices: \"No, está enseñando\". Es diferente con la revisada. No, no, no va a salir. No, va a salir, claro."
+},
+{
+"startMs": 524384,
+"endMs": 534704,
+"text": "Claro. Les voy a decir, les voy a decir. Si es, si es como Rafa está diciendo antes, que la acción de la guía es más una acción que tú no estás en las palabras, que estás en las letras."
+},
+{
+"startMs": 534764,
+"endMs": 541324,
+"text": "Entonces, cuando tú no estás en las palabras y no estás en las letras, entonces no estás leyendo. Esa es una opción."
+},
+{
+"startMs": 541904,
+"endMs": 548784,
+"text": "Si fuera así, entonces en el caso de el melamed, el moreh, sales de Jehová."
+},
+{
+"startMs": 549024,
+"endMs": 558124,
+"text": "No, pero también la halajá, creo que la halajá es que tienes que decir la palabra y escribir, decir la palabra y escribir. Muy bien, pero está diciendo la palabra y sin checar las letras."
+},
+{
+"startMs": 558844,
+"endMs": 566684,
+"text": "Ahora, esa es una opción. Yo otra opción que yo estoy diciendo, y yo creo que en el caso del moreh, según esto, no sales de Jehová."
+},
+{
+"startMs": 566704,
+"endMs": 577584,
+"text": "Claro que no. Ahora, según-- en, en el caso de si alguien dice Shemá con sus hijos, puede ser que sí, pero en un moreh, yo creo que ahí, según la o-opción que voy a decir, no sales de Jehová."
+},
+{
+"startMs": 577584,
+"endMs": 584364,
+"text": "¿Por qué no? Entonces, les voy a decir la segunda opción. Fíjense. ¿Qué, qué palabra? ¿Qué hay?"
+},
+{
+"startMs": 585084,
+"endMs": 591564,
+"text": "¿Qué palabra? Coré. Sí, Coré. Coré, ¿a qué otra palabra le suena?"
+},
+{
+"startMs": 591604,
+"endMs": 595504,
+"text": "Kria. ¿Qué es Coré? Romper, cortar. No, no Corea."
+},
+{
+"startMs": 597124,
+"endMs": 603804,
+"text": "Entonces, es con hei, uno es con alef. Y uno con alef. Yo creo Likrot con alef, que es exactamente lo mismo, Likrot con alef."
+},
+{
+"startMs": 604124,
+"endMs": 611624,
+"text": "Likrot de leer y Likrot de... De dictar, cortar. No, no es Likrot. No, creo que es con hei."
+},
+{
+"startMs": 612844,
+"endMs": 620604,
+"text": "Likrot, Likralo. Háblale. Llámale. Likrot. Tehom, el Tehom, Coré."
+},
+{
+"startMs": 621344,
+"endMs": 627404,
+"text": "Un Tehom le llama a otro Tehom, llamar. ¿Alguien puede explicar la relación que hay entre leer y llamar?"
+},
+{
+"startMs": 627684,
+"endMs": 634684,
+"text": "Llamarle a alguien y leer es exactamente la misma palabra en hebreo. Pero no dirigido a él. ¿Cuál es la diferencia?"
+},
+{
+"startMs": 634964,
+"endMs": 641864,
+"text": "Que está dirigido a alguien. No tengo idea. Bueno, tú llamas, tú le has llamado al Kriat Shemá que nos está llamando a él todo el tiempo."
+},
+{
+"startMs": 641884,
+"endMs": 648364,
+"text": "No es la misma. No, no, Alef, Fiet. Yo estoy hablando de todo leer, Likrot, porque también había Coré vemi krasilve. Ambas son con alef."
+},
+{
+"startMs": 649064,
+"endMs": 655584,
+"text": "O sea, no puede ser algo especial del Kriat Shemá, porque Coré vemi krasilve, ¿me explico? No, la guía ahí es diferente."
+},
+{
+"startMs": 655604,
+"endMs": 656044,
+"text": "Pasó esto."
+},
+{
+"startMs": 657684,
+"endMs": 663944,
+"text": "Pero ¿las dos son con alef al final? ¿Una es con i y una es con alef? No, Likrot es con alef, de llamar es con alef. Likralo."
+},
+{
+"startMs": 663944,
+"endMs": 665164,
+"text": "¿Y de leer también? Sí."
+},
+{
+"startMs": 666704,
+"endMs": 673784,
+"text": "O sea, y seguro es lo mismo. Likrot. Los mismos shoresh, nomás, ya está. Carajo."
+},
+{
+"startMs": 673984,
+"endMs": 677144,
+"text": "Yo te estoy hablando y yo estoy leyendo, no tengo idea."
+},
+{
+"startMs": 678484,
+"endMs": 681204,
+"text": "Entonces, leer, fíjense, ¿cuál es la diferencia"
+},
+{
+"startMs": 682644,
+"endMs": 696964,
+"text": "entre qué pasa si yo dicto, estoy dictando, no estoy leyendo? Kriat Shemá es yo le estoy llamando a, o sea, si yo le llamo a alguien, yo le estoy llamando a alguien que venga."
+},
+{
+"startMs": 697824,
+"endMs": 700784,
+"text": "Yo le estoy llamando a alguien que venga. Cuando yo leo,"
+},
+{
+"startMs": 702104,
+"endMs": 705644,
+"text": "cuando yo leo, yo no estoy generando las palabras."
+},
+{
+"startMs": 706924,
+"endMs": 711964,
+"text": "No estoy yo generando las palabras, sino le estoy la-- llamando a las palabras que vengan a mí."
+},
+{
+"startMs": 713384,
+"endMs": 722004,
+"text": "Es como que hay una palabra ahí y entonces yo le estoy diciendo: \"Ven hacia mí\". La palabra ya está y le estoy llamando a que venga la palabra."
+},
+{
+"startMs": 722544,
+"endMs": 747788,
+"text": "Eso es leer. Leer, tú no eres alguien que genera palabras, ¿sí? No eres un generador de palabras, sino las palabras ya están, las palabras ya existen y yo les estoy llamando a que vengan hacia mí Por eso es likro de llamar y likro de leer Porque le llamaste como a una persona Es-- le estás llamando a cada palabra, la estás llamando para"
+},
+{
+"startMs": 747788,
+"endMs": 751128,
+"text": "que, exactamente, que venga. Entonces..."
+},
+{
+"startMs": 752848,
+"endMs": 765008,
+"text": "Ora, entonces, la diferencia entre likro y leaguía es que en leaguía yo soy el que le estoy dictando las palabras al texto."
+},
+{
+"startMs": 765408,
+"endMs": 774808,
+"text": "¿Qué quiere decir? El texto está mal escrito. Entonces yo ahorita soy el que está generando la palabra para poner- ¿Quién es el more y quién es el alumno?"
+},
+{
+"startMs": 774868,
+"endMs": 783388,
+"text": "Exactamente. Al principio, el more es el que, el que es el texto y yo estoy aprendiendo el texto. Acá tú eres el more y tú vas a enseñarle al texto."
+},
+{
+"startMs": 783428,
+"endMs": 796908,
+"text": "Exactamente, el texto tiene algo mal. El texto tiene algo mal. Y yo soy el que leo las pal-- digo las palabras para, para que el texto tenga las palabras que yo estoy diciendo."
+},
+{
+"startMs": 797348,
+"endMs": 804228,
+"text": "Entonces, en la, en leaguía y likro son, son dos nuot, ¿sí?"
+},
+{
+"startMs": 804288,
+"endMs": 811828,
+"text": "Dos movimientos opuestos. Leaguía es de yo hacia allá y likro es de allá hacia acá."
+},
+{
+"startMs": 812368,
+"endMs": 818708,
+"text": "Entonces, si yo estoy coré be mikrá y estoy en otra parashá y de repente llega el Shemá, likro, estoy coré."
+},
+{
+"startMs": 819508,
+"endMs": 830288,
+"text": "Porque yo estoy agarrando un texto y lo estoy leyendo. Pero cuando es leaguía, entonces ahí no estoy coré, sino yo estoy- Es una peúla más de ver."
+},
+{
+"startMs": 830568,
+"endMs": 843288,
+"text": "Según lo que has dicho antes, hay Shemá y hay vista, y vista es para allá y Shemá es para acá. Entonces, eh, eh, el leaguía es una peúla más de vista que de, que de Shemá, según yo O sea, no tanto por la vista, sino por el hecho que empieza de mí hacia allá."
+},
+{
+"startMs": 843348,
+"endMs": 850148,
+"text": "Exactamente. Empieza de mí. No agarro algo que ya lo doy por escrito, sino al revés. Yo, yo soy el que está- Tú eres el activo."
+},
+{
+"startMs": 850248,
+"endMs": 854348,
+"text": "Eso. Entonces, según eso, si yo digo Shemá con mis hijos, yo creo que está bien."
+},
+{
+"startMs": 856148,
+"endMs": 871388,
+"text": "Pero si yo estoy enseñándole a un- ¿Está bien qué? Sales de Jehová. Pero si yo le estoy enseñando a unos niños el Shemá para que lo sepan decir bien, entonces acá puede ser que ya no es tanto un aspecto de criá, sino es como leaguía, no importa si es a un texto, a unos niños."
+},
+{
+"startMs": 872568,
+"endMs": 891268,
+"text": "O sea, yo les quiero enseñar Shemá, repite Shemá, Israel, Israel. Obviamente, también con tus hijos. Pues si tus hijos ya saben el Shemá y lo dicen todos juntos, te afino que tú ahorita a lo mejor estás, no estás pensando en decir la mitzvá de Shemá, pero lo único que estás pensando es, eh, en que, en dormir a los niños."
+},
+{
+"startMs": 892448,
+"endMs": 895848,
+"text": "Pero eso se parece a la leaguía, ¿no te parece la leaguía? No, la guía,"
+},
+{
+"startMs": 897068,
+"endMs": 908328,
+"text": "la guía es para enseñarles. Si tú les estás enseñando, puede ser que esté mal. O sea, no es que esté mal, no salgas de Jehová, porque tú estás con una conciencia de yo decir palabras y ponerlas en su cabeza."
+},
+{
+"startMs": 908468,
+"endMs": 919528,
+"text": "Eso. No, cuando yo digo juntos Shemá, cuando yo digo juntos Shemá, afino que yo ahorita para mí es la actividad familiar, de donde miran los niños Ruhanicamente en la noche, ¿me explico?"
+},
+{
+"startMs": 920268,
+"endMs": 928008,
+"text": "Entonces, si yo estoy educando-- Estás likro. Eh, pero yo estoy educando por medio de un acto que se llama likro, exactamente, likro."
+},
+{
+"startMs": 928268,
+"endMs": 935768,
+"text": "Pero si yo necesito enseñarle a los niños el Shemá, cómo se dice, entonces ahí puede ser que es más leaguía y no sales de Jehová, ¿sí?"
+},
+{
+"startMs": 935948,
+"endMs": 942128,
+"text": "La leaguía también a lo mejor tiene que ver, por ejemplo, como decimos en la mira: \"Iu le ratzon imrefi vehegayon libi\"."
+},
+{
+"startMs": 942688,
+"endMs": 954388,
+"text": "Hegayon libi. Hegayon se dice- Hegayon libi, pero es hegayon libi es lo que yo estoy pensando, esos mis pen-- mis pensamientos que yo genero, ¿sí?"
+},
+{
+"startMs": 954728,
+"endMs": 959228,
+"text": "Yo es mis pensamientos que yo estoy generando. Que van para allá. Exactamente."
+},
+{
+"startMs": 962208,
+"endMs": 969248,
+"text": "Entonces, dice- ¿Cuál es el, cuál es el, el, cuál es el ejreaj de decir-- está muy bonito lo que estás diciendo, pero ¿por qué no hicieron una más sencilla como...?"
+},
+{
+"startMs": 970108,
+"endMs": 977028,
+"text": "Estás haciendo la peúla de, como estabas diciendo antes. Te estás haciendo una peúla que estás consciente de esa misma peúla, no estás consciente de esa misma peúla."
+},
+{
+"startMs": 977128,
+"endMs": 983968,
+"text": "No, no es la conciencia. Tú puedes no estar consciente y sales de Jehová. No, no habla. No, pero no estoy consciente. Yo, yo estoy leyendo, allá coré bat Torá."
+},
+{
+"startMs": 984288,
+"endMs": 991488,
+"text": "Estoy leyendo, si me dices: ¿Qué estás leyendo? Te digo: El Tikún Ozar Rapa. Y de repente me dices: Oye, ¿ya pasaste el Shemá?"
+},
+{
+"startMs": 991688,
+"endMs": 998168,
+"text": "Ya lo pasé, ya saliste de Jehová, pero no estaba consciente yo. No, estás con-- no, estás consciente de la lectura, de que estás leyendo."
+},
+{
+"startMs": 998388,
+"endMs": 1006448,
+"text": "No, la-- mira, es qué pasa, qué pasa, no, escuchen. ¿Qué pasa si yo ni coré leaguía y pienso salir de Jehová de criá Shemá?"
+},
+{
+"startMs": 1006488,
+"endMs": 1013108,
+"text": "Digo: Ay, aprovecho de una vez. Igual estoy corrigiendo y digo: Shemá, Israel, am, ekelú."
+},
+{
+"startMs": 1013368,
+"endMs": 1017888,
+"text": "Doble sentido. No, no es doble sentido. ¿Por qué no? Porque estoy haciendo leaguía. Pero también quiero-"
+},
+{
+"startMs": 1019608,
+"endMs": 1025848,
+"text": "No, mi kavaná es para salir de Jehová, pero yo estoy queriendo salir de Jehová por medio de leaguía. No estás, no estás en likroá."
+},
+{
+"startMs": 1025928,
+"endMs": 1032367,
+"text": "No vas a salir. No estás en likro. No, en la parte del Shemá, que voy a salir de Jehová, también anima guía. ¿Eh? No, es al revés."
+},
+{
+"startMs": 1032568,
+"endMs": 1039288,
+"text": "No, no, porque no sale de Jehová, porque ya que estás en, en, en, en leaguía, el máase se llama máase leaguía."
+},
+{
+"startMs": 1040008,
+"endMs": 1048868,
+"text": "El máase se llama máase leaguía. Yo estoy coré leaguía. Y quieres salir de Jehová. Yo quiero salir de Jehová. Entonces, por más que puse kavaná de salir de Jehová, el máase..."
+},
+{
+"startMs": 1049628,
+"endMs": 1056308,
+"text": "Un má guía y quieres salir de Jehová. Es un máase diferente. Es un máase diferente. No es por más consciente o menos consciente."
+},
+{
+"startMs": 1056568,
+"endMs": 1064008,
+"text": "Es porque es otro máase, es de máase aje. Otro, otra, otra dará de máase. Pensé que sí."
+},
+{
+"startMs": 1064048,
+"endMs": 1073628,
+"text": "No entendí por qué no. Pensé que sí. Jivelipo, jivelipo. Pero la manera de salir de Jehová es cuando ani, cuando ani digo, no cuando ani maldi-- entonces magari es otra peúla."
+},
+{
+"startMs": 1074208,
+"endMs": 1082148,
+"text": "No hay según- Según su explicación de él. Por eso. No, pero en verdad no, en verdad sí, la halajá seguro no es como yo estoy diciendo, porque lo dice en la misma Mishna."
+},
+{
+"startMs": 1082448,
+"endMs": 1099488,
+"text": "Allá coré bat Torá, leaguía, si no, no sería el caso. Im kivén libó, ya está. Entonces, quiere decir que a filo leaguía puedes tú, si pones kavaná, pero entonces según esto tiene que decir im kivén libó, no para salir ye de Jehová de la mitzvá, el im kivén libó likro, ya está."
+},
+{
+"startMs": 1101608,
+"endMs": 1110648,
+"text": "No, no es para lekaem la mitzvá, porque aquí no, no hay niande lekaem la mitzvá. Según él, no hay nian de, de, de mitzví mitzvos y con Jehová."
+},
+{
+"startMs": 1110708,
+"endMs": 1117528,
+"text": "Ese es el máase bien. Entonces, im kivén libó-- o sea, obviamente, si pones kavaná de salir de Jehová, entonces es kivén libó a likro."
+},
+{
+"startMs": 1119268,
+"endMs": 1119808,
+"text": "Entonces, dice,"
+},
+{
+"startMs": 1121308,
+"endMs": 1127508,
+"text": "dice: \"Tal rabanan\". Tal rabanan. \"Kriat Shemá ki jictavá divrei rebe."
+},
+{
+"startMs": 1129148,
+"endMs": 1137768,
+"text": "Vejjamim omrim bejol loshon, machlóket\". Según rebe, kriat Shemá se dice ki jictavá, como está escrita en la Torá."
+},
+{
+"startMs": 1138288,
+"endMs": 1145149,
+"text": "Jjamim omrim bejol loshon, ni... Según Jamie lo puedes leer en cualquier video. Maitamaderrebi. Lo mejor que tú le has llamado en todas las tefilot."
+},
+{
+"startMs": 1145329,
+"endMs": 1152349,
+"text": "Ahorita vemos. No sé si la, la, la dice la hermana. Dice: Maitamaderrebi, amarcará. Es diferente criatura que tefelá."
+},
+{
+"startMs": 1152409,
+"endMs": 1155269,
+"text": "¿Eh? Es diferente criatura que tefelá."
+},
+{
+"startMs": 1156849,
+"endMs": 1162989,
+"text": "Creo. A ver, vamos a ver, no sé. Dice: Tarabanán, criatura que tefelá, rabino, jolason, maitamaderrebi."
+},
+{
+"startMs": 1162989,
+"endMs": 1168609,
+"text": "¿Sí? ¿Por qué rebe nos dice que tiene ser guijtaba? Amarcará"
+},
+{
+"startMs": 1170049,
+"endMs": 1176029,
+"text": "vejayú, vejavayatánieju. Dice veayú adorimaele, tos que estén"
+},
+{
+"startMs": 1177269,
+"endMs": 1184709,
+"text": "con su avayá, con su-- con, con, como, como están en la Torá, estas palabras tienen que estar aleveveja, como están."
+},
+{
+"startMs": 1185209,
+"endMs": 1193129,
+"text": "Vejavatániu, como están. Verabana, maitamayú, amarcará, shemá. Bejolazón zatashoméa."
+},
+{
+"startMs": 1194629,
+"endMs": 1200889,
+"text": "Esto sí se parece mucho a Rab Meri... Aquí sí. Escucha como tú lo escuches. Se parece a Rab Meri. Rab Meri es el de arriba."
+},
+{
+"startMs": 1200949,
+"endMs": 1209389,
+"text": "Rabió de Rabioici, más que nada. Uno, uno es, uno es... ¿Será que se parece? Porque uno es shemia y no importa cómo lo, cómo lo estás escuchando."
+},
+{
+"startMs": 1209709,
+"endMs": 1215209,
+"text": "Aikara, escúchalo. Sí. Igual como habíamos dicho la majloca del shemi, del Islam. Sí, como Rabioici. Rabioici era Rabió."
+},
+{
+"startMs": 1218049,
+"endMs": 1224589,
+"text": "Entonces dice: Amarcará veayú, veayateniu, rabona, maitamayú, amarcará, shemá. Shemá es entiende."
+},
+{
+"startMs": 1224709,
+"endMs": 1231849,
+"text": "Escucha, entiende. Bejolazón zatashoméa. Rabina, me activ shemá. ¿Está escrito según Rabí?"
+},
+{
+"startMs": 1231849,
+"endMs": 1238149,
+"text": "¿Está escrito Shemá? O sea, hasta aquí, según Rabanan, uno que no sabe hablar hebreo, si lo dice en hebreo no sale. Claro."
+},
+{
+"startMs": 1238649,
+"endMs": 1247929,
+"text": "No. No sé. No, no dijo. Porque siempre hebreo va a sacar. No dijo eso. No dijo eso. La misma cosa es la sumbe. No dijo que sale en hebreo de boca."
+},
+{
+"startMs": 1248029,
+"endMs": 1254189,
+"text": "Cien por ciento lo que dijo. No, si tú lo dices en griego, seguro no, pero si lo dices en hebreo, entonces sí. Así se puede escribir."
+},
+{
+"startMs": 1254189,
+"endMs": 1260769,
+"text": "¿En el idioma original? Sí, pero sí. El original siempre saca. Nada más están ampliando. A ver, vamos a ver cómo la Mara lo dice."
+},
+{
+"startMs": 1260769,
+"endMs": 1261409,
+"text": "Es entenderlo."
+},
+{
+"startMs": 1263929,
+"endMs": 1267909,
+"text": "Gregorita. Y hablas hebreo. Que no, porque no dice nada. Es eduane, Dori."
+},
+{
+"startMs": 1269949,
+"endMs": 1272569,
+"text": "Representa cien por cien. Es una cosa, es un etsen."
+},
+{
+"startMs": 1277049,
+"endMs": 1279289,
+"text": "Creo que acá es la-- creo que criatura no tiene."
+},
+{
+"startMs": 1282249,
+"endMs": 1292329,
+"text": "No, entiendo. Rebe dice-- Ora, y Rabí que sostiene veayú, un rabina me activ shemá."
+},
+{
+"startMs": 1293049,
+"endMs": 1302469,
+"text": "Au mue baelé, ashmea leozneja mashatamo tsimipija. Rebe dice: \"Tiene que ser como está escrito, tiene que ser como está escrito\"."
+},
+{
+"startMs": 1302969,
+"endMs": 1310409,
+"text": "Pero ¿por qué dice shemá? Dice: \"Porque sí necesito que lo escuches\". ¿Sí? Él sí necesita que lo escuches, según Rabí."
+},
+{
+"startMs": 1310709,
+"endMs": 1319349,
+"text": "Filo que necesitas tú decirlo como está escrito, pero necesita que sí lo escuches. O sea, no como Rabióda-- Filo que va en la línea de Rabióda, como estamos diciendo."
+},
+{
+"startMs": 1319969,
+"endMs": 1327789,
+"text": "Pero necesita sí escucharlo. Verabana, sabreleu, que mandeama, loishmealos, no, ya está."
+},
+{
+"startMs": 1328869,
+"endMs": 1333589,
+"text": "Y según Rabanan, dicen: \"A Filo que loishmealos, no, ya está\"."
+},
+{
+"startMs": 1335109,
+"endMs": 1342709,
+"text": "O sea, no necesitas más escuchar. Aquí tú sabes leer al revés. ¿Por qué no sabes salir al revés? Rabanan, que dicen..."
+},
+{
+"startMs": 1342769,
+"endMs": 1352009,
+"text": "Ya es una ensalada. Ahorita vas a entender. Pero Rabanan, que dicen que qué... Que bejolazón, dice: \"Ah, no necesito que escuches\"."
+},
+{
+"startMs": 1352689,
+"endMs": 1360029,
+"text": "No necesito que escuches. Entiendo. Es como hacer islam. Ah, entonces estás hablando de una shemia de conciencia. Oh, muy bien. Muy bien, es una shemia de conciencia, según Rabanan."
+},
+{
+"startMs": 1360429,
+"endMs": 1368669,
+"text": "Dice: Rabananame activ ayú. Entonces, según Rabí, ¿por qué dice Shemá? Para escuchar. Rabanan, bejolazón zatashoméa."
+},
+{
+"startMs": 1369009,
+"endMs": 1380709,
+"text": "¿Y de dónde Rabanan aprenden que escuches? No, no, o sea, que no necesitas escuchar. Veayú, que hacen con veayú, que según Rabióda es leer como está escrito, literal."
+},
+{
+"startMs": 1381409,
+"endMs": 1386249,
+"text": "Ay, mue baelé, sheloicrálemafrea. Es para no leerlo retroactivamente."
+},
+{
+"startMs": 1387729,
+"endMs": 1394849,
+"text": "Veayú. O sea, como está. Nomás no como está en hebreo, sino veayú, como está en su orden."
+},
+{
+"startMs": 1395509,
+"endMs": 1403209,
+"text": "Dice: Verabanansabre. Dice: Verabí, sheloicrálemafrea, menalé. Nafcalé, mitvarim hatvarim."
+},
+{
+"startMs": 1403749,
+"endMs": 1410889,
+"text": "Dice el bazó: Veayú, adevarim aeulé. Luego en algún otro lugar dice, yo creo que en Bayem Shamua dice Dvarim."
+},
+{
+"startMs": 1411609,
+"endMs": 1419549,
+"text": "Y entonces, ¿para qué dice Dvarim Dvarim? Para aprender que no sabes si lees lemafrea. Ora, pero Rabióda, vean qué pele."
+},
+{
+"startMs": 1420429,
+"endMs": 1426789,
+"text": "Rabióda que lee-- Rabióda que la mad de veayú-- ¿Conmigo o no?"
+},
+{
+"startMs": 1427449,
+"endMs": 1428989,
+"text": "Rabióda que la mad de veayú..."
+},
+{
+"startMs": 1430629,
+"endMs": 1438909,
+"text": "Que hay que verme leerlo en hebreo. En hebreo. Él no aprende del mismo veayú que tiene que ser lemaf-- eh, no lemafrea."
+},
+{
+"startMs": 1439189,
+"endMs": 1445549,
+"text": "Al de Joharath dice las dos cosas ya incluyen. No, estoy viendo dónde está-- Si es como está, de Joharath, como está incluye dos cosas."
+},
+{
+"startMs": 1447529,
+"endMs": 1448449,
+"text": "No, después de Joharath."
+},
+{
+"startMs": 1452029,
+"endMs": 1458449,
+"text": "No, después de Joharath también dice Dvarim, sí. ¿Cuál es tu pregunta? Perdón."
+},
+{
+"startMs": 1460369,
+"endMs": 1466809,
+"text": "No, si ya he aprendido de veayú. Sí. Que necesito leer en hebreo, entonces batay que no puede ser lemafrea."
+},
+{
+"startMs": 1467029,
+"endMs": 1474069,
+"text": "Dice: \"No, necesito otro limón de, de la palabra tvarim\". Hay que entender. Dice: Verapanan, tvarim, atvarim, lodarshe."
+},
+{
+"startMs": 1474469,
+"endMs": 1481929,
+"text": "Es nodorshim, tvarim, atvarim. Lemeimra, de soba rebi, de hola torá kula bejol, lashoneimra."
+},
+{
+"startMs": 1482589,
+"endMs": 1488809,
+"text": "Dice Rabí: \"Él sostiene que toda la torá kula se dijo en todos los idiomas\"."
+},
+{
+"startMs": 1488809,
+"endMs": 1497029,
+"text": "¿Por qué? Dice el gadaj: \"Velazonecos nembra\". ¿Por qué necesito un veayú de catabrahmana, lamalí?"
+},
+{
+"startMs": 1497829,
+"endMs": 1510101,
+"text": "Que te diga no, aquí es la zona codes. ¿Por qué? Toda la Torá Kula es- Es la más que todos en otros- Dice- Itz Tzedek Dice no, veme toda la Torá Kula es el Lashón Hakodesh."
+},
+{
+"startMs": 1510781,
+"endMs": 1512321,
+"text": "Dice Itz Tzedek, Mishom Dejti--"
+},
+{
+"startMs": 1513541,
+"endMs": 1521761,
+"text": "Mishom Dejti Shemá. Entonces, ya que acá dice Shemá, hubiera pensado que acá ya es bejolazón, porque ¿qué es Shemá?"
+},
+{
+"startMs": 1522241,
+"endMs": 1532441,
+"text": "Conciencia. ¿Sí? Entender lo que estás leyendo. Entonces, ya que Shemá es entender lo que estás leyendo, entonces mi mail aquí hubiera pensado jolazón, Kamash Malan Veayú, que no."
+},
+{
+"startMs": 1533421,
+"endMs": 1533641,
+"text": "Dice"
+},
+{
+"startMs": 1535721,
+"endMs": 1545901,
+"text": "Bejolá Torá Kula Lashón Hakodesh Nembra. Entonces, acá Rabono necesita un pasuk para decirte que no necesita ser en Lashón Hakodesh."
+},
+{
+"startMs": 1545941,
+"endMs": 1554141,
+"text": "¿Cuál es su pasuk? Shemá. Bejolazón Satashomea. Y entonces, según eso, quiere decir que toda la Torá Kula no nembra bejolazón."
+},
+{
+"startMs": 1555181,
+"endMs": 1556961,
+"text": "Eh, eh, dabdafka nembra--"
+},
+{
+"startMs": 1558161,
+"endMs": 1561561,
+"text": "nem-- perdón. Según ellos, toda la Torá Kula nembra"
+},
+{
+"startMs": 1563021,
+"endMs": 1570181,
+"text": "nada más de Lashón Hakodesh. Y aquí viene Shemá a decirte: acá puede ser no de Lashón Hakodesh."
+},
+{
+"startMs": 1576101,
+"endMs": 1582181,
+"text": "Itz Tzedek, Mishom Dejti Veayum. O sea, en raya, en, en ninguno hay raya, ¿me entiendes? Como..."
+},
+{
+"startMs": 1583761,
+"endMs": 1585860,
+"text": "Sí, no hay raya para los dos lados, dice Rash."
+},
+{
+"startMs": 1589141,
+"endMs": 1596681,
+"text": "Misvarim haDvarim, davale lemijta vayudvarim hael. Ah, no son dos veces que dice Dvarim. Dice: Vayu had devarim haele."
+},
+{
+"startMs": 1596761,
+"endMs": 1605581,
+"text": "¿Por qué dice had devarim? ¿Por qué no dice vayudvarim ele? ¿Entendés o no? No es dos veces Dvarim, sino dice, el pasuk dice had devarim."
+},
+{
+"startMs": 1605981,
+"endMs": 1612661,
+"text": "Entonces, la jé de más- En vez de me. No, en vez de no je. Vayu Dvarim ele. ¿Por qué hadvarim?"
+},
+{
+"startMs": 1612701,
+"endMs": 1622141,
+"text": "Hadvarim. Entonces, dice: dice davale lemijta vayudvarim haele. De midrash shiikra Dvarim que sidrán velo lemafreá."
+},
+{
+"startMs": 1622721,
+"endMs": 1631821,
+"text": "Kegón umshaareja beteja mezuzot. Sí, léela, rabino. Shaareja beteja mezuzot. Leima casaba rebí mid itz Tzedek leikrá."
+},
+{
+"startMs": 1632301,
+"endMs": 1640321,
+"text": "Leikriat Shemá sheté kixtavá. Sviraleí veShá Kol Hatorá bejol Lashón nemrá likrot."
+},
+{
+"startMs": 1641141,
+"endMs": 1647061,
+"text": "Que la Torá sí se-- o sea, te estoy-- la Torá de Dios se escribió en Lashón Hakodesh, pero si yo voy a leer el Sefer Torá,"
+},
+{
+"startMs": 1648281,
+"endMs": 1654081,
+"text": "si yo voy a leer el Sefer Torá, entonces, ulái, según rebe, la ley del Sefer Torá puede ser bejol Lashón."
+},
+{
+"startMs": 1655961,
+"endMs": 1665481,
+"text": "Entonces, dice: bejol Shemá Lashón nemrá likrot. Mishom Dejti Shemá. De loitidroish Shemá bejol Lashón, satashomea que Rabbonon."
+},
+{
+"startMs": 1666261,
+"endMs": 1666621,
+"text": "Punto."
+},
+{
+"startMs": 1674241,
+"endMs": 1680661,
+"text": "O sea, le demos poco tiempo. Está a la fuga. Cinco minutos. Yo, yo ya no estoy pudiendo. ¿Tú en el paquete? ¿Cómo?"
+},
+{
+"startMs": 1681061,
+"endMs": 1684360,
+"text": "El paquete está muy callado. Pero hay una hora. No sé si con eso nada."
+},
+{
+"startMs": 1686581,
+"endMs": 1696081,
+"text": "Está horrible, mi ja, ¿no? Hay que llegar con mi ja, ¿eh? Nueva regla. No, está horrible mi ja hasta ahora. Tenemos que poder hacer algo. Ya, mira, si tratas de hacerlo cuatro y media, ya pasó un sharí."
+},
+{
+"startMs": 1696661,
+"endMs": 1704561,
+"text": "No, cuatro y media, cuatro y media no lo hablamos. Por eso es un sufrimiento. Esperar, sí, este, para allá. No, pero cinco cuarenta y cinco, como seis cuarenta y cinco."
+},
+{
+"startMs": 1704701,
+"endMs": 1706461,
+"text": "No, ya es mi ja, ya es aquí ahorita."
+},
+{
+"startMs": 1708360,
+"endMs": 1708661,
+"text": "A ver."
+},
+{
+"startMs": 1710661,
+"endMs": 1713281,
+"text": "Dos preguntas. Una- O en la mañana, mejor."
+},
+{
+"startMs": 1716121,
+"endMs": 1719461,
+"text": "¿Qué? Nada. Te la mereciste, Tony, perdón. No, no, ¿cómo que en la mañana?"
+},
+{
+"startMs": 1724380,
+"endMs": 1732121,
+"text": "Hamavi. ¿Qué dijo? ¿Qué dijo? Pensó que dijimos que hay que cambiar el share a la mañana."
+},
+{
+"startMs": 1732901,
+"endMs": 1740801,
+"text": "No, vamos, vamos. Jaime, queremos que te hagas abreger de Ser Alef también. ¿Qué piensas? ¿Es otra Shem? Oh otra Shem."
+},
+{
+"startMs": 1740901,
+"endMs": 1741621,
+"text": "Así como va."
+},
+{
+"startMs": 1743621,
+"endMs": 1743941,
+"text": "Eso."
+},
+{
+"startMs": 1746021,
+"endMs": 1754721,
+"text": "A ver, yo tengo una pregunta: ¿por qué entró este tema acá? Entonces, ¿puedes decir? Este. Si tiene que ser maj-- majloket Hamí mi rebí, si tiene que ser kixtavá bejol Lashón."
+},
+{
+"startMs": 1755001,
+"endMs": 1764561,
+"text": "Entonces, de alguna manera, pues obviamente se relaciona con la misa. Pero aquí yo creo, aquí no sé, estoy viendo algo, nomás que hay que, hay que entenderlo un poquito más."
+},
+{
+"startMs": 1765721,
+"endMs": 1772101,
+"text": "Cuando, cuando hablamos según el Mandeámar que mitzvot lots y jotkavaná, ¿qué salió?"
+},
+{
+"startMs": 1772781,
+"endMs": 1778801,
+"text": "Que likró baTorá y likró kriat Shemá es exactamente el mismo acto. Sí. ¿Sí?"
+},
+{
+"startMs": 1779261,
+"endMs": 1788081,
+"text": "Sí. Exactamente el mismo acto. Por eso tuvimos que decir que para que sea diferente necesita ser que haya kore baTorá lejaguiá."
+},
+{
+"startMs": 1788961,
+"endMs": 1795661,
+"text": "Y entonces el Shemá ahí ya tiene que ser kore likro y no kore leaguiá. Y entonces por eso cambió."
+},
+{
+"startMs": 1796401,
+"endMs": 1805141,
+"text": "Entonces, quiere decir que haya kore baTorá y guiás van a mikrá es exactamente el mismo acto y solamente kore leaguiá es un acto diferente."
+},
+{
+"startMs": 1805801,
+"endMs": 1806081,
+"text": "Ahora,"
+},
+{
+"startMs": 1807721,
+"endMs": 1822741,
+"text": "ya llegando acá, a esta gemará, hay una ligera diferencia. ¿Que qué? Que de repente encuentras majloket rebí y Jamí sobre si el kriat Shemá se necesita decir kixtavá o bejol Lashón."
+},
+{
+"startMs": 1823321,
+"endMs": 1836581,
+"text": "Y la gemará, por lo menos en la gavamina, tiene una gavamina que va así. Si según rebiii acá tiene que ser kixtavá, de aquí aprendo que la Torá podría ser bejol Lashón."
+},
+{
+"startMs": 1837661,
+"endMs": 1845121,
+"text": "Cuando me dice que la Torá podría ser bejol Lashón, ¿de qué habla? De haya kore baMikrá. ¿Sí o no? Haya kore baMikrá."
+},
+{
+"startMs": 1845921,
+"endMs": 1849261,
+"text": "Sí. Entonces, quiere decir que veme la gemará sí"
+},
+{
+"startMs": 1850761,
+"endMs": 1857673,
+"text": "nota Alguna diferencia. Y so-- ahora, ahora solo por un tú te dice que no."
+},
+{
+"startMs": 1858673,
+"endMs": 1879773,
+"text": "Entonces, quiere decir que la Gemara nota aquí sí una diferencia entre koreh be mikra y koreh kriat shema. Nada más que no sería suficiente diferencia como para llamarle que se llama, que está haciendo otro tipo de mazé que no son de Jehová, pero sí sería suficientemente diferente como para que kriat shema sea be Lashon HaKodesh y ahí sea bejol Lashon."
+},
+{
+"startMs": 1880273,
+"endMs": 1886553,
+"text": "Ahora también puede ser que es al revés, que kriat shema sea bejol Lashon y allá sea be Lashon HaKodesh davka."
+},
+{
+"startMs": 1886613,
+"endMs": 1898513,
+"text": "¿Sí? La Gemara duda por algún . Pero entonces acá claramente vemos que hay dos tipos de mikra, que un mikra se llama el mikra que se llama kriat shema y otro mikra se llama koreh baTorá."
+},
+{
+"startMs": 1899853,
+"endMs": 1909433,
+"text": "Y el otro mikra se llama koreh baTorá y son dos definiciones de mikra. Tú estás diciendo así: al tachó que cuando te digo que es koreh y es igual que koreh baTorá, son iguales."
+},
+{
+"startMs": 1909893,
+"endMs": 1916253,
+"text": "Le máse va a haber una diferencia entre koreh kriat shema y koreh baTorá. Oh, . A eso viene la Gemara. Y se expresa principalmente en, en esto."
+},
+{
+"startMs": 1916653,
+"endMs": 1921273,
+"text": "Si kriat shema es be Lashon HaKodesh, no ve hejrea, esto sigue"
+},
+{
+"startMs": 1922793,
+"endMs": 1932092,
+"text": ". No ve hejrea que koreh baTorá es davka be Lashon HaKodesh. Y ajoliot que puede ser, la Gemara tenía una mina que es davka, que puede ser bejol Lashon."
+},
+{
+"startMs": 1932913,
+"endMs": 1941353,
+"text": "Mamá, sale a jalemas. Dice la Gemara: \"No, no es raya. No es raya que, que, que puede ser bejol Lashon\", pero se queda abierto."
+},
+{
+"startMs": 1941733,
+"endMs": 1945133,
+"text": "Entonces, quiere decir que aun siendo que kriat shema sea davka be Lashon HaKodesh,"
+},
+{
+"startMs": 1946713,
+"endMs": 1952873,
+"text": "eh, leer el Sefer Torá puede ser bejol Lashon. Entonces, quiere decir que aquí hay una diferencia entre kriat shema y koreh baTorá."
+},
+{
+"startMs": 1953373,
+"endMs": 1961013,
+"text": "Afilu en la Mascaná. Igualmente para hajamim. De repente hajamim te salen con algo completamente al revés y que dicen: \"Kriat shema puede ser bejol Lashon\"."
+},
+{
+"startMs": 1961913,
+"endMs": 1969353,
+"text": "Y como puede ser bejol Lashon, entonces-- pero la Torá, ulai davka tiene que ser con be Lashon HaKodesh. Dice la hajamim: \"No arraia\"."
+},
+{
+"startMs": 1970413,
+"endMs": 1981753,
+"text": "Entonces, vemos claramente, no se llama otra gdará como para que se llame koreh leaguiá, pero sí es otro tipo de criá que- Para el HaKaveh Kavaná no, Gmar."
+},
+{
+"startMs": 1982113,
+"endMs": 1989233,
+"text": "Clapel al HaKaveh Kavaná no hay hiluk. No hay hiluk. Pero clapel lo que estás haciendo en la misma criá, ha ido su bien, ha ido su bien de criá."
+},
+{
+"startMs": 1989233,
+"endMs": 1994213,
+"text": "Si encuentran otra diferencia, si encuentran otra diferencia. Hay que entender un poco más."
+},
+{
+"startMs": 2000592,
+"endMs": 2003113,
+"text": "Vamos. Entonces,"
+},
+{
+"startMs": 2005413,
+"endMs": 2012393,
+"text": "podemos-- nada más quiero ver si podemos entender un poquito más lo que estamos tratando de decir al final, Be'ezrat Hashem."
+},
+{
+"startMs": 2012613,
+"endMs": 2021713,
+"text": "¿Vas a subir la miel?"
+},
+{
+"startMs": 2022133,
+"endMs": 2024453,
+"text": "Sí. Tráeme darím. Va."
+},
+{
+"startMs": 2025833,
+"endMs": 2031773,
+"text": "No, no, no. Ya no, ya no. No, una, una, ya es esta, ya. Y sí. Ya no. ¿Tampoco?"
+},
+{
+"startMs": 2034233,
+"endMs": 2036453,
+"text": "No, tampoco. No, ya nada."
+},
+{
+"startMs": 2043673,
+"endMs": 2049853,
+"text": "Kidushin. Ahí, ahí. Si no, no, no, no hay que subir. Ya no. Acá tengo mi computador. Igual iba a subir yo por algo."
+},
+{
+"startMs": 2050053,
+"endMs": 2055553,
+"text": "No necesito, ya, no necesito. ¿Para qué va a subir? Por algo. Échala."
+},
+{
+"startMs": 2057313,
+"endMs": 2060153,
+"text": "Vamos. Entonces, estamos diciendo que hay, según esto,"
+},
+{
+"startMs": 2061672,
+"endMs": 2067873,
+"text": "hay koreh ha'mikra, koreh kriat shema y koreh leha'guia. ¿Dónde se ve que hay una diferencia?"
+},
+{
+"startMs": 2068293,
+"endMs": 2077733,
+"text": "Que koreh kriat shema, ahí sí hay un davka sobre si es bejol Lashon o si es... O sea, que davka se puede bejol Lashon o que davka tiene que ser Lashon HaKodesh."
+},
+{
+"startMs": 2078113,
+"endMs": 2087233,
+"text": "Pero ma she'eken, koreh mikra, ahí decimos: \"No, afilu que aquí hay algo davka, ahí vamos a decir la davka que tiene que ser lo una o el otro\"."
+},
+{
+"startMs": 2087712,
+"endMs": 2096973,
+"text": "¿Sí? Entonces, vemos que sí hay tres categorías y lefitre me mete ahí un hidush de la Mishná. Hay a koreh- Hay magia, hay magia, que de hecho es otra cosa de sangre."
+},
+{
+"startMs": 2097253,
+"endMs": 2106073,
+"text": "Y en la misma criá hay koreh baTorá y hay koreh kriat shema. Si es koreh baTorá es barrún que es Lashon HaKodesh. O sea, está bien, solamente que- No, afilu que qué."
+},
+{
+"startMs": 2106133,
+"endMs": 2116712,
+"text": "Koreh ya, ya es un rango de sales de Jehová. Koreh siempre es de Jehová. Solamente que en esta categoría, aunque sales de Jehová, hay una de criá al que, al que le abrím, es lo que hemos estudiado hoy."
+},
+{
+"startMs": 2116753,
+"endMs": 2123193,
+"text": "Criá Torá y criá-- criá be Lashon Ha-- no, criá be Lashon HaKodesh y criá- No, criá Torá y criá shema. No, no, no."
+},
+{
+"startMs": 2123233,
+"endMs": 2133353,
+"text": "Son dos, dos esencias de criot, son dos esencias de criot. Aunque clapel ma'ase mitzvá estás haciendo criá, pero se ve de la Gemara que son dos esencias de criot."
+},
+{
+"startMs": 2134893,
+"endMs": 2145933,
+"text": "Ga raya que la Gemara aquí tiene un gezera de katuv. Por ejemplo, para, para Rebi, ve'ayun, que tiene que ser davka be Lashon HaKodesh, ma she'eken toda la Torá kula."
+},
+{
+"startMs": 2146212,
+"endMs": 2152673,
+"text": "Dice la Gemara: \"Entonces vemos que toda la Torá kula puede ser bejol Lashon\". Dice la Gemara: \"Lab davka\"."
+},
+{
+"startMs": 2152933,
+"endMs": 2160813,
+"text": "¿Por qué? Porque ya afilu que aquí dice ve'ayun y be'emet este ve'ayun, si viene a la puque que toda la Torá kula se puede decir bejol Lashon."
+},
+{
+"startMs": 2161073,
+"endMs": 2170212,
+"text": "Pero ya que aquí dice shema, entonces hubiera pensado que davka aquí es diferente porque dice shema y según hajamim es que aquí es bejol Lashon, entonces mi meleh dice que era abierto."
+},
+{
+"startMs": 2170613,
+"endMs": 2177873,
+"text": "Igualmente shema es para Rabbanán al revés. Ellos dicen: \"Dice shema, y aquí dice shema\". Entonces mi meleh"
+},
+{
+"startMs": 2179712,
+"endMs": 2187933,
+"text": "quiere decir que aquí es bejol Lashon. Entonces, ¿para qué necesito un gezera de katuv? Que aquí es bejol Lashon quiere decir que toda la Torá es davka Lashon HaKodesh."
+},
+{
+"startMs": 2188193,
+"endMs": 2194493,
+"text": "Dice la Gemara: \"No, porque aquí hay otro gezera de katuv, que el otro gezera de katuv me dice ve'ayun, ¿no?"
+},
+{
+"startMs": 2195033,
+"endMs": 2201533,
+"text": "Es el gezera de katuv de Rebi, que Rebi lo mete ve'ayun, que tiene que ser davka be Lashon HaKodesh."
+},
+{
+"startMs": 2201793,
+"endMs": 2207613,
+"text": "Y si tiene que ser davka be Lashon HaKodesh, entonces por eso ulai acá dijo Shema. Entonces sale que be'emet,"
+},
+{
+"startMs": 2209293,
+"endMs": 2215833,
+"text": "de alguna manera acá hay unas halajot especiales en cómo licró que no aplican toda la Torá. ¿Sí?"
+},
+{
+"startMs": 2215913,
+"endMs": 2223212,
+"text": "Ya sea para Rebi, ya sea para Rabbanán. Y algo un poquito más profundo es la palabra shema con ve'ayun."
+},
+{
+"startMs": 2223413,
+"endMs": 2235733,
+"text": "Fíjense cómo hacen contraste. Shema y ve'ayun son opuestas. Tan opuestas que para Rebi, ve'e-- cuando dice ve'ayun, tienes que decir aquí ve'ayun."
+},
+{
+"startMs": 2237853,
+"endMs": 2239712,
+"text": "No sé, pero shema es bitul"
+},
+{
+"startMs": 2240913,
+"endMs": 2248433,
+"text": "y ve'ayun es arrayá, es davka- Yo creo al revés, pero sí. Pero sí, por algo."
+},
+{
+"startMs": 2248453,
+"endMs": 2254633,
+"text": "Shema es entender, ve'ayun es como está escrito. Al revés. Sí, shema es bejol Lashon y ve'ayun es como está escrito."
+},
+{
+"startMs": 2254813,
+"endMs": 2257013,
+"text": "Ve'ayun es así. Así."
+},
+{
+"startMs": 2258613,
+"endMs": 2272353,
+"text": "Entonces, y shema es, es, es que, que la entiendas. Entonces, acá vemos que hay dos palabras y no solo son dos palabras, sino que Rabbanán, que-- y Rebi, los dos mid'yagzi al hecho..."
+},
+{
+"startMs": 2274113,
+"endMs": 2282038,
+"text": "Sí, Be'ezrat Hashem. Cada uno mid'yagze al hecho que aquí hay una palabra opuesta. O sea, Rebi, que dice ve'ayun \"Ve'arev\", dice, ¿sabes por qué aquí necesita decir \"Ve'arev\"?"
+},
+{
+"startMs": 2282118,
+"endMs": 2289718,
+"text": "Porque dice \"Shemá\". Y como dice \"Shemá\", entonces me daba miedo que tú pienses que aquí es \"Shemá\" en serio, que \"Shemá\" es mejor la son."
+},
+{
+"startMs": 2290098,
+"endMs": 2300638,
+"text": "Entonces, por eso la Torá te dijo: \"No, aquí es 'Ve'arev'\". ¿Sí me explico o no? Sí. O sea, Rebe y Rabanan están conscientes de que aquí mismo hay una palabra opuesta, ¿sí?"
+},
+{
+"startMs": 2300799,
+"endMs": 2307899,
+"text": "¿Por qué según Rebe dice \"Ve'arev\"? Porque dice \"Shemá\". Ya que dice \"Shemá\", entonces no, no vaya a ser que te equivoques, que es mejor la son."
+},
+{
+"startMs": 2308319,
+"endMs": 2308879,
+"text": "Te digo: \"Ve'arev\"."
+},
+{
+"startMs": 2310359,
+"endMs": 2317638,
+"text": "Y por otro lado te dice \"Shemá\", mejor la son. ¿Por qué me dices que con la son? A ver, con la Torá kulá, ¿sí?"
+},
+{
+"startMs": 2317979,
+"endMs": 2324258,
+"text": "Eseee-- Ya sabía que es ulai con la son. Ya sabía que es con la son. No, no, no, no, pero \"Shemá\" dice \"Ve'arev\"."
+},
+{
+"startMs": 2324799,
+"endMs": 2333899,
+"text": "Ya que \"Shemá\" dice \"Ve'arev\", necesito aquí un No tengo la Torá con la son."
+},
+{
+"startMs": 2334078,
+"endMs": 2344799,
+"text": "Aquí es una mitzvá de Shemá ¿Eh? Shemá es mitzvá de Shemá No, pero si el acto es el, es el, es el mismo s-- mismo signón de maase."
+},
+{
+"startMs": 2345578,
+"endMs": 2347019,
+"text": "Y entonces, tanto así que haya"
+},
+{
+"startMs": 2404479,
+"endMs": 2412618,
+"text": "Entonces, ahora, ¿qué aprendo de acá? ¿Qué aprendo de acá? Aprendo, primero que nada, según esta opción, vemos que Krias Shemá y con la Torá kulá es diferente."
+},
+{
+"startMs": 2413419,
+"endMs": 2423058,
+"text": "Es diferente. Dice la Gemara: \"No puede ser que Krias Shemá y con la Torá kulá es igual\". ¿Por qué es igual? Que veme, entonces ahí es Dafká la zona codes y aquí también es Dafká la zona codes."
+},
+{
+"startMs": 2423319,
+"endMs": 2429939,
+"text": "Entonces, ¿por qué me dices \"Ve'arev\"? No, porque acá está escrito Shemá. Entonces, acá, ¿qué hace diferente al Krias Shemá en este tsad?"
+},
+{
+"startMs": 2430519,
+"endMs": 2443558,
+"text": "El hecho que dice Shemá. Y entonces, el hecho que dice Shemá ya te viene a decir así, te viene a decir: \"Ya que aquí dice Shemá, ulaya acá es diferente a toda la Torá kulá, porque aquí dice Shemá\", ¿sí?"
+},
+{
+"startMs": 2443859,
+"endMs": 2453019,
+"text": "Kamash malán Kamash malán Ve'arev, no ando igual que con la Torá kulá. Entonces, sale que según el segundo tsad, Rebe, ¿dónde nota que es diferente a con la Torá kulá?"
+},
+{
+"startMs": 2453419,
+"endMs": 2459678,
+"text": "En la palabra Shemá. Según el primer tsad, ¿dónde Rebe nota que la pa-- que el Krias Shemá es diferente a con la Torá kulá?"
+},
+{
+"startMs": 2459718,
+"endMs": 2466098,
+"text": "En Ve'arev. Porque toda la Torá kulá sería mejor la son y acá es Ve'arev. ¿Sí me explico? Sí, sí."
+},
+{
+"startMs": 2466138,
+"endMs": 2473979,
+"text": "Y según Rabanan, sale lo mismo, pero al revés. O sea, ellos te dicen Shemá. Entonces, te dicen: \"Toda la Torá kulá es como está escrita."
+},
+{
+"startMs": 2474299,
+"endMs": 2480638,
+"text": "Acá es Shemá\", ¿sí? Con la son Entonces, eso es lo que la hace diferente. Sí, exactamente, es mejor la son. Lo que la hace diferente."
+},
+{
+"startMs": 2481698,
+"endMs": 2489638,
+"text": "Ahora, por otro lado, veme, toda la Torá kulá es mejor la son, igual que acá, ¿sí? ¿Por qué aquí me dice Shemá, si ya sé que es con la son?"
+},
+{
+"startMs": 2489999,
+"endMs": 2496459,
+"text": "Dice: \"No, porque aquí, ya que dice Ve'arev, entonces hubiera pensado que no, acá es mamash como está escrito."
+},
+{
+"startMs": 2496939,
+"endMs": 2503019,
+"text": "Kamash malán Shemá, no puede ser como con la Torá kulá\". O sea, al revés de como se estudia normalmente ¿Por qué?"
+},
+{
+"startMs": 2503319,
+"endMs": 2512178,
+"text": "No, estoy estudiando la Gemara, no estoy poniendo dagues en cada shiur Los que no sabemos estudiar entendemos que es al revés, que, que la primera, o sea, que la primera Gemara es el..."
+},
+{
+"startMs": 2514519,
+"endMs": 2523598,
+"text": "Lo que te están diciendo, lo que te están diciendo es la segunda Gemara Que nada más te están diciendo la segunda. Yo también, aunque estés tomando la segunda, aunque estés tomando la segunda, también existe este aspecto."
+},
+{
+"startMs": 2523839,
+"endMs": 2531999,
+"text": "¿Me explico? Es lo que estoy diciendo. Que para Rebe, el-- la misma para-- la misma palabra Shemá, se los voy a decir un poquito más mukdá."
+},
+{
+"startMs": 2532399,
+"endMs": 2548879,
+"text": "Shemá te dice que acá esencialmente hay algo diferente, pero prácticamente Ve'arev. ¿Me explico? Y según Rabanan te dicen: \"Mira- Prácticamente Prácticamente es mejor la son, pero aquí hay un Ve'arev que hubiera pensado que no, acá Dafká lo tienes que decir así."
+},
+{
+"startMs": 2549178,
+"endMs": 2556718,
+"text": "Viene Shemá y te dice: \"No, Shemá\", ¿sí? Entonces, hay aquí dos tsadim. Vemos que es un poquito diferente Shemá a Krias de Torá."
+},
+{
+"startMs": 2557479,
+"endMs": 2559419,
+"text": "Ahora, hay algo muy meanen."
+},
+{
+"startMs": 2565158,
+"endMs": 2574698,
+"text": "Entonces, ¿hay realmente vemos en algún lugar que Krias Shemá es diferente a toda la Torá kulá?"
+},
+{
+"startMs": 2575259,
+"endMs": 2587519,
+"text": "Entonces, vement, cuando yo digo Krias Shemá, es behiljot talmud Torá. Cuando yo digo Krias Shemá, no es tefilá, no es como decir,"
+},
+{
+"startMs": 2588879,
+"endMs": 2601098,
+"text": "eh, el Shemoná Esré, no es como decir la Amida. La Amida yo soy el que yo hablo. La Gemara cuando dice jiyuv de, jiyuv de Torá, dice: \"¿Cómo es que sale ese jiyuv de, de la Torá?\" Oh Krias Shemá bayom ubalaila Exactamente."
+},
+{
+"startMs": 2601578,
+"endMs": 2611919,
+"text": "Entonces, entonces Krias Shemá, ya dijimos atrás que ya joliot que las brajot del Krias Shemá nos sirvan como birkot de Torá Sí ¿Sí o no?"
+},
+{
+"startMs": 2612238,
+"endMs": 2618658,
+"text": "Lo vimos atrás Usó la simjá del lado izquierdo, que no era derecha No, filo acá, filo acá lo vimos. Filo aquí mismo nos tocó verlo."
+},
+{
+"startMs": 2619078,
+"endMs": 2630899,
+"text": "Sí, aquí mismo nos tocó verlo. Y en She-- y en Shales Judá vimos otra Gemara donde también comparamos, eh, el, el que, que- Shales Judá fueron de Abba Tolam, o sea, fueron todas las, eh"
+},
+{
+"startMs": 2633919,
+"endMs": 2648627,
+"text": "Sí, eso fue acá, ¿no? De Abba Tolam, yo creo que fue acá No, no, fue allá Bueno, no me acuerdo Eso sí Nosotros vimos aquí una Mishná que decía: «Hakoré mikam ve'eilaj lo ifsid»."
+},
+{
+"startMs": 2649567,
+"endMs": 2655647,
+"text": "Sí, «Hakoré mikam ve'eilaj lo ifsid». Entonces, ¿entonces sobre qué iba la Mishná?"
+},
+{
+"startMs": 2655747,
+"endMs": 2663167,
+"text": "La Mishná dice así: «Mematai korin shma beShacharit, Mishaki--» No, pero no es esa. Un segundo. Sí es esa la, la Mishná."
+},
+{
+"startMs": 2663247,
+"endMs": 2670426,
+"text": "Ah, sí es esa. Dice: «Mematai korin»-- ah, ¿qué pasa si se te pasó el zman kriat shema? Ya se te pasó."
+},
+{
+"startMs": 2670966,
+"endMs": 2677667,
+"text": "Dice: «Hakoré mikam ve'eilaj lo ifsid». No pierdes. Ah, sí. «Ki adam hakoré baTorá». Sí. ¿Cómo que no perdí?"
+},
+{
+"startMs": 2678227,
+"endMs": 2686727,
+"text": "Cuando le dice la Gemara que- La Gemara. «Meubad lo ihalkitkon» Claro. Es que ya perdiste. Entonces, dice: «Lo ifsid ki adam hakoré baTorá»."
+},
+{
+"startMs": 2687167,
+"endMs": 2695466,
+"text": "Entonces, el lo ifsid es que no pienses que es como un shmoneh esreh. Si, si dices la midá de Shacharit a la una de la tarde"
+},
+{
+"startMs": 2697986,
+"endMs": 2704567,
+"text": "no es klum, es puro seudah batala. Entonces, ulai, ya, dice-- ¿digo Shema o no digo Shema? Ulai es un problema."
+},
+{
+"startMs": 2704986,
+"endMs": 2715526,
+"text": "Decimos: no, lepajot es ki adam hakoré baTorá. Entonces, quiere decir que acá sale que el acto de decir kriat shema es koré baTorá, vehement es koré baTorá."
+},
+{
+"startMs": 2715926,
+"endMs": 2723287,
+"text": "Pero bejolot, el zman del kriat shema le da un, un punto diferente a, al koré baTorá."
+},
+{
+"startMs": 2723767,
+"endMs": 2726426,
+"text": "Y eso se llama, eh, eh, hakoré mikam ve'eilaj lo ifsid."
+},
+{
+"startMs": 2728346,
+"endMs": 2736147,
+"text": "Por eso dice la Gemara: «Uvi'achre mayam mar yotzer or». Pero no digas yotzer or, porque si dices las berajot del kriat shema, ahí ya la estás regando, ¿sí?"
+},
+{
+"startMs": 2737107,
+"endMs": 2737567,
+"text": "Dice..."
+},
+{
+"startMs": 2746647,
+"endMs": 2751406,
+"text": "Dice: «Amar rav Mani: gadol hakoré kriat shema be'onata yoter me'osek baTorá»."
+},
+{
+"startMs": 2752607,
+"endMs": 2758747,
+"text": "Entonces, ¿qué? Ma kesiv. Onata. Ma, ma kesiv. No, pero están, porishah, antes de este y eso. Sí, sí, sí. Ahora ma kesiv."
+},
+{
+"startMs": 2759046,
+"endMs": 2765747,
+"text": "Gadol el que pone el ulá o que... No, siempre aparte talmud Torá keneged kulam."
+},
+{
+"startMs": 2766147,
+"endMs": 2773345,
+"text": "Entonces, no, kriat shema es talmud Torá. Nada más que kriat shema be'onata es otra esencia."
+},
+{
+"startMs": 2773386,
+"endMs": 2781127,
+"text": "Nada más prueba. Sigue siendo koré baTorá, pero en otra dimensión. Entonces, fíjense como hay koré baTorá, bijias man ha'mikra."
+},
+{
+"startMs": 2781647,
+"endMs": 2790906,
+"text": "Entonces, véanme los paralelos que hay con lo que estamos diciendo, ¿sí? Entonces, estás hablando que aquí te compara el, el kriat baTorá con kriat shema bazman."
+},
+{
+"startMs": 2791247,
+"endMs": 2798167,
+"text": "Entonces, lo único que mitvat ase en kriat shema es el zman. Entonces, si es man ha'mikra, entonces cambia la esencia."
+},
+{
+"startMs": 2798426,
+"endMs": 2804846,
+"text": "Pero al final no puede decir que es un aseh diferente, porque al final es un aseh de kriat baTorá, nada más que es kriat baTorá bazman."
+},
+{
+"startMs": 2804846,
+"endMs": 2815247,
+"text": "¿Sí? ¿Me estoy explicando? Entonces, dice: «Mideina koré mikam ve'eilaj lo ifsid ki adam hakoré baTorá, miclal de koré be'onata az behiljot talmud Torá»."
+},
+{
+"startMs": 2815446,
+"endMs": 2837107,
+"text": "Entonces, ¿cuál es el vor? ¿Cuál es la necuda? Entonces, entonces, la necuda, ¿cuál es la necuda del evdel entre kriat shema be'onata bismaná, que, que por otro lado, como dijimos, hay koré le'aguia, según esto va a haber koré baTorá ve koré, kriat shema bismaná, que también es un aseh talmud Torá?"
+},
+{
+"startMs": 2837886,
+"endMs": 2845567,
+"text": "¿Sí? Es-- tanto es más aseh talmud Torá, que como dijo Itzjak, que tú sales de yejo vá de talmud Torá por medio de decir kriat shema."
+},
+{
+"startMs": 2846086,
+"endMs": 2853346,
+"text": "Tú no sales de yejo vá de talmud Torá si dices la midá, si dices suked y simrá. Estás alabando a Hashem, le estás cantando a Hashem, le estás pidiendo a Hashem."
+},
+{
+"startMs": 2853366,
+"endMs": 2859866,
+"text": "Es tehilim. Es tehilim. Es, esa es la Gemara de Nedarim, ¿no? A lo mejor puedes ir a pedirla. Sí, para eso traje la Gemara Nedarim. Entonces, dice..."
+},
+{
+"startMs": 2861946,
+"endMs": 2869707,
+"text": "Sí, sí, yo sé, pero Nedarim está la-- cuál es el jiyuv de Torá. Oh, entonces dice la Gemara aquí en Nedarim, dice aquí un poquito más."
+},
+{
+"startMs": 2870207,
+"endMs": 2877366,
+"text": "No nada más, Gemara Nedarim jet amud alef. No nada más. No necesitas, no necesitas, un, dos, tres palabras."
+},
+{
+"startMs": 2877727,
+"endMs": 2884707,
+"text": "No, na-no nada más que ¿qué? Que kriat shema tiene gueder de talmud Torá. ¿Dónde está el a dif?"
+},
+{
+"startMs": 2885247,
+"endMs": 2892067,
+"text": "Entonces, dice la Gemara: «Arei, talmud Torá tienes un jiyuv que se llama ve'agita bo yomam va'laila»."
+},
+{
+"startMs": 2892747,
+"endMs": 2900946,
+"text": "¿Cómo la agufa la agita yomo va'laila? Dice: «De ze kavan de i ba'e patar nafshe beKriat Shema, Shacharit ve'Arvit»."
+},
+{
+"startMs": 2900986,
+"endMs": 2907986,
+"text": "¿Sí? Dice: «Kevan de i ba'e patar nafshe beKriat Shema, Shacharit ve'Arvit». Entonces,"
+},
+{
+"startMs": 2909406,
+"endMs": 2916167,
+"text": "existe salir yeje vá de talmud Torá yomam va'laila por medio de decir kriat shema, Shacharit ve'Arvit."
+},
+{
+"startMs": 2916626,
+"endMs": 2931446,
+"text": "Entonces, sale, ¿cuál es el a dif? ¿Cuál es el a dif que hay en el kriat shema? Que cuando yo digo kriat shema, Shacharit ve'Arvit, entonces no estoy diciendo-- cuando yo estudio Torá a las tres de la tarde, estoy estudiando Torá a las tres de la tarde."
+},
+{
+"startMs": 2931846,
+"endMs": 2938687,
+"text": "Cuando yo estoy diciendo kriat shema bismaná, entonces yo estoy estudiando ahorita todo el día. ¿Sí?"
+},
+{
+"startMs": 2939086,
+"endMs": 2955366,
+"text": "Ese es besoj, bejaud, kumenal. Ya lo habías dicho, ya lo habías dicho, papá. Como dice-- De kabel ol maljut Shamay es limsoj, es limsoj esa tefilá a todo el día, porque también ata loki hajutó a la, a la oficina, a la, a lo de esta."
+},
+{
+"startMs": 2955406,
+"endMs": 2966626,
+"text": "Pero tú estás hablando de talmud Torá todo el día, nada más dijiste ahorita. Al gama que el bismaná es ol maljut Shamay, como dice una de las Gemaras, que es ol maljut Shamay, entonces bi meira ol maljut Shamay, ata loki ajen se."
+},
+{
+"startMs": 2967167,
+"endMs": 2973426,
+"text": "Eso es, eso es todo el día, estás estudiando todo el día. Pero, pero koré bismaná es diferente al elmuda talmud Torá. Sí, me acuerdo cuando me enfermé."
+},
+{
+"startMs": 2974506,
+"endMs": 2982107,
+"text": "Kilo talmud Torá cola yo. Kilo talmud Torá cola yo. Fuerzas. Es una cosa de cabala ol maljut Shamay, esa cosa es de la sok baTorá toda."
+},
+{
+"startMs": 2982107,
+"endMs": 2998846,
+"text": "Se considera, se considera, se considera todo el día. Sí. Entonces, quiere decir que el gueder de kriat shema es talmud Torá, pero kriat shema, entonces, kriat shema se lo bismaná es una-- leíste, estudiaste una parashat en la Torá, igual que si estudiaste cualquier otra parashat en la Torá."
+},
+{
+"startMs": 2999147,
+"endMs": 3010671,
+"text": "Pero cuando dices kriat shema bismaná es un suk de talmud Torá. O sea Le cule almas si dices que irás shomá a las tres de la tarde, tiene inde, o sea, no- De tal mundo lado."
+},
+{
+"startMs": 3011330,
+"endMs": 3021390,
+"text": "Lo puedes decir en el bejolashón. El tema que no lo puedes decir bejolashón es que en segundo que no lo puedes decir bejolashón es bizmaná, o sea, lo que provoca el- O sea, el bejolashón es cuando estás leyendo el Sefir, ¿me explico?"
+},
+{
+"startMs": 3021770,
+"endMs": 3036810,
+"text": "Pero acá sí, o sea, ¿qué quieres decir? Mi tin estudio, vadai, estudiando Torá, está estudiando Torá. Pero la malá de Krias Shemá, que es un sug de estudio de Torá con otro, otra dimensión, entonces- Y no nada más es bizmaná, lo que la provoca es el esmán."
+},
+{
+"startMs": 3036810,
+"endMs": 3043411,
+"text": "¿Eh? Lo que le hace que lo usa es el esmán. Eso, el, el esmán y la mitzvá. El esmán y la mitzvá de Krias Shemá."
+},
+{
+"startMs": 3044151,
+"endMs": 3056151,
+"text": "Y entonces sale que según la Gemará, que si tú estás basmán de Krias Shemá y hasta 9:00 mikkrá, según el Mandámar de Mitzvot Loz Tzirot Kavaná, entonces, de ahora yo sigo estudiando Torá igual que hace un segundo."
+},
+{
+"startMs": 3056430,
+"endMs": 3068131,
+"text": "Pero el hecho que estás diciendo el Krias Shemá bizmaná, entonces el Mandámar que te dice Mitzvot Loz Tzirot Kavaná, si pones la kavaná que estás haciendo Krias Shemá, entonces estás haciendo el Talmud Torá, que se llama Krias Shemá, que te sirve para cubrir todo el día."
+},
+{
+"startMs": 3068151,
+"endMs": 3077191,
+"text": "Ahorita lo explicamos un poquito más. Sí, porque haría eso otro que, porque otra vez, la Gemara está escrito Ol Maljut Shamayim. ¿Qué tiene que ver Talmud Torá con la mitzvá de Krias Shemá, que dijo ahora es Ol Maljut Shamayim?"
+},
+{
+"startMs": 3077411,
+"endMs": 3084010,
+"text": "En Torá no es Ol Maljut Shamayim, en Torá estás estudiando Torá. Leja ahora. ¿Qué, qué tiene que ver mejor uno con el otro?"
+},
+{
+"startMs": 3084091,
+"endMs": 3090671,
+"text": "Eso es lo que hay que entender. Eso. Más cómo vas a decir que se llama estudiar Torá todo el día, una cosa, aquí pasa Ol Maljut Shamayim y se pasa."
+},
+{
+"startMs": 3090890,
+"endMs": 3100571,
+"text": "Enton-- y no, pero por otro lado, no es de Kavel Ol Maljut Shamayim, sino es un sug de lim, limud Torá. Entonces, no, leo aquí el Ran y quiero aquí con eso entrar."
+},
+{
+"startMs": 3100651,
+"endMs": 3112171,
+"text": "Dice: \"Mi stavre li de lavdavka de beja mimifta\". Que ya sales ya de juego de Torá, ya no necesito nada más, más que Krias Shemá, dice: \"Shealej hayav Adam, kol Adam limot tamid yomam va'layla kfikojó."
+},
+{
+"startMs": 3112611,
+"endMs": 3119071,
+"text": "Veamrim pereq kabed de kidushin talmud p'nán veshimiam tam shiut varay, shiut divrei Torá mejuddim befijja."
+},
+{
+"startMs": 3119310,
+"endMs": 3126890,
+"text": "Sheimejjá, sheimi shalejá Adam davar, al tegam guem betomar lo\", sí, no sé, la que tienes que decirle que ajotjá."
+},
+{
+"startMs": 3127470,
+"endMs": 3135711,
+"text": "Dice: \"Así como sabes que tu hermana es tu hermana, tienes que saber que, que shabat es shabat. Y con Krias Shemá no sa-- no llegas a eso."
+},
+{
+"startMs": 3136531,
+"endMs": 3150551,
+"text": "Dice: \"VeKrias Shemá sheajrit va'avid lo sag li leja, el amikan ira li reayá, de ma shecatavti en pereq shvuot shtayim bata, de kol midir deata midrashá falpi shium mina Torá, que van deleitem efurás bekrab edia, shua jalalá\" Esta es una raya ahí en Shvuot, en Adarim."
+},
+{
+"startMs": 3151151,
+"endMs": 3154830,
+"text": "Entonces... Nishvá de oy me-- me alcina. Eso."
+},
+{
+"startMs": 3156571,
+"endMs": 3170151,
+"text": "Entonces, yo quiero entender algo así. Entonces, la nekudá, yo entiendo así, que betem, la nekudá de Krias Shemá, ¿por qué salgo yejo vá para todo el día, pero no salgo de yehe dejo vá para todo el día?"
+},
+{
+"startMs": 3170231,
+"endMs": 3178870,
+"text": "¿Qué sí tengo y qué no tengo? ¿Qué sí tengo y qué no tengo? Bizmaná. Entonces, no, cuando digo bizmaná, ¿qué sí tengo y con todo y todo no tengo?"
+},
+{
+"startMs": 3179510,
+"endMs": 3189970,
+"text": "Porque sí, sí, mifta nafshé, pero no tienes algo. Entonces, ¿qué sí tienes que cuando tú dices Krias Shemá, betem me estás diciendo Shemá Yisrael Adonai eloheinu Adonai ejad."
+},
+{
+"startMs": 3189970,
+"endMs": 3206731,
+"text": "¿Qué es Hashem ejad? Hashem ejad es decir que cada situación del día detrás de ella es, no es tipo hay momentos de Hashem y hay momentos de otras cosas, sino detrás de todos los momentos es una manera- Cada cosa es Torá, cada cosa que haces en la vida es Torá."
+},
+{
+"startMs": 3207211,
+"endMs": 3216510,
+"text": "Cuando trabajo, es un tipo de Torá, cuando hablo con mi esposa, es un tipo de Torá, cuando, cuando educo a mis hijos, es un tipo de Torá, cuando me amarro los zapatos, es un tipo de Torá."
+},
+{
+"startMs": 3217350,
+"endMs": 3222231,
+"text": "Entonces, si yo-- entonces por eso es el, el niñán del Krias Shemá. Es fe. Sí, sí, sí,"
+},
+{
+"startMs": 3223491,
+"endMs": 3229510,
+"text": "sí, sí. Entonces, entonces, entonces por eso es Hashem ejad, ¿y luego qué viene?"
+},
+{
+"startMs": 3229830,
+"endMs": 3236890,
+"text": "Veahto et Hashem elokeja, ve-- todos los kols, ¿sí? O sea, lo, en otras palabras, es el sejel sheyesh bejol devar."
+},
+{
+"startMs": 3237250,
+"endMs": 3244091,
+"text": "Entonces, bejoleバ beja juonem shejuo jol modeja, judim haelesh lo najim tsarká. Es el pasuk de la Torá. Ulestejaba deyel yushov jol comeja."
+},
+{
+"startMs": 3244171,
+"endMs": 3252451,
+"text": "Exactamente. Eso es lo que te está diciendo. Entonces, cuando yo dije... Literalmente es lo que te está diciendo el pasuk. Exactamente. Entonces, cuando Krias Shemá te está diciendo, ¿que qué?"
+},
+{
+"startMs": 3252991,
+"endMs": 3267830,
+"text": "Que todo el día es Torá. Entonces, cuando yo macpida decir Krias Shemá bizmaná en la mañana y en la noche, estoy diciendo que cada acto y acto que yo haga en el día, realmente detrás de él está la Torá, está la Torá."
+},
+{
+"startMs": 3268151,
+"endMs": 3278951,
+"text": "Entonces, por eso se llama que estoy estudiando Torá todo el día, porque cada-- si es un día que, que empieza y acaba en Krias Shemá, quiere decir que todo el día le metiste"
+},
+{
+"startMs": 3280330,
+"endMs": 3289151,
+"text": "rujaníuta a cada acto que haces en el día, que detrás de él es Torá, entonces sale que todo el día estás estudiando. Como si abriese los paréntesis, todo lo que esté adentro del paréntesis es parte."
+},
+{
+"startMs": 3289191,
+"endMs": 3295991,
+"text": "Exactamente, es parte del paréntesis. Ahora, ¿en dónde no? ¿Dónde no tocaste? ¿Qué parte? ¿Qué? ¿Dónde no...? Oh, entonces, ¿qué falta?"
+},
+{
+"startMs": 3295991,
+"endMs": 3302411,
+"text": "¿Qué falta? Aquí falta algo. Entonces, esto va a ser paralelo a lo que vimos ayer en Rav Nahman. Porque realmente no estás estudiando todo el día."
+},
+{
+"startMs": 3303310,
+"endMs": 3314550,
+"text": "Te falta, ¿no? ¿A qué parte va a ser paral-paralelo en Torá Alef? Según esto, Krias Shemá, Krias Shemá, según lo que estamos diciendo, es va a ser paralelo, ¿a qué?"
+},
+{
+"startMs": 3315090,
+"endMs": 3321131,
+"text": "Al istakela la sejel sheyesh bejol devar, pero la sejel sheyesh bejol devar uorgadol, uorgadol."
+},
+{
+"startMs": 3321531,
+"endMs": 3336651,
+"text": "Y nos dijo en Torá Dalet que ese sejel sheyesh bejol devar, entonces dijo que yef Shal Ashí, y en Torá Dalet que nos dijo que es bejina tejad, que eso es entender el, el-- y Jud Hashem, que realmente detrás de todo, cualquier situación, está Hashem."
+},
+{
+"startMs": 3337111,
+"endMs": 3352871,
+"text": "Entonces, entonces, pero ese sejel está completamente arriba de tu entendimiento. Entonces, el Krias Shemá es un tipo de por qué el Krias Shemá está en todo el día, porque no son palabras específicas, es kol, está arriba."
+},
+{
+"startMs": 3353211,
+"endMs": 3359470,
+"text": "Exactamente, no son pal-- no son palabras específicas. Ahora, de fisdé, ¿por qué sí tengo una obligación de estudiar Torá todo el día?"
+},
+{
+"startMs": 3359790,
+"endMs": 3370871,
+"text": "Porque yo necesito saber cuáles sí son las palabras de la Torá. No puedo decir nada más en general que toda la vida es Torá. Pero entonces, si tú tienes Torá sin tener Krias Shemá, entonces te faltó tu Torá en la esencia."
+},
+{
+"startMs": 3371531,
+"endMs": 3377790,
+"text": "Porque son palabras, pero no son las palabras, que son las palabras de todas las palabras. Me dice que es sejel sheyesh bejol devar, ya."
+},
+{
+"startMs": 3378330,
+"endMs": 3387350,
+"text": "No, no, no, no. Tú sabes que es el sejel sheyesh bejol devar de todo. Exactamente. Aunque quieras acá mañana y... Y es lo que dice: \"Yef Shal ekabel et haor shel ajet más que el de la nun\"."
+},
+{
+"startMs": 3387651,
+"endMs": 3398031,
+"text": "¿Y cuál es la nun? El maljut. ¿Qué es el maljut? El pe, el dibur, ¿sí? Entonces, yo necesito el dibur. Es lo que dice aquí el Ran. Dice: \"Shiut vara divrei Torá mejudadim befijja\"."
+},
+{
+"startMs": 3398810,
+"endMs": 3405711,
+"text": "Dice: \"Tú necesitas, aparte del, del divrei Torá clalí, necesitas el divrei Torá pra ti\"."
+},
+{
+"startMs": 3406151,
+"endMs": 3416270,
+"text": "Aparte de necesitar el divrei Torá del or y del sejel, necesitas el divrei Torá, eh, eh, eh, que, que, que ya está definido en, en palabras."
+},
+{
+"startMs": 3416611,
+"endMs": 3423363,
+"text": "Entonces, betem acá hay dos niveles en Talmud Torá Un nivel de Talmud Torá que se llama... Son los ."
+},
+{
+"startMs": 3423863,
+"endMs": 3427123,
+"text": "Son los , son cada nivel Torá y nivel Torá para ti."
+},
+{
+"startMs": 3428503,
+"endMs": 3435363,
+"text": "Y hay otro nivel Torá que es el papá de todos los Talmud Torá. ¿Que cómo se llama el papá de todo el Talmud Torá? Shmá Israel."
+},
+{
+"startMs": 3436062,
+"endMs": 3436723,
+"text": "Entonces,"
+},
+{
+"startMs": 3438003,
+"endMs": 3444383,
+"text": "entonces eso fue para entender un poquito por qué hay diferencia entre Mikrá y Keriát Shemá, pero quiero decir un poquito más."
+},
+{
+"startMs": 3444923,
+"endMs": 3454083,
+"text": "El Shemá es el que la lanza al día, ¿no? ¿Eh? El Shemá lan-lanza la Torá al día. Exactamente. Es, es como si la Torá sin el Shemá le faltaría."
+},
+{
+"startMs": 3454083,
+"endMs": 3460203,
+"text": "¿No hay diferencia entre Keriá y Limud? ¿Mm? Que una es Keriá y otra es Limud."
+},
+{
+"startMs": 3460823,
+"endMs": 3471783,
+"text": "O sea, el Keriát Shemá tiene que ser davka en ofen de Keriá. Ahí está que el Limud después, si yo estudio, la davka que tiene que ser, o sea, verdaderamente es lo mejor y bejule."
+},
+{
+"startMs": 3472023,
+"endMs": 3477143,
+"text": "No tiene que saber con... Sí, no tiene-- o sea, verdaderamente es, hay que sacarlo con la boca, pero,"
+},
+{
+"startMs": 3479003,
+"endMs": 3485223,
+"text": "pero, pero no es va más como el Keriát Shemá, ¿sí? Pero entonces tiene que haber habaná en las palabras del Shemá, si no, no se considera..."
+},
+{
+"startMs": 3485223,
+"endMs": 3496003,
+"text": "¿Eh? También tiene que haber una habaná, un entendimiento de... Ahorita, ahorita voy a eso, ahorita voy a eso, porque creo que de eso es-- depende aquí la majló que te repi- Después el gopele que le va a encantar."
+},
+{
+"startMs": 3496083,
+"endMs": 3497643,
+"text": "A ver, échalo. Kaman,"
+},
+{
+"startMs": 3498983,
+"endMs": 3505143,
+"text": "kaman un dalet. Sí. Ah, claro, mikets. Habla de que te dice los remazim."
+},
+{
+"startMs": 3505403,
+"endMs": 3505563,
+"text": "Sí."
+},
+{
+"startMs": 3511623,
+"endMs": 3514763,
+"text": "Y ahí puedes ver los remizot y ahí puedes"
+},
+{
+"startMs": 3516263,
+"endMs": 3516903,
+"text": "ver los remizot"
+},
+{
+"startMs": 3530923,
+"endMs": 3536603,
+"text": "Cada uno según su nivel, no puedes tú ahorita tratar de escuchar remazim, que lo escucharían, no sé quién. Y dice el siguiente párrafo:"
+},
+{
+"startMs": 3538943,
+"endMs": 3539483,
+"text": "Que sí sabe."
+},
+{
+"startMs": 3546723,
+"endMs": 3559663,
+"text": "Que no estudies Torá. Él dice la baraja que haya una babina que una persona no necesita estudiar Torá, porque, porque ya que dices Keriát Shemá en la, en la mañana y en la noche."
+},
+{
+"startMs": 3561443,
+"endMs": 3569123,
+"text": "Entonces, una persona que ya sabe, ya sabe. Afilo entender. Entender cómo cada cosa que te pasa es Torá."
+},
+{
+"startMs": 3569763,
+"endMs": 3579503,
+"text": "O sea, que tienes tan clara la Torá que realmente entiendes casi, casi qué pasú que ahorita está pasando cuando yo necesito decirle este comentario a mi esposa."
+},
+{
+"startMs": 3579543,
+"endMs": 3589423,
+"text": "¿Qué pasú que está pasando cuando necesito yo? O sea, entonces yo voy a traducir todo a Torá. Entonces, Ulay, Bemeta, Babina, que ya no necesite yo estudiar Torá mamash."
+},
+{
+"startMs": 3590023,
+"endMs": 3591263,
+"text": "Y, y porque ya todo el día..."
+},
+{
+"startMs": 3601423,
+"endMs": 3602823,
+"text": "Y ahí explica, ¿no? Que es que"
+},
+{
+"startMs": 3604983,
+"endMs": 3609103,
+"text": "al terminar un mase, pero que estudies Torá, no sé qué es lo que dice."
+},
+{
+"startMs": 3612263,
+"endMs": 3620403,
+"text": "Es más, es lo que está diciendo. Que qué, que ves las cosas que... Lo ves más rujani, que, o sea, es lo que dice la baraja, que todo es rujani."
+},
+{
+"startMs": 3620523,
+"endMs": 3626903,
+"text": "Tráele el, el , la jela está. Afilo el que me-- el que me vino el remazí. Podría decir"
+},
+{
+"startMs": 3628543,
+"endMs": 3635183,
+"text": "Es Torá. Mamash Torá. No, no, no, no. Pero que tú veas tu vida así, es más que si te sentaste a estudiar Torá."
+},
+{
+"startMs": 3638603,
+"endMs": 3645223,
+"text": "Entonces, entonces... Por eso Torá es, es Torá be-- es tu Torá bekuahá. En la del Sejel. Sí. Es tu Torá bekuahá."
+},
+{
+"startMs": 3645483,
+"endMs": 3654763,
+"text": "Y la única forma de ver también conceptos de... Claro, que toda la-- que las cosas, que es una vivencia que se convierte en Torá, es una vivencia que se convierte en Torá."
+},
+{
+"startMs": 3655563,
+"endMs": 3664163,
+"text": "Ahora, ¿de dónde ionek que cada vivencia bemeta es Torá? Del Keriát Shemá. Porque, porque toda la Torá es en ionek del Keriát Shemá."
+},
+{
+"startMs": 3664163,
+"endMs": 3673083,
+"text": "¿Cómo sé? Que toda la-- Lo mismo que dijo Avi, ¿no? Este... Ahorita lo relaciono, ahorita van a ver. Sí, sí voy a relacionarlo ahorita con la gravosh."
+},
+{
+"startMs": 3673723,
+"endMs": 3679342,
+"text": "Que hay aquí dos niveles. Fíjense. El Keriát Shemá, ¿dónde está escrita Parashat Keriát Shemá?"
+},
+{
+"startMs": 3680623,
+"endMs": 3688463,
+"text": "Después de Matán Torá. Después de que Mosé Rabenu dice: \"Oh, esto fue Matán Torá\". ¿Tú sabes qué quiero que aprendas de ahí?"
+},
+{
+"startMs": 3688703,
+"endMs": 3694343,
+"text": "Shmá Israel, Hashem Elohenu Shem Echad. Quiere decir, Shmá Israel, Hashem Elohenu Shem Echad, es Matán Torá."
+},
+{
+"startMs": 3695783,
+"endMs": 3697963,
+"text": "Matán Torá es toda la Torá kulá."
+},
+{
+"startMs": 3699383,
+"endMs": 3715883,
+"text": "Luego, toda la Torá kulá es lo que se dio en Matán Torá. Pero si yo te quiero hacer un resumen y te quiero decir qué hubo en Matán Torá, Shmá Israel, Hashem Elohenu Shem Echad, quiere decir que todo Matán Torá y toda la Torá que se dio va a estar incluida dentro de Matán Torá."
+},
+{
+"startMs": 3716323,
+"endMs": 3717103,
+"text": "Y por eso es"
+},
+{
+"startMs": 3725443,
+"endMs": 3735223,
+"text": "todo, en todos los matavim de la vida es del Keriát Shemá. Entonces, de Fide. Entonces, aquí podemos entender que en esencia, Keriát Shemá, ahí tiene una diferencia con todo."
+},
+{
+"startMs": 3735783,
+"endMs": 3743143,
+"text": "Ahora, ¿dónde se ve en el Keriát Shemá que tiene una diferencia con todo? Que rea-realmente Mosé Rabenu hace una pausa. ¿Cómo hace una pausa?"
+},
+{
+"startMs": 3743703,
+"endMs": 3751363,
+"text": "Habla, habla, habla, habla, habla. De repente, en vez de seguir hablando, ¿qué te dice? Shmá Israel. ¿Por qué me dice Shmá Israel?"
+},
+{
+"startMs": 3751603,
+"endMs": 3759903,
+"text": "No está escuchando. ¿Quién? Entonces, ¿con quién estás hablando hasta ahorita? Tipo, ¿con quién estabas hablando hasta ahorita como para que me digas Shmá Israel?"
+},
+{
+"startMs": 3760763,
+"endMs": 3768923,
+"text": "Entonces, entonces es parte. ¿Cómo si yo ahorita? Entonces, ¿qué pasa? Exactamente. ¿Qué pasa si ahorita está hablando esto, lo de no sé qué?"
+},
+{
+"startMs": 3769983,
+"endMs": 3772903,
+"text": "Entonces, digo: \"Escuche\". ¿Qué quiere decir digo escuche?"
+},
+{
+"startMs": 3774203,
+"endMs": 3781223,
+"text": "Ponga atención. Escuche. Sí. Se pone en lo bueno. No. Entonces, entonces acá, Mosé Rabenu dice Escuchen."
+},
+{
+"startMs": 3781583,
+"endMs": 3787783,
+"text": "Escuchen. ¿Por qué está diciendo escuchen? Nos está diciendo Mossad Rabe, nos dice: \"Aquí hay algo- Que cole el todo."
+},
+{
+"startMs": 3787823,
+"endMs": 3797123,
+"text": "Que, que cole el todo, que cole el todo. Y si tú lo entiendes, esto, igual que el pasuk de antes, no entendiste esto."
+},
+{
+"startMs": 3797683,
+"endMs": 3804563,
+"text": "Si tú ahorita, ¿por qué no entendiste esto? Porque tienes que es-- entender que lo que te voy a decir ahorita es todo."
+},
+{
+"startMs": 3805163,
+"endMs": 3812703,
+"text": "Significa que lo que te voy a decir ahorita no es lo que te voy a decir ahorita. Lo que te dije. Las palabras, no, a filo de lo que te dije."
+},
+{
+"startMs": 3812703,
+"endMs": 3819043,
+"text": "Ah, claro, claro. O sea, no son las palabras, porque hasta ahorita estamos diciendo palabras. Palabras, palabras. Y las palabras las estabas entendiendo."
+},
+{
+"startMs": 3819543,
+"endMs": 3829103,
+"text": "Ahorita estas palabras te estoy diciendo que no las estás entendiendo, porque realmente si tú no entiendes cómo en estas palabras están todas las palabras que te dije hasta ahorita, entonces no entendiste estas palabras."
+},
+{
+"startMs": 3829123,
+"endMs": 3836123,
+"text": "Shema Israel Rabono. Shema está en, es pasuk. Sí, sí, sí, sí, sí. Es un pasuk mamash. Entonces..."
+},
+{
+"startMs": 3838043,
+"endMs": 3839703,
+"text": "Pero eso no hay prueba Torá, Ben Yehesman."
+},
+{
+"startMs": 3841203,
+"endMs": 3847623,
+"text": "No, está escrito Shema Israel. ¿Y qué hay después de Shema Israel? Ve afta. Así el Baruj Shen. Ve afta, sí."
+},
+{
+"startMs": 3847883,
+"endMs": 3854303,
+"text": "Ve afta. Luego se va a otra parashat que empieza, eh, con Ve'ahim Shemoa, pero no es Ve'ahim Shemoa la nuestra."
+},
+{
+"startMs": 3854903,
+"endMs": 3860943,
+"text": "Ya luego la siguiente parashat, en Ekev, está Ve'ahim Shemoa. ¿Sí? Entonces..."
+},
+{
+"startMs": 3861503,
+"endMs": 3869163,
+"text": "Es el Shem, el Shema de Rabono, ¿no? ¿Mmm? El Shema de Rabono. ¿El? De que dice Shema... Oh, espera, no, un segundo, no, no, un segundo."
+},
+{
+"startMs": 3869763,
+"endMs": 3872643,
+"text": "Sí, no. Ahora vas a tratar de entender. Lo contrario."
+},
+{
+"startMs": 3874623,
+"endMs": 3882263,
+"text": "No, no, vamos a ver, no sé, no lo tengo en jushpan. No, porque Rabono es- ¿A qué me refiero? ¿Se acuerdan? Ahorita sí voy a lo de Rabashi."
+},
+{
+"startMs": 3882983,
+"endMs": 3885423,
+"text": "Rabashi nos dijo que tú--"
+},
+{
+"startMs": 3886783,
+"endMs": 3894303,
+"text": "esa misma Torá habla de las palabras y las palabras revueltas, y cuando llegas a un nivel en Torá, que ya la Torá, ¿sí?"
+},
+{
+"startMs": 3894783,
+"endMs": 3904763,
+"text": "Que ya la Torá tú puedes ahorita verla como todo es uno. Como el Shema Israel. Porque te dice que \"dibret Torá anim bemakom ejad, ashirim bemakom ajej\"."
+},
+{
+"startMs": 3905223,
+"endMs": 3911863,
+"text": "Entonces, quiere decir que llegas hasta un, a un lugar donde entiendes que la Torá es una. Ni Da con otros, con HaShem, ¿no?"
+},
+{
+"startMs": 3912003,
+"endMs": 3918443,
+"text": "Era el, eh, el primero es Serayon, y ya, ya luego era- Y Bur, y Enika, y Mojin."
+},
+{
+"startMs": 3918963,
+"endMs": 3925603,
+"text": "Según esto, Mojin. Y Mojin, que hay celeste. Entonces, según esto, Mojin, ¿a qué, a qué se va, a qué va a estar comparado?"
+},
+{
+"startMs": 3925683,
+"endMs": 3937843,
+"text": "Exactamente, a Kriat Shemá. ¿Qué quiere decir? Que cuando tocas el punto del Kriat Shemá, quiere decir que ya tienes Mojin para estudiar Torá, que ya no le estudias la Torá- Be, be Guedere, Shmia Dibur, no."
+},
+{
+"startMs": 3938183,
+"endMs": 3946463,
+"text": "Dios así. Dibur, que es... Dibur es, ahorita estoy estudiando esto, ¿sí? Kriat Shemá ya no es Dibur, es cuando lo subes a Mojin."
+},
+{
+"startMs": 3947103,
+"endMs": 3969223,
+"text": "Cuando lo subo a Mojin, Mojin, ¿sabes qué es Mojin? ¿Sí? Cuando subo la Torá, que sea Mojin. Entonces, ahorita quiere decir que cada palabra que yo veo en Torá, voy a decir: espérate, si realmente esta palabra es el Kriat Shemá, entonces quiere decir que esta palabra que está escrita aquí y la otra palabra que está escrita en otro lugar están conectadas."
+},
+{
+"startMs": 3969703,
+"endMs": 3977123,
+"text": "Y entonces, quiere decir que algo que está escrito allá le aumenta a lo que está escrito acá. Entonces, quiere decir, ¿qué nos dijo Rabona Juan ahí?"
+},
+{
+"startMs": 3978543,
+"endMs": 3985863,
+"text": "Que cuando llegas al nivel que se llama Mojin, llegas a en-entender un nivel que Hashem por, que por más que yo te entienda, no te entiendo."
+},
+{
+"startMs": 3986543,
+"endMs": 3994383,
+"text": "Y le pedimos a Hashem. Y entonces, ya que por más que yo te entienda, no te entiendo, ¿qué significa no te entiendo? Cada cosa que yo entienda va a ser parcial- Claro."
+},
+{
+"startMs": 3994403,
+"endMs": 4000603,
+"text": "A algo mucho más grande. Entonces, ese mucho más grande, ¿cómo se llama? Shema Israel. ¿Sí?"
+},
+{
+"startMs": 4000743,
+"endMs": 4001783,
+"text": "Se va a llamar Shema Israel"
+},
+{
+"startMs": 4005723,
+"endMs": 4008043,
+"text": ". Y le pedimos a Hashem que-"
+},
+{
+"startMs": 4009983,
+"endMs": 4013123,
+"text": "Entonces, quiere decir, ahorita tú conoces a Hashem como lo vamos a conocer"
+},
+{
+"startMs": 4139203,
+"endMs": 4155851,
+"text": "¿no? Donde hasta tu fe es que veme, la Torá es en soft, es algo mucho más."
+},
+{
+"startMs": 4156251,
+"endMs": 4161511,
+"text": "Ahora, entonces, quiere decir que cada palabra y palabra que yo estudio en Torá,"
+},
+{
+"startMs": 4162951,
+"endMs": 4169031,
+"text": "si yo tengo un ripul al criacho Ema, entonces quiere decir que el criacho Ema es el que va a potencializar toda la Torá que estudemos."
+},
+{
+"startMs": 4169611,
+"endMs": 4185310,
+"text": "Si no, toda la Torá se va a quedar limitada a las palabras que son. Pero si yo tengo toda la Torá que me metes el quilui que hubo en Matán Torá, que es el quilui de que es Hashem lo que no es Hashem Ejad, y que to-- si Hashem lo que no es Hashem Ejad, quiere decir que toda la Torá Kula es una, Mamash es una."
+},
+{
+"startMs": 4185551,
+"endMs": 4192011,
+"text": "Entonces, quiere decir que toda la Torá Kula es, es algo, es algo que nunca tiene fin, nunca tiene fin."
+},
+{
+"startMs": 4192291,
+"endMs": 4200031,
+"text": "Y entonces, cada cosa se potencializa y se potencializa y crece y crece y crece y no tiene fin. Entonces, de fin de Urai, podemos entender acá"
+},
+{
+"startMs": 4201531,
+"endMs": 4208651,
+"text": "que haya una diferencia- ¿Cuál es la cabaña que nos pide que pongamos un, un criacho Ema? Claro, un criacho Ema es un vitul total."
+},
+{
+"startMs": 4208711,
+"endMs": 4216231,
+"text": "Ya que no entendiste. Sí, es un vitul total que, que sea lo que sea, entiendas o no entiendas, Hashem está atrás."
+},
+{
+"startMs": 4216591,
+"endMs": 4223251,
+"text": "Entiendas o no entiendas, hay Torá atrás. Ahora, tú, tu, tu Jiju ves darle palabras al criacho Ema."
+},
+{
+"startMs": 4224071,
+"endMs": 4231251,
+"text": "Pero ¿cuáles palabras le vas a dar al criacho Ema? Las de toda la Torá Kula, porque las de toda la Torá Kula sí las entiendes. Las del criacho Ema no las entiendes."
+},
+{
+"startMs": 4231511,
+"endMs": 4240891,
+"text": "¿Qué quiere decir? No las entiendes, eh, o sea, te están diciendo que aquí hay algo que tienes que toda la vida encontrar cada día más, cómo entiendes más el criacho Ema."
+},
+{
+"startMs": 4240891,
+"endMs": 4251471,
+"text": "¿Sí? Entonces, de aquí, de alguna manera, el criacho Ema te manda toda la Torá Kula, y toda la Torá Kula de alguna manera te hace entender cada día más, o ahorita ya entendí más el criacho Ema."
+},
+{
+"startMs": 4251871,
+"endMs": 4259151,
+"text": "¿Sí? Ahorita ya entendí más el criacho Ema. ¿Sí? Y el criacho Ema es el que te hace también entender la Torá. ¿Pero por qué tiene que ser Pismado?"
+},
+{
+"startMs": 4260231,
+"endMs": 4269311,
+"text": "No, porque tiene que ser Mishoj Jaw Kumeja. Es que Batay que yo puedo estudiar la Parashat del criacho Ema como un, como un limud, como un limud, ¿entiendes?"
+},
+{
+"startMs": 4269351,
+"endMs": 4276751,
+"text": "Que es Bejón Leva Beja, Bejón Naseja. Según lo que había explicado ya siempre, Kumeja es cuando te paraste en la mañana y lo primero que hiciste fue eso."
+},
+{
+"startMs": 4276811,
+"endMs": 4283611,
+"text": "Exactamente. Estás diciendo que todo es eso. Cuando yo lo hago a la mitad del día-- Por eso he podido comer antes, por eso hice todo."
+},
+{
+"startMs": 4283911,
+"endMs": 4290011,
+"text": "Claro. No tengo nada sin ti. Cuando yo lo hago a la mitad del día, es una de las cosas que estoy haciendo en el día, es estudiar la Parashat."
+},
+{
+"startMs": 4291891,
+"endMs": 4313431,
+"text": "Entonces, no, es... Qué ga-- No hay sin que Adam acordó a Torá. Pero llegas a la hora de Adam acordó a Torá, pero no, no tienes la, la, la alargada de que cuál Torá que estudies todo el día, quiere decir que si decimos bien el Shemá, vamos a tener scudeme de entender la Torá bien, porque vas a entender que la Torá es una, una revelación de Hashem."
+},
+{
+"startMs": 4314171,
+"endMs": 4326171,
+"text": "Entonces, Shemá es Hashem Etsmó. La Torá es que es la revelación de Hashem. La revelación la puedes entender, pero tienes que entender que la revelación es la revelación de Hashem y que Hashem es algo mucho más grande."
+},
+{
+"startMs": 4326191,
+"endMs": 4331351,
+"text": "Entonces, esa revelación la tienes que entender como es una revelación de Hashem. Entonces, Defise."
+},
+{
+"startMs": 4333171,
+"endMs": 4339251,
+"text": "Ya no tenemos tiempo. Si me preguntan a mí, creo que tenemos que ir tú al Shemá Hei. Sí. Ahora lo de Triburim."
+},
+{
+"startMs": 4339291,
+"endMs": 4346751,
+"text": "Ahora lo de Triburim, cómo tú el Sejad, cerrar los ojos, algo que no puedes entender. Claro. Los Triburim del principio al final."
+},
+{
+"startMs": 4346811,
+"endMs": 4354971,
+"text": "Es el Dejad. No, pero ayer la relacionamos y entiendes también. Habla del Ejad, habla de las palabras, del orden de las palabras."
+},
+{
+"startMs": 4356351,
+"endMs": 4363211,
+"text": "Los Isurim, que no puedes entender, que cierras los ojos y ahí hay alma. Y todo lo que sufres es porque será una edad. Y ahí llegas a esa institución de arriba."
+},
+{
+"startMs": 4363551,
+"endMs": 4371091,
+"text": "Y te traen los Isurim del Queh Shemá. Yo creo que le tenemos que dar. Claro, es traer-- Sí. La vimos ya tres, cuatro veces, pero todo, todo me duro."
+},
+{
+"startMs": 4371131,
+"endMs": 4378391,
+"text": "Sí, está impresionante. El Or HaTechlit Me Rejocame Adam, y no les voy a menos que cierren los ojos y el Ejad acá. No, y es con los ojos."
+},
+{
+"startMs": 4378431,
+"endMs": 4381851,
+"text": "Que Ejad un culo todo el tiempo. Hay, hay que verlo bien, eh, Betatash."
+},
+{
+"startMs": 4383171,
+"endMs": 4390331,
+"text": "Hay que ver eso y nomás les voy a decir una palabra para no dejarlo aquí volando, pero en una palabra, la Necudaquies es, es algo muy amo."
+},
+{
+"startMs": 4390931,
+"endMs": 4397971,
+"text": "Que Betsem, por un lado, Kiria Shemá tiene que ser Kixtava, Dafka, más que en cualquier lugar en la Torá."
+},
+{
+"startMs": 4397971,
+"endMs": 4399011,
+"text": "¿Por qué?"
+},
+{
+"startMs": 4400731,
+"endMs": 4407650,
+"text": "Otra vez, tienen que ser las palabras de Hashem. ¿Sí? Tienen que ser las palabras de Hashem. Y ahora sí entiende lo que-- ¿Por qué?"
+},
+{
+"startMs": 4408131,
+"endMs": 4416451,
+"text": "Porque si tú cambias algo ligero en las palabras, entonces ya no te agarraste de-- ¡Beme las palabras y que estas palabras incluyen todo!"
+},
+{
+"startMs": 4416911,
+"endMs": 4427611,
+"text": "Por eso, ¿qué dice? Las cambias, es lo que entendí, y no entendiste que había mucho más adentro de eso. Entonces, si yo, si yo ahorita me voy a lo que yo entiendo, si, si yo me voy a lo que yo entiendo, pues lo estoy limitando."
+},
+{
+"startMs": 4428091,
+"endMs": 4434031,
+"text": "Entonces, por eso Rebe te dice Kixtava. Apilu, ¿sí? Según Rebe, da todo lo que necesitas, Mamash, entender."
+},
+{
+"startMs": 4435771,
+"endMs": 4441991,
+"text": "Tienes que entender, dilo como es, dilo como es. Y entiende que estás diciendo algo, que sea lo que sea que entiendas, hay algo mucho más."
+},
+{
+"startMs": 4442071,
+"endMs": 4449771,
+"text": "¿Sí? Hay algo mucho más. Entonces, Rebe dice, dice: «No, tiene que ser Kixtava». ¿Sí? Entonces, ¿por, por de dónde aprenden la palabra Beayu?"
+},
+{
+"startMs": 4450431,
+"endMs": 4459531,
+"text": "Pero por otro lado, Rabono dicen: «Espérate, aquí hay la palabra Shemá». La palabra Shemá te está diciendo que todo lo que veas aquí escrito, todo lo que--"
+},
+{
+"startMs": 4461211,
+"endMs": 4470191,
+"text": "es, es, es algo que tienes que entender, que hay algo mucho más de lo que es. Entonces, es algo mucho más de lo que es."
+},
+{
+"startMs": 4470571,
+"endMs": 4476951,
+"text": "Aquí no es tanto que te agarres de la palabra, sino que entiendas que esta palabra es alguna ventana a algo mucho más de lo que es."
+},
+{
+"startMs": 4477411,
+"endMs": 4484151,
+"text": "Entonces, dice, dicen Jajamin, entonces aquí está el aspecto que, entonces, ya lo puedes decir corazón, porque el punto es acá."
+},
+{
+"startMs": 4484191,
+"endMs": 4498431,
+"text": "O sea, el punto es si el, el entendimiento me limita, este es Rebe, o Dafka el entendimiento es el que te está diciendo: «No te claves en las palabras, porque tienes que entender que las palabras aquí es algo que te tiene que, que te tiene que ver, que aquí hay algo mucho más»."
+},
+{
+"startMs": 4498511,
+"endMs": 4507771,
+"text": "¿Me explico? Entonces, yo entiendo que aquí esas son los, las tiras que hay entre Shemá y Beayu, es, es, tiene que ser, es una tira Betsem."
+},
+{
+"startMs": 4508351,
+"endMs": 4515451,
+"text": "Que Dafka, ¿por qué es Beayu y Shemá? Y Dafka, ¿por qué Shemá y Beayu? ¿Sí me estoy explicando? Un poquito. Es así."
+},
+{
+"startMs": 4515491,
+"endMs": 4521611,
+"text": "Por eso-- Daf, o Dafka es los de Barim, ¿no? Oh, y por eso aquí es Beayu Jad de Barim. ¿Qué es Jad de Barim?"
+},
+{
+"startMs": 4521771,
+"endMs": 4528551,
+"text": "Esto es un Jad de Barim. Toda la Torá Kula son Barim, ¿sí? Beayu Dbarai Be fija. ¿Pero aquí es Jad de Barim?"
+},
+{
+"startMs": 4529351,
+"endMs": 4537131,
+"text": "Las palabras son estas. Entonces, por eso Jamin dicen que tiene que ser en orden. Eh, no, Rebe aprende de aquí que tiene que ser en orden."
+},
+{
+"startMs": 4537771,
+"endMs": 4541971,
+"text": "Jamin aprenden de Beayu que tiene que ser en orden. Aquí esto lo vemos después, Betatash."
+}
+]
+}
