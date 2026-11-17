@@ -1,1044 +1,1706 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 0,
-"endMs": 23000,
-"speaker": "אופיר סגל",
-"text": "Amukim laabai Ok, ahorita ahorita vamos a mandar en mano Entonces dice: \"Amarabuna, kola mi palela jore betakineses, ninknada rasa, xenemar sabiu reshaim y talajum\" \"Amarabaye lo amaramila del home adarape levneik nishta\" Que no voltea a ver el betakinesis, como que le está dando la espalda al betakness. Meade lape leveik nishta leit lamba."
+"startMs": 60,
+"endMs": 8340,
+"text": "Amo Kim Lahavai. Okey, ahorita, ahorita vemos la . Entonces, dice: \"Ama rabuna, kol hamitpalel ajoré bet kneset nigná rashá, shaná mar saviv reshaim ithalejun\"."
 },
 {
-"startMs": 23000,
-"endMs": 28000,
-"speaker": "Speaker 2",
-"text": "El punto es que se ve como kofer, Porque estás dando espalda y no estás rezando al Wet Gnesset, estás rezando para allá."
+"startMs": 9140,
+"endMs": 17240,
+"text": "Ama rabaiye lo me-- lo amarán elá de lo mehadá ape, de bene knishká, que no voltea a ver el bet kneset, como que le está dando- La espalda."
 },
 {
-"startMs": 28000,
-"endMs": 32000,
-"speaker": "אופיר סגל",
-"text": "Pero A quién le estás rezando? No entiendo."
+"startMs": 17240,
+"endMs": 18560,
+"text": "La, la espalda al bet kneset."
 },
 {
-"startMs": 32000,
-"endMs": 35000,
-"speaker": "אופיר סגל",
-"text": "A quién le estás rezando?"
+"startMs": 19980,
+"endMs": 28740,
+"text": "El me-- mehadá ape lebe knishká, le itlampá. O sea, el punto es que se ve como cofer, porque estás, estás dando espalda y no estás rezando al bet kneset, estás rezando para allá."
 },
 {
-"startMs": 35000,
-"endMs": 39000,
-"speaker": "אופיר סגל",
-"text": "A qué importa si está atrás o adelante?"
+"startMs": 28800,
+"endMs": 33580,
+"text": "Pero ¿a quién le estás rezando? No entiendo. ¿A quién le está rezando?"
 },
 {
-"startMs": 39000,
-"endMs": 67000,
-"speaker": "אופיר סגל",
-"text": "Por qué no entró? Por qué? Kilu, ¿qué pasó? Están, no llegó, se quedó afuera, Kilu. Por qué no volteó a ver el Wet Gnesset? Pero se le iba a la hora. Sí. Dice, \"Auga abra de Kamatzla Hore Beikenissta\". Había una persona, diciendo, atrás del Wet Gnesset. El hombre ha darape le benei beik nishta. Halafeliau, paso heliau, hazi. Y lo vio? Idmeleiketaya. Se hizo pasar por árabe."
+"startMs": 35320,
+"endMs": 37720,
+"text": "Buena pregunta. ¿Qué importa si está atrás o adelante?"
 },
 {
-"startMs": 67000,
-"endMs": 76000,
-"speaker": "אופיר סגל",
-"text": "Amarleh kadu bar kaymats kamem barak. Así te paras frente a Shem."
+"startMs": 39140,
+"endMs": 45440,
+"text": "Sí, kilu, ¿por qué no entró? Porque kilu, ¿qué pasó? ¿Tam? No llegó, eh, se quedó afuera, kilu, ¿por qué no volteó a ver el bet kneset?"
 },
 {
-"startMs": 76000,
-"endMs": 82000,
-"speaker": "אופיר סגל",
-"text": "Dice Rashi. Halafautaya sokarabi. Kadu bar dice Rashi."
+"startMs": 45840,
+"endMs": 53720,
+"text": "Se le iba la hora. Está raro. Sí. Dice: \"Au gabrá de kamatz lajoré be knishká\". Había un per-- una persona, diciendo tefilá atrás del bet kneset."
 },
 {
-"startMs": 82000,
-"endMs": 116000,
-"speaker": "אופיר סגל",
-"text": "Dice \"kadu, estei, bar, resut\". Este bar, punto. Ah, kadu, estei. Ah, kadu. Como dos, bar, resuyot. Y luego que hay dos resuyot, que hay también besuka, ha daile, bebar. Birxut. Bebar es con resuts. Que hay gente que sube al Shamai, sin resuts y es con resuts. Obsiming era bien bait. No necesita. Hacer a Lyot con reshute. Todos los demás necesitan hacer muchas preparaciones para poder subir."
+"startMs": 53720,
+"endMs": 62860,
+"text": "\"Ve lo mehadá ape lebe knishká. Jaláf Eliahú\", pasó Eliahú, \"jazi\", y lo vio, \"itme leiketaia\"."
 },
 {
-"startMs": 116000,
-"endMs": 123000,
-"speaker": "אופיר סגל",
-"text": "Entonces acá es \"Ke doi bar\". Es como usted resuryot."
+"startMs": 63880,
+"endMs": 65480,
+"text": "Se hizo pasar por, por árabe."
 },
 {
-"startMs": 123000,
-"endMs": 143000,
-"speaker": "אופיר סגל",
-"text": "\"Kaimat kamem barak shalaf safsera vekatle\". Agarró un safsera, no sé qué es, y lo mató. Eliao mató a este. La gente pensó que era un atentado, un árabe. Sí."
+"startMs": 67320,
+"endMs": 73740,
+"text": "Amarleh: \"Kadu bar kaimat kame maraj\", así te paras frente a Hashem."
 },
 {
-"startMs": 143000,
-"endMs": 150000,
-"speaker": "אופיר סגל",
-"text": "10 de octubre."
+"startMs": 76080,
+"endMs": 80580,
+"text": "Dice Rashi: \"Jaláf autaya sojer árabe\". Kadu bar, dice Rashi."
 },
 {
-"startMs": 150000,
-"endMs": 177000,
-"speaker": "אופיר סגל",
-"text": "Bueno, esta historia sí. Esta historia."
+"startMs": 82860,
+"endMs": 91780,
+"text": "Dice: \"Kadu, shetei bar reshut\". Este bar, punto. Ah, kadu, shetei. Ah, kedu, como dos, bar, reshayot."
 },
 {
-"startMs": 177000,
-"endMs": 182000,
-"speaker": "אופיר סגל",
-"text": "Quiero ver primero el pasuca adentro."
+"startMs": 92480,
+"endMs": 96940,
+"text": "Kilu, que hay dos reshayot, que hay también, en ese-- besucá, ada aile be bar."
 },
 {
-"startMs": 182000,
-"endMs": 191000,
-"speaker": "אופיר סגל",
-"text": "Podemos ver el pasuca adentro? Si. El pasuca está en donde?"
+"startMs": 98240,
+"endMs": 106980,
+"text": "Birshut. Be bar es con reshut. Dice el rabí Shimon Bar Yojai, está escrito ahí, que hay gente que sube al Shamay sin reshut y hay con, con reshut."
 },
 {
-"startMs": 191000,
-"endMs": 259000,
-"speaker": "אופיר סגל",
-"text": "\"Taili Mudbet\" Tengo acá, son unos chiquitos, son teilim chiquitos."
+"startMs": 107340,
+"endMs": 116160,
+"text": "Rabí Shimon era Ben Bay, no necesita- Reshut. Hacer aliyot con reshut. Él entraba y salía como Ben Bay. Todos los demás necesitan hacer muchas preparaciones para poder subir."
 },
 {
-"startMs": 259000,
-"endMs": 266000,
-"speaker": "אופיר סגל",
-"text": "Entonces dice David Damelek, la una teja ha la shminit mitmola dave. No entender que es shminit."
+"startMs": 116740,
+"endMs": 121520,
+"text": "Entonces, acá es kedu bar, es como shetei reshayot."
 },
 {
-"startMs": 266000,
-"endMs": 273000,
-"speaker": "אופיר סגל",
-"text": "Es el kinor de shmoná mit. El kinor de la tit labo."
+"startMs": 123060,
+"endMs": 129639,
+"text": "Kaimat kame maraj, shalach, shalaf, safsera ve katleh. Agarró un safsera,"
 },
 {
-"startMs": 273000,
-"endMs": 277000,
-"speaker": "Speaker 2",
-"text": "Hablamos De suyapan, de David Damelek. En David Damelek este ya es el kinor."
+"startMs": 130880,
+"endMs": 138620,
+"text": "no sé qué es, y lo mató. Eliahú mató a este... Gente pensó que era un atentado, era un árabe."
 },
 {
-"startMs": 277000,
-"endMs": 309000,
-"speaker": "אופיר סגל",
-"text": "Entonces dice, sálvame, que gamar jasid, que paso a muni mit nada. Ya no tengo quien apoyarme, ya no hay ningún jasid, no hay ni un ni shemuna. Dice, ya no hay nadie que yo pueda alismójalo. Cuando te vengo alguien, le pregunto dónde me puedes contar, me están persiguiendo, de Shaul, esto y lo otro. Sale que al final el. Te la voltea. O sea, él es del otro equipo. Entonces dice, nada más tú me puedes salvar. Por qué? Porque Gamar Jasid, upasu e munimim nada."
+"startMs": 139020,
+"endMs": 140700,
+"text": "Sí. Eliahú mató."
 },
 {
-"startMs": 309000,
-"endMs": 325000,
-"speaker": "אופיר סגל",
-"text": "Dice, la gente habla entre ellos. De afuera, Bishnelle Babot, Li Marim Shalom, Biashi Natmun en Bilbao. Sí? Me hace bonito, David, que gusto verte. Hemos estudiado a Pam, ¿No?"
+"startMs": 142920,
+"endMs": 148260,
+"text": "Está fuertísimo. Siete de octubre. Está fuerte, dice que un árabe mató"
 },
 {
-"startMs": 325000,
-"endMs": 327000,
-"speaker": "Speaker 2",
-"text": "Pues se parece al otro."
+"startMs": 149800,
+"endMs": 153180,
+"text": ". ¿Tú sabes? Bueno, esta historia sí es más buena. Es esta historia."
 },
 {
-"startMs": 327000,
-"endMs": 358000,
-"speaker": "אופיר סגל",
-"text": "Okay. No sé. Pero entonces viene David y dice que ya no hay jasidim, ya no hay enshemuna, gente que puedes tener. Confianza. Sí. O sea, meiles, como que me digan, no, la verdad. Pero no, te voy a decir que ilu, que ilu no. No, y pero en verdad, eso se llama. \"Shabida veru y shedreu, sefat jalakot, belev valé vida veru, con dos levabut. Allan con dos corazones, doble cara. Y entonces dice David: \"Y ahred, ashem kolzif te jalakot. \"Shaom nada veredic dolot\"."
+"startMs": 154460,
+"endMs": 161200,
+"text": "Jaláf Eliahú, jazie itme leiketaie. Amarleh kedu bar, kaimat kame maraj, shalaf, safsera ve katleh."
 },
 {
-"startMs": 358000,
-"endMs": 361000,
-"speaker": "אופיר סגל",
-"text": "Dice."
+"startMs": 165920,
+"endMs": 167680,
+"text": "Aquí son solos."
 },
 {
-"startMs": 361000,
-"endMs": 373000,
-"speaker": "אופיר סגל",
-"text": "\"Shifte jalakot\", mentira. Así que Kilu le resbala las palabras. Kilu no muere, no mide las palabras. Suelta, la boca suelta."
+"startMs": 177260,
+"endMs": 183620,
+"text": "Hay que ver primero el pasuk adentro. ¿Que-- podemos ver el pasuk adentro?"
 },
 {
-"startMs": 373000,
-"endMs": 376000,
-"speaker": "אופיר סגל",
-"text": "Échame de ver que de verdad."
+"startMs": 183660,
+"endMs": 190080,
+"text": "Sí. ¿El pasuk está en dónde? ¿Moshé? Zay."
 },
 {
-"startMs": 376000,
-"endMs": 383000,
-"speaker": "אופיר סגל",
-"text": "Entonces que hace mi ajerette todos los \"ifté jalacoto\". La zona de verde del dolot. Qué fue, no? Caret de Apoles."
+"startMs": 191200,
+"endMs": 195600,
+"text": "Tehilim Yud Bet. Tengo acá. Es uno chiquito, es un tehilim chiquito."
 },
 {
-"startMs": 383000,
-"endMs": 388000,
-"speaker": "Speaker 3",
-"text": "Qué querías que le digan los de Shaul? Soy de Shaul."
+"startMs": 196880,
+"endMs": 199960,
+"text": "Kelum, zulotlim, le-- lashón madabel dolot."
 },
 {
-"startMs": 388000,
-"endMs": 409000,
-"speaker": "אופיר סגל",
-"text": "No, aquí la gente es doble cara, la gente. Sí, no, pero había gente parve ahí en medio de la gente en la calle, en los campos, en la espalda. Y no puede confiar en nadie. Pero pues sí porque eran de Shaul. No todos. No? Era gente parbe y a la hora se volteaba. Sí, veía que le conviene decir dónde está David para caerle bien a Saúl. Sí."
+"startMs": 226860,
+"endMs": 227660,
+"text": "Es el Mizmor."
 },
 {
-"startMs": 409000,
-"endMs": 410000,
-"speaker": "Speaker 4",
-"text": "Le latió."
+"startMs": 229740,
+"endMs": 232220,
+"text": "De Shemini Atzeret, lo hicimos en Shemini Atzeret."
 },
 {
-"startMs": 410000,
-"endMs": 423000,
-"speaker": "אופיר סגל",
-"text": "\"Mit Palenche acretas en bálsifteja lakkot, y a la zona de beret, varim hasumim vikarim pijdella ramot\". Dice \"asher ambrulin sonen un akbir, sfateno itanu mia don lanu\"."
+"startMs": 233760,
+"endMs": 244720,
+"text": "Lamnatzjach, helá Shemini, mizmor leDavid. Moshia Hashem ki gamar jasid, kipaz hu emunim imine adam."
 },
 {
-"startMs": 423000,
-"endMs": 458000,
-"speaker": "אופיר סגל",
-"text": "Dice \"amm de beret dolot\", n'kbir alkulam kinuhal ramotan sfateno itanu. Los fatenu viri suutenu, no jale da verba em di bre seker, a fuj mache belev, kimia don lanu le sabot, le balde da verki im a da bar se vale, kimi o de a mache vale. Dice. Buah, aquí lo son gente que dice que ellos pueden like beer con su lazón, hablar con su lazón lo que quieran. Igual nadie, no tengo ningún addon. Yo controlo lo que yo quiero decir y nadie sabe lo que yo tengo en Mile. Entonces dice, mi shodani in me ankate bionim."
+"startMs": 258440,
+"endMs": 265220,
+"text": "Entonces, dice David HaMelej: \"Lamnatzach helá Sheminit mizmor leDavid\". Es un derque Sheminit."
 },
 {
-"startMs": 458000,
-"endMs": 498000,
-"speaker": "אופיר סגל",
-"text": "Entonces dice, mi shot, que es mi shot anime, me encanta venir. Me hamata shot yo sim la anime, la idea hora matan. Me encanta, ato akima la shot, akum y parame. Ellos son como que están asaltando, no? A los anime, a los ebioni, que están viniendo a pedir ayuda y entonces ellos vienen y se aprovechan de la debilidad del otro, akum. Y entonces allí Hashem los va a castigar por eso Hashit ve y eso de Fiajlo, quiero amar y así de Fiajlo, te lo amar, te lo sabes."
+"startMs": 266940,
+"endMs": 275000,
+"text": "Es el kinor de Shmona Minim-- Mimim. El kinor del atid labó. ¿Mmm? Hablamos de eso ya, Pam, de David HaMelej."
 },
 {
-"startMs": 498000,
-"endMs": 546000,
-"speaker": "אופיר סגל",
-"text": "Es que ellos, para Hashem son un soplidito y ya los vuela porque no, ya que ellos no son gente con jetzibut entonces no tienen vehemete, sjut kium entonces es muy fácil ve y ahora, los imbrote de Hashem, osea la Toraktos ah Imbrote Hashem y Marotte Horote, Kesef Zaruf balile erets mezukak shibatay el las hembrotas aquí es que la Tora tiene shivimpanil la Torah tiene mente panil que la Torah es Kesef mezukak shibatay son imbrote oorot dice a lo imbrotasheme no teorotki que sepanistra bien con mi culeve me have a dama femin robot chasi teora mi blisic, bichen amar, bichen imbrashem, loipol mashem me he martakiken y ese ni tan koa weada me have de taroshem la palabra Shem es muy."
+"startMs": 275120,
+"endMs": 281840,
+"text": "David HaMelej. David HaMelej tenía ese kinor. Ajá. Entonces, dice: \"Hashem, sálvame, ki gamar jasid, kipaz hu emunim imine adam\"."
 },
 {
-"startMs": 546000,
-"endMs": 566000,
-"speaker": "אופיר סגל",
-"text": "Atashem dishmerem diteren luminador dole olam. Qué es eso? Dice dishmerem meta de venir entonces cuida a los devenir titeren no tishmorko, kole jale olam mide anshadora aún, salva a todos los los anim. Sabiv reshaim y talejum kerum zulutliv nadaam."
+"startMs": 282380,
+"endMs": 291180,
+"text": "Ya no tengo quien apoyarme, ya no hay ningún jasid, no hay ni un ishem uná. Ishem uná, adón. Dice: \"Ya no hay nadie que yo pueda lismójala\"."
 },
 {
-"startMs": 566000,
-"endMs": 597000,
-"speaker": "אופיר סגל",
-"text": "Entonces que es sabiv reshaim meta alejum dice sabiv que reshaim olujim si vivota de bion. El acto, como rehén, asolel, asersovevolech, litrov, y nadamos, mira la evión. Dicen ellos que como que rodean a los Rashim de Alejon, pero eso que los Rashim rodean a los para trancearlos, para. A ver qué dice Rashim, sobre eso pasó. \"Kerum zulus liv nadan\" eso es lo que dice el los."
+"startMs": 292540,
+"endMs": 298640,
+"text": "O sea, vengo alguien, le pregunto: \"¿Oye, dónde me puedes contar? Me están persiguiendo de Shaúl, esto, lo otro\". Sale que al final el, el..."
 },
 {
-"startMs": 597000,
-"endMs": 608000,
-"speaker": "Speaker 2",
-"text": "Varims somn dimos room, seguimos."
+"startMs": 299100,
+"endMs": 305320,
+"text": "Le chueca la cabeza. Te la voltea. O sea, él, él es del otro equipo. Entonces, dice: \"Hashem, nada más tú me puedes salvar\"."
 },
 {
-"startMs": 608000,
-"endMs": 613000,
-"speaker": "אופיר סגל",
-"text": "Son gente que abusa del pobre."
+"startMs": 305400,
+"endMs": 312220,
+"text": "¿Por qué? Porque gamar jasid, upaz hu emunim imine adam. \"Shav yedaberu yishreu sfat jalakot, belev, belev yidaber\"."
 },
 {
-"startMs": 613000,
-"endMs": 655000,
-"speaker": "אופיר סגל",
-"text": "Dice, \"Sabi resheim talajum litmon moksim lakshilen\" O sea que ellos me ponen trampas para hacerme caer. \"Kerum zulus liv nadan\" Mikin natam, por su envidia que tienen, \"Sheim ra\" tienen mal ojo, ven mal. Que yo era un don nadie y me hicieron rey es deu pitro no querum su lutliv nada, que rum y apenas un mitromeim su lutliv nada si si la gente lo dice que se mitromim me hizo dole el bene bene adam, es deu dug ma, a murmo como hacer even ma su abonim midras a gana otro al israe latit la bok, si tro me mu cuando me hicieron el tro me mu."
+"startMs": 312780,
+"endMs": 320340,
+"text": "Dice: \"La gente habla entre ellos, eh, de, de afuera\", bishenei lebavot, limarim shalom vejasinát munim bilbav."
 },
 {
-"startMs": 655000,
-"endMs": 680000,
-"speaker": "אופיר סגל",
-"text": "Un naje empatar, kerum zulú terminada, kerrem le dejó el brenadame, y kerum, que morrum, rehem zulú, zulú dice, genpito, vamos a sabir rehén y talenjon. Si vota a ni o el him reshaín, le voló ohinam, kerum zulú terminada. Entonces acá el chat, el pasuki, la derachala esta mamage, sabiur rehén y talenjon, son gente que se para a joroba, taknez y palen."
+"startMs": 320340,
+"endMs": 327080,
+"text": "¿Sí? Me hacen bonito: \"Oh, David, eh, qué gusto verte\". ¿Ya lo hemos estudiado, Pam, no? O tiene-- o se parece al otro."
 },
 {
-"startMs": 680000,
-"endMs": 696000,
-"speaker": "אופיר סגל",
-"text": "Qué pasa? Está tremendo. Qué tiene que ver con el chato? De Rashá, Luisito, el más el hijo de la mañana. Abusa de los pobres, o sea. Qué tiene que ver? Peor que Rashá."
+"startMs": 327500,
+"endMs": 334240,
+"text": "Okey. No sé. Pero entonces, viene David y dice que ya no hay jasidim, ya no hay ishem uná, gente que puedes tener realmente emuná."
 },
 {
-"startMs": 696000,
-"endMs": 728000,
-"speaker": "אופיר סגל",
-"text": "Me meto? O sea, él. Ya me dio miedo estar de pila de aquí atrás. No está haciendo. No estamos hablando, no es de mala. Qué quiere decir, él y yo este paso? Y dijo, espérate, ah, que subir recibir el talco, no hay canta de palabra, mejor lo que hace. Ahora están, yo no entiendo todo el problema de Angelipolahorah Betagnesse No, hay que entender el man, es lo que te dije, linear exactamente que. Mamahma? No es este. O sea, hay algo. Hay algo así como que está. Becavanar, pudiendo estar adentro y él se excluye."
+"startMs": 334260,
+"endMs": 340780,
+"text": "Confianza. Sí. O sea, me ilez, que me digan, ¿no? La verdad, yo todo... Pero no, te voy a decir kilu, que kilu no."
 },
 {
-"startMs": 728000,
-"endMs": 764000,
-"speaker": "אופיר סגל",
-"text": "Eso. Y por qué? Por qué dice tefilotra? O sea, sabes lo que digo, hay algún rishoot ahí, ¿no? El koakkid michel Betagnesse, Klapav ponimas mitzpalli. Sabes ahí? Está dando espalda. Acá está Jorge. A un mes mejor eh. Espérame un segundo dice. Sí por eso está rezando pa allá. No entonces es alguien que se para acá en el en el volteado pa allá."
+"startMs": 341100,
+"endMs": 347140,
+"text": "No, y por acá... En verdad... Sí, eso se llama. Shav yedaberu yishreu sfat jalakot, belev valeve yidaber."
 },
 {
-"startMs": 764000,
-"endMs": 781000,
-"speaker": "אופיר סגל",
-"text": "Volteado pa allá. Ah. Creo. Okay. Su espalda hacia el Tibur, Nikara rasa, que uniraqi kofer bemisha zibur mitwalim el fanaab."
+"startMs": 347180,
+"endMs": 350800,
+"text": "Con dos lebavot. Hablan con dos corazones. Doble cara. Doble cara."
 },
 {
-"startMs": 781000,
-"endMs": 811000,
-"speaker": "אופיר סגל",
-"text": "Batechn is your babel, babel está de este lado. Claro. Entonces, ven hacia el Maharab de Babel, llegas a Israel. Quieres Israel y ven Maharab Babel. Es alguien que se pasa en el midrag. Upanab en la midrag. No estaba volteando a ver el marab, es que acá que volteas a ver para allá."
+"startMs": 352160,
+"endMs": 356560,
+"text": "Y entonces, dice David: \"Yajret Hashem kol siftei jalakot\". Lashón madabel dolot."
 },
 {
-"startMs": 811000,
-"endMs": 824000,
-"speaker": "אופיר סגל",
-"text": "Pero ¿de quién estabas hablando? Alguna vez viste a alguien que se pare aquí a decirte fila? Y en vez de volver al contrario, imagínate. Aquí de repente vas diciendo mija hacia allá."
+"startMs": 358780,
+"endMs": 368808,
+"text": "Dice... ¿Es jalakot, mentira? Sí, que a Kilu le resbalan las palabras, Kilu no muer-- no, no, no mide las palabras."
 },
 {
-"startMs": 824000,
-"endMs": 860000,
-"speaker": "אופיר סגל",
-"text": "Quién lo hace? Y afuera. Digo, está una membranada, agarras un passut. Y dices, ¿sabí que me te alejon, que mamá es un acepto sal del passut? Y decir que está hablando en un caso rarísimo, que alguien, hispalel afuera de un Bethcreset, al revés de la gente. Hispalel a Shem, ¿no? Entonces que quería hacer enojar, si se equivocó, se equivocó. Él la mamá quería hacer enojar a la gente, no, no es para allá, ¿qué quería? De qué persona estamos hablando? Estamos hablando de un con un mace muy técnico en Contreras que no sabemos que así obviamente un segundo en Contreras, esa es la subida de la llamada puede ser."
+"startMs": 368848,
+"endMs": 370608,
+"text": "Suelta, la boca f-- boca suelta."
 },
 {
-"startMs": 860000,
-"endMs": 906000,
-"speaker": "אופיר סגל",
-"text": "No pero hay una sober, cherraca, o se que en mi cuenta, estaba adentro del betagnesse, tal. Alab se lo tobas a mi coma con mi cara racha. Marshaluma, toma, leta shot, chat, varim o morim, a filo, o met bifrin, penelik, bueno, son nemis, de. Se pone un lado que si es afuera o adentro también. Afilo adentro, sí. El trae el salto del paso."
+"startMs": 373148,
+"endMs": 374268,
+"text": "Lashón medaberet gedolót."
 },
 {
-"startMs": 906000,
-"endMs": 932000,
-"speaker": "Speaker 3",
-"text": "Y el otro si se parece un poco. Por qué? Están alrededor del Betagnesi. Están haciendo Tlala los que están adentro y que están atrazando a la otra persona. Y qué tiene que ver con David? No, entonces que sí se parecen. Que están alrededor y que está haciendo algo en contra de todos los que están en el lugar."
+"startMs": 376608,
+"endMs": 383748,
+"text": "Entonces, Hashem iajret todo los siftei jalakot. Lashón medaberet gedolót. ¿Qué fue? No. Karet diabolus."
 },
 {
-"startMs": 932000,
-"endMs": 936000,
-"speaker": "Speaker 3",
-"text": "Qué tiene que ver con?"
+"startMs": 383748,
+"endMs": 386428,
+"text": "¿Qué quería que le digan los de Shaul? Soy de Shaul."
 },
 {
-"startMs": 936000,
-"endMs": 951000,
-"speaker": "אופיר סגל",
-"text": "Yo creo que aquí hay una alargada. Tomás, la llamada habla de un chirr físico, pero Beomek puede ser un chirr en el Netflix. Beomek puede ser un chirr en el Netflix. Y si diga, a ver, mamás."
+"startMs": 388928,
+"endMs": 397068,
+"text": "No, Kilu, la gente es doble cara, la gente- Sí, no, pero había gente parve ahí en medio del-- la gente en la calle, en los campos, en las playas."
 },
 {
-"startMs": 951000,
-"endMs": 981000,
-"speaker": "אופיר סגל",
-"text": "Si ves y te pones los lentes en 3D, así de ver el mundo rohaní, de repente estarías el kilo, imagínate, ves, estar todos haciendo mi hija. Te pones los lentes de aliado, ¿no? A ver los lentes así de león y dices, espérate, él está haciendo fila para el otro lado. Pero está parado. O sea, físicamente está viendo hacia allá. Es lo que yo estoy buscando. Si estás buscando en el OMEC, no en el físico. Exactamente. Y luego es. Lo físico representa a Betsem el OMEC."
+"startMs": 397128,
+"endMs": 403448,
+"text": "Y no puede confiar en nadie. Pero pues sí, porque eran de Shaul. No todos. No, era gente parve y a la hora se volteaban."
 },
 {
-"startMs": 981000,
-"endMs": 1015000,
-"speaker": "אופיר סגל",
-"text": "Que Shayak, que Luis, que. Nada más por pena estás última vez allá. Si quisieras decir tú así. Hasta mi padre, estabas en mi. Pero te vas a meter a todas las maklokloks de la viuda que era Ramanca Miguel. Cómo es así? Kipur, el otro día al otro. No, no, todos nos explicamos. No sé que estoy buscando. Deseando lo que estoy buscando. Tenemos que hablar ahí el kilo. No, Ulai estamos hablando de alguien que en un caso que Cule Alma no es Maklok."
+"startMs": 404048,
+"endMs": 415868,
+"text": "Sí, ve que le conviene decir dónde está David para que hable bien a Shaul. Sí, le latió... Itpalel sheiajret Hashem baal siftei jalakot vehalashón hamedaberet devarím jashuvim yikarim bichdel haramot."
 },
 {
-"startMs": 1015000,
-"endMs": 1046000,
-"speaker": "אופיר סגל",
-"text": "Qué? Es un Contreras terco. Sí, no dije que es Maklok, no dije que es de Dos Hamin. Dije una persona, una persona mala, estoy buscando cual es el matzam nafshi de esa persona. Que si tu te lo pondrías en lentes de ruhanew, te estarías para el otro lado. Yo voy para allá. Si, tu estás diciendo para el otro lado. Y luego es el matzam. Nada más por zipotecnio. Si, por zipotecnio te sigue diciendo hacia allá. Este me lo está diciendo hacia el otro lado."
+"startMs": 416408,
+"endMs": 421108,
+"text": "Dice, asher amru lilshonenu nagbir, s'fatenu itanu mi adón lanu."
 },
 {
-"startMs": 1046000,
-"endMs": 1048000,
-"speaker": "אופיר סגל",
-"text": "Si, Si vamos."
+"startMs": 423208,
+"endMs": 438508,
+"text": "Dice, haMedaberet gedolót nagbir al kulam, ki nujal ramotam s'fatenu itanu, aló s'fatenu birshutenu, nujal ledaber bahem dibrei sheker, afuj ma shebelev, ki mi adón lanu letzabot, lebal ledaber ki im ha'dabar sheba lev, ki mi yodea ma sheba lev."
 },
 {
-"startMs": 1048000,
-"endMs": 1050000,
-"speaker": "Speaker 2",
-"text": "Hablando con lo que."
+"startMs": 439488,
+"endMs": 446408,
+"text": "Dice, buah, que ellos son gente que dice que ellos pueden like vir con su lashón, hablar con su lashón lo que quiera."
 },
 {
-"startMs": 1050000,
-"endMs": 1054000,
-"speaker": "אופיר סגל",
-"text": "A ver, a ver. Sí, ahí está."
+"startMs": 446948,
+"endMs": 456208,
+"text": "Igual nadie-- no tengo ningún adón, yo controlo lo que yo quiero decir y nadie sabe lo que yo tengo en mi lev. Entonces, dice: Mishod aniyim meankat evyonim."
 },
 {
-"startMs": 1054000,
-"endMs": 1061000,
-"speaker": "Speaker 2",
-"text": "Hay como, otra vez, pedirle a Shem, si vemos como mamá pasado. Hay que pedirle a Shem."
+"startMs": 458108,
+"endMs": 467108,
+"text": "Ate takum iomar Hashem ashit beyesh ha'yafiah lo. Entonces, dice, mishod, que es-- mishod aniyim meankat evyonim. Nejamat hashod shel osím le'anim al ידי אורמתם."
 },
 {
-"startMs": 1061000,
-"endMs": 1066000,
-"speaker": "Speaker 2",
-"text": "Ir a cobrar, como estábamos hablando atrás. Mira, hizo un Tanit."
+"startMs": 467928,
+"endMs": 470208,
+"text": "Meankat, ha'tzoakím al hashod."
 },
 {
-"startMs": 1066000,
-"endMs": 1097000,
-"speaker": "אופיר סגל",
-"text": "Son dos corazones, son dos corazones. Son dos. Aquí, ¿no? Entonces corazón. Kilo David Ameles viene alguien está hablando contigo pero vete. Doble cara. Te está volteando el doble cara pero yo que te está te está dando la cara pero el vete me está volteando a ver el otro lado el kilo dice yo soy de tu equipo David pero no es el equipo de Raúl. Entonces entonces este era mi paleta lo mejor a ver en este. Kiwahol que es alguien doble cara. Pero también con la boda otra. Doble cara con la boda otra."
+"startMs": 471648,
+"endMs": 482468,
+"text": "Akum lipará mehem. Que ellos son como que están, eh, asaltando, ¿no? A los aniyim, a los evyonim, que están viniendo a pedir ayuda y entonces ellos vienen y se,"
 },
 {
-"startMs": 1097000,
-"endMs": 1109000,
-"speaker": "אופיר סגל",
-"text": "No, no se si llega con la mamá. Entender? No, no es con la boda. Entonces. Ulai puedes seguir la misma línea. O sea, este reza porque quiere."
+"startMs": 483708,
+"endMs": 491008,
+"text": "se aprovechan de la debilidad del otro, ¿no? Akum. Y entonces ahí Hashem los va a castigar por eso. Ashit beyesh ha'yafiah lo."
 },
 {
-"startMs": 1109000,
-"endMs": 1116000,
-"speaker": "Speaker 2",
-"text": "Lo pago por el resto. Lo mismo que con la cobema con el filoso."
+"startMs": 491068,
+"endMs": 508888,
+"text": "Ki lo amar yeshit beyesh ha'yafiah lo, lo tzaromar, lo oshiot haba le'aved et harashá be'afaját ruaj ve'alma. Es que yajol Hashem, pa-- ellos para Hashem son un soplidito y ya los, los, los vuela, porque no-- ya que ellos no son gente con yetzibot, entonces no tienen realmente zjut kium."
 },
 {
-"startMs": 1116000,
-"endMs": 1126000,
-"speaker": "אופיר סגל",
-"text": "Vienes a cobrar. Si. Vienes a cobrar. Caja o caja? Este viene a cobrar. A cobrar! A ver, págame ya y déjame terminar."
+"startMs": 509188,
+"endMs": 515868,
+"text": "Entonces, es muy fácil, betem, eh... O a los imrot de Hashem, o sea, la Torá kdosha. Imrot Hashem imrot tehorot."
 },
 {
-"startMs": 1126000,
-"endMs": 1133000,
-"speaker": "Speaker 2",
-"text": "No estás volteando a Kushurujo, estás volteando para atrás. Pero hay que entender todo como Martínez. Está un."
+"startMs": 516508,
+"endMs": 528268,
+"text": "Kesef saruf ba'alín le'eretz mezukak shivatayim. El-- las imrot de Hashem, aquí es que la Torá tiene setenta panim, la Torá tiene mem tet panim, que la Torá es kesef mezukak shivatayim."
 },
 {
-"startMs": 1133000,
-"endMs": 1134000,
-"speaker": "אופיר סגל",
-"text": "Poco la economía."
+"startMs": 528748,
+"endMs": 536788,
+"text": "Son imrot tehorot. Dice, aló imrot Hashem el tehorot ki kesef hanetrab im kol megule vemeave ha'adamá. Ve'amim rabot shazit tehorá mivli tsig."
 },
 {
-"startMs": 1134000,
-"endMs": 1147000,
-"speaker": "Speaker 2",
-"text": "Tiene que ver, a ver, hablando de Rujot, ¿tú crees que tengan algo que ver con la cama que habíamos visto? Cómo se pone la cama de Kaela? Cambié mi cama y me regañó todo el mundo."
+"startMs": 536828,
+"endMs": 546028,
+"text": "Ve'jen amar-- ve'jen imré Hashem: Lo yipol ma she-- meihem ha'artsá, ki jen yei shenidan coj beiada me'aved et harashá. Que-- que en la-- la palabra de Hashem es muy yekará."
 },
 {
-"startMs": 1147000,
-"endMs": 1148000,
-"speaker": "אופיר סגל",
-"text": "Qué maravilla!"
+"startMs": 546688,
+"endMs": 553168,
+"text": "Atá Hashem tishmerem titzirenu min hador zo le'olam. ¿Qué es eso? Dice, tishmerem et ha'evyonim."
 },
 {
-"startMs": 1148000,
-"endMs": 1151000,
-"speaker": "Speaker 2",
-"text": "Yo soy la cama."
+"startMs": 553208,
+"endMs": 560968,
+"text": "Tú, Hashem, cuida a los evyonim, titzirenu. Tishmor kol, kol ajad le'olam mide anshei hador hahu. Salva a todos los, los aniyim."
 },
 {
-"startMs": 1151000,
-"endMs": 1158000,
-"speaker": "אופיר סגל",
-"text": "Ah, esto no se llama que se puede! Lo de la volteas así, mamazo. Qué maravilla! Sí está muy raro. O sea,"
+"startMs": 561548,
+"endMs": 565068,
+"text": "Saviv reshaím italejum kerum zulut livnei ha'adam."
 },
 {
-"startMs": 1158000,
-"endMs": 1159000,
-"speaker": "Speaker 2",
-"text": "Se ve feo en el cuarto?"
+"startMs": 566688,
+"endMs": 568868,
+"text": "Entonces, ¿qué es saviv reshaím italejum?"
 },
 {
-"startMs": 1159000,
-"endMs": 1176000,
-"speaker": "אופיר סגל",
-"text": "Sí, sí, está fuera de todo. Y tu esposa qué te dijo? Lo hizo un mes. Un mes, un mes y medio. Ya lo regresaste? Mi esposa se aguantó hasta que la regresamos normal y dijo ya. No! Eso me llama que se puede, papá. Te mateaste toda la. Qué estrellas?"
+"startMs": 570268,
+"endMs": 576048,
+"text": "Dice, saviv, ki reshaím oljím svivot ha'evyon lelaktof como ha'raem hazolel"
 },
 {
-"startMs": 1176000,
-"endMs": 1190000,
-"speaker": "אופיר סגל",
-"text": "No, pero ahí, cuando hablamos de la cama, Hablamos de que ya pago, bueno, el que pone la cama en el que hubo un bizafón de Aaron, pago para los hijos, no sé qué, no le veo mucho que si era que."
+"startMs": 577288,
+"endMs": 590468,
+"text": "asher sovev olej litrof. Bnei ha'adam ulejen shmirá le'evyon, ki im alevej. Dice, ellos que como que rodean a los-- saviv reshaím italejum, pero eso que los reshaím rodean a los evyonim para trasearlos, para..."
 },
 {
-"startMs": 1190000,
-"endMs": 1199000,
-"speaker": "Speaker 2",
-"text": "Nada más pregunté, estamos hablando de Rujota, ay, ¿qué estás hablando de Rujota? Quiero la capa de traj, maravitraj. Yo veo champiñones nada más,"
+"startMs": 591788,
+"endMs": 599928,
+"text": "A ver, dice Rashi sobre ese pasuk. Kerum zulut livnei ha'adam, eso es lo que dice de los barem shomnim, harum hashom. Los barem, de-- de shimes baselim baem."
 },
 {
-"startMs": 1199000,
-"endMs": 1217000,
-"speaker": "אופיר סגל",
-"text": "Acuérdate que yo nada más veo champiñones. O sea que veo algo muy interesante, porque la ceiba del pasú, que es saber de la junquera un zulut liv, nada. Y qué es queremos? Vamos a seguir la cámara, sigue la cámara. Entonces dice la cámara, ah. Ya, hija, seis y seis."
+"startMs": 600468,
+"endMs": 601128,
+"text": "De cerimos."
 },
 {
-"startMs": 1217000,
-"endMs": 1228000,
-"speaker": "Speaker 4",
-"text": "Si, ¿no? Si, ya."
+"startMs": 608748,
+"endMs": 610448,
+"text": "Son gente que abusa del pobre. Sí."
 },
 {
-"startMs": 1228000,
-"endMs": 1232000,
-"speaker": "Speaker 3",
-"text": "Hemos echado los los yurimis mojud."
+"startMs": 614068,
+"endMs": 626008,
+"text": "Dice, saviv reshaím italejum likmon mokshim lachsilen. O sea, que ellos me ponen trampas para hacerme caer. Kerum zulut livnei ha'adam, mikinatam, por su envidia que tienen, she'inam ra'ah, tienen mal ojo, ven mal."
 },
 {
-"startMs": 1232000,
-"endMs": 1234000,
-"speaker": "אופיר סגל",
-"text": "Jaja."
+"startMs": 626408,
+"endMs": 638988,
+"text": "Bigdulatischen hilkatie mejore atón, que yo era un don nadie y me hicieron rey. Ezeu pitronó kerum zulut livnei ha'adam, que mitromemim kerum, cua-- y, y apenas uno mitromemem zulut livnei ha'adam."
 },
 {
-"startMs": 1234000,
-"endMs": 1259000,
-"speaker": "אופיר סגל",
-"text": "El utvarim chomdim, verrumos el olam uvneh adam mezdal de lim bahem. Dice \"rapiojon rapid la dal de hambre salvayo, que vamos sin tareg. Adam le briot, otro otro virus. Ya que la persona necesita los briot, panav mistanotke krum. A las 7. 5 para las siete, ¿No?"
+"startMs": 639228,
+"endMs": 646888,
+"text": "Sí. Sí, la gente lo dice, que-- que mitromemim misasolel venev-- bnei ha'adam, vezeu dogma, amur bemakom ajer."
 },
 {
-"startMs": 1259000,
-"endMs": 1267000,
-"speaker": "Speaker 2",
-"text": "Ya?"
+"startMs": 646968,
+"endMs": 653168,
+"text": "Emen ma asú habonim. Midrásh haganá. Otró al Israel atid lavó, que shitromemú."
 },
 {
-"startMs": 1267000,
-"endMs": 1273000,
-"speaker": "Speaker 2",
-"text": "Siga, Siga, Siga."
+"startMs": 653488,
+"endMs": 662648,
+"text": "Cuando Am Israel itromemú. Manajem patar kerum zulut livnei ha'adam, kereem hazolel lejalol bnei ha'adam, y kerum, kemó rum, veraem zulot zolel zole."
 },
 {
-"startMs": 1273000,
-"endMs": 1311000,
-"speaker": "אופיר סגל",
-"text": "Cuando la persona se hace sol. A los ojos de la gente, su cara se hace como \"krunch\" en el man \"krunch\" su lut liv nada, mai krun, entonces ¿qué es krun? Negro. Entonces dice \"Kyatra abdimi, amar\" dijo \"Ofe ha diezh bekar que haya\" Hay un pájaro en los en las islas, en los \"krajim del mar\" \"Krajim del mar\" \"Krunchem\" \"Beke iban se jamás dora hat\""
+"startMs": 664088,
+"endMs": 670168,
+"text": "Dice, ajem pitronó saviv reshaím italejum. Svivot ha'ani oljím reshaím lebol oj inam kerum zulut livnei ha'adam."
 },
 {
-"startMs": 1311000,
-"endMs": 1341000,
-"speaker": "אופיר סגל",
-"text": "Y ya que sale el sol, se cambia de color. No, no, no."
+"startMs": 670708,
+"endMs": 679128,
+"text": "Entonces acá el peshat del pasuk y la derasha leamar está... Mamash. Saviv reshaím italejum son gente que se para jorev et neknaset aleitpalem."
 },
 {
-"startMs": 1341000,
-"endMs": 1359000,
-"speaker": "אופיר סגל",
-"text": "Y que se hace más bajo. El rosenu, liot, no sé, bano. El metal genio, que no sé, que rashia. Es que se hace alguien que pide a la gente. Entonces si el capta de nuestro rosenu, entonces mi maile es bano, bueno."
+"startMs": 680648,
+"endMs": 689428,
+"text": "Ah, caray, ¿qué pasa? Está tremendo. ¿Qué tiene que ver con el peshat del pasuk? De Rashá lo hiciste el, el más, eh, el hijo de la mañana."
 },
 {
-"startMs": 1359000,
-"endMs": 1368000,
-"speaker": "אופיר סגל",
-"text": "O sea, esta persona que veten tiene gente sobre él, entonces mi maile tiene dos dinim, de este y de mai."
+"startMs": 690288,
+"endMs": 697108,
+"text": "Abusa de los pobres, o sea, no, no- ¿Qué tiene que-- qué tiene que ver vijlál? ¿Qué tiene que ver? Peor que Rashá. ¿Te metes?"
 },
 {
-"startMs": 1368000,
-"endMs": 1378000,
-"speaker": "אופיר סגל",
-"text": "Qué está pasando acá? No sé, no tengo idea que estar pasando la película."
+"startMs": 697668,
+"endMs": 701268,
+"text": "O sea, él- Ya me dio miedo esta tefilá de aquí atrás. Tú no estás siendo..."
 },
 {
-"startMs": 1378000,
-"endMs": 1384000,
-"speaker": "אופיר סגל",
-"text": "Un pájaro. Qué?"
+"startMs": 702748,
+"endMs": 710008,
+"text": "No, no, no está mistabal, no es de marán. O sea, quiere decir, él leyó este pasuk y dijo: \"Pérate, ah, saviv reshaím italejum, la gente que mispalem jorev et neknaset\"."
 },
 {
-"startMs": 1384000,
-"endMs": 1395000,
-"speaker": "אופיר סגל",
-"text": "El Último fue el de Roseno. Dios, no sé, Banu, que no sé, que racio. Borroso o algo así. Ok."
+"startMs": 710948,
+"endMs": 717308,
+"text": "Ahora, stam, yo no entiendo todo el problema de jorev et neknaset. No, hay que entender el-- eso que te dije, linear exactamente qué, ma mashmá."
 },
 {
-"startMs": 1395000,
-"endMs": 1398000,
-"speaker": "אופיר סגל",
-"text": "Dale plan."
+"startMs": 717748,
+"endMs": 721028,
+"text": "No es, no es, no es este- ¿Cómo dices? O sea, hay algo, hay algo ahí--"
 },
 {
-"startMs": 1398000,
-"endMs": 1400000,
-"speaker": "Speaker 2",
-"text": "Le vemos otra vez,"
+"startMs": 722248,
+"endMs": 728568,
+"text": "Es como que, como que está... Ve kavana, pudiendo estar adentro y él se, se excluye."
 },
 {
-"startMs": 1400000,
-"endMs": 1410000,
-"speaker": "אופיר סגל",
-"text": "A ver, dice. Amaleh, aukme rapanal, rabivi, rabnachman, baritzhak."
+"startMs": 729148,
+"endMs": 735628,
+"text": "Eso. ¿Tipo qué? ¿Por qué dice tefilá? O sea, ¿sabes lo que digo? Hay algún risut ahí, ¿no? Chalko hakidmi shel beit hakneset."
 },
 {
-"startMs": 1410000,
-"endMs": 1433000,
-"speaker": "אופיר סגל",
-"text": "Amar. Dice rashi, que es latfilah. Que gontfilah, olale mala. Latfilah, sube hasta lo más arriba en el sama. La gente me sale. Otro psot, que es Kerum du Lut Dim Nada? Qué es la traducción? Qué es Kerum?"
+"startMs": 736248,
+"endMs": 744228,
+"text": "Klapav ponim hanitpalelim. ¿Sabes ahí? Como, tipo la terraza. Por eso. Está dando espalda al- Nikrá pne beit hakneset."
 },
 {
-"startMs": 1433000,
-"endMs": 1438000,
-"speaker": "Speaker 2",
-"text": "Kerum Es subir, es sol. Subir es muy alto."
+"startMs": 744268,
+"endMs": 751068,
+"text": "Vehajalek shimimú, bo nimtsa apetej, apetaj de haklá, nikrá joré beit hakneset. Acá es ajoré."
 },
 {
-"startMs": 1438000,
-"endMs": 1465000,
-"speaker": "אופיר סגל",
-"text": "Y es sol y nada. Por qué no traduces que suben los jolin? O sea, lo que está diciendo ahorita es Kerum, que las cosas que es rumor. Ahora hay que ver cuál es el psot del pasuk. Rashi dice ahí que rum de lut, Es que ilu, que room, es que David Amele sube y entonces me me y la gente lo desprecia. Sí."
+"startMs": 751708,
+"endMs": 758288,
+"text": "Aomed majoré. Majoré beit hakneset. Espera un segundo, dice, venom magdir panav klapé beit hakneset. Sí, por eso está rezando para allá."
 },
 {
-"startMs": 1465000,
-"endMs": 1467000,
-"speaker": "Speaker 3",
-"text": "Entonces También sacó de donde esto ahora a las seis."
+"startMs": 758328,
+"endMs": 764648,
+"text": "No, entonces es alguien que se para acá, en el, en el- Volteado para allá. Volteado para allá. Creo. Okey."
 },
 {
-"startMs": 1467000,
-"endMs": 1488000,
-"speaker": "אופיר סגל",
-"text": "Sí, sí, sí, también, también. Sí. Mejor ahora. Ah, Marlei, y elute parencho, un lime, rumor a la alambre desde el limbe. A la persona Barminan se hace necesitado de los briot, su cara parece un crum. Qué es este crum? Como carbón, ¿No?"
+"startMs": 764708,
+"endMs": 771048,
+"text": "Kere leitpalén leotó kivón el hamitpalén haatsibur. El hamafné gavól haatsibur."
 },
 {
-"startMs": 1488000,
-"endMs": 1489000,
-"speaker": "Speaker 2",
-"text": "No?"
+"startMs": 771108,
+"endMs": 777028,
+"text": "Su espalda hacia el tsibur, nikrá rashá. Ki unirá ki kofér bemi sha tsibur, tsibur mitpalén lefano."
 },
 {
-"startMs": 1489000,
-"endMs": 1495000,
-"speaker": "אופיר סגל",
-"text": "No. No? Ahora tengo que decir que es eso. \"She neymar kerum zulutliv neydam\"."
+"startMs": 781508,
+"endMs": 788348,
+"text": "Beit haknesiot shel Bavel panú el haama'arav, ¿sí? Entonces, los beit haknesiot de, de Bavel, Bavel está de este lado."
 },
 {
-"startMs": 1495000,
-"endMs": 1516000,
-"speaker": "אופיר סגל",
-"text": "O sea que cuando cuando alguien se hace zelutliv neydam, cuando alguien \"mis dal zel\" en los ojos de la gente que se hace necesitado de la gente, se hace krum. Qué es krum? Mikrum. Mikrum, que atarabdimia mar, ofe hadieshbekar khayaya. Hay un pájaro ahí en el mar. Ukrum se llama krum."
+"startMs": 788508,
+"endMs": 795428,
+"text": "Claro. Entonces, es ven hacia el ma'arav de Eretz Yis-- de Bavel y agas Eretz Israel. Que Eretz Israel y vema'arav Bavel."
 },
 {
-"startMs": 1516000,
-"endMs": 1549000,
-"speaker": "אופיר סגל",
-"text": "Porque hay alguien que sale el sol. Mi tapek, de cambia de colores. Esta persona, que es la prioridad, que es un niño donde me tienen, es humano. Cuando hay alguien sobre nosotros que me está cobrando, me está esto, que yo pido prestado y me está cobrando, pues es humano. El pájaro que entra."
+"startMs": 795728,
+"endMs": 803128,
+"text": "Shelefí zem duvar kan, meim she'omed majoré kotlu ha'mizrájí shel beit hakneset. Alguien que se para en el mizráj. Upanav el ha'mizráj."
 },
 {
-"startMs": 1549000,
-"endMs": 1551000,
-"speaker": "אופיר סגל",
-"text": "Qué onda con el pájaro?"
+"startMs": 803748,
+"endMs": 813088,
+"text": "No está volteando ver el ma'arav, es kilo acá que voltea a ver para allá. Shelo como shar ha'tsiburaponim ma'arav. Ve'aratso chenlema'arav shel Eretz Israel kimonim, hem mafuj."
 },
 {
-"startMs": 1551000,
-"endMs": 1555000,
-"speaker": "Speaker 2",
-"text": "Qué onda con todo? El pájaro ¿Qué pasó?"
+"startMs": 813088,
+"endMs": 819528,
+"text": "¿De, de quién estamos hablando? ¿Algunas viste a alguien que se pare aquí a decir tefilá y en vez de voltear- Se gira al contrario, imagínate."
 },
 {
-"startMs": 1555000,
-"endMs": 1560000,
-"speaker": "אופיר סגל",
-"text": "A ver, ¿Qué pasó nada más para hacer orden aquí en lo que está pasando aquí? Qué hacer orden?"
+"startMs": 819608,
+"endMs": 833928,
+"text": "Aquí, de repente va diciendo minjá, eh, hacia allá. ¿Quién lo hace? Y afuera. Si está una membrá, agarras un pasú, dice David Rashai en el Talejún, que mamash no se puede saltar el pasú, y decir que está hablando en un caso rarísimo,"
 },
 {
-"startMs": 1560000,
-"endMs": 1597000,
-"speaker": "אופיר סגל",
-"text": "Entonces tenemos la ceifa. Por qué llegó la ceifa? Por la Raition. Y la Raition estaba hablando del que Mixpalel mejor el Betakneset y el diablo lo mató. Y luego la verdad quiere el atún sobre la ceifa. Y qué es la ceifa? Uno, un chat de trabajo, pero bueno, nada más. Y Razzi se queda en fila. Sí? Razzi se queda en fila. Y luego otro chat, otro chat en el bazoo, queremos solucionar. Nada que ver, nada más nada que ver, que una persona que se trata con el privot, parece ese pájaro que cuando sale el sol, se cambia de color."
+"startMs": 835508,
+"endMs": 841888,
+"text": "que, que alguien itpalel afuera de un beit kneset, al revés de la gente. Itpalel a Hashem, ¿no? Leja ora."
 },
 {
-"startMs": 1597000,
-"endMs": 1610000,
-"speaker": "אופיר סגל",
-"text": "Y luego Rabam y Rabam se dijeron, es que no es nada más. Es humano, tiene dos dinin, es hire mai. Dos sarot."
+"startMs": 842788,
+"endMs": 849148,
+"text": "Entonces, que, quería hacer enojar, si, si se equivocó, se equivocó. El HaMaH quería hacer enojar a la gente, no, eh, no es para allá."
 },
 {
-"startMs": 1610000,
-"endMs": 1614000,
-"speaker": "אופיר סגל",
-"text": "Sí, entender que es."
+"startMs": 849488,
+"endMs": 858828,
+"text": "¿Qué, qué quería? ¿Qué, qué persona estamos hablando? Estamos hablando con un masé muy técnico. Un Contreras. Que no sabemos qué, así veme, entonces, un don Contreras, ¿esa es la suya, el HaMaH?"
 },
 {
-"startMs": 1614000,
-"endMs": 1622000,
-"speaker": "Speaker 2",
-"text": "Donde es humano, el pie al tanya, podemos ver las malas, de qué es es y qué es mai."
+"startMs": 859208,
+"endMs": 871948,
+"text": "Puede ser. Rabeno Yona sover, sherá kausé ken, ve hu omed mijutz lo beit hakneset nikrá rashá. Ajali ma'asá ken, bifnim beit hakneset, estaba adentro del beit hakneset, alav shel oto asá, mikol makom nikrá rashá."
 },
 {
-"startMs": 1622000,
-"endMs": 1624000,
-"speaker": "Speaker 2",
-"text": "Sí, siempre."
+"startMs": 872508,
+"endMs": 878588,
+"text": "Mar Shalom Mató me alé ta esherut she'advarim omurim, afilo hu omed bifnim, upanav le kivón hashoné mijé, sheponim alav hatsibur."
 },
 {
-"startMs": 1624000,
-"endMs": 1628000,
-"speaker": "אופיר סגל",
-"text": "Me importa."
+"startMs": 878708,
+"endMs": 887308,
+"text": "Lo que dice es afuera o adentro también. Afilo adentro, sí. Ledaj Rabeno Yona, mashmu'ot ha-milá saviv, hi shehu nimtsá misaviv lo beit hakneset mibajutz."
 },
 {
-"startMs": 1628000,
-"endMs": 1633000,
-"speaker": "אופיר סגל",
-"text": "Aquí entender, ¿qué pasó acá? Qué pasó acá?"
+"startMs": 887348,
+"endMs": 900748,
+"text": "Pilush ha'mahashá, sha'am hakavona hi shehu misavév panav le kivón hashoné mijé, sheponim alav hatsibur. Rashutó shel mikrá hu, sheDavid hamelej Omer, resha'im holjím sivivotái, ki le, le'atmin, mokshim sheyakhshílu oti."
 },
 {
-"startMs": 1633000,
-"endMs": 1643000,
-"speaker": "אופיר סגל",
-"text": "Duele plata, no salir de joda."
+"startMs": 901068,
+"endMs": 908788,
+"text": "Esa es la otra, esa es la otra, esa es la otra. Y ahí sí se parece un poco lo que dice. ¿Mmm? Se nota como lo que dice el pasuk, sí se parece un poco."
 },
 {
-"startMs": 1643000,
-"endMs": 1661000,
-"speaker": "אופיר סגל",
-"text": "Vamos a ver el marzo, ¿no? A ver que sale que se dice algo. Una palabrita. Racis dimos todo? Sí, antes lo vimos. Lo quieres ver?"
+"startMs": 908808,
+"endMs": 917448,
+"text": "¿Por qué? Están alrededor del beit hakneset. Están haciendo... klalá los que están adentro y están rezando la otra persona, la otra, el otro así."
 },
 {
-"startMs": 1661000,
-"endMs": 1695000,
-"speaker": "אופיר סגל",
-"text": "No, ahí no hay marzo."
+"startMs": 917848,
+"endMs": 919328,
+"text": "¿Y qué tiene que ver con David?"
 },
 {
-"startMs": 1695000,
-"endMs": 1705000,
-"speaker": "Speaker 3",
-"text": "No Arriba Sobre el yau dice así dice \"lo me dale la pena kincht jale fe yau jasdie id me leiketaya\" Entonces dice que."
+"startMs": 922168,
+"endMs": 928588,
+"text": "No, es que sí se parece. Que están, que están alrededor y que está haciendo algo en contra de todos los que están en, en el lugar."
 },
 {
-"startMs": 1705000,
-"endMs": 1709000,
-"speaker": "אופיר סגל",
-"text": "Mash, el Riff no es el Liau."
+"startMs": 929308,
+"endMs": 929588,
+"text": "Mmm-hmm."
 },
 {
-"startMs": 1709000,
-"endMs": 1736000,
-"speaker": "אופיר סגל",
-"text": "Que era un árabe. Sí, viene un árabe y lo mató. Y Rashi también. Rashi no dice el Liau, dice \"hala fau taia\". No dice el Liau. Pasó por ahí un árabe y lo mató. Ahora el macho que es el Yashev no sakirza. Que no matimos que el Liau se disfraza de árabe y mata. Sí, es lo que no entendí nunca. Entonces. El no mataron a él, No?"
+"startMs": 932408,
+"endMs": 933588,
+"text": "¿Qué tiene que ver con David?"
 },
 {
-"startMs": 1736000,
-"endMs": 1740000,
-"speaker": "Speaker 2",
-"text": "Él lo mató. Cómo? Ah, ¿en dónde es?"
+"startMs": 936428,
+"endMs": 937988,
+"text": "Yo creo que aquí hay una alargada."
 },
 {
-"startMs": 1740000,
-"endMs": 1741000,
-"speaker": "אופיר סגל",
-"text": "Que mataron a el Liau?"
+"startMs": 939228,
+"endMs": 943808,
+"text": "Entonces, la Gemara habla de un tziur físico, pero ve'ome puede ser un tziur en el néfeš."
 },
 {
-"startMs": 1741000,
-"endMs": 1745000,
-"speaker": "Speaker 2",
-"text": "Entendí que mataron a el Liau, pero físicamente."
+"startMs": 945028,
+"endMs": 949928,
+"text": "Ve'ome puede ser un tziur en el néfeš. Y si mitgaver mamash, mamash, mamash,"
 },
 {
-"startMs": 1745000,
-"endMs": 1779000,
-"speaker": "אופיר סגל",
-"text": "No, el Liau lo mató a él. Él lo regañó, le dijo. Es como dos resuyot, entonces lo mató. Entonces dice el Marsón, entonces rashi y el Rif no gorsime liau. Dice el Marsón que si gorsime liau. Y entonces la haura, el rash y el rif es mito heliau, porque ilunu matim que heliau es su frase de árabe. Y mate. No, sí, sí mato heliau. Pero, ¿cómo es? \"Itmele que talla\". Dice \"Jalafeliau\". \"Itmele\", este señor parecía un talla."
+"startMs": 951448,
+"endMs": 962348,
+"text": "si ves, si te pones los lentes en 3D, así de ver el mundo Ruhaní, de repente estarías aquí, lo imagínate, ves, están todos haciendo minjá, te pones los lentes de León David,"
 },
 {
-"startMs": 1779000,
-"endMs": 1811000,
-"speaker": "אופיר סגל",
-"text": "No que ellau se hizo pasar por talla. Sino ese señor. Enfrente de Liau pareció un talla y entonces me me lo mandó, pasa acá, Kilo. Vetzem kilu acá, que es el de este matín con lo que estamos diciendo un poco. Que este el que mitpalel, el kamajorabe teknese, es kilu. También el árabe, mitpalella ashem. Pero. Mitpalella ashem, pero no es kalekera misterio. Mitkabetzem, él. Esta persona, mitpalella ashem, lo mitka ben bete malitpalella otra."
+"startMs": 963608,
+"endMs": 971308,
+"text": "ves los lentes así de León David y dices: \"Espérate, él está haciendo tefilá para el otro lado\". ¿Entendido? Pero está parado como- Físicamente está viendo hacia allá."
 },
 {
-"startMs": 1811000,
-"endMs": 1836000,
-"speaker": "אופיר סגל",
-"text": "Pero, ¿cuál es la kfirá de él? Es. Que nira que kofer de misha, \"Bemisha tzibur mit palelim lefanav\" Entonces que quiere? \"Kofer bemisha tzibur mitpalim lefanav\" Dice \"Porque él vete mitpalel hachem\" Pero vete un kilo, el ashem del tzibur y el ashem de él dice \"No, tenemos dos\" Es diferente O."
+"startMs": 972368,
+"endMs": 977888,
+"text": "Y es lo que yo estoy buscando. Estás buscando en el omek, no en el físico. Exactamente. Y luego es..."
 },
 {
-"startMs": 1836000,
-"endMs": 1839000,
-"speaker": "Speaker 2",
-"text": "Sea yo tengo más palancas o yo soy mejor o yo soy esto No,"
+"startMs": 979268,
+"endMs": 987268,
+"text": "Lo físico representa, betem, el omek. Que Shaya, aquilo, que lo itzuin, que... No es por pena estás volviendo hacia allá, betem."
 },
 {
-"startMs": 1839000,
-"endMs": 1870000,
-"speaker": "אופיר סגל",
-"text": "No, no, no, no Ustedes no saben cómo le disparen ella, ustedes no tiene un malaq desfilaj Yo tengo el malaq desfilaj y entonces me vele el kilo y el. Está hablando con Hashem. También el árabe, vete, me está hablando con. El árabe también está hablando con. Que el kofer mi bichasibur. Es lo que estoy diciendo. No, kofer en Hashem, kofer en el Hashem que el zibur mit pal elimlu. Sí, es la diferencia, ¿no? El bete mento en el pal el ashem."
+"startMs": 988268,
+"endMs": 994608,
+"text": "Tu kavana... Si quisieras demente decir tu... así, hasta mitpalel a Tsad Sheni."
 },
 {
-"startMs": 1870000,
-"endMs": 1897000,
-"speaker": "אופיר סגל",
-"text": "Es que ustedes no saben quién es Hashem. Esa es la diferencia. El dice \"Nimit pal el ashem\". Es que ustedes! Ustedes no saben quién es ese. Y eso por qué está mal? Qué está mal acá? El Kilu. Es árabe eso, eso se llama ser árabe. El árabe no es abudazara."
+"startMs": 994788,
+"endMs": 1001888,
+"text": "Pero te vas a meter a todas las machlokot de la vida y la, eh, Rabá Gamaliel. Uno dice así, eh, kipur, a la misa, el otro día al otro."
 },
 {
-"startMs": 1897000,
-"endMs": 1932000,
-"speaker": "אופיר סגל",
-"text": "Es que Kofer en el ok de Israel. Kofer en el ok de Israel. Kofer en el ok de Israel, el kibejol, El homit palé con el Tibur. Sí, va muy de la mano con todas las membrotas arriba, que betsem acá. Nosotros, nuestro Shahut, es por ustedes, dijimos así. El yajid, el yajid es mi dinke. Mi dinke es jalek del Tibur. El que mit palé el mejora que bets, este es el más kitonil. El se quiere Separar."
+"startMs": 1002308,
+"endMs": 1002328,
+"text": "No,"
 },
 {
-"startMs": 1932000,
-"endMs": 1942000,
-"speaker": "Speaker 2",
-"text": "En Duca, en Duca vimos, los Nefarsur también. También se puede explicar mucho. No quiere leida hec, no quiere estar con todos. Él prefiere yo solo en mi casa."
+"startMs": 1004328,
+"endMs": 1005508,
+"text": "no, no. No, no, no. Todavía no explicamos."
 },
 {
-"startMs": 1942000,
-"endMs": 1946000,
-"speaker": "אופיר סגל",
-"text": "Yo solo en mi casa, no quiero leida hec ahí con el tipo. No quiero leida."
+"startMs": 1006928,
+"endMs": 1013588,
+"text": "Estoy diciendo lo que estoy buscando. Estoy diciendo lo que estoy buscando. La pregunta es si entendemos que va a ir el kilo. No, Ula, estamos hablando de alguien que en un caso que en culealma no hay machlok."
 },
 {
-"startMs": 1946000,
-"endMs": 1948000,
-"speaker": "Speaker 2",
-"text": "Hec con el tipo."
+"startMs": 1013728,
+"endMs": 1025488,
+"text": "¿Qué? Es un Contreras terco. Sí, no, no, no dije que es machlok, no dije que es dos jamim. Dije una, una persona, una persona mala, no, estoy buscando cuál es el matzav nafshi de esta persona."
 },
 {
-"startMs": 1948000,
-"endMs": 1979000,
-"speaker": "אופיר סגל",
-"text": "Todo tu kesher con la chem es mi toh el tipo. No actives solo para ti. No, que actives solo para ti cuando eres halek da. Entonces esta persona piensa que ves que él tiene un guilul para ti de él. Que, que también se ve en contra de la Misra. En contra de este, del Malak, de la Misra. Es como el que pones Metzibur, es el que le llamaba. Entonces, hace lo que él pones Metzibur para la boda de Tassem, es el que le llamaba."
+"startMs": 1026068,
+"endMs": 1032407,
+"text": "Que, que betem, si tú te lo pondrías en lentes de Ruhaní, tú estarías, tú estás haciendo, tú estás haciendo para el otro lado."
 },
 {
-"startMs": 1979000,
-"endMs": 2009000,
-"speaker": "אופיר סגל",
-"text": "Porque tú quieres ir con nosotros, es Dafka Derek, lo que se llama Mizrael. Es Derek, la bubda, que eres ibudi. Entonces, mi madre de esta persona es nada más un árabe. Los árabes, a diferencia de cualquier religión, no tienen la boda de Tara, los árabes obdima, Ahla es Hashem, no es de otro. Ahla es Hashem. Entonces por qué, cuál diferencia tendrá mis alia ellos? Que vete un kilo se llama Kamifalima dos, a otro. Por qué? Porque vete, el quien es Hashem es diferente. Qué entiendes que es Hashem?"
+"startMs": 1033548,
+"endMs": 1040208,
+"text": "Sí, tú estás yendo para el otro lado. Y lo es el matzav. No es por, por tsiviot ajniom, ¿sí?"
 },
 {
-"startMs": 2009000,
-"endMs": 2043000,
-"speaker": "אופיר סגל",
-"text": "Tú tienes que entender que Hashem es Hashem lo que dice traigo. Si? Vida con el pavo y que la tapa de alto. Viendo el turque y el amor con la shem nos llamaba por lo que hizo. Porque hacemos lo que dice la Shem nos dio vida. Que todos reconozcan que toda tu vida viene de Ashe. No. Que todos reconozcas que vienes, que toda tu vida vienes de Asheem lo que dice. Esta es la nekuda del chilín de Akoisborho, eh? La nekuda del chilín de Akoisborho. No tiene un guilú en el Olam, stam."
+"startMs": 1040348,
+"endMs": 1047887,
+"text": "Por tsiviot ajniom te sigue diciendo hacia allá. Betem me lo está diciendo hacia el otro lado. Sí, kofer vemisha mitzibur mitpalelim."
 },
 {
-"startMs": 2043000,
-"endMs": 2077000,
-"speaker": "אופיר סגל",
-"text": "No. Todo lo que Akoisborho Mitgaleba Olam es der el keshe Konami. Si quieres tu conocer Akoisborho, preguntales a quienes, Si no le quieres preguntar a los de un quién ha sacado el rojo, entonces no, eso no saco el rojo, te equivocaste la dirección. No te equivocaste la dirección aquí, te costó la dirección allá arriba. Porque allá arriba la única casa, vete, vete aquí el hombre del beta mikdash, el beta mikdash, si, porque dice que tiene que ser con el beta mikdash, que es lo otro. Es que ahí Luke, vete, el beta mikdash, no puedes tu salirte de ese mano."
+"startMs": 1047948,
+"endMs": 1059648,
+"text": "Si vamos hablando con lo que- Eso, eso, a ver, sí, ahí está. Estamos hablando de Tziun. Hay, hay como, otra vez, pedirle a Hashem, si vemos con lo mamás pasadas, hay que pedirle a Hashem,"
 },
 {
-"startMs": 2077000,
-"endMs": 2109000,
-"speaker": "אופיר סגל",
-"text": "Como ahorita no, no hay Akhoshrukh sin el Malaj que se llama Shratashkinah, Naam Israel, los Akandibutoham, el Beta Mikdash. No existe este Keshe Konakhruk. El Keshe Konakhruk es Davka. Mitoh el Beta Mikdash. Mitoh el Keshe Konah Misraj. Entonces el que se separa de eso es árabe. Entonces un Jiubi que se hace árabe, entonces parecen dos Rezuyot. Parecen dos Rezuyot. Si estamos claros? Increíble. Wow, entonces lo hiciste. Entonces antes de seguir, antes de seguir a Krumzulut."
+"startMs": 1061588,
+"endMs": 1068208,
+"text": "ir, ir a cobrar, como, como estábamos hablando atrás. Hay suntanit. A ver, son dos, dos corazones, son dos corazones."
 },
 {
-"startMs": 2109000,
-"endMs": 2142000,
-"speaker": "אופיר סגל",
-"text": "Entonces yo, yo ahorita, ahorita digo ya agarrando este macho, yo quería ir el archivo un poquito ahí a lo de antes. Nada más quería saber si con lo que viene nos iba a ayudar. Ven time no le estoy viendo Kesher con lo que viene, pero like si podemos le archivo un poquito más lo de antes, podemos entender un poquito más. Sí? Están claros? Sí, sí. Empezamos a llamar, Entonces aquí hay algo que se llama lo que Abraham, lo que Abraham, si, es otra vez, la misma oficina."
+"startMs": 1068248,
+"endMs": 1074568,
+"text": "Son dos... Aquí, ¿no? Son dos corazones. Kilo David hamelej es, viene alguien, está hablando contigo, pero betem- Doble cara."
 },
 {
-"startMs": 2142000,
-"endMs": 2149000,
-"speaker": "אופיר סגל",
-"text": "Y el que Coba Makom lechfila es esta larga. Esta es la larga de Coba Makom lechfila."
+"startMs": 1074708,
+"endMs": 1081028,
+"text": "Te está volteando el doble cara, pirjo, que te está, te está dando la cara, pero él, betem, está volteando a ver el otro lado."
 },
 {
-"startMs": 2149000,
-"endMs": 2153000,
-"speaker": "Speaker 2",
-"text": "Habías Explicado que es Anabah, que es Abraham, Afar Daefer, Bitul."
+"startMs": 1081368,
+"endMs": 1089048,
+"text": "Él, él kilo dice: \"Yo soy de tu equipo, David, pero me voy a hacer el equipo de Saúl\". ¿Sí? Entonces, entonces, te va a mitpaler mejor a ver a Agnes."
 },
 {
-"startMs": 2153000,
-"endMs": 2176000,
-"speaker": "אופיר סגל",
-"text": "Exactamente, que es el que tienen Bitul, el que tiene Bitul Ansha. Entonces, entonces esta es la larga de Abraham. Que él, Abraham, dijimos que él aquí para él por Lot. Qué era lo que le dolía a Abraham? En la farata Brit. El Lot era Heleck del Brit, se perdió. Mejor? Se acuerdan o no?"
+"startMs": 1089428,
+"endMs": 1095888,
+"text": "Kibejol, que es alguien doble cara. Pero también con una boda atzará. Doble cara con una boda atzará. ¿Eh?"
 },
 {
-"startMs": 2176000,
-"endMs": 2181000,
-"speaker": "Speaker 2",
-"text": "Arel, Sí, sí, sí. Porque iban juntos de Heleckha. Iban juntos de Heleckha, se separó."
+"startMs": 1096008,
+"endMs": 1103148,
+"text": "Con una boda atzará, es la kavana. No, no sé si es con una boda atzará. No te conocía, mamad. No, no es con, no es con una boda atzará."
 },
 {
-"startMs": 2181000,
-"endMs": 2213000,
-"speaker": "אופיר סגל",
-"text": "Entonces Abraham no puede entender que alguien, ve usted a Heleck del Brit y se separe. Entonces Abraham y para él y para él por Lot. Y entonces estuvo el Zipur de Sdom, pasó el Zipur de Sdom y Abraham it palel. Y luego fue a la Makoma Shamachamp. Dice la hermana bien a mi da la tfilá, shener ma, me llamo pinhas veit palel. Nos preguntábamos pinhas, loit palel, pinhas? Asatin. Y el que sit palhel fue Abraham."
+"startMs": 1103388,
+"endMs": 1109868,
+"text": "No es con una boda atzará. Entonces... Ula, Ula, ahí puedes decir, seguir la misma línea. O sea, este reza porque quiere- Hay smit batrut."
 },
 {
-"startMs": 2213000,
-"endMs": 2225000,
-"speaker": "אופיר סגל",
-"text": "Entonces por qué Abraham necesita aprender de pinhas cuando Abraham es mastfilá me ashel pinhas? Sí? Entonces ve, ve. La enfilada de Abraham, itcabla o lo, itcabla? Qué habla?"
+"startMs": 1109888,
+"endMs": 1117068,
+"text": "Su pago por el rezo. Lo mismo de kol hakové makom letfiló sol. Ata, ata mitpalel, pero no ima, no ima bitul sheata tsé lej lakosbaruj."
 },
 {
-"startMs": 2225000,
-"endMs": 2226000,
-"speaker": "Speaker 2",
-"text": "Cómo, itcabla?"
+"startMs": 1117108,
+"endMs": 1123728,
+"text": "Vienes a cobrar. Sí, vienes a cobrar. Vienes a cobrar. Caja o caja. No, este viene a cobrar. A cobrar."
 },
 {
-"startMs": 2226000,
-"endMs": 2264000,
-"speaker": "אופיר סגל",
-"text": "Cómo sabes que itcabla? Haré. Se salvó Lot, pero se hizo goy. Y todo lo que tenía. Me dijiste que ahí salió Amón y Moab y de ahí salió. Entonces, entonces sale, Vemet, Lot se hizo goy. Y salió Amón y Moab. Entonces quiere decir que, ¿Quién te dijo que la enfilada de Abraham era la enfilada? Mejor? Tú no puedes saber que en la fila de Abraham es fila. Hasta llegar a Pinjas. Por qué hasta llegar a Pinjas? Cuando viene Pinjas, sí, mató a Simbrin. Entonces ahí, Behmet fue un kanaut de Pinjas, de que en cada barco un Yudi se haga gol."
+"startMs": 1123768,
+"endMs": 1128588,
+"text": "Sale de su tanit, a ver, págame ya y dime... No estás volteando a Kosbaruj, tú estás volteando atrás."
 },
 {
-"startMs": 2264000,
-"endMs": 2272000,
-"speaker": "אופיר סגל",
-"text": "Cuando Yudi se casa con Goya. Sí. Cuando Yudi se casa con Goya, se hace gol."
+"startMs": 1130348,
+"endMs": 1132288,
+"text": "Hay que entender todo como más matiz."
 },
 {
-"startMs": 2272000,
-"endMs": 2279000,
-"speaker": "אופיר סגל",
-"text": "Asut, así es. Hay un que no cuida en Kipur pero siguen siendo parte de la Keila, siguen siendo parte de Amistrai."
+"startMs": 1134008,
+"endMs": 1141309,
+"text": "Está un poco lejos. Tienes que ver, a ver, eh, hablando de Rujot, ¿tú crees que tengan algo que ver con la cama que habíamos visto? ¿Cómo se pone la cama de Caila?"
 },
 {
-"startMs": 2279000,
-"endMs": 2284000,
-"speaker": "Speaker 2",
-"text": "Sí, pero no sé si alágicamente. O sea, Shayaja hacerse gol."
+"startMs": 1142089,
+"endMs": 1144389,
+"text": "Haga-- cambié mi cama y me regañó todo un..."
 },
 {
-"startMs": 2284000,
-"endMs": 2303000,
-"speaker": "אופיר סגל",
-"text": "Sí, tiene la larga de gol, sus hijos. Puede ser Teshuba, puede ser Teshuba. No tiene que dejar ahora la de esta. Pero mientras está Bishad Meisde, tiene tiene de gol. Por eso lo pueden matar. Kana impudible. Sí, por Kanaut. Kilu ahorita no es Baronchin. Por qué no es Baronchin?"
+"startMs": 1146989,
+"endMs": 1148749,
+"text": "Qué maravilla. Yo sí la cambio."
 },
 {
-"startMs": 2303000,
-"endMs": 2312000,
-"speaker": "אופיר סגל",
-"text": "Pero lo pueden matar. Cual es el kanoi? Que no se salga. En que se salga."
+"startMs": 1151309,
+"endMs": 1159149,
+"text": "Y se va. Esto no se llama que se puede. La volteé así nomás. Qué maravilla. Sí, está bien raro. O sea, ¿se ve feo en el cuarto?"
 },
 {
-"startMs": 2312000,
-"endMs": 2332000,
-"speaker": "אופיר סגל",
-"text": "En que saber que te separas de la Misrael. Entonces cuando. Todo el jeta ahí era el jeteb not moab. Los nietos de Lot. Entonces, Bil-Am quería lejarle la Misrael y no podía. Dice, tenía un kitruk tremendo. Cual es el kitruk más fuerte que tenía de la Misrael?"
+"startMs": 1159229,
+"endMs": 1167549,
+"text": "Sí, sí, está fuera de la, eh, todo. ¿Y tu esposa qué te dijo? Lo hizo un mes. Un mes, un mes y medio. ¿Ya lo regresaste? Mi esposa se aguantó hasta que la regresé a lo normal y ya."
 },
 {
-"startMs": 2332000,
-"endMs": 2363000,
-"speaker": "אופיר סגל",
-"text": "Egen! ¿Sieron el Egen? No le sirvió. Por qué no le sirve ese kitro? Se va y pol se dijo? Se levanta! ¿Qué habera? No hay que levantarse de esa, ¿verdad? Por eso fue lo que él dijo. El yo le echa. El no es Sarayo. Casarse con Goy. Es Goy. Goy. Goy, pero yo soy lavar, es. Deus, es tener hijos Goyim, este padre es la misera. Es la fair brit. El separador estaba miserable, es paso de que tus hijos se hagan goyin."
+"startMs": 1167929,
+"endMs": 1168669,
+"text": "Ah, no."
 },
 {
-"startMs": 2363000,
-"endMs": 2378000,
-"speaker": "אופיר סגל",
-"text": "Ya, mamá, lo vemos. Me explico? Sí, sí, sí. Si te dicen ahorita llegó un Judith aquí, un rico va a donar esto, lo otro. Te dicen ay, me jale y quipo. Bueno, vale, va a donar. Si está casado con un goy."
+"startMs": 1170329,
+"endMs": 1174609,
+"text": "Eso ya daba que se puede, papá. Volteaste toda la... Qué estrella."
 },
 {
-"startMs": 2378000,
-"endMs": 2409000,
-"speaker": "אופיר סגל",
-"text": "Se manda hachme? Si, no, no se allá. Si lo vete cabrón, no. Si es el trato ese. No? Qué trato? Lo que estoy diciendo, es una vera. O sea, el punto no es. No es que es una variant. Sobre una variant, Bilam no podía lekalel. Pilu Bobodas dara en Maltan dora. Bilam quería lekalel? No sabía lekalel. Por qué? A mister el caen y se levanta?"
+"startMs": 1176949,
+"endMs": 1186889,
+"text": "No, pero ahí cuando hablamos de la cama, hablamos de que ya pago, bueno, el que pone la cama en el que un safón le daron, pago para los hijos, no sé qué."
 },
 {
-"startMs": 2409000,
-"endMs": 2441000,
-"speaker": "אופיר סגל",
-"text": "Le van a encontrar la manera de cómo. Pero cuando alguien dice, ya pues justo, me separo. Me separo acá es brujo, anime ferbrit. Mis hijos son goyi. Sí, Barmina. Entonces ahí viene Pinjas y dice \"enka de ahora\". \"Enka de ahora con you\" dices \"aba\". Mata a Simbri y dijimos ahí \"ohaja\" ¿no? Que es una poblada de Aba. Que está después con Gesed. Sí, exactamente, es una poblada de Aba."
+"startMs": 1187309,
+"endMs": 1193569,
+"text": "No, no le veo mucho que sea la que- Yo nomás pregunté. Estás hablando de rujot ahí. ¿De qué estás hablando de rujot?"
 },
 {
-"startMs": 2441000,
-"endMs": 2481000,
-"speaker": "אופיר סגל",
-"text": "Es el gesed más neto que existe. Exactamente. \"Enka de ahora que te separes\". Si hijas viene y vete se mi toja, va. No sabías que te separes. No sabías que te vayas de afuera. Entonces por eso todas las klalot de Pilan, todas las brajot que se hicieron, que las klalot se hicieron brajot, jodrot y klala por el que te con otro moa. Ya, como brot moa, vesquilo. Ya, cambiaste el Malaj. Te fuiste. Te fuiste a otro Malaj. Es como ya ni decir, mejor muerto, pero no te sales del pueblo de Israel. Exactamente. Es porque hizo pinjas, lo mato, un cohen, un levi, ya no esta en el pueblo, un levi que es mejor muerto que eso, mejor muerto que eso es un levi sobre,"
+"startMs": 1194049,
+"endMs": 1194809,
+"text": "Quiero de acá para acá."
 },
 {
-"startMs": 2481000,
-"endMs": 2485000,
-"speaker": "Speaker 2",
-"text": "Alguien dijo en la clase de la semana pasada,"
+"startMs": 1198249,
+"endMs": 1208849,
+"text": "Yo veo champiñones nada más. Acuérdate que yo nomás veo champiñón. Aquí veo algo muy interesante, porque el, la seifa del pasú, que es: ¿Y qué es kerum zolut livneadam?"
 },
 {
-"startMs": 2485000,
-"endMs": 2510000,
-"speaker": "אופיר סגל",
-"text": "Como ven solo moreno un levi no puede ser cohen, porque no puede ser cohen, el cohen es el que me carga, entonces alguien que me caree, alguien que la gente dice wow, el me quiere acercar mas a Shem un levi es ishdin, fueron los que mataron en el Egel la pero que es mejor el Issu, Tú explicaste eso? No debe ser. No debe ser mejorero. Porque dijiste, a Firu que es mejorero. No, me quedé tengo una semana. Ando cuando llegas a mejorar a Dian."
+"startMs": 1208869,
+"endMs": 1214809,
+"text": "Vamos a seguir la Gemara. Sigue la Gemara. Tú hiciste la Gemara, ah. Úsala, úsala. Ya, Mija, Mija, seis y seis."
 },
 {
-"startMs": 2510000,
-"endMs": 2542000,
-"speaker": "אופיר סגל",
-"text": "Entonces. Pero entonces, cuando es mi tatatin, entonces, entonces mi tatatin no puede ser como él. Entonces, Aarón fue justo en el que en el Egel actuó a favor de los del Egel. Aquí no, nada más, para que no haya acteú, para que esto, entonces. Seguía la onda así, espérate, mañana, ok, uso el otro, hasta que al final no hubo otra. Y se hizo alegre. Sí? Entonces ahí hablando de jaque una. Por qué? Porque además él cuando dice chubada, dice wow, qué amor recibimos de Aarón."
+"startMs": 1220649,
+"endMs": 1221369,
+"text": "¿No? Mejor, ¿no?"
 },
 {
-"startMs": 2542000,
-"endMs": 2583000,
-"speaker": "אופיר סגל",
-"text": "Qué amor, recibimos a Roder Shalom, Roder Shalom. Espitom pija, hace la pegulada de la cual los Leviems dejó hacer Leviem. Es una pegulada suma. Qué cuál es la pegulada la va a matar? Si, mataron a los demás. Pero Aaron no se hizo el Eggen, se hizo Cohen porque no mato, al revés, porque. Me explico? Entonces vienen Pijas, mata y lo hacen Cohen. Entonces quiere decir que la poblada de Pijas, es que el Ambrot que mato, nada más es que fue una poblada de dín, pero hombre que es tanta, va que estuvo Mujan, vete, Mafilo usaron una poblada de dín para, en casa de hablar con Judista para Michel, si es para castigar."
+"startMs": 1223469,
+"endMs": 1224369,
+"text": "Sí, ¿no? Sí, ya es"
 },
 {
-"startMs": 2583000,
-"endMs": 2625000,
-"speaker": "אופיר סגל",
-"text": "Es castigar, se llama Shuaga. Es de Mitswagdola, ¿verdad? Pero con Pinhas, no era castigar a una variant. Tiene que ser canoi, canoi es que te hierve la avata de Shengbo vamos a ver que alguien se separa de Shengbow. Entonces es un Levi que se hace koen, eso se llama Levi que se hace koen. Aaron es koen, koen y Pinhas es la delgada de agarrar el Leviut y convertirlo en Kuno. Es la de agarrar el Leviut. El Hulk es el Dimbat Smok Convertirlo en Nava Entonces es Pinhas Pinhas es el que ves en cuando un Judith se hace goy Entonces ahí mi meile, mit galela me afra que la fila de Abraham, it kabla ¿Sí?"
+"startMs": 1240209,
+"endMs": 1240809,
+"text": "mejor."
 },
 {
-"startMs": 2625000,
-"endMs": 2657000,
-"speaker": "אופיר סגל",
-"text": "Porque todo el problema de Abraham es que Lot se haga goy Y ese es el dolor y Pinhas con su masé revertió, revertió las cosas Encanta ver que un Judith se haga goy Es mi meile de ahí en Ishrash, Que Behemet salga el Mashiaj, Dav que de Mnot Moab. Sí? Que de Mnot Moab salga David Melech y Ruth, que de ahí salga el Mashiaj. Entonces mi mail hizo que le mafrea la chfila de Abraham sea tfilai, por eso ve este Mavraham aprende de pijas."
+"startMs": 1247509,
+"endMs": 1253609,
+"text": "Otro, otro pirush. Ya que la persona necesita las briot, panav mishtanot kikrum."
 },
 {
-"startMs": 2657000,
-"endMs": 2667000,
-"speaker": "אופיר סגל",
-"text": "Pero nosotros sabemos que Pijas es el liaj. Sí o no? Pijas es el liaj. Entonces de arriba que hizo Pijas, mato. A quién?"
+"startMs": 1255189,
+"endMs": 1259409,
+"text": "Su, su- Eh, a las siete. Antes de las cinco para las siete. Para"
 },
 {
-"startMs": 2667000,
-"endMs": 2668000,
-"speaker": "Speaker 3",
-"text": "Cómo se nos ocurrió ese chapiñon?"
+"startMs": 1260929,
+"endMs": 1267489,
+"text": "abajo. Que no me decía... dijo que ¿Ya? ¿Ya? Sigan, sigan, sigan."
 },
 {
-"startMs": 2668000,
-"endMs": 2695000,
-"speaker": "אופיר סגל",
-"text": "A quién? A un Judy que se hizo Goy. Y el Liao a quién mató? A un Judy que se hizo Goy. Altaia, idmeleketaia. Como un árabe. Te hiciste árabe? No, pero solo voy a dar shempre, te hiciste árabe. Sí? El único que hace Goy, entonces viene el Liao y lo mató. Viene el Liao y lo mató. Ahora. Wow. Entonces que decir. Ahora, fíjense que peli. Macobea Maconli."
+"startMs": 1267869,
+"endMs": 1268189,
+"text": "Ámala."
 },
 {
-"startMs": 2695000,
-"endMs": 2707000,
-"speaker": "Speaker 2",
-"text": "Ahora pregunta, ¿Lo matin que? Lo matin que le hao mate? Tú dices, ¿Matinbe o dej matin? Ino pinjo? Él es el canoi. Él es el canoi, él es el que no deja que se vaya. El yao lo tiene que hacer de verdad. Y entonces,"
+"startMs": 1279929,
+"endMs": 1281409,
+"text": "Cuando la persona se hace sol"
 },
 {
-"startMs": 2707000,
-"endMs": 2709000,
-"speaker": "אופיר סגל",
-"text": "Y por qué lo mata? Porque de repente,"
+"startMs": 1282689,
+"endMs": 1287409,
+"text": "en la, a, a, a los ojos de la gente, su, su cara se hace como krum."
 },
 {
-"startMs": 2709000,
-"endMs": 2712000,
-"speaker": "Speaker 2",
-"text": "Mira, tenemos un talla."
+"startMs": 1290409,
+"endMs": 1293009,
+"text": "Entonces, ¿qué es krum? Negro. Entonces, dice:"
 },
 {
-"startMs": 2712000,
-"endMs": 2742000,
-"speaker": "אופיר סגל",
-"text": "Es un talla, es un goy. Matei. No, de árabe. Como siempre, igual que siempre. Es de hombre, sí, es que hilo, que hilo. Ahora lo más pelea es esto. Arriba era colacobea makum lit fila todo lo que Abraham Bezro. Skrut makum lit fila. Y el es el que sale. Mitbalen majora bitekness. Ahora fíjense que pele. Arriba que le decíamos."
+"startMs": 1298169,
+"endMs": 1304369,
+"text": "Hay un pájaro en los, en, en las islas, en los krachim del mar, krachim del mar."
 },
 {
-"startMs": 2742000,
-"endMs": 2745000,
-"speaker": "אופיר סגל",
-"text": "El ganado."
+"startMs": 1305529,
+"endMs": 1306349,
+"text": "Bekrum shemo."
 },
 {
-"startMs": 2745000,
-"endMs": 2748000,
-"speaker": "אופיר סגל",
-"text": "Donde esta este jasir?"
+"startMs": 1314369,
+"endMs": 1315429,
+"text": "Se cambia de color."
 },
 {
-"startMs": 2748000,
-"endMs": 2758000,
-"speaker": "אופיר סגל",
-"text": "El que se murió aquí. Como David Damela que empieza ese dailyn?"
+"startMs": 1337929,
+"endMs": 1338689,
+"text": "Dice Rashi."
 },
 {
-"startMs": 2758000,
-"endMs": 2769000,
-"speaker": "Speaker 3",
-"text": "No, No estamos a la mitad."
+"startMs": 1343849,
+"endMs": 1344609,
+"text": "Se hace más bajo."
 },
 {
-"startMs": 2769000,
-"endMs": 2774000,
-"speaker": "אופיר סגל",
-"text": "Ya no hay."
+"startMs": 1348909,
+"endMs": 1352669,
+"text": "Que Rasha. Que seas alguien que pide a la gente."
 },
 {
-"startMs": 2774000,
-"endMs": 2779000,
-"speaker": "אופיר סגל",
-"text": "Esos son los resheim."
+"startMs": 1363329,
+"endMs": 1371289,
+"text": "Entonces, mi mail le tiene dos dinim, de esh y de máis. ¿Qué está pasando acá? No sé, no tengo idea qué está pasando acá."
 },
 {
-"startMs": 2779000,
-"endMs": 2796797,
-"speaker": "אופיר סגל",
-"text": "Qué quieres decir que el diablo también pensaba cómo piensas que no sabías que se salga? Sí, ¿por qué lo mató? Sabes lo que estamos haciendo? Que él es un yugudi que sabe el gobi. O sea, Flu que está haciendo. El diablo lo mata. El diablo lo mata, un yugudi que se hace el gobi, el diablo lo mata."
+"startMs": 1371449,
+"endMs": 1372089,
+"text": "Está peluca."
+},
+{
+"startMs": 1378089,
+"endMs": 1385749,
+"text": "Un pájaro. Yo tomé- ¿Qué Rashi dice ahorita? ¿Qué? ¿Qué Rashi? Escribe lo que dice. El último fue el de Roshenu."
+},
+{
+"startMs": 1390209,
+"endMs": 1391469,
+"text": "Como rosso o algo así."
+},
+{
+"startMs": 1392769,
+"endMs": 1396229,
+"text": "Okey. ¿Cuál es el plan?"
+},
+{
+"startMs": 1398528,
+"endMs": 1403449,
+"text": "Pero tú no has sentido lo que pasa- Leemos otra vez. A ver, dice:"
+},
+{
+"startMs": 1417189,
+"endMs": 1418529,
+"text": "Dice Rashi que es la tefilá."
+},
+{
+"startMs": 1421729,
+"endMs": 1423829,
+"text": "La tefilá, eso es talomá sariv en el shama."
+},
+{
+"startMs": 1430949,
+"endMs": 1439609,
+"text": "¿Cuál es la traducción krum zulut? ¿Qué es krum? Kerum es subir, zulut es sol. Entonces, subir es muy alto y es sol livneadam."
+},
+{
+"startMs": 1439769,
+"endMs": 1442969,
+"text": "Okey. Y es sol. Porque uno entonces, eh, que suben los zulim."
+},
+{
+"startMs": 1444949,
+"endMs": 1448489,
+"text": "O sea, o sea, la Gemara lo que está diciendo ahorita es kerum, que las cosas que..."
+},
+{
+"startMs": 1450129,
+"endMs": 1463169,
+"text": "La gente se hace zulim. Sí. Ahora hay que ver cuál es el pasut del pasut. Rashi dice ahí: kerum zulut es kilu, kerum es que David ha-melej sube y entonces mi mail y la gente lo desprecia."
+},
+{
+"startMs": 1463349,
+"endMs": 1470209,
+"text": "Mmm. ¿Sí? Acá también ya puedes undir toda la, ahora la seir. Sí, sí, sí, también, también. Sí, deja ahora."
+},
+{
+"startMs": 1480969,
+"endMs": 1488629,
+"text": "Cuando la persona va a mirar, se hace necesitado de las briot, su cara parece un krum. ¿Qué es este krum? Es como carbón, ¿no, no?"
+},
+{
+"startMs": 1489589,
+"endMs": 1491509,
+"text": "No. ¿No? La Gemara ahorita va a decir qué es eso."
+},
+{
+"startMs": 1495889,
+"endMs": 1505553,
+"text": "Dice, o sea, que cuando, cuando alguien se hace zulut livneadam, cuando alguien misdalzel En, en, en los ojos de la gente que se hace necesitado de la gente, se hace krum."
+},
+{
+"startMs": 1505593,
+"endMs": 1548833,
+"text": "Krum. ¿Qué es krum? Maikrum. Maikrum. Que el"
+},
+{
+"startMs": 1548853,
+"endMs": 1555833,
+"text": "pájaro que anda, ¿qué onda con el pájaro? Mmm-hmm. ¿Qué onda con todo? El pájaro que está todo. Pero a ver, ¿qué pasó?"
+},
+{
+"startMs": 1555873,
+"endMs": 1558093,
+"text": "Nada más para hacer orden aquí en lo que está pasando acá."
+},
+{
+"startMs": 1560573,
+"endMs": 1567393,
+"text": "Entonces, tenemos la seifa. ¿Por qué llegó la seifa? Por la reisha. Y la reisha está hablando del que mitpalel majore bet kneset"
+},
+{
+"startMs": 1568833,
+"endMs": 1570933,
+"text": "y Elihu lo mató. Y luego, la"
+},
+{
+"startMs": 1614813,
+"endMs": 1620613,
+"text": "el pie, el tañe, podemos ver las, este, la, las malas mitos, cuáles, de qué es eso y qué es main. Sí."
+},
+{
+"startMs": 1622673,
+"endMs": 1622893,
+"text": "Sí, sí."
+},
+{
+"startMs": 1624113,
+"endMs": 1625453,
+"text": "Siempre ."
+},
+{
+"startMs": 1628233,
+"endMs": 1631093,
+"text": "Hay que entender qué pasó acá, qué pasó acá."
+},
+{
+"startMs": 1633213,
+"endMs": 1635093,
+"text": "Todo el plan, ¿no? Ma keshem. Si"
+},
+{
+"startMs": 1639793,
+"endMs": 1641873,
+"text": "queremos de salir de roa, seguimos. Si"
+},
+{
+"startMs": 1643473,
+"endMs": 1648793,
+"text": "no queremos salir de roa, entender. Vamos a ver el marsó, ¿no? A ver qué sale, si dice algo,"
+},
+{
+"startMs": 1650353,
+"endMs": 1651373,
+"text": "una palabrita."
+},
+{
+"startMs": 1653273,
+"endMs": 1659293,
+"text": "Rashi, ¿vimos todo? ¿Se vio todo? Sí, antes lo vimos. ¿Lo quieres ver? Lo quiero ver. Yo lo veo solo, yo lo veo solo."
+},
+{
+"startMs": 1661973,
+"endMs": 1662853,
+"text": "No, ahí no hay más."
+},
+{
+"startMs": 1694713,
+"endMs": 1703313,
+"text": "Arriba, sobre Elihu, dice así. Dice: «Lo made la pele vene kinsha. Halef Elihu hazie idmele que taya»."
+},
+{
+"startMs": 1704413,
+"endMs": 1707493,
+"text": "Entonces, dice que mash-- el RIF no gjorde ese Elihu."
+},
+{
+"startMs": 1709893,
+"endMs": 1717353,
+"text": "Que, que era un árabe normal. No gjorde ese Elihu. Sí, vino un árabe y lo mató. Y Rashi también. Rashi no dice Elihu, dice: «Halafa hu taya»."
+},
+{
+"startMs": 1718673,
+"endMs": 1728013,
+"text": "No dice Elihu. Pasó por ahí un árabe y lo mató, ki psutó mamash. Ahora, el marsó quiere le yashev nuestra guirsa, que no, no matim, que Elihu"
+},
+{
+"startMs": 1729373,
+"endMs": 1735572,
+"text": "se disfraza de árabe y mata. Sí, es lo que no entendí nunca. Entonces, dice el marsó- ¿Él lo mató? ¿Lo mataron a él, no?"
+},
+{
+"startMs": 1735572,
+"endMs": 1742833,
+"text": "¿Mmm? Él lo mató. ¿Cómo? Ah, no, no es que . ¿Que mataron a Elihu? Entendí que mataron a Elihu."
+},
+{
+"startMs": 1742993,
+"endMs": 1750993,
+"text": "No. Pero físicamente, no necesito matarlo. No, Elihu lo mató a él. Él lo regañó, le dijo: «Es como dos reshuyot»."
+},
+{
+"startMs": 1750993,
+"endMs": 1758232,
+"text": "Entonces, lo mató. Entonces, dice el marsó, entonces Rashi y el RIF no gjorde si me Elihu. Dice el marsó que sí gjorde si me Elihu."
+},
+{
+"startMs": 1758893,
+"endMs": 1765893,
+"text": "Y entonces, la jaora, el Rashi y el RIF ismitu a Elihu, porque no, no matim, que Elihu se disfraza de árabe y mate."
+},
+{
+"startMs": 1766713,
+"endMs": 1777673,
+"text": "No, sí, sí mató a Elihu. Pero ¿cómo es? Idmele que taya. Dice: «Halef Elihu idmele»-- este señor parecía un taya."
+},
+{
+"startMs": 1778053,
+"endMs": 1786653,
+"text": "Mmm. No que Elihu se hizo pasar por, por taya, sino ese señor enfrente de Elihu pareció un taya."
+},
+{
+"startMs": 1787853,
+"endMs": 1802193,
+"text": "Y entonces, mimé le mató. O sea, acá, kilu, petsem, kilu, acá, que él, él de ser matim con los que están haciendo un poco, que es el que mitpalel, que majore bet kneset, es kilu, tamén el árabe mitpalel a Hashem."
+},
+{
+"startMs": 1803113,
+"endMs": 1811153,
+"text": "Pero... Mitpalel a Hashem, pero nos jalek de Hamister. Acá, etsem, él, esta persona mitpalel a Hashem, no mitkaven, etsem, a mitpalel a otro."
+},
+{
+"startMs": 1811592,
+"endMs": 1816233,
+"text": "Toda la, la kefira de él es que mira que kofer"
+},
+{
+"startMs": 1817633,
+"endMs": 1827853,
+"text": "be mi sha, be mi sha tsibú mitpalelim le fanav. No es que kilu, kofer va Hashem, que me dice: «Kofer be mi sha tsibú mitpalelim le fanav»."
+},
+{
+"startMs": 1828453,
+"endMs": 1835133,
+"text": "Dice: «Porque él, etsem, mitpalel a Hashem, pero, etsem, kilu, el Hashem del tsibú y el Hashem de él dice: \"No, tenemos dos\"»."
+},
+{
+"startMs": 1835913,
+"endMs": 1843053,
+"text": "Es diferente. O sea, yo tengo más palancas o yo soy mejor o yo soy esto. No, no, no, no, no. Ustedes no saben cómo le mitpalel a Hashem."
+},
+{
+"startMs": 1843153,
+"endMs": 1849993,
+"text": "Ustedes no tienen un malaj de tsfila. Yo tengo un malaj de tsfila y, entonces, mimé le el kilu y el... Está hablando con Hashem."
+},
+{
+"startMs": 1850773,
+"endMs": 1857653,
+"text": "Mimé le el árabe, etsem, está hablando con, eh, el árabe también está hablando con Hashem. Que kofer be mi sha tsibú. O sea, kofer..."
+},
+{
+"startMs": 1857733,
+"endMs": 1864893,
+"text": "Es lo que estoy diciendo. No kofer en Hashem. Kofer en, en el Hashem que el tsibú mitpalelimlo."
+},
+{
+"startMs": 1865193,
+"endMs": 1871485,
+"text": "Sí. Sí, es la diferencia, ¿no? El betem el toén, ani mitpalel HaShem. Es que ustedes no saben quién es HaShem."
+},
+{
+"startMs": 1873025,
+"endMs": 1881005,
+"text": "Esa es la diferencia. Dice, él dice: ani mitpalel HaShem. Es que ustedes, yo ani mitpalel HaShem, ustedes no saben quién es HaShem."
+},
+{
+"startMs": 1881125,
+"endMs": 1889745,
+"text": "No saben ni yo de HaShem. ¿Y eso por qué está mal? ¿Mmm? ¿Qué está mal acá? Que él dilo-- es, es árabe eso, eso se llama ser árabe."
+},
+{
+"startMs": 1890585,
+"endMs": 1897085,
+"text": "El árabe mitpalel HaShem, no mitpalel, no tiene, no está Avodah Zarah. El árabe no mitpalel la Avodah Zarah."
+},
+{
+"startMs": 1897125,
+"endMs": 1899885,
+"text": "¿Y cuál es el punto? K-kofer en lo que es Israel."
+},
+{
+"startMs": 1901085,
+"endMs": 1907445,
+"text": "Kofer en lo que es Israel. Kofer en HaShem. Kofer en lo que es Israel, que mejor él no mitpalel con el Tzibur."
+},
+{
+"startMs": 1907685,
+"endMs": 1916145,
+"text": "Así es de be'emet. Sí, va muy de la mano con todos los memdrot arriba, que betem acá, nosotros, nuestro yehud- Es porque somos parte de Israel."
+},
+{
+"startMs": 1916185,
+"endMs": 1922545,
+"text": "Sí, dijimos así. El yahid, el yahid es midín que, midín que es jaleb del Tzibur."
+},
+{
+"startMs": 1923045,
+"endMs": 1929585,
+"text": "El que mitpalel mejor aquí en Bet Knesset es el más kitoní. Viajól, él, él, kilu, que es judío, pero no de la gente."
+},
+{
+"startMs": 1930105,
+"endMs": 1937085,
+"text": "Él se quiere separar, estar solito. Es verdad, es verdad. En Dujka, en Dujka vimos, los mefarshú también, y también se puede explicar mucho."
+},
+{
+"startMs": 1937445,
+"endMs": 1946325,
+"text": "A mí, él se apartaba. No quiere idajek, no quiere idajek. Él no quiere estar con todos, él prefiere yo solo en mi casa. Yo solo en mi casa, no quiero idajek ahí con el Tzibur, no me siento jaleb del Tzibur."
+},
+{
+"startMs": 1946605,
+"endMs": 1954065,
+"text": "No me siento jaleb del Tzibur. No, no. Todo tu kesher con HaShem es mitój el Tzibur. Es decir, que mejor el Kadosh Baruj Hu mitgalé vaolam a Israel."
+},
+{
+"startMs": 1955125,
+"endMs": 1974645,
+"text": "No a ti betzurat pratit. Pero él qué piensa- No, es que a ti betzurat pratit cuando eres jaleb de Israel. Entonces, esta, esta persona piensa que betem, que él tiene un gilul pratit de él, que, que, que también si él betem es en contra de Am Israel, en contra de este, de lo, de, del mahalaj de Am Israel, es como el que poresh min haTzibur, él no jaleb la mama."
+},
+{
+"startMs": 1975385,
+"endMs": 1982625,
+"text": "Entonces, afilu que él poresh min haTzibur para la Avodat HaShem, él no jaleb la mama. Porque tu kesher con HaShem es davka derech lo que se llama Am Israel."
+},
+{
+"startMs": 1983105,
+"endMs": 1991865,
+"text": "Es derech la avdah que eres judío. Entonces, mi mail, esta persona es mamash un árabe. Los árabes, a diferencia de cualquier religión, tienen Avodah Zarah."
+},
+{
+"startMs": 1992365,
+"endMs": 1999264,
+"text": "Los árabes ovdim a HaShem mamash. Alá es HaShem, no es otro. Alá es HaShem. Alá hu Akbar. No, entonces, ¿por qué?"
+},
+{
+"startMs": 1999284,
+"endMs": 2005345,
+"text": "¿Cuál es la diferencia entre Am Israel y ellos? Que betem, que ilu se llama que mitpalelim a dos, a otro. ¿Por qué?"
+},
+{
+"startMs": 2005725,
+"endMs": 2012065,
+"text": "Porque betem, el quién es HaShem es diferente. ¿Qé-qué-qué entiendes que es HaShem? Tú tienes que entender a HaShem es HaShem lo que es Israel."
+},
+{
+"startMs": 2012264,
+"endMs": 2020085,
+"text": "¿Sí? Vidá col paúl, que atá pe del tov. Veavín col esur, que atá pe del tov. Veamor col HaShem, eshamav ea po... Lo que es Israel."
+},
+{
+"startMs": 2020105,
+"endMs": 2030485,
+"text": "¿Por qué HaShem lo que es Israel? HaShem nos dio vida, ¿no? Que todos reconozcan que toda tu vida viene de HaShem. No, que todos reconozcas que vienes, que toda tu vida viene de HaShem lo que es Israel."
+},
+{
+"startMs": 2032445,
+"endMs": 2039725,
+"text": "Esa es la nejuda del feeling de Hakadosh Baruj Hu, ¿eh? La nejuda del feeling de Hakadosh Baruj Hu. Es otra vez, que betem, Hakadosh Baruj Hu mitgalé vaolam derej Am Israel."
+},
+{
+"startMs": 2039985,
+"endMs": 2048845,
+"text": "Hakadosh Baruj Hu no tiene un gilú en el olam, stam. Stam, ¿ah? Hakadosh Baruj Hu. No. Todo lo que Hakadosh Baruj Hu mitgalé vaolam es dere, derej el kesher con Am Israel."
+},
+{
+"startMs": 2048904,
+"endMs": 2057925,
+"text": "Si quieres tú conocer a Hakadosh Baruj Hu, pregunta a los judín quién es, quién es Hakadosh Baruj Hu. Si no le quieres preguntar a los judín quién es Hakadosh Baruj Hu, entonces no, ese no es Hakadosh Baruj Hu, te equivocaste de dirección."
+},
+{
+"startMs": 2058404,
+"endMs": 2066225,
+"text": "No te equivocaste de dirección aquí, te equivocaste de dirección allá arriba. Porque allá arriba la única casa, betem, betem aquí lo que delinean del Bet Hamikdash."
+},
+{
+"startMs": 2066345,
+"endMs": 2076805,
+"text": "El Bet Hamikdash, ¿sí? Por-- Rashi dice que tiene que ser como el Bet Hamikdash, que el mahalaj, esto, lo otro. Es que ilu, que betem, el itgalú de Hakadosh Baruj Hu es en el Bet Hamikdash, no puedes tú salirte de ese mahalaj."
+},
+{
+"startMs": 2077784,
+"endMs": 2083904,
+"text": "Tú ahorita no, no, no hay Hakadosh Baruj Hu sin el mahalaj que se llama Shejrat Hashkiná de Am Israel, los que están dentro del Bet Hamikdash."
+},
+{
+"startMs": 2084284,
+"endMs": 2092824,
+"text": "No existe ese, ese, ese, ese kesher con Hakadosh Baruj Hu. El kesher con Hakadosh Baruj Hu es davka, mitój, mitój el, el, el Bet Hamikdash, mitój el kesher con Am Israel."
+},
+{
+"startMs": 2093385,
+"endMs": 2099545,
+"text": "Entonces, el que se separa de eso es árabe. Entonces, un judío que se hace árabe, entonces parecen dos reshurios."
+},
+{
+"startMs": 2100685,
+"endMs": 2109245,
+"text": "Parecen dos reshurios. ¿Sí, estamos claros? Increíble. Guau. Entonces, le fijé. Entonces, antes de seguir, antes de seguir el krum dulut."
+},
+{
+"startMs": 2109825,
+"endMs": 2116785,
+"text": "Entonces, yo, yo ahorita, ahorita, digo, ya agarrando este mashó, yo quería ir al archivo un poquito ahí, a lo de antes."
+},
+{
+"startMs": 2116845,
+"endMs": 2126085,
+"text": "Nos quería saber si con lo que viene nos iba a ayudar. Betayim no le estoy viendo qué hacer con lo que viene, pero la ahí sí podemos largir un poquito más lo de antes, podemos entender un poquito más."
+},
+{
+"startMs": 2126145,
+"endMs": 2128825,
+"text": "¿Sí? ¿Están claros? Sí, sí, sí."
+},
+{
+"startMs": 2130105,
+"endMs": 2138005,
+"text": "Empezamos así. Amar, amar ojhel bo amaravuna cola cavám ama con lech filatoa lo que Abraham bezró. Okey. ¿Sí? Pues aquí hay algo que se llama lo que Abraham."
+},
+{
+"startMs": 2138745,
+"endMs": 2145505,
+"text": "Lo que Abraham. Sí, es otra vez la misma ojina. Y el que kovea macom lech filá es esta Darga."
+},
+{
+"startMs": 2146425,
+"endMs": 2153585,
+"text": "Es la Darga de kovea macom lech filá, pero eso es el Daba. Habías explicado qué es Anava, qué es Abraham, Afarbafer, Bitul."
+},
+{
+"startMs": 2153925,
+"endMs": 2165665,
+"text": "Exactamente, que es el que tiene Bitul, el que tiene Bitul HaShem. Entonces, entonces, esta es la Darga de Abraham, que él, Abraham, dijimos que él aquí palel por Lot,"
+},
+{
+"startMs": 2167145,
+"endMs": 2168385,
+"text": "que era lo que le dolía a Abraham,"
+},
+{
+"startMs": 2169705,
+"endMs": 2176765,
+"text": "la Farat HaBrit. Que Lot era jelek del Brit, se perdió. ¿Mejor? ¿Se acuerdan o no?"
+},
+{
+"startMs": 2177105,
+"endMs": 2185705,
+"text": "Sí, sí, sí, porque iban juntos de Lej Lejá. Iban juntos de Lej Lejá, se separó. Entonces, Abraham no puede entender que alguien, betem, sea jelek del Brit y se separe."
+},
+{
+"startMs": 2186444,
+"endMs": 2191944,
+"text": "Entonces, Abraham mitpalel, itpalel, itpalel por Lot. Y entonces, estuvo el Sipur de Sdom,"
+},
+{
+"startMs": 2193245,
+"endMs": 2199585,
+"text": "pasó el Sipur de Sdom, y Abraham mitpalel. Y luego fue a la Makom HaShar Matstam, ¿sí?"
+},
+{
+"startMs": 2200205,
+"endMs": 2208525,
+"text": "Y se le llama Ve'ena midah la filá, se le llama- Pinjas. Ve'amod Pinjas ve-ipale. Entonces, preguntamos, Pinjas no itpalel."
+},
+{
+"startMs": 2209065,
+"endMs": 2218585,
+"text": "Pinjas- Haza din. Haza din. Y el que sí itpalel fue Abraham. Entonces, ¿por qué Abraham necesita aprender de Pinjas cuando Abraham es más filá amashé Pinjas?"
+},
+{
+"startMs": 2218665,
+"endMs": 2226025,
+"text": "Claro. ¿Sí? Entonces, be'emem, ¿la filá de Abraham itkablá o no itkablá? Itkablá. ¿Mmm? Itkablá."
+},
+{
+"startMs": 2226025,
+"endMs": 2234444,
+"text": "¿Cómo itkablá? ¿Cómo sa tki itkablá? Pero tú dijiste Pinjas. Se salvó Lot, pero se hizo goy. Todo lo que tenía- Pero tú dijiste que ahí salió Amon y Moab, y de ahí salió Masua."
+},
+{
+"startMs": 2234825,
+"endMs": 2243685,
+"text": "Entonces, entonces, ale, be'emet, Lot se hizo goy y salió Amon y Moab. Entonces, quiere decir que, betem, ¿quién te dijo que la filá de Abraham era filá?"
+},
+{
+"startMs": 2244845,
+"endMs": 2253404,
+"text": "¿Mejor? Tú no puedes saber que la filá de Abraham es filá. Hasta llegar a Pinjas. Hasta llegar a Pinjas. ¿Por qué hasta llegar a Pinjas? Cuando viene Pinjas, sí, mató a Zimri."
+},
+{
+"startMs": 2254485,
+"endMs": 2260444,
+"text": "Entonces, ahí, be'emet, fue un kanaút de Pinjas, de, de,"
+},
+{
+"startMs": 2261885,
+"endMs": 2270525,
+"text": "de que en casa de Abraham con judío se haga goy. Cuando un judío se casa con goyá... Se pone chuvál, ya pasó. Sí. Cuando un judío se casa con goyá, se hace goy."
+},
+{
+"startMs": 2272285,
+"endMs": 2279205,
+"text": "Pashut, así es. Sí, ahí un, que no fue en Kipur, pero siguen siendo parte de la keila, siguen siendo parte de Am Israel."
+},
+{
+"startMs": 2279285,
+"endMs": 2282799,
+"text": "Sí, pero no sé si Lógicamente. O sea, se haya que hacerse gol."
+},
+{
+"startMs": 2284258,
+"endMs": 2293279,
+"text": "Sí, tiene la edad de gol. Sus hijos- Puede hacerte chuvah, puede hacerte chuvah. Sí, tiene que dejar la, la esta. Pero vete, mientras está, Beshat Maise, tiene, tiene un din de gol."
+},
+{
+"startMs": 2293899,
+"endMs": 2300198,
+"text": "Por eso lo pueden matar. Canóin pugim. Por canout. Kilo ahorita no es varón chin. ¿Por qué no es varón chin?"
+},
+{
+"startMs": 2300638,
+"endMs": 2307799,
+"text": "Goi. Porque es goi, ¿sí? Pero lo pueden matar, minin canoín pugim. ¿Cuál es el canoín? Que no se salga."
+},
+{
+"startMs": 2307879,
+"endMs": 2314558,
+"text": "En Casabar que se salga, en Casabar que te salga. En Casabar con Judith se haga goi, en Casabar que te separes de Am Israel."
+},
+{
+"startMs": 2315238,
+"endMs": 2321779,
+"text": "Entonces, cuando, cuando-- entonces, todo el jet ahí era jet de Benot Moab, ¿sí? Los nietos de Lot."
+},
+{
+"startMs": 2322158,
+"endMs": 2328538,
+"text": "Entonces, Bil'am quería le calé a Am Israel y no podía. Dice-- tenía un kitruk tremendo."
+},
+{
+"startMs": 2328558,
+"endMs": 2330359,
+"text": "¿Cuál es el kitruk más fuerte que han llegado a Am Israel?"
+},
+{
+"startMs": 2332098,
+"endMs": 2340019,
+"text": "Es nut. Egel. Ah, el Egel. Se dio en el Egel, se dio en el Egel. No le sirvió. ¿Por qué no le sirve ese kitruk? Se va y polsatik vekam."
+},
+{
+"startMs": 2340218,
+"endMs": 2345138,
+"text": "Se dice una vera, se levanta. ¿Cuál es? ¿Qué haberá? Ya, no hay levantarse esa vera."
+},
+{
+"startMs": 2346718,
+"endMs": 2352899,
+"text": "Por eso fue lo que él dio la echá. No sale ayot. Él dio la echá. No sale ayot. Que se hace con goi. Es goi, goi."
+},
+{
+"startMs": 2353459,
+"endMs": 2361819,
+"text": "Goi, pirush os adabar, es-- no, es tener hijos goim, es separarse de Am Israel. Es la fir brit. Es la fir brit, es separarse de Am Israel."
+},
+{
+"startMs": 2362078,
+"endMs": 2370118,
+"text": "Es por eso que tus hijos serán goim. Ya, es-- vamos a-- lo, lo, lo vemos, ¿me explico? Sí, sí, sí. Si te dicen: «Ahorita llegó un judío aquí, un rico, va a donar esto, lo otro»."
+},
+{
+"startMs": 2370218,
+"endMs": 2374038,
+"text": "Te dicen: «Ay, me jalé equipo». Bueno, va a donar. Si"
+},
+{
+"startMs": 2375258,
+"endMs": 2381279,
+"text": "está casado con goi. Ya, afuera. Es manda Hashem. Si no, no, no se haga."
+},
+{
+"startMs": 2381859,
+"endMs": 2385439,
+"text": "Los betecabarot no... Sí. Si es, es el trato es eh..."
+},
+{
+"startMs": 2387019,
+"endMs": 2389819,
+"text": "¿No? ¿En verdad? Sí, sí, qué trato. Es que, es que..."
+},
+{
+"startMs": 2391738,
+"endMs": 2400019,
+"text": "En toda la rosca. Lo que estoy diciendo no es una vera. No, o sea, el punto no es, no es que es una avarián. Con una avarián, Bil'am no podía le calé."
+},
+{
+"startMs": 2401698,
+"endMs": 2409738,
+"text": "Matando nada. Bil'am quería le calé, no se hace le calé. ¿Por qué? Se va y polsatik vekam. Se-- Am Israel cae y se levanta."
+},
+{
+"startMs": 2410158,
+"endMs": 2411979,
+"text": "Le van a encontrar la manera de cómo..."
+},
+{
+"startMs": 2413379,
+"endMs": 2420618,
+"text": "Pero cuando alguien dice: «Ya, por eso me separo, me separo de Carlos Burho, a mí me fer brit."
+},
+{
+"startMs": 2421038,
+"endMs": 2427278,
+"text": "No, no, ya, mis hijos son goim. Sí, bar mena». No, u, ualah, ualah ejut."
+},
+{
+"startMs": 2427879,
+"endMs": 2438879,
+"text": "Entonces, ahí viene Pinjas y dice: «En Casabar, en Casabar con Judith se haga. Mata Zimri, dijimos ahí, ojajno, que es una peulá de Aba, que sale con- Por eso es por Jesed."
+},
+{
+"startMs": 2439098,
+"endMs": 2445558,
+"text": "Sí, exactamente, es una peulá de Aba. En Casabar que te separes. Es el Jesed más neto que existe. Exactamente. En Casabar que te separes."
+},
+{
+"startMs": 2445939,
+"endMs": 2458038,
+"text": "Pinjas viene, ve, eche, mi toja, Aba. No se haga que te separes. No se haga que te vayas afuera. Por eso todas las clalot de Pilam, todas las brajot que se hicieron, las clalot se hicieron brajot, josrot le clalá por el jet de Benot Moab."
+},
+{
+"startMs": 2458618,
+"endMs": 2460538,
+"text": "Ya con Benot Moab es kilo, no."
+},
+{
+"startMs": 2461759,
+"endMs": 2469799,
+"text": "Ya, cambiaste el malaj. Te fuiste, te fuiste a otro malaj. Es como ya ni decir mejor muerto, pero no te sales del pueblo de Israel."
+},
+{
+"startMs": 2469899,
+"endMs": 2476439,
+"text": "Eso, exactamente. Es lo que hizo Pinjas. Sí. Lo mató y no te sales. Un Cohen, un Leví. Que ya no está en el pueblo."
+},
+{
+"startMs": 2477038,
+"endMs": 2483618,
+"text": "Un Leví, un Leví que se mata. Mejor muerto que eso. Mejor muerto que eso. Un Leví. Alguien dijo en la clase de la semana pasada, como Ben Sholom Moreh."
+},
+{
+"startMs": 2483759,
+"endMs": 2494979,
+"text": "Sí. Motav Shemut Zakai, me limot jayem. Un Leví no puede ser Cohen. ¿Por qué no puede ser Cohen? El Cohen es el que me care. Entonces, alguien que me care, tiene que ser alguien que, que la gente dice: «Guau, él me quiere acercar más a Hashem»."
+},
+{
+"startMs": 2495459,
+"endMs": 2501499,
+"text": "Un Leví es, es din, fueron los que mataron en el Egel. Afilo que es Meshorer Nishu. Lo explicaste eso."
+},
+{
+"startMs": 2501499,
+"endMs": 2508698,
+"text": "¿Eh? No debe ser, no debe ser el Meshorer Din. Lo que dijiste, afilo que es Meshorer Din. ¿Cómo llega? Me quedé una semana pensando cómo llega de Meshorer a Din."
+},
+{
+"startMs": 2510379,
+"endMs": 2518799,
+"text": "Entonces... Pero entonces, cuando, cuando es mi, cuando es mi Tata Din, entonces, entonces mi Tata Din no puede ser Cohen."
+},
+{
+"startMs": 2519499,
+"endMs": 2525979,
+"text": "Entonces, Aarón fue justo en el que en el Egel actuó a favor de, de los del Egel."
+},
+{
+"startMs": 2527379,
+"endMs": 2536519,
+"text": "Para que no haya Teú, para que esto. Entonces, le seguía la onda así, espérate, mañana, okey, eso lo otro, hasta que al final no hubo de otra y, y se hizo el Egel, ¿sí?"
+},
+{
+"startMs": 2536578,
+"endMs": 2543558,
+"text": "Entonces, ahí Aarón taja que una. ¿Por qué? Porque Amstel cuando dice Chuvah, dice: «Guau, qué amor recibimos de Aarón». Qué amor recibimos de Aarón."
+},
+{
+"startMs": 2543558,
+"endMs": 2551379,
+"text": "De Aarón Shalom. De Aarón Shalom. De repente, Pinjas hace la peulá de la cual los Levím se acuesta Levím."
+},
+{
+"startMs": 2551819,
+"endMs": 2559459,
+"text": "Es una peulá tsumá. ¿Que cuál es la peulá? Matar. Sí, matar a los Levím. ¿Los Levím se acuesta Levím? Sí, los, los... No, en mil Hashemelá, en el Egel."
+},
+{
+"startMs": 2559538,
+"endMs": 2568038,
+"text": "Ah. Por eso los Levím. Pero Aarón no se hizo Leví, se hizo Cohen, porque no mató, al revés, porque... ¿Me explico? Entonces, viene Pinjas, mata y lo hacen Cohen, Cohen Gadol."
+},
+{
+"startMs": 2568558,
+"endMs": 2581198,
+"text": "Entonces, quiere decir que la Pi-- la peulá de Pinjas es que la Amrot que mató, la Amrot es que fue una peulá de Din, pero ome que es tanta Aba que estuvo Moján, Behemot, Mafilo, usaron una peulá de Din para, en Casabar con Judith se para Am Israel."
+},
+{
+"startMs": 2581238,
+"endMs": 2590558,
+"text": "Si es para castigar, es una peulá de Din, es castigar. Es Mitzvah Gdola. Okey. Pero, pero con Pinjas no era castigar a una avarián."
+},
+{
+"startMs": 2590899,
+"endMs": 2597299,
+"text": "Tiene que ser canoi. Canoi es que te hierve el, el, el Abba de Hashem. ¿Cómo se hace que alguien se separe de Hashem?"
+},
+{
+"startMs": 2597379,
+"endMs": 2606019,
+"text": "Entonces, es un Leví que se hace Cohen. Eso se llama Leví que se hace Cohen. Aarón es Cohen, Cohen y Pinjas es la delgada de agarrar el Leviut y convertirlo en uno."
+},
+{
+"startMs": 2606479,
+"endMs": 2612819,
+"text": "Es la verdad de Pinjas. Agarrar el Leviut, que es el, el Din Beatzmó. Y convertirlo en Aba. Y convertirlo en Aba."
+},
+{
+"startMs": 2614299,
+"endMs": 2623778,
+"text": "Entonces, es Pinjas. Pinjas es el que, ve, cuando un judío dice: «Hace goi, en Casabar». Entonces, ahí, mi maile, mi Galena Mefrá, que la filá de Abraham..."
+},
+{
+"startMs": 2624019,
+"endMs": 2630259,
+"text": "It cablá. It cablá, ¿sí? Porque todo el problema de Abraham es que Lot se haga goi, y ese es el dolor."
+},
+{
+"startMs": 2630319,
+"endMs": 2641278,
+"text": "Y Pinjas, con su maze, revertió, revertió las cosas y dice: «En Casabar con Judith se haga goi». Y de ahí Nishrash, que de Emet salga el Mashiach, davka de Benot Moab."
+},
+{
+"startMs": 2642118,
+"endMs": 2651459,
+"text": "Sí, que, que de Mot Moab salga David Melech y Ruth, que de ahí salga el Mashiah. Entonces, Mimelech eso hizo que le mafréa, la tefilá de Abraham, sea tefilá."
+},
+{
+"startMs": 2651558,
+"endMs": 2655879,
+"text": "Y por eso, ve este Abraham aprende de, de, de Pinjas."
+},
+{
+"startMs": 2657439,
+"endMs": 2661678,
+"text": "Pero nosotros sabemos que Pinjas es Eliab, ¿sí o no? Pinjas es Eliab."
+},
+{
+"startMs": 2663218,
+"endMs": 2669379,
+"text": "Entonces, ¿y arriba qué hizo Pinjas? Mató. ¿A quién? ¿Cómo se nos ocurrió ese chape? ¿A quién?"
+},
+{
+"startMs": 2669698,
+"endMs": 2672698,
+"text": "A un yud que se hizo goy. Sí, hombre. ¿Y Eliab a quién mató?"
+},
+{
+"startMs": 2674019,
+"endMs": 2682238,
+"text": "A un yud que se hizo goy. Al taya, Itmelequetaya. Como un árabe. Te hiciste árabe. No, pero soy la vela Shem, pero te hiciste árabe."
+},
+{
+"startMs": 2682238,
+"endMs": 2689218,
+"text": "¿Sí? El único que se hace goy. Entonces, viene Eliab y lo mató. Viene Eliab y lo mató. Ahora..."
+},
+{
+"startMs": 2689558,
+"endMs": 2699078,
+"text": "Guau. Entonces, ¿qué decir? Ahora, fíjense qué pele. A Covea Makom- La Barsha pregunta: Lo matin que, lo matin que Eliab mate."
+},
+{
+"startMs": 2699138,
+"endMs": 2705919,
+"text": "Tú dices: Matin ve odej matin. Y no Pinjas. Él es el canoy. Él es el canoy, él es el que no deja que se vaya."
+},
+{
+"startMs": 2706098,
+"endMs": 2713359,
+"text": "Eliab lo tiene que hacer. Y entonces, ¿y por qué lo mata? Porque de repente: \"Mira, tenemos un taya. Es un taya, es un goy\"."
+},
+{
+"startMs": 2714118,
+"endMs": 2720819,
+"text": "Maté, es que la Shone de- No, de árabe. Como Zimri, igual que Zimri. Es Zimri, sí, es que hilo, que hilo se hizo Zimri."
+},
+{
+"startMs": 2721359,
+"endMs": 2728399,
+"text": "Ahora, lo más pele es esto. Arriba era Cola Covea Makom litfilato elo que Abraham be Ezro. Es Kviut Makom letfil."
+},
+{
+"startMs": 2728939,
+"endMs": 2737078,
+"text": "Hilo es el Kesher ve etzem, con haKadosh Baruj Hu, mitój Bet Knéset, mitój Makom kavuá. Y él es el que mitpalel majorá Bet Knéset."
+},
+{
+"startMs": 2737319,
+"endMs": 2745078,
+"text": "Es bidiuk el efé. ¿Sí? Ahora fíjate qué pele. Arriba, ¿qué le decíamos? Ey jasid, ey jasid, ey anav."
+},
+{
+"startMs": 2745098,
+"endMs": 2751718,
+"text": "¿Dónde está este jasid? ¿Dónde está este jasid? ¿Tajón? El que se murió, Kiro. ¿Cómo David Amelejem empieza ese tefilín?"
+},
+{
+"startMs": 2754118,
+"endMs": 2759459,
+"text": "Baruj atá Amon ha'olam. ¿Mmm? ¿Mmm? No, nos estamos hablando de todo."
+},
+{
+"startMs": 2762058,
+"endMs": 2768839,
+"text": "She Hashem, ki gamal jasid. Es ki gamal jasid. En jasid. Ma pshat, ki gamal, ma pshat. Gamal. Ey anav, ey jasid."
+},
+{
+"startMs": 2768919,
+"endMs": 2776379,
+"text": "Ey anav, ey jasid. Ya no hay. Ya no hay jasidim. Ya no hay jasidim. Es solo los reshaím que lo hacen sabio."
+},
+{
+"startMs": 2776379,
+"endMs": 2782459,
+"text": "¿Tú quieres decir que Eliab también pensaba como Pinjas, que no deja que se salga?"
+},
+{
+"startMs": 2782738,
+"endMs": 2788979,
+"text": "Mmm. Sí, ¿por qué lo mató? ¿Sabes lo que estamos viendo? Que él es un yud que se hace goy. O sea, filo que es la Shem Hamfora. El, el, Eliab lo mata."
+},
+{
+"startMs": 2790259,
+"endMs": 2793519,
+"text": "Eliab lo mata. Un yud que se hace goy, Eliab lo mata. Increíble."
 }
 ]
 }

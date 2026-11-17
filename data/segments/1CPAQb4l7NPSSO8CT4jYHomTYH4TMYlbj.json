@@ -1,480 +1,1061 @@
 {
-"source": "drive_md_plaud",
-"model": "plaud",
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
 "segments": [
 {
-"startMs": 0,
-"endMs": 12000,
-"speaker": "אופיר סגל",
-"text": "Entonces. ¿Entonces por qué Anav? ¿Por qué Jasid? ¿Por qué Talmit de Abraham Mavinu? ¿Dafkel que Kibut Makom lech pilato."
+"startMs": 480,
+"endMs": 2800,
+"text": "Entonces... Creo que le van a mi mata, o sea."
 },
 {
-"startMs": 12000,
+"startMs": 6820,
 "endMs": 14000,
-"speaker": "Speaker 2",
-"text": "Ahora yo no metemos ahorita en pejot, ¿verdad."
+"text": "Entonces, ¿por qué aná, por qué jasid, por que tal mid de Abraham Avinu? Dafka el que kovea makom letfilato. Ahora hay un momento que estamos ahorita en Pinjas, ¿verdad?"
 },
 {
-"startMs": 14000,
-"endMs": 45000,
-"speaker": "אופיר סגל",
-"text": "No estás tarde. Ahorita. Ok. Entonces. ¿Y por qué Davkel que Kibut Makom lech pila se le dice así? El que Kibut Makom lech pila y no el que hace jesed. Sí, el que me parecemos Shem a Shem en el mundo. ¿Por qué no el que me parece mucho en el mundo y no el que hace el caso? Entonces acá yo entiendo que hay una nalga que Abraham a mí no me echen lo que geula es y que llega a la anava."
+"startMs": 14400,
+"endMs": 25580,
+"text": "No estás claro. Ahorita vemos. Okey. Entonces... ¿Y por qué, por qué dafka el que como kovea makom letfilá se le dice así, el que kovea makom letfilá y no el que hace jesed?"
 },
 {
-"startMs": 45000,
-"endMs": 99000,
-"speaker": "אופיר סגל",
-"text": "Y el Hasidut, de ahí viene Abraham, vino de Kibut Makumlet Fila, porque es el ketofez que yo solo existo porque a causa profundo está dando existencia. Esa es la variedad de Makoma. Sham se llama Makum. Hashem se llama Makum U Mekom Shelolam, Ben Haolam Mekum, Benet se Mashem Él, nosotros estamos, Kiwi Ahol, Hashem nos está dando lugar en él, en su mundo Entonces él ve, entonces quiere decir que el Mekor de nuestro Kiwun, Makom Milachon, el Mekor de nuestro Kiwun, saca dos buroku Entonces siempre que uno está en un Makom, ese Makom es tu Kiwun."
+"startMs": 25920,
+"endMs": 44380,
+"text": "Sí, el que mefarsem shem Hashem en el mundo. ¿Por qué no el que mefarsem shem Hashem en el mundo y no el que hace jesed? Entonces, acá yo entiendo que hay una dargá que Abraham Avinu, be'etzem lo que gilá es kovea makom letfilato y que totschah midé llega a la anavá"
 },
 {
-"startMs": 99000,
-"endMs": 133000,
-"speaker": "אופיר סגל",
-"text": "siempre tu más comes tuquium porque aquí hay aire, hay comida, hay toda la infraestructura que está alrededor de ti, ese es tuquium. El hombre que es entender que ves en tuquium no es la infraestructura que está alrededor de ti, si no ves se me saca el Roju, el que te da aire, el que te da agua, el que te da comida, el que te da todo, el que todo. Al final necesitas mil cosas, quien junto todas esas cosas, batalla quedó el Roju, y como más que eso, digo, es a nivel pero también a nivel, Es que Akaos Roju mamá está dando aquí un constante a la persona, a su hijo, a su mamá."
+"startMs": 45600,
+"endMs": 52660,
+"text": "y el, el jasidut. De ahí viene, de ahí viene Abraham Avinu, de kivyut makom letfilá. ¿Por qué?"
 },
 {
-"startMs": 133000,
-"endMs": 152000,
-"speaker": "אופיר סגל",
-"text": "Entonces quiere decir que Abraham, Betzem, él se ve a sí mismo en el mundo. Es como que existo y a ver dónde encuentro a Akaos Roju. Betzem. Yo existo nada más porque Akaos Roju me está dando existencia. Entonces él se ve a sí mismo existiendo. Que lo que lo carga es el jefe de Akaos Roju."
+"startMs": 53540,
+"endMs": 55880,
+"text": "Pues kovea makom letfilá, pirush haShol Bar,"
 },
 {
-"startMs": 152000,
-"endMs": 162000,
-"speaker": "Speaker 2",
-"text": "Se nota que quiere, ¿verdad? Fernando Messex está diciendo. Que hay que llegar con los dos perfil con Anafa. Ese vitul."
+"startMs": 57440,
+"endMs": 60260,
+"text": "es el que tofés que, be'etzem"
 },
 {
-"startMs": 162000,
-"endMs": 186000,
-"speaker": "אופיר סגל",
-"text": "Mamá, si, exactamente. Exactamente. Cuando estás en casa alguien te adaptas a los kenai. Si estás. No, no vienes así. Eh. Tiene que ser así, tiene que ser así. Entonces viene aquí, la fisal Anav empieza en entender que hume como el San Abraham. No empieza en ti, yo soy Anab. No, tienes que entender. ¿Por qué eres Anab? ¿Dónde estás parado? Que por eso eres Anab."
+"startMs": 64420,
+"endMs": 67600,
+"text": "yo solo existo porque Hakadosh Baruch Hu me está dando existencia."
 },
 {
-"startMs": 186000,
-"endMs": 213000,
-"speaker": "Speaker 2",
-"text": "En mi mail, si uno ve, ve, me, ve, me, se, no, no, puede llegar después que entiende, o sea, una aanava que no llega así, ese no es verdad, no es una aanava cien por cien, no es la, no es la verdad de la aanava, no es la verdad, es como cuando no te, cuando no reconoces lo que eres y eres una. eso es nada más una persona que estamos tiene mejor autoestima ¿Por qué."
+"startMs": 69060,
+"endMs": 77060,
+"text": "Ez es la hereja de makom, Hashem se llama makom. Hashem se llama makom. Hu, hu makomoshel olam ven haolam makomo."
 },
 {
-"startMs": 213000,
-"endMs": 244000,
-"speaker": "אופיר סגל",
-"text": "¿Por qué Ana? ¿Por qué? Abraham dice ¿Sabes por qué Ana? Porque de verdad exactamente yo yo aquí existo porque acá no existen entonces eso es el ideal de Macon llegaba desde la mañana pero el lineal de Macon para convertirlo en un Macon así para convertirlo en Macon que ese es el Macon, Hablar de la tefila, si tu me dices tefila me makum kabua, pareces como alguien que."
+"startMs": 78160,
+"endMs": 83520,
+"text": "Be'etzem Hashem, él-- nosotros estamos, kiviarjol, Hashem nos está dando lugar"
 },
 {
-"startMs": 244000,
-"endMs": 277000,
-"speaker": "אופיר סגל",
-"text": "Yo existo, estoy bien, animistasteer. Si? Y acabas de la humedad. O sea, que es no en un makum kabua. Estoy hablando del ideal. Hay quien necesita representarse del ideal en el mundo físico. Pero el que no te ofrece el malaj de Mekom solola, pero usted se levar que aquí hay dos. Estoy yo, estashe. Yo se que así en proporciona las cosas, pero aquí estoy yo. yo no le pido. ¿Me explico? Entonces acá el área desfilada es llegar a este matchab donde entras a este lugar que se llama Macón."
+"startMs": 84860,
+"endMs": 95880,
+"text": "en él, en su mundo. Entonces, él, be'etzem, entonces quiere decir que el mekor de nuestro kiun, makom milashon, kiun, el mekor de nuestro kiun es Hakadosh Baruch Hu."
 },
 {
-"startMs": 277000,
-"endMs": 316000,
-"speaker": "אופיר סגל",
-"text": "Entonces tú me dices que tu Macón me ha sacado el Roju. Eso, mi mail. Tú no has entendido, mi mail sacado el Roju Matsui bebé tal que nace. Entonces, vete me le está antes. Vete Macón el Roju, vete me está antes. Entonces, entonces el que como \"amakom dex filo\" que él está agarrando y no nada más el \"nikpalel\" sino que hace que el \"makom\" sea \"makom\" no nada más a \"nikpalel\" sino todo el \"makom\" está en un estado de desfila pero ¿por qué el makom."
+"startMs": 96520,
+"endMs": 108080,
+"text": "Entonces, siempre que uno está en un makom, ese makom es tu kiun. Siempre tu makom es tu kiun. ¿Por qué? Porque aquí hay aire, hay comida, hay toda la infraestructura que está alrededor de ti, ese es tu kiun."
 },
 {
-"startMs": 316000,
-"endMs": 327000,
-"speaker": "Speaker 2",
-"text": "No lo entendió al 100% puede ser una persona \"bikibute\" Y ahí en el lugar, ¿qué me importa en el mismo lugar."
+"startMs": 109200,
+"endMs": 119940,
+"text": "El, el home que es en Duné, que be'etzem tu kiun no es la infraestructura que está alrededor de ti, sino be'etzem es Hakadosh Baruch Hu el que te da aire, él que te da agua, él que te da comida, él que te da todo, él que-- todo."
 },
 {
-"startMs": 327000,
-"endMs": 359000,
-"speaker": "אופיר סגל",
-"text": "No, que necesitas vermetas, que tu tefila no es kilo a ti. El es una tuiza de que todo tu macom es tu fila, no nada más yo pido tu fila, sino todo mi kiu, todo mi kiu, todo mi macom, todo mi lugar donde estoy. Donde Fahjl llevo tu un lugar que está cargado por medio de que otro. Pero si yo no tengo un Makom kabois pirusoso es levar, es como si. Mira, en Instater."
+"startMs": 120460,
+"endMs": 132540,
+"text": "Al final necesitas mil cosas. ¿Quién juntó todas esas cosas? Matar a Hakadosh Baruch Hu, y camón, más que eso, digo, eso es a nivel gashmá, pero también a nivel rujaní, es que Hakadosh Baruch Hu mamás está dando kiun constante a la persona, a su grupo, a su neshamá."
 },
 {
-"startMs": 359000,
-"endMs": 390000,
-"speaker": "אופיר סגל",
-"text": "En Instater por las cosas que hay alrededor, tú me ayudas. Cuando en Cobem Makom let fila pirusoso es levar, es que ahorita cuando estoy haciendo fila, nada de lo que hay alrededor es algo porque todo lo que hay alrededor es el Makom de lat fila. Entonces eso te trae anaba y eso te hace Jasid. ¿Por qué? Porque vete, no entiendes que. La otra tefila es una tefila de ti."
+"startMs": 133400,
+"endMs": 143420,
+"text": "Entonces, quiere decir que Abraham, be'etzem, él se ve a sí mismo en el mundo, no como que existo y a ver dónde encuentro a Hakadosh Baruch Hu."
 },
 {
-"startMs": 390000,
-"endMs": 393000,
-"speaker": "אופיר סגל",
-"text": "Como digo, existo, o sea me existe. ¿Por qué te da."
+"startMs": 143940,
+"endMs": 152780,
+"text": "Be'etzem, yo existo nada más porque Hakadosh Baruch Hu me está dando existencia. Entonces, él se ve a sí mismo existiendo, que lo que lo carga es, es el jesed de Hakadosh Baruch Hu."
 },
 {
-"startMs": 393000,
-"endMs": 396000,
-"speaker": "Speaker 2",
-"text": "A él me creo, pues que él me mande, ¿no."
+"startMs": 152800,
+"endMs": 155600,
+"text": "Se da cuenta que ayer, Hernán también se estaba diciendo el padre,"
 },
 {
-"startMs": 396000,
-"endMs": 428000,
-"speaker": "אופיר סגל",
-"text": "De alguna manera, sí, o me merezco, hice. Pero acá, cuando estás hablando de estás hablando de que no te estás viendo a ti existente. Estás hablando de tu existencia en sí, de tu, de Tumaco, de la siva de tu existencia, de lo que me hace, me explico, hablando de mi existencia, yo solo existo porque tú me dando igual."
+"startMs": 156820,
+"endMs": 158640,
+"text": "que hay que llegar con el tofu, con la navá."
 },
 {
-"startMs": 428000,
-"endMs": 471000,
-"speaker": "אופיר סגל",
-"text": "Entonces, esa es una triste calcula de que yo me estás haciendo caso contigo, porque Betsem te ves existiendo. Solamente porque acá antes de que tú existas ya quiso que existes. Entonces, ¿con quién hizo el Geser? ¿Con quién hay para hacer sin? No hay ni siquiera con quién. Me explico, cuando llegas a la largada de que la Tzfila no la dejas en el rojo de Hitsoni, sino la bajas al lugar de que ves en el Makon Nefakle de Tzfila, tú ves la largada de esta que se llama Mekom Lola, entonces mi mail eso se llama Anab, se llama Jasid, por eso dices."
+"startMs": 160920,
+"endMs": 167800,
+"text": "Ajá. Que ese, ese bitul. Mamá, sí, exactamente. Exactamente. Te-- cuando estás en casada, te adaptas a los tenai."
 },
 {
-"startMs": 471000,
-"endMs": 480000,
-"speaker": "Speaker 2",
-"text": "¿Dónde está? En la de los bletters. Entonces ahí hay cada día."
+"startMs": 168700,
+"endMs": 176640,
+"text": "Si estás-- no, no viene ese: «Eh, solo piensa así, piensa así». Pues viene aquí, la tzizá de la navá empieza en entender que uno es como yo lo veo."
 },
 {
-"startMs": 480000,
-"endMs": 505000,
-"speaker": "אופיר סגל",
-"text": "Ajá. Mi hija va a saber aki o abajo. No. Que está aki ¿No? Sí, ayer fue acá ¿No? Y varios días por acá. Ya, ya, que está acá."
+"startMs": 177320,
+"endMs": 185660,
+"text": "No empieza en ti, yo soy aná. No, tienes que entender por qué eres aná, dónde estás parado, que por eso eres aná."
 },
 {
-"startMs": 505000,
-"endMs": 530000,
-"speaker": "Speaker 2",
-"text": "Entonces, este, está Abraham Amin, está Itzjak, están todos. Creo que un Abraham es el que empieza a decir, porque están en la fiesta y cada quien dice su maala. Hasta que llega Abraham dice \"Yo soy el más\". Entonces dice, yo me acuerdo, y era uno y dice, hasta, ¿cuál es la larga que llegas? Dice, yo me acuerdo. muzika desde el que nací. No, no, no, pero está bueno ese es el punto."
+"startMs": 186160,
+"endMs": 194700,
+"text": "Entonces, mi meile, si uno ve'emet, ve'emet, ve'emet, te va a enseñar la verdad. Entonces- O sea, entonces aná puede llegar después que entiendes."
 },
 {
-"startMs": 530000,
-"endMs": 531000,
-"speaker": "אופיר סגל",
-"text": "Llega un, llega el."
+"startMs": 195000,
+"endMs": 203300,
+"text": "O sea, una aná que no llega así- Ese no es verdad. No es una aná al cien por cien, no es- No es la, no es la verdad de la aná, no es la verdad de la aná."
 },
 {
-"startMs": 531000,
-"endMs": 560000,
-"speaker": "Speaker 2",
-"text": "Otro y dice no, tú te acuerdas de lo klon. Llega el siguiente dice, yo me acuerdo de que estaba en la pansa en la mama. Mhm. El otro dice, ¿Qué? Yo me acuerdo desde eh, desde que entró el garin del Zera. Dice, no, yo estoy cuando al lado de Machabato. Cuando ella es Mozaramed, lo abrí en el Banaltania."
+"startMs": 203320,
+"endMs": 209440,
+"text": "Es como cuando no te, cuando no reconoces lo que eres y eres aná. Eso es nada más una persona que está boset de caja."
 },
 {
-"startMs": 560000,
-"endMs": 590000,
-"speaker": "אופיר סגל",
-"text": "Es que el tiene un nivel de conciencia aki de antes de Briatobalón. Eso no es Afar Bef, es Benajmo. Abraham vino es Afar Bef. Está, está, está, como el museo es más sano. Pero entonces, museo rape no es una antes del de la faro ese. ¿Quién? ¿Quién soy yo? ¿Quién ha sacado el producto? Acá el rojo es el que me. Acá los rojos quiso le diga a los."
+"startMs": 209480,
+"endMs": 218600,
+"text": "Mmm. Un siflut, un... tiene, tiene la prueba de autoestima, vida. ¿Por qué? ¿Por qué aná, kiluman? ¿Por qué? Abraham dice: «¿Sabes por qué aná?» Porque de verdad yo-"
 },
 {
-"startMs": 590000,
-"endMs": 622000,
-"speaker": "אופיר סגל",
-"text": "Por eso me creo. ¿Me explico? Entonces si te estás quejando, no, no más si te quejas conmigo, te estás quejando con o sea, yo. Cuando estás hablando conmigo, ve. Te ***** conmigo, te estás ******* conocer. En verdad es mejor para cualquier Iudi. Mejor, mejor para cualquier Iudi. Nada más que Mosora. Bueno, él trae ese estado de conciencia del mundo. Claro, claro. Él trae mamaches de mundo del mundo. Por acá, está en Ojeida Faro a Efe, justamente el afar es el makon. El afar es el makon. Entonces mi mail, la navada de Abraham vino, es esta tfizada."
+"startMs": 219860,
+"endMs": 229420,
+"text": "Exactamente. Yo, yo aquí existo porque Hakadosh Baruch Hu me está dando existencia. Entonces, eso es el inian de makom. Pero el inian de makom, para convertirlo en un makom así,"
 },
 {
-"startMs": 622000,
-"endMs": 624000,
-"speaker": "Speaker 2",
-"text": "Ah, el afar es el lugar, es el mismo lugar."
+"startMs": 230680,
+"endMs": 232380,
+"text": "para convertir el makom que ese es el makom,"
 },
 {
-"startMs": 624000,
-"endMs": 632000,
-"speaker": "אופיר סגל",
-"text": "Yo, bien, se me soy afar. Jobetzem no existo. Ya lo he dicho muchas veces lo de."
+"startMs": 233760,
+"endMs": 247840,
+"text": "necesitas letfilá. Ni cómo eres. El masal de la tefilá, pirush haShol Bar, si tú me dices tefilá de makom kavua, pareces como alguien que yo existo, estoy bien, anímate, ¿sí?"
 },
 {
-"startMs": 632000,
-"endMs": 639000,
-"speaker": "Speaker 2",
-"text": "Abraham Luche, ya me acuerdo. Entonces."
+"startMs": 248380,
+"endMs": 256140,
+"text": "Y Hakadosh Baruch Hu me da. O sea, que no en un makom kavua, estoy hablando del ideal. Pero ahí que necesitas representarse el ideal en el mundo físico."
 },
 {
-"startMs": 639000,
-"endMs": 662000,
-"speaker": "אופיר סגל",
-"text": "Entonces mi mele es \"Eihanab eihasid\" y ya que él tiene makom, kawa, mi mele, su makom, el gyotserbetzem ese makom, ese makom lo está esperando siempre. Es la mejor aki del hilush que cuando se mueve, me ahora."
+"startMs": 256459,
+"endMs": 265560,
+"text": "Pero el que no tofés la, la, el malaj de me como yo lo veo, pirush haShol Bar que aquí hay dos. Estoy yo, está She, yo sé que Hashem proporciona las cosas, pero aquí estoy yo."
 },
 {
-"startMs": 662000,
-"endMs": 671000,
-"speaker": "Speaker 2",
-"text": "Por qué lo que hablan vestro? Porque aki también te va a ser heladas. Dime, métate, metas la fila, que es la fila."
+"startMs": 266780,
+"endMs": 276140,
+"text": "Yo le pido, ¿me explico? Entonces, acá la dargá de tefilá es llegar a este masal donde entras a este, a este, a este lugar que se llama makom."
 },
 {
-"startMs": 671000,
-"endMs": 674000,
-"speaker": "אופיר סגל",
-"text": "Todo lo que yo hago es porque Ashem me lo está dando."
+"startMs": 277260,
+"endMs": 286560,
+"text": "Entonces, tú me dices que tu makom es Hakadosh Baruch Hu. Eso, mi meile. Tú me entiendes, mi naam es Hakadosh Baruch Hu matsuy bevet hakneset."
 },
 {
-"startMs": 674000,
+"startMs": 287000,
+"endMs": 304500,
+"text": "Tú me dices, be'etzem él está antes. Be'etzem Hakadosh Baruch Hu be'etzem está antes. Entonces, entonces el que kovea makom letfilató, pirush haShol Bar, que él está agarrando y no nada más el mitpalel, sino que hace que el makom sea makom letfilá."
+},
+{
+"startMs": 306180,
+"endMs": 312720,
+"text": "No nada más a mi mitpalel, sino todo el makom, ¿sí?"
+},
+{
+"startMs": 312800,
+"endMs": 319600,
+"text": "Está en un estado de tefilá. Pero, pero, ¿por qué el makom? No lo he entendido al cien por ciento. Puede ser una persona de kivyut."
+},
+{
+"startMs": 319820,
+"endMs": 326900,
+"text": "Hay kivyut, que a mí me dice: «Ere talui, ve niklu, ve nisdé». Y hay en el lugar, ¿qué me importa en el mismo lugar?"
+},
+{
+"startMs": 327140,
+"endMs": 339020,
+"text": "No, que necesitas ve'emet hacer que, que, que tu tefilá no es kilo a ti. Ela es be'etzem es, es una tzizá de que todo tu makom es tefilá."
+},
+{
+"startMs": 339640,
+"endMs": 349420,
+"text": "No nada más yo pido tefilá, sino todo mi kiun, todo mi kiun, todo mi makom, todo mi lugar donde estoy, neefaj liotbef de shetefilá."
+},
+{
+"startMs": 349680,
+"endMs": 356300,
+"text": "Entonces, neefaj liotun lugar que está cargado por medio de Hakadosh Baruch Hu. Entonces, si yo no tengo un makom kavua, pirush haShol Bar, es como si..."
+},
+{
+"startMs": 357060,
+"endMs": 391980,
+"text": "Mira, anímate, anímate por las cosas que hay alrededor Cuando Cuando yo existo, Hashem existe, Hashem"
+},
+{
+"startMs": 391980,
+"endMs": 399780,
+"text": "me da. ¿Por qué te da? A ver, me creo, pues que él me mande, ¿no? De alguna manera, sí, o me merezco, hice, más o menos."
+},
+{
+"startMs": 400320,
+"endMs": 407640,
+"text": "Pero acá, cuando estás hablando de, de-- estás hablando de que no te estás viendo a ti existente."
+},
+{
+"startMs": 408720,
+"endMs": 416800,
+"text": "Estás, estás hablando de tu existencia en sí, de tu, de tu makom, de la causa de tu existencia. Lo que mantiene en general el hecho de que yo existo."
+},
+{
+"startMs": 416820,
+"endMs": 418260,
+"text": "No de mi existencia misma, ¿me explico?"
+},
+{
+"startMs": 419600,
+"endMs": 424780,
+"text": "No la mantán. Estamos hablando en realidad del principio de mi existencia."
+},
+{
+"startMs": 426120,
+"endMs": 432400,
+"text": "Yo solo existo porque tú me das el lugar. Entonces, esa, esa tfilá es una tfilá calculada de que Hashem está haciendo jasid contigo."
+},
+{
+"startMs": 433060,
+"endMs": 436360,
+"text": "Porque en realidad, en realidad te ves existiendo"
+},
+{
+"startMs": 438120,
+"endMs": 445620,
+"text": "solamente porque Hakadosh Baruj Hu antes de que tú existas, ya quiso que existas. Entonces, ¿con quién hizo el jasid? ¿Con quién hay para ser así?"
+},
+{
+"startMs": 446100,
+"endMs": 458580,
+"text": "No hay ni siquiera con quién. ¿Me explico? Cuando llegas a la darjá de que la tfilá no, no la dejas en el rovel de, de chitzonit, sino la bajas al, al lugar de que en realidad el, el makom se convierte en tfilá."
+},
+{
+"startMs": 459000,
+"endMs": 465140,
+"text": "Es decir, que tú tomas la darjá esta que se llama makom shel olam. Entonces, de repente eso se llama anav, se llama jasid."
+},
+{
+"startMs": 465180,
+"endMs": 472500,
+"text": "Por eso dice... Dijo que tiene supremacía."
+},
+{
+"startMs": 472540,
+"endMs": 474720,
+"text": "Mira, los bleters."
+},
+{
+"startMs": 476540,
+"endMs": 482700,
+"text": "Entonces, ahí, ahí ya se abre el hot kaviah. Ajá. ¿Micha va a estar aquí o abajo?"
+},
+{
+"startMs": 482980,
+"endMs": 489360,
+"text": "No. ¿Será que está aquí, no? Ayer no estaba, no."
+},
+{
+"startMs": 489420,
+"endMs": 499140,
+"text": "Y varios días no está. Ya, ya que está acá. ¿Que ahí va a bajar?"
+},
+{
+"startMs": 503180,
+"endMs": 503960,
+"text": "No, ves, ves,"
+},
+{
+"startMs": 505880,
+"endMs": 515520,
+"text": "ves. Entonces, este, está Avraham Avinu, está Itzjak, están todos. Creo que un Abraham es el que empieza a decir, porque están enojados y cada quien dice su mala, hasta que llega Abraham y dice: «Yo soy el más»."
+},
+{
+"startMs": 517120,
+"endMs": 527240,
+"text": "Entonces, dice: «Yo me acuerdo», y llega un dice: «¿Cuál es la darjá que eras?» «Yo me acuerdo, tengo este karon desde el-- desde el momento que nací»."
+},
+{
+"startMs": 528200,
+"endMs": 535100,
+"text": "A veces te, te-- a veces te dan un poquillo. No, no, no, pero está bueno. Llega un, llega un, llega el otro y dice: «No, tú te acuerdas de que...» De lo clum."
+},
+{
+"startMs": 535380,
+"endMs": 544080,
+"text": "Llega el siguiente y dice: «Yo me acuerdo desde que estaba en la panza de la mamá». El otro dice: «¿Qué? Yo me acuerdo desde, eh, desde que entró el garín del zera»."
+},
+{
+"startMs": 544760,
+"endMs": 552160,
+"text": "Dice: «No, yo estoy cuando alave machshavató, cuando Hakadosh Baruj Hu...» Alave machsavá. Alave machsavá Israel, dice."
+},
+{
+"startMs": 552260,
+"endMs": 558940,
+"text": "Entonces, dice: «La darjá más grande». Y tú, man, y qué sabe Avraham Avinu. Lo que es Moshe Rabenu."
+},
+{
+"startMs": 559020,
+"endMs": 566220,
+"text": "Moshe Rabenu, lo abrí en el Ban Dania, es que tiene una-- nivel de conciencia, ki bejavo, de antes de Briát Ha'olam."
+},
+{
+"startMs": 566800,
+"endMs": 575040,
+"text": "Esto no es afar vá'efer, es venaj nú. Abraham vino es afar vá'efer. Afar vá'efer, eso te trae anavá. Está, está-- Como Moshe es más anavá."
+},
+{
+"startMs": 575640,
+"endMs": 582400,
+"text": "Entonces, Moshe Rabenu es una darjá antes del, del, del, de la afar vá'efer. ¿Quién, quién soy yo?"
+},
+{
+"startMs": 582400,
+"endMs": 589740,
+"text": "¿Quién es Hakadosh Baruj Hu? Entonces, me dice: «Hakadosh, Hakadosh Baruj Hu es el que me... Hakadosh Baruj Hu quiso de Itgalut»."
+},
+{
+"startMs": 591120,
+"endMs": 601940,
+"text": "Por eso me creo. ¿Me explico? Entonces, si te estás quej-- venaj nú más, si te quejas con-- si te estás quejando con Hashem, yo-- cuando estás hablando conmigo, en realidad, si te quejas conmigo, en realidad te estás quejando con Hashem."
+},
+{
+"startMs": 602300,
+"endMs": 608720,
+"text": "En realidad, es mejor para cualquier judío. Mejor, mejor para cualquier judío. Nada más que Moshe Rabenu, él trae ese estado de conciencia al mundo. Ah, claro."
+},
+{
+"startMs": 609120,
+"endMs": 615720,
+"text": "Él trae ממש ese mudado al mundo. Pero acá, esta noje afar vá'efer, entonces, justamente el afar es el makom."
+},
+{
+"startMs": 616520,
+"endMs": 624160,
+"text": "Creo que... El afar es el makom. Entonces, de repente la, la anavá de Abraham Avinu es, es esta tfilá. Ah, el afar es el lugar, es el makom."
+},
+{
+"startMs": 624160,
+"endMs": 632220,
+"text": "El lugar, exactamente. Yo en realidad soy afar. Yo en realidad no existo. Sí, sí. Yo, ani tofét et atzmi mitoj, ki bejaol."
+},
+{
+"startMs": 632640,
+"endMs": 639960,
+"text": "Ya lo dije muchas veces lo de Abraham y Moshe, ya me acuerdo. Sí. Dania lo dije muchas veces. Sí, apenas lo dije."
+},
+{
+"startMs": 640020,
+"endMs": 653760,
+"text": "Entonces, entonces, de repente es, es ei anav, ei jasid, ya que él tiene makom kavua, de repente, su makom, el que observa en realidad ese makom, ese makom en realidad lo está esperando siempre."
+},
+{
+"startMs": 654720,
+"endMs": 660900,
+"text": "A Filipo no se murió. Sí, a Filipo no se murió. Esa es la mejor aquí del, del hidush, que cuando se muere me..."
+},
+{
+"startMs": 661400,
+"endMs": 668160,
+"text": "Ahora, ¿por qué lo que Abraham besró? ¿Por qué Hakadosh Baruj Hu besró? Porque ki bejudí matam itbatel el av hazz-- un..."
+},
+{
+"startMs": 668400,
+"endMs": 676040,
+"text": "Sí. Im beemét, porque... Es la tfilá, es la tfilá. Todo lo que yo hago es porque Hashem me lo está dando. Primero Hakadosh Baruj Hu te dice: «Ah, entonces, yo soy el que te ayudo, pues órale, yo te ayudo»."
+},
+{
+"startMs": 676080,
 "endMs": 684000,
-"speaker": "Speaker 2",
-"text": "Entonces yo soy el que te ayudo, pues órale, yo te ayudo. Si tú no eres una, soy yo. Dame la batuta de men. Yo te ayudo."
+"text": "Si tú no eres tú nada, soy yo. De repente lo que Abraham... Dice, dice: «Te dejo, dice Hashem, dame la batuta de mí, yo te ayudo»."
 },
 {
-"startMs": 684000,
-"endMs": 715000,
-"speaker": "אופיר סגל",
-"text": "Claro. Para eso necesitas esta alargada de Anaba. Soleimito de allá, vamos a entender un poquito qué pasó con Binhas y cuál es la diferencia entre Abraham y Binhas, porque Abraham justamente con Sdom, Abraham justamente con Sdom, no pidió Virginat Makov, se iba a destruir un Makov, y Abraham, si es Sdom se llama, y yo por la gente, tú dices. No, no."
+"startMs": 684560,
+"endMs": 690740,
+"text": "Claro. Pero ahora te parece que tú te... Para eso necesitas esta darjá de anavá. Para eso necesitas esta darjá de anavá."
 },
 {
-"startMs": 715000,
-"endMs": 759000,
-"speaker": "אופיר סגל",
-"text": "Ulaide también por la gente. No, no, no. Pero el de Hut de la gente. El de Hut, exactamente, pero el de Hut de la gente. Y luego acá, porque la shela es porque Abraham no pidió un Tikkun mi bhinat makun. No un Tikkun mi bhinat del Hut de la gente. Un Tikkun mi bhinat makun. Entonces, ¿por qué la hermana no aprendió Ulaide? Abraham no vino antes, que el amakoma ser amat cham necesitamos de pinjas. ¿En la Maconda se llama Sam, quién te dijo que amidades fila? Pues a Abraham, cuál que amada qué a pedirle a tu casa, porque salva esto, pero acá ahí Abraham no pidió mi original a tu marco, ahora el pidió mi original a ver si hay oye, hay tzatiqui."
+"startMs": 691220,
+"endMs": 699500,
+"text": "Entonces, de repente podemos entender un poquito qué pasó con Pinjas y cuál es la diferencia entre Abraham y Pinjas. Porque Abraham, justamente con Sodom,"
 },
 {
-"startMs": 759000,
-"endMs": 798000,
-"speaker": "אופיר סגל",
-"text": "Hay que entender acá qué pasó en Pinhas, que Pinhas, la original de Macon y mi mail es que también Abraham vino y es Macon. Y Pinhas es el Tikkun de Amoni Moav, se ve que de alguna manera Ulay lo que, la abamina, el Helik de Abraham, Not Filah, eso es lo que creó Ulay de alguna manera problema ahí con Not Moav y Pinhastiken es de Hasmin Mele y que también la vagina de la fila esta de Abraham, hay que entender ahorita."
+"startMs": 700960,
+"endMs": 704080,
+"text": "Abraham justamente con Sodom no, no pidió"
 },
 {
-"startMs": 798000,
-"endMs": 806000,
-"speaker": "Speaker 2",
-"text": "Yo le estoy sano, me está curando porque sin él estaría enfermo. O sea, más que Kibbud Bakom, está bueno entender como Kibbud Stam."
+"startMs": 705320,
+"endMs": 711660,
+"text": "birjinat makom. Se iba a destruir un makom y Abraham dice: «Sodom se llama makom»."
 },
 {
-"startMs": 806000,
-"endMs": 815000,
-"speaker": "אופיר סגל",
-"text": "no cuando estoy be'tzara que pikaron y también una maala cuando hay be'tzara y pues el d'oraita lo que quieras."
+"startMs": 711700,
+"endMs": 718580,
+"text": "Pidió por la gente, tú dices. No, no. ¿Por qué? De repente también por la gente. No, no, no, pidió por la zejut de la gente, el makom."
 },
 {
-"startMs": 815000,
-"endMs": 822000,
-"speaker": "Speaker 2",
-"text": "Ah. Pero el siempre te dice desde si estoy sano si estoy enfermo. Siempre es lo mismo. Siempre anita todo su arrojo."
+"startMs": 718600,
+"endMs": 726748,
+"text": "Por el zejut, exactamente, por el zejut de la gente. Y luego acá, porque-- la pregunta es: ¿por qué Abraham no pidió? Un tikún mimjinat makom."
 },
 {
-"startMs": 822000,
-"endMs": 826000,
-"speaker": "אופיר סגל",
-"text": "Es aki a un matado de cagua. Vas mi mil, el cagua, vete más."
+"startMs": 727788,
+"endMs": 736948,
+"text": "Un min-- no un tikún mimjinat el zjut de la gente, un tikún mimjinat makom. Entonces, ¿por qué la hermana no aprendió de Abraham Avinu antes?"
 },
 {
-"startMs": 826000,
-"endMs": 840000,
-"speaker": "Speaker 2",
-"text": "Estás hablando como el brian del kach ahorita. El vienal que es el que pasa, lo que estudias tiene que ver con Betul hi con eso."
+"startMs": 737648,
+"endMs": 744548,
+"text": "Que el haMakom asher amat sham, necesitamos a Pinjas. El haMakom asher amat sham, ¿quién dijo que amida es tefilá?"
 },
 {
-"startMs": 840000,
-"endMs": 871000,
-"speaker": "אופיר סגל",
-"text": "Exactamente. Entonces, pero esta es la área de Cruet Makom, Cruet Makom, Peru Sho. Es que es grababilti, exac. Ya está, hia está. Cute Makom, Peru Sho es este. Es esta larga donde. Donde uno ve este, ¿me entiende? No que. El tos af de su khiumer, o cuando falta khiun makom rojo se lo da, sino etz makom, un ukahiam alakado rojo."
+"startMs": 745048,
+"endMs": 752568,
+"text": "Abraham, ¿cual-- qué amada qué? A pedirle a Dios que salve a Lot. Ahí Abraham no pidió mimjinat makom hasta ahora."
 },
 {
-"startMs": 871000,
-"endMs": 901000,
-"speaker": "אופיר סגל",
-"text": "Eso se llama. ¿Quieres ver un maara de aquí un makon? ¿Hace mucho lo vi? Tenemos una favorita de mar. Nitiva o da, si no me equivoco, no me acuerdo que pedir. Dale. Es que no sé si es dale. Tú boscas netiva a avoda, dale. Ahí está, si?"
+"startMs": 753148,
+"endMs": 759768,
+"text": "Él pidió mimjinat-- a ver si, si hay, oye, hay tzadikím, hay tzadikím."
 },
 {
-"startMs": 901000,
-"endMs": 915000,
-"speaker": "אופיר סגל",
-"text": "Ahí está. Ya, el principito. No es kilo pitón. Eso es mucho que tiene que ver con lo que tú dijiste."
+"startMs": 760868,
+"endMs": 771148,
+"text": "Hay que entender acá qué pasó en Pinjas, que Pinjas sí kilá la mjina de Makom y mimél em, yo sé le mafrá, que también Abraham Avinu ahí es Makom."
 },
 {
-"startMs": 915000,
-"endMs": 916000,
-"speaker": "Speaker 2",
-"text": "¿Cómo estohi hio."
+"startMs": 771148,
+"endMs": 781148,
+"text": "¿Ves que Pinjas y Abraham son kshurím? Porque Abraham salvó a Lot, a Amón y Moab, y, y Pinjas es el tikún de Amón y Moab."
 },
 {
-"startMs": 916000,
-"endMs": 920000,
-"speaker": "אופיר סגל",
-"text": "Kilo, me siento mal. Eso se'aría fila biltiak view."
+"startMs": 781508,
+"endMs": 797368,
+"text": "Se ve que de alguna manera, ulay lo que-- el ha-avamina, que la, el jelig de Abraham no es tefilá, eso es lo que creó, ulay, en alguna manera, problema ahí con Lot, Moab y Pinjas tikén etze, pero mimél em niskan también la mjina de la, la tefilá esta de Abraham, hay que entender ahorita."
 },
 {
-"startMs": 920000,
-"endMs": 932000,
-"speaker": "Speaker 2",
-"text": "Pero también hahi una mala en eso. Que sepamos. Tengo un gisaron. Yo sé que el único que puedo decir. Esa es una alga, pero una alga más arriba, hio creo, es a filo Sheluetza."
+"startMs": 798828,
+"endMs": 805628,
+"text": "Estoy sano, Hashem me está curando, porque si no estaría enfermo ahora. O sea, más que kviut makom, está bueno entenderlo como kviut, tam."
 },
 {
-"startMs": 932000,
-"endMs": 935000,
-"speaker": "Speaker 2",
-"text": "Esta es una alga todavía más arriba."
+"startMs": 806368,
+"endMs": 814348,
+"text": "Que lo-- no s-- no, no recaí mitpalel cuando estoy bet sará. Que picarón ahí también una mala, cuando hay bet sará, ya después el doraita lo que quieras."
 },
 {
-"startMs": 935000,
-"endMs": 977000,
-"speaker": "אופיר סגל",
-"text": "No, pero cada fila tiene que se'ar así, que siempre piensan en refaenu por refuah aunque esté sano. Porque, o sea, verdad que hahi otros hiudín enfermos, pero estás perdiendo, estás pidiendo también por todos los hiudín, pero también lo sano. Porque Be'etzem, lo que uno está sano es porque acá el brujo está haciendo que estemos sanos hi si no, estaríamos enfermos. Entonces si estamos sanos, entonces acá el brujo no está haciendo sanos. Entonces Be'etzem siempre estamos enfermos hi acá el brujo no está sanando. Es tipo de la energía de Farvaafr, me explico. O sea, Be'etzem, hio sohi de Farvaafr hi si no sohi de Farvaafr, que acá el brujo me está dando Be'etzem, Guedi, Mazamo, Bazar, Jojmatzav, Biná, Daat, Refuah, etcétera, está dando todo."
+"startMs": 815188,
+"endMs": 822268,
+"text": "Pero el itpalel siempre te dice, si estoy sano, si estoy enfermo, siempre es lo mismo. Siempre anita, limita todo su alujá."
 },
 {
-"startMs": 977000,
-"endMs": 979000,
-"speaker": "אופיר סגל",
-"text": "Entonces dice \"Ke'atfila u Adevekut\"."
+"startMs": 822508,
+"endMs": 830008,
+"text": "Hace aquí un matav de kabua. Pues mimél el kabua, ¿este qué hace? Estás hablando como el Bien del Quejá ahorita."
 },
 {
-"startMs": 979000,
-"endMs": 987000,
-"speaker": "Speaker 2",
-"text": "Es muhi diferente que la mesión a avod dice \"elta zetzfletzak kebaratakhanonem\" Como que un poquito no va con lo que estamos hablando, con el concepto."
+"startMs": 830688,
+"endMs": 838148,
+"text": "Estás muy mushpá. Be kitzur, el Bien del Quejar, ¿qué pasa? Lo que estudiaste, que con bitul y con eeeh, eso."
 },
 {
-"startMs": 987000,
-"endMs": 1019000,
-"speaker": "אופיר סגל",
-"text": "No, no, ahí. hahi que entender, ahí se refiere a Keba en un aspecto de Melumad. Sí, ahí es un aspecto de Melumad. Ahí mesmo hahi. unos meshionario tantes habla sobre. sobre el Darga de de Krhiut, de que Tutzwila sea. Porque una mesionera antes ahí habla sobre que siempre tienes que verse. ¿Qué es?"
+"startMs": 839188,
+"endMs": 841508,
+"text": "Exactamente. No, es la mitad."
 },
 {
-"startMs": 1019000,
-"endMs": 1060000,
-"speaker": "אופיר סגל",
-"text": "¿Por qué en Jerusalem mi mites larga? El que estaba en Jerusalem estaba en esa en esa directaminte. Que estaba en estaba en esa hio qué mi está aquí cargando acá el rojo, el macum no mi está cargando, el que mi está cargando vete mi está quedado el rojo. Entonces eso dar en tus mimilchamahe, siempre que tienes que ir a Kavan hi dibojar la makom, pues tranquilo geográficaminte, o sea, también lo puedes voltear al otro lado hi entonces entonces tienes que estar jugando físicaminte hacia eso, pero no es nada más el Kavan físicaminte, es que estás ahí."
+"startMs": 843888,
+"endMs": 849928,
+"text": "Entonces, pero esta es, esta es la verdad de kiut makom. Kiut makom pirushó... ¿Quieres grabarle el sak?"
 },
 {
-"startMs": 1060000,
-"endMs": 1107000,
-"speaker": "אופיר סגל",
-"text": "entonces ahí están las dos que no por se'ar kavua, entonces mismo las hagas que va, necesita se'ar tachanunim porque si entiendes behemit que es kavua ¿Qué es makom? Entonces mi mail le vas a entender que la chula beetzem es tachanunim. ¿Eh? Entonces dice. Kia tfela et filau at vekut ve'od Baruj She da mi tapekut fila to ve'od Baruj wimatzav vekut azehi be mikrebil van. En un keshe devekutklal, ki kol mikreu le mano le have not midi. aval davar ze no bo mi kri. Cheno mi cri ut midi, le kach wichi hi advecutas de solo mi cri, claro, maldeva, dar así, va, makom, lit filato, mi nanki viuta, makom, lit fila, mi peneki viuta, makom more, se nat fila, se love, mi cree, que a mi cree en lo que cuando tú estás un día aquí hi un día allá, un día así, un día sábado, un día a las ocho, un día a las siete, ¿Sí?"
+"startMs": 850648,
+"endMs": 854708,
+"text": "Ya está. Kiut, kiut makom pirushó es esta, es este,"
 },
 {
-"startMs": 1107000,
-"endMs": 1143000,
-"speaker": "אופיר סגל",
-"text": "Entonces vete la fila de esquilo, ve mi cree, no la fila mi está esperando, sino hio, diario a ver, a ver que, si hahi un makunkavua pero eso que hahi citantes, mi explico que hahi un matzavao de. hi lo estohi hiendo a un matzavao kavua. Que a mi creen lo que vi, bien hio sepa, mijor como sé, pa, bien como sé, ager. De a ver, de lo que vi, claro, ve endedevekut beetzen, rakmi mi cree cara. Upere, como dibra, jota, morro, que lo que Abraham ve'ezro, dice que se mita hombre, no hahi nave hi jazin."
+"startMs": 856168,
+"endMs": 857608,
+"text": "es esta largá dondeee,"
 },
 {
-"startMs": 1143000,
-"endMs": 1173000,
-"speaker": "אופיר סגל",
-"text": "Dice, \"Ama rape con mesmo refiero a alcohol, o Ivan no flim le panav\". No se si esta aquí en el MSheh, hio creo que si esta en el MSheh. Entonces dice, \"She nehimar ve'samti samti makom le a me Israel, un enetativ. Es Shechen tachat, hi hio, el velo hi o si flu bilti hablanah, no todo que hacer rehiona. Entonces, este paso que esta en infla. Les amti makom la mesa es un netativ. Te conviertes en netiyah, netiyah pero hio saldaban que estas conectado al mejor."
+"startMs": 858868,
+"endMs": 870768,
+"text": "donde uno, be etzem, entiende, no que el tosef de su kiun, o cuando falta kiun, Hakadosh Baruj Hu se lo da, sino etzem haKiun, un, un kayam al Hakadosh Baruj Hu."
 },
 {
-"startMs": 1173000,
-"endMs": 1227000,
-"speaker": "אופיר סגל",
-"text": "El que no tiene makomn, un árbol que no tiene makomn, sí, es maceta, aquí mejor, no, no, necesita estar veten conectado al al mejor del gibos, eso se llama que a Misael, tienen la larga de netiyah, netihiah, ak'tiv. Abraham, allá, como va makomn leche pila todo. hi barajimo también me bliazaraklalr va a devek que es que todo melchamah jamás genaita lo que me vohi va a me deshena aitabezro sí Abraham avinu hi agarras ganaba because sí me princesa llama que vamos con la torre esto no nada más se pilato u a tv cuchelo bo hi baraj, boeno, me cre, tome tudvekut, aquí sí que se llama tú tienes que tener que conocer."
+"startMs": 871028,
+"endMs": 877148,
+"text": "¿Quieres ver un Mehamar de kiut makom? Hace mucho lo vi."
 },
 {
-"startMs": 1227000,
-"endMs": 1258000,
-"speaker": "אופיר סגל",
-"text": "Pero el que el devekut sea Bigfiut hi no mi cree, va a haber subikfiut, el lo estará klal, af jami cree, shen mi cree, matzav mi'od o que neged da'at hief, se'ar hi'hieh Adam, josek mi tokef, se lo vohi a hacer a devekut. Si, le le'fi Marakatu, no tomar ezkilu, quien dijo que ahorita haber devekut? Porque hio Bigfiut tengo devekut, entonces también cuando ahorita estohi en un matzavzav, no era ve hio, hio siempre tengo devekut, después que jamara que tuvo al Abraham, ne'um, Hashem, la Adoni, Shev hi le'mini. ad de ohiev, do una relija."
+"startMs": 880088,
+"endMs": 886128,
+"text": "Tenemos javrutá de Mehamar. Netiv Haavodah, si no me equivoco, no me acuerdo qué página."
 },
 {
-"startMs": 1258000,
-"endMs": 1267000,
-"speaker": "אופיר סגל",
-"text": "klomar, quimitzade tu vecutas de ella hi Abraham da vek, porit baraj, hi eso lo lecheba, hia diminis, que berit vekut, como se, si lo lleve al hia diminio, ven non esa clase."
+"startMs": 886208,
+"endMs": 886628,
+"text": "Dale."
 },
 {
-"startMs": 1267000,
-"endMs": 1269000,
-"speaker": "Speaker 2",
-"text": "Lo que ve vestró."
+"startMs": 893148,
+"endMs": 894368,
+"text": "Es que no sé si es dale."
 },
 {
-"startMs": 1269000,
-"endMs": 1303000,
-"speaker": "אופיר סגל",
-"text": "Pues de lo que habrá vestró. Lo que dice, nada, madre galle unas dot, que es el que vemos con leche la tot, esto ha la tátula viende ovejas de alamuki. y mitza damakom sukova amakom iuhadlit fi la tom, moréish ishlo makom etzel ashem idwaraa, ahí está. no está el rekud betzurak oa, sino que tu me comes ashem, hubo davarse a ya me iuhad Abraham, kiju ayatra la el kholahola lo primero que tienes que descubrir es."
+"startMs": 896088,
+"endMs": 899668,
+"text": "Tú busca, Netiv Haavodah, dale, así. Ahí sí. Ahí está, sí."
 },
 {
-"startMs": 1303000,
-"endMs": 1331000,
-"speaker": "אופיר סגל",
-"text": "no ashem a ti es. Etzem no tiene nada que yo tú mismo, si exactamente, si no estás descubriendo a Shem, si tú descubres que Ashem está en el Shamai, algún día creó el mundo en el pasado. ¿Desde dónde creas Shem? Piruso es encontrar el Balabai del mundo, el que Wama como es la Ola, entonces el primero es lo que te decía antes, no existe empezar a hacer el Keshe."
+"startMs": 902068,
+"endMs": 902848,
+"text": "Ya, al principito."
 },
 {
-"startMs": 1331000,
-"endMs": 1355000,
-"speaker": "Speaker 2",
-"text": "A mi ti, si no tienes la fiesta de esta de Marco, si te ves a ti ya existente y luego, no es algo que no es una mala que podría hacer en otras cosas también para tú pedirte fila, tú no puedes la gueshet a una, o sea, no puedes tú la gueshet a alguien sin saber quién es, o sea, tú ahorita vas a estar."
+"startMs": 904308,
+"endMs": 913808,
+"text": "Mishlemot hatefilá, shelo tejet filató be mikré cara. No es kilo, pitom, eso, eso es mucho que tiene que ver con lo que tú dijiste."
 },
 {
-"startMs": 1355000,
-"endMs": 1390000,
-"speaker": "אופיר סגל",
-"text": "Esa nojia faro, esa nojia faro, lo que hablamos. Yo sin ti, ¿qué pasa? Ya no voy a tener que impedirle, le voy a pedir, le voy a pedir trabajo a este, le voy a pedir, este el otro, no existo, no hay. Si quieren ambrubis, vile Abraham, ni braa Olam, vaya como aicar su adjalaverrison, veicar, se dije la Makom, ve aicar, se dije la Makom, le fija Abraham Shayad, jalala Olam."
+"startMs": 914208,
+"endMs": 920348,
+"text": "Sentimientos, ¿cómo estoy yo hoy? Kilo, me siento mal, pido tefilá. Eso sería tefilá blikviut."
 },
 {
-"startMs": 1390000,
-"endMs": 1422000,
-"speaker": "אופיר סגל",
-"text": "Es lo más como hijo desde la señora de ahora, como es lo que habrá Bedro, desde aquí cuando a ver si es lo más como un hazak, tiene que un fuerte, si, alguien que no tiene Macom, no tiene que un fuerte, un homeless, no tiene Macom. Me explico, entonces no tiene un que un fuerte, alguien que no está en un lugar bien caboa, entonces X en el Cris, el que el que viene y no viene, no puede ser el del Cris. ¿Quién es el del Cris? El que tiene Makunkawa."
+"startMs": 920388,
+"endMs": 927468,
+"text": "Pero también hay una, también hay una mala en eso, que sepamos. Tengo un, tengo un jizarón, yo sé que, que lo único que puede es limot ju daKadosh Baruj Hu."
 },
 {
-"startMs": 1422000,
-"endMs": 1453000,
-"speaker": "אופיר סגל",
-"text": "¿Quién es el Hazak aquí? El que tiene Makunkawa. ¿Quién es el Hazak en el mundo? El que ve tiene Makunkawa. Dice este es la causa rojo. Shu, como ilanche, los sores, natua. Bien makomme hadas. Shekola rojot va ote, necesito tomen como esa es la fuerza. Esto ya se nos relaciona directamente con la tzilín. Si, bien, tzuro asheriek sebo. Como dijimos, Otlamuite. Y el otfini, ¿cuerza?"
+"startMs": 927808,
+"endMs": 934308,
+"text": "Esa es una largá, pero una largá más arriba, yo creo, es a filó shelo jetzá. Claro. Es una largá todavía más arriba."
 },
 {
-"startMs": 1453000,
-"endMs": 1507000,
-"speaker": "אופיר סגל",
-"text": "Abraham, Rosbat jala la Olam, recargas la makomet el mi, aser hubat jalaela, vavkien, Adam, que se covea, makom litfila tou, ikarat jalaam, la Olam, como Abraham, Mikol Makom, neshav como a naf, yo termine ikar. Sí, entonces afilo que tú no eres Abraham avi, no? Abraham, Bethem, él es el que descubrió el Makom, entonces acá, No somos el Ilam, pero somos un te tienes que poner como una naf de Lilan. Cuando eres una naf de Lilan, pues tú también, tú Makom es el Makom de Lilan, pues que asher y es la Abraham, shu y karma, comet se lashemit verdad, kama, naf y es lo makom, que asher y a dominan."
+"startMs": 934568,
+"endMs": 947648,
+"text": "Sí. No, y cada fila tiene que ser así, que siempre pides en refaénu por refuá, aunque estés sano. Porque, o sea, patá que hay otros, eh, yehudím enfermos, pero be etzem estás perdiendo, estás pidiendo también por todos los yehudím, pero también los sanos."
 },
 {
-"startMs": 1507000,
-"endMs": 1545000,
-"speaker": "אופיר סגל",
-"text": "Etachero humakom. ¿Sí? Makommi no son kiu, como dijimos antes. Bedabars ditwero, veiotera mokmiten, ki bemmacha makomme y uja de la dabarshumakom long. La. El estuche de la guitarra es el makom de la guitarra. Entonces el estuche de la guitarra, Wetzem, es el makom de la guitarra. Entonces quiere decir, Wetzem, que el makom Mekayem al mitkayem. Como el mitkayem necesita Wetzem mitkayem. Entonces dice \"bembachsha makom iuha de la davarshu makomblo\" biencharchie makom, ejadme iuha de shnetvarim, ka seria dominiana makom se lou ichlal, daberecher y mo."
+"startMs": 948168,
+"endMs": 954868,
+"text": "Porque be etzem, lo que uno está sano es porque Hakadosh Baruj Hu está haciendo que estemos sanos, y si no estaríamos enfermos."
 },
 {
-"startMs": 1545000,
-"endMs": 1576000,
-"speaker": "אופיר סגל",
-"text": "\"Shekoldavari esh lo makom iuha\" Sí, cuando revuelves los mekomot, tú no puedes poner el violín en el estuche de guitarra, no ve que. Dice como cham brujas salen la jadavarse en lomakom, cada cosa, klomache, salirchie lecholdavar makom iuhatshu mekomo. Sí, por ejemplo, ¿cuál es tu makom en la jebra? ¿Cual es tu makome? Cada uno tiene otro makom. Cada uno beme tiene otro makom. Lo que cambia es de Yudi yudi, ve, échame es el makom que tiene. Si, me casero como me makome lechifilato, si mi barajo me como a mi barajo."
+"startMs": 955568,
+"endMs": 961628,
+"text": "Entonces, si estamos sanos, entonces Hakadosh Baruj Hu nos está haciendo sanos. Entonces, be etzem siempre estamos enfermos y Hakadosh Baruj Hu nos está sanando."
 },
 {
-"startMs": 1576000,
-"endMs": 1607000,
-"speaker": "אופיר סגל",
-"text": "Bien, como a mi barajo. Bien, mar, oh, cola, cola con lechifilato. Oh, Ivan no film, ¿por qué? Que mi chat es de cuta mi barajo, sería su mi barajo. Cheloso, mami spata makom, chumi you have. Beno makom lechnai, leka, joibav, shem, afkim with nak dime ella, no freem faga. Bedavar de Odamok. No, es que cada uno tiene makom yo ha. Hay otro hombre, cuál es? Mi pnejaledek viud makom, mit dabekle mala."
+"startMs": 962728,
+"endMs": 975248,
+"text": "Este es igual a la anojía Farbafer, ¿me explico? O sea, be etzem yo soy Farbafer, y si no soy Farbafer, va pirushot del Dabar, que Hakadosh Baruj Hu me está dando be etzem guidím, atzamot, basar, chojmá, biná, daat, refuá, etcétera."
 },
 {
-"startMs": 1607000,
-"endMs": 1638000,
-"speaker": "אופיר סגל",
-"text": "Leka jamar, yo tomar de acá, está diciendo algo impresionante. Cuando tú tienes que hut makom eche la shem, cuando uno tiene que escribir makom eche la shem, mi mail es el gufsu makom. El goof de la persona, su Makom es el mundo físico. Cuando se muere, Nick Manazibur, ya no tiene Makom. Pero el que dice, no. El Makom de mi goof es el que es brujo. Entonces mi meile, ¿quién? Mi Makom no es nada más para mi goof. Para la de Shama."
+"startMs": 975688,
+"endMs": 983007,
+"text": "Me está dando todo. Entonces, dice: ki hatefilá u atvekut- Suena diferente que la Mishna, la voz dice: esta es tefilá, tejal, qué va, la tajanomín."
 },
 {
-"startMs": 1638000,
-"endMs": 1669000,
-"speaker": "אופיר סגל",
-"text": "Y mi meile, el goof. Entonces cuando se muere, él no perdió su Makom. No está en el Kafakel. ¿Me explico? Kafakel la pirucha es una persona que subo no tiene Makom. Lado a lado, a lado, a lado. Y hay gente kafakela en el mundo, vivos, ¿no? No hay nada, tiene bares, caen. No tiene un makom, no puede estar en un lugar. Es un hombre, exactamente. Entonces hay una shamai, no hay kafakela."
+"startMs": 983728,
+"endMs": 992488,
+"text": "Como que un poquito no va con lo que estamos hablando, con el concepto. No, no, ahí hay que entender, ahí se refiere a qué va en un aspecto de melumod."
 },
 {
-"startMs": 1669000,
-"endMs": 1702000,
-"speaker": "אופיר סגל",
-"text": "Entonces vetemos acá, como en el que como en el mundo se está haciendo un makom en el shamai. Dice. \"Le caja marcheme tom brimlo, ei anav, ei jasid, mit al mirab se la Abraham\" Hola. ¿Qué? ¿Cómo estás? Dice. \"Quien usted mi dot eme, le o nota la kol, shaliedei\" \"Ste mi dot, mita bekle gamri, mashem mit Doraj, kasherit vaer benetiba anabá, aien sham\" Justamente esto tiene que ver con Anav. O sea, estas dos midots que son Anav y Jasid, van de la mano."
+"startMs": 993668,
+"endMs": 996588,
+"text": "Sí, ahí es un aspecto de melumod. Ahí mismo hay,"
 },
 {
-"startMs": 1702000,
-"endMs": 1733000,
-"speaker": "אופיר סגל",
-"text": "Sí, ser humilde. Y ser Hasid, o sea, ser Hasid viene de la mano porque el que es humilde, automáticamente le nace ser alguien que ayuda, que el que no es humilde, entonces se está viendo a sí mismo. Estamos viendo que aquí cómo una persona llega a la humildad, no llega a la humildad entendiendo que tu existencia es porque Hasid te la está dando. Y entonces, ¿por qué? Si tú te ves a ti mismo, ¿yo quién soy? ¿Yo quién soy? ¿Un fruto?"
+"startMs": 997988,
+"endMs": 1003028,
+"text": "hay, eh, unos mishnáot antes habla sobre, sobre largá de,"
 },
 {
-"startMs": 1733000,
-"endMs": 1766000,
-"speaker": "אופיר סגל",
-"text": "del Gesse de que Shun quiere hacer conmigo de que yo exista. Yo me veo, ¿yo qué eres? ¡Gesel! Entonces, automáticamente uno ya es humilde. Porque entiendes que tu lugar en el mundo es porque alguien quiere que tú estés. Y no nada más eso. Esa Nava te lleva a sentir amor. Y entonces amor lo quieres transmitir, lo transmites más allá. Porque no te vas existiendo a ti mismo de una manera. Independiente, entonces todo lo que tengo, pues yo lo tengo. ¿Y por qué se lo voy a dar al otro?"
+"startMs": 1004528,
+"endMs": 1011928,
+"text": "de kviut, de que tu tefilá sea shayejet a un makom. Porque unas mishnáot antes ahí habla sobre"
 },
 {
-"startMs": 1766000,
-"endMs": 1797000,
-"speaker": "אופיר סגל",
-"text": "Y entonces máximo me voy a hacer un negocio para dar. Pero no estás en una situación. Yaquito. Pero no estás en una situación donde. Donde el dar es algo existencial, ¿me explico? Y que entienda que su existencia es porque me la están dando, ¿Entonces por qué no la por qué no comparto más? Pero automáticamente la parnasá es porque me la están dando."
+"startMs": 1013188,
+"endMs": 1019388,
+"text": "que siempre tienes que be etzem ser libó mehuván lamakom, que es hacia Yerushaláyim."
 },
 {
-"startMs": 1797000,
-"endMs": 1829000,
-"speaker": "אופיר סגל",
-"text": "Exactamente, no es que yo me la estoy. Yo la tengo, yo. La siento. Exactamente. Es lo que estamos viendo acá un poquito. Está hablando de tener un lugar fijo para decirte fila. Es importante, tener más un combo. O sea, no vas en el gris, sino, dándole el gris, escoger la misma. El mismo lugar, la misma silla."
+"startMs": 1019428,
+"endMs": 1027488,
+"text": "Porque en Yerushaláyim, beemet, es largá, el que está en Yerushaláyim está en esa, en esa tjushá directamente, el que estaba en Kodesh haKodashim está en esa tjushá."
 },
 {
-"startMs": 1829000,
-"endMs": 1836000,
-"speaker": "Speaker 2",
-"text": "Estudié un metro, no puede haber descansado. ¿Puede ser a lo mejor en esa silla o la de al lado."
+"startMs": 1027867,
+"endMs": 1035367,
+"text": "¿Yo qué, qué me está aquí cargando? Hakadosh Baruj Hu. No, el makom no me está cargando. El que me está cargando be etzem es Hakadosh Baruj Hu."
 },
 {
-"startMs": 1836000,
-"endMs": 1852560,
-"speaker": "אופיר סגל",
-"text": "Pero tienes que estar en la zona de la zona un metro. En la zona, sí. Sí. Sí, en la zona. Órale."
+"startMs": 1035407,
+"endMs": 1043748,
+"text": "Entonces, eso es la-- entonces, mimél siempre que tamitpalel, tienes que lejavén libjá lamakom. Ma Hakadosh Baruj Hu, ma, ma, ma, ma, ma pirushó, pues tam, kilo"
+},
+{
+"startMs": 1045508,
+"endMs": 1059668,
+"text": "geográficamente. O sea, patá que también, ¿sí? No puedes voltear al otro lado y... ¿sí? Entonces, entonces tienes que estar mehuván físicamente hacia eso, pero no es nada más el-- también físicamente, sino es el Dabar que estás ahí."
+},
+{
+"startMs": 1060408,
+"endMs": 1073388,
+"text": "Kitur, entonces ahí están las dos abajanot, que no por ser kabua, entonces mimél las hagas keva. Necesitas ser tajanuní, porque si entiendes beemet que es kabua, que es makom, makom, entonces mimél vas a entender que la tefilá be etzem es tajanun."
+},
+{
+"startMs": 1073388,
+"endMs": 1085348,
+"text": "¿Sí? Entonces dice: ki hatefilá, hatefilá hu ha-dvekut bó itbaraj, que haAdam itdavek con tefilató bó itbaraj, y im ha-dvekut hazeh hi be mikrá bilvad, einanu jasháv dvekut klal, ki kol mikrá hu gezman ulezman, veeno tmidi."
+},
+{
+"startMs": 1085728,
+"endMs": 1094248,
+"text": "Amad davar sheeno, hu mikri, sheino mikri, hu tmidi. Le kaj rajui shehiye ha-dvekut hazeh shelo be mikrá klal. Veal zeh ba ha-azarah shekiva makom litfilató."
+},
+{
+"startMs": 1094668,
+"endMs": 1101648,
+"text": "Vi inán kviut hamakom litfilá, mifné ki kviut hamakom moreh sheein hatefilá shelo be mikrá, ki ha-mikrá ein lo kviut."
+},
+{
+"startMs": 1101688,
+"endMs": 1110968,
+"text": "Totalmente, cuando tú estás un día aquí y un día allá, un día así, un día asado, un día a las ocho, un día a las siete. ¿Sí? Entonces, be etzem, la tefilá es kilo be mikrá."
+},
+{
+"startMs": 1111828,
+"endMs": 1118148,
+"text": "Totalmente, no la tefilá me está esperando, sino yo diario, a ver, a ver qué."
+},
+{
+"startMs": 1118308,
+"endMs": 1125168,
+"text": "Si hay un makom kabua, pirushó, que hay cita. ¿Me explico? Que hay un matav de... Que lo estoy yendo a un matav kabua."
+},
+{
+"startMs": 1126828,
+"endMs": 1135568,
+"text": "Ki ha-mikrá ein lo kviut, vi im yosef paam ejad be makom ze, paam be makom ze, ajér, davar ze ein lo kviut klal, veein ze dvekut be etzem, rak be mikrá kara."
+},
+{
+"startMs": 1135968,
+"endMs": 1142169,
+"text": "Upele kamot dibricót hamarujot, lamaruv ruáj lamakom, vehamakom litfilató, elokei Abraham, Yitzak vyakob. Dice que cuando se muere, te lo dicen, no hay un navi, hay un chasid."
+},
+{
+"startMs": 1142829,
+"endMs": 1149089,
+"text": "Dice, ama rabino, los judíos lo ven como un halcón. Todos los que van a la tzipila, sus enemigos caen ante él."
+},
+{
+"startMs": 1149129,
+"endMs": 1158009,
+"text": "No se si está aquí en el hemisferio, pero si está en el hemisferio. Entonces dice, que se dice: «Y puse un lugar para mi pueblo Israel, y lo devolví, y"
+},
+{
+"startMs": 1160309,
+"endMs": 1167729,
+"text": "lo instalé, y no agregará más ablandamiento a él como el primero». Entonces, este pasaje está maravilloso. «Y puse un lugar para mi pueblo Israel, y lo devolví»."
+},
+{
+"startMs": 1167809,
+"endMs": 1184909,
+"text": "Se convierte en netiah. Netiah, pirush, es un דבר, que estás conectado al מקום. El que no tiene מקום, un árbol que no tiene מקום, es maceta, aquí mejor, su raayot está mukba, necesita estar בעצם conectado al מקום del Jiluz."
+},
+{
+"startMs": 1184989,
+"endMs": 1189289,
+"text": "Eso se llama que Israel tienen la larga de netiah, נטאתיו."
+},
+{
+"startMs": 1190969,
+"endMs": 1196669,
+"text": "Y dice lo del קביעות מקום לתפילה: «Y debes saber que Abraham era קובע מקום לתפילתו, y tenía דבקות"
+},
+{
+"startMs": 1200229,
+"endMs": 1208509,
+"text": "en Dios bendito en קביעות y no por casualidad. Escribió, sino el מקום donde se detuvo, y así Dios bendito con él siempre en קביעות sin cese alguno, y estaba דבוק en la Shejiná. Y en verdad, toda la guerra, la Shejiná estaba luchando con sus enemigos, y siempre la Shejiná estaba בעזרו»."
+},
+{
+"startMs": 1208509,
+"endMs": 1209969,
+"text": "¿Sí?"
+},
+{
+"startMs": 1211509,
+"endMs": 1217689,
+"text": "אברהם אבינו היה גר אז, היה נבה. Y todo esto, ¿sí?, porque era קובע מקום לתפילתו. Rashi no dijo que su תפילתו es su דבקות en Él bendito en קביעות y no por casualidad."
+},
+{
+"startMs": 1217709,
+"endMs": 1232769,
+"text": "Es decir, tu דבקות-- aquí es-- un momento, aquí dice: «Tu דבקות es en Dios, pero tu דבקות es en קביעות y no por casualidad»."
+},
+{
+"startMs": 1232969,
+"endMs": 1239569,
+"text": "Y un דבר que es en קביעות no tiene cese alguno, al contrario de la casualidad, que no hay casualidad constante. Y contra el enemigo, la persona necesita חוזק y תוקף para que no cese la דבקות, ¿sí?"
+},
+{
+"startMs": 1239909,
+"endMs": 1250149,
+"text": "Lepijá, Marakatu. Es decir, ¿quién dijo que ahorita va a haber דבקות? Porque yo en קביעות tengo דבקות. Entonces, también cuando ahorita estoy en un estado no raeayón, yo siempre tengo דבקות."
+},
+{
+"startMs": 1250589,
+"endMs": 1259249,
+"text": "Dice: «Lepijá, Marakatu, sobre Abraham, dijo Dios al señor: \"Siéntate a mi derecha, hasta que ponga a tus enemigos como escabel para tus pies\"». Es decir, que por el lado de la דבקות esta, que Abraham estaba דבק en Dios bendito, tiene «a sentarse a mi derecha», que es la unión"
+},
+{
+"startMs": 1263249,
+"endMs": 1270428,
+"text": "y דבקות como la que se sienta a su derecha y no es abandonada en absoluto. Elokim בעזרו. Y esto es Elokim אברהם בעזרו."
+},
+{
+"startMs": 1274909,
+"endMs": 1288669,
+"text": "Para que la persona tenga la madregá elyoná esta, cuando él קובע מקום לתפילתו, debes saber y entender las palabras de Jaza las profundas, que por el lado del מקום que él קובע מקום especial para su תפילה, muestra que tiene מקום auprès de Dios bendito y bendito sea."
+},
+{
+"startMs": 1288729,
+"endMs": 1289189,
+"text": "Es decir, no solo es דבקות de manera"
+},
+{
+"startMs": 1290629,
+"endMs": 1298169,
+"text": "elevada, sino que tú מקום es Dios. Y en esto era especial Abraham, porque él era la начала del mundo entero."
+},
+{
+"startMs": 1298189,
+"endMs": 1299949,
+"text": "Lo primero que tienes que descubrir"
+},
+{
+"startMs": 1302209,
+"endMs": 1309089,
+"text": "es, no a Hashem. A ti. Es que בעצם... No tienes nada que ver, eres tú mismo."
+},
+{
+"startMs": 1309269,
+"endMs": 1315329,
+"text": "Sí, exactamente. Es decir, si no, no estás descubriendo a Hashem. Si tú descubres que Hashem está en el shamayim, ¿sabes?"
+},
+{
+"startMs": 1315369,
+"endMs": 1322709,
+"text": "Te explico, que Hashem algún día creó el mundo en el pasado. ¿Dónde está Hashem? Encontrar a Hashem, pirusho, es encontrar el בלב בית del mundo."
+},
+{
+"startMs": 1322769,
+"endMs": 1334349,
+"text": "Es decir, qué guama, cómo es el mundo. Eso se llama encontrar a Hashem. Entonces, dice, el primero, es lo que te decía antes, no existe בעצם empezar a ser el קשה a mí ti si no tienes la תפיסה de estar en un מקום."
+},
+{
+"startMs": 1334389,
+"endMs": 1343229,
+"text": "Si te ves a ti ya existente y luego: «Ma rav kamini stia Hashem olam». Su lugar de pedirte filá. Es decir, no es una malá que podía hacer en otras cosas también."
+},
+{
+"startMs": 1343909,
+"endMs": 1351509,
+"text": "Para tú pedirte filá, tú no puedes la גשת a una-- es decir, no puedes tú la גשת a alguien sin saber quién es."
+},
+{
+"startMs": 1351849,
+"endMs": 1356589,
+"text": "Es decir, tú ahorita vas a... Esta es la נחיה ופרה ואיפה, בעצם. Esta es la נחיה ופרה ואיפה."
+},
+{
+"startMs": 1357829,
+"endMs": 1362249,
+"text": "La נחיה ופרה ואיפה, lo que hablamos. Es decir, yo sin ti, ¿qué pasa?"
+},
+{
+"startMs": 1363449,
+"endMs": 1369569,
+"text": "Ya no voy a tener a quién pedirle tu filá, le voy a pedir trabajo a este, le voy a pedir esto, lo otro. No, no, no."
+},
+{
+"startMs": 1369969,
+"endMs": 1374429,
+"text": "El שומך בכלל. Sí, no existo. Así, la נחיה ופרה ואיפה."
+},
+{
+"startMs": 1377709,
+"endMs": 1393329,
+"text": "Que así dijeron: «Por Abraham se creó el mundo, y era como la principal, que es la начала y la primera, y la principal necesita el מקום que se encuentra en él». Y así, Abraham, que era la התחלה al mundo, tiene un מקום especial auprès de Dios bendito, que es su מקום en el mundo."
+},
+{
+"startMs": 1393329,
+"endMs": 1399809,
+"text": "Y en esto dice: «Y así, dijo el Señor: Elokim אברהם בעזרו». Y esto es porque todo lo que tiene מקום es muy fuerte. Tiene quiún fuerte, ¿sí?"
+},
+{
+"startMs": 1399908,
+"endMs": 1406629,
+"text": "Es decir, alguien que no tiene מקום, no tiene quiún fuerte. Un homeless, no tiene מקום. ¿Me explico?"
+},
+{
+"startMs": 1406669,
+"endMs": 1413269,
+"text": "Entonces, no tiene un quiún fuerte. Alguien que no está en un lugar bien קבוע, entonces, X, en el knis."
+},
+{
+"startMs": 1414689,
+"endMs": 1421609,
+"text": "El que viene y no viene, no puede ser el del knis. ¿Quién es el del knis? El que tiene un מקום קבוע."
+},
+{
+"startMs": 1421629,
+"endMs": 1434629,
+"text": "Es decir, ¿quién es el jazak aquí? El que tiene un מקום קבוע. ¿Quién es el jazak en el mundo? El que בעצם tiene un מקום קבוע. Dice: «Cerca del Creador su», que es como un אילן que tiene una raíz נטוע en un מקום uno, y que todos los espíritus que vienen lo mueven de su מקום."
+},
+{
+"startMs": 1434689,
+"endMs": 1439629,
+"text": "Esta es la fuerza. Y esto es como el מקום לתפילתו, tiene una נטיה y דבקות auprès de Dios bendito, y por eso Dios bendito lo fortalece y lo ataca."
+},
+{
+"startMs": 1440949,
+"endMs": 1448749,
+"text": "Esto ya lo hemos dicho, Dios bendito directamente con las tefilín. ¿Sí? «Y Dios, su creador, el que lo hace»."
+},
+{
+"startMs": 1448789,
+"endMs": 1453649,
+"text": "Como decimos: «Dios, odlamo itén». Y esto es lo de las tefilín. Y ya lo hemos dicho, que fue Abraham cabeza y התחלה al mundo, y por eso tiene un מקום auprès de quién,"
+},
+{
+"startMs": 1457569,
+"endMs": 1467809,
+"text": "el que es la התחלה a él. Y tampoco, el hombre cuando קובע מקום לתפילתו, es principal התחלה al mundo como Abraham, de todo מקום se considera como una rama que sale del principal."
+},
+{
+"startMs": 1467829,
+"endMs": 1471309,
+"text": "¿Sí? Entonces, incluso que tú no eres Abraham Avinu."
+},
+{
+"startMs": 1473009,
+"endMs": 1482089,
+"text": "Abraham, בעצם, es el que descubrió el מקום. Entonces, acá, en todo, incluso que no somos el אילן en sí mismo, te tienes que poner como una rama del אילן."
+},
+{
+"startMs": 1482429,
+"endMs": 1492089,
+"text": "Pues, mírala, cuando eres una rama del אילן, tú también, tu מקום es el מקום del אילן. Y cuando Abraham tiene, que es principal, מקום auprès de Dios bendito, así también la rama tiene un מקום auprès de Dios bendito."
+},
+{
+"startMs": 1492249,
+"endMs": 1499129,
+"text": "Por eso dice: «El Señor אברהם בעזרו». Y además, se explica que el מקום lo ataca. La cosa protege a la cosa, que es מקום suyo."
+},
+{
+"startMs": 1499649,
+"endMs": 1501005,
+"text": "¿Sí? Cuando"
+},
+{
+"startMs": 1547985,
+"endMs": 1555345,
+"text": "revuelves los mekomot, tú no puedes poner el violín en el estuche de guitarra, ¿no? Dice: \"Como ya han brujas, dale en la cada vez que en lo macón\"."
+},
+{
+"startMs": 1555445,
+"endMs": 1558985,
+"text": "Cada cosa, cada cosa, cada cosa que צריך que llegue, le jode a cada macón y a cada sumo macón."
+},
+{
+"startMs": 1560745,
+"endMs": 1568045,
+"text": "Sí, por ejemplo, ¿cuál es tu macón en la chévere? ¿Cuál es tu macón en el mundo de Israel? Cada uno tiene otro macón. Cada uno realmente tiene otro macón."
+},
+{
+"startMs": 1568085,
+"endMs": 1575225,
+"text": "Lo que came de judío a judío, realmente es el macón que tiene. Sí, y cuando él pone el macón de tila, el Señor te borra, es su macón especial."
+},
+{
+"startMs": 1575264,
+"endMs": 1595065,
+"text": "Y no hay nadie que entre en su macón especial. Así es como él te borra y ayuda. Y dijo: \"O, todo el que pone el macón de tila, sus enemigos caen delante de él, porque desde el lado de la vinculación especial que tiene con el Señor te borra, está separado de quien se opone, que no es como el juicio del macón, que es especial."
+},
+{
+"startMs": 1595065,
+"endMs": 1597545,
+"text": "Y no hay macón para dos. Y así, sus enemigos, que se opongan a él, caen delante de él. Y esto es aún más profundo\"."
+},
+{
+"startMs": 1599785,
+"endMs": 1604505,
+"text": "No, no, es que cada uno tiene un macón especial. Hay otro hombre, cuál es. \"Porque debido a la fijación de macón, se adhiere hacia arriba. Y así dijo\". Eso quiere decir, acá,"
+},
+{
+"startMs": 1609745,
+"endMs": 1618105,
+"text": "te dicen algo impresionante. Cuando tú tienes fijación de macón hacia el Señor, cuando uno tiene fijación de macón hacia el Señor, mi mele, el guf, su macón."
+},
+{
+"startMs": 1618585,
+"endMs": 1626545,
+"text": "Espera, te lo explico. El guf de la persona, su macón, es el mundo físico. Cuando se muere, ni cómo decir por, ya no tiene un macón."
+},
+{
+"startMs": 1627005,
+"endMs": 1633605,
+"text": "Peeero el que dice: \"No, el macón de mi guf es acá, es brujo\". Entonces, mi mele, ¿quién?"
+},
+{
+"startMs": 1634264,
+"endMs": 1641665,
+"text": "Mi macón no es nada más para mi guf. Para la de Shamá. Para la de Shamá. Y mi mele, el guf. Entonces, cuando se muere, él no pierde su macón."
+},
+{
+"startMs": 1642845,
+"endMs": 1650745,
+"text": "No está en el cafakel. ¿Te explico? Cafakel, la primera persona que su honest es que no tiene macón. Al lado, al lado, al lado, al lado."
+},
+{
+"startMs": 1651345,
+"endMs": 1654465,
+"text": "Y no hay gente cafakel en el mundo, vivos. No."
+},
+{
+"startMs": 1656165,
+"endMs": 1662825,
+"text": "Nada, nada, tiene barra, caen vivos. No tienen un macón, no puedes tener uno igual. Está, está, está..."
+},
+{
+"startMs": 1663565,
+"endMs": 1674805,
+"text": "Homeless, homeless, homeless. Homeless, exactamente. Entonces, ahí en el cielo, en el cafakel. Entonces, בעצם acá, כמובן, el que cubre el macón de tila, בעצם se está haciendo un macón en el cielo."
+},
+{
+"startMs": 1676205,
+"endMs": 1682525,
+"text": "Dice: \"Y así dijo el que realmente dice: 'Ey, anal, ey, jasid, descendiente de Abraham nuestro padre'\". Hola."
+},
+{
+"startMs": 1683125,
+"endMs": 1695425,
+"text": "Hola. Sí, por favor. Dice: \"Porque estas dos midot son superiores a todo, que a través de estas dos midot se adhieren por completo con el Hashem y te borras, cuando se aclara en la vía de la anavá, no hay allí\"."
+},
+{
+"startMs": 1695525,
+"endMs": 1702225,
+"text": "Justamente, esto tiene que ver con anav. Anavá, o sea, estas dos midot, que son anav y jasid, van de la mano."
+},
+{
+"startMs": 1702805,
+"endMs": 1717045,
+"text": "Sí, ser humilde y ser jasid, o sea, ser jasid, viene de la mano. Porque el que es humilde, automáticamente le nace ser alguien que ayuda, que el que no es humilde, entonces, se está viendo a sí mismo."
+},
+{
+"startMs": 1717345,
+"endMs": 1725825,
+"text": "Estamos viendo que aquí, cómo una persona llega a la humildad. No llega a la humildad entendiendo que tu existencia es porque Hashem te la está dando."
+},
+{
+"startMs": 1726445,
+"endMs": 1735945,
+"text": "Y entonces, ¿por qué? Si tú te ves a ti mismo, ¿yo quién soy? ¿Yo quién soy? Un fruto del geser de que Hashem quiere hacer conmigo de que yo existo."
+},
+{
+"startMs": 1736784,
+"endMs": 1745985,
+"text": "Yo me veo, ¿yo qué eres? Geser. Entonces, automáticamente uno ya es humilde, porque entiendes que tu lugar en el mundo es porque alguien quiere que tú estés."
+},
+{
+"startMs": 1746465,
+"endMs": 1760485,
+"text": "Y, y no nada más eso, esa anavá te lleva a sentir amor. Y entonces, amor lo quieres transmitir, lo quieres, lo transmites más allá, porque no te estás exigiendo a ti mismo de una manera independiente."
+},
+{
+"startMs": 1760524,
+"endMs": 1767545,
+"text": "Entonces, todo lo que tengo, yo lo tengo, ¿y por qué se lo voy a dar al otro? Y entonces, máximo vas a hacer un negocio para dar, pero no, no estás en una situación..."
+},
+{
+"startMs": 1768805,
+"endMs": 1769485,
+"text": "Un saquito."
+},
+{
+"startMs": 1776025,
+"endMs": 1778225,
+"text": "Pero no estás en una situación donde,"
+},
+{
+"startMs": 1780105,
+"endMs": 1791725,
+"text": "donde, donde el dar es algo existencial, ¿me explico? Y quien tiene que su existencia es porque me la están dando, ¿por qué no la, por qué no comparto más?"
+},
+{
+"startMs": 1792425,
+"endMs": 1798784,
+"text": "Pero- Automáticamente, la parnasá es porque me la están dando. Exactamente. Me la está dando Hashem."
+},
+{
+"startMs": 1799025,
+"endMs": 1807745,
+"text": "No es que yo me la estoy, yo la tengo, yo... No es que fue mi idea, mía. Es de Hashem todo. Exactamente. Es lo que estamos viendo acá un poquito."
+},
+{
+"startMs": 1811825,
+"endMs": 1819085,
+"text": "Está hablando de tener un lugar fijo para decirte, fila. Es importante tener un macón fijo."
+},
+{
+"startMs": 1819145,
+"endMs": 1822465,
+"text": "O sea, no hacer el gris, sino teniendo el gris, coger la misma,"
+},
+{
+"startMs": 1823745,
+"endMs": 1833305,
+"text": "el mismo lugar, la misma silla. ¿Vas a ir comprendiendo? Estudié, justo como estamos, que un metro no puede haber de distancia."
+},
+{
+"startMs": 1833705,
+"endMs": 1840225,
+"text": "Puede ser que a lo mejor en esa silla o en la de al lado. Pero tienes que estar en la zona del... En la zona, un metro. En la zona, sí."
+},
+{
+"startMs": 1840725,
+"endMs": 1843325,
+"text": "Sí. Sí, en la zona. Órale."
+},
+{
+"startMs": 1851825,
+"endMs": 1852284,
+"text": "Dile ahí"
 }
 ]
 }
