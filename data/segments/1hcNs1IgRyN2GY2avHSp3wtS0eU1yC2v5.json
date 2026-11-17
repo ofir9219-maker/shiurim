@@ -1,0 +1,1800 @@
+{
+"source": "drive_md_plaud",
+"model": "plaud",
+"segments": [
+{
+"startMs": 2000,
+"endMs": 10000,
+"speaker": "Speaker 1",
+"text": "Dónde estás?"
+},
+{
+"startMs": 10000,
+"endMs": 20000,
+"speaker": "Speaker 1",
+"text": "Ahora bien, bien. Sí?"
+},
+{
+"startMs": 20000,
+"endMs": 40000,
+"speaker": "Speaker 1",
+"text": "Filatam lo ngman, ella. Filati. Filatam lo ngman. Es la filatina, necesitamos ver el pasuca adentro. Ya traigo a mi compa,"
+},
+{
+"startMs": 40000,
+"endMs": 42000,
+"speaker": "Speaker 2",
+"text": "Yo creo que ya tiene un poco."
+},
+{
+"startMs": 42000,
+"endMs": 49000,
+"speaker": "Speaker 1",
+"text": "Ojala, ya encontramos aquí. No hay nada? No sé, No."
+},
+{
+"startMs": 49000,
+"endMs": 116000,
+"speaker": "Speaker 2",
+"text": "Ya con uno ya."
+},
+{
+"startMs": 116000,
+"endMs": 123000,
+"speaker": "Speaker 1",
+"text": "No sé porque pensé que era uno de los Aftagaut. Puede ser?"
+},
+{
+"startMs": 123000,
+"endMs": 139000,
+"speaker": "Speaker 2",
+"text": "Te iba a preguntar, ¿Cuál es la Aftara? Ya lo repetiste varias veces, pero no me acuerdo. Cuál es la Aftarak que afilu? Los de las mamás con sus hijos son Rahmaniot. La Aftara de."
+},
+{
+"startMs": 139000,
+"endMs": 171000,
+"speaker": "Speaker 3",
+"text": "De rehén."
+},
+{
+"startMs": 171000,
+"endMs": 175000,
+"speaker": "Speaker 2",
+"text": "Dijiste algo que está mejor más acá en lo del level."
+},
+{
+"startMs": 175000,
+"endMs": 180000,
+"speaker": "Speaker 1",
+"text": "El de los extra ya no obligación."
+},
+{
+"startMs": 180000,
+"endMs": 201000,
+"speaker": "Speaker 3",
+"text": "Dónde está el de lo que se está ahí? Ahí queda."
+},
+{
+"startMs": 201000,
+"endMs": 206000,
+"speaker": "Speaker 1",
+"text": "Sí, exactamente. Esto es."
+},
+{
+"startMs": 206000,
+"endMs": 229000,
+"speaker": "Speaker 2",
+"text": "Largo Yoshaya?"
+},
+{
+"startMs": 229000,
+"endMs": 238000,
+"speaker": "Speaker 1",
+"text": "Pero es que lo vimos eh. No, este no. Ok."
+},
+{
+"startMs": 238000,
+"endMs": 274000,
+"speaker": "Speaker 1",
+"text": "Si vieron la regula, necesitamos prepararnos con mishpat y con sus de acá, así dice el pasuk. Sion be mishpat, tipade, besoveabits de acá, tiene que ver acá este pasuk con ese. Yahazig Bah, Shomer Shabbat Mehalelo, Shomer Yadou Mehasotkolo."
+},
+{
+"startMs": 274000,
+"endMs": 294000,
+"speaker": "Speaker 1",
+"text": "Ich more Shabbat Milahaleloto, Ich more Etayadai Milasotkolra, Valiomar Benehaan nil bel ashem lemon, Avdeli, Avdilani ashem alamo, Valiomar Azariz enani etyavesh."
+},
+{
+"startMs": 294000,
+"endMs": 327000,
+"speaker": "Speaker 1",
+"text": "Qué es lo que no tiene que decir? Que no voy a decir un goi dice y que tampoco diga un saris alguien dice de por sí, Qué tanto puedo aumentar de aquí a aquí?"
+},
+{
+"startMs": 327000,
+"endMs": 353000,
+"speaker": "Speaker 1",
+"text": "Entonces dice, \"Ali Omar Saris\" Y también un goy, que dice \"Un goy tiene hombre, dice, de por sí, que tanto ahorita, minutos antes de la gubuela, vamos a caminar?\" Dice, \"Ali Omar benejar, ni el ve, la chem de amor, abdel y abdilen y la chem me llamo\" Que como la chem la sarisim."
+},
+{
+"startMs": 353000,
+"endMs": 369000,
+"speaker": "Speaker 1",
+"text": "Este sí lo vimos alguna vez, pero mucho más atrás. Desde aser ishmerue cha, betotai, wa haruga ser habatti, majdikim bebriti, benatati la hen bebeti, wajamati, yaadvashem. Tov mi pani moviva, no chemo la metenlo lo ikare. Lo vemos."
+},
+{
+"startMs": 369000,
+"endMs": 371000,
+"speaker": "Speaker 2",
+"text": "En otro contexto,"
+},
+{
+"startMs": 371000,
+"endMs": 401000,
+"speaker": "Speaker 1",
+"text": "Porque yo veo lo que yadvashem lo vimos. Bueno, nos vimos en otro contexto, porque yo de lo que yadvashem, Entonces dice \"babiotim el arco chi\" O sea, todos los harisim y a estos blenenha. O sea, aquí lo afilo a ellos. Los voy a traer. El arco. El arco chi. Vecimajtim bebet filati. Olotehem bestifem le razon al mislehi. Yo voy a recibir la de las oloti y los majim de todos."
+},
+{
+"startMs": 401000,
+"endMs": 422000,
+"speaker": "Speaker 1",
+"text": "Kiviti, betfilai, karede, hola ami, velo el istra el badame, que afle queri. No mashemi looking, ekabeth ni israel, odek akabeth salav le nik batsav kol haya to sadai, etayu lehol kol haya tovya."
+},
+{
+"startMs": 422000,
+"endMs": 435000,
+"speaker": "Speaker 1",
+"text": "Etayu vitkarbu vengan, betuklood kol hatovayar kolki borak kasdim, que van a acabarse a todos los."
+},
+{
+"startMs": 435000,
+"endMs": 455000,
+"speaker": "Speaker 2",
+"text": "Chalpanar. Hashem me está diciendo que van a venir todos a su casa, aquí lo vete a mikdash, bebete el arco chino, bebet filati. Si, están, de los dos lados, lo que está diciendo, filati, no dice, bebet a fila o bebete, filati, entonces más porque él reza."
+},
+{
+"startMs": 455000,
+"endMs": 465000,
+"speaker": "Speaker 1",
+"text": "Y por qué? Por qué es necesario decir aquí que Hashem? Oh, porque Hashem, aquí me rames, cuando le está hablando a los harisim y a los nenejar,"
+},
+{
+"startMs": 465000,
+"endMs": 467000,
+"speaker": "Speaker 2",
+"text": "A quién Senape con Sarisin?"
+},
+{
+"startMs": 467000,
+"endMs": 471000,
+"speaker": "Speaker 1",
+"text": "A los que se ¿Es Yavesh?"
+},
+{
+"startMs": 471000,
+"endMs": 475000,
+"speaker": "Speaker 1",
+"text": "Pues alguien que no tiene hijos pero también es alguien eh perot."
+},
+{
+"startMs": 475000,
+"endMs": 478000,
+"speaker": "Speaker 2",
+"text": "Ajá."
+},
+{
+"startMs": 478000,
+"endMs": 528000,
+"speaker": "Speaker 1",
+"text": "Vamos A verlo en manca."
+},
+{
+"startMs": 528000,
+"endMs": 565000,
+"speaker": "Speaker 1",
+"text": "Ahora dice vali Omar. Estoy leyendo mal bien. \"Kiiesu kayan beisu beisu kayan bemin\". Be? Bemin? Akiun bemin talui, isalseletan o ladim le fanavu la jarab. Halaki uma isin tariq dabar, kin efes kayam taatma gam e abu ben enla. Hata. Degen masakatukie kol talu behanata mekabel. Ya mekabel mishi, he. Haftarizu benaha, homer. Y al ata, Saris. O sea, si es que alguien que no pueda tener hijos de mamás."
+},
+{
+"startMs": 565000,
+"endMs": 586000,
+"speaker": "Speaker 1",
+"text": "El mal, sí. Uno le da miedo. El futuro, o sea, los que vienen y otro no sé. El pasado. Dice. Meile si te vieras. Ahora y el Saris es el que dice Meile si tuviera hijos, puedo puedo tener eh."
+},
+{
+"startMs": 586000,
+"endMs": 602000,
+"speaker": "Speaker 1",
+"text": "Dice."
+},
+{
+"startMs": 602000,
+"endMs": 635000,
+"speaker": "Speaker 1",
+"text": "Eres más fuerte cuando tienes un kium propio a que tu kium es por los que tienes que tienes que venir. Para que yo me hiciera, si galees usadvari, me muna, mitzot, dice \"Emuna, ayunga, me hace shirchmerucha, vetotai\". Esas son las mitzot. Y entonces ellos ven atad y la em, entonces, ¿qué les va a dar?"
+},
+{
+"startMs": 635000,
+"endMs": 665000,
+"speaker": "Speaker 1",
+"text": "Etenlo, bebeti, ya advashem, hubo comoti, ya advashem, tovlo mibanimu banou, que aquí huma mini, mi charatam, mi chá, que hacer de organabal, el chem te, shem ollam, hacerlo ikaret. Este chem, por alguien que mitvaca, la tora, las mitzot y a la moná, es un kiu mucho más fuerte, un nene jale charato, En el que de la boda, un mitzvot, aparte que la de ser tú, que eres de la bata, si. Yo me va, yo lo lavaré y me voy también y te llamo al aire."
+},
+{
+"startMs": 665000,
+"endMs": 698000,
+"speaker": "Speaker 1",
+"text": "Quiero verme, mira, un raque me sale de fija, que yo voy a traer. Cómo se va esa bote, me halalo, no? No, no. Ah, pero tiene un arcochi. Entonces, todos ellos los voy a traer al arcochii, me sale el minuto, ahora vemos una. Por qué? Que misión te trae para hacer muchos años, ¿y tú, una que la boda? Solo tenemos y buhemi, no lo tienen, al jetrak me dabau vez de Ir uh, quien imagina mi Israel rakpeti y hebet filar a colam Este es el mal."
+},
+{
+"startMs": 698000,
+"endMs": 713000,
+"speaker": "Speaker 3",
+"text": "Bien No me tengo."
+},
+{
+"startMs": 713000,
+"endMs": 739000,
+"speaker": "Speaker 1",
+"text": "Que hacer esto lo explican así, que es filati es filatam, pero veoti metaosim el que hacen toram y todo chomesa par, También los guerim o también los arisdib, todos van a pertenecer. O sea, que si usted de ellos van a ser mi kupalim?"
+},
+{
+"startMs": 739000,
+"endMs": 742000,
+"speaker": "Speaker 2",
+"text": "Si, si, si,"
+},
+{
+"startMs": 742000,
+"endMs": 745000,
+"speaker": "Speaker 1",
+"text": "Si, si,"
+},
+{
+"startMs": 745000,
+"endMs": 784000,
+"speaker": "Speaker 1",
+"text": "Si, Si, si."
+},
+{
+"startMs": 784000,
+"endMs": 792000,
+"speaker": "Speaker 2",
+"text": "Que Pueden venir antes de la gula, ¿no?"
+},
+{
+"startMs": 792000,
+"endMs": 833000,
+"speaker": "Speaker 1",
+"text": "No sé si se tiene que hacer guerim. No sé video cómo es. Aquí hay. A ver, aquí el chico dice. No hay nada ni bien. Me hacer hacen más que ablimo dame más eh, mulaba, velef, eche mashem, pero voy la simple de Kiajaron pues dice."
+},
+{
+"startMs": 833000,
+"endMs": 917000,
+"speaker": "Speaker 1",
+"text": "Israel, Israel y que no se deja checar a ver qué Es."
+},
+{
+"startMs": 917000,
+"endMs": 920000,
+"speaker": "Speaker 1",
+"text": "Está bien, vamos."
+},
+{
+"startMs": 920000,
+"endMs": 923000,
+"speaker": "Speaker 1",
+"text": "Hay que entender, por qué Ashema acá?"
+},
+{
+"startMs": 923000,
+"endMs": 924000,
+"speaker": "Speaker 1",
+"text": "Dice?"
+},
+{
+"startMs": 924000,
+"endMs": 937000,
+"speaker": "Speaker 2",
+"text": "Primero a lo mejor se va a lo mejor esto se va a entender cuando entendamos lo que sí, cual es la tefila y que ha creado el humid palel, todavía vas a poder vas a poder explicar porque Dafka cuando ha habido."
+},
+{
+"startMs": 937000,
+"endMs": 970000,
+"speaker": "Speaker 1",
+"text": "Video team en el arcoche. Si. Dice, tengo la tefila, te. Hamai el mitotai, vitna eggimbanai, vitnata rakhamii, vitkaneshlaem, mefni, mishwatatini. Que no necesite bethen, distraer con mis hijos, mitadtatin. Que pueda yo litnaer con ellos, nada más meta rakhami."
+},
+{
+"startMs": 970000,
+"endMs": 976000,
+"speaker": "Speaker 1",
+"text": "Bethen también mitadtatin es la manera como, como lekare votar."
+},
+{
+"startMs": 976000,
+"endMs": 981000,
+"speaker": "Speaker 1",
+"text": "Cuando ya hay un problema, entonces bethen mitadtatin es la manera como vamos a estar."
+},
+{
+"startMs": 981000,
+"endMs": 1001000,
+"speaker": "Speaker 2",
+"text": "Pero que no tengo que llegar a eso. La desfila es que no tengo que llegar a momento que haya un Dean para. Igual para el Karev, que sea sin eso. Exactamente. Tipo pasó usted en la escuela, aquí ojalá que no haya ningún reporte, que no haya ninguna expulsión. A veces tiene que haber para que haya un Seder y para que también el muchacho aprenda."
+},
+{
+"startMs": 1001000,
+"endMs": 1040000,
+"speaker": "Speaker 1",
+"text": "No, y aquí Afilu que es Behmet. Afilu Le Toba, nada más para que aprenda. Behmet es la manera donde Ashem, a donde la persona va a encontrar a Ashem. Y luego ya, si te quedas en el betta mikdash, no, ya no vas a encontrar eso. Cómo? Aquí luego. Cuando vamos a hacer el Jatú, hice una voz de otra raza, me estaba destruido el betta mikdash. Si dejaba el matchab como estaba, iban a estar más lejos de Hashem, que si me haré el bait. Entonces la manera de cómo acercarlos es el líder de Hurbanabite. Porque este no tiene makón, entonces ya vetemos que, también si los aleja, no están alejando de él."
+},
+{
+"startMs": 1040000,
+"endMs": 1048000,
+"speaker": "Speaker 1",
+"text": "También el galut, están acercándose pero de otra manera no es que ya es con mitad de din, ya no es mitad de rahami."
+},
+{
+"startMs": 1048000,
+"endMs": 1054000,
+"speaker": "Speaker 2",
+"text": "Claro. Gracias. Dicen."
+},
+{
+"startMs": 1054000,
+"endMs": 1055000,
+"speaker": "Speaker 1",
+"text": "Entonces Que cuál."
+},
+{
+"startMs": 1055000,
+"endMs": 1060000,
+"speaker": "Speaker 2",
+"text": "Es la fila? Entonces cuál es la fila?"
+},
+{
+"startMs": 1060000,
+"endMs": 1071000,
+"speaker": "Speaker 1",
+"text": "Que no necesite, me mete lekareo también, que yo pueda litnaeguita me mitad rahami. Sin casas, sin rihuk, Sin."
+},
+{
+"startMs": 1071000,
+"endMs": 1088000,
+"speaker": "Speaker 2",
+"text": "Pero no entendí, está acabas de decir que. Que no hay rihuk, que no hay casas, que. Que vencaj en el din, también es el karevotam. Sí, pero es basura es el din. Entonces, el mito es el que solamente es. Cómo van? Sí."
+},
+{
+"startMs": 1088000,
+"endMs": 1104000,
+"speaker": "Speaker 1",
+"text": "Entonces Hashem quiere que veten todo ese. Que realmente veten sea mitad de kirva. Pero para que pase eso, es que nosotros busquemos el kirvat Hashem. Nosotros buscamos que ya estamos en panim bien panim,"
+},
+{
+"startMs": 1104000,
+"endMs": 1118000,
+"speaker": "Speaker 2",
+"text": "Entonces mi mail aquí ponele no panim bien pani. Entonces, estamos en una noche así de niño. No sé, estamos dirigiéndonos a él, el mail es el koliahol."
+},
+{
+"startMs": 1118000,
+"endMs": 1145000,
+"speaker": "Speaker 1",
+"text": "Porque vete acá, la mejor cosa es que, ya que esto el lineal sea panim bien pani, siempre que esta mikpalel hasta mikpalel, si? Al pneashem, que ashem es nelen. Siempre que tu pides los panim de alguien, eso se llama tifila. Lo que está pidiendo. Es nuestros panim. Nuestros panim."
+},
+{
+"startMs": 1145000,
+"endMs": 1147000,
+"speaker": "Speaker 2",
+"text": "El Ya pone leno."
+},
+{
+"startMs": 1147000,
+"endMs": 1152000,
+"speaker": "Speaker 1",
+"text": "El te está hablando de ti, que está ti finela."
+},
+{
+"startMs": 1152000,
+"endMs": 1154000,
+"speaker": "Speaker 1",
+"text": "Tú pides de él, eso es rahamed."
+},
+{
+"startMs": 1154000,
+"endMs": 1181000,
+"speaker": "Speaker 2",
+"text": "O sea, tifilán no es como tifilá de toda la vida. Y que le voy a pedir algo? No, porque no le va a pedir nada a nadie, no le va a pedir algo a mi, ¿me entiendes? Esta fila normal, hay que pedirle algo a Ashem, no estamos hablando de eso. Entonces este fila es otro mugan fila, que es kanak no, anak no, el orde, los panim de Ashem. Entonces también akas bueno, que esta panim chelano. Pues panim chelan,"
+},
+{
+"startMs": 1181000,
+"endMs": 1202000,
+"speaker": "Speaker 1",
+"text": "Le pide que nosotros no."
+},
+{
+"startMs": 1202000,
+"endMs": 1211000,
+"speaker": "Speaker 1",
+"text": "Que es cuando, cuando es."
+},
+{
+"startMs": 1211000,
+"endMs": 1213000,
+"speaker": "Speaker 2",
+"text": "Cuando es."
+},
+{
+"startMs": 1213000,
+"endMs": 1228000,
+"speaker": "Speaker 1",
+"text": "Cuando ya rompes las barreras de los kubim, ahí están los kubim, están también en el paro,"
+},
+{
+"startMs": 1228000,
+"endMs": 1237000,
+"speaker": "Speaker 2",
+"text": "También también en el aro. Iriot afuera, luego en el Parojet, y luego los adentro."
+},
+{
+"startMs": 1237000,
+"endMs": 1240000,
+"speaker": "Speaker 1",
+"text": "Entonces, cada vez que se quiere entrar más adentro."
+},
+{
+"startMs": 1240000,
+"endMs": 1241000,
+"speaker": "Speaker 2",
+"text": "Hay que romper,"
+},
+{
+"startMs": 1241000,
+"endMs": 1271000,
+"speaker": "Speaker 1",
+"text": "Como dicen. Hay que romper, entonces solo con Ponnim puedes romper. Si tus Ponnim están hacia allá, pero si el Kuengador, sus matarais, veten llegar hacia Shen, pues él sobrevive. Entonces entró esa llama a entrar Le Fanai y Belifi. Entrar, vet se mapone y me ponen. Los klubbim bemet son los que miden si esta mapone y me ponen, porque los klubbim hay krubim que se ven y krubim que se voltea."
+},
+{
+"startMs": 1271000,
+"endMs": 1298000,
+"speaker": "Speaker 1",
+"text": "Esa es la \"Nekudai\" entrado, no se deja entrar. Si los krubim están bien, si están volteados, no se deja entrar. Si están ahorita cuidando, no, pero no puedes entrar. Entonces, dijimos, Ishmael, ven el Isha. Ishmael es nosotros pidiendo Tzfila, y el Isha, Pues que Hashem nos escucha a nosotros. Elí Shah. Nos contesta. Ishma Kel, Elí Shah. Sí."
+},
+{
+"startMs": 1298000,
+"endMs": 1340000,
+"speaker": "Speaker 1",
+"text": "O sea, uno empieza con Ishmah y acaba con Kel. Y su papá empieza con Kelí y acaba con Shah. Está buenísimo. Sí. Nosotros empezamos Ishma Kel. Ben Elí Shah. Eso es Betzen también. Me pone cada palabra está aquí en mi vida lo hablamos dice dónde era Sutra Bartuvia?"
+},
+{
+"startMs": 1340000,
+"endMs": 1346000,
+"speaker": "Speaker 1",
+"text": "Arribita buenísimo, Es top,"
+},
+{
+"startMs": 1346000,
+"endMs": 1363000,
+"speaker": "Speaker 2",
+"text": "Gang de top. Como todo el tiempo has dicho hasta ahorita. El top de nosotros, el top, es el sutra, es el din, por eso."
+},
+{
+"startMs": 1363000,
+"endMs": 1393000,
+"speaker": "Speaker 1",
+"text": "Entonces acá hay dos panin como. Es dos panin como el din. Uno es, es el din. No te cabo la cabo? No te quede de mala gana, ¿sa fu? No nuestra boda, para que sea bien met que id gale el tov lo tenemos que encontrar dentro de él, dentro del cabodo. Es que darle cabo, tza, tza, toma miti, darle cabo de cabo, tza, toma miti."
+},
+{
+"startMs": 1393000,
+"endMs": 1414000,
+"speaker": "Speaker 1",
+"text": "Eso se llama el orsutra bartubia. Entonces, este es el hirotón, que vete mi pesu, que es sutra, el viajor, vete mestubia. Entonces mi mail es Sutra te pide \"Yo te necesito a ti\". Esto nos dice \"Yo te necesito\". \"Yo te necesito a ti que tú me des caboda a mí\"."
+},
+{
+"startMs": 1414000,
+"endMs": 1421000,
+"speaker": "Speaker 2",
+"text": "Pero detrás de eso no existe mayor top que tú lo hagas. Exactamente."
+},
+{
+"startMs": 1421000,
+"endMs": 1429000,
+"speaker": "Speaker 1",
+"text": "Sutra aquí es de chiquito? Sí. Es como Robdeira, lo que es."
+},
+{
+"startMs": 1429000,
+"endMs": 1434000,
+"speaker": "Speaker 1",
+"text": "Y tú ves como Rabi. Hubo shooting Chavez."
+},
+{
+"startMs": 1434000,
+"endMs": 1444000,
+"speaker": "Speaker 2",
+"text": "No has escuchado Rabi? Ya lo dijiste en Charles? No es tu jueves el pasado?"
+},
+{
+"startMs": 1444000,
+"endMs": 1476000,
+"speaker": "Speaker 1",
+"text": "No, en Charles no lo dijiste en Zapatos no es. No, Zeira y. Ah, Zeira Antins. No, pero en historia Rabi era David. Bueno, lo dijimos aquí y después lo dijiste. La historia de Raba y Rosera. De Purino, de Purino. No, la de la Blanchada se empezaba una noche. Sí. Un jueves. Lo dijiste de seguro. No, hablamos de Rapsutra Bartubia. Aquí, este lo estamos repasando. Aquí salió. Acá, esta misa. Raba es grande, mira de chico. Lo dijiste aquí, aquí lo cocinaste."
+},
+{
+"startMs": 1476000,
+"endMs": 1509000,
+"speaker": "Speaker 1",
+"text": "Puede ser, no me acuerdo. O sea, lo dijimos sobre Rapsutra Bartubia, pero puede ser. Entonces dice: Verraiti. De ver lo de. Todo lo que fulín, lo que fulín. Todo lo del. La del Aguilar del fuera del pasado. Ay los todos. Todo lo que agrava este. La tiene usted la mandó Spotify. Yo la quiero en Drive, ¿no? Ahorita lo voy a hacer. Pero es tan honoraria yo, toda la conferencia honoraria yo, está todo."
+},
+{
+"startMs": 1509000,
+"endMs": 1518000,
+"speaker": "Speaker 1",
+"text": "A todo doble capulín, todo el capul, capul. Está loco. Es impresionante."
+},
+{
+"startMs": 1518000,
+"endMs": 1531000,
+"speaker": "Speaker 1",
+"text": "No, ya se lo sabe. Dale, diga a tu papá que está muy mal. Vamos, vamos. Dice, ¿verdad? Iti."
+},
+{
+"startMs": 1531000,
+"endMs": 1535000,
+"speaker": "Speaker 1",
+"text": "A ver, ¿cómo están las espirotas?"
+},
+{
+"startMs": 1535000,
+"endMs": 1545000,
+"speaker": "Speaker 1",
+"text": "Ketter, Ketter. Ketter está claro. Sí. Tiferet también. Lo K, siempre Yudkei es Jojmai Vina."
+},
+{
+"startMs": 1545000,
+"endMs": 1555000,
+"speaker": "Speaker 1",
+"text": "Siempre es Jojmai, es Tiferet. Incluye Jeset pura, Tiferet. Si está claro aquí la tab."
+},
+{
+"startMs": 1555000,
+"endMs": 1558000,
+"speaker": "Speaker 2",
+"text": "Qué tal?"
+},
+{
+"startMs": 1558000,
+"endMs": 1562000,
+"speaker": "Speaker 2",
+"text": "No, no, no, Yudke Vadkei, la Shen es Yudke Vadke."
+},
+{
+"startMs": 1562000,
+"endMs": 1577000,
+"speaker": "Speaker 1",
+"text": "Ya, Keter, el primero fue Keter, solito, el lodo Yudkei es Jojmai Vina. Hashem es utkebabkei, es el tiferi. Kluri has el ikburav. Tzvakot, son netzahiod."
+},
+{
+"startMs": 1577000,
+"endMs": 1602000,
+"speaker": "Speaker 1",
+"text": "Ahh. Son netzahod. Dice. Uladefilo yesod. Si, netzahod yesod. Sheuh, yo, Shev, al-Kizeh, Rabbnizam. Maljut, es Maljut. Kizeh es el-Kizeh al-Bhala. Ramalli. Ishmael ni barheine."
+},
+{
+"startMs": 1602000,
+"endMs": 1617000,
+"speaker": "Speaker 1",
+"text": "Sí. Martilo, y Ratson, mi lepaneja, mi doteca, vitikaneslahem, ifnim."
+},
+{
+"startMs": 1617000,
+"endMs": 1621000,
+"speaker": "Speaker 1",
+"text": "Sí."
+},
+{
+"startMs": 1621000,
+"endMs": 1630000,
+"speaker": "Speaker 1",
+"text": "Venía. Eh? No?"
+},
+{
+"startMs": 1630000,
+"endMs": 1636000,
+"speaker": "Speaker 1",
+"text": "Sí, estoy diciendo yo no sé. Hay que entender qué tipo de quiluya."
+},
+{
+"startMs": 1636000,
+"endMs": 1640000,
+"speaker": "Speaker 2",
+"text": "Según Lo que se dicieron todos los quiluya juntos. O sea, son todas las fibras juntas."
+},
+{
+"startMs": 1640000,
+"endMs": 1642000,
+"speaker": "Speaker 3",
+"text": "Claro, lo que tú dices que no es un malaj."
+},
+{
+"startMs": 1642000,
+"endMs": 1651000,
+"speaker": "Speaker 2",
+"text": "Sí, a eso me refiero. Porque yo pensé que ese nombre, Akatri, es este, es un malaj, pero no, no es quiluasé nomás."
+},
+{
+"startMs": 1651000,
+"endMs": 1656000,
+"speaker": "Speaker 1",
+"text": "Hay que andarlo. Un estado de mental, Alquiserva."
+},
+{
+"startMs": 1656000,
+"endMs": 1659000,
+"speaker": "Speaker 1",
+"text": "Dice."
+},
+{
+"startMs": 1659000,
+"endMs": 1691000,
+"speaker": "Speaker 1",
+"text": "\"Kamash Malan, se lote he birkate diot kalave neja\". Ma que es de aquí, todo el kamash Malan de esta increíble historia, es que si ahorita viene alguien y le das quince pesos, dice. \"Datashem, que si no te mande\". \"Kamash Malan, se lote he birkate diot kalaabe neja\", ganiflado. Estás hablando de lo más gaboa en el gaboa que hay. La más malanque, cada vez que el rojo roce."
+},
+{
+"startMs": 1691000,
+"endMs": 1697000,
+"speaker": "Speaker 1",
+"text": "Bisposo, jamás, su loro roce, mira a ti. Más poco la acipu."
+},
+{
+"startMs": 1697000,
+"endMs": 1708000,
+"speaker": "Speaker 2",
+"text": "O sea, y más que si, como el bajo. Maika más malanque."
+},
+{
+"startMs": 1708000,
+"endMs": 1716000,
+"speaker": "Speaker 1",
+"text": "Maika más. Según el bajo, estoy llamando. Estoy con la hidus, el lote de Virkate Dios calaveneja. Kibejor."
+},
+{
+"startMs": 1716000,
+"endMs": 1730000,
+"speaker": "Speaker 1",
+"text": "Eso es lo que Ashem está esperando, Bircate Diot. Lo que Ashem está esperando siempre es Bircate Diot. Nuestra bodada es Bircate Diot. De lo muy love Klum. A Olampa Nuit."
+},
+{
+"startMs": 1730000,
+"endMs": 1736000,
+"speaker": "Speaker 1",
+"text": "Ya estás explicando. Si. Nos está diciendo que nuestros ponen,"
+},
+{
+"startMs": 1736000,
+"endMs": 1746000,
+"speaker": "Speaker 2",
+"text": "Vete, no es Bircate Diot. Klumar, o sea, no le vamos a dar nada, pero es para nuestro bien. Es lo que estás hablando diciendo, ¿No? No, el mundo de que sí,"
+},
+{
+"startMs": 1746000,
+"endMs": 1771000,
+"speaker": "Speaker 1",
+"text": "Nosotros le damos a él kill. Sí, así, así él quiso, así él quiso, que él, que le va olam, sushé mit galeva olam. El día de que nosotros le damos. Es que nosotros tenemos que pedir esa tau. Pedir esa tau, ¿Ah? Entonces pedir esa braja, que pasé hasta el mundo y se note, su tov, su shé. Hellot de Dios,"
+},
+{
+"startMs": 1771000,
+"endMs": 1793000,
+"speaker": "Speaker 2",
+"text": "Calaveneja quiere decir así como Hashem, hizo así el mundo, de esa manera, entonces también tú, no quiere decir, como él me tiene contigo, también tú te tiene con el otro, que cuando alguien te da una beraja a ti, te tiene. Pero la distancia."
+},
+{
+"startMs": 1793000,
+"endMs": 1825000,
+"speaker": "Speaker 1",
+"text": "Entre nosotros y Hashem, la firma en Gadol, si, si, si, si. El tamaño del algo lo largo. Eso es lo que quiso hacer, que sí sea. O sea, el vivirito de los cinco pesos es menos. No, eso no se dio. No sirve eh? Estoy hablando de un Judy. No lo quiere aprender de aquí? Que un Goys o un Goys. Cualquiera, gente se dio cualquier cosa. Que Dios lo bendiga."
+},
+{
+"startMs": 1825000,
+"endMs": 1829000,
+"speaker": "Speaker 1",
+"text": "No sé a qué se rompe con un Goys dice Dios."
+},
+{
+"startMs": 1829000,
+"endMs": 1836000,
+"speaker": "Speaker 1",
+"text": "Tengas un."
+},
+{
+"startMs": 1836000,
+"endMs": 1845000,
+"speaker": "Speaker 3",
+"text": "Buen día."
+},
+{
+"startMs": 1845000,
+"endMs": 1854000,
+"speaker": "Speaker 3",
+"text": "No tengo."
+},
+{
+"startMs": 1854000,
+"endMs": 1858000,
+"speaker": "Speaker 1",
+"text": "Idea, puede ser."
+},
+{
+"startMs": 1858000,
+"endMs": 1864000,
+"speaker": "Speaker 1",
+"text": "Quiero buscar si el Goen habla de esta. De esta parte."
+},
+{
+"startMs": 1864000,
+"endMs": 1865000,
+"speaker": "Speaker 1",
+"text": "Qué traete a tu compa?"
+},
+{
+"startMs": 1865000,
+"endMs": 1886000,
+"speaker": "Speaker 2",
+"text": "Sí, Waka le voy a contar. Ya se cargó."
+},
+{
+"startMs": 1886000,
+"endMs": 1896000,
+"speaker": "Speaker 3",
+"text": "Qué hay?"
+},
+{
+"startMs": 1896000,
+"endMs": 1926000,
+"speaker": "Speaker 3",
+"text": "Hablar este putero Abraham Fried, seguramente han pensado mucho en la canción. Cuántas veces canto a ti? Siempre. Cómo Buenas Pérez? Siempre que te damos la espera acá."
+},
+{
+"startMs": 1926000,
+"endMs": 1947000,
+"speaker": "Speaker 3",
+"text": "Uno por uno a la pelota. Sin de mor, ¿no?"
+},
+{
+"startMs": 1947000,
+"endMs": 1953000,
+"speaker": "Speaker 3",
+"text": "Pues sí."
+},
+{
+"startMs": 1953000,
+"endMs": 1955000,
+"speaker": "Speaker 1",
+"text": "Encontraste?"
+},
+{
+"startMs": 1955000,
+"endMs": 1968000,
+"speaker": "Speaker 1",
+"text": "Sí, habla, habla, podemos leerlo, a ver qué entendemos, qué libro es. Yo tengo uno de Mozart, pero hay uno que no."
+},
+{
+"startMs": 1968000,
+"endMs": 1975000,
+"speaker": "Speaker 2",
+"text": "Es de Mozart."
+},
+{
+"startMs": 1975000,
+"endMs": 1982000,
+"speaker": "Speaker 1",
+"text": "Quién Es? Sí."
+},
+{
+"startMs": 1982000,
+"endMs": 2013000,
+"speaker": "Speaker 1",
+"text": "Desde Yeh Ratson también son las pero también hablan porque dice Yeh Ratson ¿Qué es ratón? Qué esperas es el ratón? Entonces, si hay ratón, este es el ratón. No, es Aba."
+},
+{
+"startMs": 2013000,
+"endMs": 2048000,
+"speaker": "Speaker 1",
+"text": "Eh? Está hablando de un hombre. El hombre es Aba. Cohma es Aba. Dónde agarraste? Quién dijo el goen?"
+},
+{
+"startMs": 2048000,
+"endMs": 2051000,
+"speaker": "Speaker 1",
+"text": "Dice."
+},
+{
+"startMs": 2051000,
+"endMs": 2057000,
+"speaker": "Speaker 1",
+"text": "Yud es el kikovesh y la hei es ala kikovshim."
+},
+{
+"startMs": 2057000,
+"endMs": 2077000,
+"speaker": "Speaker 1",
+"text": "Bigolu Rahamai, Yudgimel, tar aye de Rahmed, 13 puertas de Rahamed. Quién es el hijo del Gohen? Rabben o Abraham, ben Agra? Dice, Utvat, Rahamim, Ubedach, Klulim, Yudgimel Sharim, Vab."
+},
+{
+"startMs": 2077000,
+"endMs": 2082000,
+"speaker": "Speaker 1",
+"text": "Bigolu Rahamai es lavav."
+},
+{
+"startMs": 2082000,
+"endMs": 2090000,
+"speaker": "Speaker 1",
+"text": "Dice, mit gol elimk monschek atub. Geshemenatov, shayored alpimi dotav."
+},
+{
+"startMs": 2090000,
+"endMs": 2115000,
+"speaker": "Speaker 1",
+"text": "Betnaeg, dice the likol going mutipai, you nah khma, yored alla sakan sekan around, just give it to go in the digna. Shored alpimi dotav, dela son rigoro rahama. Bitnaeg imbanai, what this aqui abajo del este? What bam, is that Israel, name is Cori Israel. Neg imbanai vekanai, yadua. Ma,"
+},
+{
+"startMs": 2115000,
+"endMs": 2171000,
+"speaker": "Speaker 1",
+"text": "En el canal de dúo. Vamos a llamar milefanai. Sí? Que este nos pony, es el quete. Mosekatu, bekarati, beshem, ashem, lefaneja. A ver dice el hijo del cohen. Dice \"betnagin, banai\" o what vavtifertit. \"Kenndeem, infrm, swattatin, udmea corona, kaiadu\". También el ser de las diez filotas está desde que Hashem estaba hablando ahora Braidy ahorita ya está hablando Rabishol video Rabishol En dale la guía a kizeh Rabishol Ahorita vamos todo el hijo del guan Ramen isa, yarumen asa, vegababa, me od, o negat me od den elu andale nuestro nuevo marchem gimel risanot mekanenim bekizeh."
+},
+{
+"startMs": 2171000,
+"endMs": 2200000,
+"speaker": "Speaker 1",
+"text": "Y por eso ni a nadie me rozó, porque es Kimmel resonó. Como yo alambrica te dio chapel piso, un kuen gadol, he dio tu lo que ven mare. Sí? Bien abraham aquí, le llamen a bebe, talen, siente que un le brajau le tfilá, cama, mala, alte y calaven. Ahora dice el hijo del cover. Dice \"qui, este chem, que este, olé mis para Abraham, traki, akov, David\" Con tu David, ¿viste?"
+},
+{
+"startMs": 2200000,
+"endMs": 2234000,
+"speaker": "Speaker 1",
+"text": "Si, vedibreh ayamim, David malen En dibrah amim siempre David está malen Porque es ayud de David es cuando hace el Tziruf con Yosef para que no haya behmet Si David agarra el helek de Yosef David tiene que agarrar el helek de Yosef porque Yosef tiene un helek ¿no? Real, blend rahel Entonces David es leal Pero David para para estar mushlam necesita la ayuda de Yosef Entonces en dibrah amim siempre David se escribe con Yud Ben dale el bakla merkaba."
+},
+{
+"startMs": 2234000,
+"endMs": 2260000,
+"speaker": "Speaker 1",
+"text": "Kiseiyadua, David, Que David incluyo youssef. Kiseiyadua, bawlam.am.am, benisan."
+},
+{
+"startMs": 2260000,
+"endMs": 2262000,
+"speaker": "Speaker 1",
+"text": "Uh."
+},
+{
+"startMs": 2262000,
+"endMs": 2286000,
+"speaker": "Speaker 1",
+"text": "Atarab arroz. Keter el león. Atarab arroz. Ekene el kize ramenistán. Keter el león. Kize, Negged, Megava, Ramenistán, Negateru, Andades."
+},
+{
+"startMs": 2286000,
+"endMs": 2291000,
+"speaker": "Speaker 1",
+"text": "A ver, vamos a ver si el Mara lo abre. Bueno, ¿puedes compartir esta?"
+},
+{
+"startMs": 2291000,
+"endMs": 2298000,
+"speaker": "Speaker 1",
+"text": "Toma una foto, dame tu cel. A ver, tómala ahí porque."
+},
+{
+"startMs": 2298000,
+"endMs": 2308000,
+"speaker": "Speaker 1",
+"text": "Esta bastante de amor porque la quiero ver."
+},
+{
+"startMs": 2308000,
+"endMs": 2332000,
+"speaker": "Speaker 1",
+"text": "Ábrete el mar, ahorita van a."
+},
+{
+"startMs": 2332000,
+"endMs": 2345000,
+"speaker": "Speaker 2",
+"text": "Maral qué? En el hotel en el barilán? En el hotel donde el Maral?"
+},
+{
+"startMs": 2345000,
+"endMs": 2349000,
+"speaker": "Speaker 2",
+"text": "Donde el Maral?"
+},
+{
+"startMs": 2349000,
+"endMs": 2366000,
+"speaker": "Speaker 1",
+"text": "Al Maral es busco a Maral verajotes como a ver si los tienes."
+},
+{
+"startMs": 2366000,
+"endMs": 2371000,
+"speaker": "Speaker 3",
+"text": "Busco la de Maral y busco el Magaly, busco el Magaly de ahí."
+},
+{
+"startMs": 2371000,
+"endMs": 2389000,
+"speaker": "Speaker 2",
+"text": "No, no, no, esto no lo tienes. O sea, te puedo decir donde acá trae es el Vera, Este es el \"Bera Golat Dalek\", no sé si vamos a ver ese. Sí, o sea, digo, el que traiga ahí."
+},
+{
+"startMs": 2389000,
+"endMs": 2403000,
+"speaker": "Speaker 1",
+"text": "\"Bera Golat Dalek\" Hay varios, este es de Qasé Mitzbaler y luego hay otro \"Rabí Ishmael\" que está también ahí en \"Bera Golat Dalek\" Vamos a verlo."
+},
+{
+"startMs": 2403000,
+"endMs": 2417000,
+"speaker": "Speaker 1",
+"text": "Tengo Vera Gola si tienes. Pero no era el comentario de Maral. No, si no, nada mas no lo estamos abriendo en el Vera Gola directo, sino es un libro que recopiló todos los Marals."
+},
+{
+"startMs": 2417000,
+"endMs": 2420000,
+"speaker": "Speaker 1",
+"text": "Al ser de la de Mara."
+},
+{
+"startMs": 2420000,
+"endMs": 2430000,
+"speaker": "Speaker 1",
+"text": "El mismo Maral tiene. Pero no, verá. Vamos, dice, vamos rápido, hermano, mi shun, rápido si benzimbra."
+},
+{
+"startMs": 2430000,
+"endMs": 2519000,
+"speaker": "Speaker 1",
+"text": "Es muy largo."
+},
+{
+"startMs": 2519000,
+"endMs": 2530000,
+"speaker": "Speaker 1",
+"text": "A ver, velo buscando, eh. Dice, ahora voy a hacer un rapidse, bien. Biebet, filatamlo, neymar, elevet filati."
+},
+{
+"startMs": 2530000,
+"endMs": 2562000,
+"speaker": "Speaker 1",
+"text": "Mela mecha que os brujo. Mattle, mai, matlei, rattor me fanache, gnezur, rahamai, khatai. Vitnaheg, gin banai, bimeratarakamek nazim mai, ni frimsuratadi, bamaraje, rabintzorkimbo mara. Todo el libro \"Bera Gola\" viene a defender, Los librejas que gente mal que la gente se burla de ellos entonces dice vamara de el Rapín sur quimbaumara quien le meet pal el quien sola todo. Qué es lo que estaba."
+},
+{
+"startMs": 2562000,
+"endMs": 2570000,
+"speaker": "Speaker 2",
+"text": "Preguntando tequilo? Cómo va el vale a alguien? Mm?"
+},
+{
+"startMs": 2570000,
+"endMs": 2606000,
+"speaker": "Speaker 1",
+"text": "Dice. Veata re una quimi uzulatama serurulanu, Quién más aparte de Hazal? Que son los que ellos son los que nos dijeron si beca uva no hace dutashem mi corajero que se hizo el elefante o sea tu vienes aquí lo vienen ellos con una tana ¿Sí? Enod Bilbado, Emet Malkenu y Judashem ¿No? Quiénes son los que que mido? Que se diga quería chemá día y noche y que Judashem ¿Entonces qué?"
+},
+{
+"startMs": 2606000,
+"endMs": 2639000,
+"speaker": "Speaker 1",
+"text": "Dice. \"Mehia leal a dat, sajar consei u eme hombrein davar kasha salón, leus beta también, meh medu si trajo ma bat fila, uma utin ya no t fila, uma o la sont fila\". Ellos también qué es, qué significa \"leit palel\"? Sikas eltit bueno em bella sont fila, umila sont pilel, que diktiv, me llamo pin hast leit palel, sí, me forza, Relación pila el como se piensa hacia el reot paneja lo pilal ¿Qué es eso?"
+},
+{
+"startMs": 2639000,
+"endMs": 2663000,
+"speaker": "Speaker 1",
+"text": "Su lazón marchaba es vivo está a tu pila es pensar una marchaba dice como quien tengamos de mire anpig loi sabarit dice sabarit sabarit es sabar bueno creo a la nimpili me penai se uso pero masato davarse."
+},
+{
+"startMs": 2663000,
+"endMs": 2697000,
+"speaker": "Speaker 1",
+"text": "Es viene, tiene que ver con maxaba, ahorita voy a explicar. Es una marchaba, pero no es una marchaba, es un pensamiento, es una pnía, es ¿Qué quieres?"
+},
+{
+"startMs": 2697000,
+"endMs": 2709000,
+"speaker": "Speaker 1",
+"text": "Cuál es tu razón? Qué estás diciendo? Dice, nikretat fila mila son pilel, segulas o no saba, que ha ganado marchaba, si hace retorno. Sí."
+},
+{
+"startMs": 2709000,
+"endMs": 2745000,
+"speaker": "Speaker 1",
+"text": "Bedavar de nikrat fila, se retorno, hafetsu me vaques. Me dejas llamar mi nancha que es poco mucho palen, mi pinazo vituara a mitis. Lo que él quiere. Ese es el punto, es lo que él quiere. O sea, alguien que, que."
+},
+{
+"startMs": 2745000,
+"endMs": 2777000,
+"speaker": "Speaker 1",
+"text": "Qué quiere decir? Sin que I fine la shem. Y dice, uy, que quiero que ojalá que ahorita entre no sé qué persona. Sí, entonces este es lo que él quiere, eso se llama tfila, esta tipo está en estado de tfila, eso es tfila, no, tfila no es dafgasen, tal vez eso religiosamente sí, pero el verbo tfila es algo que está, algo que tú quieres, algo que tú estás buscando."
+},
+{
+"startMs": 2777000,
+"endMs": 2783000,
+"speaker": "Speaker 1",
+"text": "Nosotros, todo lo que buscamos, todo lo que conocemos. Claro. Exactamente."
+},
+{
+"startMs": 2783000,
+"endMs": 2810000,
+"speaker": "Speaker 1",
+"text": "\"Barenin y el fila raque pakasha\". Este es un blasón, la fila bejol makom. También dice. \"Raquet se la dan, pakashatu, me hace mi trabajo y lo que mamo y va que hace todo que hace, va. Y ojalá que entre no sé qué persona\". A quién le pediste? Quiero que? No está haciendo nada, y si no. Dices que esta por favor te queremos. Pero es lo que."
+},
+{
+"startMs": 2810000,
+"endMs": 2824000,
+"speaker": "Speaker 2",
+"text": "Estamos diciendo, es lo que dije que. Que, que ahorita."
+},
+{
+"startMs": 2824000,
+"endMs": 2856000,
+"speaker": "Speaker 1",
+"text": "Es lo que dice el Mahara, lo que esta diciendo, fila es. Ojalá. Quiero, quiero que pase esto, como se dice, quiero que alguien entre a la puerta. El que lo pensó, no está pensando en Hashem, es un razón, se llama que hubo mit palé. Uu, bueno mit palé, no es que, dice el mahara, una persona que mit palé lo la Hashem, es un stu. Imagínate dice que porque quieres que sea así, va a pasar así."
+},
+{
+"startMs": 2856000,
+"endMs": 2887000,
+"speaker": "Speaker 1",
+"text": "Entonces todas tus pilas, esta diciendo algo muy amor. Es el razón. Es que mete. Philah es razón lo que quiere la persona. Eh? Si. Philah es razón es lo que yo quiero. Es lo que yo estoy anhelando. Es como se dice en español, ojala. Bueno, me meto ojalá, ya que me meto es un stut. Ojalá. Ojalá es un stut. Me meto ojalá también es así. Si, porque ala es eso. Es una palabra que viene de árabe. Un shallah. Ojala es mi nación árabe."
+},
+{
+"startMs": 2887000,
+"endMs": 2896000,
+"speaker": "Speaker 1",
+"text": "Si no es un stut es palabra. Esto no es ojalá, ojalá que entre, no sé. Ojalá que."
+},
+{
+"startMs": 2896000,
+"endMs": 2910000,
+"speaker": "Speaker 2",
+"text": "Sí quieras. Por qué te quiero dar la palabra inshala como ojalá? Inshala que así sea, ¿no? Sí, sí, sí, enshala. Y estás hablando de eso. Sí, sí, sí, enshala, amén. Ojalá."
+},
+{
+"startMs": 2910000,
+"endMs": 2918000,
+"speaker": "Speaker 1",
+"text": "Como bueno. Que así quiera. Sí. Desde hoy están los anfilados. Amén."
+},
+{
+"startMs": 2918000,
+"endMs": 2923000,
+"speaker": "Speaker 2",
+"text": "Amén también es lo mismo, ¿no? Pues también es contestar algo de alguien."
+},
+{
+"startMs": 2923000,
+"endMs": 2956000,
+"speaker": "Speaker 1",
+"text": "Okay. \"Raquetzel Adán para casatum\". \"Imloquen mamuil para casatoque\". Mi colma con los anfilados, los son bakasán. Mi cama, se siente que ahora, ha fettume vaquet, beda varade. Siria, la zonmi le fanav. Si, pues sura, jamás. Pero de esto viene un limón, que Ashem nunca quiere verte y enojarte. Que pueda el malaj caminar en el malaj más de rahamín. Vinaeguin van a venir de rahamín que no es definitivamente."
+},
+{
+"startMs": 2956000,
+"endMs": 2971000,
+"speaker": "Speaker 1",
+"text": "Más hambrú los once sacar los hombres de los hombres, sacar los ojos jafets o me vaques. Y ahora dice, pero estamos con las hambrú las bezdelas onda. Por qué no dices que el rojo roce? Por qué mi palet?"
+},
+{
+"startMs": 2971000,
+"endMs": 2980000,
+"speaker": "Speaker 1",
+"text": "Omra masamarakausuko mitpalel yeraton sikhezu rahamaitkazai. Velozakausuko mitpalel sikhezu rahamaitkazai."
+},
+{
+"startMs": 2980000,
+"endMs": 2982000,
+"speaker": "Speaker 1",
+"text": "Cuál es la diferencia?"
+},
+{
+"startMs": 2982000,
+"endMs": 2983000,
+"speaker": "Speaker 2",
+"text": "Mitpalel."
+},
+{
+"startMs": 2983000,
+"endMs": 3000000,
+"speaker": "Speaker 1",
+"text": "Yeraton sikhezu rahamaitkazai. Velozakausuko mitpalel sikhezu rahamaitkazai. Lo mismo, ¿no? Sikhezu rahamaitkazai. Mitpalel, sikhezu."
+},
+{
+"startMs": 3000000,
+"endMs": 3007000,
+"speaker": "Speaker 1",
+"text": "Por qué le dices? Qué es razón?"
+},
+{
+"startMs": 3007000,
+"endMs": 3017000,
+"speaker": "Speaker 1",
+"text": "Que así sea el ratón. El ratón de quién?"
+},
+{
+"startMs": 3017000,
+"endMs": 3023000,
+"speaker": "Speaker 1",
+"text": "Por qué dices que así sea el ratón? Entonces cuando tú ves."
+},
+{
+"startMs": 3023000,
+"endMs": 3028000,
+"speaker": "Speaker 2",
+"text": "Cuando tú le piensas a algo irrazón. Es de irrazón. Que tu razón también."
+},
+{
+"startMs": 3028000,
+"endMs": 3058000,
+"speaker": "Speaker 1",
+"text": "Pero una persona que no dice irrazón. Porque ahora aumenta el irratón. Claro. Dice. Que lama y el ratón. Que la cajamar y el razón. Bimaiad, fila, si resurra jamad casai, sin razón. No hay necesidad, si le muda gamur, si le sura jamad, caso."
+},
+{
+"startMs": 3058000,
+"endMs": 3072000,
+"speaker": "Speaker 1",
+"text": "Si le muda gamur, si le corrije, ¿por qué? Pues bien, roba a queso de ratzo. Si le da razón a gamur, necesita, da barzo, me va queso, se le muda. Dice, te dicen así. Yo a veces quiero algo."
+},
+{
+"startMs": 3072000,
+"endMs": 3076000,
+"speaker": "Speaker 1",
+"text": "Por ejemplo, ¿tú quieres algo?"
+},
+{
+"startMs": 3076000,
+"endMs": 3089000,
+"speaker": "Speaker 1",
+"text": "Quiero querer o no? No. Tu quieres algo, tu quieres algo pero no es lo que quieres sino es parte de algo mas grande que tu quieras."
+},
+{
+"startMs": 3089000,
+"endMs": 3095000,
+"speaker": "Speaker 2",
+"text": "Cuando yo dije quiero que entre esta persona. O sea no es que para que entre Stam que entre fisicamente."
+},
+{
+"startMs": 3095000,
+"endMs": 3130000,
+"speaker": "Speaker 1",
+"text": "Exactamente. Tu quieres que el te diga. Yo quiero exactamente decirle algo a esa persona. El primero le quiero que entre. Entonces mete aca, mi bakasha es que el entre. Mi razon es el razon kolel, shalem, que sea así. Entonces viene aquel caso del que dice, no nada más mitpalem, que sea así. Ella, ma mit, que este marazongelo, mileshadhilat, este marathon desde un principio es eso."
+},
+{
+"startMs": 3130000,
+"endMs": 3166000,
+"speaker": "Speaker 1",
+"text": "Y se lo fija, no es que esto tiene razonshale, es razong a gamour, imchada vaishuma, que es mi shalemut bien mit. Si te fijas jamás, si te fijas, razón de mamar, va a casa todo el jefe. Que esta vacación no es una vacación para ti, si es razón y gamour. Refresca de él y es bien jefe tu bien razón, son dos muchos. Si tiene mar a la razón y gamour, y el jefe te sabrá algo para ti. Bien tai, y a mis lebut que es la razón, de la barbaruru, de Rambam, Qatar, Vestifro, Moreno, Mujin, Kalekbet, Verkutt, que puede ver razón,"
+},
+{
+"startMs": 3166000,
+"endMs": 3187000,
+"speaker": "Speaker 1",
+"text": "Luif al-bishvil tahlit ma Rak ma. Bishvil tahlit rakhlit ma rakh sunim tahlitton. Ka sherif al-mi fal, se lou paal a data. En desunidat, se pal ata, mas se lou paal a data, kizdeu amitat da ratón batmos shirt se bien posi."
+},
+{
+"startMs": 3187000,
+"endMs": 3195000,
+"speaker": "Speaker 1",
+"text": "Un ratón es un ratón constante que no cambia. Ese es el ratón. Es el que no vea."
+},
+{
+"startMs": 3195000,
+"endMs": 3208000,
+"speaker": "Speaker 1",
+"text": "Siempre ve este. Hay un razón que engloba todos los restaurantes de la persona. Cuál es? Su razón más prima. Algo quieres?"
+},
+{
+"startMs": 3208000,
+"endMs": 3210000,
+"speaker": "Speaker 1",
+"text": "Cada cosa es parte de esa razón."
+},
+{
+"startMs": 3210000,
+"endMs": 3221000,
+"speaker": "Speaker 2",
+"text": "Sí, es que aquí lo. Siempre va a haber algo más fondo. Quiero dinero, pero ¿por qué quieres dinero? Pero por qué quieres esto? Y al final todos llegas. Uno. Cuál es ese? Tucayo."
+},
+{
+"startMs": 3221000,
+"endMs": 3234000,
+"speaker": "Speaker 1",
+"text": "Exactamente. Entonces mi mail eh es lo que dice Rama, que eso no se llama un shinui que hayan cambiado de opiniones a cada rato, porque el ratón es uno."
+},
+{
+"startMs": 3234000,
+"endMs": 3275000,
+"speaker": "Speaker 1",
+"text": "Sí? Quizás mi ratón ratón, si el ratón es uno. El fin se llama ratón, que le da ratón. Milo rote, el rote, el razón, nunca cambiaste al segundo virus."
+},
+{
+"startMs": 3275000,
+"endMs": 3280000,
+"speaker": "Speaker 1",
+"text": "Vivehol, que también, si de repente es la igual, solo fue un cambio en el Ratzon. Tiene que ver con."
+},
+{
+"startMs": 3280000,
+"endMs": 3282000,
+"speaker": "Speaker 2",
+"text": "Todo lo que estás hablando hasta ahorita."
+},
+{
+"startMs": 3282000,
+"endMs": 3289000,
+"speaker": "Speaker 1",
+"text": "Exactamente, Entonces cuando él dice que él quiere rahamín, no es que quiera rahamín, en el slaw ve."
+},
+{
+"startMs": 3289000,
+"endMs": 3297000,
+"speaker": "Speaker 1",
+"text": "Entonces, quiere, ve en el Ratzon, es en el slaw, y quiere que el slaw se aplique en el slaw ve también."
+},
+{
+"startMs": 3297000,
+"endMs": 3300000,
+"speaker": "Speaker 2",
+"text": "O sea, quita que el slaw eres rahamín."
+},
+{
+"startMs": 3300000,
+"endMs": 3301000,
+"speaker": "Speaker 1",
+"text": "Y ese nunca cambia."
+},
+{
+"startMs": 3301000,
+"endMs": 3308000,
+"speaker": "Speaker 2",
+"text": "Nunca cambia. Solamente que, cómo se va a hacer, de qué manera se va a lograr eso, es lo que pide que se."
+},
+{
+"startMs": 3308000,
+"endMs": 3341000,
+"speaker": "Speaker 1",
+"text": "Va a hacer. Todo lo que hay en el mundo. Entonces, Hashem necesita tener esa razón para que eso se traduce en el mundo. \"Que lavar se sube mis bemidat mixpat, dentro de que es mi pozo todo avar, que mi data mixpat no tiene mas moses, si yo le tengo entre hijos les de vacacion."
+},
+{
+"startMs": 3341000,
+"endMs": 3383000,
+"speaker": "Speaker 1",
+"text": "Al lavar se un en humitat de mispat, cuando se va a hacer algo la humita de mispat, tu mamá se le fui a mi guía, le fui a los klalim, que el ya puso. Cuando las cosas funcionan según los klalim, pues el puso klalim, las cosas caminan según los klalim, quiere que las cosas no caminen según los klalim, según su razón. Raratón rompe en cualquier clan. Sigue hablando del random, no?"
+},
+{
+"startMs": 3383000,
+"endMs": 3419000,
+"speaker": "Speaker 1",
+"text": "No, no, no, esto es random. Si, kikot fila bakesak murala, azota tok. Itok fila toi barak sik Jesus Rahamed Kazok, bineg in barak mideta Rahamein primsuata dei, wizzen imcha bawlamatov. Afkien imitadadeen, een rawizzien imtau alandarzen humitada mispal. Rakzemitzachu wiz barakato bakamun, vekezi folatow. Sikola sergutou, me vakasi folato. We fekten efegazah iftarrah, vekhefet misgu misokekelerala also."
+},
+{
+"startMs": 3419000,
+"endMs": 3448000,
+"speaker": "Speaker 1",
+"text": "Vilo amar beta la sonsui baraja to beatmo, ulekah me okeshif hola todo. Ayyor reim rutinium kubalim. Racha ambru, de la sonsfilam binakatu, se viola raya, decimatjittim, bebet filati, bet filatam lunayemara el bet filati. Él dice, que este ayemara es como la sonda del Ramjal que dice, hijokatob leti."
+},
+{
+"startMs": 3448000,
+"endMs": 3483000,
+"speaker": "Speaker 1",
+"text": "Él es el too, un rotze, vete, le mamesh, quieren le mamesh o ataba. Entonces el ratón es oprimido y dice, no es un ratón. Vemos que es como lo explicamos también la persona. La persona, su primer ratón no es algo, uno más específico que tú quieres. Vete, tu mimosh de lo que eres. Entonces, le mamesh, eligiod, que es imprimido, vete, tifrota juta. Entonces, entonces, entonces, como dice el ramajal, mijo catolete."
+},
+{
+"startMs": 3483000,
+"endMs": 3516000,
+"speaker": "Speaker 1",
+"text": "Entonces, si en la hermana no estuviera escrito que hashemit pallel, no tuviera ninguna, si no hubiera este escrito que eshemu ato, vete. Lo que quiere es vehemet que el mundo, en el mundo pueda fluir vete en esas altabas, bixle mut. En el mundo pueda fluir esas altabas, bixle mut. Entonces dice, si fuera que está escrito así en la hermana, nadie hubiera tenido un problema. Todo el problema es porque dice Mixpalel. Este es de Vetz en la baraja, que Mixpalel es le mamesh, Vetz."
+},
+{
+"startMs": 3516000,
+"endMs": 3529000,
+"speaker": "Speaker 1",
+"text": "Que él pueda le mamesh este smoky, viejo. Me explico, que él puede, me meta agarrar ese todo. Y no se quede con él, sino nos llega también hacia nosotros. Le hice lo que dice el último plan. Se viene la letaret."
+},
+{
+"startMs": 3529000,
+"endMs": 3532000,
+"speaker": "Speaker 2",
+"text": "Por Qué Mixpalel y no."
+},
+{
+"startMs": 3532000,
+"endMs": 3549000,
+"speaker": "Speaker 1",
+"text": "A ellos les molesta la palabra mitzpalel. No, no porque mitole no rotse. A ellos les molesta la palabra mitzpalel, dice. Que no haya quien. Sí. Entonces, el maral explica que el itpalel es que ese razón pueda memet litfameh."
+},
+{
+"startMs": 3549000,
+"endMs": 3581000,
+"speaker": "Speaker 1",
+"text": "El razón no es tamo no maxabá, el ratón es es kilokolo que tiene la persona beatzmov. Entonces dice el almaral. Si la emara hubiera estado escrito que ashem hutov, behrotze, Utov, la queja fetla de ti Nadie hubiera tenido usted. Dice. \"Es za kawana que hache mitzpalel\" Ahora, ¿por qué usaron la palabra mitzpalel? No lo dijeron como dice Rafa al mijo katou leti? Porque samhuetla pasuk, es el pasuk, es lo que usaba la palabra el puesto de mitzpalá."
+},
+{
+"startMs": 3581000,
+"endMs": 3598000,
+"speaker": "Speaker 1",
+"text": "Ubiuri nian de kibet filatam ubeta mikdash, se samut filatam es el Israel es la shem ikwarak. Shinaegi mahem vi midatuu leu niem shuratati. Cuál es el chat pasout del pasouk?"
+},
+{
+"startMs": 3598000,
+"endMs": 3605000,
+"speaker": "Speaker 1",
+"text": "En Beth Filati, que van a venir a Beta Bit Dash, a que Dice."
+},
+{
+"startMs": 3605000,
+"endMs": 3614000,
+"speaker": "Speaker 1",
+"text": "Acá, este es mitzfila, son 2 cosas, cuando ellos mitzpalelim, entonces, pero si yo les doy, no,"
+},
+{
+"startMs": 3614000,
+"endMs": 3623000,
+"speaker": "Speaker 2",
+"text": "Cuando ellos mitzpalelim quiere decir que mi razón de Leti ya es algo que mitzpamesh,"
+},
+{
+"startMs": 3623000,
+"endMs": 3666000,
+"speaker": "Speaker 1",
+"text": "Lo que Ashev me está pidiendo. Es que nosotros pidamos fila, porque no puede le tila, nunca viejo, si no pides fila, porque no? Porque por mas que te ven, te den no es la tabada. Te dio dinero, la tabada era el keshe. La tabada es la primera de la Shemes, ya te va mi tío, ya no vaya la tela de queso. Ya te lo está dando. No lo estás recibiendo tu, porque esta no es la tabada que te está dando. El dinero que te está dando es una mala manera en como."
+},
+{
+"startMs": 3666000,
+"endMs": 3688000,
+"speaker": "Speaker 1",
+"text": "Y esa es la. Estabas buscando esto? Sí. Leka, vet filat, Israel, ubet filat, aka, aka, aka, aka, aka, Aka."
+},
+{
+"startMs": 3688000,
+"endMs": 3693000,
+"speaker": "Speaker 2",
+"text": "Es este,"
+},
+{
+"startMs": 3693000,
+"endMs": 3723000,
+"speaker": "Speaker 1",
+"text": "Este, sí, sale, que por qué dice mit palel? Porque en el pasuk dice que le llamat filati. Es que ellos mitpalelim, ellos mitpalelim, cuando ellos mitpalelim, este, la final nosotros mitpilados. A veces uno dice, ay ya man, mitpalel, la eso no quiere. Viene acá y te dice, \"Achem mitpalelcha titpalel\" \"Achem mitpalelcha titpalel\" \"La maki uk, baktukhaleti\"."
+},
+{
+"startMs": 3723000,
+"endMs": 3725000,
+"speaker": "Speaker 1",
+"text": "Para que."
+},
+{
+"startMs": 3725000,
+"endMs": 3735000,
+"speaker": "Speaker 2",
+"text": "Te deje. Mamá, recíbelo. El ya puso suzpanim. Pero además pon tu tuzpanim para que te pueda dar."
+},
+{
+"startMs": 3735000,
+"endMs": 3762000,
+"speaker": "Speaker 1",
+"text": "Luego, qui rau, si e daf, cabilo sont fila kiat fila ume guia el atmose la mit palen. Sí, eso es el etxem de mitpalela latfila. O sea, mitpale no me quiere llevar su jafetzmo ume guia davarse el atmo. Ugnese ashem mitbarak atov. Nos está enseñando también a nosotros como peritfila, porque si ashem diría yo rotze, yo también puedo decir. \"Can y Rosé ahorita, yo quiero esto\"."
+},
+{
+"startMs": 3762000,
+"endMs": 3794000,
+"speaker": "Speaker 1",
+"text": "Cuando yo digo \"an ispalela\" dice. De dónde viene? De un lugar mucho más amok, de algo que ni Rosé. El razón más amok es el razón que hasta mi palele. Es lo que hasta shoé flete. Si? Eso es tfilá. Tfilá, esto se infa masamucá. Si me flete o no? Entonces mi mei le ha quedado esto, cuando él dice que él mi palen, no es un ratón que quiere que así sea. Es el mitzpalé, es el razón más amón. Pero esto también nos enseña a nosotros."
+},
+{
+"startMs": 3794000,
+"endMs": 3810000,
+"speaker": "Speaker 1",
+"text": "Tiene que ser que Bethen venga desde el lugar más amor. Es que pidas, Bemet, lo que Bemet, lo que quieres, sabes lo que tienes que pedir. Dice. Necesariamente no haga tome, porque es Lifol Atomy. Qué es Lifol Atom?"
+},
+{
+"startMs": 3810000,
+"endMs": 3844000,
+"speaker": "Speaker 2",
+"text": "Una cosita más, Hilu. Muchas veces, Hilu. Venimos de un lugar en donde tenemos que convencerlo. Lulo, Rotze, venir y Rotze convencerlo para que quiera. No es así. No es una tifiza diferente. Nada más que él necesita que esta tifila para que sea el ketchen, para que se logre la matará. Pero él quiere más darte. Ay, yo te mi magia para. Es la tifizade, como que convenzo, como que luego."
+},
+{
+"startMs": 3844000,
+"endMs": 3852000,
+"speaker": "Speaker 2",
+"text": "Le voy a cambiar su Majshabat que quiere conmigo. Me quieres ahorita estoy sufriendo? Y Ashem, yo que pienso. Voy a llorar para que le."
+},
+{
+"startMs": 3852000,
+"endMs": 3853000,
+"speaker": "Speaker 1",
+"text": "De Rajmin."
+},
+{
+"startMs": 3853000,
+"endMs": 3860000,
+"speaker": "Speaker 2",
+"text": "Pero lo voy a llorar como que le lloro al patrón para que le de Rajmannut. No, no, no. Ashem ya quiere el top."
+},
+{
+"startMs": 3860000,
+"endMs": 3892000,
+"speaker": "Speaker 1",
+"text": "Y tu no lo estas poniendo recibir. Hay muchos Makhasim y muchas cosas que estan. Quiere que descubras algo mas también. Habla Ikar como se llama Manu Kibdel. Iez venga bakasal de bakasá. Kiz vakasá venu mit haze kolkaga bakasá. Le fizen a arsu me bakas kolkaziot termina rawui, hatcheterk lit haze kabalatz fila, waldebarzenu rawui, yod. Nazame at smoking low hait hatskut, im low hait hatsku. Vignik ratz fila, zu neman maksaftowi kabanatosu, shugules de viyote."
+},
+{
+"startMs": 3892000,
+"endMs": 3926000,
+"speaker": "Speaker 1",
+"text": "Dice. Peze shamblu, peperk jamishi de brajot, arbatzi him gizu, pelohen. Doraumazim tobim ut filau de lejeres, tramarsam, filaminais, en el mar hazak para meterle beca. Que es algo que necesitas, vete, dit hazk, que bien meto lo quieres. Sí. Estoy en el mar, mi preso es que este bar, se lo necesitan. Y es que este bar, es que este bar, se no lo ulo. Bien ma, se hu, it baraja fet, se e no le fi a mis pad."
+},
+{
+"startMs": 3926000,
+"endMs": 3950000,
+"speaker": "Speaker 1",
+"text": "Si uno quiere darte, nosotros pensamos, no, soy mis dos patas, Miguel y no, Miguel. Dice, todo lineando, y para él me hace lo, Miguel. Me hace Miguel."
+},
+{
+"startMs": 3950000,
+"endMs": 3982000,
+"speaker": "Speaker 1",
+"text": "Dice, vete, me ha grado, todo lineando las personas que te pilas. Dicen, no, no hay nian de las finales, que no se ha dicho. No, no."
+},
+{
+"startMs": 3982000,
+"endMs": 4006000,
+"speaker": "Speaker 1",
+"text": "Ahora bien, bien. Y dijeron que, que unos criticaran la canción de \"Odio terto\", \"Odio terto\"."
+},
+{
+"startMs": 4006000,
+"endMs": 4015000,
+"speaker": "Speaker 1",
+"text": "Entonces. Por qué? Porque cuando dices \"Odio terto\", más que es del otro."
+},
+{
+"startMs": 4015000,
+"endMs": 4025000,
+"speaker": "Speaker 1",
+"text": "Sí. Más pues el otro. Acá está escrita la respuesta. La respuesta es que sí hay odio tierto. Sí? Te tomo?"
+},
+{
+"startMs": 4025000,
+"endMs": 4027000,
+"speaker": "Speaker 2",
+"text": "Sí, Sí. Exactamente. Pero a todos los."
+},
+{
+"startMs": 4027000,
+"endMs": 4035000,
+"speaker": "Speaker 1",
+"text": "Brujos quieren distinguir su ataque. Odio tierto. No, pero makesh, no te odio tierto."
+},
+{
+"startMs": 4035000,
+"endMs": 4044000,
+"speaker": "Speaker 2",
+"text": "No quiere darte. Pero el puto es que atatir te et, ¿eh? Esta es la validez, ¿eh? Todo está mushlam,"
+},
+{
+"startMs": 4044000,
+"endMs": 4045000,
+"speaker": "Speaker 1",
+"text": "No hay nada."
+},
+{
+"startMs": 4045000,
+"endMs": 4051000,
+"speaker": "Speaker 1",
+"text": "Está mushlam."
+},
+{
+"startMs": 4051000,
+"endMs": 4072000,
+"speaker": "Speaker 2",
+"text": "Esto metari. Esto metari es también un ashlam. Y todo lo que es tfilá. Y si no te lo dio, asmayoi la tfilá."
+},
+{
+"startMs": 4072000,
+"endMs": 4073000,
+"speaker": "Speaker 1",
+"text": "Ya te digo, mis."
+},
+{
+"startMs": 4073000,
+"endMs": 4097000,
+"speaker": "Speaker 2",
+"text": "Pads ya te lo digo. Pero él quiere que atate uzel, que atate uzel, que atate Uznel."
+},
+{
+"startMs": 4097000,
+"endMs": 4106000,
+"speaker": "Speaker 1",
+"text": "Mucho. Que vivamos en el mundo del día. Uff, uff."
+},
+{
+"startMs": 4106000,
+"endMs": 4123000,
+"speaker": "Speaker 1",
+"text": "Ya, te apaga la chilada, te apaga todo, ¿Me Explico?"
+},
+{
+"startMs": 4123000,
+"endMs": 4156000,
+"speaker": "Speaker 1",
+"text": "Ya, deja, ya. No. Tienes? El mundo camina en automático de Ashem, así no es porque Ashem quiere, y ahorita. Sí? Mehameen el hikus varime lo vamrimen, se bau mitoi baraja alzada, con una razón. Qué? Ajafet se mete a los más religiosos."
+},
+{
+"startMs": 4156000,
+"endMs": 4157000,
+"speaker": "Speaker 1",
+"text": "Es más por un kilo."
+},
+{
+"startMs": 4157000,
+"endMs": 4160000,
+"speaker": "Speaker 2",
+"text": "Es muy frunkal."
+},
+{
+"startMs": 4160000,
+"endMs": 4190000,
+"speaker": "Speaker 1",
+"text": "Data filosofía. Puede ser muy frunkal, mamá. No hay cambio de Nación Kio. Me explico que lo digan de Nusa. Dónde es lo mismo? Ahorita lo vas a convencer. Ya te dio todo lo mejor. Es que nunca vete que ven en darme todo lo mejor mitad de la Kavanai, mitad del ratón, mitad. Según lo que me guía, según lo que funcione, no."
+},
+{
+"startMs": 4190000,
+"endMs": 4196000,
+"speaker": "Speaker 2",
+"text": "Hay un dato acá muy el."
+},
+{
+"startMs": 4196000,
+"endMs": 4232000,
+"speaker": "Speaker 2",
+"text": "El hizo un correcto, entre una y vitajón y a la fila. Porque por un lado, Barur, que es una persona que quiere que pela, y por otro lado, y por otro lado. Y luego cómo me está driendo."
+},
+{
+"startMs": 4232000,
+"endMs": 4240000,
+"speaker": "Speaker 1",
+"text": "Las 2 cosas? De qué? Ahorita se te ocurre? Quieres algo?"
+},
+{
+"startMs": 4240000,
+"endMs": 4248000,
+"speaker": "Speaker 2",
+"text": "Quiero algo más. Quiero más Parnasa, quiero."
+},
+{
+"startMs": 4248000,
+"endMs": 4274000,
+"speaker": "Speaker 1",
+"text": "Más esto, quiero más esto, el más pennido del Jayut."
+},
+{
+"startMs": 4274000,
+"endMs": 4309000,
+"speaker": "Speaker 1",
+"text": "Sipur da keshe Piensa que todo el sipur de la farrasta, cuanto dinero tengo en el banco Ya tengo el dinero Quiero el sipur de. Quiero que el keshe de tu tienes para ver cuanto dinero tienes en el banco. Si es así, metes, ya, mete, digo, ya, tapaturula, esto son ministuales Entonces, pero el sipur metes el keshe, que todos tus restaurantes, Te dice que no, que no, que ni es de lógico."
+},
+{
+"startMs": 4309000,
+"endMs": 4314000,
+"speaker": "Speaker 1",
+"text": "A veces uno no puede identificar y solo son de."
+},
+{
+"startMs": 4314000,
+"endMs": 4318000,
+"speaker": "Speaker 1",
+"text": "Sí, ahí está."
+},
+{
+"startMs": 4318000,
+"endMs": 4319000,
+"speaker": "Speaker 1",
+"text": "Por qué?"
+},
+{
+"startMs": 4319000,
+"endMs": 4326000,
+"speaker": "Speaker 2",
+"text": "Pero Un segundo, un segundo. Para que es mejor te digo que tengas esa Repsol que quieres más dinero. No puede."
+},
+{
+"startMs": 4326000,
+"endMs": 4330000,
+"speaker": "Speaker 1",
+"text": "Ser que también se puede ser el salud del que a ver ese otro, te puso una marca abajo."
+},
+{
+"startMs": 4330000,
+"endMs": 4332000,
+"speaker": "Speaker 2",
+"text": "Entonces ya se revuelve acá muy fuerte."
+},
+{
+"startMs": 4332000,
+"endMs": 4337000,
+"speaker": "Speaker 1",
+"text": "No, 100% si no es algo a mi tía, vas a tener más que sabortar a otro."
+},
+{
+"startMs": 4337000,
+"endMs": 4342000,
+"speaker": "Speaker 2",
+"text": "O Sea, tienes que ser lo que quiero para lasar es porque le metes algo que. Si te nace,"
+},
+{
+"startMs": 4342000,
+"endMs": 4361000,
+"speaker": "Speaker 1",
+"text": "Si te nace a mi tía, me mete, no tengo que hacer. Si me meten, nace en un lugar a mi tía, dices, Pero hay una persona que no me kale, no soy existensivo. De que alguien pida me o me kale, pues ya sea."
+},
+{
+"startMs": 4361000,
+"endMs": 4370000,
+"speaker": "Speaker 2",
+"text": "Entonces, Porque lo que meto, joto, joto, joto. No, no, no. Se le ocurrió un proyecto,"
+},
+{
+"startMs": 4370000,
+"endMs": 4379000,
+"speaker": "Speaker 1",
+"text": "Que se le ocurre. Entonces, pero."
+},
+{
+"startMs": 4379000,
+"endMs": 4385000,
+"speaker": "Speaker 1",
+"text": "Son cosas que nosotros. Pikaar cosas de ruhaneot."
+},
+{
+"startMs": 4385000,
+"endMs": 4391000,
+"speaker": "Speaker 1",
+"text": "Entonces, si alguien vive en un lugar."
+},
+{
+"startMs": 4391000,
+"endMs": 4430000,
+"speaker": "Speaker 1",
+"text": "Pide, pide cosas que me meta son, son too hute, hute más para el vasito. La persona que, no es de hute, se lo juran en el jaim, yai. Esto es todo el jaim tobin, como no habilitar el jaim tobin. Esencial, no quiere jaim raim, no?"
+},
+{
+"startMs": 4430000,
+"endMs": 4437000,
+"speaker": "Speaker 1",
+"text": "Entonces dice."
+},
+{
+"startMs": 4437000,
+"endMs": 4439000,
+"speaker": "Speaker 1",
+"text": "De por sí, ya."
+},
+{
+"startMs": 4439000,
+"endMs": 4442000,
+"speaker": "Speaker 2",
+"text": "Estamos jugados."
+},
+{
+"startMs": 4442000,
+"endMs": 4473000,
+"speaker": "Speaker 1",
+"text": "Es Lo que estamos hablando para ahorita, sí. Dice, le fijan a los bruises paleros, toma, me va que si, a lavarse y no me jugao. No, no. También esto es más el el con los filósofos."
+},
+{
+"startMs": 4473000,
+"endMs": 4485000,
+"speaker": "Speaker 1",
+"text": "Quieres saltar pero ya vamos a Minpaan, ¿No? Todavía, ¿No?"
+},
+{
+"startMs": 4485000,
+"endMs": 4519000,
+"speaker": "Speaker 1",
+"text": "A qué hora es Minpaan? No sé. Sí, tienes? Sí. Si ye, aediot, me barak, me hice mi roja toy, barak, cola. Habrán que hacer también te adveriimos a Manu, la cadena. Para mi verb, en casi a veinte años de killonim, tak godoy, barak, telenuis, louis, barak. Bien de rak legistaronnennin team, same begizaron, same godoy, barak, nim talan, nim chain. Como show. Ole cak, cachera, mar, Ismael ni barheining, los suis barak mekabela brak, mi bro, casa al hombro, marca."
+},
+{
+"startMs": 4519000,
+"endMs": 4551000,
+"speaker": "Speaker 1",
+"text": "Rakadabana, dese, saliade barak, doddie, with barak, nim talan, Sí? \"Bana, que viajan a nosotros, sintamos el club\". O sea, el club. Exactamente, es para nosotros, es para nosotros. Ya tenemos que ir a braja, kikool brajau to sefet berribuyo termina siura muqbal. Si no braja, se notenlo, mas youd, soljab bilbad. Braja siempre es un hitpashtut. Kilo y hayas de braja, mas yo no tenlo traja."
+},
+{
+"startMs": 4551000,
+"endMs": 4573000,
+"speaker": "Speaker 1",
+"text": "Avalinean a braja, si esto sefet jut bina siu. Velocior, mugbala, chien, nichnasin, bala, sudar musiclas. Ni que la abraja. Qué dice?"
+},
+{
+"startMs": 4573000,
+"endMs": 4609000,
+"speaker": "Speaker 1",
+"text": "Sobea, soba, ubraja. El midotav, se no egin bruab, emlifliu, sodatati, bien midotamu konimu swarim, dazdeni kra bakhaila, bien kenan sekasha, ek no marshu with barak, kalorakam nadam, shen makal, dabaar, min adam, min adam hash usalom rake hilo ameri raton sekakh, ien intail banav vibraham. El damar is mael binibarkheini, klomar, chema keshi euit barak no ein banav, baby data barakha, midabar dewi nian a hadi macham blush is trail was tefim koahu gura ale mal."
+},
+{
+"startMs": 4609000,
+"endMs": 4640000,
+"speaker": "Speaker 1",
+"text": "Sí, eso mamage es lo de Spininda caballos rojo de atrás. Que hablamos. Es que nos da o y que no es la Elokima. Sí, te acuerdas de todo lo que hablamos con el Spininda. Sale que lo que el Spininda caballos rojo y la pilada rojo. Porque qué es eso? Es darle fuerza. Sí, que nosotros fuerza. Por medio de nosotros que viajo la Shem puede revelarse en el mundo, porque nosotros somos que viajo la cara de Shem en el mundo."
+},
+{
+"startMs": 4640000,
+"endMs": 4643000,
+"speaker": "Speaker 2",
+"text": "Entonces, ¿Quién está."
+},
+{
+"startMs": 4643000,
+"endMs": 4659000,
+"speaker": "Speaker 1",
+"text": "En el mundo? Pero para eso nosotros no estamos tan en el mundo. Esquiluka, viajó a Lino nos necesita. Este es el favor que nos hizo."
+},
+{
+"startMs": 4659000,
+"endMs": 4690000,
+"speaker": "Speaker 1",
+"text": "\"Bolaikse ou\" \"ahansuu\" Fíjate, es mama ni fla. Ismael prima arheini ¿Por qué? Porque bebet filati, que es bebet filati. Y tut fila, que es mit fila. Y dónde está Rabbi Ishmael? En el Makom Makimirkhadi del pai. Entonces, por eso le dice arheini. Por qué eso le dice barheini? Porque animit. Porque solo dice animit palel. Katatit palel. Because le dice."
+},
+{
+"startMs": 4690000,
+"endMs": 4717000,
+"speaker": "Speaker 1",
+"text": "Quién te impide?"
+},
+{
+"startMs": 4717000,
+"endMs": 4750000,
+"speaker": "Speaker 1",
+"text": "Mi kilata kraim a la vez de que abraja, machou, como se llaman chutosefes, le fija, abraja, ushaya, minazulat, aseru, uto cefe, talaseru rajimo, alcango, uto cefe, mito cefe, ubraja, de loseiak abraja, meatzmo, su uveatzmo, no te cefe, el debika de Dios, que la veneja, que abraja, si mitad de Abraja, bifrán, le fija a Jafa de Dios, me vi abraja, a la chilau pa que se chorcó, Pilotero ni crastro como mas a casa de el abe atzmo."
+},
+{
+"startMs": 4750000,
+"endMs": 4795000,
+"speaker": "Speaker 1",
+"text": "Okay. Omash amar, tienes la mar, sera? Me estoy saltando un paro. Sí, eh. Ca todos tus nombres. Pirushi, guia da tahilita, mandaria social adanasing. Kia, Alef, Mora, seu, itbarak, jalave ketmo. Esa es la alef antes de keto. Sí, sí. Enzof, charea, alef, jalavereshi, besan. No eres uno de todos, eres el que está arriba."
+},
+{
+"startMs": 4795000,
+"endMs": 4825000,
+"speaker": "Speaker 1",
+"text": "Entonces que el bajaroná que terquel ¿Sí? Catri dice Lomar que entre que te de Dios tras que te de loqui Sí, como Gabriel, esto no va a curarte Dios tras curar de loquito, Rafael, el mundo lo fue y Rafael loquito, menos refuerzo que no estamos en la col."
+},
+{
+"startMs": 4825000,
+"endMs": 4863000,
+"speaker": "Speaker 1",
+"text": "Que todo mis talcel vetemos desde que este. Barao la mapao bajar caja entonces vete y todo su. Que es como mi pasion, bro, todo la maja caja es que se llama vaya, que hace bravo, tiene la poa, tiene la tamada, tiene que ir moral, se llama vaya, a la baya, Le dabas de miedo, la masquina es como que me hicimos hacer, ya, admidita, me hicimos creando, manteniendo el mundo."
+},
+{
+"startMs": 4863000,
+"endMs": 4899000,
+"speaker": "Speaker 1",
+"text": "Está claro, es la draga? Sí. Qué me hicimos? Nimchejur ribui a todos lados, tajar sebraham. Pero hay ahora mitra bien, pero luego yo parim rabin, nimichemos rebui a todos lados, que no me cree a todos, a mural rebui. Y en el lucha moto de que se siente al ser salud, que este de que Raúl bien a hombre y te sientes mal grave. En madrugada de todo, que es el que tore de Fanavely Frimm, que es el que tore de Fanavely Frimm, que es la dama, le dibug, sí, hay hotel, primibelion."
+},
+{
+"startMs": 4899000,
+"endMs": 4931000,
+"speaker": "Speaker 1",
+"text": "Sí, ese es el vehicus más cabo que hay, es el que tore de Fanavely Frimm. Mi mamá nació muy bien, nuestro mamá se jefe, ese jefe soy mi torá. Huit barak lemsein bien data braja bien midotav to sefet al midotav. Kilo buskar beholzad to sefet al midotavi baraj, sie no egli fnimsho atati mi ma. Kiravde bifraz nikera braja, ki veshem que te lo nimmaz bezdet to sefet sube midotav. Kimash wuit barak no egli fnimsho atati, mutsed dou baraja bemidotav, cafeta seen duraj."
+},
+{
+"startMs": 4931000,
+"endMs": 4967000,
+"speaker": "Speaker 1",
+"text": "Dice, me eve ameri rotton, Ibrahim. Y le cag, briato, hola, matil, bebet, chuu braja. Vamos a decirte, hola, mademos, baraja. Esto es todo lo que está diciendo, todo el tiempo con la braja, pero yo. Esto es todo el tiempo, todo el hijo de salud, y que esto y pasé de nosotros. De esta manera, no hay profesor de esto nomás. Antes de que el cara de Dios, me ahora como que va, dais, todo baraja, nada."
+},
+{
+"startMs": 4967000,
+"endMs": 4987181,
+"speaker": "Speaker 1",
+"text": "El caso Robin, el de Caraco."
+}
+]
+}
