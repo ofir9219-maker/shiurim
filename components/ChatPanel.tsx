@@ -1,4 +1,5 @@
 "use client";
+import SeriesFilter, { useSeries } from "./SeriesFilter";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { usePlayer } from "./player/PlayerProvider";
 import { RefChips } from "./chat/RefChips";
@@ -23,6 +24,7 @@ const SUGGESTIONS = [
 const ls = (): Storage | null => { try { return typeof localStorage === "undefined" ? null : localStorage; } catch { return null; } };
 
 export default function ChatPanel({ classId }: { classId?: string } = {}) {
+  const sc = useSeries();
   const player = usePlayer();
   const [chats, setChats] = useState<Conversation[]>([]);
   const [activeId, setActiveId] = useState("");
@@ -160,7 +162,7 @@ export default function ChatPanel({ classId }: { classId?: string } = {}) {
     try {
       const res = await fetch("/api/chat", {
         method: "POST", headers: { "content-type": "application/json" }, signal: ac.signal,
-        body: JSON.stringify({ messages: sent.map(({ m }) => ({ role: m.role, content: m.content })), memory: active.memory || undefined, classId: classId || active.classId, model: model || undefined, effort: reasoning ? effort : undefined }),
+        body: JSON.stringify({ messages: sent.map(({ m }) => ({ role: m.role, content: m.content })), memory: active.memory || undefined, classId: classId || active.classId, collections: classId || active.classId ? undefined : sc.scope, model: model || undefined, effort: reasoning ? effort : undefined }),
       });
       if (!res.ok || !res.body) throw new Error(`HTTP ${res.status}`);
       const reader = res.body.getReader(); const dec = new TextDecoder(); let buf = "";
@@ -187,7 +189,7 @@ export default function ChatPanel({ classId }: { classId?: string } = {}) {
     } catch (e) {
       if ((e as Error).name !== "AbortError") patch((m) => ({ ...m, content: m.content || "No pude conectar con el chat. Inténtalo de nuevo.", mode: "error" }));
     } finally { setBusyId(null); }
-  }, [active, busyId, classId, model, effort, reasoning, update]);
+  }, [active, busyId, classId, model, effort, reasoning, update, sc.scope]);
 
   const shown = useMemo(() => filterChats(sortChats(chats.filter((c) => c.messages.length > 0 || c.id === activeId)), query), [chats, query, activeId]);
 
@@ -198,6 +200,7 @@ export default function ChatPanel({ classId }: { classId?: string } = {}) {
         <span className="truncate">⚙ Ajustes · {model}{reasoning ? ` · ${EFFORT_LABEL[effort]}` : ""}</span>
         <span aria-hidden>{showSettings ? "▴" : "▾"}</span>
       </button>
+      {!classId && <SeriesFilter ctl={sc} className="mt-1.5" />}
       <div id="chat-settings" className={`chat-settings ${showSettings ? "flex" : "hidden"} mt-1.5 flex-col gap-2 sm:mt-0 sm:flex sm:flex-row sm:flex-wrap sm:items-center sm:gap-3`}>
         {info.models.length > 1 && (
           <label className="flex items-center gap-2 text-xs">

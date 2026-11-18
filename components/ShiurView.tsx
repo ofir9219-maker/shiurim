@@ -140,7 +140,7 @@ export default function ShiurView({ id }: { id: string }) {
 
   return (
     <article style={{ "--tx-size": `${SIZES[sizeIdx]}rem` } as React.CSSProperties}>
-      <Link href="/" className="back"><IconBack />Todas las clases</Link>
+      <Link href={`/c/${cls.collection || "berajot"}`} className="back"><IconBack />Todas las clases</Link>
       <header className="shiur-head">
         <div className="meta-row">
           <span className="badge solid" aria-label={`Clase ${cls.ordLabel}`}>{cls.ordLabel}</span>

@@ -21,7 +21,7 @@ export function parseT(v: string | null | undefined): number | null {
 export type ClassSummary = {
   id: string; ord: number; ordLabel: string; title: string; fileName: string;
   daf: { daf: string; amud: string }[]; dafLabel: string; durationMs: number;
-  summary: string; tags: string[]; audioUrl: string; hasTranscript: boolean;
+  summary: string; tags: string[]; audioUrl: string; hasTranscript: boolean; collection?: string;
 };
 export type Segment = { idx: number; startMs: number; endMs: number; text: string };
 export type ClassFull = ClassSummary & { segments: Segment[] };

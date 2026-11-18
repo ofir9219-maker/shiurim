@@ -1,3 +1,4 @@
+import { classIdsOf } from "../series";
 import { getDb, getClass, getSegments, parseJson, type Daf, type Segment } from "../db";
 import { textSearch } from "../search";
 import { searchChunks, buildPassages } from "../retrieval";
@@ -39,7 +40,8 @@ function segIndexAt(segs: Segment[], ms: number): number {
 }
 
 /** Find shiur passages on the topic. Combines hybrid search, keyword+"champiñ" FTS and (optionally) a specific class. */
-export async function gatherShiurim(opts: { question: string; query: string; queries?: string[]; keywords: string[]; classId?: string; boostClassIds?: string[]; limit?: number }): Promise<Passage[]> {
+export async function gatherShiurim(opts: { question: string; query: string; queries?: string[]; keywords: string[]; classId?: string; collections?: string[]; boostClassIds?: string[]; limit?: number }): Promise<Passage[]> {
+  const scope = classIdsOf(opts.collections);
   const db = getDb();
   if (!db) return [];
   const limit = opts.limit ?? 6;
@@ -53,16 +55,16 @@ export async function gatherShiurim(opts: { question: string; query: string; que
     const qs = [...new Set([opts.query, ...(opts.queries || []), ...kws.slice(0, 2).map((k) => `champiñones ${k}`)].map((x) => (x || "").trim()).filter(Boolean))].slice(0, 7);
     const wq = qs.map((q, i) => ({ q, w: i === 0 ? 1.5 : 1 }));
     if (opts.question.trim() && !qs.includes(opts.question.trim())) wq.push({ q: opts.question.trim(), w: 0.6 });
-    const res = await searchChunks(wq, {});
+    const res = await searchChunks(wq, { classIds: scope });
     const ps = buildPassages(res, { seeds: 24, expandTop: 8, budget: 30000 });
     ps.sort((a, b) => b.score - a.score).slice(0, 14).forEach((p, i) => add(p.classId, p.startMs, Math.max(p.score, 0) * 1.2 + (CHAMP.test(p.text) ? 0.012 : 0) + 1 / (200 + i)));
   } catch {}
   const ftsQs = [...kws.slice(0, 3).map((k) => `champiñ ${k}`), kws.slice(0, 2).join(" "), "champiñones " + (kws[0] || "")].filter((x) => x.trim().length > 3);
   ftsQs.forEach((q, qi) => {
-    try { textSearch(q, { limit: 10 }).forEach((h, i) => add(h.classId, h.startMs, (qi < 3 ? 1.6 : 1) / (60 + i))); } catch {}
+    try { textSearch(q, { limit: 10, collections: opts.collections }).forEach((h, i) => add(h.classId, h.startMs, (qi < 3 ? 1.6 : 1) / (60 + i))); } catch {}
   });
   // windows of the requested class (and of classes on the same dafim as the refs) best matching the keywords
-  const boost = new Set([...(opts.classId ? [opts.classId] : []), ...(opts.boostClassIds || [])]);
+  const boost = new Set([...(opts.classId ? [opts.classId] : []), ...(opts.boostClassIds || [])].filter((c) => !scope || scope.has(c)));
   const re = kwRegex(kws);
   for (const cid of boost) {
     const segs = getSegments(cid);
@@ -83,6 +85,7 @@ export async function gatherShiurim(opts: { question: string; query: string; que
   const segCache = new Map<string, Segment[]>();
   for (const r of ranked) {
     if (out.length >= limit) break;
+    if (scope && !scope.has(r.classId)) continue;
     const cls = getClass(r.classId);
     if (!cls) continue;
     let segs = segCache.get(r.classId);

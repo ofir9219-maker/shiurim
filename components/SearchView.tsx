@@ -4,6 +4,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { usePlayer } from "./player/PlayerProvider";
 import { cleanTitle, fmtTime } from "./format";
 import { IconPlay, IconSearch, Ornament } from "./icons";
+import SeriesFilter, { useSeries } from "./SeriesFilter";
 
 type Hit = { classId: string; title: string; segmentIdx: number; startMs: number; snippet: string };
 const SUGGEST = ["Bilam", "Shemá", "Tefilá", "Moshé", "Rambam"];
@@ -31,6 +32,8 @@ export default function SearchView() {
   const [loading, setLoading] = useState(false);
   const [failed, setFailed] = useState(false);
   const seq = useRef(0);
+  const sc = useSeries(sp.get("c")?.split(",").filter(Boolean));
+  const scopeKey = sc.scope?.join(",") ?? "";
 
   useEffect(() => {
     const term = q.trim();
@@ -38,9 +41,9 @@ export default function SearchView() {
     if (!term) { setHits(null); setLoading(false); setFailed(false); return; }
     setLoading(true);
     const h = setTimeout(async () => {
-      window.history.replaceState(null, "", `/buscar?q=${encodeURIComponent(term)}`);
+      window.history.replaceState(null, "", `/buscar?q=${encodeURIComponent(term)}${scopeKey ? `&c=${scopeKey}` : ""}`);
       try {
-        const r = await fetch(`/api/search?q=${encodeURIComponent(term)}&limit=40`);
+        const r = await fetch(`/api/search?q=${encodeURIComponent(term)}&limit=40${scopeKey ? `&c=${scopeKey}` : ""}`);
         if (!r.ok) throw new Error();
         const j = await r.json();
         if (n === seq.current) { setHits(j.hits ?? []); setFailed(false); }
@@ -48,7 +51,7 @@ export default function SearchView() {
       if (n === seq.current) setLoading(false);
     }, 300);
     return () => clearTimeout(h);
-  }, [q]);
+  }, [q, scopeKey]);
 
   const open = (h: Hit) => {
     p.playAt(h.classId, h.startMs);
@@ -67,6 +70,7 @@ export default function SearchView() {
         <input className="input" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Un tema, un nombre, una frase…" aria-label="Buscar" autoFocus enterKeyHint="search" />
       </div>
 
+      <SeriesFilter ctl={sc} className="series-filter-bar" />
       <div className="search-meta" role="status" aria-live="polite">
         {loading ? "Buscando…" : hits && hits.length > 0 ? `${hits.length} ${hits.length === 1 ? "resultado" : "resultados"} para “${term}”` : ""}
       </div>

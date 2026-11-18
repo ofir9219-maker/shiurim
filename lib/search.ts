@@ -1,5 +1,6 @@
 import { getDb } from "./db";
 import { embedTexts, cosine, blobToVec } from "./embeddings";
+import { classIdsOf } from "./series";
 
 export type TextHit = { classId: string; title: string; segmentIdx: number; startMs: number; snippet: string };
 export type ChunkHit = { classId: string; title: string; startMs: number; endMs: number; text: string; score: number; source: "fts" | "vector" | "both" };
@@ -11,7 +12,7 @@ export function sanitizeQuery(q: string): string | null {
   return toks.map((t) => `"${t}"*`).join(" ");
 }
 
-export function textSearch(q: string, opts: { daf?: string; limit?: number } = {}): TextHit[] {
+export function textSearch(q: string, opts: { daf?: string; limit?: number; collections?: string[] } = {}): TextHit[] {
   const db = getDb();
   const match = sanitizeQuery(q);
   if (!db || !match) return [];
@@ -22,14 +23,18 @@ export function textSearch(q: string, opts: { daf?: string; limit?: number } = {
     dafSql = `AND EXISTS (SELECT 1 FROM json_each(c.daf) j WHERE json_extract(j.value,'$.daf') = ?)`;
     params.push(opts.daf);
   }
-  params.push(limit);
-  const rows = db.prepare(
+  const scope = classIdsOf(opts.collections);
+  if (scope && !scope.size) return [];
+  const limitSql = scope ? Math.max(limit * 6, 300) : limit; // filter by series after the FTS ranking (class ids set)
+  params.push(limitSql);
+  let rows = db.prepare(
     `SELECT s.class_id AS classId, c.title AS title, s.idx AS segmentIdx, s.start_ms AS startMs,
             snippet(segments_fts, 0, '<mark>', '</mark>', '…', 16) AS snippet
      FROM segments_fts f JOIN segments s ON s.id = f.rowid JOIN classes c ON c.id = s.class_id
      WHERE segments_fts MATCH ? ${dafSql}
      ORDER BY bm25(segments_fts) LIMIT ?`
   ).all(...params) as TextHit[];
+  if (scope) rows = rows.filter((r) => scope.has(r.classId)).slice(0, limit);
   return rows;
 }
 
@@ -60,25 +65,27 @@ function loadVecs() {
   return cache;
 }
 
-function chunkFtsHits(q: string, limit: number): ChunkHit[] {
+function chunkFtsHits(q: string, limit: number, collections?: string[]): ChunkHit[] {
   // map segment hits to chunk-ish hits (segment granularity) when chunks are unavailable
-  return textSearch(q, { limit }).map((h, i) => ({
+  return textSearch(q, { limit, collections }).map((h, i) => ({
     classId: h.classId, title: h.title, startMs: h.startMs, endMs: h.startMs, text: h.snippet, score: 1 / (60 + i), source: "fts" as const,
   }));
 }
 
 /** FTS + vector (when embeddings and an API key exist) merged with reciprocal rank fusion. */
-export async function hybridSearch(q: string, k = 10): Promise<ChunkHit[]> {
+export async function hybridSearch(q: string, k = 10, collections?: string[]): Promise<ChunkHit[]> {
   const db = getDb();
   if (!db || !q.trim()) return [];
   const RRF = 60;
-  const ftsList = chunkFtsHits(q, 50);
+  const ftsList = chunkFtsHits(q, 50, collections);
+  const scope = classIdsOf(collections);
   let vecList: ChunkHit[] = [];
   if (hasEmbeddings()) {
     try {
       const [qv] = await embedTexts([q]);
       if (qv) {
         vecList = loadVecs().vecs
+          .filter(({ row }) => !scope || scope.has(row.class_id))
           .map(({ row, v }) => ({ row, s: cosine(qv, v) }))
           .sort((a, b) => b.s - a.s).slice(0, 50)
           .map(({ row, s }) => ({ classId: row.class_id, title: row.title, startMs: row.start_ms, endMs: row.end_ms, text: row.text, score: s, source: "vector" as const }));

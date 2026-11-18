@@ -20,7 +20,7 @@ export async function POST(req: Request) {
   const question = typeof b.question === "string" ? b.question.trim() : "";
   if (question.length < 3 || question.length > 600) return Response.json({ error: "question must be 3-600 characters" }, { status: 400 });
   const s = (k: string) => (typeof b[k] === "string" && (b[k] as string).length <= 120 ? (b[k] as string) : undefined);
-  const input = { question, language: s("language"), model: s("model"), effort: s("effort"), scope: s("scope") as "berakhot" | "shas" | undefined, classId: s("classId"), refresh: b.refresh === true };
+  const input = { question, language: s("language"), model: s("model"), effort: s("effort"), scope: s("scope") as "berakhot" | "shas" | undefined, classId: s("classId"), collections: Array.isArray(b.collections) ? (b.collections as unknown[]).filter((x): x is string => typeof x === "string").slice(0, 20) : undefined, refresh: b.refresh === true };
   const enc = new TextEncoder();
   const stream = new ReadableStream({
     async start(controller) {

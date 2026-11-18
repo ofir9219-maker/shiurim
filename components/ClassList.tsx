@@ -31,7 +31,9 @@ const Card = memo(function Card({ c }: { c: ClassSummary }) {
 
 type Saved = { classId: string; positionMs: number };
 
-export default function ClassList({ classes }: { classes: ClassSummary[] }) {
+export type SeriesHero = { slug: string; title: string; description: string };
+export default function ClassList({ classes, series }: { classes: ClassSummary[]; series?: SeriesHero }) {
+  const berajot = !series || series.slug === "berajot";
   const router = useRouter();
   const p = usePlayer();
   const [daf, setDaf] = useState<string>("");
@@ -65,6 +67,7 @@ export default function ClassList({ classes }: { classes: ClassSummary[] }) {
   return (
     <>
       <section className="hero" aria-labelledby="hero-title">
+        {berajot ? (<>
         <span className="eyebrow">Masejet Berajot</span>
         <h1 id="hero-title" className="hero-title" dir="rtl" lang="he">ברכות שר לשמחה</h1>
         <p className="hero-sub">Shiurim de Guemará</p>
@@ -74,8 +77,17 @@ export default function ClassList({ classes }: { classes: ClassSummary[] }) {
           <li><b>{classes.length || "—"}</b><span>clases</span></li>
           <li><b>~{hours || "—"}</b><span>horas</span></li>
           <li><b className="he" dir="rtl" lang="he" style={{ fontSize: "1.9rem", lineHeight: 1 }}>ברכות</b><span>Masejet</span></li>
-        </ul>
-        <form className="hero-search" role="search" onSubmit={(e) => { e.preventDefault(); const t = q.trim(); router.push(t ? `/buscar?q=${encodeURIComponent(t)}` : "/buscar"); }}>
+        </ul></>) : (<>
+        <span className="eyebrow">Serie</span>
+        <h1 id="hero-title" className="hero-title" dir="auto">{series!.title}</h1>
+        <p className="hero-sub">Shiurim</p>
+        <Ornament />
+        <p className="lead">{series!.description || "Escucha cada clase con su transcripción sincronizada y busca cualquier tema."}</p>
+        <ul className="stats" aria-label="La serie en números">
+          <li><b>{classes.length || "—"}</b><span>clases</span></li>
+          <li><b>~{hours || "—"}</b><span>horas</span></li>
+        </ul></>)}
+        <form className="hero-search" role="search" onSubmit={(e) => { e.preventDefault(); const t = q.trim(); router.push(t ? `/buscar?q=${encodeURIComponent(t)}${series ? `&c=${series.slug}` : ""}` : "/buscar"); }}>
           <input className="input" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Buscar un tema en las clases…" aria-label="Buscar en las clases" enterKeyHint="search" />
           <button type="submit" aria-label="Buscar"><IconSearch /></button>
         </form>

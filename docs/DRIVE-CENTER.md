@@ -29,6 +29,18 @@ Con **Posproceso = Paquete para IA (ChatGPT/Claude)** el servidor no llama a Ope
 
 **Tokens**: 32 bytes aleatorios, solo se guarda su hash (`$STORAGE_DIR/packages/packages.json`); válidos 30 días; cada token sirve para un único paquete; el último resultado válido reemplaza al anterior (volver a subir rehace `.md`/`.json`/nombre). **Nuevo enlace** invalida el anterior y actualiza el archivo de Drive. El endpoint acepta CORS desde cualquier origen, cuerpo ≤ 5 MB y limita intentos con token inválido.
 
+### Sitio público con varias series (Fase 4)
+- **Publicar en la web** se decide por carpeta/serie (Ajustes → Serie y publicación). Solo las series publicadas llegan a la base del sitio (`classes.collection_id`; `scripts/build-db.ts` filtra por `collections.json`, también al arrancar con `npm run start:prod`). Al publicar/despublicar una serie el servidor copia sus audios a R2 (si faltan) y reconstruye la base.
+- `/` muestra una **cuadrícula de series** publicadas; si solo hay una, redirige a ella. Cada serie vive en `/c/<slug>` (la home original de Berajot es `/c/berajot`); las clases siguen en `/shiur/<id>`.
+- **Búsqueda, chat y champiñones** tienen un filtro de series (chips «Todas / serie…», visible solo con 2+ series publicadas; se recuerda en `localStorage["shiurim:series"]`). Por defecto buscan en todas las publicadas. APIs: `GET /api/search?c=slug1,slug2`, `POST /api/chat {collections:[…]}`, `POST /api/champinones {collections:[…]}`, `GET /api/classes?collection=slug`, `GET /api/series`.
+- Las clases nuevas aparecen sin reiniciar: tras indexarse, el paso final ejecuta `build-db` (incremental para embeddings).
+
+## Variables de entorno nuevas
+Ninguna obligatoria. Opcionales: `PUBLIC_BASE_URL` (por defecto `https://ofirsegal.app`, base de las URL de subida de los paquetes IA), `FAL_USD_PER_MIN`, `FAL_USD_PER_MIN_SCRIBE_V1`, `FAL_USD_PER_COMPUTE_SEC_WIZPER`, `FAL_USD_PER_COMPUTE_SEC_WHISPER`, `FAL_WIZPER_COMPUTE_SEC_PER_MIN`, `FAL_WHISPER_COMPUTE_SEC_PER_MIN` (precios del estimado), `POLISH_USD_PER_M_IN/OUT`. Archivos nuevos en el volumen: `center.json`, `collections.json`, `packages/`, `center/durations.json`.
+
+## Pruebas
+`npm run test:ingest` (unidad de la ingesta original), `npm run test:center` (colecciones/herencia, normalización de Fal por modelo, plantillas, paquetes, series, y un e2e con Drive/Fal/R2 simulados; con `OPENAI_API_KEY` también pule con OpenAI real).
+
 Modelos Fal: partes de 19 min para Scribe (palabras con tiempos), 25 min para Wizper/Whisper (segmentos ≤29 s); todos se normalizan al mismo formato `{startMs,endMs,text}` (`lib/center/fal-models.ts`). Precios por defecto: Scribe v2 US$0.008/min, Scribe v1 US$0.03/min, Wizper/Whisper ≈ US$0.0011 por segundo de cómputo (estimado ~4–8 s de cómputo por minuto de audio); ajustables con `FAL_USD_PER_MIN`, `FAL_USD_PER_MIN_SCRIBE_V1`, `FAL_USD_PER_COMPUTE_SEC_WIZPER`, `FAL_WIZPER_COMPUTE_SEC_PER_MIN`, etc.
 
 ---

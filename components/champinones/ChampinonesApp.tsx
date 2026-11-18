@@ -1,4 +1,5 @@
 "use client";
+import SeriesFilter, { useSeries } from "../SeriesFilter";
 import { useCallback, useEffect, useRef, useState } from "react";
 import ResultView from "./ResultView";
 import { PAGE_CSS } from "./page-css";
@@ -20,6 +21,7 @@ function readHist(): Hist[] { try { return JSON.parse(localStorage.getItem(HIST_
 function writeHist(h: Hist[]) { try { localStorage.setItem(HIST_KEY, JSON.stringify(h.slice(0, 25))); } catch {} }
 
 export default function ChampinonesApp({ initialClassId }: { initialClassId?: string }) {
+  const sc = useSeries();
   const [q, setQ] = useState("");
   const [lang, setLang] = useState("auto");
   const [model, setModel] = useState(DEFAULT_MODEL);
@@ -72,7 +74,7 @@ export default function ChampinonesApp({ initialClassId }: { initialClassId?: st
     try {
       const r = await fetch("/api/champinones", {
         method: "POST", headers: { "content-type": "application/json" }, signal: ctl.signal,
-        body: JSON.stringify({ question, language: lang, model, effort, scope, classId: initialClassId, refresh }),
+        body: JSON.stringify({ question, language: lang, model, effort, scope, classId: initialClassId, collections: initialClassId ? undefined : sc.scope, refresh }),
       });
       if (!r.ok || !r.body) throw new Error((await r.json().catch(() => ({}))).error || `HTTP ${r.status}`);
       const reader = r.body.getReader(); const dec = new TextDecoder(); let buf = "";
@@ -103,7 +105,7 @@ export default function ChampinonesApp({ initialClassId }: { initialClassId?: st
       }
     } catch (e: any) { if (e?.name !== "AbortError") setErr(e?.message || "Error de red."); }
     finally { setBusy(false); setRows((rs) => rs.map((x) => ({ ...x, done: true }))); }
-  }, [q, lang, model, effort, scope, busy, initialClassId]);
+  }, [q, lang, model, effort, scope, busy, initialClassId, sc.scope]);
 
   const link = res ? `${typeof location !== "undefined" ? location.origin : ""}/champinones?r=${res.id}` : "";
   async function copy() {
@@ -123,6 +125,7 @@ export default function ChampinonesApp({ initialClassId }: { initialClassId?: st
       </section>
 
       <form className="card cp-form" onSubmit={(e) => { e.preventDefault(); void run(); }}>
+        {!initialClassId && <SeriesFilter ctl={sc} />}
         <textarea className="input" value={q} onChange={(e) => setQ(e.target.value)} maxLength={600} dir="auto" disabled={busy}
           placeholder="Ej.: jivartá y los cántaros blancos · prayer as ‘et ratzón’ · מה הקשר בין חיורתא לחצבי חיורי" aria-label="Tema o pregunta"
           onKeyDown={(e) => { if (e.key === "Enter" && (e.metaKey || e.ctrlKey)) { e.preventDefault(); void run(); } }} />

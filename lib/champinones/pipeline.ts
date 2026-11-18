@@ -4,6 +4,7 @@ import { getClass } from "../db";
 import { callJson, openaiKey, type Msg } from "./llm";
 import { MODELS, DEFAULT_MODEL, DEFAULT_EFFORT, EFFORTS, FAST_MODEL, modelInfo } from "./models";
 import { fetchUnits, fetchLinks, fetchRelated, searchTerm, type Unit, type LinkRow } from "./sefaria";
+import { scopeFrom } from "../series";
 import { classAmudim, classesForRefs, gatherShiurim, momentExists, type Passage } from "./shiurim";
 import { loadResult, resultId, saveResult } from "./store";
 import { confidentLang, detectLang, explicitLang, hookInText, heTokens, isHeStop, normRef, stripNikud, stripPrefix, tokMatch, LANG_NAME, type Lang } from "./text";
@@ -169,7 +170,7 @@ export function normalizeInput(input: Input) {
   const effort = (EFFORTS as readonly string[]).includes(input.effort || "") ? input.effort! : DEFAULT_EFFORT;
   const scope = input.scope === "berakhot" ? "berakhot" : "shas";
   const language = input.language && input.language !== "auto" && LANG_NAME[input.language] ? input.language : undefined;
-  return { question: input.question.trim().slice(0, 600), model, effort, scope, language, classId: input.classId || undefined };
+  return { question: input.question.trim().slice(0, 600), model, effort, scope, language, classId: input.classId || undefined, collections: scopeFrom(input.collections) };
 }
 
 export async function* runChampinones(raw: Input): AsyncGenerator<StreamEvent> {
@@ -210,7 +211,7 @@ export async function* runChampinones(raw: Input): AsyncGenerator<StreamEvent> {
 
     // 1. shiurim
     yield status("shiurim", "Buscando en los shiurim");
-    const passages = await gatherShiurim({ question: inp.question, query: ana.shiur_query || inp.question, queries: ana.shiur_queries || [], keywords: ana.shiur_keywords || [], classId: inp.classId, boostClassIds: classesForRefs(ana.refs || []), limit: 6 });
+    const passages = await gatherShiurim({ question: inp.question, query: ana.shiur_query || inp.question, queries: ana.shiur_queries || [], keywords: ana.shiur_keywords || [], classId: inp.classId, collections: inp.collections, boostClassIds: classesForRefs(ana.refs || []), limit: 6 });
     if (process.env.CHAMP_DEBUG) console.error("ANA", JSON.stringify(ana), "PASSAGES", JSON.stringify(passages.map((p) => [p.ordLabel, p.time, p.champ, p.text.slice(0, 90)])));
     yield status("shiurim", `${passages.length} pasajes de shiur`, passages.filter((p) => p.champ).length ? `${passages.filter((p) => p.champ).length} con champiñones del rabino` : undefined);
 

@@ -35,7 +35,7 @@ export type Meta = {
 export type StoredResult = { id: string; question: string; data: Analysis; meta: Meta };
 
 export type Input = {
-  question: string; language?: string; model?: string; effort?: string; scope?: "berakhot" | "shas"; classId?: string; refresh?: boolean;
+  question: string; language?: string; model?: string; effort?: string; scope?: "berakhot" | "shas"; classId?: string; collections?: string[]; refresh?: boolean;
 };
 
 export type StreamEvent =

@@ -8,7 +8,7 @@ export type ChatEvent =
 
 export const EFFORTS = ["minimal", "low", "medium", "high"] as const;
 export type Effort = (typeof EFFORTS)[number];
-export type ChatOpts = { model?: string; effort?: Effort };
+export type ChatOpts = { model?: string; effort?: Effort; /** series slugs to search in (undefined = all published) */ collections?: string[] };
 /** o-series (o1, o3...) and gpt-5 accept reasoning_effort and reject temperature. */
 export const isReasoningModel = (id: string) => /^o\d/.test(id) || id.startsWith("gpt-5");
 

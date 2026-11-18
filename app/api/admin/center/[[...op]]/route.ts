@@ -13,6 +13,7 @@ import { cachedDurations, probeDuration } from "@/lib/center/duration";
 import { estimateRow, minutesFromSize, summarize } from "@/lib/center/estimate";
 import { getChatModels } from "@/lib/chat-models";
 import { readRenameLog, undoableSet } from "@/lib/center/rename-log";
+import { mirrorCollectionAudio } from "@/lib/center/mirror";
 import { templateApi } from "@/lib/center/template-api";
 
 export const dynamic = "force-dynamic";
@@ -187,7 +188,7 @@ export async function PUT(req: Request, ctx: Ctx) {
   const parent = [...path].slice(0, -1).reverse().find((id) => listCollections().some((c) => c.folderId === id)) ?? null;
   const name = String(b.name || prev?.name || (await folderInfo(b.folderId)).name);
   const c = upsertCollection({ folderId: b.folderId, name, settings: b.settings, published: typeof b.published === "boolean" ? b.published : undefined, slug: b.slug, parentFolderId: parent });
-  if (prev && prev.published !== c.published || (!prev && c.published)) void reindex(() => {}).catch(() => {}); // publication changed: rebuild the site DB
+  if ((prev && prev.published !== c.published) || (!prev && c.published)) void (async () => { if (c.published) await mirrorCollectionAudio(c.folderId, console.log).catch(() => {}); await reindex(() => {}); })().catch(() => {}); // publication changed: mirror audio to R2, rebuild the site DB
   return NextResponse.json({ ok: true, collection: c });
 }
 export async function DELETE(req: Request, ctx: Ctx) {

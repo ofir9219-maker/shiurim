@@ -20,9 +20,9 @@ export function dataDir(): string {
 export const RESULT_TTL_MS = 30 * 86400_000;
 const mem = new Map<string, StoredResult>();
 
-export function resultId(inp: { question: string; language?: string; model: string; effort: string; scope: string; classId?: string }): string {
+export function resultId(inp: { question: string; language?: string; model: string; effort: string; scope: string; classId?: string; collections?: string[] }): string {
   const norm = inp.question.normalize("NFC").toLowerCase().replace(/\s+/g, " ").trim();
-  return crypto.createHash("sha256").update([norm, inp.language || "auto", inp.model, inp.effort, inp.scope, inp.classId || "", PROMPT_VERSION].join("\u0001")).digest("hex").slice(0, 16);
+  return crypto.createHash("sha256").update([norm, inp.language || "auto", inp.model, inp.effort, inp.scope, inp.classId || "", ...(inp.collections?.length ? ["c:" + [...inp.collections].sort().join(",")] : []), PROMPT_VERSION].join("\u0001")).digest("hex").slice(0, 16);
 }
 
 const fileFor = (id: string) => path.join(dataDir(), "results", id + ".json");

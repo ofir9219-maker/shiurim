@@ -6,7 +6,8 @@ export const dynamic = "force-dynamic";
 
 export async function GET(req: NextRequest) {
   const daf = req.nextUrl.searchParams.get("daf") || undefined;
-  const rows = listClasses({ daf });
+  const collection = req.nextUrl.searchParams.get("collection") || undefined;
+  const rows = listClasses({ daf, collection });
   const classes = await Promise.all(rows.map(async (r) => rowToClass(r, await audioUrlFor(r.id, r.r2_key))));
   return NextResponse.json({ classes });
 }

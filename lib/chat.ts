@@ -2,6 +2,7 @@ import { getDb, listClasses, getClass, getSegments, parseJson, type Daf } from "
 import { completeLLM, llmConfig, streamLLM, streamWithTools, type ToolDef } from "./chat-llm";
 import { buildPassages, classHeaders, classIdsForDaf, classMeta, formatPassages, passageToRef, resolveClass, searchChunks, hasNormIndex, type Passage, type WeightedQuery } from "./retrieval";
 import { dafToHebrew } from "./translit";
+import { classIdsOf } from "./series";
 import { hybridSearch, ftsCount, type ChunkHit } from "./search";
 import { capMemory, condensePrompt, memoryPrompt, mergeNoKeyMemory, needsCondense, splitForCondense } from "./chat-memory";
 import {
@@ -13,8 +14,8 @@ const TOP_K = 8;
 const ANSWER_TOKENS = 1500;
 const SUMMARY_BUDGET = 9000; // chars of transcript fed for a shiur summary
 
-function classInfos(): ClassInfo[] {
-  return listClasses().map((r) => ({ id: r.id, ord: r.ord, ordLabel: r.ord_label || String(r.ord), title: r.title || "", dafLabel: r.daf_label || "", tags: parseJson<string[]>(r.tags, []) }));
+function classInfos(collections?: string[]): ClassInfo[] {
+  return listClasses({ collection: collections }).map((r) => ({ id: r.id, ord: r.ord, ordLabel: r.ord_label || String(r.ord), title: r.title || "", dafLabel: r.daf_label || "", tags: parseJson<string[]>(r.tags, []) }));
 }
 
 async function rewriteQuery(messages: ChatMsg[], opts: ChatOpts = {}, memory = ""): Promise<string> {
@@ -30,8 +31,8 @@ async function rewriteQuery(messages: ChatMsg[], opts: ChatOpts = {}, memory = "
 }
 
 /** Search with fallbacks: full query, then each keyword alone. */
-async function retrieve(q: string, k: number, classId?: string): Promise<Hit[]> {
-  const run = async (query: string) => (await hybridSearch(query, classId ? 60 : k * 3)).filter((h) => !classId || h.classId === classId);
+async function retrieve(q: string, k: number, classId?: string, collections?: string[]): Promise<Hit[]> {
+  const run = async (query: string) => (await hybridSearch(query, classId ? 60 : k * 3, collections)).filter((h) => !classId || h.classId === classId);
   let hits = await run(q);
   if (!hits.length) {
     // Rarest keywords first (most specific); try keyword pairs before single keywords so a
@@ -154,19 +155,20 @@ const EXTRA_BUDGET = 20000; // per extra `buscar` call
 const NOAI_REFS = 8;
 
 export type RetrievalState = {
-  passages: Passage[]; seen: Set<number>; classId?: string; plan?: Plan; res?: Awaited<ReturnType<typeof searchChunks>>;
+  passages: Passage[]; seen: Set<number>; classId?: string; scope?: Set<string>; plan?: Plan; res?: Awaited<ReturnType<typeof searchChunks>>;
 };
 
 /** Multi-query retrieval -> numbered context + refs. Falls back to the legacy single-query search on DBs without the normalized index. */
 export async function retrieveContext(history: ChatMsg[], question: string, classId: string | undefined, opts: ChatOpts, memory: string): Promise<{ context: string; refs: Ref[]; state?: RetrievalState }> {
-  const intent = detectIntent(question, classInfos(), classId);
+  const scope = classIdsOf(opts.collections);
+  const intent = detectIntent(question, classInfos(opts.collections), classId);
   if (intent.kind === "summary" && intent.cls && summaryContext(intent.cls.id)) {
     const s = summaryContext(intent.cls.id)!;
     return { refs: s.refs, context: `${s.header}\n\nEXTRACTOS (momentos clave, uniformemente espaciados):\n\n${buildContext(s.hits, s.refs, Math.floor(SUMMARY_BUDGET / TOP_K))}` };
   }
   if (!hasNormIndex()) {
     const q = await rewriteQuery(history, opts, memory);
-    let hits = enrich(await retrieve(q, TOP_K, classId));
+    let hits = enrich(await retrieve(q, TOP_K, classId, opts.collections));
     if (classId && !hits.length) { const s = summaryContext(classId); if (s) hits = s.hits; }
     const refs = hitsToRefs(hits, TOP_K);
     return { refs, context: `EXTRACTOS:\n\n${buildContext(hits, refs)}` };
@@ -174,7 +176,7 @@ export async function retrieveContext(history: ChatMsg[], question: string, clas
   const plan = await planQueries(history, question, memory, opts);
   const light = !llmConfig();
   const wq: WeightedQuery[] = plan.queries.map((q, i) => ({ q, w: i === 0 ? 1.4 : 1 }));
-  const classIds = classId ? new Set([classId]) : undefined;
+  const classIds = classId ? new Set([classId]) : scope;
   let res = await searchChunks(wq, { classIds });
   if (plan.dafHeb) {
     const dafIds = classIdsForDaf(plan.dafHeb);
@@ -192,7 +194,7 @@ export async function retrieveContext(history: ChatMsg[], question: string, clas
   }
   const refs = passages.map(passageToRef);
   const heads = light ? "" : classHeaders(res, passages);
-  const state: RetrievalState = { passages, seen: new Set(passages.flatMap((p) => p.chunkIds)), classId, plan, res };
+  const state: RetrievalState = { passages, seen: new Set(passages.flatMap((p) => p.chunkIds)), classId, scope, plan, res };
   const context = `${heads ? `CLASES MÁS RELEVANTES (resúmenes oficiales):\n${heads}\n\n` : ""}EXTRACTOS (ordenados por clase y tiempo; cada uno agrupa pasajes contiguos, con marcas de tiempo (mm:ss)):\n\n${formatPassages(passages)}`;
   return { context, refs, state };
 }
@@ -201,8 +203,8 @@ export async function retrieveContext(history: ChatMsg[], question: string, clas
 async function runBuscar(state: RetrievalState, refs: Ref[], args: Record<string, unknown>): Promise<string> {
   const q = typeof args.query === "string" ? args.query.trim().slice(0, 300) : "";
   if (!q) return "Falta el parámetro query.";
-  let classIds: Set<string> | undefined = state.classId ? new Set([state.classId]) : undefined;
-  if (!classIds && typeof args.clase === "string" && args.clase.trim()) { const c = resolveClass(args.clase); if (c.size) classIds = c; }
+  let classIds: Set<string> | undefined = state.classId ? new Set([state.classId]) : state.scope;
+  if ((!classIds || classIds === state.scope) && typeof args.clase === "string" && args.clase.trim()) { const c = resolveClass(args.clase); const cs = state.scope ? new Set([...c].filter((x) => state.scope!.has(x))) : c; if (cs.size) classIds = cs; }
   const dafHeb = parseDaf(args.daf);
   const dafIds = dafHeb ? classIdsForDaf(dafHeb) : undefined;
   if (dafIds?.size) classIds = classIds ? new Set([...classIds].filter((x) => dafIds.has(x))) : dafIds;

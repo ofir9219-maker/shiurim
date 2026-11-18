@@ -64,7 +64,7 @@ export function parseJson<T>(s: string | null | undefined, d: T): T {
 export type Daf = { daf: string; amud: string };
 export type ClassSummary = {
   id: string; ord: number; ordLabel: string; title: string; fileName: string; daf: Daf[]; dafLabel: string;
-  durationMs: number; summary: string; tags: string[]; audioUrl: string; hasTranscript: boolean;
+  durationMs: number; summary: string; tags: string[]; audioUrl: string; hasTranscript: boolean; collection: string;
 };
 export type Segment = { idx: number; startMs: number; endMs: number; text: string };
 
@@ -72,7 +72,7 @@ export function rowToClass(r: ClassRow, audioUrl: string): ClassSummary {
   return {
     id: r.id, ord: r.ord, ordLabel: r.ord_label, title: r.title, fileName: r.file_name,
     daf: parseJson<Daf[]>(r.daf, []), dafLabel: r.daf_label || "", durationMs: r.duration_ms || 0,
-    summary: r.summary || "", tags: parseJson<string[]>(r.tags, []), audioUrl, hasTranscript: !!r.has_transcript,
+    summary: r.summary || "", tags: parseJson<string[]>(r.tags, []), audioUrl, hasTranscript: !!r.has_transcript, collection: r.collection_id || "berajot",
   };
 }
 
