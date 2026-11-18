@@ -69,7 +69,7 @@ export default function ClassList({ classes }: { classes: ClassSummary[] }) {
         <h1 id="hero-title" className="hero-title" dir="rtl" lang="he">ברכות שר לשמחה</h1>
         <p className="hero-sub">Shiurim de Guemará</p>
         <Ornament />
-        <p className="lead">Un recorrido por el tratado de Berajot, daf por daf: escuchá cada clase con su transcripción sincronizada y buscá cualquier tema.</p>
+        <p className="lead">Un recorrido por el tratado de Berajot, daf por daf: escucha cada clase con su transcripción sincronizada y busca cualquier tema.</p>
         <ul className="stats" aria-label="La serie en números">
           <li><b>{classes.length || "—"}</b><span>clases</span></li>
           <li><b>~{hours || "—"}</b><span>horas</span></li>

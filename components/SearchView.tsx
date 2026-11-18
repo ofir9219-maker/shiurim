@@ -60,7 +60,7 @@ export default function SearchView() {
     <>
       <header className="search-head">
         <span className="eyebrow">Buscar en las clases</span>
-        <h1 className="page-title" style={{ marginTop: 14 }}>¿Qué querés encontrar?</h1>
+        <h1 className="page-title" style={{ marginTop: 14 }}>¿Qué quieres encontrar?</h1>
       </header>
       <div className="search-box">
         <IconSearch />
@@ -74,7 +74,7 @@ export default function SearchView() {
       {!term && (
         <div className="state" style={{ paddingTop: 24 }}>
           <Ornament />
-          <p style={{ marginTop: 20 }}>Buscá en la transcripción completa de todas las clases y saltá al momento exacto.</p>
+          <p style={{ marginTop: 20 }}>Busca en la transcripción completa de todas las clases y saltá al momento exacto.</p>
           <div className="suggest">{SUGGEST.map((s) => <button key={s} className="chip" onClick={() => setQ(s)}>{s}</button>)}</div>
         </div>
       )}
@@ -82,10 +82,10 @@ export default function SearchView() {
         <ul className="results" aria-hidden="true">{[0, 1, 2].map((i) => <li key={i}><div className="card" style={{ display: "grid", gap: 10 }}><div className="skeleton" style={{ height: 24, width: "55%", marginLeft: "auto" }} /><div className="skeleton" style={{ height: 16 }} /><div className="skeleton" style={{ height: 16, width: "75%" }} /></div></li>)}</ul>
       )}
       {failed && !loading && (
-        <div className="state" role="alert"><h2>No pudimos buscar</h2><p>Hubo un problema de conexión. Probá de nuevo.</p><button className="btn" onClick={() => setQ(q + " ")}>Reintentar</button></div>
+        <div className="state" role="alert"><h2>No pudimos buscar</h2><p>Hubo un problema de conexión. Prueba de nuevo.</p><button className="btn" onClick={() => setQ(q + " ")}>Reintentar</button></div>
       )}
       {!loading && hits && hits.length === 0 && term && (
-        <div className="state"><div className="glyph he" aria-hidden="true">?</div><h2>Sin resultados</h2><p>No encontramos “{term}”. Probá con otra palabra o una raíz más corta.</p></div>
+        <div className="state"><div className="glyph he" aria-hidden="true">?</div><h2>Sin resultados</h2><p>No encontramos “{term}”. Prueba con otra palabra o una raíz más corta.</p></div>
       )}
       <ul className="results">
         {(hits ?? []).map((h) => (
