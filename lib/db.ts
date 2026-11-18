@@ -21,7 +21,12 @@ CREATE TABLE IF NOT EXISTS chunks(
   id INTEGER PRIMARY KEY, class_id TEXT NOT NULL, start_ms INTEGER, end_ms INTEGER, text TEXT,
   hash TEXT, embedding BLOB
 );
-CREATE INDEX IF NOT EXISTS chunks_class ON chunks(class_id);
+CREATE INDEX IF NOT EXISTS chunks_class ON chunks(class_id, start_ms);
+-- Retrieval shadow indexes (rebuilt by build-db): chunk text raw + transliteration-normalized (lib/translit.ts), class title/tags/summary, class embeddings.
+CREATE VIRTUAL TABLE IF NOT EXISTS chunks_fts USING fts5(text, tokenize='unicode61 remove_diacritics 2');
+CREATE VIRTUAL TABLE IF NOT EXISTS chunks_nfts USING fts5(text, tokenize='unicode61');
+CREATE VIRTUAL TABLE IF NOT EXISTS classes_nfts USING fts5(class_id UNINDEXED, text, tokenize='unicode61');
+CREATE TABLE IF NOT EXISTS class_vecs(class_id TEXT PRIMARY KEY, hash TEXT, embedding BLOB);
 `;
 
 export type ClassRow = {
