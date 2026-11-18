@@ -34,7 +34,7 @@ work/<id>/                     temporales (se borran al terminar)
 ## Puesta en marcha
 
 1. **Volumen**: Railway → servicio → Volumes → mount path `/data`.
-2. **Google Cloud** (con la cuenta Gmail dueña de la carpeta): proyecto nuevo → APIs y servicios → habilitar *Google Drive API* → Pantalla de consentimiento OAuth (Externo) → agregar scope `https://www.googleapis.com/auth/drive` → **Publicar la app ("In production")** para que el refresh token no caduque a los 7 días (aparece la advertencia "app no verificada": Avanzado → Continuar) → Credenciales → ID de cliente OAuth → *Aplicación web* → URI de redireccionamiento autorizado: `https://web-production-50ad5c1f.up.railway.app/api/admin/google/callback`. Copiar Client ID y Secret.
+2. **Google Cloud** (con la cuenta Gmail dueña de la carpeta): proyecto nuevo → APIs y servicios → habilitar *Google Drive API* → Pantalla de consentimiento OAuth (Externo) → agregar scope `https://www.googleapis.com/auth/drive` → **Publicar la app ("In production")** para que el refresh token no caduque a los 7 días (aparece la advertencia "app no verificada": Avanzado → Continuar) → Credenciales → ID de cliente OAuth → *Aplicación web* → URI de redireccionamiento autorizado: `https://ofirsegal.app/api/admin/google/callback`. Copiar Client ID y Secret.
 3. **Variables en Railway**: ver tabla. Redeploy.
 4. Abrir `/admin`, entrar con `ADMIN_PASSWORD`, pulsar **Conectar Google Drive** y aceptar. Luego **Revisar ahora**.
 5. Ffmpeg: viene con la dependencia `ffmpeg-static`; si falla en el build, definir `RAILPACK_DEPLOY_APT_PACKAGES=ffmpeg` (o `FFMPEG_PATH`).

@@ -7,6 +7,7 @@ import Nav from "../components/Nav";
 
 const DESC = "Shiurim de Guemará sobre Masejet Berajot, con transcripción sincronizada, búsqueda y preguntas sobre cada clase.";
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.PUBLIC_BASE_URL || "https://ofirsegal.app"),
   title: { default: "ברכות שר לשמחה — Shiurim de Berajot", template: "%s · ברכות שר לשמחה" },
   description: DESC,
   applicationName: "ברכות שר לשמחה",
