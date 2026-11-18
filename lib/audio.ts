@@ -23,6 +23,12 @@ export const r2Bucket = () => process.env.R2_BUCKET || process.env.R2_BUCKET_NAM
  * Only the R2 variants need r2Key (falls back to `${id}.<ext>` is NOT guessed; no key => proxy).
  */
 export async function audioUrlFor(id: string, r2Key?: string | null): Promise<string> {
+  if (!r2Key && getR2Client() && r2Bucket()) {
+    // Use the mirrored copy (shiurim/<id><ext>) once the background upload has put it in the bucket.
+    const { r2KeyFor, existingKeys } = await import("./r2-sync");
+    const k = r2KeyFor(id);
+    if (k && (await existingKeys()).has(k)) r2Key = k;
+  }
   const base = process.env.R2_PUBLIC_BASE_URL;
   if (r2Key && base) return `${base.replace(/\/$/, "")}/${r2Key.split("/").map(encodeURIComponent).join("/")}`;
   const client = s3();
