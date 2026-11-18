@@ -40,6 +40,7 @@ export default function Nav() {
   const path = usePathname();
   return (
     <header className="site-header">
+      <style>{`@media (max-width:640px){.site-header .nav{margin:0}.site-header .navlink{padding:0 4px;font-size:.8rem;letter-spacing:0}.site-header .navlink.on::after{left:12%;right:12%}}`}</style>
       <div className="header-in">
         <Link href="/" className="brand" aria-label="ברכות שר לשמחה — inicio">
           <span className="brand-he he" dir="rtl" lang="he">ברכות שר לשמחה</span>

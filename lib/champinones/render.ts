@@ -35,22 +35,28 @@ function clipToRect(cx: number, cy: number, w: number, h: number, tx: number, ty
 }
 
 export function renderMap(a: Analysis, lang: string): string {
-  const nodes = a.nodes, W = 980;
+  const nodes = a.nodes;
   if (!nodes.length) return "";
   const deg = new Map<string, number>(); a.links.forEach((l) => { deg.set(l.from, (deg.get(l.from) || 0) + 1); deg.set(l.to, (deg.get(l.to) || 0) + 1); });
   let anchors = nodes.filter((n) => n.role === "anchor");
   if (!anchors.length) anchors = [[...nodes].sort((x, y) => (deg.get(y.id) || 0) - (deg.get(x.id) || 0))[0]];
   anchors = anchors.slice(0, 3);
   const others = nodes.filter((n) => !anchors.includes(n));
-  const NW = 178, NH = 56, cx = W / 2;
-  const ry = others.length > 4 ? 190 : others.length > 2 ? 150 : 135, H = anchors.length && others.length ? 2 * ry + NH + 70 : 220, cy = H / 2;
+  const NW = 178, NH = 56;
   const pos = new Map<string, { x: number; y: number }>();
-  anchors.forEach((n, i) => pos.set(n.id, { x: cx + (i - (anchors.length - 1) / 2) * (NW + 60), y: cy }));
-  const rx = 400;
-  others.forEach((n, i) => {
-    const ang = -Math.PI / 2 + (2 * Math.PI * i) / others.length;
-    pos.set(n.id, { x: cx + rx * Math.cos(ang), y: cy + ry * Math.sin(ang) });
-  });
+  if (nodes.length <= 5) {
+    // compact "tree": anchors on the top row, the rest in a row below (edges between neighbours stay horizontal)
+    const GAP = 150, ROW = 150;
+    const row = (ns: Node[], y: number) => ns.forEach((n, i) => pos.set(n.id, { x: (i - (ns.length - 1) / 2) * (NW + GAP), y }));
+    if (others.length) { row(anchors, 0); row(others, ROW); } else row(anchors, 0);
+  } else {
+    const rx = 400, ry = others.length > 4 ? 190 : 150;
+    anchors.forEach((n, i) => pos.set(n.id, { x: (i - (anchors.length - 1) / 2) * (NW + 60), y: 0 }));
+    others.forEach((n, i) => {
+      const ang = -Math.PI / 2 + (2 * Math.PI * i) / others.length;
+      pos.set(n.id, { x: rx * Math.cos(ang), y: ry * Math.sin(ang) });
+    });
+  }
   const pairCount = new Map<string, number>();
   const edges = a.links.map((l) => {
     const p = pos.get(l.from), q = pos.get(l.to);
@@ -79,7 +85,10 @@ export function renderMap(a: Analysis, lang: string): string {
       <text x="${NW / 2}" y="23" text-anchor="middle" class="cm-label">${esc(trunc(n.label, 24))}</text>
       <text x="${NW / 2}" y="41" text-anchor="middle" class="cm-ref">${esc(trunc(n.ref, 26))}</text></g>`;
   }).join("");
-  return `<svg class="cmap" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(tr(lang, "map"))}" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">${edges}${boxes}</svg>`;
+  const xs = [...pos.values()].map((p) => p.x), ys = [...pos.values()].map((p) => p.y);
+  const PAD = 56, vx = Math.min(...xs) - NW / 2 - PAD, vy = Math.min(...ys) - NH / 2 - PAD / 1.6;
+  const vw = Math.max(...xs) - Math.min(...xs) + NW + 2 * PAD, vh = Math.max(...ys) - Math.min(...ys) + NH + PAD * 1.25;
+  return `<svg class="cmap" viewBox="${vx.toFixed(0)} ${vy.toFixed(0)} ${vw.toFixed(0)} ${vh.toFixed(0)}" style="max-width:${Math.round(vw * 1.25)}px;min-width:min(100%,${Math.min(Math.round(vw), 560)}px)" role="img" aria-label="${esc(tr(lang, "map"))}" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">${edges}${boxes}</svg>`;
 }
 
 // ---------- sections ----------
@@ -190,7 +199,7 @@ export const CHAMP_CSS = `
 .champ .reset{font:inherit;color:var(--gold-strong);background:none;border:0;padding:4px;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
 .champ .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-lg);box-shadow:var(--sh-1)}
 .champ .mapwrap{padding:var(--sp-3);overflow-x:auto}
-.champ .cmap{display:block;width:100%;min-width:640px;height:auto;max-height:560px}
+.champ .cmap{display:block;width:100%;margin:0 auto;height:auto;max-height:560px}
 .champ .cm-node{cursor:pointer;transition:opacity .2s var(--ease)}
 .champ .cm-box{fill:var(--surface-2)}
 .champ .cm-node.anchor .cm-box{fill:var(--gold-soft)}

@@ -1,5 +1,6 @@
 import { getDb, getClass, getSegments, parseJson, type Daf, type Segment } from "../db";
-import { hybridSearch, textSearch } from "../search";
+import { textSearch } from "../search";
+import { searchChunks, buildPassages } from "../retrieval";
 import { fmtMs } from "./text";
 
 export type Passage = {
@@ -38,7 +39,7 @@ function segIndexAt(segs: Segment[], ms: number): number {
 }
 
 /** Find shiur passages on the topic. Combines hybrid search, keyword+"champiñ" FTS and (optionally) a specific class. */
-export async function gatherShiurim(opts: { question: string; query: string; keywords: string[]; classId?: string; boostClassIds?: string[]; limit?: number }): Promise<Passage[]> {
+export async function gatherShiurim(opts: { question: string; query: string; queries?: string[]; keywords: string[]; classId?: string; boostClassIds?: string[]; limit?: number }): Promise<Passage[]> {
   const db = getDb();
   if (!db) return [];
   const limit = opts.limit ?? 6;
@@ -48,10 +49,13 @@ export async function gatherShiurim(opts: { question: string; query: string; key
 
   const kws = opts.keywords.filter(Boolean).slice(0, 4);
   try {
-    for (const q of [opts.query, opts.question].filter(Boolean)) {
-      const hs = await hybridSearch(q, 12);
-      hs.forEach((h, i) => add(h.classId, h.startMs + Math.min(15000, Math.max(0, (h.endMs - h.startMs) / 4)), 1 / (60 + i) + (CHAMP.test(h.text) ? 0.012 : 0)));
-    }
+    // high-recall retrieval (multi-query x normalized FTS + raw FTS + vectors + class-level), Spanish expansions of the topic first
+    const qs = [...new Set([opts.query, ...(opts.queries || []), ...kws.slice(0, 2).map((k) => `champiñones ${k}`)].map((x) => (x || "").trim()).filter(Boolean))].slice(0, 7);
+    const wq = qs.map((q, i) => ({ q, w: i === 0 ? 1.5 : 1 }));
+    if (opts.question.trim() && !qs.includes(opts.question.trim())) wq.push({ q: opts.question.trim(), w: 0.6 });
+    const res = await searchChunks(wq, {});
+    const ps = buildPassages(res, { seeds: 24, expandTop: 8, budget: 30000 });
+    ps.sort((a, b) => b.score - a.score).slice(0, 14).forEach((p, i) => add(p.classId, p.startMs, Math.max(p.score, 0) * 1.2 + (CHAMP.test(p.text) ? 0.012 : 0) + 1 / (200 + i)));
   } catch {}
   const ftsQs = [...kws.slice(0, 3).map((k) => `champiñ ${k}`), kws.slice(0, 2).join(" "), "champiñones " + (kws[0] || "")].filter((x) => x.trim().length > 3);
   ftsQs.forEach((q, qi) => {
@@ -84,12 +88,12 @@ export async function gatherShiurim(opts: { question: string; query: string; key
     let segs = segCache.get(r.classId);
     if (!segs) { segs = getSegments(r.classId); segCache.set(r.classId, segs); }
     if (!segs.length) continue;
-    const w = windowAt(segs, segIndexAt(segs, r.ms));
+    const w = windowAt(segs, segIndexAt(segs, r.ms), 1, 9);
     // skip windows overlapping an already chosen one
     if (out.some((o) => o.classId === r.classId && w.startMs < o.endMs && w.endMs > o.startMs)) continue;
     out.push({
       classId: r.classId, startMs: w.startMs, endMs: w.endMs, title: cls.title, ordLabel: cls.ord_label, time: fmtMs(w.startMs),
-      text: w.text.slice(0, 1000), champ: CHAMP.test(w.text), score: r.score, refs: classAmudim(cls.title, cls.daf),
+      text: w.text.slice(0, 1300), champ: CHAMP.test(w.text), score: r.score, refs: classAmudim(cls.title, cls.daf),
     });
   }
   // keep champiñón passages near the top

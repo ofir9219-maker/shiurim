@@ -1,4 +1,4 @@
-import { excerptInSource, bestWindow, hookInText, normRef, isHeStop, heTokens } from "./text";
+import { excerptInSource, bestWindow, hookInText, normRef, isHeStop, heTokens, widenToInclude } from "./text";
 import { NONLITERAL_HOOKS, type Analysis, type Link, type Node, type ShiurRef } from "./types";
 
 export type CtxItem = { ref: string; he: string };
@@ -10,6 +10,8 @@ export type ValidateCtx = {
   moment: (classId: string, startMs: number) => boolean;
   classInfo?: (classId: string) => { title: string; ordLabel: string } | null;
   expectedLang?: string;
+  /** keep nodes that have no link (whole-set questions must show every member) */
+  keepOrphans?: boolean;
 };
 export type Validation = { data: Analysis; dropped: string[]; flagged: string[]; problems: string[]; invalidRatio: number; repaired: boolean };
 
@@ -73,9 +75,19 @@ export function validateAnalysis(input: Analysis, ctx: ValidateCtx): Validation 
       const srcA = items.get(normRef(A.ref))!, srcB = items.get(normRef(B.ref))!;
       const fullA = hookInText(l.hook_text, srcA.he), fullB = hookInText(l.hook_text, srcB.he);
       if (!(fullA && fullB)) { dropped.push(`link ${l.id}: hook "${l.hook_text}" not in both texts`); problems.push(`Link ${l.id}: hook_text "${l.hook_text}" is not present in both linked texts.`); bad++; continue; }
-      flags.push("hook_outside_excerpt"); flagged.push(`link ${l.id}: hook found in the source texts but not inside the short excerpts`);
-      problems.push(`Link ${l.id}: hook_text "${l.hook_text}" must appear inside BOTH hebrew_excerpt fields (extend the excerpts).`); bad += 0.5;
-      l.strength = Math.min(l.strength, 2) as 1 | 2 | 3;
+      // widen the excerpt(s) lacking the hook so that they include it (bounded), instead of capping strength
+      for (const [n, src, has] of [[A, srcA, inA], [B, srcB, inB]] as const) {
+        if (has) continue;
+        const w = widenToInclude(n.hebrew_excerpt, l.hook_text, src.he, 32);
+        if (w) { n.hebrew_excerpt = w; n.flags = [...(n.flags || []), "excerpt_widened"]; repaired = true; }
+      }
+      if (hookInText(l.hook_text, A.hebrew_excerpt) && hookInText(l.hook_text, B.hebrew_excerpt)) {
+        flagged.push(`link ${l.id}: excerpts widened to include the hook`); flags.push("excerpt_widened"); bad += 0.1;
+      } else {
+        flags.push("hook_outside_excerpt"); flagged.push(`link ${l.id}: hook found in the source texts but not inside the short excerpts`);
+        problems.push(`Link ${l.id}: hook_text "${l.hook_text}" must appear inside BOTH hebrew_excerpt fields (extend the excerpts).`); bad += 0.5;
+        l.strength = Math.min(l.strength, 2) as 1 | 2 | 3;
+      }
     }
     if (!literal && !(inA || inB)) { flags.push("nonliteral_unanchored"); flagged.push(`link ${l.id}: ${l.hook_type} hook without literal anchor`); l.strength = 1; }
     const toks = heTokens(l.hook_text);
@@ -90,7 +102,7 @@ export function validateAnalysis(input: Analysis, ctx: ValidateCtx): Validation 
   // ---- orphan nodes
   const linked = new Set(linksCapped.flatMap((l) => [l.from, l.to]));
   const finalNodes = nodes.filter((n) => {
-    if (linked.has(n.id)) return true;
+    if (linked.has(n.id) || ctx.keepOrphans) return true;
     dropped.push(`node ${n.id}: not part of any verified link`); return false;
   }).slice(0, MAX_NODES);
   const keep = new Set(finalNodes.map((n) => n.id));
@@ -105,6 +117,13 @@ export function validateAnalysis(input: Analysis, ctx: ValidateCtx): Validation 
     bad += origCount * 0.4;
     flagged.push(`answer_language ${a.answer_language} != ${ctx.expectedLang}`);
   }
+  const label = new Map(input.nodes.map((n) => [n.id, n.label]));
+  const clean = (t: string) => (t || "").replace(/\b[nN](\d{1,2})\b/g, (m, d) => { const l = label.get("n" + d); return l ? `«${l}»` : m; }).replace(/\b[lL]\d{1,2}\b(?=\s*[):,.])/g, "");
+  for (const l of finalLinks) { l.surface_explanation = clean(l.surface_explanation); l.depth_explanation = clean(l.depth_explanation); }
+  for (const y of layers) { y.text = clean(y.text); y.title = clean(y.title); }
+  for (const s of keptShiur) s.why = clean(s.why);
+  a.summary = clean(a.summary); a.synthesis = clean(a.synthesis); if (a.practical_lesson) a.practical_lesson = clean(a.practical_lesson);
+  a.open_questions = a.open_questions.map(clean); a.caveats = a.caveats.map(clean);
   const data: Analysis = { ...a, nodes: finalNodes, links: finalLinks, layers, shiur_refs: keptShiur };
   if (!finalLinks.length && !data.caveats.length) data.caveats.push("No hook survived server-side verification against the fetched texts.");
   return { data, dropped, flagged, problems, invalidRatio: bad / origCount, repaired };

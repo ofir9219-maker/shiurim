@@ -24,8 +24,11 @@ const ANALYZE_SYS = `You prepare a Torah-study search for a Gemara (Masechet Ber
 - requested_answer_language: ISO code ONLY if the user explicitly asks for the reply in a language (e.g. "respond in English", "en español", "ענה בעברית"); otherwise null.
 - hebrew_terms: 3-6 key Hebrew/Aramaic words or short phrases (no nikud) exactly as they would be written in the Talmud or Tanakh (e.g. חיורתא, עת רצון, תוכו כברו, אבא בנימין).
 - refs: up to 8 Sefaria refs (English format, e.g. "Berakhot 28a", "Berakhot 5b:12", "Psalms 69:14") of the passages the question is about. Amud-level refs are fine. Only refs you are confident exist; [] if unsure.
-- shiur_query: a short Spanish search query in the style of a transcribed Spanish-language Gemara class, with transliterated Hebrew terms (e.g. "jivartá barba Rabí Elazar ben Azaryá").
-- shiur_keywords: 2-4 single Spanish/transliterated keywords for the same.`;
+- shiur_query: a short Spanish search query in the style of a transcribed Spanish-language Gemara class, with transliterated Hebrew terms (e.g. "jivartá barba Rabí Elazar ben Azaryá"). ALWAYS Spanish, whatever the question's language (translate the topic).
+- shiur_queries: 4-6 more Spanish queries for the same topic: FIRST a complete natural Spanish translation of the question (translate Hebrew nouns into Spanish: canas, barba, cántaros, ceniza, sueño...), then the transliterated Hebrew/Aramaic terms alone (e.g. "eit ratzón", "tefilá"), related concepts the teacher would mention, and variants with "champiñón". Spanish only. Transliterate like a Sephardic Spanish speaker writes it: ח/כ = j, צ = tz, ש = sh, ו = v, ת = t (חיורתא = jivartá, חצבי חיורי = jatzbei jivarei, מטתי = mitatí); when unsure give two spellings.
+- shiur_keywords: 2-4 single Spanish/transliterated keywords for the same.
+- names_a_set: true if the question names a closed set or a whole sugya to be covered completely ("las 5 memrot de X", "all the statements of Rabbi Y in this sugya", "todas las ...").
+- set_size: the number of members if the question states it, else null.`;
 
 const HOOKS_SYS = `You are the hook detector of the "champiñones" method. With the chip off, list ONLY literal or structural coincidences between the given texts: same word, rare form, shared root, same phrase, same verse, same name/person, number, image/object, structure, scene role. Do NOT explain depth. Prefer rare words (use the lexical_overlap list). At most 10 candidates; each hook_text must be copied literally (nikud optional) from BOTH texts a and b, and a and b are the ids (T1, T2, ...) of two DIFFERENT texts; hook_text must be a Hebrew/Aramaic word or phrase present in both. need_refs: up to 3 refs from the LINKS list you would like to read to confirm a hook ([] if none). Strict JSON.`;
 
@@ -60,12 +63,12 @@ function shiurText(ps: Passage[], n = 900): string {
 }
 const toItem = (u: Unit): Item => ({ ...u, plain: stripNikud(u.he) });
 
-type Ana = { question_language: string; requested_answer_language: string | null; hebrew_terms: string[]; refs: string[]; shiur_query: string; shiur_keywords: string[] };
+type Ana = { question_language: string; requested_answer_language: string | null; hebrew_terms: string[]; refs: string[]; shiur_query: string; shiur_queries: string[]; shiur_keywords: string[]; names_a_set: boolean; set_size: number | null };
 function heuristicAna(q: string): Ana {
   const heb = (q.match(/[֐-׿]+/g) || []).slice(0, 6);
   const refs = [...q.matchAll(/\b(Ber[a-z]*h?[a-z]*|Berajot|Berakhot)\s+(\d{1,2})\s*([ab])\b/gi)].map((m) => `Berakhot ${m[2]}${m[3].toLowerCase()}`);
   const kws = (q.toLowerCase().match(/[\p{L}]{5,}/gu) || []).slice(0, 4);
-  return { question_language: detectLang(q), requested_answer_language: explicitLang(q), hebrew_terms: heb, refs, shiur_query: q, shiur_keywords: kws };
+  return { question_language: detectLang(q), requested_answer_language: explicitLang(q), hebrew_terms: heb, refs, shiur_query: q, shiur_queries: [], shiur_keywords: kws, names_a_set: /\b(todas|todos|las \d+|all the|every)\b/i.test(q), set_size: null };
 }
 
 type Gathered = { items: Item[]; pool: Map<string, string>; notes: string[] };
@@ -83,8 +86,8 @@ function pickFromSection(units: Unit[], termToks: string[], maxN: number, requir
   return [...chosen].sort((a, b) => a - b).map((i) => units[i]);
 }
 
-const CAP = 16;
 async function gatherSefaria(ana: Ana, passages: Passage[], scope: string, trLang: string, classId: string | undefined, say: (d: string) => void): Promise<Gathered> {
+  const CAP = ana.names_a_set ? 22 : 16;
   const items: Item[] = []; const seen = new Set<string>(); const pool = new Map<string, string>(); const notes: string[] = [];
   const add = (us: Unit[], max = CAP) => { for (const u of us) { const k = normRef(u.ref); if (seen.has(k) || items.length >= max) continue; seen.add(k); items.push(toItem(u)); } };
   const termToks = [...new Set(ana.hebrew_terms.flatMap((t) => heTokens(t)).filter((t) => t.length >= 3 && !isHeStop(t)))];
@@ -117,9 +120,26 @@ async function gatherSefaria(ana: Ana, passages: Passage[], scope: string, trLan
     pool.set(normRef(h.ref), h.ref);
   }));
   const topOf = (m: Map<string, number>, n: number) => [...m.entries()].sort((a, b) => b[1] - a[1]).map(([r]) => r).filter((r) => !seen.has(normRef(r))).slice(0, n);
+  // whole-set questions ("las 5 memrot de X"): take the full span between the first and last unit naming the term, across amudim
+  if (ana.names_a_set) {
+    const secs: Unit[] = [...aSets.flat(), ...bSets.flat()];
+    const have = new Set(secs.map((u) => u.ref.split(":")[0]));
+    const more = [...new Set([...talmudHits.keys()].map((r) => r.split(":")[0]))].filter((a) => !have.has(a)).slice(0, 3);
+    const moreSets = await Promise.all(more.map((r) => safe(fetchUnits(r, trLang), [] as Unit[])));
+    moreSets.forEach((u) => secs.push(...u));
+    const dafKey = (u: Unit) => { const m = /^(.*?) (\d+)([ab]):(\d+)/.exec(u.ref); return m ? [m[1], Number(m[2]) * 2 + (m[3] === "b" ? 1 : 0), Number(m[4])] as const : null; };
+    const sorted = secs.filter((u) => dafKey(u)).sort((x, y) => { const a = dafKey(x)!, b = dafKey(y)!; return a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : a[1] - b[1] || a[2] - b[2]; });
+    const phrases = ana.hebrew_terms.filter((t) => heTokens(t).length >= 2 || t.length >= 5);
+    const isHit = (u: Unit) => phrases.some((t) => hookInText(t, u.he));
+    const idx = sorted.map((u, i) => (isHit(u) ? i : -1)).filter((i) => i >= 0);
+    if (idx.length >= 2 && idx.length <= 12) {
+      const span = sorted.slice(idx[0], idx[idx.length - 1] + 2).filter((u, i, arr) => dafKey(u)![0] === dafKey(arr[0])![0]);
+      if (span.length <= 20) { add(span, CAP); }
+    }
+  }
   const cRefs = [...topOf(talmudHits, 4), ...topOf(tanakhHits, 3)];
   const cSets = await Promise.all(cRefs.map((r) => safe(fetchUnits(r, trLang), [] as Unit[])));
-  cSets.forEach((us) => add(us.slice(0, 1), 14));
+  cSets.forEach((us) => add(us.slice(0, 1), CAP - 2));
   say(`${items.length} refs`);
 
   // D: links/related from the first Bavli anchors (verses quoted, parallels)
@@ -140,6 +160,7 @@ async function gatherSefaria(ana: Ana, passages: Passage[], scope: string, trLan
   return { items, pool, notes };
 }
 
+const QWORDS = new Set(["מה", "הקשר", "בין", "של", "את", "על", "איך", "למה", "מהו", "מהי", "אל", "עם", "ו", "או", "לבין"]);
 type HookCand = { a: string; b: string; hook_type: string; hook_text: string; why: string };
 
 // ---------- main ----------
@@ -176,8 +197,8 @@ export async function* runChampinones(raw: Input): AsyncGenerator<StreamEvent> {
     yield status("lang", "Entendiendo la pregunta");
     let ana: Ana = heuristicAna(inp.question);
     try {
-      const r = await callJson<Ana>({ model: FAST_MODEL, schema: ANALYZE_SCHEMA, schemaName: "analyze", maxOut: 900, messages: [{ role: "system", content: ANALYZE_SYS }, { role: "user", content: inp.question }] });
-      calls.push(r.usage); ana = { ...ana, ...r.json, refs: r.json.refs || [], hebrew_terms: (r.json.hebrew_terms || []).concat(ana.hebrew_terms).slice(0, 7) };
+      const r = await callJson<Ana>({ model: "gpt-5-mini", effort: "low", schema: ANALYZE_SCHEMA, schemaName: "analyze", maxOut: 1500, messages: [{ role: "system", content: ANALYZE_SYS }, { role: "user", content: inp.question }] });
+      calls.push(r.usage); ana = { ...ana, ...r.json, refs: r.json.refs || [], hebrew_terms: (r.json.hebrew_terms || []).concat(ana.hebrew_terms).filter((t) => !heTokens(t).every((x) => QWORDS.has(x))).slice(0, 7) };
     } catch {}
     const heur = detectLang(inp.question);
     const qLang = ((ana.question_language || "").slice(0, 2).toLowerCase() as Lang);
@@ -189,7 +210,8 @@ export async function* runChampinones(raw: Input): AsyncGenerator<StreamEvent> {
 
     // 1. shiurim
     yield status("shiurim", "Buscando en los shiurim");
-    const passages = await gatherShiurim({ question: inp.question, query: ana.shiur_query || inp.question, keywords: ana.shiur_keywords || [], classId: inp.classId, boostClassIds: classesForRefs(ana.refs || []), limit: 6 });
+    const passages = await gatherShiurim({ question: inp.question, query: ana.shiur_query || inp.question, queries: ana.shiur_queries || [], keywords: ana.shiur_keywords || [], classId: inp.classId, boostClassIds: classesForRefs(ana.refs || []), limit: 6 });
+    if (process.env.CHAMP_DEBUG) console.error("ANA", JSON.stringify(ana), "PASSAGES", JSON.stringify(passages.map((p) => [p.ordLabel, p.time, p.champ, p.text.slice(0, 90)])));
     yield status("shiurim", `${passages.length} pasajes de shiur`, passages.filter((p) => p.champ).length ? `${passages.filter((p) => p.champ).length} con champiñones del rabino` : undefined);
 
     // 2. sefaria
@@ -222,7 +244,9 @@ export async function* runChampinones(raw: Input): AsyncGenerator<StreamEvent> {
     // 4. pass 2: depth
     const sys = systemPrompt();
     const langNote = forced ? `\n[Explicit user request: write the answer in ${LANG_NAME[answerLang]} (answer_language "${answerLang}").]` : "";
-    const user2 = `<question>${inp.question}${langNote}</question>\n<sefaria>\n${ctxText(items, answerLang)}\n</sefaria>\n<shiur>\n${shiurText(passages)}\n</shiur>\n<candidates>\n${cands.map((c) => `${c.a} <-> ${c.b} | ${c.hook_type} | ${c.hook_text} | ${c.why}`).join("\n") || "(none)"}\n</candidates>`;
+    const cover = ana.names_a_set ? `\n[Coverage: the question names a complete set${ana.set_size ? ` of ${ana.set_size} members` : ""} or a whole sugya. Include EVERY member present in CONTEXT as a node (up to 10; consecutive statements of the same sugya count) and list in caveats any member you cannot find in CONTEXT.]` : "";
+    const style = "\n[Style: in prose fields refer to passages by their label or ref, never by node ids (n1, n2) or link ids (l1).]";
+    const user2 = `<question>${inp.question}${langNote}${cover}${style}</question>\n<sefaria>\n${ctxText(items, answerLang)}\n</sefaria>\n<shiur>\n${shiurText(passages)}\n</shiur>\n<candidates>\n${cands.map((c) => `${c.a} <-> ${c.b} | ${c.hook_type} | ${c.hook_text} | ${c.why}`).join("\n") || "(none)"}\n</candidates>`;
     const messages: Msg[] = [{ role: "system", content: sys }, { role: "user", content: user2 }];
     yield status("depth", `Profundizando con ${inp.model}${modelInfo(inp.model).reasoning ? " · " + inp.effort : ""}`);
     let lastEmit = 0; const prog: StreamEvent[] = [];
@@ -237,7 +261,7 @@ export async function* runChampinones(raw: Input): AsyncGenerator<StreamEvent> {
     // 5. validate (+ one repair retry)
     yield status("validate", "Verificando refs, citas y ganchos");
     const vctx: ValidateCtx = {
-      items: items.map((i) => ({ ref: i.ref, he: i.he })), passages, moment: momentExists, expectedLang: answerLang,
+      items: items.map((i) => ({ ref: i.ref, he: i.he })), passages, moment: momentExists, expectedLang: answerLang, keepOrphans: !!ana.names_a_set,
       classInfo: (cid) => { const c = getClass(cid); return c ? { title: c.title, ordLabel: c.ord_label } : null; },
     };
     let v = validateAnalysis(d1.json, vctx), retried = false;

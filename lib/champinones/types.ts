@@ -76,5 +76,8 @@ export const ANALYZE_SCHEMA = obj({
   hebrew_terms: arr(S),
   refs: arr(S),
   shiur_query: S,
+  shiur_queries: arr(S),
   shiur_keywords: arr(S),
+  names_a_set: { type: "boolean" },
+  set_size: { type: ["integer", "null"] },
 });

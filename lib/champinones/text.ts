@@ -69,6 +69,30 @@ export function excerptInSource(excerpt: string, source: string): boolean {
   return parts.length > 0 && parts.every((p) => src.includes(p));
 }
 
+/**
+ * Widen `excerpt` (a verbatim part of `source`) so that it also contains `hook`, using contiguous words of the source
+ * (nikud stripped). Bounded by `maxWords`; if both cannot fit, returns a window around the hook. null if hook not in source.
+ */
+export function widenToInclude(excerpt: string, hook: string, source: string, maxWords = 32): string | null {
+  const raw = stripNikud(stripHtml(source)).split(/\s+/).filter(Boolean);
+  const nt = raw.map((w) => normHe(w).split(" ").filter(Boolean)[0] || "");
+  const hk = heTokens(hook);
+  if (!hk.length) return null;
+  let hs = -1;
+  for (let i = 0; i + hk.length <= raw.length && hs < 0; i++) { let ok = true; for (let k = 0; k < hk.length; k++) if (!nt[i + k] || !tokMatch(hk[k], nt[i + k])) { ok = false; break; } if (ok) hs = i; }
+  if (hs < 0) return null;
+  const he = hs + hk.length - 1;
+  const ex = new Set(heTokens(excerpt)), w = Math.min(Math.max(ex.size, 1), raw.length);
+  let best = -1, es = 0;
+  for (let i = 0; i + w <= raw.length; i++) { let c = 0; for (let k = i; k < i + w; k++) if (ex.has(nt[k])) c++; if (c > best) { best = c; es = i; } }
+  let a = Math.min(es, hs), b = Math.max(es + w - 1, he);
+  if (b - a + 1 > maxWords) { // too long: window around the hook
+    const room = Math.max(maxWords - hk.length, 0), before = Math.floor(room / 2);
+    a = Math.max(0, hs - before); b = Math.min(raw.length - 1, a + maxWords - 1);
+  }
+  return raw.slice(a, b + 1).join(" ");
+}
+
 /** Best ~`win`-word window of `source` by token overlap with `excerpt`. Returns {text, score 0..1}. */
 export function bestWindow(excerpt: string, source: string, win = 20): { text: string; score: number } {
   const ex = new Set(heTokens(excerpt));

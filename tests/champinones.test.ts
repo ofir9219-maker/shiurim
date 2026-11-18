@@ -71,12 +71,12 @@ test("non-verbatim excerpts are repaired or dropped", () => {
   v = validateAnalysis(b, ctx());
   assert.equal(v.data.nodes.length, 0); assert.equal(v.data.links.length, 0);
 });
-test("hooks must be in both texts; missing hook drops the link; outside-excerpt hook lowers strength", () => {
+test("hooks must be in both texts; missing hook drops the link; outside-excerpt hook widens the excerpt", () => {
   let a = base(); a.links[0].hook_text = "ארבע";
   assert.equal(validateAnalysis(a, ctx()).data.links.length, 0);
   a = base(); a.nodes[1].hebrew_excerpt = "ולא היא ההיא ליתובי דעתיה"; // no חיורי in excerpt, but present in source
   const v = validateAnalysis(a, ctx());
-  assert.equal(v.data.links.length, 1); assert.equal(v.data.links[0].strength, 2); assert.ok(v.data.links[0].flags?.includes("hook_outside_excerpt"));
+  assert.equal(v.data.links.length, 1); assert.ok(v.data.links[0].flags?.includes("excerpt_widened")); assert.ok(hookInText("חיורי", v.data.nodes[1].hebrew_excerpt));
   a = base(); a.links[0].hook_type = "concept"; a.links[0].hook_text = "תוכו כברו";
   const w = validateAnalysis(a, ctx());
   assert.equal(w.data.links.length, 1); assert.equal(w.data.links[0].strength, 1);
@@ -106,3 +106,16 @@ test("renderer: escapes, highlights the hook, standalone document is self-contai
   assert.match(renderMap(a, "es"), /cm-edge/);
 });
 test("cost table", () => { assert.ok(Math.abs(costOf("gpt-5.2", 10000, 5000) - (0.0175 + 0.07)) < 1e-9); });
+import { widenToInclude } from "../lib/champinones/text";
+test("excerpt widening includes the hook within a bound; orphan nodes kept for whole-set questions; node ids rewritten", () => {
+  const w = widenToInclude("ולא היא ההיא ליתובי דעתיה", "חיורי", T3, 32)!;
+  assert.ok(w && hookInText("חיורי", w) && excerptInSource(w, T3));
+  const a = base(); a.nodes[1].hebrew_excerpt = "ולא היא ההיא ליתובי דעתיה";
+  const v = validateAnalysis(a, ctx());
+  assert.equal(v.data.links[0].strength, 3); assert.ok(v.data.nodes[1].flags?.includes("excerpt_widened")); assert.ok(hookInText("חיורי", v.data.nodes[1].hebrew_excerpt));
+  const b = base(); b.nodes.push({ ...b.nodes[0], id: "n3", ref: "Berakhot 28a:2", hebrew_excerpt: "כל תלמיד שאין תוכו כברו", label: "Tojó" });
+  assert.equal(validateAnalysis(b, ctx()).data.nodes.length, 2);
+  assert.equal(validateAnalysis(b, ctx({ keepOrphans: true })).data.nodes.length, 3);
+  const c = base(); c.links[0].depth_explanation = "En n1 y en n2 aparece"; c.nodes[0].label = "Canas"; c.nodes[1].label = "Vasijas";
+  assert.equal(validateAnalysis(c, ctx()).data.links[0].depth_explanation, "En «Canas» y en «Vasijas» aparece");
+});

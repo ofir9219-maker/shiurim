@@ -9,7 +9,7 @@ let dir: string | null = null;
 /** Writable cache dir: $CHAMPINONES_DIR, else data/.cache/champinones (gitignored), else os tmp. */
 export function dataDir(): string {
   if (dir) return dir;
-  const cands = [process.env.CHAMPINONES_DIR, path.join(process.cwd(), "data", ".cache", "champinones"), path.join(os.tmpdir(), "champinones")].filter(Boolean) as string[];
+  const cands = [process.env.CHAMPINONES_DIR, process.env.STORAGE_DIR ? path.join(process.env.STORAGE_DIR, "champinones") : undefined, path.join(process.cwd(), "data", ".cache", "champinones"), path.join(os.tmpdir(), "champinones")].filter(Boolean) as string[];
   for (const c of cands) {
     try { fs.mkdirSync(c, { recursive: true }); fs.accessSync(c, fs.constants.W_OK); dir = c; return c; } catch {}
   }
