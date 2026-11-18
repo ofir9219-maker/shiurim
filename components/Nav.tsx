@@ -8,6 +8,7 @@ const items = [
   { href: "/", label: "Shiurim" },
   { href: "/buscar", label: "Buscar" },
   { href: "/chat", label: "Preguntar" },
+  { href: "/champinones", label: "Champiñones" },
 ];
 
 function ThemeToggle() {
