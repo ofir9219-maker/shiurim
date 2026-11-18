@@ -81,7 +81,7 @@ async function main() {
   } else if (fresh.length) console.log("Dry run: pass --write to append to data/inventory.json.");
 
   if (uploadR2) {
-    const s3 = getR2Client(); const bucket = process.env.R2_BUCKET;
+    const s3 = getR2Client(); const bucket = process.env.R2_BUCKET || process.env.R2_BUCKET_NAME;
     if (!s3 || !bucket) { console.log("--upload-r2: R2 credentials missing (R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_BUCKET)."); return; }
     const mapPath = path.join(process.cwd(), "data", "r2-keys.json");
     const map: Record<string, string> = fs.existsSync(mapPath) ? JSON.parse(fs.readFileSync(mapPath, "utf8")) : {};

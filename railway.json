@@ -1,7 +1,7 @@
 {
   "$schema": "https://railway.com/railway.schema.json",
   "build": {
-    "buildCommand": "if [ -n \"$OPENAI_API_KEY\" ]; then npm run embed; else npm run build:db; fi && npm run build"
+    "buildCommand": "npm run r2:map && if [ -n \"$OPENAI_API_KEY\" ]; then npm run embed; else npm run build:db; fi && npm run build"
   },
   "deploy": {
     "startCommand": "npm start",

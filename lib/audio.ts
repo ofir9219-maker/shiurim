@@ -6,15 +6,17 @@ export const driveDownloadUrl = (id: string) =>
 
 let _s3: S3Client | null = null;
 function s3(): S3Client | null {
-  const { R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY } = process.env;
-  if (!R2_ACCOUNT_ID || !R2_ACCESS_KEY_ID || !R2_SECRET_ACCESS_KEY) return null;
+  const { R2_ACCOUNT_ID, R2_ENDPOINT, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY } = process.env;
+  const endpoint = R2_ENDPOINT || (R2_ACCOUNT_ID ? `https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com` : "");
+  if (!endpoint || !R2_ACCESS_KEY_ID || !R2_SECRET_ACCESS_KEY) return null;
   return (_s3 ??= new S3Client({
     region: "auto",
-    endpoint: `https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com`,
+    endpoint,
     credentials: { accessKeyId: R2_ACCESS_KEY_ID, secretAccessKey: R2_SECRET_ACCESS_KEY },
   }));
 }
 export const getR2Client = s3;
+export const r2Bucket = () => process.env.R2_BUCKET || process.env.R2_BUCKET_NAME || "";
 
 /**
  * Best playable URL for an audio: R2 public base -> R2 presigned -> local proxy /api/audio/[id].
@@ -24,7 +26,7 @@ export async function audioUrlFor(id: string, r2Key?: string | null): Promise<st
   const base = process.env.R2_PUBLIC_BASE_URL;
   if (r2Key && base) return `${base.replace(/\/$/, "")}/${r2Key.split("/").map(encodeURIComponent).join("/")}`;
   const client = s3();
-  const bucket = process.env.R2_BUCKET;
+  const bucket = r2Bucket();
   if (r2Key && client && bucket) {
     try {
       return await getSignedUrl(client, new GetObjectCommand({ Bucket: bucket, Key: r2Key }), { expiresIn: 6 * 3600 });
