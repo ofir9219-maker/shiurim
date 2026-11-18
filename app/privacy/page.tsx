@@ -39,7 +39,7 @@ export default function Privacy() {
       <p>
         No se accede a otros archivos, no se comparten datos de Google con terceros salvo para transcribir el audio (Fal) y
         corregir la transcripción (OpenAI), y no se venden ni usan con fines publicitarios. El token de acceso se guarda
-        cifrado en el servidor y el administrador puede revocarlo en cualquier momento desde{" "}
+        en el almacenamiento privado del servidor, con acceso restringido, y el administrador puede revocarlo en cualquier momento desde{" "}
         <a href="https://myaccount.google.com/permissions">myaccount.google.com/permissions</a>.
       </p>
       <p>
