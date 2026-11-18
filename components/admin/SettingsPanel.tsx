@@ -5,9 +5,9 @@ import TemplateEditor from "./TemplateEditor";
 
 type Own = {
   transcription?: { model?: string; language?: string }; autoSync?: boolean; postprocess?: string; openai?: { model?: string; effort?: string };
-  naming?: { mode?: string; template?: string; obra?: string }; publish?: { title?: string; description?: string };
+  naming?: { mode?: string; template?: string; obra?: string }; allowHebrew?: boolean; publish?: { title?: string; description?: string };
 };
-type Resolved = { model: string; language: string; autoSync: boolean; postprocess: string; openaiModel: string; openaiEffort: string; namingMode: string; template: string; obra: string };
+type Resolved = { model: string; language: string; autoSync: boolean; postprocess: string; openaiModel: string; openaiEffort: string; namingMode: string; template: string; obra: string; allowHebrew: boolean };
 type Info = { path: string[]; own: { name: string; slug: string; published: boolean; settings: Own } | null; parentResolved: Resolved; parentFrom: Record<string, string>; names: Record<string, string>; name: string };
 
 const POST_LABEL: Record<string, string> = { none: "Sin pulido (transcripción cruda)", openai: "Pulido con OpenAI", ai_package: "Paquete para IA (ChatGPT/Claude)" };
@@ -69,6 +69,7 @@ export default function SettingsPanel({ folderId, folderName, state, onClose, on
           <label>Posproceso{sel(o.postprocess, (v) => upd("", "postprocess", v), Object.entries(POST_LABEL), `Heredar (${POST_LABEL[P.postprocess]})`)}{hint("postprocess", o.postprocess, POST_LABEL[P.postprocess])}</label>
           <label>Modelo OpenAI<input className="input" list="oa-models" value={o.openai?.model ?? ""} onChange={(e) => upd("openai", "model", e.target.value)} placeholder={`Heredar (${P.openaiModel})`} /><datalist id="oa-models">{oaModels.map((m) => <option key={m} value={m} />)}</datalist>{hint("openaiModel", o.openai?.model, P.openaiModel)}</label>
           <label>Esfuerzo (razonamiento){sel(o.openai?.effort, (v) => upd("openai", "effort", v), state.efforts.map((e) => [e, e]), `Heredar (${P.openaiEffort})`)}{hint("openaiEffort", o.openai?.effort, P.openaiEffort)}</label>
+          <label>Letras hebreas en la transcripción{sel(bool(o.allowHebrew), (v) => upd("", "allowHebrew", v === "" ? undefined : v === "1"), [["0", "No: transliteración latina"], ["1", "Sí: se permiten"]], `Heredar (${P.allowHebrew ? "sí" : "no"})`)}{hint("allowHebrew", o.allowHebrew, P.allowHebrew ? "sí" : "no")}</label>
         </fieldset>
         <fieldset><legend>Nombres de los archivos</legend>
           <label>Modo{sel(o.naming?.mode, (v) => upd("naming", "mode", v), [["keep", "Mantener el nombre original"], ["template", "Renombrar con plantilla"]], `Heredar (${P.namingMode === "keep" ? "mantener" : "plantilla"})`)}{hint("namingMode", o.naming?.mode, P.namingMode)}</label>

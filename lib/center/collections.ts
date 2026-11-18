@@ -16,6 +16,8 @@ export type Settings = {
   postprocess?: Postprocess;
   openai?: { model?: string; effort?: string };
   naming?: { mode?: NamingMode; template?: string; obra?: string };
+  /** Allow Hebrew script in transcript text (default: only Latin transliteration). */
+  allowHebrew?: boolean;
   publish?: { title?: string; description?: string };
 };
 export type Collection = {
@@ -25,7 +27,7 @@ export type Collection = {
 /** Fully resolved settings + where each key came from (folderId, or "default"). */
 export type Resolved = {
   model: FalModelId; language: string; autoSync: boolean; postprocess: Postprocess;
-  openaiModel: string; openaiEffort: string; namingMode: NamingMode; template: string; obra: string;
+  openaiModel: string; openaiEffort: string; namingMode: NamingMode; template: string; obra: string; allowHebrew: boolean;
 };
 export type SettingKey = keyof Resolved;
 export type Resolution = { settings: Resolved; from: Record<SettingKey, string>; collection: Collection | null; published: boolean };
@@ -33,7 +35,7 @@ export type Resolution = { settings: Resolved; from: Record<SettingKey, string>;
 export const systemDefaults = (): Resolved => ({
   model: DEFAULT_FAL_MODEL, language: DEFAULT_LANGUAGE, autoSync: false, postprocess: "none",
   openaiModel: process.env.POLISH_MODEL || "gpt-5.2", openaiEffort: process.env.POLISH_EFFORT || "medium",
-  namingMode: "keep", template: "{n}. {temas}", obra: "",
+  namingMode: "keep", template: "{n}. {temas}", obra: "", allowHebrew: false,
 });
 export const EFFORTS = ["minimal", "low", "medium", "high"] as const;
 const POSTS: Postprocess[] = ["none", "openai", "ai_package"];
@@ -94,6 +96,7 @@ export function sanitizeSettings(x: unknown): Settings {
     if ((EFFORTS as readonly string[]).includes(o.openai.effort)) a.effort = o.openai.effort;
     if (Object.keys(a).length) s.openai = a;
   }
+  if (typeof o.allowHebrew === "boolean") s.allowHebrew = o.allowHebrew;
   if (o.naming && typeof o.naming === "object") {
     const n: NonNullable<Settings["naming"]> = {};
     if (o.naming.mode === "keep" || o.naming.mode === "template") n.mode = o.naming.mode;
@@ -121,6 +124,7 @@ const flat = (s: Settings): Partial<Resolved> => {
   if (s.naming?.mode) r.namingMode = s.naming.mode;
   if (s.naming?.template) r.template = s.naming.template;
   if (s.naming?.obra !== undefined) r.obra = s.naming.obra;
+  if (s.allowHebrew !== undefined) r.allowHebrew = s.allowHebrew;
   return r;
 };
 

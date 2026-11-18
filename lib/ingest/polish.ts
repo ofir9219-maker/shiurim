@@ -12,7 +12,7 @@ export type PolishDeps = {
   llm: JsonCall; sefaria: (ref: string) => Promise<string>; onUsage?: (u: Usage) => void; log?: (m: string) => void;
   cache?: Cache; batchSize?: number; batchChars?: number;
   /** Series type (Talmud / Likutey Moharán / Tanaj / general) and name: select the prompt variant; Sefaria is only consulted for the first three. */
-  kind?: Kind; series?: string;
+  kind?: Kind; series?: string; allowHebrew?: boolean;
 };
 type Ctx = { refs: { sefaria: string; work_he: string; daf_he: string; amud_he: string }[]; topics: string[]; names: string[]; citations: string[]; notes: string };
 
@@ -21,7 +21,7 @@ const mmss = (ms: number) => `${String(Math.floor(ms / 60000)).padStart(2, "0")}
 export const compact = (segs: Seg[], max = 260) => segs.map((s, i) => `${i} | ${mmss(s.startMs)} | ${s.text.slice(0, max)}`).join("\n");
 
 /** Same validation as merge-polished.py for a set of polished texts (count, indexes, non-empty, no Hebrew script). */
-export function validateTexts(expected: number[], got: { i: number; text: string }[]): string[] {
+export function validateTexts(expected: number[], got: { i: number; text: string }[], allowHebrew = false): string[] {
   const errs: string[] = [];
   const seen = new Map<number, string>();
   for (const g of got) { if (seen.has(g.i)) errs.push(`índice duplicado ${g.i}`); seen.set(g.i, (g.text ?? "").trim()); }
@@ -31,7 +31,7 @@ export function validateTexts(expected: number[], got: { i: number; text: string
   if (extra.length) errs.push(`índices fuera del lote: ${extra.slice(0, 20).join(",")}`);
   const empty = [...seen].filter(([, t]) => !t).map(([i]) => i);
   if (empty.length) errs.push(`textos vacíos: ${empty.slice(0, 20).join(",")}`);
-  const heb = [...seen].filter(([, t]) => HEB.test(t)).map(([i]) => i);
+  const heb = allowHebrew ? [] : [...seen].filter(([, t]) => HEB.test(t)).map(([i]) => i);
   if (heb.length) errs.push(`letras hebreas en los segmentos ${heb.slice(0, 20).join(",")} (debe ser transliteración latina)`);
   return errs;
 }
@@ -68,7 +68,7 @@ async function polishTexts(label: string, src: Seg[], ctxText: string, sefaria: 
       const r = await d.llm<{ items: { i: number; text: string }[] }>({ system, user: u, schema: POLISH_SCHEMA, name: "polished_batch" });
       d.onUsage?.(r.usage);
       items = r.data.items; prevJson = JSON.stringify(items);
-      errs = validateTexts(idx, items);
+      errs = validateTexts(idx, items, d.allowHebrew);
       if (!errs.length) break;
       d.log?.(`${label} lote ${b + 1}/${batches.length}: ${errs.join("; ")}${attempt === 0 ? " — reintento de reparación" : ""}`);
     }

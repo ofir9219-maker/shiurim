@@ -192,3 +192,87 @@ test("prompts generalized by series; Berajot prompt unchanged; no Sefaria hints 
   assert.match(P.contextSystem("lm", "X"), /Likutei_Moharan\.19/);
   assert.match(P.polishSystem("ctx", "", "general", "Charlas"), /Charlas/);
 });
+
+// ---- Phase 3: AI packages ----
+const K = await import("../lib/center/packages");
+const R = await import("../lib/center/refs");
+const mkSegs = (n: number) => Array.from({ length: n }, (_, i) => ({ startMs: i * 5000, endMs: i * 5000 + 4000, text: `segmento ${i} crudo` }));
+const pcfg = (o: object = {}) => ({ ...C.systemDefaults(), published: false, collectionName: "Serie IA", slug: "ia", postprocess: "ai_package" as const, namingMode: "template" as const, template: C.BERAJOT_TEMPLATE, ...o });
+const pit = { id: "AUDX", name: "27. clase.m4a", ext: ".m4a", order: "27", fileDate: "2025-03-01T10:00:00Z", collectionId: "SER", parentId: "PAR" };
+const goodResult = (pk: { json: any; meta: any }, over: (r: any) => void = () => {}) => {
+  const r: any = { format: K.RESULT_FORMAT, package_id: pk.meta.id, segments: pk.json.segments.map((s: any) => ({ ...s, text: s.text.replace("crudo", "corregido") })) };
+  if (pk.meta.expect.needsMeta) r.meta = { summary: "Resumen en español.", tags: ["a", "b", "c"], note: "", obra: "ברכות", daf: [{ daf: "ג", amud: "א" }], temas: "בלעם, תשובה" };
+  over(r); return r;
+};
+
+test("package build: self-contained JSON, upload block, prompt, schema, parts of <=250 segments", async () => {
+  const [one] = await K.buildPackages(pit, pcfg(), mkSegs(5), { origin: "https://ofirsegal.app", sefaria: async () => "" });
+  const j = one.json as any;
+  assert.equal(j.format, "shiurim-ai-package/v1"); assert.match(j.package_id, /^pkg_[0-9a-f]{16}$/);
+  assert.equal(j.upload.method, "POST"); assert.equal(j.upload.content_type, "application/json");
+  assert.ok(j.upload.url.startsWith("https://ofirsegal.app/api/paquete/") && j.upload.page.startsWith("https://ofirsegal.app/subir/"));
+  assert.equal(j.upload.url.split("/").pop(), one.token); assert.ok(one.token.length >= 43); // 32 random bytes, base64url
+  assert.match(j.upload.drive_fallback, /27\. clase\.ai\.corregido\.json/);
+  assert.equal(one.meta.fileName, "27. clase.ai.json"); assert.equal(one.meta.tokenHash, K.hashToken(one.token)); assert.ok(!JSON.stringify(one.meta).includes(one.token));
+  assert.ok(j.prompt.includes("CONSERVADORA") && j.prompt.includes("shiurim-ai-result/v1") && j.prompt.includes("NUNCA uses letras hebreas"));
+  assert.match(j.prompt, /obra, daf, temas|daf.*temas/s);
+  assert.equal(j.segments.length, 5); assert.deepEqual(Object.keys(j.segments[0]), ["i", "startMs", "endMs", "text"]);
+  assert.deepEqual(j.output_schema.required, ["format", "package_id", "segments", "meta"]); assert.equal(j.output_schema.properties.package_id.const, j.package_id); assert.equal(j.output_schema.properties.segments.minItems, 5);
+  assert.deepEqual(j.output_schema.properties.meta.required.sort(), ["daf", "note", "obra", "summary", "tags", "temas"]);
+  assert.ok(j.instructions_for_ai.es.length >= 5 && j.instructions_for_ai.en.length >= 5);
+  assert.match(j.instructions_for_ai.es.at(-1), /POST a upload\.url \(Content-Type: application\/json\).*upload\.page.*27\. clase\.ai\.corregido\.json/);
+  assert.match(j.instructions_for_ai.en.at(-1), /POST to upload\.url/);
+  assert.ok(Date.parse(one.meta.expiresAt) - Date.now() > 29.9 * 86400_000);
+  // parts
+  const parts = await K.buildPackages(pit, pcfg(), mkSegs(23), { maxPerPart: 10, sefaria: async () => "" });
+  assert.equal(parts.length, 3); assert.deepEqual(parts.map((x) => x.meta.fileName), ["27. clase.ai.parte1de3.json", "27. clase.ai.parte2de3.json", "27. clase.ai.parte3de3.json"]);
+  assert.deepEqual(parts.map((x) => (x.json as any).segments.length), [10, 10, 3]); assert.equal((parts[1].json as any).segments[0].i, 10);
+  assert.equal(new Set(parts.map((x) => x.token)).size, 3); assert.equal(new Set(parts.map((x) => x.meta.id)).size, 3);
+  assert.equal(parts[0].meta.expect.needsMeta, true); assert.equal(parts[1].meta.expect.needsMeta, false); assert.ok(!("meta" in (parts[1].json as any).output_schema.properties));
+  assert.deepEqual((parts[1].json as any).context.neighbors.before.map((s: any) => s.i), [7, 8, 9]); assert.deepEqual((parts[1].json as any).context.neighbors.after.map((s: any) => s.i), [20, 21, 22]);
+  assert.match((parts[1].json as any).upload.drive_fallback, /parte2de3\.corregido\.json/);
+  // keep-name series: no variables, Hebrew allowed flag reaches the prompt
+  const [k] = await K.buildPackages(pit, pcfg({ namingMode: "keep", allowHebrew: true }), mkSegs(2), { sefaria: async () => "" });
+  assert.deepEqual((k.json as any).output_schema.properties.meta.required.sort(), ["note", "summary", "tags"]); assert.match((k.json as any).prompt, /se permiten letras hebreas/);
+});
+
+test("sefaria ref guessed from the file name only for Talmud series", async () => {
+  assert.equal(R.guessSefariaRef("27. ברכות ז ע׳׳א - בלעם.m4a"), "Berakhot.7a"); assert.equal(R.guessSefariaRef("Berajot 12b clase"), "Berakhot.12b");
+  assert.equal(R.guessSefariaRef("נדרים לא ע׳׳ב"), "Nedarim.31b"); assert.equal(R.guessSefariaRef("charla.m4a"), null); assert.equal(R.hebNum("יא"), 11);
+  let asked = ""; const [p] = await K.buildPackages({ ...pit, name: "ברכות ג ע׳׳ב.m4a" }, pcfg(), mkSegs(1), { sefaria: async (r) => { asked = r; return "## texto"; } });
+  assert.equal(asked, "Berakhot.3b"); assert.equal((p.json as any).context.sefaria_text, "## texto");
+  asked = ""; await K.buildPackages(pit, pcfg({ template: "{n}. {temas}" }), mkSegs(1), { sefaria: async (r) => { asked = r; return ""; } }); assert.equal(asked, "");
+});
+
+test("validation = merge-polished.py rules: package_id, count/order/timestamps, empty text, Hebrew, meta + template variables", async () => {
+  const [pk] = await K.buildPackages(pit, pcfg(), mkSegs(6), { sefaria: async () => "" });
+  const v = (mut: (r: any) => void) => K.validateResult(pk.meta, goodResult(pk, mut));
+  const ok = v(() => {}); assert.equal(ok.ok, true, JSON.stringify(ok.errors));
+  assert.equal(ok.segments![2].text, "segmento 2 corregido"); assert.equal(ok.meta!.title, `27. ברכות ג ע${geresh}א - בלעם, תשובה`); assert.equal(ok.meta!.newName, ok.meta!.title + ".m4a");
+  const has = (r: ReturnType<typeof K.validateResult>, re: RegExp) => assert.ok(r.errors.some((e) => re.test(e.where + " " + e.message)), JSON.stringify(r.errors));
+  has(v((r) => { r.package_id = "pkg_otro"; }), /package_id/);
+  has(v((r) => { r.segments.pop(); }), /Cantidad incorrecta/); has(v((r) => { r.segments.pop(); }), /Faltan los segmentos i = 5/);
+  has(v((r) => { r.segments.push({ ...r.segments[0], i: 99 }); }), /fuera de este paquete/);
+  has(v((r) => { r.segments[1].i = 0; }), /duplicados/);
+  has(v((r) => { r.segments.reverse(); }), /no están en orden/);
+  has(v((r) => { r.segments[3].startMs += 1; }), /segmento 3.*startMs/); has(v((r) => { delete r.segments[4].endMs; }), /segmento 4.*endMs/);
+  has(v((r) => { r.segments[2].text = "   "; }), /segmento 2.*vacío/);
+  has(v((r) => { r.segments[5].text = "hola שלום"; }), /segmento 5.*hebreas/);
+  has(v((r) => { delete r.meta; }), /Falta `meta`/); has(v((r) => { r.meta.tags = ["a"]; }), /meta\.tags.*3 tags/); has(v((r) => { r.meta.summary = ""; }), /meta\.summary/);
+  has(v((r) => { r.meta.tags = ["a", "b", "ברכות"]; }), /meta\.tags.*hebreas/);
+  has(v((r) => { r.meta.daf = [{ daf: "3", amud: "א" }]; }), /meta\.daf/); has(v((r) => { r.meta.daf = [{ daf: "ג", amud: "ג" }]; }), /meta\.daf.*amud/);
+  has(v((r) => { r.meta.temas = "x".repeat(80); }), /meta\.temas/); has(v((r) => { r.meta.temas = "english"; }), /hebreo/);
+  assert.equal(K.validateResult(pk.meta, "no es objeto").ok, false); assert.equal(v((r) => { r.segments[0].text = "ok"; r.format = "otro"; }).ok, false);
+  assert.equal(K.validateResult({ ...pk.meta, expect: { ...pk.meta.expect, allowHebrew: true } }, goodResult(pk, (r) => { r.segments[0].text = "cita שלום"; })).ok, true);
+  assert.deepEqual(K.parseLoose("```json\n{\"a\":1}\n```"), { a: 1 });
+});
+
+test("tokens: only the hash is stored, scoped to the package, expiry, superseded", async () => {
+  const [a, b] = await K.buildPackages(pit, pcfg(), mkSegs(4), { maxPerPart: 2, sefaria: async () => "" });
+  fs.mkdirSync(path.join(process.env.STORAGE_DIR!, "packages"), { recursive: true });
+  fs.writeFileSync(path.join(process.env.STORAGE_DIR!, "packages", "packages.json"), JSON.stringify([a.meta, b.meta]));
+  assert.equal(K.findByToken(a.token)?.id, a.meta.id); assert.equal(K.findByToken(b.token)?.id, b.meta.id); assert.equal(K.findByToken(a.token + "x"), null); assert.equal(K.findByToken("nada"), null);
+  assert.ok(!fs.readFileSync(path.join(process.env.STORAGE_DIR!, "packages", "packages.json"), "utf8").includes(a.token));
+  assert.equal(K.isExpired(a.meta), false); assert.equal(K.isExpired({ ...a.meta, expiresAt: new Date(Date.now() - 1000).toISOString() }), true);
+  K.supersede("AUDX"); assert.equal(K.activePackages("AUDX").length, 0);
+});

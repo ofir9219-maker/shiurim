@@ -3,6 +3,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import AdminGate from "@/components/admin/AdminGate";
 import SettingsPanel from "@/components/admin/SettingsPanel";
+import PackagesPanel from "@/components/admin/PackagesPanel";
 import { api, fmtDur, fmtSize, type CenterState, type Crumb, type Row } from "@/components/admin/dc-common";
 
 type Sel = Record<string, { id: string; kind: string; name: string }>;
@@ -173,6 +174,8 @@ function Center() {
             {found && <div className="card" style={{ marginTop: 12, padding: 0 }}><h2 style={{ padding: "12px 16px 0" }}>Resultados en toda la carpeta General</h2><ul className="dc-list">{found.length ? found.map((r) => row(r as Row, `${(r as { where?: string }).where} · `)) : <li className="state"><p>Sin resultados</p></li>}</ul></div>}
           </section>
         </div>)}
+
+      <PackagesPanel />
 
       {nsel > 0 && (
         <div className="dc-sel" role="region" aria-label="Selección">

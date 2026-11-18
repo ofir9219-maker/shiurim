@@ -7,6 +7,7 @@ import { berajotCollection, listCollections, resolveSettings } from "../center/c
 import { NO_COLLECTION, ancestorPath, jobCfg, walkAudio, type Candidate } from "../center/jobs";
 import { parseOrder, nextOrder, splitExt } from "./naming";
 import { clearArtifacts } from "./artifacts";
+import * as packages from "../center/packages";
 import { makeSteps } from "./pipeline";
 import { runItem } from "./runner";
 import { isRunnable, loadState, newItem, observeFile, retryItem, saveState, addLog, type Item, type State } from "./state";
@@ -21,6 +22,7 @@ class Scheduler {
   running: string | null = null;
   checking = false;
   nextPollAt = 0;
+  nextPkgScanAt = 0;
   timer: NodeJS.Timeout | null = null;
   started = false;
   retryTimer: NodeJS.Timeout | null = null;
@@ -57,6 +59,10 @@ class Scheduler {
   private async tick() {
     try { fs.writeFileSync(LOCK(), JSON.stringify({ pid: process.pid, at: Date.now() })); } catch { /* ignore */ }
     if (Date.now() >= this.nextPollAt && !this.checking) await this.poll().catch(() => {});
+    await packages.applyPending().catch(() => {});
+    if (Date.now() >= this.nextPkgScanAt && packages.listPackages().some((p) => p.status !== "superseded" && p.status !== "received")) {
+      this.nextPkgScanAt = Date.now() + 2 * 60_000; await packages.scanDrive().catch((e) => log(`scan de paquetes falló: ${(e as Error).message}`));
+    }
     await this.work();
   }
 
@@ -121,7 +127,7 @@ class Scheduler {
       const it = this.makeItem(cand);
       if (ex) { // keep history and cumulative costs
         it.log = ex.log; it.cost = ex.cost; it.createdAt = ex.createdAt; it.mdId = ex.mdId; it.jsonId = ex.jsonId;
-        clearArtifacts(ex.id);
+        clearArtifacts(ex.id); packages.supersede(ex.id);
         addLog(it, "reencolado manualmente");
       } else addLog(it, `en cola desde el explorador: ${cand.file.name}`);
       it.manual = true;

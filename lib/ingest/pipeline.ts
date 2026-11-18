@@ -21,7 +21,8 @@ import { sefariaText } from "./sefaria";
 import { polishClass, type Cache, type Meta } from "./polish";
 import { polishedToMd } from "./md";
 import { findGaps, findHollow, gapClipToSegments, mergeFinal, rawToSegments, type Gap, type RawDoc, type Seg } from "./segments";
-import { addLog, type Item, type State } from "./state";
+import { addLog, WaitError, type Item, type State } from "./state";
+import * as packages from "../center/packages";
 import type { Steps } from "./runner";
 
 export type Ctx = { state: State; persist: () => void; log: (m: string) => void };
@@ -137,11 +138,22 @@ async function stepPolish(c: Ctx, it: Item) {
     addLog(it, "sin pulido (transcripción cruda)");
     return;
   }
-  if (cfg.postprocess === "ai_package") throw new Error("postprocess ai_package no disponible todavía");
+  if (cfg.postprocess === "ai_package") {
+    // Alternative to OpenAI: write packages next to the audio and wait until a validated result arrives (API, upload page or Drive).
+    const done = readJson<{ pkg?: boolean } | null>(dataPath("polished", `${it.id}.json`), null);
+    if (done?.pkg) return;
+    let pk = packages.activePackages(it.id);
+    if (!pk.length) {
+      const hollow = new Set(readJson<{ id: string; startMs: number }[]>(dataPath("gaps-hollow.json"), []).filter((h) => h.id === it.id).map((h) => h.startMs));
+      pk = await packages.createPackages(it, cfg, mergeFinal(segments, gapSegments, hollow));
+      addLog(it, `${pk.length} paquete(s) para IA creados en Drive: ${pk.map((x) => x.fileName).join(", ")}`);
+    }
+    throw new WaitError(`paquete pendiente: ${pk.map((x) => x.fileName).join(", ")} (esperando el resultado corregido)`);
+  }
   const kind = seriesKind(cfg.template);
   const naming = cfg.namingMode === "template" ? { template: cfg.template, fixedObra: cfg.obra || undefined, fecha: dateOf(it.fileDate), original: cleanOriginal(it.name) } : undefined;
   const r = await polishClass({ segments, gapSegments, inv: { name: it.name, order: it.order, ext: it.ext }, keepName: cfg.namingMode === "keep", naming }, {
-    kind, series: kind === "talmud" && cfg.slug === "berajot" ? undefined : cfg.collectionName,
+    kind, allowHebrew: !!cfg.allowHebrew, series: kind === "talmud" && cfg.slug === "berajot" ? undefined : cfg.collectionName,
     llm: openaiJsonWith({ model: cfg.openaiModel, effort: cfg.openaiEffort }), sefaria: sefariaText, cache: fileCache(path.join(workDir(it.id), "polish-cache.json")),
     onUsage: (u) => addUsage(c, it, u.promptTokens, u.completionTokens), log: (m) => { addLog(it, m); c.persist(); },
   });

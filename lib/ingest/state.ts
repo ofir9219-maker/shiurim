@@ -72,3 +72,6 @@ export function loadState(file = FILE()): State {
   return { ...emptyState(), ...s };
 }
 export function saveState(s: State, file = FILE()) { writeJson(file, s); }
+
+/** Thrown by a step that has to wait for something outside the queue (e.g. an AI package result): the item is parked as "waiting", not failed. */
+export class WaitError extends Error {}

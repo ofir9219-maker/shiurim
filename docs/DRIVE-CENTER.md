@@ -19,6 +19,16 @@ Al pulir, la IA recibe un JSON schema con *solo* las variables que la plantilla 
 
 El prompt de pulido (`prompts/polish.md` §7) se adapta a la serie; **Sefaria solo se consulta** en series de Guemará (`{daf}`), Likutey Moharán (`{torá}`) y Tanaj/Parashá (`{parashá}`).
 
+### Paquete para IA (Fase 3, alternativa a OpenAI)
+Con **Posproceso = Paquete para IA (ChatGPT/Claude)** el servidor no llama a OpenAI: tras transcribir crea en Drive, junto al audio, `<nombre>.ai.json` (si hay más de ~250 segmentos, partes `<nombre>.ai.parte1de4.json`…) y deja el archivo en estado **paquete pendiente**. Cada paquete es autosuficiente (`format: "shiurim-ai-package/v1"`): `package_id`, `upload` (`url` = `https://ofirsegal.app/api/paquete/<token>` con `POST` + `application/json`, `page` = `https://ofirsegal.app/subir/<token>`, `drive_fallback`), `prompt` completo (reglas de pulido de la serie + variables de la plantilla de nombres + reglas estrictas de salida), `output_schema` (JSON Schema del archivo corregido: mismo `package_id`, mismos `i/startMs/endMs`, `text` corregido, `meta` con resumen, tags y variables del nombre; solo en la parte 1), `context` (serie, daf adivinado del nombre, texto de Sefaria si aplica, segmentos vecinos), `segments` e `instructions_for_ai` (pasos en español e inglés).
+
+**Flujo**
+1. En `/admin/drive`, sección **Paquetes para IA** → **Copiar prompt** (copia el JSON completo del paquete) → pégalo en ChatGPT/Claude (o adjunta el archivo `.ai.json` de Drive).
+2. La IA responde SOLO con el JSON corregido. Entrégalo por cualquiera de estas vías: (a) la IA hace `POST` a `upload.url` si puede hacer peticiones HTTP; (b) arrastra o pega el JSON en `upload.page` (**Página de subida**); (c) guárdalo en la misma carpeta de Drive como `<nombre>.ai.corregido.json` (o `.parteNdeM.corregido.json`): el servidor revisa Drive cada ~2 min y también con **Buscar corregidos en Drive**.
+3. El servidor valida (igual que `merge-polished.py`: `package_id`, cantidad/orden/tiempos de segmentos, textos no vacíos, sin letras hebreas salvo que la serie lo permita, variables de la plantilla válidas, nombre sin `/ \ : "`). Si falla, **no aplica nada** y muestra exactamente qué segmentos/campos están mal (en la página de subida, en la respuesta del POST y en el panel). Si es válido y están todas las partes, se escriben `.md`/`.json`, se renombra por la plantilla y se publica si la serie es pública.
+
+**Tokens**: 32 bytes aleatorios, solo se guarda su hash (`$STORAGE_DIR/packages/packages.json`); válidos 30 días; cada token sirve para un único paquete; el último resultado válido reemplaza al anterior (volver a subir rehace `.md`/`.json`/nombre). **Nuevo enlace** invalida el anterior y actualiza el archivo de Drive. El endpoint acepta CORS desde cualquier origen, cuerpo ≤ 5 MB y limita intentos con token inválido.
+
 Modelos Fal: partes de 19 min para Scribe (palabras con tiempos), 25 min para Wizper/Whisper (segmentos ≤29 s); todos se normalizan al mismo formato `{startMs,endMs,text}` (`lib/center/fal-models.ts`). Precios por defecto: Scribe v2 US$0.008/min, Scribe v1 US$0.03/min, Wizper/Whisper ≈ US$0.0011 por segundo de cómputo (estimado ~4–8 s de cómputo por minuto de audio); ajustables con `FAL_USD_PER_MIN`, `FAL_USD_PER_MIN_SCRIBE_V1`, `FAL_USD_PER_COMPUTE_SEC_WIZPER`, `FAL_WIZPER_COMPUTE_SEC_PER_MIN`, etc.
 
 ---
