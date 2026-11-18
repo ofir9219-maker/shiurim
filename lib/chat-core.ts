@@ -6,6 +6,12 @@ export type ChatEvent =
   | { type: "delta"; text: string }
   | { type: "done"; refs: Ref[]; cited: number[]; mode: "ai" | "noai" | "error" };
 
+export const EFFORTS = ["minimal", "low", "medium", "high"] as const;
+export type Effort = (typeof EFFORTS)[number];
+export type ChatOpts = { model?: string; effort?: Effort };
+/** o-series (o1, o3...) and gpt-5 accept reasoning_effort and reject temperature. */
+export const isReasoningModel = (id: string) => /^o\d/.test(id) || id.startsWith("gpt-5");
+
 export type ClassInfo = { id: string; ord: number; ordLabel: string; title: string; dafLabel: string; tags: string[] };
 export type Hit = { classId: string; title: string; startMs: number; text: string; dafLabel?: string };
 

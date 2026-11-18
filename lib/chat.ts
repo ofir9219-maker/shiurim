@@ -3,7 +3,7 @@ import { hybridSearch, ftsCount, type ChunkHit } from "./search";
 import { completeLLM, llmConfig, streamLLM } from "./chat-llm";
 import {
   SYSTEM_PROMPT, NOT_FOUND, buildContext, citedMarkers, cleanText, detectIntent, evenIndexes, fmtTime, heuristicQuery,
-  hitsToRefs, keywords, noAiText, quoteOf, type ChatEvent, type ChatMsg, type ClassInfo, type Hit, type Ref,
+  hitsToRefs, keywords, noAiText, quoteOf, type ChatEvent, type ChatMsg, type ChatOpts, type ClassInfo, type Hit, type Ref,
 } from "./chat-core";
 
 const TOP_K = 8;
@@ -13,13 +13,13 @@ function classInfos(): ClassInfo[] {
   return listClasses().map((r) => ({ id: r.id, ord: r.ord, ordLabel: r.ord_label || String(r.ord), title: r.title || "", dafLabel: r.daf_label || "", tags: parseJson<string[]>(r.tags, []) }));
 }
 
-async function rewriteQuery(messages: ChatMsg[]): Promise<string> {
+async function rewriteQuery(messages: ChatMsg[], opts: ChatOpts = {}): Promise<string> {
   const heur = heuristicQuery(messages);
   if (!llmConfig() || messages.length < 2) return heur;
   const hist = messages.slice(-7).map((m) => `${m.role === "user" ? "Usuario" : "Asistente"}: ${m.content.slice(0, 400)}`).join("\n");
   const out = await completeLLM(
     "Reescribe la última pregunta del usuario como una consulta de búsqueda autónoma (5-10 palabras clave en español, sin pronombres, resolviendo referencias del historial). Devuelve SOLO la consulta.",
-    [{ role: "user", content: hist }], 50
+    [{ role: "user", content: hist }], 50, opts.effort ? { ...opts, effort: "minimal" } : opts
   );
   const kw = out ? keywords(out.replace(/["\n]/g, " "), 10).join(" ") : "";
   return kw || heur;
@@ -84,7 +84,7 @@ function summaryContext(classId: string): { header: string; hits: Hit[]; refs: R
   return { header, hits, refs };
 }
 
-export async function* chat(messages: ChatMsg[], classId?: string): AsyncGenerator<ChatEvent> {
+export async function* chat(messages: ChatMsg[], classId?: string, opts: ChatOpts = {}): AsyncGenerator<ChatEvent> {
   const question = [...messages].reverse().find((m) => m.role === "user")?.content || "";
   if (!getDb() || !question) {
     const text = !question ? "Escribe una pregunta sobre los shiurim." : `${NOT_FOUND}. La base de datos aún no está disponible.`;
@@ -102,7 +102,7 @@ export async function* chat(messages: ChatMsg[], classId?: string): AsyncGenerat
       refs = s.refs;
       context = `${s.header}\n\nEXTRACTOS (momentos clave, uniformemente espaciados):\n\n${buildContext(s.hits, refs, Math.floor(SUMMARY_BUDGET / TOP_K))}`;
     } else {
-      const q = await rewriteQuery(history);
+      const q = await rewriteQuery(history, opts);
       let hits = enrich(await retrieve(q, TOP_K, classId));
       if (classId && !hits.length) {
         const s = summaryContext(classId);
@@ -135,7 +135,7 @@ export async function* chat(messages: ChatMsg[], classId?: string): AsyncGenerat
 
   let full = "";
   try {
-    for await (const d of streamLLM(SYSTEM_PROMPT, convo)) { full += d; yield { type: "delta", text: d }; }
+    for await (const d of streamLLM(SYSTEM_PROMPT, convo, 600, opts)) { full += d; yield { type: "delta", text: d }; }
   } catch (e) {
     const note = `${full ? "\n\n" : ""}(Error al contactar la IA; muestro los pasajes encontrados.)\n${refs.map((r, i) => `[${i + 1}] ${r.title} · ${fmtTime(r.startMs)}`).join("\n")}`;
     yield { type: "delta", text: note };

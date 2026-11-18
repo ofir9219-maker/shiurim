@@ -1,5 +1,5 @@
 import { setupProxy } from "./proxy";
-import type { ChatMsg } from "./chat-core";
+import { isReasoningModel, type ChatMsg, type ChatOpts } from "./chat-core";
 
 export type Provider = "openai" | "anthropic";
 export function llmConfig(): { provider: Provider; key: string; model: string; base: string } | null {
@@ -34,7 +34,7 @@ async function* sseData(res: Response): AsyncGenerator<string> {
   if (tail) yield tail;
 }
 
-function request(cfg: NonNullable<ReturnType<typeof llmConfig>>, system: string, messages: ChatMsg[], stream: boolean, maxTokens: number) {
+function request(cfg: NonNullable<ReturnType<typeof llmConfig>>, system: string, messages: ChatMsg[], stream: boolean, maxTokens: number, opts: ChatOpts = {}): Promise<Response> {
   setupProxy();
   if (cfg.provider === "anthropic") {
     return fetch(`${cfg.base}/v1/messages`, {
@@ -43,18 +43,35 @@ function request(cfg: NonNullable<ReturnType<typeof llmConfig>>, system: string,
       body: JSON.stringify({ model: cfg.model, max_tokens: maxTokens, system, messages, stream, temperature: 0.2 }),
     });
   }
-  return fetch(`${cfg.base}/chat/completions`, {
-    method: "POST",
-    headers: { "content-type": "application/json", authorization: `Bearer ${cfg.key}` },
-    body: JSON.stringify({ model: cfg.model, messages: [{ role: "system", content: system }, ...messages], stream, temperature: 0.2, max_tokens: maxTokens }),
+  const model = opts.model || cfg.model;
+  const reasoning = isReasoningModel(model);
+  const post = (drop: { effort?: boolean; temp?: boolean }) => {
+    const body: Record<string, unknown> = { model, messages: [{ role: "system", content: system }, ...messages], stream };
+    if (reasoning) {
+      body.max_completion_tokens = maxTokens + 2000; // reasoning tokens count against the budget
+      if (opts.effort && !drop.effort) body.reasoning_effort = opts.effort;
+    } else {
+      body.max_tokens = maxTokens;
+      if (!drop.temp) body.temperature = 0.2;
+    }
+    return fetch(`${cfg.base}/chat/completions`, {
+      method: "POST", headers: { "content-type": "application/json", authorization: `Bearer ${cfg.key}` }, body: JSON.stringify(body),
+    });
+  };
+  return post({}).then(async (res) => {
+    if (res.status !== 400) return res;
+    const txt = await res.text().catch(() => "");
+    const effort = /reasoning_effort|effort/i.test(txt), temp = /temperature/i.test(txt);
+    if (!effort && !temp) return new Response(txt, { status: 400 });
+    return post({ effort, temp }); // retry once without the rejected param
   });
 }
 
 /** Stream text deltas. Throws on HTTP/network errors. */
-export async function* streamLLM(system: string, messages: ChatMsg[], maxTokens = 600): AsyncGenerator<string> {
+export async function* streamLLM(system: string, messages: ChatMsg[], maxTokens = 600, opts: ChatOpts = {}): AsyncGenerator<string> {
   const cfg = llmConfig();
   if (!cfg) throw new Error("no LLM key");
-  const res = await request(cfg, system, messages, true, maxTokens);
+  const res = await request(cfg, system, messages, true, maxTokens, opts);
   if (!res.ok || !res.body) throw new Error(`LLM HTTP ${res.status}: ${(await res.text().catch(() => "")).slice(0, 200)}`);
   for await (const data of sseData(res)) {
     if (data === "[DONE]") break;
@@ -71,11 +88,11 @@ export async function* streamLLM(system: string, messages: ChatMsg[], maxTokens 
 }
 
 /** One-shot completion (query rewrite). Returns null on any failure / no key. */
-export async function completeLLM(system: string, messages: ChatMsg[], maxTokens = 60): Promise<string | null> {
+export async function completeLLM(system: string, messages: ChatMsg[], maxTokens = 60, opts: ChatOpts = {}): Promise<string | null> {
   const cfg = llmConfig();
   if (!cfg) return null;
   try {
-    const res = await request(cfg, system, messages, false, maxTokens);
+    const res = await request(cfg, system, messages, false, maxTokens, opts);
     if (!res.ok) return null;
     const j: any = await res.json();
     const t = cfg.provider === "anthropic" ? j.content?.map((c: any) => c.text).join("") : j.choices?.[0]?.message?.content;

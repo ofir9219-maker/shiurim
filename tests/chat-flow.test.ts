@@ -54,3 +54,39 @@ test("anthropic streaming + LLM failure fallback", async () => {
     assert.equal(evs2.at(-1)!.mode, "error"); assert.ok(evs2.at(-1)!.refs!.length);
   } finally { globalThis.fetch = orig; delete process.env.LLM_PROVIDER; delete process.env.ANTHROPIC_API_KEY; }
 });
+
+test("model/effort validation and retry without rejected param", async () => {
+  const { resolveChatOptions, getChatModels, resetModelsCache } = await import("../lib/chat-models");
+  process.env.OPENAI_API_KEY = "sk-test"; process.env.CHAT_MODELS = "gpt-4.1-mini,o4-mini"; delete process.env.CHAT_MODEL;
+  try {
+    assert.deepEqual((await getChatModels()).models.map((m) => [m.id, m.reasoning]), [["gpt-4.1-mini", false], ["o4-mini", true]]);
+    assert.deepEqual(await resolveChatOptions("evil-model", "high"), { model: "gpt-4.1-mini", effort: undefined });
+    assert.deepEqual(await resolveChatOptions("gpt-4.1-mini", "high"), { model: "gpt-4.1-mini", effort: undefined });
+    assert.deepEqual(await resolveChatOptions("o4-mini", "high"), { model: "o4-mini", effort: "high" });
+    assert.deepEqual(await resolveChatOptions("o4-mini", "bogus"), { model: "o4-mini", effort: "medium" });
+
+    delete process.env.CHAT_MODELS; resetModelsCache();
+    const orig = globalThis.fetch;
+    globalThis.fetch = (async () => new Response(JSON.stringify({ data: [
+      { id: "gpt-4o", created: 1 }, { id: "gpt-5-mini", created: 5 }, { id: "gpt-4o-audio-preview", created: 9 }, { id: "text-embedding-3-small", created: 9 }, { id: "o3", created: 3 }, { id: "gpt-4.1-mini-search", created: 9 }] }))) as any;
+    try { assert.deepEqual((await getChatModels()).models.map((m) => m.id), ["gpt-5-mini", "o3", "gpt-4o"]); } finally { globalThis.fetch = orig; }
+    resetModelsCache();
+
+    const calls: any[] = [];
+    globalThis.fetch = (async (_u: any, init: any) => {
+      const body = JSON.parse(init.body); calls.push(body);
+      if (body.reasoning_effort) return new Response('{"error":{"message":"Unsupported parameter: reasoning_effort"}}', { status: 400 });
+      const enc = new TextEncoder();
+      return new Response(new ReadableStream({ start(c) { c.enqueue(enc.encode('data: {"choices":[{"delta":{"content":"ok [1]"}}]}\n\ndata: [DONE]\n\n')); c.close(); } }));
+    }) as any;
+    try {
+      const evs: Ev[] = []; for await (const e of chat([{ role: "user", content: "Meematai shemá" }], undefined, { model: "o4-mini", effort: "low" })) evs.push(e as Ev);
+      assert.equal(evs.at(-1)!.mode, "ai");
+      assert.equal(calls[0].reasoning_effort, "low"); assert.equal(calls[0].temperature, undefined); assert.equal(calls[0].model, "o4-mini");
+      assert.equal(calls[1].reasoning_effort, undefined); assert.equal(calls.length, 2);
+      calls.length = 0;
+      for await (const _ of chat([{ role: "user", content: "Meematai shemá" }], undefined, { model: "gpt-4.1-mini", effort: "high" })) { /* drain */ }
+      assert.equal(calls[0].reasoning_effort, undefined); assert.equal(calls[0].temperature, 0.2);
+    } finally { globalThis.fetch = orig; }
+  } finally { delete process.env.OPENAI_API_KEY; delete process.env.CHAT_MODELS; resetModelsCache(); }
+});
