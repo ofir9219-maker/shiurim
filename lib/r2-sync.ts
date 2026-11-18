@@ -9,23 +9,31 @@ import { Readable } from "node:stream";
 import { ListObjectsV2Command } from "@aws-sdk/client-s3";
 import { Upload } from "@aws-sdk/lib-storage";
 import { getR2Client, r2Bucket, driveDownloadUrl } from "./audio";
+import { storageInventory } from "./storage";
 
 type Inv = { id: string; name: string; ext: string; mimeType: string; sizeBytes: number };
 const PREFIX = "shiurim/";
 const EXT_BY_MIME: Record<string, string> = {
   "audio/mpeg": ".mp3", "audio/mp4": ".m4a", "audio/x-m4a": ".m4a", "audio/wav": ".wav", "audio/x-wav": ".wav",
+  "audio/ogg": ".ogg", "audio/aac": ".aac", "audio/flac": ".flac",
 };
-const CT_BY_EXT: Record<string, string> = { ".mp3": "audio/mpeg", ".m4a": "audio/mp4", ".wav": "audio/wav" };
+export const CT_BY_EXT: Record<string, string> = {
+  ".mp3": "audio/mpeg", ".m4a": "audio/mp4", ".wav": "audio/wav", ".ogg": "audio/ogg", ".aac": "audio/aac", ".flac": "audio/flac",
+};
 
+// Repo inventory only: the background uploader mirrors the original 82 from Drive. Classes added by the
+// ingest pipeline are uploaded by the pipeline itself (storage inventory), so they are only used for key lookup.
 function inventory(): Inv[] {
   try { return JSON.parse(fs.readFileSync(path.join(process.cwd(), "data", "inventory.json"), "utf8")); } catch { return []; }
 }
-function extOf(c: Inv): string {
+export function extOf(c: Pick<Inv, "ext" | "mimeType">): string {
   const e = (c.ext || "").toLowerCase();
-  return /^\.(mp3|m4a|wav)$/.test(e) ? e : EXT_BY_MIME[c.mimeType] ?? ".m4a";
+  return /^\.(mp3|m4a|wav|ogg|aac|flac)$/.test(e) ? e : EXT_BY_MIME[c.mimeType] ?? ".m4a";
 }
+/** Canonical R2 key for an audio (same rule for repo and ingested classes). */
+export const r2ObjectKey = (c: Pick<Inv, "id" | "ext" | "mimeType">) => `${PREFIX}${c.id}${extOf(c)}`;
 export function r2KeyFor(id: string): string | null {
-  const c = inventory().find((x) => x.id === id);
+  const c = inventory().find((x) => x.id === id) ?? (storageInventory().find((x) => x.id === id) as Inv | undefined);
   return c ? `${PREFIX}${c.id}${extOf(c)}` : null;
 }
 

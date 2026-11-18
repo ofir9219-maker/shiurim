@@ -4,5 +4,7 @@ export async function register() {
     setupProxy();
     const { startBackgroundUpload } = await import("./lib/r2-sync");
     startBackgroundUpload();
+    const { startIngest } = await import("./lib/ingest/scheduler");
+    startIngest();
   }
 }

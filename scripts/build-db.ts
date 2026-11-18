@@ -6,6 +6,7 @@ import crypto from "node:crypto";
 import { openDb } from "../lib/db";
 import { embedTexts, hasEmbeddingKey, vecToBlob, EMBEDDING_MODEL, EMBEDDING_DIMS } from "../lib/embeddings";
 import { setupProxy } from "../lib/proxy";
+import { STORAGE_DATA } from "../lib/storage";
 import { normText } from "../lib/translit";
 
 const root = process.cwd();
@@ -20,7 +21,10 @@ type Pol = { id: string; segments: Seg[]; summary?: string; tags?: string[]; daf
 
 const polDir = path.join(root, "data", "polished");
 const hollowFile = path.join(root, "data", "gaps-hollow.json");
-const hollow: { id: string; startMs: number }[] = fs.existsSync(hollowFile) ? JSON.parse(fs.readFileSync(hollowFile, "utf8")) : [];
+const readArr = <T,>(f: string): T[] => { try { return JSON.parse(fs.readFileSync(f, "utf8")) as T[]; } catch { return []; } };
+// Classes added at runtime by the ingest pipeline live in $STORAGE_DIR/data (same layout as data/); ignored in --fixtures mode.
+const sd = (...p: string[]) => path.join(STORAGE_DATA, ...p);
+const hollow: { id: string; startMs: number }[] = [...(fs.existsSync(hollowFile) ? JSON.parse(fs.readFileSync(hollowFile, "utf8")) : []), ...(useFixtures ? [] : readArr<{ id: string; startMs: number }>(sd("gaps-hollow.json")))];
 const polFiles = fs.existsSync(polDir) ? fs.readdirSync(polDir).filter((f) => f.endsWith(".json")) : [];
 const fixtureMode = useFixtures || polFiles.length === 0;
 const invPath = fixtureMode && (useFixtures || !fs.existsSync(path.join(root, "data", "inventory.json")))
@@ -29,6 +33,7 @@ const pDir = fixtureMode && useFixtures ? path.join(root, "data", "fixtures", "p
 if (fixtureMode && !useFixtures) console.log("No polished files; classes listed without transcripts.");
 
 const inventory: Inv[] = JSON.parse(fs.readFileSync(invPath, "utf8"));
+if (!useFixtures) { const have = new Set(inventory.map((i) => i.id)); for (const i of readArr<Inv>(sd("inventory.json"))) if (!have.has(i.id)) inventory.push(i); }
 const amud = (a: string) => (a === "ב" ? "ע״ב" : "ע״א");
 const dafLabel = (d: { daf: string; amud: string }[]) => d.map((x) => `${x.daf} ${amud(x.amud)}`).join(", ");
 const stripExt = (n: string) => n.replace(/\.[a-z0-9]{2,4}$/i, "").replace(/^\s*[\d.]+\s*[.\-–]\s*/, "").trim();
@@ -56,13 +61,14 @@ const tx = db.transaction(() => {
   db.exec("DELETE FROM segments");
   const insS = db.prepare("INSERT INTO segments(class_id,idx,start_ms,end_ms,text) VALUES(?,?,?,?,?)");
   for (const inv of inventory) {
-    const pf = path.join(pDir, `${inv.id}.json`);
+    let pf = path.join(pDir, `${inv.id}.json`);
+    if (!useFixtures && !fs.existsSync(pf) && fs.existsSync(sd("polished", `${inv.id}.json`))) pf = sd("polished", `${inv.id}.json`);
     const pol: Pol | null = fs.existsSync(pf) ? JSON.parse(fs.readFileSync(pf, "utf8")) : null;
     // Merge gap-fill segments (re-transcribed stretches Scribe had dropped) by time.
     const gf = path.join(root, "data", "gapfill", `${inv.id}.json`);
     const gf2 = path.join(root, "data", "gapfill2", `${inv.id}.json`);
     const extra: Seg[] = pol
-      ? [gf, gf2].flatMap((f) => (fs.existsSync(f) ? (JSON.parse(fs.readFileSync(f, "utf8")) as Seg[]) : []))
+      ? [gf, gf2, ...(useFixtures ? [] : [sd("gapfill", `${inv.id}.json`)])].flatMap((f) => (fs.existsSync(f) ? (JSON.parse(fs.readFileSync(f, "utf8")) as Seg[]) : []))
       : [];
     // Drop a "hollow" polished segment (long, almost no text) when recovered segments cover its time range.
     const hollowStarts = new Set(hollow.filter((h) => h.id === inv.id).map((h) => h.startMs));

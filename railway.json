@@ -1,12 +1,12 @@
 {
   "$schema": "https://railway.com/railway.schema.json",
   "build": {
-    "buildCommand": "npm run r2:map; if [ -n \"$OPENAI_API_KEY\" ]; then npm run embed 2>&1 || { echo \"BUILD-DB EXIT $?\"; exit 1; }; else npm run build:db; fi && npm run build"
+    "buildCommand": "npm run r2:map; npm run build"
   },
   "deploy": {
-    "startCommand": "npm start",
+    "startCommand": "npm run start:prod",
     "healthcheckPath": "/",
-    "healthcheckTimeout": 120,
+    "healthcheckTimeout": 900,
     "restartPolicyType": "ON_FAILURE"
   }
 }
