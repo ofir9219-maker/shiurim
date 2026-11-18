@@ -107,7 +107,7 @@ class Scheduler {
     const mine = Object.values(s.items).filter((i) => (i.collectionId ?? berajotCollection().folderId) === collectionId).map((i) => i.order);
     const order = parseOrder(f.name) ?? nextOrder([...inv, ...mine]);
     const it = newItem({ id: f.id, name: f.name, ext: splitExt(f.name).ext, mimeType: f.mimeType, sizeBytes: Number(f.size || 0), order, collectionId, parentId: cand.parentId, cfg: jobCfg(res),
-      durationMs: f.videoMediaMetadata?.durationMillis ? Number(f.videoMediaMetadata.durationMillis) : undefined });
+      fileDate: f.modifiedTime, durationMs: f.videoMediaMetadata?.durationMillis ? Number(f.videoMediaMetadata.durationMillis) : undefined });
     return it;
   }
 

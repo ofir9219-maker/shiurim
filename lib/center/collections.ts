@@ -49,7 +49,7 @@ export const berajotCollection = (): Collection => ({
   folderId: process.env.DRIVE_FOLDER_ID || BERAJOT_FOLDER_ID, name: "ברכות שר לשמחה", slug: "berajot", published: true, createdAt: "2025-01-01T00:00:00.000Z",
   settings: {
     transcription: { model: DEFAULT_FAL_MODEL, language: "spa" }, autoSync: true, postprocess: "openai",
-    naming: { mode: "template", template: BERAJOT_TEMPLATE, obra: "ברכות" },
+    naming: { mode: "template", template: BERAJOT_TEMPLATE },
     publish: { title: "ברכות שר לשמחה", description: "Un recorrido por el tratado de Berajot, daf por daf." },
   },
 });

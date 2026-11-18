@@ -12,6 +12,7 @@ import { statusOf, STATUS_LABEL } from "@/lib/center/status";
 import { cachedDurations, probeDuration } from "@/lib/center/duration";
 import { estimateRow, minutesFromSize, summarize } from "@/lib/center/estimate";
 import { getChatModels } from "@/lib/chat-models";
+import { readRenameLog, undoableSet } from "@/lib/center/rename-log";
 import { templateApi } from "@/lib/center/template-api";
 
 export const dynamic = "force-dynamic";
@@ -45,7 +46,7 @@ async function listOp(url: URL) {
   const colls = new Map(listCollections().map((x) => [x.folderId, x]));
   const sched = scheduler();
   const inv = new Set(allInventory().map((i) => i.id));
-  const dur = cachedDurations();
+  const dur = cachedDurations(); const undoable = undoableSet();
   const key = (n: string) => n.replace(/\.[A-Za-z0-9]{2,5}$/, "").normalize("NFC").toLowerCase();
   const jsons = new Set(kids.filter((k) => /\.json$/i.test(k.name) && !/\.ai(\.|$)/i.test(k.name)).map((k) => key(k.name)));
   const mds = new Set(kids.filter((k) => /\.md$/i.test(k.name)).map((k) => key(k.name)));
@@ -60,7 +61,7 @@ async function listOp(url: URL) {
     const st = statusOf({ item, inInventory: inv.has(k.id), hasJson: jsons.has(key(k.name)), hasMd: mds.has(key(k.name)) });
     const durationMs = k.videoMediaMetadata?.durationMillis ? Number(k.videoMediaMetadata.durationMillis) : item?.durationMs ?? dur[k.id] ?? null;
     return { kind: "audio" as const, id: k.id, name: k.name, size: Number(k.size || 0), durationMs, status: st, label: STATUS_LABEL[st],
-      error: item?.error, published: item ? cfgOf(item).published : undefined, inWeb: inv.has(k.id) || item?.state === "indexed", attempts: item?.attempts ?? 0, hasMd: mds.has(key(k.name)), hasJson: jsons.has(key(k.name)) };
+      error: item?.error, published: item ? cfgOf(item).published : undefined, inWeb: inv.has(k.id) || item?.state === "indexed", attempts: item?.attempts ?? 0, hasMd: mds.has(key(k.name)), hasJson: jsons.has(key(k.name)), undoable: undoable.has(k.id) };
   });
   const page = rows.slice(offset, offset + limit);
   const res = resolveSettings(fullPath);
@@ -141,7 +142,7 @@ export async function GET(req: Request, ctx: Ctx) {
         for (const v of Object.values(parent.from)) if (v !== "default") names[v] = listCollections().find((c) => c.folderId === v)?.name ?? v;
         return NextResponse.json({ path, own, resolved: res.settings, from: res.from, names, parentResolved: parent.settings, parentFrom: parent.from, name: (await folderInfo(id)).name });
       }
-      case "job": { const it = scheduler().state.items[url.searchParams.get("id") || ""]; return it ? NextResponse.json(it) : bad("sin trabajo para ese archivo", 404); }
+      case "job": { const id = url.searchParams.get("id") || ""; const it = scheduler().state.items[id]; return it ? NextResponse.json({ ...it, renames: readRenameLog().filter((e) => e.audioId === id).slice(-12) }) : bad("sin trabajo para ese archivo", 404); }
       case "duration": { try { return NextResponse.json({ durationMs: await probeDuration(url.searchParams.get("id") || "") }); } catch (e) { return bad((e as Error).message, 502); } }
       case "openai-models": { const m = await getChatModels(); return NextResponse.json({ models: m.models.map((x) => x.id), enabled: m.enabled, efforts: m.efforts }); }
       default: {

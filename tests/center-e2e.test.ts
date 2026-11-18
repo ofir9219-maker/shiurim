@@ -55,17 +55,27 @@ test("raw transcript with Wizper: .md and .json next to the audio, same base nam
   assert.ok(![...W.world.r2.keys()].some((k) => k.startsWith("tmp/AUD1/")), "tmp parts cleaned");
 });
 
-test("OpenAI polish + rename-by-legacy-template on a Scribe v2 transcript (real OpenAI)", { skip: !HAS_OPENAI }, async () => {
+test("OpenAI polish + rename by template (audio, .md, .json together) + undo (real OpenAI)", { skip: !HAS_OPENAI }, async () => {
   W.addAudio("AUD2", "5. clase.mp3", "SER", mp3);
   W.world.falResults["fal-ai/elevenlabs/speech-to-text/scribe-v2"] = SCRIBE;
-  C.upsertCollection({ folderId: "SER", name: "Serie prueba", published: false, settings: { transcription: { model: "fal-ai/elevenlabs/speech-to-text/scribe-v2" }, postprocess: "openai", openai: { model: process.env.E2E_OPENAI_MODEL || "gpt-5-mini", effort: "low" }, naming: { mode: "keep" } } });
+  C.upsertCollection({ folderId: "SER", name: "Serie prueba", published: false, settings: { transcription: { model: "fal-ai/elevenlabs/speech-to-text/scribe-v2" }, postprocess: "openai", openai: { model: process.env.E2E_OPENAI_MODEL || "gpt-5-mini", effort: "low" }, naming: { mode: "template", template: C.BERAJOT_TEMPLATE } } });
   const cands = (await J.walkAudio("SER", ["ROOT", "SER"], { skipCollections: true })).filter((c) => c.file.id === "AUD2");
   scheduler().enqueue(cands);
   const it = await waitDone("AUD2", 280_000);
   assert.equal(it.status, "done", it.error + JSON.stringify(it.log.slice(-5)));
-  const js = JSON.parse(W.text(W.byName("SER", "5. clase.json"))!); assert.equal(js.meta.polished, true); assert.ok(js.summary && js.tags.length >= 3);
+  const audio = W.world.files.get("AUD2")!;
+  assert.match(audio.name, /^5\. .* ע׳׳[אב] - .+\.mp3$/); assert.ok(!/[\/:"]/.test(audio.name));
+  const base = audio.name.replace(/\.mp3$/, "");
+  const js = JSON.parse(W.text(W.byName("SER", base + ".json"))!); assert.equal(js.meta.polished, true); assert.ok(js.summary && js.tags.length >= 3);
   assert.ok(js.segments.every((s: { text: string }) => !/[֐-׿]/.test(s.text)));
-  assert.ok(W.byName("SER", "5. clase.md")); assert.ok(it.cost.promptTokens > 0 && it.cost.openaiUsd! > 0);
+  assert.ok(W.byName("SER", base + ".md")); assert.equal(W.byName("SER", "5. clase.md"), undefined);
+  assert.ok(it.cost.promptTokens > 0 && it.cost.openaiUsd! > 0);
+  const { undoRename } = await import("../lib/center/undo");
+  const r = await undoRename("AUD2");
+  assert.equal(r.restored.length, 3);
+  assert.equal(audio.name, "5. clase.mp3");
+  assert.ok(W.byName("SER", "5. clase.md") && W.byName("SER", "5. clase.json")); assert.equal(W.byName("SER", base + ".md"), undefined);
+  await assert.rejects(undoRename("AUD2"), /No hay/);
 });
 
 test("teardown", () => { restore(); setR2Mock(null); });

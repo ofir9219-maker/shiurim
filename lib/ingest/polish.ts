@@ -1,15 +1,18 @@
 // Polishing pipeline: pass 0 (context) -> Sefaria -> batches -> validation (merge-polished.py rules) -> meta/title.
-import { CONTEXT_SCHEMA, CONTEXT_SYSTEM, META_SCHEMA, META_SYSTEM, POLISH_SCHEMA, polishSystem } from "./prompts";
+import { CONTEXT_SCHEMA, META_SCHEMA, META_SYSTEM, POLISH_SCHEMA, polishSystem, contextSystem, type Kind } from "./prompts";
+import { buildMetaSchema, finalName, llmVarsFor, metaSchemaKey, metaSystem, sanitizeTopic, validateRendered, type SeriesKind, type Vars } from "../center/templates";
 import type { JsonCall, Usage } from "./openai";
 import { buildTitle, validateName, needsAmud, type Daf } from "./naming";
 import { pctInaudible, type Seg } from "./segments";
 
-export type Meta = { summary: string; tags: string[]; daf: Daf[]; title: string; newName: string; needsReview?: boolean; dafNote?: string };
+export type Meta = { vars?: Record<string, string>; summary: string; tags: string[]; daf: Daf[]; title: string; newName: string; needsReview?: boolean; dafNote?: string };
 export type Cache = { get<T>(k: string): T | undefined; set(k: string, v: unknown): void };
 export const memCache = (): Cache => { const m = new Map<string, unknown>(); return { get: (k) => m.get(k) as never, set: (k, v) => void m.set(k, v) }; };
 export type PolishDeps = {
   llm: JsonCall; sefaria: (ref: string) => Promise<string>; onUsage?: (u: Usage) => void; log?: (m: string) => void;
   cache?: Cache; batchSize?: number; batchChars?: number;
+  /** Series type (Talmud / Likutey Moharán / Tanaj / general) and name: select the prompt variant; Sefaria is only consulted for the first three. */
+  kind?: Kind; series?: string;
 };
 type Ctx = { refs: { sefaria: string; work_he: string; daf_he: string; amud_he: string }[]; topics: string[]; names: string[]; citations: string[]; notes: string };
 
@@ -53,7 +56,7 @@ async function polishTexts(label: string, src: Seg[], ctxText: string, sefaria: 
     if (hit && hit.length === idx.length) { idx.forEach((i, k) => (out[i] = hit[k])); continue; }
     const prev = idx[0] > 0 ? Array.from({ length: Math.min(3, idx[0]) }, (_, k) => idx[0] - Math.min(3, idx[0]) + k) : [];
     const next = Array.from({ length: 3 }, (_, k) => idx[idx.length - 1] + 1 + k).filter((i) => i < src.length);
-    const system = polishSystem(ctxText, sefaria);
+    const system = polishSystem(ctxText, sefaria, d.kind, d.series);
     const user = [
       prev.length ? `Segmentos previos (solo lectura, ya pulidos):\n${prev.map((i) => `${i}: ${out[i] ?? src[i].text}`).join("\n")}\n` : "",
       `Segmentos a pulir:\n${JSON.stringify(idx.map((i) => ({ i, text: src[i].text })))}`,
@@ -81,11 +84,12 @@ async function polishTexts(label: string, src: Seg[], ctxText: string, sefaria: 
 export async function getContext(src: Seg[], inv: { name: string; order: string }, d: PolishDeps): Promise<{ ctx: Ctx; ctxText: string; sefaria: string }> {
   let ctx = d.cache?.get<Ctx>("context");
   if (!ctx) {
-    const r = await d.llm<Ctx>({ system: CONTEXT_SYSTEM, user: `Nombre original del archivo: ${inv.name}\n\nTranscripción cruda:\n${compact(src)}`, schema: CONTEXT_SCHEMA, name: "class_context" });
+    const r = await d.llm<Ctx>({ system: contextSystem(d.kind, d.series), user: `Nombre original del archivo: ${inv.name}\n\nTranscripción cruda:\n${compact(src)}`, schema: CONTEXT_SCHEMA, name: "class_context" });
     d.onUsage?.(r.usage); ctx = r.data; d.cache?.set("context", ctx);
     d.log?.(`contexto: ${ctx.refs.map((x) => x.sefaria).join(", ") || "(sin daf)"}`);
   }
   let sefaria = d.cache?.get<string>("sefaria");
+  if (d.kind === "general") sefaria = "";
   if (sefaria === undefined) {
     const parts = await Promise.all(ctx.refs.slice(0, 4).map((r) => d.sefaria(r.sefaria)));
     sefaria = parts.filter(Boolean).join("\n\n"); d.cache?.set("sefaria", sefaria);
@@ -121,6 +125,39 @@ export async function makeMeta(polished: Seg[], inv: { name: string; order: stri
   throw new Error(`meta inválida: ${errs.join("; ")}`);
 }
 
+export type TemplateOpts = { template: string; fixedObra?: string; fecha?: string; original: string };
+/** Meta pass driven by the series' naming template: asks the LLM for exactly the variables the template needs, renders and validates the name server-side. */
+export async function makeTemplateMeta(polished: Seg[], inv: { name: string; order: string; ext: string }, t: TemplateOpts, kind: SeriesKind, d: PolishDeps): Promise<Meta> {
+  const llm = llmVarsFor(t.template, !!t.fixedObra);
+  const schema = buildMetaSchema(llm), system = metaSystem(llm, kind);
+  const base = `Nombre original del archivo: ${inv.name}\n\nTranscripción pulida:\n${compact(polished, 200)}`;
+  let errs: string[] = [], prev = "";
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const user = attempt === 0 ? base : `${base}\n\nTU INTENTO ANTERIOR (${prev}) TUVO ERRORES: ${errs.join("; ")}. Corrígelo.`;
+    const r = await d.llm<Record<string, unknown>>({ system, user, schema, name: "class_meta" });
+    d.onUsage?.(r.usage);
+    const m = r.data; prev = JSON.stringify(m); errs = [];
+    const str = (k: string) => (typeof m[k] === "string" ? (m[k] as string).trim() : "");
+    const vars: Vars = { n: inv.order, ext: inv.ext, fecha: t.fecha, original: t.original, obra: t.fixedObra || (llm.includes("obra") ? str("obra") : undefined) };
+    if (llm.includes("daf")) vars.daf = ((m.daf as { daf: string; amud: string }[]) ?? []).map((x) => ({ daf: x.daf.trim(), amud: x.amud.trim() }));
+    for (const v of llm) if (v === "temas" || v === "tema_es") (vars as Record<string, unknown>)[v] = sanitizeTopic(str(v));
+    if (llm.includes("torá")) vars["torá"] = str(metaSchemaKey("torá"));
+    if (llm.includes("parashá")) vars["parashá"] = str(metaSchemaKey("parashá"));
+    const summary = str("summary"), tags = ((m.tags as string[]) ?? []).map((x) => x.trim()).filter(Boolean);
+    if (!summary) errs.push("summary vacío");
+    if (tags.length < 3) errs.push("tags insuficientes");
+    if (HEB.test(summary) || tags.some((x) => HEB.test(x))) errs.push(`summary y tags deben estar en español, con los términos hebreos en transliteración latina (sin letras hebreas). Con letras hebreas: ${[HEB.test(summary) ? "summary" : "", ...tags.filter((x) => HEB.test(x))].filter(Boolean).join(" | ")}`);
+    errs.push(...validateRendered(t.template, vars));
+    if (!errs.length) {
+      const { title, newName } = finalName(t.template, vars);
+      const flat: Record<string, string> = {}; for (const [k, v] of Object.entries(vars)) if (typeof v === "string") flat[k] = v;
+      return { summary, tags, daf: vars.daf ?? [], title, newName, dafNote: str("note") || undefined, vars: flat };
+    }
+    d.log?.(`meta: ${errs.join("; ")}`);
+  }
+  throw new Error(`meta inválida: ${errs.join("; ")}`);
+}
+
 const KEEP_META_SCHEMA = { type: "object", additionalProperties: false, required: ["summary", "tags"], properties: { summary: { type: "string" }, tags: { type: "array", items: { type: "string" } } } } as const;
 const KEEP_META_SYSTEM = "Generas los metadatos de una clase a partir de su transcripción ya pulida.\n- summary: 2-3 oraciones en español.\n- tags: 5-10 tags cortos en español (minúsculas salvo nombres propios). Sin letras hebreas.";
 /** Meta for collections that keep the original file name: summary + tags only. */
@@ -141,14 +178,15 @@ export async function makeKeepMeta(polished: Seg[], inv: { name: string }, d: Po
 }
 
 export type PolishResult = { polished: Seg[]; gapPolished: Seg[]; meta: Meta };
-export async function polishClass(o: { segments: Seg[]; gapSegments: Seg[]; inv: { name: string; order: string; ext: string }; keepName?: boolean }, d: PolishDeps): Promise<PolishResult> {
+export async function polishClass(o: { segments: Seg[]; gapSegments: Seg[]; inv: { name: string; order: string; ext: string }; keepName?: boolean; naming?: TemplateOpts }, d: PolishDeps): Promise<PolishResult> {
   const { ctxText, sefaria } = await getContext(o.segments, o.inv, d);
   const texts = await polishTexts("main", o.segments, ctxText, sefaria, d);
   const polished = o.segments.map((s, i) => ({ startMs: s.startMs, endMs: s.endMs, text: texts[i] }));
   const gt = o.gapSegments.length ? await polishTexts("gap", o.gapSegments, ctxText, sefaria, d) : [];
   const gapPolished = o.gapSegments.map((s, i) => ({ startMs: s.startMs, endMs: s.endMs, text: gt[i] }));
   const metaCached = d.cache?.get<Meta>("meta");
-  const meta = metaCached ?? (await (o.keepName ? makeKeepMeta : makeMeta)([...polished, ...gapPolished].sort((a, b) => a.startMs - b.startMs), o.inv, d));
+  const all = [...polished, ...gapPolished].sort((a, b) => a.startMs - b.startMs);
+  const meta = metaCached ?? (o.naming && !o.keepName ? await makeTemplateMeta(all, o.inv, o.naming, (d.kind ?? "talmud") as SeriesKind, d) : await (o.keepName ? makeKeepMeta : makeMeta)([...polished, ...gapPolished].sort((a, b) => a.startMs - b.startMs), o.inv, d));
   d.cache?.set("meta", meta);
   if (pctInaudible([...polished, ...gapPolished].map((s) => s.text)) > 0.2) meta.needsReview = true;
   return { polished, gapPolished, meta };

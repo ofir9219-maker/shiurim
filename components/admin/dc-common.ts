@@ -1,7 +1,7 @@
 export type Crumb = { id: string; name: string };
 export type Row = {
   kind: "folder" | "audio" | "file"; id: string; name: string; size?: number; durationMs?: number | null; status?: string; label?: string; error?: string;
-  collection?: { name: string; slug: string; published: boolean } | null; inWeb?: boolean; hasMd?: boolean; hasJson?: boolean; published?: boolean;
+  collection?: { name: string; slug: string; published: boolean } | null; inWeb?: boolean; hasMd?: boolean; hasJson?: boolean; published?: boolean; undoable?: boolean;
 };
 export type ModelInfo = { id: string; label: string; note: string; splitSec: number };
 export type CenterState = {

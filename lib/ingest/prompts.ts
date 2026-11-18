@@ -13,6 +13,33 @@ export const POLISH_RULES = `Eres el editor de transcripciones de un shiur de Gu
 - Etiquetas de hablante: no las incluyas en el texto.
 - Scribe a veces se "pierde" al inicio de un bloque de 19 min (timestamps estirados, texto repetido o traducido al español en vez de hebreo/arameo, o letras hebreas). Corrige solo el texto usando Sefaria y el contexto; no toques timestamps.`;
 
+export type Kind = "talmud" | "lm" | "tanaj" | "general";
+const KIND_DESC: Record<Kind, string> = { talmud: "de Guemará", lm: "sobre Likutey Moharán", tanaj: "sobre la parashá / Tanaj", general: "de Torá" };
+/** The polishing rules generalized by series: Guemará (Berajot) keeps the original text verbatim; other series change the intro and drop Sefaria hints when no Sefaria text applies. */
+export function polishRules(kind: Kind = "talmud", series?: string): string {
+  if (kind === "talmud" && !series) return POLISH_RULES;
+  const intro = POLISH_RULES.split("\n")[0];
+  const label = series ? `la serie «${series}»` : "una serie";
+  const first = kind === "talmud"
+    ? intro.replace("un shiur de Guemará (", `un shiur de ${label} (`)
+    : `Eres el editor de transcripciones de un shiur de ${label} (shiurim ${KIND_DESC[kind]}), dado en ESPAÑOL con muchas frases en hebreo y arameo. El reconocimiento de voz destrozó las frases hebreas/arameas convirtiéndolas en palabras latinas sin sentido.`;
+  let r = POLISH_RULES.replace(intro, first);
+  if (kind === "general") r = r.replace(" Si la Guemará se lee en voz alta, alinéala con el texto de Sefaria (transliterado).", " Si el rabino lee un texto en voz alta, reconstrúyelo con el contexto (transliterado).").replace("usando Sefaria y el contexto", "usando el contexto").replace("solo si el contexto y Sefaria lo confirman", "solo si el contexto lo confirma");
+  if (kind !== "talmud") r = r.replace("Si la Guemará se lee en voz alta, alinéala con el texto de Sefaria (transliterado).", "Si se lee un texto en voz alta, alinéalo con el texto de Sefaria cuando lo tengas (transliterado).");
+  return r;
+}
+export const contextSystem = (kind: Kind = "talmud", series?: string): string => {
+  if (kind === "talmud" && !series) return CONTEXT_SYSTEM;
+  const refs = kind === "lm" ? "`Likutei_Moharan.19` (la torá; sin amud)" : kind === "tanaj" ? "`Genesis.12.1`, `Exodus.3` (libro y capítulo/versículo de la parashá o pasaje estudiado)" : kind === "talmud" ? "`Berakhot.7a`, `Nedarim.31b`" : "";
+  const what = kind === "talmud" ? "qué daf/amud se estudia, la Guemará citada" : kind === "lm" ? "qué torá de Likutey Moharán se estudia" : kind === "tanaj" ? "qué parashá o pasaje de Tanaj se estudia" : "qué texto o tema se estudia";
+  return `${polishRules(kind, series)}
+
+# Tarea: pasada 0 — entender el contexto
+Lee TODA la transcripción (compacta: \`i | mm:ss | texto\`). Identifica: ${what}, nombres propios (rabinos, personajes…), temas y citas que el rabino lee en voz alta.
+${kind === "general" ? "Esta serie no usa Sefaria: devuelve `refs` como lista vacía." : `Para cada texto estudiado da la referencia de Sefaria en formato API: ${refs}. Máximo 4 referencias, las más relevantes. Si no puedes determinarla, devuelve la lista vacía.`}
+Todo el contenido en español, salvo nombres de obra/daf/torá/parashá que van en hebreo.`;
+};
+
 export const CONTEXT_SYSTEM = `${POLISH_RULES}
 
 # Tarea: pasada 0 — entender el contexto
@@ -33,7 +60,7 @@ export const CONTEXT_SCHEMA = {
   },
 } as const;
 
-export const polishSystem = (ctx: string, sefaria: string) => `${POLISH_RULES}
+export const polishSystem = (ctx: string, sefaria: string, kind: Kind = "talmud", series?: string) => `${polishRules(kind, series)}
 
 # Tarea: pulir un lote de segmentos
 Recibirás un lote de segmentos \`{i, text}\` de la transcripción cruda. Devuelve EXACTAMENTE los mismos índices \`i\`, cada uno con su \`text\` corregido (nunca vacío, nunca con letras hebreas). También verás segmentos vecinos (solo lectura) para dar continuidad; NO los devuelvas.

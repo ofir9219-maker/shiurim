@@ -114,3 +114,81 @@ test("Drive outputs: json shape and md format (raw has no empty header lines)", 
   assert.ok(polishedToMd({ title: "T", daf: [{ daf: "ג", amud: "א" }], summary: "S", tags: ["a"], segments: [] }).includes("- **Daf:** ג א"));
   void geresh;
 });
+
+// ---- Phase 2: templates ----
+const T = await import("../lib/center/templates");
+const { makeTemplateMeta, memCache } = await import("../lib/ingest/polish");
+const N = await import("../lib/ingest/naming");
+const P = await import("../lib/ingest/prompts");
+
+test("template rendering: presets, ranges, extension, order", () => {
+  const g = "ע" + geresh;
+  assert.equal(T.finalName(T.PRESETS[0].template, { ...T.SAMPLE }).newName, `27. ברכות ז ${g}א - בלעם, תשובה.m4a`);
+  assert.equal(T.finalName(T.PRESETS[0].template, { ...T.SAMPLE }).title, `27. ברכות ז ${g}א - בלעם, תשובה`);
+  // identical to the legacy Berajot title builder, including ranges
+  for (const daf of [[{ daf: "ג", amud: "א" }, { daf: "ג", amud: "ב" }], [{ daf: "ט", amud: "ב" }, { daf: "י", amud: "א" }], [{ daf: "יא", amud: "ב" }]])
+    assert.equal(T.renderTemplate(T.PRESETS[0].template, { n: "4.2", obra: "ברכות", daf, temas: "x, y" }), N.buildTitle("4.2", "ברכות", daf, "x, y"));
+  assert.equal(T.renderTemplate(T.PRESETS[1].template, { n: "3", "torá": "יט", temas: "שמחה" }), "3. ליקוטי מוהר״ן יט - שמחה");
+  assert.equal(T.renderTemplate(T.PRESETS[2].template, { n: "9", "parashá": "נח", temas: "תיבה" }), "9. נח - תיבה");
+  assert.equal(T.renderTemplate(T.PRESETS[3].template, { n: "1", temas: "א" }), "1. א");
+  assert.equal(T.finalName("{n}. {tema_es}{ext}", { n: "2", tema_es: "Hola", ext: ".mp3" }).newName, "2. Hola.mp3"); // {ext} explicit: not duplicated
+  assert.equal(T.renderTemplate("{fecha} {original}", { n: "1", fecha: "2025-01-02", original: "Mi clase" }), "2025-01-02 Mi clase");
+  assert.equal(T.cleanOriginal("27. Mi clase - parte 2.m4a"), "Mi clase - parte 2");
+  assert.equal(T.renderTemplate("{daf} {amud}", { n: "1", daf: [{ daf: "ג", amud: "א" }, { daf: "ג", amud: "ב" }] }), "ג א-ב");
+});
+
+test("template validation", () => {
+  assert.deepEqual(T.validateTemplate(T.PRESETS[0].template), []);
+  assert.ok(T.validateTemplate("{n}. {nada}").some((e) => /desconocida/.test(e)));
+  assert.ok(T.validateTemplate("{n}: {temas}").some((e) => /no permitidos/.test(e)));
+  assert.ok(T.validateTemplate("{n} {amud}").some((e) => /necesita/.test(e)));
+  assert.ok(T.validateTemplate("  ").length);
+  const ok = { n: "27", ext: ".m4a", obra: "ברכות", daf: [{ daf: "ז", amud: "א" }], temas: "בלעם" };
+  const g = T.PRESETS[0].template;
+  assert.deepEqual(T.validateRendered(g, ok), []);
+  assert.ok(T.validateRendered(g, { ...ok, daf: [{ daf: "7", amud: "א" }] }).some((e) => /letras hebreas/.test(e)));
+  assert.ok(T.validateRendered(g, { ...ok, daf: [{ daf: "ז", amud: "ג" }] }).some((e) => /amud/.test(e)));
+  assert.ok(T.validateRendered(g, { ...ok, temas: "a".repeat(70) }).length);
+  assert.ok(T.validateRendered(g, { ...ok, temas: "english only" }).some((e) => /hebreo/.test(e)));
+  assert.ok(T.validateRendered(g, { ...ok, temas: "" }).length);
+  assert.ok(T.validateRendered(g, { ...ok, n: "" , obra: "" }).length);
+  assert.ok(T.validateRendered("{n}. {tema_es}", { n: "5", ext: ".mp3", tema_es: "Con / barra" }).some((e) => /contiene/.test(e)));
+  assert.ok(T.validateRendered("{n}. {tema_es}", { n: "5", ext: ".mp3", tema_es: "Con: dos" }).some((e) => /contiene/.test(e)));
+  assert.ok(T.validateRendered("{n}. {tema_es}", { n: "5", ext: ".mp3", tema_es: "עברית" }).some((e) => /español/.test(e)));
+  assert.ok(T.validateRendered("{temas} {n}", { n: "5", ext: ".mp3", temas: "א" }).length === 0);
+  assert.equal(T.sanitizeTopic('a/b: "c"'), "a b c");
+});
+
+test("LLM schema is built from the template (only the variables it needs)", () => {
+  assert.deepEqual(T.llmVarsFor(T.PRESETS[0].template), ["obra", "daf", "temas"]);
+  assert.deepEqual(T.llmVarsFor(T.PRESETS[0].template, true), ["daf", "temas"]);
+  assert.deepEqual(T.llmVarsFor("{n}. {tema_es}"), ["tema_es"]);
+  assert.deepEqual(T.llmVarsFor(T.PRESETS[1].template), ["torá", "temas"]);
+  assert.deepEqual(T.llmVarsFor("{fecha} {original} {n}"), []);
+  const sch = T.buildMetaSchema(T.llmVarsFor(T.PRESETS[2].template)) as { required: string[]; properties: Record<string, unknown> };
+  assert.deepEqual(sch.required.sort(), ["note", "parasha", "summary", "tags", "temas"]);
+  assert.equal(T.seriesKind(T.PRESETS[0].template), "talmud"); assert.equal(T.seriesKind(T.PRESETS[1].template), "lm"); assert.equal(T.seriesKind(T.PRESETS[2].template), "tanaj"); assert.equal(T.seriesKind(T.PRESETS[3].template), "general");
+});
+
+test("meta pass: renders and validates server-side, retries with the errors", async () => {
+  const calls: string[] = [];
+  const answers = [
+    { summary: "Resumen.", tags: ["a", "b", "c"], note: "", obra: "ברכות", daf: [{ daf: "ז", amud: "ג" }], temas: "בלעם" },                 // bad amud
+    { summary: "Resumen.", tags: ["a", "b", "c"], note: "dudas", obra: "ברכות", daf: [{ daf: "ז", amud: "א" }], temas: 'בלעם: תשובה "x"' },   // forbidden chars get sanitized
+  ];
+  const llm = (async (o: { user: string; schema: { required: string[] } }) => { calls.push(o.user); assert.deepEqual([...o.schema.required].sort(), ["daf", "note", "obra", "summary", "tags", "temas"]); return { data: answers.shift(), usage: { promptTokens: 1, completionTokens: 1 } }; }) as never;
+  const m = await makeTemplateMeta([{ startMs: 0, endMs: 1, text: "hola" }], { name: "27. x.m4a", order: "27", ext: ".m4a" }, { template: T.PRESETS[0].template, original: "x" }, "talmud", { llm, sefaria: async () => "", cache: memCache() });
+  assert.equal(calls.length, 2); assert.match(calls[1], /amud/);
+  assert.equal(m.title, `27. ברכות ז ע${geresh}א - בלעם תשובה x`); assert.equal(m.newName, m.title + ".m4a"); assert.equal(m.dafNote, "dudas");
+  await assert.rejects(makeTemplateMeta([], { name: "a.mp3", order: "1", ext: ".mp3" }, { template: "{n}. {temas}", original: "a" }, "general", { llm: (async () => ({ data: { summary: "s", tags: ["a", "b", "c"], note: "", temas: "english" }, usage: { promptTokens: 0, completionTokens: 0 } })) as never, sefaria: async () => "" }), /hebreo/);
+});
+
+test("prompts generalized by series; Berajot prompt unchanged; no Sefaria hints for general series", () => {
+  assert.equal(P.polishRules("talmud"), P.POLISH_RULES);
+  assert.equal(P.contextSystem("talmud"), P.CONTEXT_SYSTEM);
+  assert.match(P.polishRules("lm", "Likutey"), /serie «Likutey»/);
+  assert.doesNotMatch(P.polishRules("general", "Charlas"), /Sefaria/);
+  assert.match(P.contextSystem("general", "Charlas"), /refs.*vacía/);
+  assert.match(P.contextSystem("lm", "X"), /Likutei_Moharan\.19/);
+  assert.match(P.polishSystem("ctx", "", "general", "Charlas"), /Charlas/);
+});

@@ -93,6 +93,12 @@ function Center() {
     try { if (r.status === "error") await api("retry", { method: "POST", body: { id: r.id } }); else await api("enqueue", { method: "POST", body: { ids: [{ id: r.id, kind: "audio" }], path: data!.path } }); setMsg("Reintentando…"); if (folder) await loadList(folder); await loadState(); }
     catch (e) { setMsg((e as Error).message); } finally { setBusy(false); }
   };
+  const undo = async (r: Row) => {
+    if (!window.confirm(`¿Deshacer el renombrado de «${r.name}»? Se restauran los nombres anteriores del audio, .md y .json en Drive.`)) return;
+    setBusy(true);
+    try { const j = await api<{ restored: { from: string; to: string }[] }>("undo-rename", { method: "POST", body: { id: r.id } }); setMsg(`Renombrado deshecho (${j.restored.length} archivo[s]).`); if (folder) await loadList(folder); }
+    catch (e) { setMsg((e as Error).message); } finally { setBusy(false); }
+  };
   const probe = async (r: Row) => { try { const j = await api<{ durationMs: number }>(`duration?id=${r.id}`); setData((d) => d && { ...d, items: d.items.map((x) => (x.id === r.id ? { ...x, durationMs: j.durationMs } : x)) }); } catch (e) { setMsg((e as Error).message); } };
   const open = (id: string) => { setFolder(id); setFound(null); setQ(""); };
 
@@ -118,6 +124,7 @@ function Center() {
           <button type="button" className="btn-ghost btn-sm btn" disabled={busy || r.status === "transcribing" || r.status === "polishing"} onClick={() => retry(r)}>{r.status === "error" ? "Reintentar" : r.status === "none" ? "Transcribir" : "Rehacer"}</button>
           {r.status !== "none" && <button type="button" className="btn-ghost btn-sm btn" onClick={() => setLogId(r.id)}>Ver log</button>}
           <a className="btn-ghost btn-sm btn" href={`https://drive.google.com/file/d/${r.id}/view`} target="_blank" rel="noreferrer">Abrir en Drive</a>
+          {r.undoable && <button type="button" className="btn-ghost btn-sm btn" disabled={busy} onClick={() => undo(r)}>Deshacer renombrado</button>}
           {r.inWeb && <Link className="btn-ghost btn-sm btn" href={`/shiur/${r.id}`} target="_blank">Abrir en la web</Link>}
         </>}
       </div>
@@ -198,7 +205,7 @@ function Center() {
 }
 
 function LogPanel({ id, onClose }: { id: string; onClose: () => void }) {
-  const [it, setIt] = useState<{ name: string; state: string; status: string; error?: string; log: { at: string; msg: string }[]; cost: { falMinutes: number; promptTokens: number; completionTokens: number; falUsd?: number; openaiUsd?: number } } | null>(null);
+  const [it, setIt] = useState<{ renames?: { kind: string; oldName: string; newName: string; at: string; undoneAt?: string }[]; name: string; state: string; status: string; error?: string; log: { at: string; msg: string }[]; cost: { falMinutes: number; promptTokens: number; completionTokens: number; falUsd?: number; openaiUsd?: number } } | null>(null);
   useEffect(() => { const f = () => void api<NonNullable<typeof it>>(`job?id=${id}`).then(setIt).catch(() => setIt(null)); f(); const t = setInterval(f, 3000); return () => clearInterval(t); }, [id]);
   return (<>
     <div className="drawer-backdrop" onClick={onClose} />
@@ -207,6 +214,7 @@ function LogPanel({ id, onClose }: { id: string; onClose: () => void }) {
       {!it ? <p className="muted">Sin trabajo registrado para este archivo.</p> : <>
         <p dir="auto"><b>{it.name}</b><br />{it.state} · {it.status}{it.error ? ` · ${it.error}` : ""}</p>
         <p className="muted">Fal {it.cost.falMinutes.toFixed(1)} min{it.cost.falUsd ? ` (${usd(it.cost.falUsd)})` : ""} · OpenAI {it.cost.promptTokens.toLocaleString("es")}/{it.cost.completionTokens.toLocaleString("es")} tok{it.cost.openaiUsd ? ` (${usd(it.cost.openaiUsd)})` : ""}</p>
+        {!!it.renames?.length && <><h2>Renombrados</h2><table className="dc-table"><tbody>{it.renames.map((x, i) => <tr key={i}><td>{x.kind}</td><td dir="auto">{x.oldName || "(creado)"} → {x.newName}</td><td>{x.undoneAt ? "deshecho" : ""}</td></tr>)}</tbody></table></>}
         <pre className="dc-log" dir="auto">{it.log.map((l) => `${new Date(l.at).toLocaleTimeString("es")}  ${l.msg}`).join("\n")}</pre></>}
     </aside></>);
 }

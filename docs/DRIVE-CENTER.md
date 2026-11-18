@@ -12,6 +12,13 @@
 7. Auto-sync: las series con sincronización automática se revisan cada `INGEST_POLL_MINUTES` (recorrido por carpeta, sin la API de cambios); un audio nuevo se encola cuando su tamaño es estable en 2 revisiones y no tiene ya un `<nombre>.json` al lado.
 8. Costos por serie en `/admin/drive` (estado) y totales en `/admin`.
 
+### Plantillas de nombres (Fase 2)
+En **Ajustes → Nombres de los archivos** eliges el modo (mantener / plantilla) y la plantilla de la serie (heredable). Variables: `{n}` (número inicial del nombre, o el siguiente libre de la serie), `{obra}`, `{daf}`, `{amud}` (junto a `{daf}` se escribe `{daf} ע׳׳{amud}` y se renderiza ע׳׳א / ע׳׳ב / rangos `ג ע׳׳א-ע׳׳ב`), `{temas}` (2–4 temas en hebreo, ≤ ~50 caracteres), `{tema_es}`, `{torá}`, `{parashá}`, `{fecha}` (fecha del archivo), `{original}` (nombre original sin número ni extensión) y `{ext}` (se agrega sola si no la pones). Predefinidas: **Guemará** `{n}. {obra} {daf} ע׳׳{amud} - {temas}`, **Likutey Moharán** `{n}. ליקוטי מוהר״ן {torá} - {temas}`, **Parashá** `{n}. {parashá} - {temas}`, **General** `{n}. {temas}`. El editor muestra una vista previa en vivo con una clase de ejemplo y los errores de la plantilla.
+
+Al pulir, la IA recibe un JSON schema con *solo* las variables que la plantilla necesita; el servidor renderiza y valida el nombre (sin `/ \ : "`, prefijo de orden correcto, extensión, daf en letras hebreas, amud א/ב…) y reintenta con los errores. El audio, el `.md` y el `.json` se renombran juntos en Drive; cada renombrado queda en `data/rename-log.json` (por lote) y el botón **Deshacer renombrado** de cada archivo restaura los nombres anteriores. «Obra fija» permite fijar `{obra}` sin preguntarle a la IA.
+
+El prompt de pulido (`prompts/polish.md` §7) se adapta a la serie; **Sefaria solo se consulta** en series de Guemará (`{daf}`), Likutey Moharán (`{torá}`) y Tanaj/Parashá (`{parashá}`).
+
 Modelos Fal: partes de 19 min para Scribe (palabras con tiempos), 25 min para Wizper/Whisper (segmentos ≤29 s); todos se normalizan al mismo formato `{startMs,endMs,text}` (`lib/center/fal-models.ts`). Precios por defecto: Scribe v2 US$0.008/min, Scribe v1 US$0.03/min, Wizper/Whisper ≈ US$0.0011 por segundo de cómputo (estimado ~4–8 s de cómputo por minuto de audio); ajustables con `FAL_USD_PER_MIN`, `FAL_USD_PER_MIN_SCRIBE_V1`, `FAL_USD_PER_COMPUTE_SEC_WIZPER`, `FAL_WIZPER_COMPUTE_SEC_PER_MIN`, etc.
 
 ---

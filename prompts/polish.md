@@ -59,3 +59,10 @@ Solo después de que merge diga OK:
 
 ## 6. Reporte final (máx 6 líneas)
 id, newName, nº segmentos, % segmentos cambiados, daf, 1 línea con problemas/dudas (ej. pasajes [inaudible], dudas de daf).
+
+## 7. Generalización por serie (Centro de Drive)
+El servidor (`lib/ingest/prompts.ts`) aplica estas mismas reglas a cualquier serie; solo cambia el contexto:
+- **Guemará** (la plantilla usa `{daf}`): texto de este documento tal cual (Berajot no cambia). Se consulta Sefaria (`Berakhot.7a`, …).
+- **Likutey Moharán** (`{torá}`) y **Tanaj/Parashá** (`{parashá}`): la intro nombra la serie; la pasada 0 pide la referencia de Sefaria (`Likutei_Moharan.19`, `Genesis.12`) y se usa su texto para reconstruir citas.
+- **General** (`{n}. {temas}` u otra sin daf/torá/parashá): no se consulta Sefaria ni se mencionan sus hints.
+- La pasada de metadatos pide al LLM exactamente las variables que usa la plantilla de nombres (`{obra}`, `{daf}`/`{amud}`, `{temas}`, `{tema_es}`, `{torá}`, `{parashá}`); `{n}`, `{fecha}`, `{original}` y `{ext}` los pone el servidor, que además renderiza y valida el nombre (sin `/ \ : "`, prefijo de orden, extensión, daf en letras hebreas, amud א/ב, temas en hebreo ≤ ~50 caracteres).

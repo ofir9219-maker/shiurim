@@ -11,6 +11,8 @@ import { falTranscribe } from "./fal";
 import { modelInfo } from "../center/fal-models";
 import { buildTranscriptJson, baseOf, safeName } from "../center/outputs";
 import { legacyCfg, invalidateChildren } from "../center/jobs";
+import { cleanOriginal, dateOf, seriesKind } from "../center/templates";
+import { logRename } from "../center/rename-log";
 import type { JobCfg } from "./state";
 import { cutClip, durationMs, splitAudio } from "./ffmpeg";
 import { publicUrl, r2DeletePrefix, r2Put, r2Size } from "./r2";
@@ -136,7 +138,10 @@ async function stepPolish(c: Ctx, it: Item) {
     return;
   }
   if (cfg.postprocess === "ai_package") throw new Error("postprocess ai_package no disponible todavía");
-  const r = await polishClass({ segments, gapSegments, inv: { name: it.name, order: it.order, ext: it.ext }, keepName: cfg.namingMode === "keep" }, {
+  const kind = seriesKind(cfg.template);
+  const naming = cfg.namingMode === "template" ? { template: cfg.template, fixedObra: cfg.obra || undefined, fecha: dateOf(it.fileDate), original: cleanOriginal(it.name) } : undefined;
+  const r = await polishClass({ segments, gapSegments, inv: { name: it.name, order: it.order, ext: it.ext }, keepName: cfg.namingMode === "keep", naming }, {
+    kind, series: kind === "talmud" && cfg.slug === "berajot" ? undefined : cfg.collectionName,
     llm: openaiJsonWith({ model: cfg.openaiModel, effort: cfg.openaiEffort }), sefaria: sefariaText, cache: fileCache(path.join(workDir(it.id), "polish-cache.json")),
     onUsage: (u) => addUsage(c, it, u.promptTokens, u.completionTokens), log: (m) => { addLog(it, m); c.persist(); },
   });
@@ -144,13 +149,6 @@ async function stepPolish(c: Ctx, it: Item) {
   writeJson(dataPath("gapfill", `${it.id}.json`), r.gapPolished, undefined, 0);
   it.newName = r.meta.newName; it.title = r.meta.title; it.needsReview = r.meta.needsReview; it.dafNote = r.meta.dafNote;
   addLog(it, `título: ${r.meta.newName}${r.meta.needsReview ? " (needsReview: >20% [inaudible])" : ""}`);
-}
-
-export function logRename(e: { id: string; kind: "audio" | "md" | "json"; oldName: string; newName: string }) {
-  const f = dataPath("rename-log.json");
-  const log = readJson<{ id: string; kind: string; newName: string }[]>(f, []);
-  if (log.some((x) => x.id === e.id && x.kind === e.kind && x.newName === e.newName)) return;
-  writeJson(f, [...log, { ...e, at: new Date().toISOString() }]);
 }
 
 /** Writes <name>.md and <name>.json next to the audio in Drive (same base name), renaming the audio when the collection renames. */
@@ -170,22 +168,27 @@ async function stepRename(c: Ctx, it: Item) {
     meta: { title: base, collection: cfg.slug || undefined, postprocess: cfg.postprocess, polished: !pol.raw, durationMs: it.durationMs, needsReview: it.needsReview, daf: pol.daf?.length ? pol.daf : undefined, originalName: it.name },
   });
   const folder = parentOf(it);
+  const batch = new Date().toISOString();
+  const rl = (id: string, kind: "audio" | "md" | "json", oldName: string, nn: string) => logRename({ id, kind, oldName, newName: nn, audioId: it.id, batch });
   // audio
   const meta = await drive.getMeta(it.id);
-  if (meta.name !== newName) { await drive.renameFile(it.id, newName); addLog(it, "audio renombrado en Drive"); logRename({ id: it.id, kind: "audio", oldName: meta.name, newName }); }
+  const curBase = baseOf(meta.name);
+  if (meta.name !== newName) { await drive.renameFile(it.id, newName); addLog(it, `audio renombrado: ${meta.name} → ${newName}`); rl(it.id, "audio", meta.name, newName); }
   invalidateChildren(folder);
-  // markdown: reuse a same-name file (e.g. a Plaud .md), renaming it when the audio was renamed; content is always replaced
+  // md + json: reuse same-name companions (e.g. a Plaud .md, or the files of a previous run), renaming them with the audio; content is always replaced
   const files = await drive.listChildren(folder);
-  const mdName = `${base}.md`, norm1 = (n: string) => n.normalize("NFC").trim();
-  const exact = files.find((f) => f.name === mdName);
-  const old = exact ?? files.find((f) => /\.md$/i.test(f.name) && norm1(baseOf(f.name)) === norm1(oldBase));
-  if (old) {
-    if (old.name !== mdName) { await drive.renameFile(old.id, mdName); logRename({ id: old.id, kind: "md", oldName: old.name, newName: mdName }); }
-    await drive.updateTextFile(old.id, md); it.mdId = old.id; addLog(it, `${mdName} actualizado en Drive`);
-  } else { it.mdId = await drive.createTextFile(folder, mdName, md); logRename({ id: it.mdId, kind: "md", oldName: "", newName: mdName }); addLog(it, `${mdName} creado en Drive`); }
-  // json
-  it.jsonId = await drive.createTextFile(folder, `${base}.json`, JSON.stringify(json), "application/json");
-  addLog(it, `${base}.json guardado en Drive`);
+  const n1 = (n: string) => n.normalize("NFC").trim();
+  const companion = async (ext: "md" | "json", content: string, mime: string, prevId?: string) => {
+    const want = `${base}.${ext}`;
+    const old = files.find((f) => f.name === want) ?? files.find((f) => f.id === prevId) ?? files.find((f) => new RegExp(`\\.${ext}$`, "i").test(f.name) && !/\.ai(\.|$)/i.test(f.name) && [curBase, oldBase].some((b) => n1(baseOf(f.name)) === n1(b)));
+    if (old) {
+      if (old.name !== want) { await drive.renameFile(old.id, want); rl(old.id, ext, old.name, want); }
+      await drive.updateTextFile(old.id, content, mime); addLog(it, `${want} actualizado en Drive`); return old.id;
+    }
+    const id = await drive.createTextFile(folder, want, content, mime); rl(id, ext, "", want); addLog(it, `${want} creado en Drive`); return id;
+  };
+  it.mdId = await companion("md", md, "text/markdown", it.mdId);
+  it.jsonId = await companion("json", JSON.stringify(json), "application/json", it.jsonId);
   invalidateChildren(folder);
   c.persist();
 }

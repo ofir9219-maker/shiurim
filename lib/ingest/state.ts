@@ -13,7 +13,7 @@ export type Item = {
   id: string; name: string; ext: string; mimeType: string; sizeBytes: number; order: string;
   state: StepState; status: Status; attempts: number; nextAttemptAt?: number; error?: string;
   /** Collection (Drive folder id) this file belongs to, its Drive parent, and the settings resolved when it was queued. */
-  collectionId?: string; parentId?: string; cfg?: JobCfg; origName?: string; manual?: boolean;
+  collectionId?: string; parentId?: string; cfg?: JobCfg; origName?: string; manual?: boolean; fileDate?: string;
   newName?: string; title?: string; mdId?: string; jsonId?: string; durationMs?: number; needsReview?: boolean; dafNote?: string; r2Key?: string;
   cost: Cost; log: { at: string; msg: string }[]; createdAt: string; updatedAt: string; finishedAt?: string;
 };
@@ -32,7 +32,7 @@ export const nextState = (s: StepState): StepState | null => STATES[STATES.index
 /** Exponential backoff: 1, 2, 4 … min, capped at 60 min. */
 export const backoffMs = (attempts: number) => Math.min(60, 2 ** Math.max(0, attempts - 1)) * 60_000;
 
-export function newItem(f: { id: string; name: string; ext: string; mimeType: string; sizeBytes: number; order: string } & Partial<Pick<Item, "collectionId" | "parentId" | "cfg" | "manual" | "durationMs">>, now = new Date()): Item {
+export function newItem(f: { id: string; name: string; ext: string; mimeType: string; sizeBytes: number; order: string } & Partial<Pick<Item, "fileDate" | "collectionId" | "parentId" | "cfg" | "manual" | "durationMs">>, now = new Date()): Item {
   return { ...f, origName: f.name, state: "detected", status: "queued", attempts: 0, cost: emptyCost(), log: [], createdAt: now.toISOString(), updatedAt: now.toISOString() };
 }
 export function addLog(it: Item, msg: string, now = new Date()) {
