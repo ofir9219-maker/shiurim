@@ -3,7 +3,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import AdminGate from "@/components/admin/AdminGate";
 import SettingsPanel from "@/components/admin/SettingsPanel";
-import PackagesPanel from "@/components/admin/PackagesPanel";
+import ZonePanel from "@/components/admin/ZonePanel";
 import { api, fmtDur, fmtSize, type CenterState, type Crumb, type Row } from "@/components/admin/dc-common";
 
 type Sel = Record<string, { id: string; kind: string; name: string }>;
@@ -175,7 +175,7 @@ function Center() {
           </section>
         </div>)}
 
-      <PackagesPanel />
+      <ZonePanel />
 
       {nsel > 0 && (
         <div className="dc-sel" role="region" aria-label="Selección">

@@ -1,5 +1,6 @@
 "use client";
 import { useCallback, useEffect, useState } from "react";
+import ZonePanel from "@/components/admin/ZonePanel";
 
 type Item = {
   id: string; name: string; order: string; state: string; status: string; attempts: number; error?: string; newName?: string; needsReview?: boolean; dafNote?: string;
@@ -73,6 +74,7 @@ export default function AdminPage() {
       <p style={{ marginTop: 10 }}><button style={btn} disabled={busy || !st.drive.connected} onClick={() => post("/api/admin/check")}>{busy ? "Revisando…" : "Revisar ahora"}</button>
         <button style={{ ...btn, background: "transparent", color: "var(--ink)", border: "1px solid var(--line-strong)", marginLeft: 8 }} onClick={async () => { await fetch("/api/admin/logout", { method: "POST" }); setAuth("login"); }}>Salir</button></p>
     </section>
+    <ZonePanel compact />
     <section style={box}>
       <h2 style={{ fontSize: 16, marginBottom: 8 }}>Costos acumulados</h2>
       <p>Fal Scribe: {st.totals.falMinutes.toFixed(1)} min · OpenAI: {st.totals.promptTokens.toLocaleString("es")} tokens in / {st.totals.completionTokens.toLocaleString("es")} out · estimado ≈ US$ {st.totals.usd.toFixed(2)} <small>(sin embeddings; precios por defecto, ajustables con FAL_USD_PER_MIN, POLISH_USD_PER_M_IN/OUT)</small></p>

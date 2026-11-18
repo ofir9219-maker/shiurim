@@ -18,6 +18,8 @@ export type Settings = {
   naming?: { mode?: NamingMode; template?: string; obra?: string };
   /** Allow Hebrew script in transcript text (default: only Latin transliteration). */
   allowHebrew?: boolean;
+  /** Zona IA: also write a plain `<name>.ai.json` data file next to the audio in Drive (default off). */
+  aiCopyToDrive?: boolean;
   publish?: { title?: string; description?: string };
 };
 export type Collection = {
@@ -27,7 +29,7 @@ export type Collection = {
 /** Fully resolved settings + where each key came from (folderId, or "default"). */
 export type Resolved = {
   model: FalModelId; language: string; autoSync: boolean; postprocess: Postprocess;
-  openaiModel: string; openaiEffort: string; namingMode: NamingMode; template: string; obra: string; allowHebrew: boolean;
+  openaiModel: string; openaiEffort: string; namingMode: NamingMode; template: string; obra: string; allowHebrew: boolean; aiCopyToDrive: boolean;
 };
 export type SettingKey = keyof Resolved;
 export type Resolution = { settings: Resolved; from: Record<SettingKey, string>; collection: Collection | null; published: boolean };
@@ -35,7 +37,7 @@ export type Resolution = { settings: Resolved; from: Record<SettingKey, string>;
 export const systemDefaults = (): Resolved => ({
   model: DEFAULT_FAL_MODEL, language: DEFAULT_LANGUAGE, autoSync: false, postprocess: "none",
   openaiModel: process.env.POLISH_MODEL || "gpt-5.2", openaiEffort: process.env.POLISH_EFFORT || "medium",
-  namingMode: "keep", template: "{n}. {temas}", obra: "", allowHebrew: false,
+  namingMode: "keep", template: "{n}. {temas}", obra: "", allowHebrew: false, aiCopyToDrive: false,
 });
 export const EFFORTS = ["minimal", "low", "medium", "high"] as const;
 const POSTS: Postprocess[] = ["none", "openai", "ai_package"];
@@ -97,6 +99,7 @@ export function sanitizeSettings(x: unknown): Settings {
     if (Object.keys(a).length) s.openai = a;
   }
   if (typeof o.allowHebrew === "boolean") s.allowHebrew = o.allowHebrew;
+  if (typeof o.aiCopyToDrive === "boolean") s.aiCopyToDrive = o.aiCopyToDrive;
   if (o.naming && typeof o.naming === "object") {
     const n: NonNullable<Settings["naming"]> = {};
     if (o.naming.mode === "keep" || o.naming.mode === "template") n.mode = o.naming.mode;
@@ -125,6 +128,7 @@ const flat = (s: Settings): Partial<Resolved> => {
   if (s.naming?.template) r.template = s.naming.template;
   if (s.naming?.obra !== undefined) r.obra = s.naming.obra;
   if (s.allowHebrew !== undefined) r.allowHebrew = s.allowHebrew;
+  if (s.aiCopyToDrive !== undefined) r.aiCopyToDrive = s.aiCopyToDrive;
   return r;
 };
 

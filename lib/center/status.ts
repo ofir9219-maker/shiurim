@@ -4,7 +4,7 @@ import type { Item } from "../ingest/state";
 export type StatusKey = "none" | "queued" | "transcribing" | "transcribed" | "polishing" | "polished" | "pending_package" | "error";
 export const STATUS_LABEL: Record<StatusKey, string> = {
   none: "sin transcribir", queued: "en cola", transcribing: "transcribiendo", transcribed: "transcrito", polishing: "pulido en curso",
-  polished: "pulido", pending_package: "paquete pendiente", error: "error",
+  polished: "pulido", pending_package: "en Zona IA", error: "error",
 };
 export function statusOf(o: { item?: Item; inInventory?: boolean; hasJson?: boolean; hasMd?: boolean }): StatusKey {
   const it = o.item;

@@ -78,13 +78,14 @@ test("OpenAI polish + rename by template (audio, .md, .json together) + undo (re
   await assert.rejects(undoRename("AUD2"), /No hay/);
 });
 
-const aiResult = (pj: any, tag = "corregido") => ({ format: "shiurim-ai-result/v1", package_id: pj.package_id, segments: pj.segments.map((x: any) => ({ ...x, text: x.text.replace(/^./, (c: string) => c.toUpperCase()) + ` (${tag})` })),
-  meta: { summary: "Una clase de prueba.", tags: ["prueba", "berajot", "shemá"], note: "", obra: "ברכות", daf: [{ daf: "ג", amud: "א" }], temas: "קריאת שמע, ערבית" } });
+const aiResult = (data: any, tag = "corregido") => ({ format: "shiurim-ai-result/v1", job_id: data.job_id, segments: data.segments.map((x: any) => ({ ...x, text: x.text.replace(/^./, (c: string) => c.toUpperCase()) + ` (${tag})` })),
+  ...(data.needs_meta ? { meta: { summary: "Una clase de prueba.", tags: ["prueba", "berajot", "shemá"], note: "", obra: "ברכות", daf: [{ daf: "ג", amud: "א" }], temas: "קריאת שמע, ערבית" } } : {}) });
 const waitStatus = async (id: string, st: string, ms = 60_000) => { const t0 = Date.now(); while (Date.now() - t0 < ms) { if (scheduler().state.items[id]?.status === st) return scheduler().state.items[id]; await new Promise((r) => setTimeout(r, 100)); } throw new Error(`timeout esperando ${st}: ` + JSON.stringify(scheduler().state.items[id]?.log.slice(-4))); };
 
-test("AI package: Drive package -> invalid upload rejected -> valid upload applied (rename by template) -> re-upload replaces -> Drive pickup", async () => {
-  const route = await import("../app/api/paquete/[token]/route");
-  const K = await import("../lib/center/packages");
+test("AI zone: transcribed file -> jobs in the queue (no Drive file by default) -> invalid result rejected -> valid applied (rename by template) -> re-submit replaces", async () => {
+  const Z = await import("../lib/zone/jobs"); const T = await import("../lib/zone/token");
+  const resultRoute = await import("../app/api/ia/[token]/jobs/[jobId]/result/route"); const claimRoute = await import("../app/api/ia/[token]/jobs/[jobId]/claim/route"); const listRoute = await import("../app/api/ia/[token]/jobs/route");
+  const token = T.currentToken()!;
   W.addFolder("SER2", "Serie IA", "ROOT");
   W.world.falResults["fal-ai/elevenlabs/speech-to-text/scribe-v2"] = SCRIBE;
   C.upsertCollection({ folderId: "SER2", name: "Serie IA", published: false, settings: { transcription: { model: "fal-ai/elevenlabs/speech-to-text/scribe-v2" }, postprocess: "ai_package", naming: { mode: "template", template: C.BERAJOT_TEMPLATE } } });
@@ -92,42 +93,47 @@ test("AI package: Drive package -> invalid upload rejected -> valid upload appli
   scheduler().enqueue(await J.walkAudio("SER2", ["ROOT", "SER2"]));
   const it = await waitStatus("AUD3", "waiting");
   assert.equal(it.state, "transcribed");
-  const pf = W.byName("SER2", "9. otra.ai.json")!; assert.ok(pf, "package written next to the audio");
-  const pj = JSON.parse(W.text(pf)!); assert.equal(pj.format, "shiurim-ai-package/v1"); assert.ok(pj.segments.length >= 3);
-  const token = pj.upload.url.split("/").pop();
-  const call = (tok: string, body: string, method = "POST") => route[method as "POST"](new Request(`https://ofirsegal.app/api/paquete/${tok}`, { method, body, headers: { "content-type": "application/json" } }), { params: Promise.resolve({ token: tok }) });
-  // CORS + unknown token
-  const opt = route.OPTIONS(); assert.equal(opt.headers.get("access-control-allow-origin"), "*");
-  assert.equal((await call("x".repeat(43), "{}")).status, 404);
-  assert.equal((await call(token, "x".repeat(5 * 1024 * 1024 + 10))).status, 413);
-  // invalid: wrong ids/timestamps -> 422, lists exactly what is wrong, nothing applied
-  const bad = aiResult(pj); bad.segments[2].startMs += 7; bad.segments[4].text = "";
-  const r1 = await call(token, JSON.stringify(bad)); assert.equal(r1.status, 422); assert.equal(r1.headers.get("access-control-allow-origin"), "*");
-  const j1 = await r1.json(); assert.equal(j1.ok, false); assert.ok(j1.errors.some((e: any) => e.where === "segmento 2" && /startMs/.test(e.message)) && j1.errors.some((e: any) => e.where === "segmento 4"));
+  assert.equal(W.byName("SER2", "9. otra.ai.json"), undefined, "no Drive copy unless the series asks for it");
+  const call = (id: string, body: string) => resultRoute.POST(new Request(`https://ofirsegal.app/api/ia/${token}/jobs/${id}/result`, { method: "POST", body, headers: { "content-type": "application/json" } }), { params: Promise.resolve({ token, jobId: id }) });
+  const pend: any[] = await (await listRoute.GET(new Request(`https://ofirsegal.app/api/ia/${token}/jobs?status=pending`), { params: Promise.resolve({ token }) })).json();
+  const mine = pend.filter((p) => Z.getJob(p.job_id)!.audioId === "AUD3"); assert.equal(mine.length, 1);
+  const data: any = await (await claimRoute.POST(new Request("https://ofirsegal.app/x", { method: "POST", body: "{}" }), { params: Promise.resolve({ token, jobId: mine[0].job_id }) })).json();
+  assert.ok(data.segments.length >= 3 && !("prompt" in data));
+  const bad = aiResult(data); bad.segments[2].startMs += 7; (bad.segments[4] as any).text = "";
+  const r1 = await call(data.job_id, JSON.stringify(bad)); assert.equal(r1.status, 422); const j1 = await r1.json();
+  assert.ok(j1.errors.some((e: any) => e.where === "segments[i=2].startMs") && j1.errors.some((e: any) => e.where === "segments[i=4].text"));
   assert.equal(scheduler().state.items.AUD3.status, "waiting"); assert.equal(W.world.files.get("AUD3")!.name, "9. otra.mp3");
-  assert.equal((await call(token, "esto no es json")).status, 422);
-  // valid -> applied, pipeline continues to rename/md/json
-  const r2 = await call(token, "```json\n" + JSON.stringify(aiResult(pj)) + "\n```"); const j2 = await r2.json(); assert.equal(r2.status, 200, JSON.stringify(j2)); assert.equal(j2.applied, true);
+  const r2 = await call(data.job_id, "```json\n" + JSON.stringify(aiResult(data)) + "\n```"); const j2 = await r2.json(); assert.equal(r2.status, 200, JSON.stringify(j2)); assert.equal(j2.applied, true);
   const done = await waitDone("AUD3", 60_000); assert.equal(done.status, "done", String(done.error));
   const au = W.world.files.get("AUD3")!; assert.match(au.name, /^9\. ברכות ג ע׳׳א - קריאת שמע, ערבית\.mp3$/);
   const base = au.name.replace(/\.mp3$/, ""); const js = JSON.parse(W.text(W.byName("SER2", base + ".json"))!);
   assert.equal(js.meta.polished, true); assert.match(js.segments[0].text, /\(corregido\)$/); assert.deepEqual(js.tags, ["prueba", "berajot", "shemá"]);
-  assert.match(W.text(W.byName("SER2", base + ".md"))!, /\(corregido\)/); assert.ok(W.byName("SER2", "9. otra.ai.json"), "package file stays in Drive");
-  // re-upload replaces the active result
-  const r3 = await call(token, JSON.stringify(aiResult(pj, "v2"))); assert.equal((await r3.json()).applied, true);
+  assert.match(W.text(W.byName("SER2", base + ".md"))!, /\(corregido\)/);
+  const r3 = await call(data.job_id, JSON.stringify(aiResult(data, "v2"))); assert.equal((await r3.json()).applied, true);
   const t0 = Date.now(); while (Date.now() - t0 < 30000 && !/\(v2\)/.test(W.text(W.byName("SER2", base + ".md")) ?? "")) await new Promise((r) => setTimeout(r, 150));
   assert.match(W.text(W.byName("SER2", base + ".md"))!, /\(v2\)/); assert.doesNotMatch(W.text(W.byName("SER2", base + ".md"))!, /\(corregido\)/);
-  // Drive pickup of <name>.ai.corregido.json (auto-sync)
-  W.addAudio("AUD4", "10. dos.mp3", "SER2", mp3);
-  scheduler().enqueue((await J.walkAudio("SER2", ["ROOT", "SER2"])).filter((c) => c.file.id === "AUD4"));
-  await waitStatus("AUD4", "waiting");
-  const pj4 = JSON.parse(W.text(W.byName("SER2", "10. dos.ai.json"))!);
-  W.world.files.set("CORR", { id: "CORR", name: "10. dos.ai.corregido.json", mimeType: "application/json", parents: ["SER2"], content: Buffer.from(JSON.stringify(aiResult(pj4))) });
-  const scan = await K.scanDrive(); assert.equal(scan.received >= 1, true);
-  const d4 = await waitDone("AUD4", 60_000); assert.equal(d4.status, "done", String(d4.error)); assert.match(W.world.files.get("AUD4")!.name, /^10\. ברכות ג ע׳׳א/);
-  // expired token
-  const meta = K.listPackages().find((p) => p.id === pj.package_id)!; fs.writeFileSync(path.join(process.env.STORAGE_DIR!, "packages", "packages.json"), JSON.stringify(K.listPackages().map((p) => (p.id === meta.id ? { ...p, expiresAt: new Date(Date.now() - 1000).toISOString() } : p))));
-  assert.equal((await call(token, "{}")).status, 410);
+});
+
+test("AI zone: multi-part class applies only when every part is done; Drive copy + Drive pickup of <name>.ai.corregido.json when the series enables it", async () => {
+  const Z = await import("../lib/zone/jobs");
+  process.env.AI_ZONE_PART_SEGMENTS = "4";
+  try {
+    C.upsertCollection({ folderId: "SER2", name: "Serie IA", published: false, settings: { transcription: { model: "fal-ai/elevenlabs/speech-to-text/scribe-v2" }, postprocess: "ai_package", aiCopyToDrive: true, naming: { mode: "template", template: C.BERAJOT_TEMPLATE } } });
+    W.addAudio("AUD4", "10. dos.mp3", "SER2", mp3);
+    scheduler().enqueue((await J.walkAudio("SER2", ["ROOT", "SER2"])).filter((c) => c.file.id === "AUD4"));
+    await waitStatus("AUD4", "waiting");
+    const jobs = Z.jobsOfAudio("AUD4").sort((a, b) => a.part - b.part); assert.ok(jobs.length >= 2, `parts: ${jobs.length}`);
+    assert.ok(W.byName("SER2", "10. dos.ai.parte1de" + jobs.length + ".json"), "plain data file written to Drive (copiar también a Drive)");
+    const datas = await Promise.all(jobs.map((j) => Z.getJobData(j)));
+    // part 2.. via the Drive pickup, then part 1 via receiveResult: only the last one triggers the apply
+    const last = jobs.length - 1;
+    for (let k = 1; k <= last; k++) W.world.files.set("CORR" + k, { id: "CORR" + k, name: `10. dos.ai.parte${k + 1}de${jobs.length}.corregido.json`, mimeType: "application/json", parents: ["SER2"], content: Buffer.from(JSON.stringify(aiResult(datas[k]))) });
+    const scan = await Z.scanDrive(); assert.equal(scan.received, last);
+    assert.equal(scheduler().state.items.AUD4.status, "waiting"); assert.equal(Z.counts().done >= last, true);
+    const r = await Z.receiveResult(Z.getJob(jobs[0].id)!, JSON.stringify(aiResult(datas[0])), "api"); assert.equal(r.applied, true, JSON.stringify(r));
+    const d4 = await waitDone("AUD4", 60_000); assert.equal(d4.status, "done", String(d4.error)); assert.match(W.world.files.get("AUD4")!.name, /^10\. ברכות ג ע׳׳א/);
+    const js = JSON.parse(W.text(W.byName("SER2", W.world.files.get("AUD4")!.name.replace(/\.mp3$/, "") + ".json"))!); assert.equal(js.segments.length, datas.reduce((n, d) => n + d.segments.length, 0));
+  } finally { delete process.env.AI_ZONE_PART_SEGMENTS; }
 });
 
 test("teardown", () => { restore(); setR2Mock(null); });

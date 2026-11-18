@@ -27,7 +27,7 @@ export default function UploadBox({ token, initialStatus }: { token: string; ini
         <input ref={file} type="file" accept=".json,application/json,text/plain" hidden onChange={(e) => { const f = e.target.files?.[0]; if (f) void readFile(f); }} />
       </div>
       <label>…o pega el JSON
-        <textarea className="input" rows={8} value={text} onChange={(e) => setText(e.target.value)} placeholder='{"format":"shiurim-ai-result/v1","package_id":"pkg_…","segments":[…]}' spellCheck={false} /></label>
+        <textarea className="input" rows={8} value={text} onChange={(e) => setText(e.target.value)} placeholder='{"format":"shiurim-ai-result/v1","job_id":"job_…","segments":[…]}' spellCheck={false} /></label>
       <div className="dc-bar"><button className="btn" disabled={busy || !text.trim()} onClick={() => send(text)}>{busy ? "Validando…" : "Enviar y validar"}</button></div>
       {res && (
         <div role="status" className="card" style={{ padding: "var(--sp-4)", borderColor: res.ok ? "var(--gold)" : "var(--danger)" }}>

@@ -22,7 +22,7 @@ import { polishClass, type Cache, type Meta } from "./polish";
 import { polishedToMd } from "./md";
 import { findGaps, findHollow, gapClipToSegments, mergeFinal, rawToSegments, type Gap, type RawDoc, type Seg } from "./segments";
 import { addLog, WaitError, type Item, type State } from "./state";
-import * as packages from "../center/packages";
+import * as zone from "../zone/jobs";
 import type { Steps } from "./runner";
 
 export type Ctx = { state: State; persist: () => void; log: (m: string) => void };
@@ -139,16 +139,16 @@ async function stepPolish(c: Ctx, it: Item) {
     return;
   }
   if (cfg.postprocess === "ai_package") {
-    // Alternative to OpenAI: write packages next to the audio and wait until a validated result arrives (API, upload page or Drive).
+    // Zona IA: the class becomes jobs in the central queue; wait until AI agents return validated results (API, HTML form or Drive).
     const done = readJson<{ pkg?: boolean } | null>(dataPath("polished", `${it.id}.json`), null);
     if (done?.pkg) return;
-    let pk = packages.activePackages(it.id);
-    if (!pk.length) {
+    let jobs = zone.jobsOfAudio(it.id);
+    if (!jobs.length) {
       const hollow = new Set(readJson<{ id: string; startMs: number }[]>(dataPath("gaps-hollow.json"), []).filter((h) => h.id === it.id).map((h) => h.startMs));
-      pk = await packages.createPackages(it, cfg, mergeFinal(segments, gapSegments, hollow));
-      addLog(it, `${pk.length} paquete(s) para IA creados en Drive: ${pk.map((x) => x.fileName).join(", ")}`);
+      jobs = await zone.createJobs(it, cfg, mergeFinal(segments, gapSegments, hollow));
+      addLog(it, `${jobs.length} job(s) en la Zona IA: ${jobs.map((x) => x.id).join(", ")}`);
     }
-    throw new WaitError(`paquete pendiente: ${pk.map((x) => x.fileName).join(", ")} (esperando el resultado corregido)`);
+    throw new WaitError(`en la Zona IA: ${jobs.length} job(s) esperando a que una IA los corrija y devuelva`);
   }
   const kind = seriesKind(cfg.template);
   const naming = cfg.namingMode === "template" ? { template: cfg.template, fixedObra: cfg.obra || undefined, fecha: dateOf(it.fileDate), original: cleanOriginal(it.name) } : undefined;
