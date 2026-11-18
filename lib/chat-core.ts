@@ -4,7 +4,7 @@ export type ChatMsg = { role: "user" | "assistant"; content: string };
 export type Ref = { classId: string; title: string; startMs: number; quote: string };
 export type ChatEvent =
   | { type: "delta"; text: string }
-  | { type: "done"; refs: Ref[]; cited: number[]; mode: "ai" | "noai" | "error" };
+  | { type: "done"; refs: Ref[]; cited: number[]; mode: "ai" | "noai" | "error"; memory?: string; condensed?: number };
 
 export const EFFORTS = ["minimal", "low", "medium", "high"] as const;
 export type Effort = (typeof EFFORTS)[number];
@@ -47,13 +47,14 @@ export function keywords(s: string, max = 6): string[] {
 }
 
 /** Heuristic query rewrite: last user message keywords, enriched with keywords of previous user turns if too thin. */
-export function heuristicQuery(messages: ChatMsg[]): string {
+export function heuristicQuery(messages: ChatMsg[], memory?: string): string {
   const users = messages.filter((m) => m.role === "user");
   const last = users[users.length - 1]?.content || "";
   const kw = keywords(last);
   if (kw.length >= 3) return kw.join(" ");
   const prev: string[] = [];
   for (let i = users.length - 2; i >= 0 && prev.length < 4; i--) for (const k of keywords(users[i].content)) if (!kw.includes(k) && !prev.includes(k)) prev.push(k);
+  if (memory && kw.length + prev.length < 3) for (const k of keywords(memory, 12)) if (!kw.includes(k) && !prev.includes(k) && prev.length < 3) prev.push(k);
   return [...kw, ...prev.slice(0, 3)].join(" ") || last.trim();
 }
 
@@ -155,14 +156,14 @@ export function noAiText(refs: Ref[], reason = "El asistente de IA no está conf
     refs.map((r, i) => `[${i + 1}] ${r.title} · ${fmtTime(r.startMs)}: ${r.quote}`).join("\n");
 }
 
-export function sanitizeMessages(input: unknown): ChatMsg[] {
+export function sanitizeMessages(input: unknown, max = 12): ChatMsg[] {
   if (!Array.isArray(input)) return [];
   const out: ChatMsg[] = [];
   for (const m of input) {
     if (!m || typeof m !== "object") continue;
     const { role, content } = m as { role?: unknown; content?: unknown };
     if ((role !== "user" && role !== "assistant") || typeof content !== "string" || !content.trim()) continue;
-    out.push({ role, content: content.slice(0, 2000) });
+    out.push({ role, content: content.slice(0, 4000) });
   }
-  return out.slice(-12);
+  return out.slice(-max);
 }

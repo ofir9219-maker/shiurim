@@ -1,7 +1,7 @@
 # AI chat
 
-`POST /api/chat` `{messages:[{role,content}], classId?, model?, effort?}` streams **ndjson** (`application/x-ndjson`):
-`{"type":"delta","text":"..."}` (many) then `{"type":"done","refs":[{classId,title,startMs,quote}],"cited":[1,3],"mode":"ai|noai|error"}`.
+`POST /api/chat` `{messages:[{role,content}], memory?, classId?, model?, effort?}` streams **ndjson** (`application/x-ndjson`):
+`{"type":"delta","text":"..."}` (many) then `{"type":"done","refs":[{classId,title,startMs,quote}],"cited":[1,3],"mode":"ai|noai|error", memory?, condensed?}`.
 `[n]` markers in the text map to `refs[n-1]`; `cited` lists the markers the model used (all refs in `noai`).
 
 ## Flow (`lib/chat.ts`)
@@ -24,8 +24,15 @@
 - `POST /api/chat` validates `model` against that list (unknown -> default) and `effort` against the enum (invalid -> `medium`). Reasoning models get `reasoning_effort` + `max_completion_tokens` and no `temperature`; other models ignore effort. On an OpenAI 400 mentioning effort/temperature the request is retried once without that param. The Anthropic provider ignores both.
 - UI: model `<select>` + "Nivel de razonamiento" segmented control (only for reasoning models), stored in `localStorage` (`shiurim-chat-prefs-v1`); collapsible "Ajustes" row on mobile.
 
+## Conversations and memory
+- **Storage (client only; the server has no persistence)**: `lib/chat-store.ts`, `localStorage` key `shiurim-chats-v1` (`{v:1,chats:[...]}`), active chat in `shiurim-chat-active-v1`. Chat = `{id,title,createdAt,updatedAt,messages:[{role,content,refs?,cited?,mode?,model?,effort?}],memory?,memoryUpTo?,model,effort,classId?}`. Max 50 chats / 200 messages each; empty chats are never stored; on quota errors refs of older chats are stripped, then the oldest chats dropped. All reads/writes are in try/catch.
+- **Memory** (`lib/chat-memory.ts`, `updateMemory` in `lib/chat.ts`): the client sends `messages.slice(memoryUpTo)` (max 40) plus `memory`. If that slice has > 12 messages or > 12k chars, after answering the server folds all but the last 6 into a rolling memory (LLM, Spanish, <= 1200 chars; no key / failure: `Preguntas anteriores: q1 | q2 ...`, newest kept) and returns `memory` and `condensed` (number of messages folded) in the `done` event; the client stores `memory` and advances `memoryUpTo`. Memory goes into the system prompt ("Memoria de esta conversación: ...") and into the query rewrite (LLM and heuristic).
+- **Titles**: first question -> first ~6 words immediately, then `POST /api/chat/title {question}` -> `{title, ai}` upgrades it when an LLM key exists (unless the user renamed it meanwhile).
+- **Class chat**: `<ChatPanel classId>` (embedded in the class page) opens/continues the single chat bound to that class (also listed in the /chat sidebar with a "Clase" badge); "Reiniciar" clears it.
+- **Export/import**: sidebar "Más" menu; JSON `{app:"shiurim-chat",v:1,chats}`; import validates each chat and merges by id (newer `updatedAt` wins).
+
 ## UI
-`components/ChatPanel.tsx` (default export, client; optional `classId` prop). History is kept in state and `sessionStorage`. Chips call `usePlayer().playAt(classId, startMs)` and link to `/shiur/[id]?t=<seconds>`. Colors are inline hex (ink `#1c2a4a`, gold `#b8893a`, parchment `#f6efdc`) because `tailwind.config.ts` defines no tokens yet.
+`components/ChatPanel.tsx` (default export, client; optional `classId`), `components/chat/ChatSidebar.tsx` (list, search, inline rename, inline delete confirm, export/import), `components/chat/RefChips.tsx`. `/chat` is two-pane from `lg`; below that the sidebar is a drawer (`.chat-drawer-toggle`, `.chat-backdrop`). Model/effort are per chat (new chats inherit the last choice, `shiurim-chat-prefs-v1`). Chips call `usePlayer().playAt(classId, startMs)` and link to `/shiur/[id]?t=<seconds>`. Styling uses `var(--ink|--gold|--bg|--card|--line|--text|--muted)` plus semantic classes (`chat-sidebar`, `chat-item`, `chat-main`, `chat-bubble`, ...). Screenshot: `docs/screenshots/chat-multi.png`.
 
 ## Tests
-`DB_PATH=/tmp/fx.db npm run build:db -- --fixtures && npx tsx --test tests/chat.test.ts tests/chat-flow.test.ts` (LLM fetch is mocked).
+`DB_PATH=/tmp/fx.db npm run build:db -- --fixtures && npx tsx --test tests/chat*.test.ts` (also `chat-memory`, `chat-store`) (LLM fetch is mocked).

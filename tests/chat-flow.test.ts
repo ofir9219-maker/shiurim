@@ -90,3 +90,14 @@ test("model/effort validation and retry without rejected param", async () => {
     } finally { globalThis.fetch = orig; }
   } finally { delete process.env.OPENAI_API_KEY; delete process.env.CHAT_MODELS; resetModelsCache(); }
 });
+
+test("long conversation returns rolling memory in the done event (no key)", async () => {
+  delete process.env.OPENAI_API_KEY;
+  const msgs = Array.from({ length: 15 }, (_, i) => ({ role: (i % 2 ? "assistant" : "user") as "user" | "assistant", content: i % 2 ? "respuesta" : `pregunta ${i} sobre Meematai` }));
+  msgs.push({ role: "user", content: "¿Y el Shemá?" });
+  const evs: Ev[] = []; for await (const e of chat(msgs, undefined, {}, "")) evs.push(e as Ev);
+  const done = evs.at(-1) as any;
+  assert.equal(done.condensed, 10); assert.match(done.memory, /^Preguntas anteriores: pregunta 0/);
+  const short: Ev[] = []; for await (const e of chat([{ role: "user", content: "Meematai" }], undefined, {}, "algo")) short.push(e as Ev);
+  assert.equal((short.at(-1) as any).memory, undefined);
+});
