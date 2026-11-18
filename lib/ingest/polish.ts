@@ -121,15 +121,34 @@ export async function makeMeta(polished: Seg[], inv: { name: string; order: stri
   throw new Error(`meta inválida: ${errs.join("; ")}`);
 }
 
+const KEEP_META_SCHEMA = { type: "object", additionalProperties: false, required: ["summary", "tags"], properties: { summary: { type: "string" }, tags: { type: "array", items: { type: "string" } } } } as const;
+const KEEP_META_SYSTEM = "Generas los metadatos de una clase a partir de su transcripción ya pulida.\n- summary: 2-3 oraciones en español.\n- tags: 5-10 tags cortos en español (minúsculas salvo nombres propios). Sin letras hebreas.";
+/** Meta for collections that keep the original file name: summary + tags only. */
+export async function makeKeepMeta(polished: Seg[], inv: { name: string }, d: PolishDeps): Promise<Meta> {
+  const base = `Nombre original del archivo: ${inv.name}\n\nTranscripción pulida:\n${compact(polished, 200)}`;
+  let errs: string[] = [];
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const r = await d.llm<{ summary: string; tags: string[] }>({ system: KEEP_META_SYSTEM, user: attempt ? `${base}\n\nERRORES DEL INTENTO ANTERIOR: ${errs.join("; ")}` : base, schema: KEEP_META_SCHEMA, name: "class_meta_keep" });
+    d.onUsage?.(r.usage);
+    errs = [];
+    if (!r.data.summary?.trim()) errs.push("summary vacío");
+    if (r.data.tags.length < 3) errs.push("tags insuficientes");
+    if (HEB.test(r.data.summary) || r.data.tags.some((t) => HEB.test(t))) errs.push("summary y tags deben estar en español (sin letras hebreas)");
+    if (!errs.length) return { summary: r.data.summary.trim(), tags: r.data.tags.map((t) => t.trim()).filter(Boolean), daf: [], title: inv.name.replace(/\.[A-Za-z0-9]{2,4}$/, ""), newName: inv.name };
+    d.log?.(`meta: ${errs.join("; ")}`);
+  }
+  throw new Error(`meta inválida: ${errs.join("; ")}`);
+}
+
 export type PolishResult = { polished: Seg[]; gapPolished: Seg[]; meta: Meta };
-export async function polishClass(o: { segments: Seg[]; gapSegments: Seg[]; inv: { name: string; order: string; ext: string } }, d: PolishDeps): Promise<PolishResult> {
+export async function polishClass(o: { segments: Seg[]; gapSegments: Seg[]; inv: { name: string; order: string; ext: string }; keepName?: boolean }, d: PolishDeps): Promise<PolishResult> {
   const { ctxText, sefaria } = await getContext(o.segments, o.inv, d);
   const texts = await polishTexts("main", o.segments, ctxText, sefaria, d);
   const polished = o.segments.map((s, i) => ({ startMs: s.startMs, endMs: s.endMs, text: texts[i] }));
   const gt = o.gapSegments.length ? await polishTexts("gap", o.gapSegments, ctxText, sefaria, d) : [];
   const gapPolished = o.gapSegments.map((s, i) => ({ startMs: s.startMs, endMs: s.endMs, text: gt[i] }));
   const metaCached = d.cache?.get<Meta>("meta");
-  const meta = metaCached ?? (await makeMeta([...polished, ...gapPolished].sort((a, b) => a.startMs - b.startMs), o.inv, d));
+  const meta = metaCached ?? (await (o.keepName ? makeKeepMeta : makeMeta)([...polished, ...gapPolished].sort((a, b) => a.startMs - b.startMs), o.inv, d));
   d.cache?.set("meta", meta);
   if (pctInaudible([...polished, ...gapPolished].map((s) => s.text)) > 0.2) meta.needsReview = true;
   return { polished, gapPolished, meta };

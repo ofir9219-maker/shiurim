@@ -61,6 +61,7 @@ export default function AdminPage() {
   const e = st.config.env;
   return wrap(<>
     <h1 style={{ fontSize: 24, marginBottom: 12 }}>Ingesta automática</h1>
+    <p style={{ marginBottom: 12 }}><a href="/admin/drive" style={{ ...btn, textDecoration: "none", display: "inline-block" }}>Centro de transcripción de Drive →</a></p>
     {msg && <p role="status" style={{ ...box, padding: 10 }}>{msg}</p>}
     <section style={box}>
       <h2 style={{ fontSize: 16, marginBottom: 8 }}>Conexión</h2>

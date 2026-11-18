@@ -463,3 +463,46 @@ body:has(.player-bar) .chat-box { height: calc(100dvh - 8rem - var(--bar-h) - en
   a.card:hover, button.card:hover { transform: none; }
 }
 @media print { .site-header, .player-bar, .toolbar { display: none; } body { padding: 0; } body::before { display: none; } }
+
+/* ---- Admin: Drive transcription center (reuses tokens; see docs/DESIGN.md) ---- */
+.dc { max-width: var(--w-wide); margin: 0 auto; padding: var(--sp-5) var(--gutter) calc(var(--sp-8) + 80px); color: var(--text); font-family: var(--font-ui); }
+.dc h1 { font-family: var(--font-display); font-size: var(--fs-2xl); color: var(--ink); margin: 6px 0 var(--sp-3); }
+.dc h2 { font-family: var(--font-display); font-size: var(--fs-lg); color: var(--ink); margin: 0 0 var(--sp-2); }
+.dc-login { max-width: 360px; margin: 60px auto; padding: var(--sp-5); display: grid; gap: var(--sp-3); }
+.dc-err { color: var(--danger); font-size: var(--fs-sm); margin: 0; }
+.dc-bar { display: flex; flex-wrap: wrap; gap: var(--sp-2); align-items: center; margin-bottom: var(--sp-3); }
+.dc-bar .grow { flex: 1 1 200px; min-width: 0; }
+.dc-strip { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: var(--sp-3); }
+.dc-grid { display: grid; gap: var(--sp-4); grid-template-columns: minmax(0, 1fr); align-items: start; }
+@media (min-width: 900px) { .dc-grid { grid-template-columns: 260px minmax(0, 1fr); } }
+.dc-tree { padding: var(--sp-3); max-height: 70vh; overflow: auto; font-size: var(--fs-sm); }
+.dc-tree ul { list-style: none; margin: 0; padding-inline-start: 14px; }
+.dc-tree > ul { padding: 0; }
+.dc-tn { display: flex; align-items: center; gap: 4px; min-height: 36px; }
+.dc-tn button { background: none; border: 0; color: inherit; cursor: pointer; font: inherit; padding: 4px 6px; border-radius: var(--r-sm); text-align: start; }
+.dc-tn button:hover { background: var(--gold-soft); }
+.dc-tn .cur { font-weight: 600; color: var(--ink); background: var(--gold-soft); }
+.dc-crumbs { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; font-size: var(--fs-sm); margin-bottom: var(--sp-2); }
+.dc-crumbs button { background: none; border: 0; color: var(--gold-strong); cursor: pointer; font: inherit; padding: 6px 4px; min-height: 36px; }
+.dc-list { list-style: none; margin: 0; padding: 0; }
+.dc-row { display: grid; grid-template-columns: 28px 28px minmax(0, 1fr) auto; gap: 10px; align-items: center; padding: 10px var(--sp-3); border-bottom: 1px solid var(--line); min-height: 56px; }
+.dc-row:hover { background: var(--gold-soft); }
+.dc-row input[type=checkbox] { width: 22px; height: 22px; accent-color: var(--ink); }
+.dc-name { min-width: 0; overflow-wrap: anywhere; }
+.dc-name button { background: none; border: 0; padding: 0; font: inherit; color: var(--ink); cursor: pointer; text-align: start; }
+.dc-name small { display: block; color: var(--muted); font-size: var(--fs-xs); }
+.dc-acts { display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-end; align-items: center; }
+.dc-row .badge[data-s="error"] { color: var(--danger); border-color: var(--danger); }
+.dc-row .badge[data-s="polished"], .dc-row .badge[data-s="transcribed"] { color: var(--gold-strong); border-color: var(--gold-line); }
+.dc-row .badge[data-s="queued"], .dc-row .badge[data-s="transcribing"], .dc-row .badge[data-s="polishing"], .dc-row .badge[data-s="pending_package"] { background: var(--gold-soft); }
+.dc-sel { position: fixed; inset-inline: 0; bottom: 0; z-index: 50; background: var(--overlay); backdrop-filter: blur(10px); border-top: 1px solid var(--line-strong); padding: 10px var(--gutter) calc(10px + env(safe-area-inset-bottom)); display: flex; gap: 10px; align-items: center; justify-content: center; flex-wrap: wrap; }
+.dc-form { display: grid; gap: var(--sp-3); }
+.dc-form label { display: grid; gap: 4px; font-size: var(--fs-sm); color: var(--muted); }
+.dc-form .src { font-size: var(--fs-xs); color: var(--gold-strong); }
+.dc-form fieldset { border: 1px solid var(--line); border-radius: var(--r-md); padding: var(--sp-3); display: grid; gap: var(--sp-3); margin: 0; }
+.dc-form legend { font-size: var(--fs-xs); letter-spacing: .12em; text-transform: uppercase; color: var(--gold-strong); padding: 0 6px; }
+.dc-table { width: 100%; border-collapse: collapse; font-size: var(--fs-sm); }
+.dc-table td, .dc-table th { text-align: start; padding: 6px 4px; border-bottom: 1px solid var(--line); }
+.dc-log { font: 12px/1.5 ui-monospace, monospace; white-space: pre-wrap; background: var(--bg-deep); padding: var(--sp-3); border-radius: var(--r-md); max-height: 55vh; overflow: auto; }
+.dc-prev { font-family: var(--font-he); font-size: 1.15rem; direction: rtl; text-align: right; padding: 10px; border: 1px dashed var(--gold-line); border-radius: var(--r-md); background: var(--surface-2); overflow-wrap: anywhere; }
+.drawer .dc-x { position: sticky; top: 0; display: flex; justify-content: space-between; align-items: center; background: var(--surface); padding-bottom: 8px; z-index: 1; }

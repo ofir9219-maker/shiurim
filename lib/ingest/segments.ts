@@ -1,7 +1,8 @@
+import { clipSegments, rawDocSegments } from "../center/fal-models";
 // Scribe words -> segments (port of scripts/normalize.py scribe()), gap/hollow detection (find-gaps.py),
 // gap-fill segments (gaps-to-segments.py) and the final merge used by build-db.
 export type Word = { text: string; type?: string; start: number; end: number; [k: string]: unknown };
-export type ScribeResult = { words: Word[]; text?: string; [k: string]: unknown };
+export type ScribeResult = { words: Word[]; chunks?: unknown; text?: string; [k: string]: unknown };
 export type RawPart = { part: number; offsetMs: number; durationMs: number; result: ScribeResult };
 export type RawDoc = { model: string; parts: RawPart[] };
 export type Seg = { startMs: number; endMs: number; text: string };
@@ -45,7 +46,9 @@ export function wordsToSegments(words: Word[], offsetMs = 0): Seg[] {
   }
   return segs;
 }
-export const rawToSegments = (raw: RawDoc): Seg[] => wordsToSegments(stitchWords(raw.parts));
+const stitchedSegments = (parts: RawDoc["parts"]): Seg[] => wordsToSegments(stitchWords(parts));
+/** Segments of a raw document of any Fal model (Scribe words / Wizper-Whisper chunks). */
+export const rawToSegments = (raw: RawDoc): Seg[] => rawDocSegments(raw, stitchedSegments);
 
 /** Gaps >40 s between Scribe segments (incl. before the first / after the last), padded by 1 s (find-gaps.py). */
 export function findGaps(segs: Seg[], durationMs: number, minMs = 40000): Gap[] {
@@ -70,9 +73,8 @@ const overlaps = (a: Seg, b: Seg) => a.startMs < b.endMs && b.startMs < a.endMs;
 
 /** Segments of one transcribed clip (clipStartMs = where the clip was cut). Keeps only those not overlapping existing base segments
  * (for hollow clips the hollow segment itself is excluded from `base`). */
-export function gapClipToSegments(result: ScribeResult, clipStartMs: number, base: Seg[], ignoreStartMs?: number): Seg[] {
-  const words = result.words.filter((w) => (w.type ?? "word") !== "audio_event");
-  const segs = wordsToSegments(words, clipStartMs);
+export function gapClipToSegments(result: ScribeResult, clipStartMs: number, base: Seg[], ignoreStartMs?: number, model?: string): Seg[] {
+  const segs = clipSegments(model ?? "", result, clipStartMs, (r, off) => wordsToSegments(r.words.filter((w) => (w.type ?? "word") !== "audio_event"), off));
   const b = ignoreStartMs === undefined ? base : base.filter((x) => x.startMs !== ignoreStartMs);
   return segs.filter((s) => !b.some((x) => overlaps(s, x)));
 }

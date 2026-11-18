@@ -1,4 +1,21 @@
-# Ingesta automática (Drive → R2 → Fal → OpenAI → sitio)
+# Centro de transcripción de Drive (guía de administración)
+
+> Fase 1: carpeta General, series (colecciones), explorador `/admin/drive`, transcripción con Fal y salidas `.md`/`.json` en Drive. Las secciones siguientes se completan en las fases 2–4. El resto de este documento es la guía técnica de la ingesta original (que sigue vigente: la serie «ברכות שר לשמחה» es la colección #1).
+
+## Uso rápido (Fase 1)
+1. Entra a `/admin` → **Centro de transcripción de Drive** (`/admin/drive`).
+2. **Carpeta General**: la primera vez eliges, navegando por tu Drive, la carpeta que contiene tus series (se guarda en `$STORAGE_DIR/center.json`). Se puede cambiar cuando quieras.
+3. **Series**: pulsa «⚙ Ajustes» en cualquier carpeta y guarda: esa carpeta pasa a ser una serie (`$STORAGE_DIR/collections.json`). Cada ajuste puede quedar en «Heredar»: se toma de la serie superior más cercana (se muestra «heredado de …») o de los valores del sistema. Ajustes: modelo Fal (Scribe v2 por defecto, Scribe v1, Wizper, Whisper), idioma, sincronización automática, posproceso (sin pulido / OpenAI), modelo y esfuerzo OpenAI, nombres (mantener / plantilla) y **Publicar en la web** (por carpeta).
+4. **Transcribir**: marca carpetas o audios → «Transcribir selección» → se muestra el **estimado** (minutos, costo Fal por modelo, OpenAI aproximado, tiempo) → «Confirmar y encolar». Las carpetas se recorren recursivamente. Los audios que ya tienen un `.md` (p. ej. de Plaud) se re-transcriben con Fal.
+5. Resultado en Drive junto al audio, **mismo nombre base**: `<nombre>.md` (formato de `polished-to-md.py`, crudo si no hay pulido) y `<nombre>.json` (`{version, audioId, model, segments:[{startMs,endMs,text}], summary?, tags?, meta}`). Si existen se actualizan; nunca se borra un audio.
+6. Estados: sin transcribir · en cola · transcribiendo · transcrito · pulido en curso · pulido · paquete pendiente · error (reintentar / ver log / abrir en Drive / abrir en la web).
+7. Auto-sync: las series con sincronización automática se revisan cada `INGEST_POLL_MINUTES` (recorrido por carpeta, sin la API de cambios); un audio nuevo se encola cuando su tamaño es estable en 2 revisiones y no tiene ya un `<nombre>.json` al lado.
+8. Costos por serie en `/admin/drive` (estado) y totales en `/admin`.
+
+Modelos Fal: partes de 19 min para Scribe (palabras con tiempos), 25 min para Wizper/Whisper (segmentos ≤29 s); todos se normalizan al mismo formato `{startMs,endMs,text}` (`lib/center/fal-models.ts`). Precios por defecto: Scribe v2 US$0.008/min, Scribe v1 US$0.03/min, Wizper/Whisper ≈ US$0.0011 por segundo de cómputo (estimado ~4–8 s de cómputo por minuto de audio); ajustables con `FAL_USD_PER_MIN`, `FAL_USD_PER_MIN_SCRIBE_V1`, `FAL_USD_PER_COMPUTE_SEC_WIZPER`, `FAL_WIZPER_COMPUTE_SEC_PER_MIN`, etc.
+
+---
+# Ingesta automática original (Drive → R2 → Fal → OpenAI → sitio)
 
 Cuando se sube un audio nuevo a la carpeta de Drive `1qjOmvVykyiYnODxTdUEnBqiNgQkqgUp5`, el servidor (siempre encendido en Railway) lo detecta, lo transcribe, lo pule siguiendo `prompts/polish.md`, lo renombra en Drive, crea el `.md` y lo publica en el sitio, sin aprobación humana.
 

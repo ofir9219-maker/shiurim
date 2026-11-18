@@ -1,18 +1,19 @@
-// Fal Scribe v2 via the queue REST API.
+// Fal speech-to-text via the queue REST API (any of the supported models).
 import { fetchRetry, okJson, sleep } from "./http";
 import type { ScribeResult } from "./segments";
+import { DEFAULT_FAL_MODEL, DEFAULT_LANGUAGE, falInput, hasUsableOutput, type FalModelId } from "../center/fal-models";
 
-export const FAL_ENDPOINT = "fal-ai/elevenlabs/speech-to-text/scribe-v2";
-export type Transcriber = (audioUrl: string, label: string) => Promise<ScribeResult>;
+export const FAL_ENDPOINT = DEFAULT_FAL_MODEL;
+export type TranscribeOpts = { model?: FalModelId; language?: string };
+export type Transcriber = (audioUrl: string, label: string, opts?: TranscribeOpts) => Promise<ScribeResult>;
 
-export const falTranscribe: Transcriber = async (audioUrl, label) => {
+export const falTranscribe: Transcriber = async (audioUrl, label, opts = {}) => {
   const key = process.env.FAL_KEY;
   if (!key) throw new Error("FAL_KEY no configurada");
+  const model = opts.model ?? DEFAULT_FAL_MODEL;
   const headers = { authorization: `Key ${key}`, "content-type": "application/json" };
   const sub = await okJson<{ request_id: string; status_url: string; response_url: string }>(
-    await fetchRetry(`https://queue.fal.run/${FAL_ENDPOINT}`, {
-      method: "POST", headers, body: JSON.stringify({ audio_url: audioUrl, language_code: "spa", tag_audio_events: false, diarize: false }),
-    }), `fal submit ${label}`);
+    await fetchRetry(`https://queue.fal.run/${model}`, { method: "POST", headers, body: JSON.stringify(falInput(model, audioUrl, opts.language ?? DEFAULT_LANGUAGE)) }), `fal submit ${label}`);
   const started = Date.now();
   for (;;) {
     await sleep(Number(process.env.FAL_POLL_MS || 5000));
@@ -23,6 +24,6 @@ export const falTranscribe: Transcriber = async (audioUrl, label) => {
   }
   const res = await fetchRetry(sub.response_url, { headers });
   const j = await okJson<ScribeResult>(res, `fal result ${label}`);
-  if (!Array.isArray(j.words)) throw new Error(`fal ${label}: response without words`);
+  if (!hasUsableOutput(model, j)) throw new Error(`fal ${label}: respuesta sin ${model.includes("wizper") || model.endsWith("/whisper") ? "chunks" : "words"}`);
   return j;
 };

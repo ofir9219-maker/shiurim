@@ -3,10 +3,13 @@ import fs from "node:fs";
 import path from "node:path";
 import { INGEST_DIR, allInventory } from "../storage";
 import * as drive from "./drive";
+import { berajotCollection, listCollections, resolveSettings } from "../center/collections";
+import { NO_COLLECTION, ancestorPath, jobCfg, walkAudio, type Candidate } from "../center/jobs";
 import { parseOrder, nextOrder, splitExt } from "./naming";
+import { clearArtifacts } from "./artifacts";
 import { makeSteps } from "./pipeline";
 import { runItem } from "./runner";
-import { isRunnable, loadState, newItem, observeFile, retryItem, saveState, addLog, type State } from "./state";
+import { isRunnable, loadState, newItem, observeFile, retryItem, saveState, addLog, type Item, type State } from "./state";
 
 const g = globalThis as unknown as { __ingest?: Scheduler };
 const LOCK = () => path.join(INGEST_DIR, "ingest.lock");
@@ -57,38 +60,82 @@ class Scheduler {
     await this.work();
   }
 
+  /** Auto-sync: every collection whose resolved autoSync is on is walked (recursively, except sub-collections that sync on their own). */
   async poll(): Promise<{ files: number; newFiles: number }> {
     if (this.checking) return { files: 0, newFiles: 0 };
     this.checking = true;
     const s = this.state;
     try {
       if (!drive.driveConnected()) throw new Error("Google Drive no conectado");
-      const files = (await drive.listFolder()).filter(drive.isAudio);
-      const known = new Set([...allInventory().map((i) => i.id), ...Object.keys(s.items)]);
-      let unstable = 0, queued = 0;
-      for (const f of files) {
-        if (known.has(f.id)) { delete s.seen[f.id]; continue; }
-        const size = Number(f.size || 0);
-        if (!size || !observeFile(s.seen, f.id, size)) { unstable++; continue; }
-        const { ext } = splitExt(f.name);
-        const inv = allInventory();
-        const order = parseOrder(f.name) ?? nextOrder([...inv.map((i) => i.order), ...Object.values(s.items).map((i) => i.order)]);
-        const it = newItem({ id: f.id, name: f.name, ext, mimeType: f.mimeType, sizeBytes: size, order });
-        addLog(it, `detectado: ${f.name} (${(size / 1e6).toFixed(1)} MB), orden ${order}`);
-        s.items[f.id] = it; delete s.seen[f.id]; queued++;
-        log(`nuevo audio ${f.name} -> ${f.id}`);
+      let files = 0, unstable = 0, queued = 0;
+      for (const col of listCollections()) {
+        const path = await ancestorPath(col.folderId);
+        if (!resolveSettings(path).settings.autoSync) continue;
+        const cands = await walkAudio(col.folderId, path, { skipCollections: true });
+        files += cands.length;
+        const known = new Set([...allInventory().map((i) => i.id), ...Object.keys(s.items)]);
+        for (const cand of cands) {
+          const f = cand.file;
+          if (known.has(f.id)) { delete s.seen[f.id]; continue; }
+          if (cand.hasJson) continue; // already has our <name>.json next to it
+          const size = Number(f.size || 0);
+          if (!size || !observeFile(s.seen, f.id, size)) { unstable++; continue; }
+          const it = this.makeItem(cand);
+          addLog(it, `detectado: ${f.name} (${(size / 1e6).toFixed(1)} MB), orden ${it.order}, serie ${it.cfg?.collectionName}`);
+          s.items[f.id] = it; delete s.seen[f.id]; queued++;
+          log(`nuevo audio ${f.name} -> ${f.id}`);
+        }
       }
-      s.lastPoll = { at: new Date().toISOString(), ok: true, files: files.length, newFiles: queued };
+      s.lastPoll = { at: new Date().toISOString(), ok: true, files, newFiles: queued };
       // re-check soon while uploads are in progress
       this.nextPollAt = Date.now() + (unstable ? 90_000 : pollMinutes() * 60_000);
       this.persist();
-      return { files: files.length, newFiles: queued };
+      return { files, newFiles: queued };
     } catch (e) {
       s.lastPoll = { at: new Date().toISOString(), ok: false, files: 0, newFiles: 0, error: (e as Error).message };
       this.nextPollAt = Date.now() + pollMinutes() * 60_000;
       this.persist(); log(`poll falló: ${(e as Error).message}`);
       throw e;
     } finally { this.checking = false; }
+  }
+
+  makeItem(cand: Candidate): Item {
+    const f = cand.file, s = this.state;
+    const res = resolveSettings(cand.path);
+    const collectionId = res.collection?.folderId ?? NO_COLLECTION;
+    const inv = allInventory().filter((i) => (i.collectionId ?? berajotCollection().folderId) === collectionId).map((i) => i.order);
+    const mine = Object.values(s.items).filter((i) => (i.collectionId ?? berajotCollection().folderId) === collectionId).map((i) => i.order);
+    const order = parseOrder(f.name) ?? nextOrder([...inv, ...mine]);
+    const it = newItem({ id: f.id, name: f.name, ext: splitExt(f.name).ext, mimeType: f.mimeType, sizeBytes: Number(f.size || 0), order, collectionId, parentId: cand.parentId, cfg: jobCfg(res),
+      durationMs: f.videoMediaMetadata?.durationMillis ? Number(f.videoMediaMetadata.durationMillis) : undefined });
+    return it;
+  }
+
+  /** Manual enqueue from the Drive browser. `force` re-runs files that are done or failed (artifacts are cleared; the audio is never deleted). */
+  enqueue(cands: Candidate[], force = true): { queued: number; skipped: number } {
+    let queued = 0, skipped = 0;
+    for (const cand of cands) {
+      const ex = this.state.items[cand.file.id];
+      if (ex && (ex.status === "running" || (ex.status === "queued" && !force))) { skipped++; continue; }
+      if (ex && !force) { skipped++; continue; }
+      const it = this.makeItem(cand);
+      if (ex) { // keep history and cumulative costs
+        it.log = ex.log; it.cost = ex.cost; it.createdAt = ex.createdAt; it.mdId = ex.mdId; it.jsonId = ex.jsonId;
+        clearArtifacts(ex.id);
+        addLog(it, "reencolado manualmente");
+      } else addLog(it, `en cola desde el explorador: ${cand.file.name}`);
+      it.manual = true;
+      this.state.items[it.id] = it; queued++;
+    }
+    this.persist(); void this.work();
+    return { queued, skipped };
+  }
+  /** Remove a queued (not running) job from the queue. */
+  cancel(id: string): boolean {
+    const it = this.state.items[id];
+    if (!it || it.status === "running") return false;
+    if (it.state === "detected" || it.status !== "done") { delete this.state.items[id]; this.persist(); return true; }
+    return false;
   }
 
   async work() {

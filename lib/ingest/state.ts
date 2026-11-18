@@ -1,19 +1,23 @@
 // Per-file state machine + persistent ingest state ($STORAGE_DIR/ingest/state.json).
 import path from "node:path";
 import { INGEST_DIR, readJson, writeJson } from "../storage";
+import type { Resolved } from "../center/collections";
 
 export const STATES = ["detected", "uploaded", "transcribed", "polished", "renamed", "indexed"] as const;
 export type StepState = (typeof STATES)[number];
-export type Status = "queued" | "running" | "failed" | "done";
+export type Status = "queued" | "running" | "failed" | "done" | "waiting";
 export const MAX_ATTEMPTS = 8;
 
-export type Cost = { falMinutes: number; promptTokens: number; completionTokens: number };
+export type Cost = { falMinutes: number; promptTokens: number; completionTokens: number; falUsd?: number; openaiUsd?: number };
 export type Item = {
   id: string; name: string; ext: string; mimeType: string; sizeBytes: number; order: string;
   state: StepState; status: Status; attempts: number; nextAttemptAt?: number; error?: string;
-  newName?: string; title?: string; mdId?: string; durationMs?: number; needsReview?: boolean; dafNote?: string; r2Key?: string;
+  /** Collection (Drive folder id) this file belongs to, its Drive parent, and the settings resolved when it was queued. */
+  collectionId?: string; parentId?: string; cfg?: JobCfg; origName?: string; manual?: boolean;
+  newName?: string; title?: string; mdId?: string; jsonId?: string; durationMs?: number; needsReview?: boolean; dafNote?: string; r2Key?: string;
   cost: Cost; log: { at: string; msg: string }[]; createdAt: string; updatedAt: string; finishedAt?: string;
 };
+export type JobCfg = Resolved & { published: boolean; collectionName: string; slug: string };
 export type Seen = { size: number; polls: number; firstSeen: string };
 export type State = {
   items: Record<string, Item>; seen: Record<string, Seen>;
@@ -28,8 +32,8 @@ export const nextState = (s: StepState): StepState | null => STATES[STATES.index
 /** Exponential backoff: 1, 2, 4 … min, capped at 60 min. */
 export const backoffMs = (attempts: number) => Math.min(60, 2 ** Math.max(0, attempts - 1)) * 60_000;
 
-export function newItem(f: { id: string; name: string; ext: string; mimeType: string; sizeBytes: number; order: string }, now = new Date()): Item {
-  return { ...f, state: "detected", status: "queued", attempts: 0, cost: emptyCost(), log: [], createdAt: now.toISOString(), updatedAt: now.toISOString() };
+export function newItem(f: { id: string; name: string; ext: string; mimeType: string; sizeBytes: number; order: string } & Partial<Pick<Item, "collectionId" | "parentId" | "cfg" | "manual" | "durationMs">>, now = new Date()): Item {
+  return { ...f, origName: f.name, state: "detected", status: "queued", attempts: 0, cost: emptyCost(), log: [], createdAt: now.toISOString(), updatedAt: now.toISOString() };
 }
 export function addLog(it: Item, msg: string, now = new Date()) {
   it.log.push({ at: now.toISOString(), msg }); if (it.log.length > 300) it.log.splice(0, it.log.length - 300);

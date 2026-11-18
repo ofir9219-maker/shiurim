@@ -8,7 +8,7 @@ export const SCHEMA = `
 CREATE TABLE IF NOT EXISTS classes(
   id TEXT PRIMARY KEY, ord REAL, ord_label TEXT, title TEXT, file_name TEXT,
   daf TEXT, daf_label TEXT, duration_ms INTEGER, summary TEXT, tags TEXT,
-  audio_url TEXT, r2_key TEXT, has_transcript INTEGER DEFAULT 0
+  audio_url TEXT, r2_key TEXT, has_transcript INTEGER DEFAULT 0, collection_id TEXT DEFAULT 'berajot'
 );
 CREATE TABLE IF NOT EXISTS segments(
   id INTEGER PRIMARY KEY, class_id TEXT NOT NULL, idx INTEGER, start_ms INTEGER, end_ms INTEGER, text TEXT
@@ -32,7 +32,7 @@ CREATE TABLE IF NOT EXISTS class_vecs(class_id TEXT PRIMARY KEY, hash TEXT, embe
 export type ClassRow = {
   id: string; ord: number; ord_label: string; title: string; file_name: string;
   daf: string; daf_label: string; duration_ms: number; summary: string; tags: string;
-  audio_url: string | null; r2_key: string | null; has_transcript: number;
+  audio_url: string | null; r2_key: string | null; has_transcript: number; collection_id?: string | null;
 };
 
 export function openDb(opts: { readonly?: boolean; create?: boolean } = {}): Database.Database {
@@ -41,6 +41,9 @@ export function openDb(opts: { readonly?: boolean; create?: boolean } = {}): Dat
   if (opts.create) {
     db.pragma("journal_mode = WAL");
     db.exec(SCHEMA);
+    // Databases created before collections existed: add the column (all old rows are the Berajot series).
+    const cols = db.prepare("PRAGMA table_info(classes)").all() as { name: string }[];
+    if (!cols.some((c) => c.name === "collection_id")) db.exec("ALTER TABLE classes ADD COLUMN collection_id TEXT DEFAULT 'berajot'");
   }
   return db;
 }
@@ -73,15 +76,16 @@ export function rowToClass(r: ClassRow, audioUrl: string): ClassSummary {
   };
 }
 
-export function listClasses(opts: { daf?: string } = {}): ClassRow[] {
+/** `collection` = series slug (or list of slugs); omitted = every class in the DB (the DB only holds published series). */
+export function listClasses(opts: { daf?: string; collection?: string | string[] } = {}): ClassRow[] {
   const db = getDb();
   if (!db) return [];
-  if (opts.daf) {
-    return db.prepare(
-      `SELECT * FROM classes c WHERE EXISTS (SELECT 1 FROM json_each(c.daf) j WHERE json_extract(j.value,'$.daf') = ?) ORDER BY ord, id`
-    ).all(opts.daf) as ClassRow[];
-  }
-  return db.prepare(`SELECT * FROM classes ORDER BY ord, id`).all() as ClassRow[];
+  const cols = opts.collection === undefined ? [] : Array.isArray(opts.collection) ? opts.collection : [opts.collection];
+  const hasCol = (db.prepare("PRAGMA table_info(classes)").all() as { name: string }[]).some((c) => c.name === "collection_id");
+  const where: string[] = []; const args: unknown[] = [];
+  if (opts.daf) { where.push("EXISTS (SELECT 1 FROM json_each(c.daf) j WHERE json_extract(j.value,'$.daf') = ?)"); args.push(opts.daf); }
+  if (cols.length && hasCol) { where.push(`COALESCE(c.collection_id,'berajot') IN (${cols.map(() => "?").join(",")})`); args.push(...cols); }
+  return db.prepare(`SELECT * FROM classes c ${where.length ? "WHERE " + where.join(" AND ") : ""} ORDER BY ord, id`).all(...args) as ClassRow[];
 }
 
 export function getClass(id: string): ClassRow | undefined {

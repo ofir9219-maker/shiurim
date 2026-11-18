@@ -7,6 +7,7 @@ import { openDb } from "../lib/db";
 import { embedTexts, hasEmbeddingKey, vecToBlob, EMBEDDING_MODEL, EMBEDDING_DIMS } from "../lib/embeddings";
 import { setupProxy } from "../lib/proxy";
 import { STORAGE_DATA } from "../lib/storage";
+import { berajotCollection, listCollections } from "../lib/center/collections";
 import { normText } from "../lib/translit";
 
 const root = process.cwd();
@@ -15,7 +16,7 @@ const useFixtures = process.argv.includes("--fixtures");
 const r2Map: Record<string, string> = fs.existsSync(path.join(root, "data", "r2-keys.json"))
   ? JSON.parse(fs.readFileSync(path.join(root, "data", "r2-keys.json"), "utf8")) : {};
 
-type Inv = { id: string; name: string; order: string; ext: string; durationMs: number };
+type Inv = { id: string; name: string; order: string; ext: string; durationMs: number; collectionId?: string };
 type Seg = { startMs: number; endMs: number; text: string };
 type Pol = { id: string; segments: Seg[]; summary?: string; tags?: string[]; daf?: { daf: string; amud: string }[]; title?: string; newName?: string };
 
@@ -34,6 +35,11 @@ if (fixtureMode && !useFixtures) console.log("No polished files; classes listed 
 
 const inventory: Inv[] = JSON.parse(fs.readFileSync(invPath, "utf8"));
 if (!useFixtures) { const have = new Set(inventory.map((i) => i.id)); for (const i of readArr<Inv>(sd("inventory.json"))) if (!have.has(i.id)) inventory.push(i); }
+// Only published collections reach the site's DB. Classes without collectionId are the original Berajot series.
+const collByFolder = new Map(listCollections().map((c) => [c.folderId, c]));
+const berajotId = berajotCollection().folderId;
+const slugOf = (i: Inv) => (useFixtures ? "berajot" : collByFolder.get(i.collectionId ?? berajotId)?.published ? collByFolder.get(i.collectionId ?? berajotId)!.slug : null);
+for (let k = inventory.length - 1; k >= 0; k--) if (!slugOf(inventory[k])) inventory.splice(k, 1);
 const amud = (a: string) => (a === "ב" ? "ע״ב" : "ע״א");
 const dafLabel = (d: { daf: string; amud: string }[]) => d.map((x) => `${x.daf} ${amud(x.amud)}`).join(", ");
 const stripExt = (n: string) => n.replace(/\.[a-z0-9]{2,4}$/i, "").replace(/^\s*[\d.]+\s*[.\-–]\s*/, "").trim();
@@ -53,22 +59,24 @@ const tx = db.transaction(() => {
       db.prepare("DELETE FROM classes WHERE id=?").run(id);
     }
   }
-  const upC = db.prepare(`INSERT INTO classes(id,ord,ord_label,title,file_name,daf,daf_label,duration_ms,summary,tags,audio_url,r2_key,has_transcript)
-    VALUES(@id,@ord,@ord_label,@title,@file_name,@daf,@daf_label,@duration_ms,@summary,@tags,@audio_url,@r2_key,@has)
+  const upC = db.prepare(`INSERT INTO classes(id,ord,ord_label,title,file_name,daf,daf_label,duration_ms,summary,tags,audio_url,r2_key,has_transcript,collection_id)
+    VALUES(@id,@ord,@ord_label,@title,@file_name,@daf,@daf_label,@duration_ms,@summary,@tags,@audio_url,@r2_key,@has,@collection_id)
     ON CONFLICT(id) DO UPDATE SET ord=@ord,ord_label=@ord_label,title=@title,file_name=@file_name,daf=@daf,daf_label=@daf_label,
-      duration_ms=@duration_ms,summary=@summary,tags=@tags,audio_url=@audio_url,r2_key=@r2_key,has_transcript=@has`);
+      duration_ms=@duration_ms,summary=@summary,tags=@tags,audio_url=@audio_url,r2_key=@r2_key,has_transcript=@has,collection_id=@collection_id`);
   db.exec("INSERT INTO segments_fts(segments_fts) VALUES('delete-all')");
   db.exec("DELETE FROM segments");
   const insS = db.prepare("INSERT INTO segments(class_id,idx,start_ms,end_ms,text) VALUES(?,?,?,?,?)");
   for (const inv of inventory) {
     let pf = path.join(pDir, `${inv.id}.json`);
-    if (!useFixtures && !fs.existsSync(pf) && fs.existsSync(sd("polished", `${inv.id}.json`))) pf = sd("polished", `${inv.id}.json`);
+    // A transcript processed at runtime (volume) is newer than the repo copy: it wins, with its own gap-fill.
+    const fromVolume = !useFixtures && fs.existsSync(sd("polished", `${inv.id}.json`));
+    if (fromVolume) pf = sd("polished", `${inv.id}.json`);
     const pol: Pol | null = fs.existsSync(pf) ? JSON.parse(fs.readFileSync(pf, "utf8")) : null;
     // Merge gap-fill segments (re-transcribed stretches Scribe had dropped) by time.
     const gf = path.join(root, "data", "gapfill", `${inv.id}.json`);
     const gf2 = path.join(root, "data", "gapfill2", `${inv.id}.json`);
     const extra: Seg[] = pol
-      ? [gf, gf2, ...(useFixtures ? [] : [sd("gapfill", `${inv.id}.json`)])].flatMap((f) => (fs.existsSync(f) ? (JSON.parse(fs.readFileSync(f, "utf8")) as Seg[]) : []))
+      ? (fromVolume ? [sd("gapfill", `${inv.id}.json`)] : [gf, gf2]).flatMap((f) => (fs.existsSync(f) ? (JSON.parse(fs.readFileSync(f, "utf8")) as Seg[]) : []))
       : [];
     // Drop a "hollow" polished segment (long, almost no text) when recovered segments cover its time range.
     const hollowStarts = new Set(hollow.filter((h) => h.id === inv.id).map((h) => h.startMs));
@@ -82,7 +90,7 @@ const tx = db.transaction(() => {
       id: inv.id, ord: Number.isFinite(ord) ? ord : 9999, ord_label: inv.order, title: pol?.title || stripExt(inv.name),
       file_name: pol?.newName || inv.name, daf: JSON.stringify(daf), daf_label: dafLabel(daf), duration_ms: inv.durationMs || 0,
       summary: pol?.summary || "", tags: JSON.stringify(pol?.tags ?? []), audio_url: null, r2_key: r2Map[inv.id] ?? null,
-      has: segs.length ? 1 : 0,
+      has: segs.length ? 1 : 0, collection_id: slugOf(inv),
     });
     segs.forEach((s, i) => insS.run(inv.id, i, Math.round(s.startMs), Math.round(s.endMs), s.text));
   }

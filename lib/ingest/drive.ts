@@ -12,7 +12,7 @@ export const FOLDER_ID = () => process.env.DRIVE_FOLDER_ID || "1qjOmvVykyiYnODxT
 const TOKEN_FILE = () => path.join(STORAGE_DIR, "google-token.json");
 const API = "https://www.googleapis.com/drive/v3";
 
-export type DriveFile = { id: string; name: string; mimeType: string; size?: string; modifiedTime?: string };
+export type DriveFile = { id: string; name: string; mimeType: string; size?: string; modifiedTime?: string; parents?: string[]; videoMediaMetadata?: { durationMillis?: string } };
 type TokenFile = { refresh_token: string; email?: string; scope?: string; savedAt: string };
 
 export const oauthConfigured = () => !!(process.env.GOOGLE_CLIENT_ID && process.env.GOOGLE_CLIENT_SECRET);
@@ -77,8 +77,29 @@ export async function listFolder(folderId = FOLDER_ID()): Promise<DriveFile[]> {
   return out;
 }
 export async function getMeta(id: string): Promise<DriveFile> {
-  return okJson(await gfetch(`${API}/files/${encodeURIComponent(id)}?fields=id,name,mimeType,size,modifiedTime&supportsAllDrives=true`), "drive get");
+  return okJson(await gfetch(`${API}/files/${encodeURIComponent(id)}?fields=id,name,mimeType,size,modifiedTime,parents,videoMediaMetadata(durationMillis)&supportsAllDrives=true`), "drive get");
 }
+export const FOLDER_MIME = "application/vnd.google-apps.folder";
+export const isFolder = (f: Pick<DriveFile, "mimeType">) => f.mimeType === FOLDER_MIME;
+const FIELDS = "nextPageToken,files(id,name,mimeType,size,modifiedTime,parents,videoMediaMetadata(durationMillis))";
+/** All children of a folder (every page), folders first then by name. */
+export async function listChildren(folderId: string): Promise<DriveFile[]> {
+  const out: DriveFile[] = []; let pageToken = "";
+  do {
+    const q = new URLSearchParams({ q: `'${folderId}' in parents and trashed=false`, fields: FIELDS, pageSize: "1000", orderBy: "folder,name_natural", supportsAllDrives: "true", includeItemsFromAllDrives: "true", ...(pageToken ? { pageToken } : {}) });
+    const j = await okJson<{ files: DriveFile[]; nextPageToken?: string }>(await gfetch(`${API}/files?${q}`), "drive list");
+    out.push(...j.files); pageToken = j.nextPageToken || "";
+  } while (pageToken && out.length < 20000);
+  return out;
+}
+/** Name search anywhere in the user's Drive (caller filters by ancestry). */
+export async function searchByName(text: string, limit = 60): Promise<DriveFile[]> {
+  const q = new URLSearchParams({ q: `name contains '${esc(text)}' and trashed=false`, fields: FIELDS, pageSize: String(limit), supportsAllDrives: "true", includeItemsFromAllDrives: "true" });
+  return (await okJson<{ files: DriveFile[] }>(await gfetch(`${API}/files?${q}`), "drive search")).files;
+}
+/** Short-lived bearer for ffmpeg/ffprobe reading a Drive file by URL. */
+export const mediaUrl = (id: string) => `${API}/files/${encodeURIComponent(id)}?alt=media&supportsAllDrives=true`;
+export const bearer = accessToken;
 export async function downloadToFile(id: string, dest: string): Promise<number> {
   fs.mkdirSync(path.dirname(dest), { recursive: true });
   const r = await gfetch(`${API}/files/${encodeURIComponent(id)}?alt=media&supportsAllDrives=true`);
@@ -100,7 +121,7 @@ function multipart(meta: object, body: string, mime: string) {
     body: `--${b}\r\nContent-Type: application/json; charset=UTF-8\r\n\r\n${JSON.stringify(meta)}\r\n--${b}\r\nContent-Type: ${mime}; charset=UTF-8\r\n\r\n${body}\r\n--${b}--`,
   };
 }
-const esc = (s: string) => s.replace(/\\/g, "\\\\").replace(/'/g, "\\'");
+function esc(s: string) { return s.replace(/\\/g, "\\\\").replace(/'/g, "\\'"); }
 /** Create `<name>` in the folder with text content; if a file with that exact name exists (retry) its content is replaced. */
 export async function createTextFile(folderId: string, name: string, content: string, mime = "text/markdown"): Promise<string> {
   const q = new URLSearchParams({ q: `'${folderId}' in parents and name='${esc(name)}' and trashed=false`, fields: "files(id)", supportsAllDrives: "true", includeItemsFromAllDrives: "true" });
@@ -113,4 +134,17 @@ export async function createTextFile(folderId: string, name: string, content: st
     method: ex.files.length ? "PATCH" : "POST", headers: { "content-type": `multipart/related; boundary=${m.boundary}` }, body: m.body,
   }), "drive create md");
   return j.id;
+}
+
+/** Replace the content of an existing text file. */
+export async function updateTextFile(id: string, content: string, mime = "text/markdown"): Promise<void> {
+  const m = multipart({}, content, mime);
+  await okJson(await gfetch(`https://www.googleapis.com/upload/drive/v3/files/${encodeURIComponent(id)}?uploadType=multipart&supportsAllDrives=true&fields=id`, {
+    method: "PATCH", headers: { "content-type": `multipart/related; boundary=${m.boundary}` }, body: m.body,
+  }), "drive update");
+}
+export async function readTextFile(id: string): Promise<string> {
+  const r = await gfetch(`${API}/files/${encodeURIComponent(id)}?alt=media&supportsAllDrives=true`);
+  if (!r.ok) throw new HttpError(r.status, `drive read ${id}: HTTP ${r.status}`);
+  return r.text();
 }

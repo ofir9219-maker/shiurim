@@ -18,7 +18,7 @@ export async function GET() {
     config: { pollMinutes: pollMinutes(), model: POLISH_MODEL(), effort: POLISH_EFFORT(), storageDir: STORAGE_DIR, enabled: process.env.INGEST_ENABLED !== "0",
       env: { FAL_KEY: env("FAL_KEY"), OPENAI_API_KEY: env("OPENAI_API_KEY"), R2: env("R2_ACCESS_KEY_ID") && env("R2_BUCKET") && env("R2_PUBLIC_BASE_URL") } },
     scheduler: { started: s.started, running: s.running, checking: s.checking, nextPollAt: s.nextPollAt, lastPoll: s.state.lastPoll ?? null, waitingStable: Object.keys(s.state.seen).length },
-    totals: { ...t, usd: t.falMinutes * price.fal + (t.promptTokens * price.inM + t.completionTokens * price.outM) / 1e6 },
+    totals: { ...t, usd: (t.falUsd ?? t.falMinutes * price.fal) + (t.openaiUsd ?? (t.promptTokens * price.inM + t.completionTokens * price.outM) / 1e6) },
     items: Object.values(s.state.items).sort((a, b) => b.createdAt.localeCompare(a.createdAt)),
   });
 }

@@ -7,7 +7,7 @@ export const dynamic = "force-dynamic";
 export const metadata = { title: { absolute: "ברכות שר לשמחה — Shiurim de Berajot" } };
 
 export default async function Home() {
-  const rows = listClasses();
+  const rows = listClasses({ collection: "berajot" });
   const classes = (await Promise.all(rows.map(async (r) => rowToClass(r, await audioUrlFor(r.id, r.r2_key))))) as ClassSummary[];
   return <ClassList classes={classes} />;
 }
