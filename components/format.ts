@@ -25,3 +25,12 @@ export type ClassSummary = {
 };
 export type Segment = { idx: number; startMs: number; endMs: number; text: string };
 export type ClassFull = ClassSummary & { segments: Segment[] };
+
+/** Display title: drops the leading "51. " and the redundant "ברכות י ע״א - " prefix (daf shows as a chip). */
+export function cleanTitle(t: string): string {
+  const a = t.replace(/^\s*\d+(?:\.\d+)?\s*[.\-–]\s*/, "");
+  const b = a.replace(/^ברכות\s(?:(?!\s[-–]\s)[א-ת׳״'"’\-–\s]){1,40}\s[-–]\s+/, "");
+  return (b.trim() || a.trim() || t).trim();
+}
+/** Leading daf letter of a class (used to group the list). */
+export function firstDaf(c: { daf: { daf: string }[] }): string { return c.daf[0]?.daf ?? ""; }

@@ -2,9 +2,11 @@
 import { Fragment, useEffect, useRef, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { usePlayer } from "./player/PlayerProvider";
-import { fmtTime } from "./format";
+import { cleanTitle, fmtTime } from "./format";
+import { IconPlay, IconSearch, Ornament } from "./icons";
 
 type Hit = { classId: string; title: string; segmentIdx: number; startMs: number; snippet: string };
+const SUGGEST = ["Bilam", "Shemá", "Tefilá", "Moshé", "Rambam"];
 
 function Snippet({ html }: { html: string }) {
   // Render only text nodes; <mark> spans are rebuilt as elements (no HTML injection).
@@ -27,20 +29,22 @@ export default function SearchView() {
   const [q, setQ] = useState(sp.get("q") ?? "");
   const [hits, setHits] = useState<Hit[] | null>(null);
   const [loading, setLoading] = useState(false);
+  const [failed, setFailed] = useState(false);
   const seq = useRef(0);
 
   useEffect(() => {
     const term = q.trim();
     const n = ++seq.current;
-    if (!term) { setHits(null); setLoading(false); return; }
+    if (!term) { setHits(null); setLoading(false); setFailed(false); return; }
     setLoading(true);
     const h = setTimeout(async () => {
       window.history.replaceState(null, "", `/buscar?q=${encodeURIComponent(term)}`);
       try {
         const r = await fetch(`/api/search?q=${encodeURIComponent(term)}&limit=40`);
+        if (!r.ok) throw new Error();
         const j = await r.json();
-        if (n === seq.current) setHits(j.hits ?? []);
-      } catch { if (n === seq.current) setHits([]); }
+        if (n === seq.current) { setHits(j.hits ?? []); setFailed(false); }
+      } catch { if (n === seq.current) { setHits(null); setFailed(true); } }
       if (n === seq.current) setLoading(false);
     }, 300);
     return () => clearTimeout(h);
@@ -50,28 +54,46 @@ export default function SearchView() {
     p.playAt(h.classId, h.startMs);
     router.push(`/shiur/${h.classId}?t=${Math.ceil(h.startMs / 100) / 10}`);
   };
+  const term = q.trim();
 
   return (
     <>
-      <h1 className="page-title">Buscar</h1>
-      <input
-        className="search-input"
-        type="search"
-        value={q}
-        onChange={(e) => setQ(e.target.value)}
-        placeholder="Buscar en las transcripciones…"
-        aria-label="Buscar"
-        autoFocus
-      />
-      {loading && <p className="muted">Buscando…</p>}
-      {!loading && hits && hits.length === 0 && <p className="muted">Sin resultados.</p>}
+      <header className="search-head">
+        <span className="eyebrow">Buscar en las clases</span>
+        <h1 className="page-title" style={{ marginTop: 14 }}>¿Qué querés encontrar?</h1>
+      </header>
+      <div className="search-box">
+        <IconSearch />
+        <input className="input" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Un tema, un nombre, una frase…" aria-label="Buscar" autoFocus enterKeyHint="search" />
+      </div>
+
+      <div className="search-meta" role="status" aria-live="polite">
+        {loading ? "Buscando…" : hits && hits.length > 0 ? `${hits.length} ${hits.length === 1 ? "resultado" : "resultados"} para “${term}”` : ""}
+      </div>
+
+      {!term && (
+        <div className="state" style={{ paddingTop: 24 }}>
+          <Ornament />
+          <p style={{ marginTop: 20 }}>Buscá en la transcripción completa de todas las clases y saltá al momento exacto.</p>
+          <div className="suggest">{SUGGEST.map((s) => <button key={s} className="chip" onClick={() => setQ(s)}>{s}</button>)}</div>
+        </div>
+      )}
+      {loading && !hits && term && (
+        <ul className="results" aria-hidden="true">{[0, 1, 2].map((i) => <li key={i}><div className="card" style={{ display: "grid", gap: 10 }}><div className="skeleton" style={{ height: 24, width: "55%", marginLeft: "auto" }} /><div className="skeleton" style={{ height: 16 }} /><div className="skeleton" style={{ height: 16, width: "75%" }} /></div></li>)}</ul>
+      )}
+      {failed && !loading && (
+        <div className="state" role="alert"><h2>No pudimos buscar</h2><p>Hubo un problema de conexión. Probá de nuevo.</p><button className="btn" onClick={() => setQ(q + " ")}>Reintentar</button></div>
+      )}
+      {!loading && hits && hits.length === 0 && term && (
+        <div className="state"><div className="glyph he" aria-hidden="true">?</div><h2>Sin resultados</h2><p>No encontramos “{term}”. Probá con otra palabra o una raíz más corta.</p></div>
+      )}
       <ul className="results">
         {(hits ?? []).map((h) => (
           <li key={`${h.classId}-${h.segmentIdx}`}>
-            <button className="result" onClick={() => open(h)}>
+            <button className="card hoverable result" onClick={() => open(h)}>
               <span className="result-head">
-                <span className="he result-title" dir="rtl" lang="he">{h.title}</span>
-                <span className="ts-pill">{fmtTime(h.startMs)}</span>
+                <span className="result-title" dir="rtl" lang="he">{cleanTitle(h.title)}</span>
+                <span className="ts-pill"><IconPlay />{fmtTime(h.startMs)}</span>
               </span>
               <span className="snippet" dir="ltr" lang="es"><Snippet html={h.snippet} /></span>
             </button>

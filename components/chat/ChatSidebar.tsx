@@ -1,5 +1,5 @@
 "use client";
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { relativeDate, type Conversation } from "../../lib/chat-store";
 
 type Props = {
@@ -14,6 +14,17 @@ export function ChatSidebar(p: Props) {
   const [draft, setDraft] = useState("");
   const [confirming, setConfirming] = useState<string | null>(null);
   const fileRef = useRef<HTMLInputElement>(null);
+  const [ords, setOrds] = useState<Record<string, string>>({});
+  useEffect(() => {
+    let off = false;
+    fetch("/api/classes").then((r) => (r.ok ? r.json() : null)).then((j) => {
+      if (off || !j?.classes) return;
+      const m: Record<string, string> = {};
+      for (const c of j.classes as { id: string; ordLabel: string }[]) m[c.id] = c.ordLabel;
+      setOrds(m);
+    }).catch(() => {});
+    return () => { off = true; };
+  }, []);
   const commit = () => { if (editing) { const t = draft.trim(); if (t) p.onRename(editing, t.slice(0, 120)); } setEditing(null); };
 
   return (
@@ -42,7 +53,7 @@ export function ChatSidebar(p: Props) {
                 <button type="button" className="chat-item-main flex min-w-0 flex-1 flex-col gap-0.5 px-2.5 py-2 text-left" onClick={() => p.onSelect(c.id)} aria-current={c.id === p.activeId}>
                   <span className="chat-item-title truncate text-sm font-medium text-[var(--text)]">{c.title}</span>
                   <span className="chat-item-meta flex items-center gap-1.5 text-xs text-[var(--muted)]">
-                    {c.classId && <span className="chat-badge rounded bg-[var(--gold-soft)] px-1.5 text-[11px] text-[var(--ink)]" title={`Chat de la clase ${c.classId}`}>Clase</span>}
+                    {c.classId && <span className="chat-badge rounded bg-[var(--gold-soft)] px-1.5 text-[11px] text-[var(--ink)]" title={`Chat de la clase ${c.classId}`}>{ords[c.classId!] ? `Clase ${ords[c.classId!]}` : "Clase"}</span>}
                     <time dateTime={new Date(c.updatedAt).toISOString()}>{relativeDate(c.updatedAt)}</time>
                   </span>
                 </button>

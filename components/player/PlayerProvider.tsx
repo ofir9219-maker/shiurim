@@ -7,6 +7,8 @@ type Ctx = {
   positionMs: number;
   playing: boolean;
   durationMs: number;
+  /** End of the buffered range containing the playhead (ms). */
+  bufferedMs: number;
   speed: number;
   playAt(classId: string, ms: number): Promise<void>;
   /** Load a class positioned at ms without starting playback. */
@@ -43,6 +45,7 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
   const [positionMs, setPositionMs] = useState(0);
   const [playing, setPlaying] = useState(false);
   const [durationMs, setDurationMs] = useState(0);
+  const [bufferedMs, setBufferedMs] = useState(0);
   const [speed, setSpeedState] = useState(1);
   const currentRef = useRef<Current | null>(null);
   const pending = useRef<{ ms: number; play: boolean } | null>(null);
@@ -85,6 +88,7 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
     currentRef.current = cur;
     setCurrent(cur);
     setDurationMs(meta.durationMs);
+    setBufferedMs(0);
     setPositionMs(ms);
     pending.current = { ms, play };
     a.src = cur.audioUrl;
@@ -162,8 +166,8 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
   }, [save]);
 
   const value = useMemo<Ctx>(
-    () => ({ current, positionMs, playing, durationMs, speed, playAt, load, toggle, seek, skip, setSpeed }),
-    [current, positionMs, playing, durationMs, speed, playAt, load, toggle, seek, skip, setSpeed],
+    () => ({ current, positionMs, playing, durationMs, bufferedMs, speed, playAt, load, toggle, seek, skip, setSpeed }),
+    [current, positionMs, playing, durationMs, bufferedMs, speed, playAt, load, toggle, seek, skip, setSpeed],
   );
 
   return (
@@ -179,6 +183,11 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
         }}
         onCanPlay={applyPending}
         onTimeUpdate={(e) => { if (!pending.current) setPositionMs(Math.round(e.currentTarget.currentTime * 1000)); save(); }}
+        onProgress={(e) => {
+          const a = e.currentTarget, t = a.currentTime;
+          for (let i = 0; i < a.buffered.length; i++) if (a.buffered.start(i) <= t + 0.5 && a.buffered.end(i) >= t) { setBufferedMs(Math.round(a.buffered.end(i) * 1000)); return; }
+          setBufferedMs(Math.round(t * 1000));
+        }}
         onPlay={() => setPlaying(true)}
         onPause={() => { setPlaying(false); save(true); }}
         onEnded={() => setPlaying(false)}
