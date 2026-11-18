@@ -17,10 +17,10 @@ export default function TemplateEditor(p: {
       <span className="muted" style={{ fontSize: "var(--fs-sm)" }}>Plantillas predefinidas</span>
       <div className="dc-strip" style={{ marginTop: 6 }}>
         {PRESETS.map((x) => <button key={x.id} type="button" className="chip" aria-pressed={p.template === x.template} onClick={() => p.onTemplate(x.template)}>{x.label}</button>)}
-        {p.template !== undefined && <button type="button" className="chip" onClick={() => p.onTemplate("")}>Heredar</button>}
+        {p.template !== undefined && <button type="button" className="chip" onClick={() => p.onTemplate("")}>Usar la automática</button>}
       </div>
     </div>
-    <label>Plantilla<input className="input he" dir="auto" value={p.template ?? ""} onChange={(e) => p.onTemplate(e.target.value)} placeholder={`Heredar (${p.inherited})`} spellCheck={false} />{p.hint("template", p.template, p.inherited)}</label>
+    <label>Plantilla<input className="input he" dir="auto" value={p.template ?? ""} onChange={(e) => p.onTemplate(e.target.value)} placeholder={`Automático (${p.inherited})`} spellCheck={false} />{p.hint("template", p.template, p.inherited)}</label>
     <div className="dc-strip" aria-label="Variables">
       {TEMPLATE_VARS.map((v) => <button key={v} type="button" className="chip chip-sm" style={{ cursor: "pointer" }} title={VAR_HELP[v]} onClick={() => p.onTemplate(`${p.template ?? p.inherited}{${v}}`)}>{`{${v}}`}</button>)}
     </div>
