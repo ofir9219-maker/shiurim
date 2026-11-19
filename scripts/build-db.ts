@@ -155,4 +155,7 @@ if (embed) {
     }
   }
 }
+// Fold the WAL back into the DB and shrink it to 0 bytes: the full rebuild goes through the WAL, which otherwise
+// stays as large as the whole DB on the (small) persistent volume.
+try { db.pragma("wal_checkpoint(TRUNCATE)"); } catch (e) { console.log("build-db: checkpoint failed:", (e as Error).message); }
 db.close();
