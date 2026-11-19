@@ -1,7 +1,7 @@
 // Background scheduler: polls the Drive folder, queues stable new audios, runs the pipeline one item at a time.
 import fs from "node:fs";
 import path from "node:path";
-import { INGEST_DIR, allInventory } from "../storage";
+import { INGEST_DIR, LEGACY_WORK_DIR, WORK_DIR, allInventory } from "../storage";
 import * as drive from "./drive";
 import { berajotCollection, listCollections, resolveSettings } from "../center/collections";
 import { NO_COLLECTION, ancestorPath, jobCfg, walkAudio, type Candidate } from "../center/jobs";
@@ -27,7 +27,8 @@ class Scheduler {
   started = false;
   retryTimer: NodeJS.Timeout | null = null;
 
-  persist = () => saveState(this.state);
+  // Never let a failed write (e.g. disk full) crash the queue: log it and keep going.
+  persist = () => { try { saveState(this.state); } catch (e) { log(`no se pudo guardar el estado: ${(e as Error).message}`); } };
 
   /** Single-instance guard across processes sharing the volume (heartbeat lock). */
   private lock(): boolean {
@@ -51,8 +52,10 @@ class Scheduler {
     for (const it of Object.values(this.state.items)) if (it.status === "running") { it.status = "queued"; addLog(it, "reanudado tras reinicio"); }
     this.persist();
     this.nextPollAt = Date.now() + 15_000;
-    this.timer = setInterval(() => void this.tick(), 20_000);
+    this.timer = setInterval(() => void this.tick().catch((e) => log(`tick: ${(e as Error).message}`)), 20_000);
     this.timer.unref?.();
+    try { fs.rmSync(LEGACY_WORK_DIR, { recursive: true, force: true }); } catch { /* ignore */ }
+    this.persist();
     log(`scheduler iniciado (poll cada ${pollMinutes()} min, drive ${drive.driveConnected() ? "conectado" : "NO conectado"})`);
   }
 
@@ -63,7 +66,7 @@ class Scheduler {
     if (Date.now() >= this.nextPkgScanAt && zone.hasDriveJobs()) {
       this.nextPkgScanAt = Date.now() + 2 * 60_000; await zone.scanDrive().catch((e) => log(`scan de la Zona IA falló: ${(e as Error).message}`));
     }
-    await this.work();
+    await this.work().catch((e) => log(`cola: ${(e as Error).message}`));
   }
 
   /** Auto-sync: every collection whose resolved autoSync is on is walked (recursively, except sub-collections that sync on their own). */
@@ -146,11 +149,18 @@ class Scheduler {
 
   async work() {
     if (this.running) return;
+    // Oldest runnable item first; failed items wait for their backoff (nextAttemptAt), so the rest of the queue keeps moving.
     const it = Object.values(this.state.items).filter((i) => isRunnable(i)).sort((a, b) => a.createdAt.localeCompare(b.createdAt))[0];
     if (!it) return;
     this.running = it.id;
     try { await runItem(it, makeSteps({ state: this.state, persist: this.persist, log }), this.persist, log); }
-    finally { this.running = null; }
+    catch (e) { log(`error inesperado en ${it.id}: ${(e as Error).message}`); }
+    finally {
+      // Free temporary space whenever the item is not done (done items already clean up), so a failure never fills the disk.
+      if (it.status !== "done") { try { fs.rmSync(path.join(WORK_DIR, it.id), { recursive: true, force: true }); } catch { /* ignore */ } }
+      this.running = null;
+      setTimeout(() => void this.work().catch((e) => log(`cola: ${(e as Error).message}`)), 1000);
+    }
   }
 
   retry(id: string) { const it = this.state.items[id]; if (it && it.state !== "indexed") { retryItem(it); addLog(it, "reintento manual"); this.persist(); void this.work(); } }

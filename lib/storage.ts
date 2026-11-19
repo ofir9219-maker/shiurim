@@ -2,12 +2,17 @@
 // STORAGE_DIR: Railway volume mount (/data) in production, ./storage locally. New classes mirror the repo's data/ layout under $STORAGE_DIR/data.
 import fs from "node:fs";
 import path from "node:path";
+import os from "node:os";
 
 export const STORAGE_DIR = path.resolve(process.env.STORAGE_DIR || path.join(process.cwd(), "storage"));
 export const STORAGE_DATA = path.join(STORAGE_DIR, "data");
 export const REPO_DATA = path.join(process.cwd(), "data");
 export const INGEST_DIR = path.join(STORAGE_DIR, "ingest");
-export const WORK_DIR = path.join(STORAGE_DIR, "work");
+// Temporary work (downloaded audio, ffmpeg parts, caches) lives on the container's ephemeral disk, NOT the
+// small persistent volume: a 100 MB class split into parts would otherwise fill the volume. Override with WORK_DIR.
+export const WORK_DIR = path.resolve(process.env.WORK_DIR || path.join(os.tmpdir(), "shiurim-work"));
+/** Old location of the work dir (inside the volume); cleaned at startup. */
+export const LEGACY_WORK_DIR = path.join(STORAGE_DIR, "work");
 
 export type InvItem = {
   id: string; name: string; order: string; ext: string; mimeType: string; sizeBytes: number; durationMs: number;
