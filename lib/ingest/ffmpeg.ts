@@ -23,7 +23,11 @@ export const parseDuration = (stderr: string): number | null => {
   const m = stderr.match(/Duration:\s*(\d+):(\d\d):(\d\d(?:\.\d+)?)/);
   return m ? Math.round((Number(m[1]) * 3600 + Number(m[2]) * 60 + Number(m[3])) * 1000) : null;
 };
+/** An error retrying cannot fix (e.g. the file in Drive is empty): the item is marked failed at once. */
+export class PermanentError extends Error {}
 export async function durationMs(file: string): Promise<number> {
+  let size = -1; try { size = fs.statSync(file).size; } catch { /* run() below reports it */ }
+  if (size === 0) throw new PermanentError("el archivo de audio está vacío en Drive (0 bytes); súbelo de nuevo");
   const { err } = await run(["-hide_banner", "-i", file]);
   const d = parseDuration(err);
   if (d === null) throw new Error(`no se pudo leer la duración de ${path.basename(file)}`);
