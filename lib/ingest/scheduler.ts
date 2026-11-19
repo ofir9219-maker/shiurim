@@ -50,6 +50,12 @@ class Scheduler {
     this.started = true;
     // items interrupted mid-run (restart) go back to the queue
     for (const it of Object.values(this.state.items)) if (it.status === "running") { it.status = "queued"; addLog(it, "reanudado tras reinicio"); }
+    // failures caused by a full disk are not the file's fault: retry them from scratch once space is back
+    for (const it of Object.values(this.state.items)) {
+      if (it.state !== "indexed" && (it.status === "failed" || it.status === "queued") && /ENOSPC|no space left|disk is full|SQLITE_FULL/i.test(it.error ?? "")) {
+        retryItem(it); addLog(it, "reintento automático: el error fue falta de espacio en disco");
+      }
+    }
     this.persist();
     this.nextPollAt = Date.now() + 15_000;
     this.timer = setInterval(() => void this.tick().catch((e) => log(`tick: ${(e as Error).message}`)), 20_000);
