@@ -1,0 +1,12 @@
+{
+  "$schema": "https://railway.com/railway.schema.json",
+  "build": {
+    "buildCommand": "npm run r2:map; npm run build"
+  },
+  "deploy": {
+    "startCommand": "npm run start:prod",
+    "healthcheckPath": "/",
+    "healthcheckTimeout": 900,
+    "restartPolicyType": "ON_FAILURE"
+  }
+}

@@ -1,0 +1,2731 @@
+{
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+"segments": [
+{
+"startMs": 200,
+"endMs": 5220,
+"text": "A ver, dice: \"Tano rabbanan maase be talmid ejad sheba lifnei rabbi Yehoshua\"."
+},
+{
+"startMs": 10100,
+"endMs": 14500,
+"text": "Amar lei: \"Tfilat aravit reshut uja\". Amar lei: \"Reshut\"."
+},
+{
+"startMs": 17180,
+"endMs": 18420,
+"text": "Ba lifnei rabán Gamaliel."
+},
+{
+"startMs": 20380,
+"endMs": 24100,
+"text": "Amar lei: \"Tfilat aravit reshut uja\". Amar lei: \"Jova\"."
+},
+{
+"startMs": 25720,
+"endMs": 26900,
+"text": "Rabán Gamaliel es el nasí."
+},
+{
+"startMs": 28160,
+"endMs": 30500,
+"text": "Rabán Gamaliel es el nasí y este talmid"
+},
+{
+"startMs": 33200,
+"endMs": 39040,
+"text": "fue con rabbi Yehoshua y rabbi Yehoshua le dijo: \"Reshut\", al revés de rabán Gamaliel. Ahora, rabbi--"
+},
+{
+"startMs": 40360,
+"endMs": 45080,
+"text": "ya que rabán Gamaliel es el nasí, entonces, eh, rabbi Yehoshua,"
+},
+{
+"startMs": 46300,
+"endMs": 52020,
+"text": "eh, no está bien que diga la halajá en el lugar de rabán Gamaliel así."
+},
+{
+"startMs": 55300,
+"endMs": 60100,
+"text": "Rabán Gamaliel es el chamán. Amar lei. Ahorita vemos. Esta otra es el talmid diciendo en contra."
+},
+{
+"startMs": 61320,
+"endMs": 70540,
+"text": "Vamos a ver. Rabí Yehoshua amar lei reshut. Rabí Yehoshua dijo reshut. Amar lei: \"Antena sheican su baalei trissin lebet hamidrash\"."
+},
+{
+"startMs": 71980,
+"endMs": 74600,
+"text": "Dice: \"Espérate que ahorita entren todos los"
+},
+{
+"startMs": 76100,
+"endMs": 78400,
+"text": "rabinos que pelean al bet midrash\"."
+},
+{
+"startMs": 80080,
+"endMs": 80800,
+"text": "Dice..."
+},
+{
+"startMs": 82980,
+"endMs": 89240,
+"text": "\"She nijjesú baalei trissin amar hashuel ve shaal: 'Tfilat aravit reshut uja'. Amar lei rabán Gamaliel: 'Jova'."
+},
+{
+"startMs": 90200,
+"endMs": 96660,
+"text": "Amar rabán Gamaliel ajamim: 'Klum ish adam sheojlet badavar ee, haya quien que discuta eso'. Amar rabí Yehoshua: 'Lav\". No."
+},
+{
+"startMs": 97340,
+"endMs": 101120,
+"text": "O sea, rabí Yehoshua podía quedarse callado, pero él dijo: \"No hay quien discuta eso\"."
+},
+{
+"startMs": 102400,
+"endMs": 113920,
+"text": "Amar lei: \"Ve alomishmeja amru li reshut\". Como dijeron que tú, rabí Yehoshua, dijiste reshut. Amar lei rabí-- amar lei Yehoshua: \"Amada ragleja, veihidujeja\"."
+},
+{
+"startMs": 114560,
+"endMs": 120060,
+"text": "Párate y maná testiguando de ti. Amad rabí Yehoshua raglave amar: \"Ilmale ani jai veumet,"
+},
+{
+"startMs": 121520,
+"endMs": 130000,
+"text": "jegol ajai lakjish et hamet\". Si yo estaría vivo y el que está testiguanando de mí muerto, pues podría yo"
+},
+{
+"startMs": 131600,
+"endMs": 132480,
+"text": "lakjish oto."
+},
+{
+"startMs": 133780,
+"endMs": 141680,
+"text": "Ajash anijai veujai, ¿iejo lakjish-- iejol ajai lakjish et ajai? ¿Acaso estoy diciendo que no?"
+},
+{
+"startMs": 141680,
+"endMs": 148300,
+"text": "¿Acaso yo te digo que no? ¿Cómo? Ahí alguien está testiguan- Al revés. Está diciendo ya no puedo ir en contra."
+},
+{
+"startMs": 148360,
+"endMs": 154460,
+"text": "Alguien que dijo jo-- que tú dijiste que reshut. Y él dice: \"Ni modo, ya no puedo testificar en contra\". Él dice: \"Ya no puedo yo decir\"."
+},
+{
+"startMs": 154480,
+"endMs": 160920,
+"text": "Ya no puede decir que- Él-- a ver, ya está testiguando, yo no puedo lakjish a lo que ya dijeron. Ah, yo entendí al revés."
+},
+{
+"startMs": 161080,
+"endMs": 166520,
+"text": "Estoy vivo, estoy diciendo que no. No, al revés. No, te está diciendo: \"Yo no tengo cómo lakjish\". O sea, pero ya es verdad."
+},
+{
+"startMs": 168660,
+"endMs": 172600,
+"text": "Ahora la banda me entendan qué duro, porque si ya dijo que no, una co-- o sea."
+},
+{
+"startMs": 175780,
+"endMs": 176720,
+"text": "No, no, no."
+},
+{
+"startMs": 178760,
+"endMs": 184840,
+"text": "Sí, sí, sí, está bien. Dice: \"¿Pa qué hace tanto cuento, rabí Yehoshua?"
+},
+{
+"startMs": 185040,
+"endMs": 191560,
+"text": "No puede decir, eh, simplemente...\". Ya, sí dije reshut. No, te agarra rabán Gamaliel pa que se enoja."
+},
+{
+"startMs": 192020,
+"endMs": 194620,
+"text": "Si fuera-- si fuera que yo estoy vivo y él está muerto,"
+},
+{
+"startMs": 195980,
+"endMs": 208460,
+"text": "entonces, o sea, ¿por qué? Tipo, ¿me explico? No necesitas explicar por qué no puedes contradecir usando los términos- Y aparte no es de que- Eh, yo estoy vivo y él está vivo."
+},
+{
+"startMs": 208460,
+"endMs": 215720,
+"text": "¿Me explico? Ya, no lo puedo contradecir. No, no, no tienes que explicar que si está vivo, si está muerto, si estaría muerto, si está vivo."
+},
+{
+"startMs": 215720,
+"endMs": 223300,
+"text": "¿Pa qué le hace tan...? O sea, sí, está testiguando que rabí Yehoshua le dijo reshut. No, reshut no. No importa, rabí Yehoshua no va a lakjish."
+},
+{
+"startMs": 224340,
+"endMs": 230720,
+"text": "Dice: \"Haiá rabán Gamaliel Yose medoresh\". Estaba el hidrosh rabán Gamaliel, pero rabí Yehoshua ameda raglav."
+},
+{
+"startMs": 231120,
+"endMs": 242120,
+"text": "Rabí Yehoshua parado ahí. Entonces, para rabí Yehoshua fue como un, eh, o sea, tener que estar parado durante toda-- todo el tiempo, que rabí Gamaliel le está diciendo la, la dehalajá."
+},
+{
+"startMs": 244060,
+"endMs": 247660,
+"text": "Pero rabí Yehoshua ameda raglav acher ninenú colam."
+},
+{
+"startMs": 249400,
+"endMs": 256579,
+"text": "Y empezaron todos como que a lerranén, ¿sí? Empezaron como que a, a, como que..."
+},
+{
+"startMs": 256680,
+"endMs": 263500,
+"text": "Murmurar. ¿Eh? Hablar del tema. Murmurar. Sí, murmurar, exactamente."
+},
+{
+"startMs": 264080,
+"endMs": 268720,
+"text": "Como que no, no les está pareciendo la cosa, pero nadie puede decirlo en fuerte."
+},
+{
+"startMs": 270200,
+"endMs": 280560,
+"text": "Sí. Gamru le jupita meturgaman. Amot. Le dijeron a jupita meturgueman, a turgueman, que estaba traduciendo a rabán Gamaliel, le dijeron: \"Frena\"."
+},
+{
+"startMs": 281260,
+"endMs": 288060,
+"text": "Veavad amar kamane tsare veneje. ¿Sí? ¿Cuánto puede estar sufriendo rabí Yehoshua?"
+},
+{
+"startMs": 288200,
+"endMs": 298760,
+"text": "Rosh Hashaná istakén. El último Rosh Hashaná, tsare be bjorot vemaasé rabí Tzadok. Eh, eh, eh, be tsare be bjorot, vemaasé rabí Tzadok, tsare."
+},
+{
+"startMs": 299900,
+"endMs": 304700,
+"text": "Ojenametsare. Ya le pasó que con un sipur de bejorot"
+},
+{
+"startMs": 306060,
+"endMs": 317820,
+"text": "rabí Yehoshua sufrió en Rosh Hashaná. En el masse rabí Tzadok dice, dice Rashi: \"Bi bjorot u rabí Tzadok havalei bujra ve amarle rabán Gamaliel rabí Yehoshua amoda ragleja, ki aja\"."
+},
+{
+"startMs": 318220,
+"endMs": 324740,
+"text": "También ahí, el sipur de rabí Tzadok, algo con un bejor y rabí Yehoshua se tuvo que parar así mucho tiempo."
+},
+{
+"startMs": 325960,
+"endMs": 332160,
+"text": "Dice: \"Tana abre, tave naabre\". Vamos a quitar a rabán Gamaliel de su mesiyut."
+},
+{
+"startMs": 332760,
+"endMs": 340100,
+"text": "Yo-- me gustaría saber cuál es el sipur de rabí Tzadok. Entonces, vamos a ver. Yo creo que el masse después está parado, es una vergüenza."
+},
+{
+"startMs": 340740,
+"endMs": 341380,
+"text": "Sí, sí, sí."
+},
+{
+"startMs": 348680,
+"endMs": 351220,
+"text": "Sí, es el desprecio que le ajón a rabí Yehoshua."
+},
+{
+"startMs": 354980,
+"endMs": 369540,
+"text": "Ahora, son tres personas diferentes, ¿eh? Ah, entonces son dos historias. Una el de Rosh Hashaná y el otro, Bjorot vemaasé- Que dijo que era diferente día Rosh Hashaná y lo hizo venir De Juan, entonces tú tienes que venir cargando en-- cuando pase En, en Kipur."
+},
+{
+"startMs": 369780,
+"endMs": 383860,
+"text": "Sí. Dice-- ese es el sí, sí, esa la habíamos visto juntos y vimos, viste esa historia. Dice: \"Tierra van a hablar de rabí Joshua, Shenej lekú venían kviata moed, moed ajac, she mus-- como súper be-- en el mensaje de Rosh Hashaná\"."
+},
+{
+"startMs": 385200,
+"endMs": 392360,
+"text": "Lo hizo venir en el, en el, en el día que era Kipur con él. Dice Rabán Gamaliel, rabí Joshua Nejezku, desde Yom Jal veoto Shaná Rosh Hashaná."
+},
+{
+"startMs": 392980,
+"endMs": 402220,
+"text": "Vorá rab-- Rabán Gamaliel, rabí Joshua, la abuela de Yom HaKipurim, se le fije esbonoso rabí Joshua y terminó. Que venga con su, con su cartera y suuu"
+},
+{
+"startMs": 403560,
+"endMs": 412800,
+"text": "palo, ¿sí? Para que sea mamá que parecia como un día de Jol. Ulebatel de Atón con Isneid Atanasi, para que se anule su edad."
+},
+{
+"startMs": 413880,
+"endMs": 425200,
+"text": "Ahora, el rabí Chadok, Shaia Cohen, allá bebetó Bejor Behema Tehorah, tenía un Bejor de una Behema Tehorah, que es un-- hay que acercarlo como corbán."
+},
+{
+"startMs": 426280,
+"endMs": 435160,
+"text": "Dice: \"Veid rabí Chadok shenafal mum be Bejor de Meatsmo\". Rabí Chadok dijo que a este Bejor le cayó un mum solito."
+},
+{
+"startMs": 435440,
+"endMs": 442900,
+"text": "Y si es un mum, ya no hay que acercarlo como corban. Dice: \"Veine Gasruja Amin Shen Cohen Neeman lo mal a la Bejor shenafal bo mum me atsmo\"."
+},
+{
+"startMs": 443580,
+"endMs": 450060,
+"text": "Es que un Bej-- un Cohen no es Neeman a decir que el Bejor que tiene, tiene un mum."
+},
+{
+"startMs": 450800,
+"endMs": 458240,
+"text": "\"Mipnei shejosim shema etil mum bo mut bevidkaven\", porque Blayel lo va a hacer a propósito y así se la ahorra de acercarlo al corban."
+},
+{
+"startMs": 458400,
+"endMs": 461840,
+"text": "Que lo come. \"Ve najaleiku Rabán Gamaliel ve rabí Yoshua."
+},
+{
+"startMs": 463460,
+"endMs": 472780,
+"text": "Im rabí Chadok, oy veayat talmid jajam veeno jasut leshakén neeman al haBejor\". ¿Le crees o no le crees? A Rab Chadok es talmid jajam, no hay mendil."
+},
+{
+"startMs": 473580,
+"endMs": 480940,
+"text": "Dice: \"O she-- o shelo jilku jajamim vekol coheneno neeman\", o lo plugui a nadie es Neeman."
+},
+{
+"startMs": 481500,
+"endMs": 490580,
+"text": "Dice \"Ha be machloket zot shalshelú inyaniim betzura adomá lam-- el ameaseh mesupér gam, veía Rabán Gamaliel yoseh ve doresh, ve rabí Yoshua omed al reglá\"."
+},
+{
+"startMs": 490600,
+"endMs": 498700,
+"text": "¿Por qué-- por qué no estuvo de acuerdo con él? Hubo una discusión entre ellos, aquí no explica exactamente cuál fue-- qué opinaba cada quien."
+},
+{
+"startMs": 498780,
+"endMs": 505480,
+"text": "Uno sí y uno no. Pero se dio la cosa muy igual. A ver, lo leo un segundo acá. Por no estar de acuerdo, ya..."
+},
+{
+"startMs": 510380,
+"endMs": 514720,
+"text": "Se entiende que por no estar de acuerdo. El mismo Kipur no está de"
+},
+{
+"startMs": 521240,
+"endMs": 521600,
+"text": "acuerdo."
+},
+{
+"startMs": 525280,
+"endMs": 531000,
+"text": "Yo creo que pasó algo muy parecido acá, de que rabí Yoshua dijo algo sin permiso de Rabán Gamaliel."
+},
+{
+"startMs": 532360,
+"endMs": 534320,
+"text": "A ver, fue así, dice..."
+},
+{
+"startMs": 537820,
+"endMs": 544380,
+"text": "Dijo su opinión. Entonces Rab Chadok le preguntó a rabí Yoshua: \"Amarle klum hilaknu ben co-- ben javer laamaaret\"."
+},
+{
+"startMs": 547420,
+"endMs": 554300,
+"text": "Amarlo rabí Yoshua Hen, dice: \"Si hay hiluk entre, entre Cohen y Amaaret\", rabí Yoshua le permitió"
+},
+{
+"startMs": 555520,
+"endMs": 561260,
+"text": "comerse el Cohen, el Bejor sin problema, porque él es, él es, eh, talmid jajam."
+},
+{
+"startMs": 562660,
+"endMs": 571500,
+"text": "Entonces, la tale Kamed Rabán Gamaliel fue rabizado con Rabán Gamaliel. \"Amarlei klum hilaknu ben javer laamaaret\", amarlelo, no, no hay ni una diferencia."
+},
+{
+"startMs": 571540,
+"endMs": 579020,
+"text": "No, no te podemos cre-- aunque te creo, pero no te puedo creer. Amarlei va rabí Yoshua amarlihen: \"No, rabí Yoshua ya me dijo que sí\"."
+},
+{
+"startMs": 579940,
+"endMs": 589820,
+"text": "Amarlo antenachicanzu ballet ricin la beta midrash, igualito. Eh, espérate a que entren todos los que discuten, los defensores al beta midrash."
+},
+{
+"startMs": 590380,
+"endMs": 597800,
+"text": "Quiero sinijanzulo beta midrash, amado Joel Beshal, klum hilaknu ben javer laamaaret. Amarlo rabí Yoshua Lab, no, no hay di-diferencia."
+},
+{
+"startMs": 598480,
+"endMs": 605840,
+"text": "O sea, rabí Yoshua directo se para porque él ya sabe que eso tiene Rabán Gamaliel, eso es la pela. O sea, ¿por qué se para rabí Yoshua a decir al revés de lo que él ya dijo?"
+},
+{
+"startMs": 606220,
+"endMs": 608120,
+"text": "Porque sabe que Rabán Gamiel opina diferente."
+},
+{
+"startMs": 609640,
+"endMs": 618320,
+"text": "Amarlo Rabán Gamaliel, ve lo mishmeja amru lihen: \"Me dijeron que tú dijiste que sí\". Amarlo rabí Yoshua, modah al regléja, amar rabí Yoshua al, al reglá veamar, ahé jase."
+},
+{
+"startMs": 618900,
+"endMs": 625039,
+"text": "Ilmá leani jai veoméet, iajol ajai leaquís tamet, achasosh ani jai veu jai, éch ajol ajís ajai tamet. Se para hablando de eso."
+},
+{
+"startMs": 625380,
+"endMs": 635660,
+"text": "Leaquís et ajai et ajai. Va parando, va diciendo eso. Se para y dice. Sí, él dice, no hubo discutir. Veía Rabán Gamaliel yoseh ve doresh, ve rabí Yoshua omed al reglá."
+},
+{
+"startMs": 636320,
+"endMs": 643380,
+"text": "Rabí Yoshua se tenía que quedar parado. Misma razón, ache rinenu col haam, amru lejotpitamtur yamán. Amot veamán."
+},
+{
+"startMs": 646220,
+"endMs": 654360,
+"text": "Ya, y ahí acaba esta historia. O sea, ahí no lo quitó. Ahí no pasó nada. Ahora, esta historia que ya se- Lo pagó, lo pagó, ¿no? Sí, pero no pasó nada con Rabán Gamaliel."
+},
+{
+"startMs": 654840,
+"endMs": 655820,
+"text": "Ahora, en nuestra historia-"
+},
+{
+"startMs": 658080,
+"endMs": 666080,
+"text": "El tal-- el talmid que lo acusa hasta matar. El rabí Chadok que va para acá y para allá, la pregunta. El rabí Chadok, ¿qué pasó?"
+},
+{
+"startMs": 666380,
+"endMs": 670700,
+"text": "O sea, ya, ya lo tengo, pero ¿pa qué va a hablar con Rabán Gamaliel? ¿Pa qué va a hablar con rabí--"
+},
+{
+"startMs": 672220,
+"endMs": 674000,
+"text": "Diciendo que no puede venir porque está"
+},
+{
+"startMs": 675420,
+"endMs": 676740,
+"text": "echándolo de cabeza para acá."
+},
+{
+"startMs": 678060,
+"endMs": 683860,
+"text": "Sí, ahí es rabí Chadok, que aquí es, eh- El talmid no puede molestar a uno, ¿no? ¿Eh?"
+},
+{
+"startMs": 685680,
+"endMs": 686100,
+"text": "Aquí pasa--"
+},
+{
+"startMs": 687540,
+"endMs": 695340,
+"text": "para acá y luego para allá. Es la Taine, ¿no? Yo creo que la Taine de todos es cómo rabí Yoshua puede discutir con Rabán Gamaliel. Si Rabán Gamaliel es así, es así."
+},
+{
+"startMs": 695780,
+"endMs": 703520,
+"text": "No puede discutir. Sí. Ese era tipo que iba a la mitad, ¿no? Porque no era digna Rabó. ¿Eh? No era digna la mitad porque no era digna Rabó."
+},
+{
+"startMs": 704600,
+"endMs": 714300,
+"text": "Sí, no, no sé si es la mitad, no creo, pero al final él es así, es él así. Pero espérate, se ve que- Por eso, o sea, si la pregunta era personal, está bien que conteste eso."
+},
+{
+"startMs": 714440,
+"endMs": 723100,
+"text": "Exacto, exacto. Pero cuando, cuando se hizo una pregunta pública, entonces ahí ya se hace problema para rabí Yoshua. Rabí Yoshua puede contestar su opinión personal."
+},
+{
+"startMs": 724220,
+"endMs": 732296,
+"text": "Que Pastud, no sé, es como estoy entendiendo. Se puede entender que el rabí Chadok O sea, Rabi Yoshua piensa que le están preguntando a él de Masé qué hago y él permite."
+},
+{
+"startMs": 732696,
+"endMs": 740136,
+"text": "No es una consulta que va a levantar polémica. O sea, ¿aquí qué hago? Cómetela, no cómetela. Así. Entiende, es una consulta personal."
+},
+{
+"startMs": 740656,
+"endMs": 747676,
+"text": "Ya lo autorizado sin ca-- sin cabana discutir con Rabán Gamaliel. Ulai ni sabía lo que-- Ulai sabía- Sí, por eso, es ajerami."
+},
+{
+"startMs": 748056,
+"endMs": 750096,
+"text": "Y luego se le hizo toda una polémica."
+},
+{
+"startMs": 751796,
+"endMs": 752996,
+"text": "Vamos a ver. Dice"
+},
+{
+"startMs": 758416,
+"endMs": 767316,
+"text": "Maan nukimle. Maan nukimle. ¿A quién vamos a poner en vez de Rabán Gamaliel? Nukme la Rabi Yoshua, Baal Maisé."
+},
+{
+"startMs": 768276,
+"endMs": 776096,
+"text": "No, Rabi Yoshua es el Baal Maisé, no puede, no puede ser el mismo Rabi Yoshua. Nukme la Rabi Akiva, Dilma Anishlei."
+},
+{
+"startMs": 777176,
+"endMs": 779096,
+"text": "Dice de Leitle Ejut Avot."
+},
+{
+"startMs": 781616,
+"endMs": 785776,
+"text": "Rabi Akiva, a ver, sus papás son gerir. Entonces, no tiene Ejut Avot."
+},
+{
+"startMs": 787196,
+"endMs": 797676,
+"text": "Si Rabán Gamaliel makpida la-- Rabi Akiva, no es pasut. La nukme la Rabí Eleazar Ben Azaria de un jajam, ehú ashir, ehú asirí leezra."
+},
+{
+"startMs": 798236,
+"endMs": 804476,
+"text": "Entonces, tienejoja má, ashirut y ijus. Un jajam di makshelem efarkle."
+},
+{
+"startMs": 805156,
+"endMs": 813516,
+"text": "Ru ashir de itle liflujele bei César. A fu-- adelupalax. ¿Sí? Él tiene contactos con el César."
+},
+{
+"startMs": 815016,
+"endMs": 825436,
+"text": "Guasirí leezra de itle Ejut Avot. Ve lo imatze anishlei. Atu veamru lei. Nija lei lemar de lever resh vetivta, ¿quieres ser ros ishiva?"
+},
+{
+"startMs": 825816,
+"endMs": 833176,
+"text": "Amar leu. Izil veimlich vein shebeiti. Deja preguntar una casa. Azal veimlich ve dibitu."
+},
+{
+"startMs": 833756,
+"endMs": 841476,
+"text": "Fue a preguntar a sus esposas. Amra lei dilma. ¿Qué es eso? ¿Qué es eso de-- que manejan algo de ?"
+},
+{
+"startMs": 842836,
+"endMs": 843176,
+"text": "Me parece--"
+},
+{
+"startMs": 844936,
+"endMs": 851856,
+"text": "Me parece. Dilma me abrinla. Ulai te van a quitar algún día."
+},
+{
+"startMs": 854036,
+"endMs": 861336,
+"text": "Igual que le pasó a Rabán Gamaliel. ¿Sí? Yori dujan mina nesiut bishvil ajer."
+},
+{
+"startMs": 861396,
+"endMs": 862276,
+"text": "Ulai te van a quitar."
+},
+{
+"startMs": 865916,
+"endMs": 871356,
+"text": "Amar lei. Ishtameshi nishom ajada ve kisé de mukrá olam har litpat."
+},
+{
+"startMs": 873716,
+"endMs": 874516,
+"text": "Dice Rashi..."
+},
+{
+"startMs": 878476,
+"endMs": 889736,
+"text": "Dice casa de Mukrá, kot jujut yekará shekolin la bilshón Ismael arquia. Beomrim bne Adam be mashal ediot,jom ajad ishtamesh bo ve alav, veitkabet bo, veim yeshaber, nishaber."
+},
+{
+"startMs": 890616,
+"endMs": 894616,
+"text": "Úsale. Máximo, si, si se rompe, se rompió, no pasa nada."
+},
+{
+"startMs": 895816,
+"endMs": 897216,
+"text": "Amra lei, leit laj"
+},
+{
+"startMs": 898556,
+"endMs": 905176,
+"text": "jivarta. No tienes barba. Dice, pero si no tienes, no tienes barba blanca. Shel zikná."
+},
+{
+"startMs": 906836,
+"endMs": 911676,
+"text": "Ve nahed le darshán leot zaken. Alguien que es el darshán, así, necesita ser alguien zaken."
+},
+{
+"startMs": 913016,
+"endMs": 919256,
+"text": "Dice Au yoma bartam nesare y Shaneava. Tenía dieciocho años. Pelé."
+},
+{
+"startMs": 919256,
+"endMs": 930116,
+"text": "¿Ah? No estás entendiendo. ¿Cuántos años? Dieciocho años. Parece que Rabi Akiva ya tenía vadai por lo menos entre ochenta y ciento veinte años."
+},
+{
+"startMs": 931776,
+"endMs": 938016,
+"text": "Y, y la segunda opción después de Rabi Akiva era un chavo de dieciocho años. Pelé. Un genio."
+},
+{
+"startMs": 938776,
+"endMs": 939096,
+"text": "Dice"
+},
+{
+"startMs": 940496,
+"endMs": 946956,
+"text": "Pero Ulai fue por las tres cosas que tiene, no por su genio. No, no, no, estamos. Estoy diciendo que es algo Pelé, los dieciocho años..."
+},
+{
+"startMs": 947836,
+"endMs": 954156,
+"text": "O sea, por más que alguien tenga todo, a los dieciocho años no está de ponerlo. Dice Au yoma bartam nesare y Shaneava."
+},
+{
+"startMs": 954716,
+"endMs": 960516,
+"text": "Itrajish leinisa veadru leitam nesare darei jivarta. Le crecieron dieciocho"
+},
+{
+"startMs": 962176,
+"endMs": 965096,
+"text": "filas, hileras de barba blanca."
+},
+{
+"startMs": 966316,
+"endMs": 972896,
+"text": "Ainu ve cámara Rabí Eleazar Ben Azaria. Are aniki, are aniki ben shivim shaná. Ve lo ben shivim shaná."
+},
+{
+"startMs": 973636,
+"endMs": 980176,
+"text": "Tana. Otó ayom silkul esomer a petaj. Ese día quitaron al shomer a petaj."
+},
+{
+"startMs": 980176,
+"endMs": 986916,
+"text": "¿Por qué? Porque Rabán Gamaliel puso un shomer en el petaj, ¿sí?"
+},
+{
+"startMs": 987496,
+"endMs": 990956,
+"text": "Y decía Rabán Gamaliel: «Solo puede entrar mi se tojó que varó»."
+},
+{
+"startMs": 992376,
+"endMs": 1002996,
+"text": "Ve nitná lahem reshutat talmidim likanes. Lejan los talmidim entrar. Se Rabán Gamaliel majris ve omer: «Kol talmid sheeno tojó que varó lo ikanes lebet hamidrash»."
+},
+{
+"startMs": 1004216,
+"endMs": 1013676,
+"text": "Au yoma itbasvu kama safsale. Se aumentaron muchas mangas en el bet hamidrash. Amar rab Yojanan Pligeva aba, aba Yosef ben Tostai ve Rabanan."
+},
+{
+"startMs": 1014136,
+"endMs": 1020876,
+"text": "Jalamar itbasvu argam veot safsale. Jalamar shvamea safsale. Unos cuatrocientos y uno de setecientos."
+},
+{
+"startMs": 1021536,
+"endMs": 1034596,
+"text": "Aba kajal sha daite de Rabán Gamaliel. Rabán Gamaliel le pegó. ¿Por qué le pegó? Cuando él era así, el bet hamidrash estaba muy chico y ahorita lo quitaron y de repente había ochocientas personas más."
+},
+{
+"startMs": 1035096,
+"endMs": 1039675,
+"text": "Entonces, le pegó. Amar dilma jas ve shalom manati Torá mi Israel."
+},
+{
+"startMs": 1042376,
+"endMs": 1051356,
+"text": "Sí, ulai manati Torá dam Israel. Ajzulei vejalme le enseñaron en un jalom. Jatzvei jivarei de malian kitma."
+},
+{
+"startMs": 1052136,
+"endMs": 1071076,
+"text": "Pues esto está importante porque aquí hay un champiñón muy fuerte con el-- la barba de Rabí Eleazar ben Azaria. Dice, dice Rashi: «Kajal sha daite Rabán Gamaliel que Rashi nitvasu ayom talmidim rabim ve haya doel shelo ianes bema she menaam be yamaa milavo de malian kitma, klomar af elu enam reuin»."
+},
+{
+"startMs": 1074636,
+"endMs": 1076796,
+"text": "Entonces, ¿qué le enseñaron? A ver, dice ahí."
+},
+{
+"startMs": 1078196,
+"endMs": 1079136,
+"text": "Shemelei mafari."
+},
+{
+"startMs": 1081596,
+"endMs": 1087996,
+"text": "Una barba llena de hierba. No barba. Un-unos almohadas, ¿no? Estoy equivocado."
+},
+{
+"startMs": 1088196,
+"endMs": 1095636,
+"text": "Cad, ¿no? Cad. Ah, cadín. Ah, unos jarrones- Llenos de tierra. Llenos de ceniza."
+},
+{
+"startMs": 1097036,
+"endMs": 1102616,
+"text": "Ceniza. Ahora, los jarrones son blancos. ¿Qué me importa si son blancos los jarrones?"
+},
+{
+"startMs": 1103896,
+"endMs": 1110456,
+"text": "Por afuera se ven muy buenos. Por afuera se- Que por afuera se ve bueno, pero por adentro no."
+},
+{
+"startMs": 1111296,
+"endMs": 1114116,
+"text": "Por afuera se ve viejito, pero- O sea, ¿qué es tojó que varó?"
+},
+{
+"startMs": 1115516,
+"endMs": 1122816,
+"text": "Al ti staquel bacancán, en ese ma-ma she es de tojó. Donde está diciendo: «No, aquí nada más hay puro cancán», pero ve tojó, hay pura ceniza."
+},
+{
+"startMs": 1124056,
+"endMs": 1124916,
+"text": "La de no firulais."
+},
+{
+"startMs": 1126116,
+"endMs": 1133996,
+"text": "Eso es el, lo que le causa. Esa gente que estudian no le encaja. Pero era mentira eso. Ve loai, dice, pero no era así."
+},
+{
+"startMs": 1134736,
+"endMs": 1139936,
+"text": "Ai li tuve daite ude ajzulei. Na'más fue para que no se sienta mal, para tranquilizarlo"
+},
+{
+"startMs": 1142269,
+"endMs": 1144789,
+"text": "Sabemos todos, sabemos que es Halom y sabemos que Halom era"
+},
+{
+"startMs": 1146609,
+"endMs": 1150709,
+"text": ". ¿A Pangelier contó su Halom o algo así? ¿Y quién sabe cuál es el evento?"
+},
+{
+"startMs": 1152009,
+"endMs": 1166049,
+"text": "La Emara. La Emara, la Emara sabe. Si estuvo equivocado, ¿por qué lo tienen que calmar? Y si estuvo bien, que le digan cuál es el- Hay que entender, hay que entender por qué hay que calmarlo, por qué no-- lo hay que elogiar, Joto."
+},
+{
+"startMs": 1167009,
+"endMs": 1170309,
+"text": "Pero de alguna manera aquí ya se ve que también fue un tipo de"
+},
+{
+"startMs": 1171669,
+"endMs": 1178369,
+"text": "a quitar a Rabán Gamaliel. Porque si Rabán Gamaliel realmente su sitá no era la correcta,"
+},
+{
+"startMs": 1180149,
+"endMs": 1188709,
+"text": "entonces, entonces había ochocientos talmidín que podían estudiar o cuatrocientos talmidín que podían estudiar y no estaban estudiando."
+},
+{
+"startMs": 1189329,
+"endMs": 1190489,
+"text": "Pero con todo y todo,"
+},
+{
+"startMs": 1191829,
+"endMs": 1199189,
+"text": "a Rabán Gamaliel del Shammai no le quisieron decir que está mal, porque el bemed no estaba mal, pero lo que estaba pasando estaba mal."
+},
+{
+"startMs": 1200549,
+"endMs": 1214669,
+"text": "Shabbat. Sí. O sea, el bemed no estaba mal, pero lo que estaba pasando estaba mal, ¿me explico? Entonces, por eso le tienen que decir a Rabán Gamaliel, estoy tratando de contestar tu pregunta, de que- Es que no puede ser Be Shammai, aunque era Be Shammai, no puede estar con el dere."
+},
+{
+"startMs": 1215309,
+"endMs": 1223689,
+"text": "Al-algo así. Yo te hago una pregunta. ¿Lo deprimió a ese no lo deprimió que lo quitaron? Eso. Sí, que lo quitaron, eso no le pasó nada."
+},
+{
+"startMs": 1224149,
+"endMs": 1231189,
+"text": "Pero lo que le dolió es que Ulai su sitá era algo malo. Para mí, sí. Sí, sí, claro."
+},
+{
+"startMs": 1231689,
+"endMs": 1235829,
+"text": "Sí, sí, sí. Yo le dije: ya, me voy a quitar, me quito, okey, Chipel. Chipel."
+},
+{
+"startMs": 1237229,
+"endMs": 1237829,
+"text": "O sea, era"
+},
+{
+"startMs": 1239969,
+"endMs": 1240669,
+"text": ". Por el cibur."
+},
+{
+"startMs": 1242189,
+"endMs": 1244089,
+"text": ". Sí. Dice Tana:"
+},
+{
+"startMs": 1246029,
+"endMs": 1250049,
+"text": "Eduyot bayom mishnit, todo Masejet Eduyot,"
+},
+{
+"startMs": 1251269,
+"endMs": 1258169,
+"text": "pele plein, pele plein. Masejet Eduyot se estudió ese día. ¿Sí?"
+},
+{
+"startMs": 1258249,
+"endMs": 1261109,
+"text": "¿Alguien tiene cómo abrir Eduyot? ¿Saben de qué se trata Eduyot?"
+},
+{
+"startMs": 1263669,
+"endMs": 1264509,
+"text": "Es la más chiquita, ¿no?"
+},
+{
+"startMs": 1267189,
+"endMs": 1273729,
+"text": "No. Es una machloket, es una Masejet que se trata de todas las machlokot de Shammai y Hilel."
+},
+{
+"startMs": 1276169,
+"endMs": 1283989,
+"text": "Shammai omer: nasim kol ha-nasim dayan satam. Hillel omer: mikdida lfdida, filu yamim harbe. Shammai omer: mikab lejalav y Hillel omer: mikabaim."
+},
+{
+"startMs": 1285369,
+"endMs": 1292969,
+"text": "Vejamim. No, te sale Mishna. Hillel omer: me lo kol-- me lo hin maim she'uvim poslim et ha-mikveh."
+},
+{
+"startMs": 1293729,
+"endMs": 1294849,
+"text": "Shammai omer..."
+},
+{
+"startMs": 1299349,
+"endMs": 1307469,
+"text": "Y en todas las-- son machlokot que de Shammai y Hilel, y en todas no queda ni como Shammai ni como Hilel."
+},
+{
+"startMs": 1307529,
+"endMs": 1319189,
+"text": "Y la Mishna dale dice: velama maskirim dibrei Shammai ve-Hilel levatala? Lelamed ledorot habaím, shelo yeadam omed al dvara, she'areavot olam lo amdu al dibrehem."
+},
+{
+"startMs": 1319869,
+"endMs": 1325729,
+"text": "Pele plein. Tomaret que ellos no se entercaron de su--"
+},
+{
+"startMs": 1327189,
+"endMs": 1333449,
+"text": "su sitá. O sea, son tres Mishnaot donde aparece Shammai y Hilel y Jamamim, y la halajá es como Jamamim en las tres."
+},
+{
+"startMs": 1334129,
+"endMs": 1341309,
+"text": "Y tanto Shammai y tanto Hilel no se pusieron fuertes con su palabra y la halajá quedó como no como ellos."
+},
+{
+"startMs": 1345989,
+"endMs": 1346249,
+"text": "¿Sí?"
+},
+{
+"startMs": 1348909,
+"endMs": 1352109,
+"text": "O sea, eso es la Mishna que se escribió ese día."
+},
+{
+"startMs": 1353649,
+"endMs": 1360729,
+"text": "Está pele, mamá está pele. Tumba a los dos. Y, y ese- Está muy pele. También es algo que está pasando dentro."
+},
+{
+"startMs": 1360789,
+"endMs": 1370429,
+"text": "O sea, ¿quién tiró a Rabán Gamaliel? No fue otro. Claro. Y que lo amade alvará, que Rabán Gamaliel no se entercó de decir: «No, yo soy así, yo soy así»."
+},
+{
+"startMs": 1370529,
+"endMs": 1377009,
+"text": "Si ya me bajaron, ya me bajaron. Cuando eran así, se puso fuertísimo. Cuando lo bajan, ya, callado."
+},
+{
+"startMs": 1377809,
+"endMs": 1389449,
+"text": "Y tomaret, cuando fue así, él no se puso duro por ser Rabán Gamaliel. Él se puso duro por ser así. Y cuando lo bajaron, ahí ya era defender a Rabán Gamaliel y no hizo nada."
+},
+{
+"startMs": 1390069,
+"endMs": 1398489,
+"text": "Solamente lo, lo que le dolió fue que Ulai, que Rabán Gamaliel cuando eran así, Ulai hizo un error para Am Israel."
+},
+{
+"startMs": 1398749,
+"endMs": 1401389,
+"text": "Vean qué nivel de Rabán Gamaliel. Mamá es pele."
+},
+{
+"startMs": 1402689,
+"endMs": 1407409,
+"text": "También ahí lo amade alvará. Y, ¿por qué te dice Tana Eduyot bayom mishnit?"
+},
+{
+"startMs": 1408969,
+"endMs": 1421049,
+"text": "O sea que, ¿pa qué me dice eso? Hay una... Ve kolei jad amrina bobayom, siempre en cualquier lugar que en el Shas, en las Mishnaot dice bobayom, estamos hablando del día que bajaron a Rabán Gamaliel."
+},
+{
+"startMs": 1421989,
+"endMs": 1433109,
+"text": "Au yoma, aba me lo ait halaja. ¿En Berajot? Sí. Dice au yoma. ¿En qué Dafes, perdón, en qué Daf están?"
+},
+{
+"startMs": 1433109,
+"endMs": 1436089,
+"text": "¿De Berajot? Berajot Caf Het, Amud Alef."
+},
+{
+"startMs": 1443669,
+"endMs": 1444449,
+"text": "Maravilla. Gracias."
+},
+{
+"startMs": 1449649,
+"endMs": 1449989,
+"text": "Dice:"
+},
+{
+"startMs": 1451449,
+"endMs": 1458409,
+"text": "au yoma, hava-- eh, dice: velo haitá halajá shehaitá tluyá vebet hamidráš sheló pirshua. ¿Sí?"
+},
+{
+"startMs": 1458589,
+"endMs": 1466009,
+"text": "No había una halajá que estaba en safek, ¿sí? Que ese día- No encontraban la respuesta."
+},
+{
+"startMs": 1466049,
+"endMs": 1482569,
+"text": "Sí, de safek, sheló pirshua mitoj sherabú-- sherabu talmidím, rabá jidud vehpilpul. Como hubo tantos talmidím, entonces entre todos los fecut que había antes, pues habiendo tantos talmidím estudiando, se contestaron todas las preguntas."
+},
+{
+"startMs": 1482889,
+"endMs": 1485869,
+"text": "Pele. Ahí está que estaba mal el sueño."
+},
+{
+"startMs": 1487329,
+"endMs": 1491709,
+"text": "Cuando la vimos no la acabamos, esta. O sea, esto no lo vimos. Dice"
+},
+{
+"startMs": 1493769,
+"endMs": 1499969,
+"text": "veapra Gamli-- veha-- pele plein. Veapra Gamaliel omanat smó vivet hamidrá safil usájat."
+},
+{
+"startMs": 1500621,
+"endMs": 1508221,
+"text": "O sea, ni la primera hora que lo bajaron No sea que se fue ahí enojado. Ya, ahorita me voy a mi casa, dos días de retiro en lo que me..."
+},
+{
+"startMs": 1508860,
+"endMs": 1513781,
+"text": "Oh, man, soy Talmid. Se fue a otro lado. Sí, nada, ahí, che, ahorita me tocó ser Talmid."
+},
+{
+"startMs": 1515301,
+"endMs": 1521021,
+"text": "Ya, ahorita somos Talmidim. Qué nivel. No, eso, esto es otro nivel. A la mamá. Qué nivel. Rabán Gamaliel."
+},
+{
+"startMs": 1522901,
+"endMs": 1523461,
+"text": "The plan."
+},
+{
+"startMs": 1526161,
+"endMs": 1533260,
+"text": "Bo bayom. Areh bo bayom. ¿Cuándo es ese día? Va Yehudá Guer Amoní Lifnehem Bebet Hamidrash."
+},
+{
+"startMs": 1533781,
+"endMs": 1535541,
+"text": "Llegó un Yehudá"
+},
+{
+"startMs": 1537161,
+"endMs": 1538181,
+"text": "que era un Guer Amoní."
+},
+{
+"startMs": 1539441,
+"endMs": 1543001,
+"text": "Entonces, un Guer Amoní, ¿cuál es el din? Amoní lo Amoní."
+},
+{
+"startMs": 1545141,
+"endMs": 1546360,
+"text": "Nunca. Amar la M."
+},
+{
+"startMs": 1548081,
+"endMs": 1551461,
+"text": "Mani Labó Bakal. Amar le Rabán Gamaliel."
+},
+{
+"startMs": 1553101,
+"endMs": 1562221,
+"text": "El Rabán Gamaliel, al revés de antes. Le dijo: \"Asur ata Labó Bakal\". Amar le Rabi Yehoshua: \"Mutar ata Labó Bakal\"."
+},
+{
+"startMs": 1564360,
+"endMs": 1575381,
+"text": "Ahora, Rabán Gamaliel ya no se puede enojar, porque ya está a la par con Rabi Yehoshua. Dice-- Amar le Rabi Yehoshua-- amar le: \"Rabi Yehoshua, veji Amon uMoav bimkomam hem yoshvim\"."
+},
+{
+"startMs": 1576621,
+"endMs": 1583261,
+"text": "Entonces, Rabi Yeh-- perdón. Amar a Rabán Gamaliel valo kvar nehemar: \"Lo yabó Amoní uMoaví bi kal Hashem\"."
+},
+{
+"startMs": 1583921,
+"endMs": 1592601,
+"text": "Areh es asur, es un pasuk mefurash. Amar le Rabi Yehoshua: \"Veji Amon uMoav bimkomam hem yoshvim\". O sea, ahorita ya cambia toda la nalgá, ¿no?"
+},
+{
+"startMs": 1592801,
+"endMs": 1599461,
+"text": "Por el cambio de puestos. Rabi Yehoshua ya discute, ya le habla el tú por tú, ya... Y Rabán Gamaliel tampoco se enoja."
+},
+{
+"startMs": 1600241,
+"endMs": 1613421,
+"text": "Dice, dice: \"Areh ya no es seguro que este es Amoní\", lo que le dice Rabi Yehoshua, porque kvar alá Sanjeriv melej Ashur uvilvel et kol haumot shenehemar: \"Ve asir gvulot amim ve atidotehem\"."
+},
+{
+"startMs": 1614841,
+"endMs": 1619081,
+"text": "Dice: \"Ve atidotehem shosti, ve orit ke avir yoshvim\"."
+},
+{
+"startMs": 1621241,
+"endMs": 1629081,
+"text": "Y ya que están todo el mundo revuelto, be kol de parish, me ruba parish. Entonces, cua-- cada alguien que por es, ¿sí?"
+},
+{
+"startMs": 1629161,
+"endMs": 1636521,
+"text": "Cuando alguien sale, está saliendo del mundo. Y ya que está saliendo del mundo y la mayoría del mundo no es Amoní, entonces yo digo que este no es Amoní."
+},
+{
+"startMs": 1637401,
+"endMs": 1646021,
+"text": "Amar lo Rabán Gamaliel valo kvar nehemar: \"Vajreké Nashim et Shebut Benei Amon\". Dice que Amon va a regresar, Nehum Hashem."
+},
+{
+"startMs": 1646860,
+"endMs": 1651241,
+"text": "Dice: \"U kvar shavu\", y ya regresaron los Amoním a su lugar."
+},
+{
+"startMs": 1652501,
+"endMs": 1659301,
+"text": "Amar lo Rabi Yehoshua, valo kvar nehemar: \"Ve shavti et Shebut Ami Israel\". Areh también está escrito \"Ve shavti et Shebut Ami Israel\"."
+},
+{
+"startMs": 1659701,
+"endMs": 1665841,
+"text": "Na, adáin lo shavu. Mi yaad itiru Labó Bakal. Entonces, le permitieron, como Rabi Yehoshua."
+},
+{
+"startMs": 1666781,
+"endMs": 1677321,
+"text": "Amar Rabán Gamaliel: \"Oi lveaji aba\". Ya que es así y me di cuenta que en la discusión mía y de Rabi Yehoshua tuvo razón Rabi Yehoshua en esta discusión del Guer Amoní."
+},
+{
+"startMs": 1678021,
+"endMs": 1692721,
+"text": "It ilvefais el Rabi Yehoshua. Necesito ir a pedir perdón. Subo otro nivel, a Tzumm. Que no es-- o sea, todo esto le están atrayendo en el Marán para elogiar que Rabán Gamaliel lo amaná et hatsum bebet Hamidrash, que ese mismo día llegó el Guer Amoní."
+},
+{
+"startMs": 1693921,
+"endMs": 1702001,
+"text": "Que es el día más loco para que venga Rabán Gamaliel al Bet Hamidrash. Y Rabán Gamaliel está ahí normal y le toca otra vez discutir con Rabi Yehoshua mismo."
+},
+{
+"startMs": 1702721,
+"endMs": 1710981,
+"text": "Y no na' más que, que, que Rabi Yehoshua le gana, sino ahora Rabán Gamaliel dice: \"Voy a pedirle perdón a Rabi Yehoshua\"."
+},
+{
+"startMs": 1712781,
+"endMs": 1721621,
+"text": "No, aparte, ¿qué tiene que ver? La otra podía tener razón yo. O sea... ¿Eh? No porque él me ganó esta. Te voy a escuchar, no porque me ganó esta, tenía razón en las otras."
+},
+{
+"startMs": 1722481,
+"endMs": 1728621,
+"text": "Sí, anájename, ¿por qué? O sea, porque no, no sé que, que ganó- Pero en las otras no, no, no aceptó ni siquiera discutir."
+},
+{
+"startMs": 1728681,
+"endMs": 1735681,
+"text": "No, no, porque estaba en su... Él era así, pero ni siquiera-- Y pedí perdón de qué. Pero acuérdate de que pedí per-- entiendo que dice pedí perdón de las pasadas."
+},
+{
+"startMs": 1736741,
+"endMs": 1745860,
+"text": "Sí, pedí perdón de las pasadas, sí, seguro. Si ahí tenía razón, no tengo por qué pedirle perdón. No, a lo mejor tú, a lo mejor tú mismo te arrepientes de lo que dijiste."
+},
+{
+"startMs": 1746661,
+"endMs": 1759801,
+"text": "Pero no, aparte de pedir perdón de lo que le hizo. ¿Lo agredió? No hizo nada. Ah, pero se lo comparó. Lo comparó, areh, por eso quitaron a Rabán Gamaliel, porque la gente no estuvo-- aunque la gente, aunque Rabán Gamaliel era así, la gente no estuvo de acuerdo."
+},
+{
+"startMs": 1759821,
+"endMs": 1767301,
+"text": "Pero ¿por qué él tiene que hacer esto para irte a pedir perdón? O sea... No, que se dio cuenta. Si hizo esto, no le tengo que pedir perdón. No, que se dio cuenta de eso."
+},
+{
+"startMs": 1767301,
+"endMs": 1770841,
+"text": "¿Y? ¿Eh? No, yo creo que se dio cuenta que había tanta gente"
+},
+{
+"startMs": 1772041,
+"endMs": 1781641,
+"text": "que cambió su forma de ver toda la- Acá dice que tanta gente le dieron la razón a Rabi Yehoshua. Eso. Tantos le dieron la razón a Rabi Yehoshua que, que, que por eso lo bajaron."
+},
+{
+"startMs": 1781641,
+"endMs": 1791121,
+"text": "Entonces, Rabán Gamaliel dijo: \"A lo mejor mi anagá, a filo que no lo hice para defenderme a mí y fue para defender el Nesiut mismo, entonces a lo mejor estuve mal\"."
+},
+{
+"startMs": 1794141,
+"endMs": 1794701,
+"text": "Dice..."
+},
+{
+"startMs": 1797521,
+"endMs": 1807341,
+"text": "Ki mata lebeite jazinu la ashita debeite de meshkena. Cuando regresó Rabán Gamaliel a su casa, vio que las paredes de su casa..."
+},
+{
+"startMs": 1807821,
+"endMs": 1815121,
+"text": "Creo que ashita son paredes, ¿quién tiene para checar? Kotleve tos de Rabi Yehoshua. Ah, pele plaim."
+},
+{
+"startMs": 1815201,
+"endMs": 1819541,
+"text": "Las paredes de la casa de Rabi Yehoshua eran negras."
+},
+{
+"startMs": 1820921,
+"endMs": 1822380,
+"text": "Está pele esto, ¿sí?"
+},
+{
+"startMs": 1825761,
+"endMs": 1826041,
+"text": "Pobre."
+},
+{
+"startMs": 1827701,
+"endMs": 1830241,
+"text": "E-era carbonero, ahorita vemos. Dice..."
+},
+{
+"startMs": 1834621,
+"endMs": 1841101,
+"text": "Amar le. Debeite de meshkena. Amar le: \"Mi kotleve teja ni karshe pejamienta\"."
+},
+{
+"startMs": 1841961,
+"endMs": 1845621,
+"text": "De las paredes de tu casa me puedo dar cuenta que tú trabajas en carbón."
+},
+{
+"startMs": 1847201,
+"endMs": 1850761,
+"text": "Amar le: \"Oi lo le dor shata panaso."
+},
+{
+"startMs": 1852421,
+"endMs": 1855401,
+"text": "Si ata iodea betzaran shel talmidei hakhamim\"."
+},
+{
+"startMs": 1857581,
+"endMs": 1858521,
+"text": "A ver qué dice."
+},
+{
+"startMs": 1861341,
+"endMs": 1862301,
+"text": "Que no entiendes"
+},
+{
+"startMs": 1863981,
+"endMs": 1874264,
+"text": "el sufrimiento de los talmidei hakhamim con que Acaba la frase, acaba la frase \"Bemaen mitparnesim uva'meen nizonim\"."
+},
+{
+"startMs": 1874825,
+"endMs": 1876605,
+"text": "Dice: \"Rabban Gamaliel,"
+},
+{
+"startMs": 1877985,
+"endMs": 1881725,
+"text": "pobre-- ¿cómo? Cuando tú eras nací, ¿no sabías...?"
+},
+{
+"startMs": 1883145,
+"endMs": 1898345,
+"text": "Tipo, te acabas de dar cuenta que yo era, mamá, pobre\" Eso es para Yehoshua Sí. Dice: \"Hoy loledor, de que tú fuiste el, el, el, el nací y, y no sabías que yo era alguien..."
+},
+{
+"startMs": 1900063,
+"endMs": 1904385,
+"text": "Es Eduardo, ¿verdad? Sí. Que yo era alguien pobre"
+},
+{
+"startMs": 1909225,
+"endMs": 1915645,
+"text": "De que tuvieron un nací, eh... desconectado Sí, que el nací no sabe el mazal de la gente."
+},
+{
+"startMs": 1915665,
+"endMs": 1924165,
+"text": "\"Uva'meen nizonim\", amarlo, \"naaneti leja, mejoli\"."
+},
+{
+"startMs": 1925365,
+"endMs": 1926325,
+"text": "Dice: \"Perdóname\","
+},
+{
+"startMs": 1927545,
+"endMs": 1928625,
+"text": "que es \"naaneti leja\"."
+},
+{
+"startMs": 1929965,
+"endMs": 1932105,
+"text": "Dice: \"Te, te, te, te avergoncé,"
+},
+{
+"startMs": 1933764,
+"endMs": 1941685,
+"text": "te hice de más\" Inui, ¿no? Sí, \"ineeti leja\", te hice... Sí, ulai, es inui. Dice: \"Lo ashgaj bei\"."
+},
+{
+"startMs": 1942805,
+"endMs": 1948125,
+"text": "No, no, no lo, no lo perdonó. O sea, no lo peló, no lo, no es guiájalo."
+},
+{
+"startMs": 1949784,
+"endMs": 1951485,
+"text": "Dice: \"Hacé bishvil kvod abba\"."
+},
+{
+"startMs": 1954045,
+"endMs": 1958085,
+"text": "Pies, ¿sí? O pais."
+},
+{
+"startMs": 1959585,
+"endMs": 1960605,
+"text": "Hazlo por mi papá"
+},
+{
+"startMs": 1962545,
+"endMs": 1963325,
+"text": "No, y no A"
+},
+{
+"startMs": 1967545,
+"endMs": 1968365,
+"text": "ver qué dice."
+},
+{
+"startMs": 1969784,
+"endMs": 1973645,
+"text": "El papá de, de, de Rabban Gamaliel creo que es Hilel Rabban Shimon ben Gamaliel"
+},
+{
+"startMs": 1975165,
+"endMs": 1984345,
+"text": "Ah, este es el segundo Rabban Gamaliel, Rabban Gamaliel Ha-Sheni. Entonces, su papá es Rabban Shimon ben Gamaliel Dice: \"Pais, Rabban Yehoshua"
+},
+{
+"startMs": 1986264,
+"endMs": 1997145,
+"text": "ti, ti, ti hu sheyajdol Rabban Gamaliel lejimkomo\" No, no, es que aquí vamos a decir que hay machloket. Hay quien dice que es Hilel HaZaken Es que sí, porque el papá de Rabban Gamaliel era Hilel HaZaken."
+},
+{
+"startMs": 1997764,
+"endMs": 2004685,
+"text": "Era Hilel, nuestro Hilel es el papá de Rabban Gamaliel. El segundo Rabban Gamaliel, su papá es Rabban Shimon Gamaliel."
+},
+{
+"startMs": 2005085,
+"endMs": 2010645,
+"text": "Entonces, es machloket Cuando los dos... ¿Cómo puede salir un Rabban Gamaliel así de uno, de un Hilel?"
+},
+{
+"startMs": 2015085,
+"endMs": 2021745,
+"text": "A rebeldía de su papá Ah, no, no, no. Le kulam estamos hablando de Rabban Gamaliel el segundo, ¿sí?"
+},
+{
+"startMs": 2022545,
+"endMs": 2032725,
+"text": "Ora, la she'ela, si él se refirió que lo haga por Hilel HaZaken- O por Rabban Shimon O por su papá mamá, que era Rabban Shimon Gamaliel, que era Mehaljut."
+},
+{
+"startMs": 2035945,
+"endMs": 2044385,
+"text": "Dice: \"Hacé bishvil kvod abba\". Ah, \"Hacé bishvil kvod abba, pais\". Ya, \"itpayés Rabban Yehoshua\", y le perdonó."
+},
+{
+"startMs": 2045085,
+"endMs": 2055705,
+"text": "Pues aquí entró Hilel. O sea, si decimos que realmente Rabban Gamaliel le pidió perdón a Rabban Yehoshua por el kabod de Hilel HaZaken, entonces, eh..."
+},
+{
+"startMs": 2056045,
+"endMs": 2065305,
+"text": "¿se entiende? O sea, digo, entró Hilel acá. A ver, vamos a ver. Dice- ¿Cómo puede salir un Gam-- Rabban Gamaliel así de un Hilel?"
+},
+{
+"startMs": 2066585,
+"endMs": 2082764,
+"text": "Son cinco generaciones Sí lo ha-- están volteando de, de otro bando. Está de Shamai Digo, ya no estaba-- ya la halaja no era como Shamai en ese momento, pero dentro de Hilel mismo, él era ulai una halaja más, más dura, más de Lemet."
+},
+{
+"startMs": 2083364,
+"endMs": 2088645,
+"text": "Y por eso mismo, ulai... O sea, no sé, pues, ¿sí? Rabban Yehoshua es talmid de Hilel."
+},
+{
+"startMs": 2090165,
+"endMs": 2104185,
+"text": "Rabban Yehoshua es de los talmidim de Hilel HaZaken. Entonces, si todo este zipur está entre Rabban Gamaliel y Rabban Yehoshua y al final le pide perdón por Hilel, no sé, también hay que ver El nieto con el talmid."
+},
+{
+"startMs": 2105625,
+"endMs": 2111865,
+"text": "Así la machloket acabada. El amor emet ahí con el talmid del Balatán. Es dos grandes, ¿no?"
+},
+{
+"startMs": 2111865,
+"endMs": 2115485,
+"text": "¿Qué opción? El sharí Judá Sí, puede ser"
+},
+{
+"startMs": 2116825,
+"endMs": 2125184,
+"text": "el mismo hijo. Y ahí, ¿quién es así y quién es así? Ah, bueno El talmid y el, el heredero de Rabban Gamaliel Ben Uri or Jodel, ¿cómo es?"
+},
+{
+"startMs": 2125465,
+"endMs": 2129385,
+"text": "Rabban Yehoshua es el talmid y Rabban Gamaliel es el nieto Ajá, shkoja"
+},
+{
+"startMs": 2131665,
+"endMs": 2134904,
+"text": "No se duerme ¿Seguimos?"
+},
+{
+"startMs": 2136765,
+"endMs": 2143505,
+"text": "Amruuu Me cuenta-- o sea, también Rabban Shimon se quedó como que muy... ¿Rabban Yehoshua?"
+},
+{
+"startMs": 2143925,
+"endMs": 2159525,
+"text": "Perdón, Rabban Yehoshua, Rabban Yehoshua se quedó muy sentido, ¿no? No, lo, lo perdonó al final Bueno, pero... Lo hizo, lo hizo pedazos, claro No, no estás entendiendo lo que pasó No, no, yo creo que no Lo destruyó para restituir al nací del niño No del niño, no, y ahí que- Lo restituyó No es porque lo hizo pedazos, eh."
+},
+{
+"startMs": 2159585,
+"endMs": 2166904,
+"text": "Hay que entender, el Rabban Yehoshua también es, eh, es por algo amok, ¿sí? Vamos a ver. \"Amru, ma neisel."
+},
+{
+"startMs": 2168525,
+"endMs": 2169725,
+"text": "Belei maleu la Rabono\"."
+},
+{
+"startMs": 2172705,
+"endMs": 2182385,
+"text": "Dice: ¿Quién le va a avisar a los kajamim? ¿Que qué, que ya se perdonaron? \"Shelo ratzu ha'neiel lekabel al atsamam shelichut ot shel yesh pa'am mishum\" ¿Qué shlichut?"
+},
+{
+"startMs": 2182444,
+"endMs": 2193565,
+"text": "¿Que qué? \"Hatsaa leeshvet haza'arim hakodmim limkomam\" Oye, no, no le dijeron, no le dijeron entonces- No, no, le dije."
+},
+{
+"startMs": 2193585,
+"endMs": 2201585,
+"text": "Si Rabban Yehoshua perdona, no significa que Rabban Gamaliel puede volver a ser nací. Si Rabban Gamaliel tiene que volver a ser nací, entonces tiene que quitar a, a Rabban Yehoshua ¡Ah!"
+},
+{
+"startMs": 2202065,
+"endMs": 2210485,
+"text": "¿Quién le iba a decir a Rabban Yehoshua que ya va para afuera? Es el mismo día, ¿no? Esa historia es el mismo día Es el día que..."
+},
+{
+"startMs": 2210525,
+"endMs": 2217965,
+"text": "Sí, era Buvaion Es Buvaion, que acaba de entrar . Entonces, si, si ya Rabban Gamaliel..."
+},
+{
+"startMs": 2218345,
+"endMs": 2222944,
+"text": "Si Rabban Yehoshua ya perdonó a Rabban Gamaliel- Si Rabban Yehoshua perdonó Va a regresar al incómodo, entonces tiene que quitar a Rabban Yehoshua"
+},
+{
+"startMs": 2224385,
+"endMs": 2236585,
+"text": "Oye, estamos estudiando un Shalom entre dos kajamim en el día de Aarón HaKohen, ahí está Aarón Aarón, Aarón es talmid de Hilel."
+},
+{
+"startMs": 2237125,
+"endMs": 2245165,
+"text": "Eh, Hilel es, es el que dice en la Mishná: \"Heve mi talmidav shel Aarón, ohev shalom verodef shalom\". Entonces, por eso ulai- la Torá Sí."
+},
+{
+"startMs": 2245425,
+"endMs": 2251705,
+"text": "Entonces, por eso ulai, be'emet, eh, Rabban Gamaliel le dice: \"Hacé bishvil kvod abba\", que es Hilel."
+},
+{
+"startMs": 2252365,
+"endMs": 2260725,
+"text": "Que Hilel, ¿qué dice en la Mishná? \"Heve mi talmidav shel Aarón, ohev shalom verodef shalom\" Guau Está impresionante"
+},
+{
+"startMs": 2263705,
+"endMs": 2264685,
+"text": "Shalom"
+},
+{
+"startMs": 2266025,
+"endMs": 2266345,
+"text": "Amén."
+},
+{
+"startMs": 2268705,
+"endMs": 2270025,
+"text": "Dice Amarleu"
+},
+{
+"startMs": 2273205,
+"endMs": 2281859,
+"text": "Amarleu hau kobes. Entonces, había un kobes. Kobes es alguien que lava ropa Ana silna, yo voy."
+},
+{
+"startMs": 2284098,
+"endMs": 2284638,
+"text": "Midrashá."
+},
+{
+"startMs": 2287598,
+"endMs": 2292178,
+"text": "Mandelá bishmada ilbaashmada. U mandeloi labishmada"
+},
+{
+"startMs": 2293379,
+"endMs": 2295558,
+"text": "yeimarlei le mandelá bishmada."
+},
+{
+"startMs": 2297538,
+"endMs": 2298658,
+"text": "A ver qué dice acá."
+},
+{
+"startMs": 2299959,
+"endMs": 2311058,
+"text": "Que Lamar Ishai era así a Ragil Ben Siutó, que solo hay que leer Mancheló Labishmada. Y Omar Lele Mandel- Dice a Ragil Lilbosamei Libás Clomar, a Ragil Ben Siut y a Nasí."
+},
+{
+"startMs": 2311799,
+"endMs": 2323399,
+"text": "El que ya es-- el que ya tiene la experiencia de ser Nasí, que él sea Nasí. Sarabán Gamliel. Ahora, justo es un cobés y justamente Rabán, Rabá-- a, a, ¿recuerdas el cobés?"
+},
+{
+"startMs": 2323799,
+"endMs": 2333658,
+"text": "Está diciendo. Hace las cosas blancas. Hace las cosas blancas. Entonces, Kibiajol se manchó la ropa de Rabán Gamliel, pero el cobés es el que limpia la ropa."
+},
+{
+"startMs": 2334319,
+"endMs": 2341379,
+"text": "Y Rabí Yoshua dice que el que, el, el, el que viste la ropa, que se vista la ropa."
+},
+{
+"startMs": 2342138,
+"endMs": 2343238,
+"text": "Sí, está viniendo..."
+},
+{
+"startMs": 2345718,
+"endMs": 2348658,
+"text": "Se ve que hay algo tremendo acá y todavía no lo estoy..."
+},
+{
+"startMs": 2350158,
+"endMs": 2357319,
+"text": "Dicen, eh, esto, que cuando hay Miftar ahí, pensamos que era una jugada de Rabán Gamliel. No se imaginaron que viene de Rabí Yoshua."
+},
+{
+"startMs": 2357799,
+"endMs": 2358118,
+"text": "Ajá."
+},
+{
+"startMs": 2359758,
+"endMs": 2364078,
+"text": "O sea, cuando llegó el cobés, nadie le creía. Creían que lo estaba mandando Rabán Gamliel. Sí."
+},
+{
+"startMs": 2368198,
+"endMs": 2375359,
+"text": "No entendí. Se ro-- ¿se manchó la ropa de quién? No, no, no. Mandó-- no, este, quise decir de que obviamente tú tienes que regresar a ser Nasí, él se va más bien."
+},
+{
+"startMs": 2376019,
+"endMs": 2384118,
+"text": "Y él siempre tiene la ropa. Si acaso lo que se manchó, se limpia y se deja que se lo ponga. Sí, y pasa como- Cobés, que mandó Rabí Yoshua a decirle a, a..."
+},
+{
+"startMs": 2384138,
+"endMs": 2394678,
+"text": "Ah, ¿Rabí Yoshua lo mandó? Sí, a darle una indirecta al Jamim, que tiene- Rabí Yoshua mandó al Jamim. Rabí Yoshua mandó al cobés para decirle al Jamim que tiene que quitar a Blotwerg y volver a poner a Rabán Gamliel."
+},
+{
+"startMs": 2397279,
+"endMs": 2398738,
+"text": "Y siendo Rabí Yoshua el que manda..."
+},
+{
+"startMs": 2400698,
+"endMs": 2406819,
+"text": "No creyeron que lo mandó Rabán Gamliel. Entonces, ahora lo que mandó a decir Rabí Yoshua es así: mandelá bishmada ilbaashmada."
+},
+{
+"startMs": 2407279,
+"endMs": 2416939,
+"text": "El que ya se puso la ropa de Nesiot, que se la ponga. ¿Sí? El que ya se puso la capa, vamos a llamarle rey, que él la siga teniendo."
+},
+{
+"startMs": 2417218,
+"endMs": 2430658,
+"text": "U mandeloi labishmada yeamarle le mande labishmada. Y el que-- ¿y qué acaso el que nunca se puso la ropa le va a decir al que ya se había puesto la ropa: \"Schlach madaj, ana, álrese, quítate la ropa, yo me la voy a poner\"."
+},
+{
+"startMs": 2430658,
+"endMs": 2432178,
+"text": "¿Sí?"
+},
+{
+"startMs": 2433379,
+"endMs": 2438058,
+"text": "Entonces, hay que regresar, Rabán Gamliel, a su Nesiot. Amaleu rabí Yoshua rabono."
+},
+{
+"startMs": 2439759,
+"endMs": 2440979,
+"text": "Si no lo perdona, no regresa."
+},
+{
+"startMs": 2442218,
+"endMs": 2443859,
+"text": "Dice: \"Amaleu rabí Yoshua rabono\"."
+},
+{
+"startMs": 2445959,
+"endMs": 2454899,
+"text": "Tiene la llave. Amaleu rabí Yoshua rabono. Le dijo rabí Yoshua a todos los Jamim: \"Toiku gale, de loileitu\","
+},
+{
+"startMs": 2456618,
+"endMs": 2467299,
+"text": "cierren las puertas. ¿Sí, es eso? Sí. Cierren las puertas para que no lleguen. O sea, ya entendieron que rabí Yoshua ya perdonó y que Raba-- y que la idea ahorita es regresar a..."
+},
+{
+"startMs": 2467638,
+"endMs": 2478218,
+"text": "No, yo entendí que no. Creyeron que era una jugada de Rabán Gamliel, que viene a atacar su puesto. Ah, de loileitu abde de Rabán Gamliel, veletsaru rabono."
+},
+{
+"startMs": 2478799,
+"endMs": 2489439,
+"text": "Que no vengan los Abadim de Rabán Gamliel y hagan sufrir otra vez a los Jamim. Amar Rabí Yoshua: \"Mutab de icun be izil ana le gabayu\", es mejor que yo vaya con ellos."
+},
+{
+"startMs": 2490819,
+"endMs": 2497339,
+"text": "Ata tara fababa. Entonces, está cerrada la puerta. Entonces, Ra-rabí Yoshua toca la puerta."
+},
+{
+"startMs": 2497999,
+"endMs": 2498738,
+"text": "Amarlei."
+},
+{
+"startMs": 2500598,
+"endMs": 2501118,
+"text": "Mi ze ben ze."
+},
+{
+"startMs": 2502819,
+"endMs": 2512198,
+"text": "Ma ze ben ma ze. Ya ze. Ve she'eno lo mi ze ve lo ben mi ze yomar le mi ze-- le ma ze ben ma ze."
+},
+{
+"startMs": 2513118,
+"endMs": 2519178,
+"text": "Está muy peles. Ma ze es el que- El cohen gadol. El que maze la... El cohen."
+},
+{
+"startMs": 2519419,
+"endMs": 2519939,
+"text": "El cohen."
+},
+{
+"startMs": 2526439,
+"endMs": 2532919,
+"text": "Es el que maze mei hatat. Sí, el que echa la, la-- el agua de, de, de la pará."
+},
+{
+"startMs": 2535278,
+"endMs": 2541939,
+"text": "Entonces, ah, entonces él tocó la puerta. ¿Y quién amarlei? Jamim. Los Jamim a Rabí Yoshua, Rabí Yoshua a los Jamim."
+},
+{
+"startMs": 2542238,
+"endMs": 2549299,
+"text": "No, Rabí Yoshua es Jamim. Rabí Yosh-- ¿qué dice ahí? Amar Leu. Amar Leu, Rabí Yoshua. Rabí Yoshua les dice a ellos."
+},
+{
+"startMs": 2549979,
+"endMs": 2550359,
+"text": "Dice,"
+},
+{
+"startMs": 2551879,
+"endMs": 2553519,
+"text": "dice: \"Ma ze ben ma ze\"."
+},
+{
+"startMs": 2554819,
+"endMs": 2564738,
+"text": "El cohen, hijo de cohen. Ya ze. Ya ze. Ve she'eno lo ma ze ve lo ben ma ze yomar le ma ze ben ma ze."
+},
+{
+"startMs": 2565519,
+"endMs": 2572459,
+"text": "Mi ya-- mi yamer- La misma dana que arriba, ¿no? La misma de arriba, pero en vez de la ropa, ahorita con el cohen y el maze."
+},
+{
+"startMs": 2572618,
+"endMs": 2575738,
+"text": "She'eno lo mi ze ve lo ben ma ze yomar le ma ze ben ma ze."
+},
+{
+"startMs": 2577419,
+"endMs": 2585138,
+"text": "Yomar le ma ze ben ma ze. ¿Có-có-cómo sigue? Mi yameja. Mi meja ve ma- Ah, mi meja, mi me are."
+},
+{
+"startMs": 2585339,
+"endMs": 2588759,
+"text": "Ve meja. Ve freja, efer mikle."
+},
+{
+"startMs": 2590839,
+"endMs": 2596519,
+"text": "Tam, efer tira ve lo me fará shel a fará aduma. Me choca estudiar en computador."
+},
+{
+"startMs": 2597979,
+"endMs": 2604819,
+"text": "Dice: \"Efer mikle, efer akalu ve tanurim u, u mjirut, clomar efer stam\". Efer stam."
+},
+{
+"startMs": 2607919,
+"endMs": 2608459,
+"text": "Dice."
+},
+{
+"startMs": 2612979,
+"endMs": 2619879,
+"text": "\"Me meja mi me are ve freja mikle. Mei achatat sha tam ma ze, en amaim jaim akshérim le ze."
+},
+{
+"startMs": 2620499,
+"endMs": 2635078,
+"text": "Ve ha'eferenu efer pará meta'er, ele efer pashut min ha'tamnur. Shem shein ze min ha'raui le adam pashut leorot le cohen ben cohen keitzad la'azot et mei chatat, kajen ze raui she mi she'enu min mishpaja ta Nesiot yeshamesh ke Nasí\"."
+},
+{
+"startMs": 2636379,
+"endMs": 2656569,
+"text": "Entonces, dice: \"¿Acaso es correcto que alguien que no es Ma Ze Ben Ma Ze le diga al Ma Ze Ben Ben Ma Ze: «Tú, tus aguas que estás usando»- Y tu éfer de pará que estás usando no es un éfer kasher y no es un main sherin."
+},
+{
+"startMs": 2656569,
+"endMs": 2665488,
+"text": "¿Cómo alguien que no es cohen o alguien que no tiene experiencia en eso, alguien que no sabe eso, le va a decir al que, al que ya llevan generaciones tras generaciones?"
+},
+{
+"startMs": 2668689,
+"endMs": 2677468,
+"text": "Sí, ora el mazal es con el éfer. Ora y el éfer ya par-apareció en el sueño de Rabán Gamliel. ¿Sí?"
+},
+{
+"startMs": 2678229,
+"endMs": 2684609,
+"text": "El éfer apareció en el, en el este. El jarrón apareció. Esto fue antes, esto fue antes. ¿Cómo fue antes?"
+},
+{
+"startMs": 2684848,
+"endMs": 2692808,
+"text": "El sueño. No. Porque si- ¿Cómo fue antes? Esto, esto es después, cuando ya lo quieren regresar Rabán Gamliel. No, pero no fue un buba yom, no seguimos un buba yom."
+},
+{
+"startMs": 2693049,
+"endMs": 2699589,
+"text": "Sí. Lo quitaron y ahorita ya se perdonó y ahorita quiere regresar. Por eso, pero entonces, ¿cuándo soñó? En la noche. En la noche."
+},
+{
+"startMs": 2699948,
+"endMs": 2707908,
+"text": "Por eso, esto fue antes. Es al otro día. No, yo creo que fue el lunes, ponte tú. Quitaron Rabán Gamliel, el martes pusieron a Rabí Elazar ben Azariah."
+},
+{
+"startMs": 2707928,
+"endMs": 2713749,
+"text": "No, porque si no, ¿cómo estaba triste que llegaron mil personas y ni siquiera hubiera sabido que llegaron mil personas? Es el martes que entró Rabí Elazar ben Azariah."
+},
+{
+"startMs": 2715288,
+"endMs": 2723769,
+"text": "Él estaba triste porque llegó mucha gente. Entonces, tuvo que primero llegar la gente y después él irse a dormir. El lunes quitaron Rabán Gamliel y el martes entró Rabí Elazar ben Azariah, entró la gente y pasó todo esto en Purim."
+},
+{
+"startMs": 2724109,
+"endMs": 2730828,
+"text": "Por eso, pero él, él no pudo, él no pudo-- él está triste. Si él está triste, tenía que haber sido que ya había pasado un día."
+},
+{
+"startMs": 2731509,
+"endMs": 2738408,
+"text": "Porque si no, ¿cómo supo que iban a llegar ochocientas personas? No, pasó todo el lunes. Pasó todo el lunes. El lunes es el ben Azariah. Pasó-- exacto, exacto."
+},
+{
+"startMs": 2738589,
+"endMs": 2744689,
+"text": "Por eso, pero entonces esto fue antes. No, fue el mismo día. Eso fue al otro día. No pasó una noche, porque soñó."
+},
+{
+"startMs": 2745328,
+"endMs": 2753209,
+"text": "Se puede ser. No pudo pasar la noche antes, porque si- A, a las siete quitaron Rabán Gamliel. ¿De qué? Sí, del nesiu."
+},
+{
+"startMs": 2754009,
+"endMs": 2761609,
+"text": "Entraron todos los talmidim. Entonces, ya no es un buba yom, ya es el siguiente día. No, es en la noche. En el día, en el día. Entonces, se fue a dormir Rabán Gamliel."
+},
+{
+"startMs": 2761788,
+"endMs": 2766629,
+"text": "Y lo siguiente ya no es un buba yom. Y el siguiente día fue el sipur de Yehuda con el Guedalmoni."
+},
+{
+"startMs": 2768868,
+"endMs": 2776288,
+"text": "Es el sipur de Yehuda. Además, no había habido noche. ¿Qué? No, más que todo esto está en orden, ¿por qué va a cambiar?"
+},
+{
+"startMs": 2776288,
+"endMs": 2783468,
+"text": "Por eso el buba yom. ¿A qué hora soñó Rabán Gamliel? Esa noche, la noche de antes. ¿Eh? La noche de antes."
+},
+{
+"startMs": 2783509,
+"endMs": 2790828,
+"text": "Pero esa noche de antes estamos hablando de buba yom. No, buba yom es el día que entró Rabí Elazar ben Azariah, todo ese día. Lo quitaron, se sentó a estudiar."
+},
+{
+"startMs": 2791328,
+"endMs": 2798629,
+"text": "No pide la . No más rebiclal que ese otro día, es ese día. Por eso, pero entonces está la pregunta de cuándo soñó."
+},
+{
+"startMs": 2798948,
+"endMs": 2801609,
+"text": "No sé, se fue a dormir en la noche, no importa."
+},
+{
+"startMs": 2803209,
+"endMs": 2809549,
+"text": "O sea, que técnicamente está difícil de entenderlo. Técnicamente, nada. Fue a las siete de la noche. No importa, no creo que sea importante."
+},
+{
+"startMs": 2810249,
+"endMs": 2816928,
+"text": "Quitaron a Rabán Gamliel a las siete. Se quedó estudiando, llegó el gel. Vete-- no, no ha llegado el gel. Metieron, no ha llegado."
+},
+{
+"startMs": 2817528,
+"endMs": 2824249,
+"text": "Metieron a setecientos talmidim. Dice que buba yom es Yom- Metieron a setecientos talmidim. Ya, a la bacón."
+},
+{
+"startMs": 2824249,
+"endMs": 2833649,
+"text": "¿Sí? Se fue Rabán Gamliel a dormir, tuvo el sueño. En la mañana llegó el gel y, y pasó la discusión de Rabán Gamliel a Rabí Yehoshua."
+},
+{
+"startMs": 2834068,
+"endMs": 2838488,
+"text": "Lo perdonó Rabán Gamliel, Rabí Yehoshua a Rabán Gamliel. Y todo esto está pasando."
+},
+{
+"startMs": 2841028,
+"endMs": 2841709,
+"text": "Entonces, dice..."
+},
+{
+"startMs": 2846428,
+"endMs": 2861028,
+"text": "Entonces, ahora tenemos el, el éfer miklé. Ahora también, fíjense. ¿A alguien le suena? Porque yo me acuerdo de otra, yo me acuerdo de otra Guemará que trae la misma historia, pero hace una cosa-- hay una cosa diferente que yo no vi aquí, que yo me acuerdo."
+},
+{
+"startMs": 2861028,
+"endMs": 2864948,
+"text": "¿Cuál? Yo me acuerdo que cuando Rabí Yehoshua le fue a preguntar a su esposa, su esposa le dijo--"
+},
+{
+"startMs": 2866368,
+"endMs": 2872888,
+"text": "Cuando Rabí Elazar ben Azariah le fue a, a decir a su esposa, su esposa le dijo: «No, porque qué pasa si mañana perdona a Rabán Gamliel»."
+},
+{
+"startMs": 2874169,
+"endMs": 2883969,
+"text": "Pero sí estaba Mephorash aquí, no dice eso. Dice: «¿Qué pasa si te quitan?». Pero me acuerdo que hay otra versión donde su esposa sí le dice- Puede ser ...«¿Y qué va, qué va, y qué va a pasar cuando quieran perdonar a Rabán Gamliel?»."
+},
+{
+"startMs": 2884068,
+"endMs": 2891189,
+"text": "Y ahí la Guemará contesta algo. Eso mismo, como lo de hoy. O sea, usarlo mientras pueda. No, pero aquí-- ahí te va, te la voy a buscar."
+},
+{
+"startMs": 2892109,
+"endMs": 2894028,
+"text": "Ahora aquí va Rabí Yehoshua."
+},
+{
+"startMs": 2897828,
+"endMs": 2898408,
+"text": "Dice--"
+},
+{
+"startMs": 2900609,
+"endMs": 2907669,
+"text": "juntos. Dice: «Ámale, ámalo Rabí Akiva a la Rabí Yehoshua. Rabí Yehoshua, ¿nitpayasta?"
+},
+{
+"startMs": 2907669,
+"endMs": 2912368,
+"text": "¿Que ya le perdonaste a Rabán Gamliel? Klum asino la bisvil kodeja»."
+},
+{
+"startMs": 2914308,
+"endMs": 2919388,
+"text": "Dice: «Tú piensas que acá la historia es una historia personal tuya, Rabí Yehoshua»."
+},
+{
+"startMs": 2923948,
+"endMs": 2928988,
+"text": "A usted a rogarle. A pedir que regrese. Ah, no. Entonces, entonces sí le está diciendo que lo hicieron para él."
+},
+{
+"startMs": 2931669,
+"endMs": 2940348,
+"text": "Entonces, haré todo lo que hicimos, lo hicimos realmente por ti. Ya lo perdonaste, lo regresamos. Pues vamos juntos, yo y tú, a su casa."
+},
+{
+"startMs": 2943028,
+"endMs": 2943828,
+"text": "¿Cómo la vamos a hacer?"
+},
+{
+"startMs": 2945149,
+"endMs": 2948368,
+"text": "Entonces, ¿qué? ¿Quitamos a Rabí Elazar ben Azariah? Que mire,"
+},
+{
+"startMs": 2951028,
+"endMs": 2955288,
+"text": "¿sí? Haré solo . A él ya le salió barba blanca, lleva un día con su barba."
+},
+{
+"startMs": 2961288,
+"endMs": 2963448,
+"text": "Entonces, que sean-- se turnen."
+},
+{
+"startMs": 2966229,
+"endMs": 2968868,
+"text": "¿Sí? Dice: «Va, va a ver quiéná»."
+},
+{
+"startMs": 2972888,
+"endMs": 2973769,
+"text": "Dos. Tres."
+},
+{
+"startMs": 2975049,
+"endMs": 2979729,
+"text": "Tres shabatot de Rabí Elazar ben Azariah, Tres una. ¿Sí?"
+},
+{
+"startMs": 2984649,
+"endMs": 2988788,
+"text": "Entonces, ya que Rabí Elazar ben Azariah ya lo tienen que bajar, pero no lo pueden bajar,"
+},
+{
+"startMs": 2991209,
+"endMs": 2995328,
+"text": "entonces lo tienes que dejar lo mínimo que lo puedes dejar, y es una vez al mes."
+},
+{
+"startMs": 2997568,
+"endMs": 3000808,
+"text": "Porque si no, ya no. ¿Sí? Dice:"
+},
+{
+"startMs": 3004368,
+"endMs": 3009729,
+"text": "Hay Mishnayot, una Braita que dice: «¿Y este shabat de quién era?». Dice Rabí Elazar ben Azariah:"
+},
+{
+"startMs": 3012845,
+"endMs": 3017245,
+"text": "Esta hay que ver esta Brighton Haiguía. Haiguía Dafquímela Mudale. Nada más acabamos el"
+},
+{
+"startMs": 3018984,
+"endMs": 3018984,
+"text": "--"
+},
+{
+"startMs": 3020384,
+"endMs": 3027225,
+"text": "pero total, mil. Nada más, se ve como un error, ¿no? O sea, como que se equivocaron en rápido y hubieran decidido ponerlo a Rablosio, ¿no?"
+},
+{
+"startMs": 3027924,
+"endMs": 3035564,
+"text": "Pero sé que no. No, sé que no. Por eso digo- Barra ya el sueño, barra ya que entraron los Talmidín, barra ya que se contestaron todas las preguntas."
+},
+{
+"startMs": 3035604,
+"endMs": 3043805,
+"text": "Es como que Rab-- Rabangabriel regrese, pero que entienda el musel qué pasó. Algo así. Entienda que necesita algo de Rablosio. Exactamente, sí, exactamente."
+},
+{
+"startMs": 3043845,
+"endMs": 3051125,
+"text": "Ahora, ¿quién era ese Talmid? Pero todo Talmid, el que preguntó si Filat David Jobao Resut. Shimon Ben Yohai Abba."
+},
+{
+"startMs": 3051125,
+"endMs": 3054884,
+"text": "Ben Yohai Abba. En el play. Que quién es? Echamaia."
+},
+{
+"startMs": 3056665,
+"endMs": 3059685,
+"text": "No, está preguntando. Sí, pero dijo, es Talmid Echamaia."
+},
+{
+"startMs": 3062285,
+"endMs": 3069205,
+"text": "Rab Shimon. Rashi. Rashi. Rashi. Guau. Esta está fenomenal este."
+},
+{
+"startMs": 3069225,
+"endMs": 3074305,
+"text": "¿Quién más que dijo? Hay que ver, dice: Haiguía Dafquímela Mudale. A ver. No, haya Quimo."
+},
+{
+"startMs": 3076464,
+"endMs": 3079165,
+"text": "Oye, otra pregunta que pongo, la que preguntaba Tony aquí."
+},
+{
+"startMs": 3080644,
+"endMs": 3087144,
+"text": "Areani, Areani que ven Chuí Shaná, pero saquiste que se llama y se llama Memlok Ad, de la-- de la semana de Tomás."
+},
+{
+"startMs": 3089384,
+"endMs": 3096524,
+"text": "Ya, la autor, puede ser cualquiera de los autores que siguió él. ¿Desde cuándo hay que ver esta música? Modto Yo, Lokto Yo."
+},
+{
+"startMs": 3097365,
+"endMs": 3104064,
+"text": "Todo, todo pasó Modto Yo. Esa. Llaman Hazak, llamaban Hazak, ¿no? ¿No fue en Madrid en la noche de-- de Benjamín?"
+},
+{
+"startMs": 3104064,
+"endMs": 3111265,
+"text": "¿Qué? En la noche que, que estaban desvelando toda, toda la noche. Puede ser. En la gala lo decimos, también está."
+},
+{
+"startMs": 3111325,
+"endMs": 3119245,
+"text": "Areani que ven Chuí Shaná. Y también lo mismo aquí en Veracruz. No, pero eso no, no fue en la noche de esa noche. Fue cualquier día. Ese día, son-- fue ese."
+},
+{
+"startMs": 3119404,
+"endMs": 3126125,
+"text": "¿Qué era? Dafquímela Mudale, Tano Rabanán, Masé para Piojame en Broca."
+},
+{
+"startMs": 3126384,
+"endMs": 3132484,
+"text": "Sí, puede ser como ese, porque ahí la laja quedó con Benjamin. Ah, no, no ha sido. No sé, no sé. No, no, no ha sido. Fue."
+},
+{
+"startMs": 3132524,
+"endMs": 3138825,
+"text": "Haiguía Dafquímela Mudale, dice: Tano Rabanán. ¿Qué dijo?"
+},
+{
+"startMs": 3138884,
+"endMs": 3141444,
+"text": "Guímela Mudale. Hasta estaba."
+},
+{
+"startMs": 3143305,
+"endMs": 3144625,
+"text": "No, no, Maase Rabí Johanan."
+},
+{
+"startMs": 3146604,
+"endMs": 3147225,
+"text": "Ben Berosh."
+},
+{
+"startMs": 3149144,
+"endMs": 3155305,
+"text": "Tano Rabanán, Maase Rabí Johanan, Ben Broca, Rabí Eleazar, Ben Jasma, Shehalju Lejakbil etpenei Rabí Yoshua bebkím."
+},
+{
+"startMs": 3155544,
+"endMs": 3162904,
+"text": "Entonces, ya tenemos a Rabí Yoshua. Y fue El Aná Lejakbil panav. Amar lahem: «Ma hidush haya bebet hamidrash hayom»."
+},
+{
+"startMs": 3163484,
+"endMs": 3169685,
+"text": "¿Qué? ¿Qué hidush oy? Amru lo: «Talmideja anu umeimeja anu shuiti»."
+},
+{
+"startMs": 3170085,
+"endMs": 3176444,
+"text": "Dice: «No, nosotros somos tus talmidim, queremos escuchar de ti». Amar lahem: «Afal piken, i eshen lebet midrash blo jidush."
+},
+{
+"startMs": 3177845,
+"endMs": 3187024,
+"text": "Shabat shel mi haita?». ¿Este Shabat de quién era? ¿De Rabán Gambiel o de Rabí Eleazar Ben Azariah? Entonces, le contestaron: «Shabat shel Rabí Eleazar Ben Azariah haita»."
+},
+{
+"startMs": 3187024,
+"endMs": 3193325,
+"text": "«¿Uema haita hagadá hayom?». ¿De qué hablaron hoy? Amru lo: «Beperashat Jakel»."
+},
+{
+"startMs": 3193384,
+"endMs": 3200125,
+"text": "«¿Uma la harashba?». ¿Cuál fue la darashá? «Jakel et-haam, a nashim ve'anashim ve'ataf»."
+},
+{
+"startMs": 3201305,
+"endMs": 3208564,
+"text": "Dice: «Hay que hacer Jakel». Jakel es una mitzvá de reunir a todos en Sucot cada siete años en el Bet Hamikdash."
+},
+{
+"startMs": 3209625,
+"endMs": 3217044,
+"text": "A nashim, nashim ve'ataf, y los niños. «Im ha'nashim báim limod», los hombres vienen a estudiar."
+},
+{
+"startMs": 3217104,
+"endMs": 3224345,
+"text": "«Nashim baut lishmo», las mujeres vienen a escuchar. «Taflama báim», ¿pa qué traes a los niños?"
+},
+{
+"startMs": 3225285,
+"endMs": 3232205,
+"text": "Entonces, dijo Rabí Eleazar: «Dea kidei liten sajarleme bien». Para darles sajár a los que traen a los niños."
+},
+{
+"startMs": 3232504,
+"endMs": 3242504,
+"text": "Papel. A ver, estás preguntando que no tiene ningún sentido traer a los niños, y dices: «El sentido de traer a los niños es pagarle a que los traiga, aunque es-- aunque no hay sentido traerlo»."
+},
+{
+"startMs": 3243625,
+"endMs": 3249705,
+"text": "Amar lahem: «Margalit tovah haita beiedjem. Uiqashtem leavdá miméni»."
+},
+{
+"startMs": 3249725,
+"endMs": 3256845,
+"text": "«Go darash», también Rabí Eleazar Ben Azariah. «Et Hashem he'emar de hayom ve'Hashem himiljá hayom»."
+},
+{
+"startMs": 3256964,
+"endMs": 3263504,
+"text": "Amarlem Hakadosh Baruch Hu le Israel: «Atem asituni jativá ajat ba'olam ve'ani ezé etjem jativá ajat ba'olam»."
+},
+{
+"startMs": 3263564,
+"endMs": 3272904,
+"text": "«Ustedes me citaron jativá ajat ba'olam». «Ijtiv shema itan Hashem lekodesh Shem ejad ve'ani ezé jativá ajat ba'olam shehe'emar: Mi kameja Israel goy ejad ba'aretz»."
+},
+{
+"startMs": 3274044,
+"endMs": 3280644,
+"text": "Sí. «Ve'afú patáj ve'darash», y vino Rabí Yoshua y también en darash, «dibrei jajamim kador benot»."
+},
+{
+"startMs": 3283345,
+"endMs": 3283504,
+"text": "Sí."
+},
+{
+"startMs": 3284865,
+"endMs": 3290825,
+"text": "Dice: «Uke mishmarot betuím, ba'alei asufot nitnu miroé ejad»."
+},
+{
+"startMs": 3292865,
+"endMs": 3295944,
+"text": "Entonces, las palabras de los jajamim son kador benot."
+},
+{
+"startMs": 3301305,
+"endMs": 3307665,
+"text": "O sea, esto va a hablar de LW, de LW Kim Jaim, está. Dice-- ah, no, no, no, perdón. Tercera."
+},
+{
+"startMs": 3308505,
+"endMs": 3319064,
+"text": "Es de Rabí Eleazar Ben Azariah, así explica Rashi, que no es, eh... El Majar dice más que eso lo dice ya Rabí Yoshua, y según Rashi es otra darashá de Rabí Eleazar Ben Azariah."
+},
+{
+"startMs": 3321665,
+"endMs": 3327765,
+"text": "Dice: «Lama nimshilu dibrei Torá ledarban?». ¿Por qué se comparó la Torá a un darban?"
+},
+{
+"startMs": 3327865,
+"endMs": 3336865,
+"text": "Darban es un metal que, que, que es puntiagudo de un lado, ¿sí?"
+},
+{
+"startMs": 3337805,
+"endMs": 3343165,
+"text": "Tipo como que pa picar cosas o algo así se usaba. Entonces, ¿por qué la Torá se compara a ese darban?"
+},
+{
+"startMs": 3344724,
+"endMs": 3346224,
+"text": "Dice: «Ma darban zeh"
+},
+{
+"startMs": 3347424,
+"endMs": 3354805,
+"text": "mejaven et apará le talmea?». ¿Sí? Litla mea. Dirige a la pará."
+},
+{
+"startMs": 3354805,
+"endMs": 3361785,
+"text": "¿Sí? Es como que se pone para que la, la, la pará haga los, los surcos."
+},
+{
+"startMs": 3362524,
+"endMs": 3369165,
+"text": "Dice: «Ke'de lo tsijá im la olam». Y que de ahí se hacen esos surcos para que puedan plantar."
+},
+{
+"startMs": 3369564,
+"endMs": 3376365,
+"text": "«Am dibrei Torá mejavnim et komdehem midarkei mitad ledarkei jaim». ¿Sí?"
+},
+{
+"startMs": 3376424,
+"endMs": 3383125,
+"text": "Los mueven de darkei mitad a darkei jaim. O sea, ¿usarías tú ese, ese mazal? O sea, ¿yo qué quiero decir?"
+},
+{
+"startMs": 3383205,
+"endMs": 3390665,
+"text": "Antes de que la pará exista, yo nada más quería saber que la Torá madrijá de darkei mitad a darkei jaim."
+},
+{
+"startMs": 3392184,
+"endMs": 3399024,
+"text": "A ver, ¿qué ejemplo, qué ejemplo? Ah, sí. El palo de metal que las vacas usan para..."
+},
+{
+"startMs": 3399064,
+"endMs": 3401365,
+"text": "Es la cuchilla que va arando. Que va arando. La..."
+},
+{
+"startMs": 3403265,
+"endMs": 3410865,
+"text": "¿La usas? Ese, ese es el ejemplo que usas. Ese es el ejemplo de que quitas- A ver, quiero ahorita que me digas- Está muy amor-- no, siempre es amor."
+},
+{
+"startMs": 3411085,
+"endMs": 3418904,
+"text": "Siempre es amor. Porque tú con rayar, eso no da la vida, da la vida de sembrar, da la vida de la lluvia, da... No, la primera arada de la tierra es la raíz de la vida."
+},
+{
+"startMs": 3420943,
+"endMs": 3421483,
+"text": "Está bueno."
+},
+{
+"startMs": 3422723,
+"endMs": 3426783,
+"text": "Sí, sí está bueno. O sea, ¿dónde empezó la vida? ¿Con quién lo de Dios?"
+},
+{
+"startMs": 3435843,
+"endMs": 3437563,
+"text": "Son cosas pasajeras."
+},
+{
+"startMs": 3440783,
+"endMs": 3447563,
+"text": "Son masmerot. [hablante 4] Que huim la. Son, son huim. Dice. [hablante 4] ¿Qué es un martillo? No, como un..."
+},
+{
+"startMs": 3448103,
+"endMs": 3453023,
+"text": "[hablante 4] ¿Martillo? No, lo que se clava. [hablante 4] Clavo. Clavo. Dice:"
+},
+{
+"startMs": 3456363,
+"endMs": 3461243,
+"text": "Cuando entra, ¿sí? Eh, eh, l-l-le quita de la pared,"
+},
+{
+"startMs": 3465383,
+"endMs": 3479323,
+"text": "¿sí? Como que se meten en la persona, pero le hacen un hoyo. ¿Me explico? O sea, se, se, se mete en la persona, se impregna, pero al final, pues de la misma manera dañaste la pared al final, hiciste un hoyo."
+},
+{
+"startMs": 3482043,
+"endMs": 3488883,
+"text": "Dice, netuim es que sí clavaste algo, pero eso mismo se hace parte y crece."
+},
+{
+"startMs": 3489543,
+"endMs": 3489743,
+"text": "Dice:"
+},
+{
+"startMs": 3493843,
+"endMs": 3494163,
+"text": "Dice:"
+},
+{
+"startMs": 3520443,
+"endMs": 3521603,
+"text": "¿Cómo voy a estudiar Torá?"
+},
+{
+"startMs": 3525083,
+"endMs": 3526643,
+"text": "¿Sí? Eso se llama"
+},
+{
+"startMs": 3528603,
+"endMs": 3531143,
+"text": "Pele que también se nos está conectando esto. Dice:"
+},
+{
+"startMs": 3535103,
+"endMs": 3536863,
+"text": "Todo viene de Ta-- de, de Hashem."
+},
+{
+"startMs": 3541823,
+"endMs": 3547783,
+"text": "¿Sí? Lo dijo Moisés de la boca de Hashem, las dos shitot. Dice:"
+},
+{
+"startMs": 3555403,
+"endMs": 3556463,
+"text": "Ya que todos,"
+},
+{
+"startMs": 3557943,
+"endMs": 3559263,
+"text": "los dicen"
+},
+{
+"startMs": 3560783,
+"endMs": 3563023,
+"text": "Entonces, , ¿qué tienes que hacer tú, talmid de ellos?"
+},
+{
+"startMs": 3565843,
+"endMs": 3568683,
+"text": "Tienes que hacer tu oído como un cliki bul."
+},
+{
+"startMs": 3570003,
+"endMs": 3576503,
+"text": "Dice acá-- dice: [hablante 4] Es lo mismo de la sembrada."
+},
+{
+"startMs": 3576703,
+"endMs": 3578463,
+"text": "La sembrada. Dice:"
+},
+{
+"startMs": 3584203,
+"endMs": 3590483,
+"text": "Acá ya estamos hablando del molino donde pones los gitín, ¿sí?"
+},
+{
+"startMs": 3591183,
+"endMs": 3594263,
+"text": "Y, y los gitín van entrando y el molino va moliendo."
+},
+{
+"startMs": 3595523,
+"endMs": 3601603,
+"text": "Otra vez acá. Tus oídos se comparan al molino que echa los gitín. [hablante 4]"
+},
+{
+"startMs": 3603083,
+"endMs": 3611323,
+"text": "¿Qué es de Rashi? ¿Qué dice Rashi? [hablante 4] Que es-- escucha los dos y, y ahí no dice quién es, quién es el Guau."
+},
+{
+"startMs": 3612683,
+"endMs": 3613103,
+"text": "A ver."
+},
+{
+"startMs": 3624283,
+"endMs": 3625663,
+"text": "Tienes que saber todas las shitot."
+},
+{
+"startMs": 3630543,
+"endMs": 3632443,
+"text": "Y cuando veas cuál es kasher,"
+},
+{
+"startMs": 3644803,
+"endMs": 3647783,
+"text": "[hablante 4] Que le haga lev neimi."
+},
+{
+"startMs": 3659783,
+"endMs": 3665183,
+"text": "Que tengas todas y entiendas realmente todas. Dice. [hablante 4] Dice acá que"
+},
+{
+"startMs": 3667643,
+"endMs": 3669883,
+"text": "dijo. Y entonces cuando Rab Yehoshua escuchó,"
+},
+{
+"startMs": 3678782,
+"endMs": 3687903,
+"text": "Dice: \"La generación que Rab Eliezer ben Azaria está con ellos, no es un doria tom\". Esto es un paralelo muy fuerte con HaRabán Gamaliel."
+},
+{
+"startMs": 3688543,
+"endMs": 3691723,
+"text": "Pobre dor que, que tú eres el parnas."
+},
+{
+"startMs": 3693123,
+"endMs": 3704223,
+"text": "O sea, ¿por qué estas palabras de Rab Eliezer ben Azaria salen según esto es que estas tres Rab Eliezer ben Azaria son el hoyo que está cubriendo a Rabán Gamaliel."
+},
+{
+"startMs": 3704223,
+"endMs": 3707623,
+"text": "[hablante 4] Y no le hace un hoyo mal, lo, lo, lo cub-- Ahora, escuchen esto."
+},
+{
+"startMs": 3708983,
+"endMs": 3720423,
+"text": "O sea, aquí está muy dak. Pero ¿cuál fue el error de Rabán Gamaliel? [hablante 4] No escuchar. No haber escuchado a Rab Yehoshua, no escuchar la otra shitá, no conocer el mundo de Rab Yehoshua."
+},
+{
+"startMs": 3720783,
+"endMs": 3730663,
+"text": "Y ahorita la shi-- todas las shitá de Rab Eliezer ben Azaria es realmente saber escuchar a cada uno de las deot y, y saber la jería después de que sabes escuchar."
+},
+{
+"startMs": 3730663,
+"endMs": 3735163,
+"text": "[hablante 4] Gracias. Dictadura contra democracia."
+},
+{
+"startMs": 3741223,
+"endMs": 3741463,
+"text": "Dice:"
+},
+{
+"startMs": 3743103,
+"endMs": 3747803,
+"text": "Dice: ¿Y por qué no le dijeron Rab Johan Ben, Ben Broque, Rab Eliezer ben Azaria"
+},
+{
+"startMs": 3754863,
+"endMs": 3759303,
+"text": "? Oye, ¿por qué no vinieron directamente y le dijeron la derasha? O sea, ¿por qué le dijeron"
+},
+{
+"startMs": 3761303,
+"endMs": 3768123,
+"text": "primero ? Si tenían cosas tan buenas, ¿por qué-- díselas, qué tanto? Lo dijo Rab Eliezer ben Azaria. Dice:"
+},
+{
+"startMs": 3777803,
+"endMs": 3783835,
+"text": "Entonces, una vez fue Rab Yoisi a-- con la, con Rab Eliezer. No sé si es Rabí Elazar ben Azariah, no sé."
+},
+{
+"startMs": 3784615,
+"endMs": 3789135,
+"text": "Entonces dice: ¿ma hitudush haya bebet hamidrásh hayom? Amar lo,"
+},
+{
+"startMs": 3790395,
+"endMs": 3791015,
+"text": "nimnu."
+},
+{
+"startMs": 3794495,
+"endMs": 3800635,
+"text": "Y gamru. Nimnu y gamru. ¿Qué es esto? No sé. No sé."
+},
+{
+"startMs": 3801235,
+"endMs": 3802195,
+"text": "Amón y Moab."
+},
+{
+"startMs": 3803595,
+"endMs": 3818695,
+"text": "No lo escuché . Es sobre si tienen maserot o no. Son Eretz Israel o no. Sí, las tierras de Amón y Moab, Arei, son las tierras que nosotros conquistamos de Jutz Laaretz para hacerlas partes de Eretz Israel."
+},
+{
+"startMs": 3819215,
+"endMs": 3823815,
+"text": "Pero cuando nos fuimos en Galut, ¿se llama todavía Eretz Israel o no? Dice,"
+},
+{
+"startMs": 3826275,
+"endMs": 3832535,
+"text": "dice: Amón y Moab meastrin maser aním be'shvit. ¿Tiene din de Eretz Israel o no?"
+},
+{
+"startMs": 3832635,
+"endMs": 3840335,
+"text": "Yehudim que viven ahí. Tiene- Tiene que ver con el . Es como gerut, sí. Amar lo, Yoishi,"
+},
+{
+"startMs": 3841755,
+"endMs": 3848875,
+"text": "shot yedekha bekabele einecha. Se enojó Rab Elozor. No, es al revés. Amar lo Yesh."
+},
+{
+"startMs": 3851815,
+"endMs": 3859335,
+"text": "Sí. Nimnu egamru Amón y Moab meastrin maser aním be'shvit. Significa que sie-tienen din de Eretz Israel."
+},
+{
+"startMs": 3860695,
+"endMs": 3871095,
+"text": "Muy parecido a la moní que tiene din de yehudí, que también acá es una moní, pero no es la moní original, sino es de la moní después del Jurbán."
+},
+{
+"startMs": 3871255,
+"endMs": 3871755,
+"text": "¿Me explico?"
+},
+{
+"startMs": 3872995,
+"endMs": 3883875,
+"text": "Que esa es la shela acá. Am- Que hace bikvelut. Amar lo, Yoishi, shot yedekha bekabele einecha. Dice: \"Tápate con tus oj-- manos tus ojos\"."
+},
+{
+"startMs": 3885695,
+"endMs": 3892095,
+"text": "Porque Rabí Elazar le molestó que Rab Yoishi le dio shebaj a ese darshán."
+},
+{
+"startMs": 3896195,
+"endMs": 3907815,
+"text": "Porque, porque dice acá, porque Anshei Knesset HaGedola ya había hecho esa takaná de que Amón y Moab tienen din de kedushat maser para shvit."
+},
+{
+"startMs": 3913035,
+"endMs": 3920095,
+"text": "Y la kapadá seguramente, ¿cuál es? De que Rab Yoishi no le dijo talmid de Jani, porque para eso está tratando la Guemará."
+},
+{
+"startMs": 3920835,
+"endMs": 3923195,
+"text": "Pashat yadav beki vel einav."
+},
+{
+"startMs": 3926855,
+"endMs": 3933295,
+"text": "Vel einav. Y entonces ya se hizo como un Morea Lajav Yitshak Rabó y es Jayav Mità."
+},
+{
+"startMs": 3935235,
+"endMs": 3937235,
+"text": "Y gazara la Rabí Elazar."
+},
+{
+"startMs": 3941355,
+"endMs": 3944015,
+"text": "Gazá Rabí Elazar que se haga ciego."
+},
+{
+"startMs": 3945775,
+"endMs": 3953955,
+"text": "Se hizo pa que se haga ciego Rabí Yoishi. Dice: Bajar Rabí Elazar veamar sod Hashem lirieav uberitó leodiam."
+},
+{
+"startMs": 3957895,
+"endMs": 3961055,
+"text": "She mechaberim leemet af ve lidadat- kaf pei las sivót hamitiot."
+},
+{
+"startMs": 3963655,
+"endMs": 3964115,
+"text": "Ya son de"
+},
+{
+"startMs": 3966335,
+"endMs": 3967555,
+"text": ". ¿Qué? Es que"
+},
+{
+"startMs": 3969095,
+"endMs": 3977315,
+"text": ". Sí. Amar lo. Espérenme dos segundos. Amar lo, leje mor lahem al taju shu leminianejem."
+},
+{
+"startMs": 3983315,
+"endMs": 3997255,
+"text": "Rabí Elazar dijo, pele que este jajam lo dijo meatsmó cuando ya existía esa takaná y ellos lo dijeron midin sod Hashem lirieav uberitó leodiam, que tenían como un roaj häkodes de decir lo mismo que ya habían dicho, eh, Anshei Knesset HaGedola."
+},
+{
+"startMs": 3998555,
+"endMs": 4003455,
+"text": "Entonces, le dijo Rabí Elazar a Rabí Yoishi: Leje mor lahem al taju shu leminianejem."
+},
+{
+"startMs": 4004755,
+"endMs": 4009735,
+"text": "No crean que hacemos minian para hacer takaná hadashá. Eso, no es su takaná."
+},
+{
+"startMs": 4012675,
+"endMs": 4022395,
+"text": "Are, kaj mekublanú- Dice kaj mekublanú meraban Yohanan ben Zakkai, she shamah mirabó, vrabó mirabó, hiljeta lamoishe mesina, yamón umoa meastrin maser aním be'shvit."
+},
+{
+"startMs": 4022915,
+"endMs": 4029315,
+"text": "Ma ha tam. ¿Cuál es el motivo? Harbe i karajim kavshu mole mitraim. Hubo muchas,"
+},
+{
+"startMs": 4030855,
+"endMs": 4032655,
+"text": "eh, ciudades que"
+},
+{
+"startMs": 4034015,
+"endMs": 4040334,
+"text": "los Ole Mitzraim, en el tiempo de Moisés, conquistaron y itkatsú. Ve lo kivshu mole Babel."
+},
+{
+"startMs": 4040855,
+"endMs": 4051375,
+"text": "Luego, después de Beit Sheeni, ya no se volvieron a reconquistar. Nipnei she kidusha rishona kitsa leshaata, ve lo kitsa leatid lavó."
+},
+{
+"startMs": 4053615,
+"endMs": 4057415,
+"text": "Ve nihum kedes ismeju alehem aním be'shvit."
+},
+{
+"startMs": 4062255,
+"endMs": 4062715,
+"text": "La pele"
+},
+{
+"startMs": 4067215,
+"endMs": 4075515,
+"text": ". La primera kidusha es una kidusha lejaá. Sí, o sea, no se quedó con su kidusha de Oraita, ¿sí?"
+},
+{
+"startMs": 4076095,
+"endMs": 4076495,
+"text": "Pero..."
+},
+{
+"startMs": 4078535,
+"endMs": 4087895,
+"text": "Y nihum kedes ismeju alehem aním be'shvit, por la tobá de los aním, la dejaron con una kidusha Rabanan, para que con todo y todo los aním pueden comer."
+},
+{
+"startMs": 4089935,
+"endMs": 4101615,
+"text": "O no, no sé, o estoy diciendo al revés. She lo ihu hassadot shel otam karajim hefker jakol kedin shvit, ve ienu aním gam beshaná ha'shvit mibatnot aním, kegon maser ani leket shikja,"
+},
+{
+"startMs": 4103035,
+"endMs": 4104395,
+"text": "ani leket ve kalome."
+},
+{
+"startMs": 4115975,
+"endMs": 4127775,
+"text": "Dice Tana lejar she nitiashvá dató, amar yehi ratzón she yajzerú eneí Yoishi limkomán. Después de que Rabí Eliezer, eh, Rabí Elazar nitiashvá dató, pidió tefilá que regrese a ver."
+},
+{
+"startMs": 4129175,
+"endMs": 4134075,
+"text": "Vejasrú. En ese mismo, se enoja en ese momento, pone la- Se va, se regresa."
+},
+{
+"startMs": 4135355,
+"endMs": 4135715,
+"text": "Punto."
+},
+{
+"startMs": 4137975,
+"endMs": 4143535,
+"text": "Sodot. Vejasrú. Jasrú. Está esto- Que pille esta . Sí."
+},
+{
+"startMs": 4145555,
+"endMs": 4148155,
+"text": "Está muy pele, no he entendido absoluto todo."
+}
+]
+}

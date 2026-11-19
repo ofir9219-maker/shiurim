@@ -1,0 +1,3996 @@
+{
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+"segments": [
+{
+"startMs": 960,
+"endMs": 2380,
+"text": "Dice... ¿Qué?"
+},
+{
+"startMs": 4920,
+"endMs": 9980,
+"text": "Dice: Mishna Yod Alef, Amud Alef, hasta abajo. BaShachar"
+},
+{
+"startMs": 11400,
+"endMs": 22120,
+"text": "mevarej shataim lefaneha ve'ajad lejareha. Entonces, estamos hablando aquí de las berajot del Kriyat Shema, que en Shacharit se dicen dos berajot antes del Kriyat Shema y una después del Kriyat Shema."
+},
+{
+"startMs": 22740,
+"endMs": 23640,
+"text": "Uba'erev"
+},
+{
+"startMs": 25220,
+"endMs": 30000,
+"text": "mevarej shataim lefaneha- Shataim lejareha. Shataim lejareha. Dos antes y dos después."
+},
+{
+"startMs": 32800,
+"endMs": 41560,
+"text": "Ajat aruka ve'ajat ketsarah. ¿Está hablando de la noche o de la mañana o de las dos? Dice: Shataim lejareha de Arvit cae."
+},
+{
+"startMs": 43160,
+"endMs": 51020,
+"text": "Dice, entonces, en Arvit se dice una aruka, que es, eh, ve'emunah kol zot, ve'ajat ketsarah es Hashkiveinu."
+},
+{
+"startMs": 51800,
+"endMs": 59660,
+"text": "Dice: Makom sheamru leharich eno rashai lekatsel. Si jámin establecieron la berajá larga, no lo puedes hacer corta."
+},
+{
+"startMs": 60320,
+"endMs": 67360,
+"text": "Lekatsel, eno rashai leharich, no lo puedes hacer más larga. Lachtom, eno rashai shelo lachtom."
+},
+{
+"startMs": 67900,
+"endMs": 71900,
+"text": "Si es una berajá que tiene jatimah, que acaba Baruj ata Hashem,"
+},
+{
+"startMs": 73760,
+"endMs": 79980,
+"text": "eh, ama'ariv aravim. Si es una berajá que empieza con berajá y acaba con berajá. ¿Sí?"
+},
+{
+"startMs": 80040,
+"endMs": 87540,
+"text": "O yozer, por ejemplo, empieza Baruj ata Hashem y acaba-- Yozer, empieza: Yozer uvosheaj, Baruj ata Hashem, yozer ha'meorot."
+},
+{
+"startMs": 87920,
+"endMs": 100080,
+"text": "Pero la segunda berajá, que es Ahavat Olam avtanu, esa no acaba con Baruj ata Hashem. Entonces, hay berajot que son como Asher yatzar, que empiezan Baruj ata Hashem y acaban con Baruj ata Hashem."
+},
+{
+"startMs": 100120,
+"endMs": 106620,
+"text": "Y hay berajot que son tipo Elokai neshamá, que es una berajá larga y que nada más acaba con..."
+},
+{
+"startMs": 106940,
+"endMs": 118300,
+"text": "Eso es jatimah. Es, e-e-e-eso-- Sí, acaba con, eh, acaba con Baruj. Ahora, hay berajot que no son largas, por ejemplo, que es nada más la berajá, Shehakol niha bih varó."
+},
+{
+"startMs": 118820,
+"endMs": 130300,
+"text": "Entonces, ¿qué pasa si alguien quiere leharich? No hay. Y decir Baruj ata Hashem Elokeynu melej haolam, asher bara et, eh, takol y no sé qué, ta, ta, ta, y quiere acabar Baruj ata Hashem Shehakol niha bih varó."
+},
+{
+"startMs": 130340,
+"endMs": 142520,
+"text": "No puedes. O incluso que no acabes con Baruj ata Hashem, y la que es larga, no puedes. Dice: Lekatsel, eno rashai, eno rashai leharich, lajtom, eno rashai shelo lajtom, shelo lajtom, eno rashai lajtom."
+},
+{
+"startMs": 142560,
+"endMs": 151220,
+"text": "Shacharit cuál es una de esos, eh, lefaneha. Entonces, yozer y Ahavat Olam. Y acabando es Emét ve-Yatziv."
+},
+{
+"startMs": 151740,
+"endMs": 152860,
+"text": "Para la gente que quiere. Ya."
+},
+{
+"startMs": 154120,
+"endMs": 160580,
+"text": "Sí, y que acaba con Gaal Israel, es Ahavat Olam y acaba con Gaal Israel, ahí solo es ajat lejareha."
+},
+{
+"startMs": 161380,
+"endMs": 170860,
+"text": "Y en Arvit tienes shataim lefaneha y shataim lejareha. Shataim lefaneha que son... Ama'ariv aravim y Ahavat Olam."
+},
+{
+"startMs": 171240,
+"endMs": 173900,
+"text": "Lejareha, ve'emunah y Hashkiveinu. Ve'emunah y Hashkiveinu."
+},
+{
+"startMs": 175420,
+"endMs": 184840,
+"text": "Ahora aquí, ahora dice el Rashí, dice: Shajar mevarej shataim, que eran las berajot que dijo Shmona Esrei, berajot, halalu al Shem, sheva beyom hilalticha."
+},
+{
+"startMs": 185180,
+"endMs": 192540,
+"text": "Siete veces te alabé al día. Entonces- ¿Cómo salen siete? Porque si haces en la- Dos, cuatro, sí, cinco, seis, siete, sí."
+},
+{
+"startMs": 192560,
+"endMs": 200440,
+"text": "Tres, cinco, seis. Espérate que a la Laila le llamó Yom. ¿Mmm? A la Laila le está llamando Yom. A la mañana uno y dos, van tres."
+},
+{
+"startMs": 201000,
+"endMs": 207620,
+"text": "Va Yom. Cuatro, tranquilo en el día. Dos. Las veinticuatro. Sí, sí, siempre hay Yom."
+},
+{
+"startMs": 208240,
+"endMs": 217400,
+"text": "Se puede usar solo las veinticuatro horas. Ajat aruka ve'ajat ketsarah, shataim lejareha de Arvit cae, nu shajar era aruka, Emét ve-emunah, ketsarah, Hashkiveinu."
+},
+{
+"startMs": 217740,
+"endMs": 227420,
+"text": "O sea, es lo mismo, nomás que te dice cuál. Lachtom, ve Baruj, shelo lajtom, que como en Birkat HaPerot, mitzvot, que no es una jatimah, sino es una berajá simple."
+},
+{
+"startMs": 227720,
+"endMs": 235760,
+"text": "Baruj ata Hashem, Elokeynu melej haolam, Shehakol niha bih varó. Y no tiene una jatimah. Baruj ata Hashem, Elokeynu melej haolam, Baruj, Shehakol niha bih varó."
+},
+{
+"startMs": 235800,
+"endMs": 245980,
+"text": "No, sino, si es una berajá que empieza con la berajá y ahí acaba. No, no tiene una jatimah después que acabas con otro Baruj ata Hashem, ¿sí?"
+},
+{
+"startMs": 246740,
+"endMs": 251580,
+"text": "Ahora, hay algo muy raro aquí en la Mishna, que si se ponen a pensar,"
+},
+{
+"startMs": 253740,
+"endMs": 254280,
+"text": "todo lo que,"
+},
+{
+"startMs": 255520,
+"endMs": 258000,
+"text": "todo lo que a nosotros no nos interesaría,"
+},
+{
+"startMs": 260019,
+"endMs": 263580,
+"text": "eh, saber, es lo ún-- lo único que te platica la Mishna."
+},
+{
+"startMs": 265080,
+"endMs": 274760,
+"text": "Claro, ya, siempre es lo que es, es, nunca-- Shehakol niha bih varó, no puedes decir me yo no, pero si quieres alargar, pues puedes. No, pero esa es la Seifa, la Seifa todavía tiene un deal, pero yo estaba hablando está en general, la Reisha."
+},
+{
+"startMs": 274760,
+"endMs": 281720,
+"text": "¿Cuáles son? Tú dices, ¿cuáles son? No me dices cuáles, no me-- No me digas cuánto, no me digas cantidad. Contar yo sé contar, contar yo sé."
+},
+{
+"startMs": 281760,
+"endMs": 288680,
+"text": "Y la Guemará pregunta: Mai mevarej. O sea, la Guemará sí pregunta su She'ela. Por eso, la Guemará quiere saber cuál es la berajá. Échame una, Shlom."
+},
+{
+"startMs": 289580,
+"endMs": 292640,
+"text": "Échate unas cuantas, sí, porfa. La Guemará sí quiere saber cuál es la berajá,"
+},
+{
+"startMs": 294640,
+"endMs": 302100,
+"text": "pero la Mishna, el tema es cuántas. Desde cuándo el cuántas es tema. Explica desde cuándo el cuántas es tema."
+},
+{
+"startMs": 302180,
+"endMs": 309900,
+"text": "Ki lu, ki lu se ve que hay un Inyan de número. Y ahora ella- No, y también te dice, por ejemplo: Ajat aruka ve'ajat ketsarah. Esa es, ahí- Una es larga y una es corta."
+},
+{
+"startMs": 309920,
+"endMs": 318440,
+"text": "Ahí te está diciendo cuáles son, ¿no? No, pero ya ves algo en Rashí que dijo que hay Inyan de siete. Entonces, de ahí ya te estás dando cuenta que la Mishna sí tiene un Inyan de contar para llegar al siete."
+},
+{
+"startMs": 318620,
+"endMs": 328760,
+"text": "Sí, sí, está bueno, está bueno. Pe-pe-pero, o sea, todo lo que Lejabará, a nosotros no nos interesaría, no pensaríamos que es relevante, la Mishna Dafka sí lo ve como relevante."
+},
+{
+"startMs": 329320,
+"endMs": 336180,
+"text": "No sé si haya algún tilreks ahorita, pero no sé. ¿Y qué sí sería relevante? No, bueno, dime cuáles son las berajot."
+},
+{
+"startMs": 336440,
+"endMs": 342760,
+"text": "Pero dices: \"No, hay dos y hay una\". Parece que me estás hablando en códigos. Una es larga y una es corta. Y no hay otra pista."
+},
+{
+"startMs": 342960,
+"endMs": 351000,
+"text": "Si ya me la sé. No hay otra pista en la Guemará. Si ya me la sé, la sé contar. ¿Sí? Si no me la sé, dime cuáles son. Y, y, y si-- Sí, dime, dime cuáles son."
+},
+{
+"startMs": 352660,
+"endMs": 358680,
+"text": "Pero como que te hace romperte la cabeza, o sea, como adivinanza. Mmm. Sí, es como que te lo dejas a tú."
+},
+{
+"startMs": 362332,
+"endMs": 369132,
+"text": "Lo deja muy satum. Está bien, vamos a la Gemara. O-- hay un tosot ahí, a ver si lo vemos. Dice: \"Ajat aruká v'ajat k'tará."
+},
+{
+"startMs": 369192,
+"endMs": 375972,
+"text": "Pirush Rashi: aruká, emet ve'emuná, k'tará Ashquenaz be'teima. De Ashquenaz nu'na me'aruká arbe'. No es tan corta."
+},
+{
+"startMs": 376212,
+"endMs": 384992,
+"text": "Tam Rashi no dijo, ¿eh? Hay un nirajé, hay un- Sí, Nusaj Ajén. Nusaj Ajén. Y también, también dijo: \"Hasta en la Jara de Arvidka es-- son esas\"."
+},
+{
+"startMs": 385492,
+"endMs": 390972,
+"text": "Y según el otro nusaj, afield está diciendo cuáles, pero según los dos nusajot son esas. Entonces, dice,"
+},
+{
+"startMs": 392432,
+"endMs": 398812,
+"text": "dice: \"K'tar Ashquenazín, be'teima de Ashquenaz nu'na me'aruká arbe', be'teida mi de loco cajash y lavetosefta va de acatarot\"."
+},
+{
+"startMs": 399052,
+"endMs": 408132,
+"text": "¿Qué dicen los ashkenazim? ¿Y es otra berajá o qué, qué es? Dicen que es berajá completa. O sea, la jatimarla es que yo digo, mmm, Nusaj Sfar también es diferente, pero es..."
+},
+{
+"startMs": 408532,
+"endMs": 414872,
+"text": "sí, o sea, las palabras son diferentes. Pero está enorme, está muy larga. Yo la acabo de escribir y todavía se tarda un minuto más."
+},
+{
+"startMs": 414932,
+"endMs": 422052,
+"text": "No, la de Sefarés es mucho más grande, ¿no? Los ashkenazim en Arvid dicen: \"Baruj Hashem leolam amén veamén\". ¿Qué es eso? Pero no todos lo dicen, no sé."
+},
+{
+"startMs": 422312,
+"endMs": 428712,
+"text": "Vamos a tefilá. Sí, no lo dicen así. De repente piensas que va a empezar el jadí y de repente ahorita unos dos, tres minutos. Sí, pero no es Ashquenaz."
+},
+{
+"startMs": 428732,
+"endMs": 439212,
+"text": "Los ashquenaz son mucho más cortos que los sefaradí. O sea, no sé, es algo que se aumenta. Sí, solo en Arvid, y no todos lo dicen, no sé qué pedo. Dice: \"Be'teima de Ashquenaz nu'na me'aruká arbe', be'teida mi de loco cajash y lavetosefta va de acatarot\"."
+},
+{
+"startMs": 439252,
+"endMs": 449032,
+"text": "La tosefta trae todas las acatarot y no trae la Ashquenaz. \"Ve'ot, ve'ar pa'amim shema'arijim arbe' be'tosefet como or yom anéf\", parece que el tema es, tal vez no es lo que dice ahí."
+},
+{
+"startMs": 449412,
+"endMs": 460292,
+"text": "Dice: \"Ve'ot emet ve'emuná, pa'amim shemekatrim ba me'od, ke'de le kaman, ma'anam aren omrim parashat tsitsit ba'layla. Uka mesayen, modim anajnu lejotzetanu me'eretz mit-- me-- shotzetanu me'mitrayim\"."
+},
+{
+"startMs": 460832,
+"endMs": 472132,
+"text": "Y se hace mazkorta, o perej ayacoyrem. Sí, \"ve'perej ayacoy\". Dice: \"Ve'nira rabenu Tam, de hakol kae be'emet ve'emuná, achat aruká ve'achat k'tará."
+},
+{
+"startMs": 472192,
+"endMs": 480992,
+"text": "Klomar, ben ya'arij ba, ben likatzer ba ke'de le kaman\". Existe la misma emet ve'emuná, decirla a veces corta y a veces larga."
+},
+{
+"startMs": 481032,
+"endMs": 489332,
+"text": "Y a esa es la que se refiere la Mishná diciendo que- Y que te dice: \"Cuando matim le'arij\", no sé cuáles son los klelim, \"ma'arijim, y cuando matim le'katser, me'katzim\"."
+},
+{
+"startMs": 489372,
+"endMs": 497732,
+"text": "Entonces, según eso queda perfecto que no te dijo cuáles, porque depende de ti. O sea, la misma berajá puede ser larga o puede ser- No, no, puede ser que en el shajar digas esta y en el este digas esa."
+},
+{
+"startMs": 499452,
+"endMs": 507852,
+"text": "No sé, no sé cuáles son los klelim. Entonces, dice: \"Dejen ashkenaz oso\", dice: \"Ajat arusot, ve'ajat nesuot, ve'ajat betulot, ve'ajat beulot\"."
+},
+{
+"startMs": 508352,
+"endMs": 515652,
+"text": "O sea, que matim más de la shón achat ve'achat sobre la, sobre la, sobre el mismo estilo, no como que dos cosas separadas."
+},
+{
+"startMs": 516172,
+"endMs": 523952,
+"text": "Pero solo le sirve a los ashkenazim este tirut, porque nosotros no tenemos esta, esta diferencia. O sea, nunca cambia. Nosotros tampoco hoy en día. No, nadie lo cambia hoy en día tampoco."
+},
+{
+"startMs": 523972,
+"endMs": 533952,
+"text": "O sea, él ahí dice que hay dos versiones, cuando sí, cuando- Pero no, pero tampoco los ashkenazim. Eso es la Gemara más adelante. ¿Tú no dijiste que lo que, lo que dice es, eh?- Pero es otra cosa que dicen después de Ashquenaz."
+},
+{
+"startMs": 533992,
+"endMs": 542212,
+"text": "Ah, no sé. \"Makom shamru le'katser kikom be'birkat aperot u'birkat hamitzvot, en lo le'arij\"."
+},
+{
+"startMs": 542712,
+"endMs": 549432,
+"text": "No puede aumentarle en el nusaj, aun siendo que quiere le shabéh más a Borolam, no puede. ¿Cuál es el sartá? ¿Por qué?"
+},
+{
+"startMs": 549472,
+"endMs": 558212,
+"text": "¿Por va a decir kazet, tipo...? No sé. Es, es el matbeha berajá que tiku'nu jajamim. Hay, hay como un nusaj que se llama matbeha berajá."
+},
+{
+"startMs": 558392,
+"endMs": 565292,
+"text": "Entonces, ahí los jajamim tiku'nu davka, davka cada cosa como tiene que ser. ¿Mai mebarej?"
+},
+{
+"startMs": 565772,
+"endMs": 568972,
+"text": "¿Tienen? Sí. Mai mebarej hamarabi Jacob hamarabi Yoshai."
+},
+{
+"startMs": 570472,
+"endMs": 572612,
+"text": "Dice: \"Kol ha'berajá\"."
+},
+{
+"startMs": 574092,
+"endMs": 576032,
+"text": "Yotzer or. Yotzer or u'verejoshe."
+},
+{
+"startMs": 578532,
+"endMs": 584912,
+"text": "Dice: \"Ose Shalom\". Dice: \"Yotzer or u'verejoshe\". Se pregunta la Gemara: \"Aleima yotzer or u'vereinoga\"."
+},
+{
+"startMs": 585732,
+"endMs": 593552,
+"text": "Dice: ¿Por qué no dices-- por qué dices 'yotzer or u'verejoshe'? ¿Por qué no dices 'yotzer or u'verenoga'? Noga es luz."
+},
+{
+"startMs": 593852,
+"endMs": 602072,
+"text": "Noga de- Es resplandor. Es resplandor de luz. Dice: \"Yotzer or u'verenoga\", que dijiste..."
+},
+{
+"startMs": 603732,
+"endMs": 612992,
+"text": "Dice- ¿Cuál es la shela? No entiendo. Lo contrario. Vamos a ver, vamos a ver, dice la Gemara. Es como que ver joshe por joshe, o ver como si es que se puede hacer or, ¿no?"
+},
+{
+"startMs": 613112,
+"endMs": 620431,
+"text": "Eso es noga. Vamos a ver, vamos a ver. Dice- ¿Por qué joshe en verdad? U'verenoga, que dijiste camrinan. Dice: \"No, lo queremos decir como dice el pasuk\"."
+},
+{
+"startMs": 620512,
+"endMs": 627172,
+"text": "El pasuk en Yeshayá dice: \"Yotzer or u'verejoshe\". El ame ata... Ah, ¿sí?"
+},
+{
+"startMs": 627672,
+"endMs": 634452,
+"text": "Ose shalom u'vore rá, mi camrinan. Tú, ¿cómo dices? Ose shalom u'vore etacol."
+},
+{
+"startMs": 635032,
+"endMs": 641492,
+"text": "El pasuk no dice u'vore etacol, dice ose shalom u'vore rá. Es el pasuk. Mi camrinan que dijiste. Mi camrinan que dijiste."
+},
+{
+"startMs": 642432,
+"endMs": 650452,
+"text": "Entonces, la Gemara fue una pregunta para llegar a la pregunta. O sea, la Gemara primero preguntó como que betmimut: ¿Por qué no dices yotzer or u'verenoga?"
+},
+{
+"startMs": 650972,
+"endMs": 660412,
+"text": "Dice: \"No, porque lo quiero decir como está escrito\". Ah, lo quieres decir como está escrito, entonces, ¿por qué no dices u'vore rá? Y dices, el ama quieres decir la zona queá, entonces también acá."
+},
+{
+"startMs": 660912,
+"endMs": 668352,
+"text": "El activ-- dice: \"El activ rá ve'carina najacol, лишנה מעליה. O jename leima noga, לישנה מעליה\"."
+},
+{
+"startMs": 668792,
+"endMs": 673152,
+"text": "También dime noga, en vez de joshe, que es también un lashón me'aliah."
+},
+{
+"startMs": 675272,
+"endMs": 676172,
+"text": "El amaroven,"
+},
+{
+"startMs": 678172,
+"endMs": 689332,
+"text": "ke'de le'azkir midat yom va'layla, u'midat layla va'yom. Esto es para poderle azkir la midá del día en la noche y la, y la midá de la noche en el día."
+},
+{
+"startMs": 689732,
+"endMs": 698092,
+"text": "Entonces, tomaré tayinian... No te olvides en el día que hay noche y no te olvides en la noche que hay día. Exactamente, que cuando es día se necesita mencionar la noche."
+},
+{
+"startMs": 698772,
+"endMs": 715592,
+"text": "Cuando es noche se necesita mencionar el día. Porque noga es algo parve, ¿no? ¿Eh? O sea, noga es algo parve. O sea, porque si en verdad noga sería joshe, pues tipo estás, estás diciendo el kinuy del, del- No, noga, noga en verdad, en verdad, siempre que el pasuk dice noga es or."
+},
+{
+"startMs": 716572,
+"endMs": 722612,
+"text": "Cuando el pasuk dice noga es or. Es or en la, es, es or en el joshe, ¿no? Aquí dice que es kinuy de joshe va'la shone kiá."
+},
+{
+"startMs": 722832,
+"endMs": 730940,
+"text": "Eso es noga, ¿no? Noga es or dentro de joshe. No, toma. Va, va ahora entonces. No."
+},
+{
+"startMs": 731840,
+"endMs": 735060,
+"text": "Vean, eh, por ejemplo, laftara que vamos a leer en, eh"
+},
+{
+"startMs": 737140,
+"endMs": 738860,
+"text": "¿Es de Shabat? No."
+},
+{
+"startMs": 740260,
+"endMs": 746640,
+"text": "Porque sale el mismo Que ve, le askir midati ombalaila o midat laila bayó. Shaya, ya, dice, Ahmet. ¿Por qué?"
+},
+{
+"startMs": 746640,
+"endMs": 749820,
+"text": "¿Qué pasa, qué? Tashá, sale el mismo Tequidush."
+},
+{
+"startMs": 751860,
+"endMs": 752300,
+"text": "Tampoco."
+},
+{
+"startMs": 754500,
+"endMs": 758340,
+"text": "He grabado todos bosques. Todo lo que hay en bosques de Torá, está bien. ¿Tengo eso? Todo."
+},
+{
+"startMs": 760220,
+"endMs": 763340,
+"text": "Todos los que-- pescador, tren, todo, todo, todo."
+},
+{
+"startMs": 764820,
+"endMs": 766720,
+"text": "Dime a Or Shlisofa Yom y Sofalaí,"
+},
+{
+"startMs": 768100,
+"endMs": 776940,
+"text": "que se ahorne Urab Bajoshe. A ver, abran laftara y quitabo. Sí, ojalá, por malo sea, chistoso. ¿Qué es, qué es en el, en el Madí?"
+},
+{
+"startMs": 778200,
+"endMs": 779080,
+"text": "Yeshayá Samaj."
+},
+{
+"startMs": 780840,
+"endMs": 784040,
+"text": "Laftara y quitabo, Yeshayá Samaj. Claro, claro."
+},
+{
+"startMs": 791120,
+"endMs": 797300,
+"text": "¿Esa no tiene laftara o sí tiene? Sí tiene laftara. ¿Tienen?"
+},
+{
+"startMs": 798800,
+"endMs": 800260,
+"text": "Kumiuri. Kumiuri."
+},
+{
+"startMs": 801780,
+"endMs": 810160,
+"text": "Sí, levántate e ilumínate. Kibá orej, porque ya viene tu luz. Ujod Hashem Alaiz Arad. Hashem va Leazriaj Suor Sobre Ti."
+},
+{
+"startMs": 811240,
+"endMs": 820620,
+"text": "Ki eneja hoshe quejasearit vearefe leumin. Todos los goím se van a llenar de oscuridad. Ve alaih izrach Hashem ujbodo alaich enai."
+},
+{
+"startMs": 821060,
+"endMs": 837020,
+"text": "Y sobre ti, Hashem va lizroaj, y Hashem va legalot su cabot sobre ti. Esa es la nogua sobre la geula. Ve alju goím le orej, y los goím van a ir tras tu luz, u melajím, y los reyes van a irle nogaz arjej."
+},
+{
+"startMs": 838420,
+"endMs": 847740,
+"text": "Van a ir también detrás de tu luz. Entonces, ¿qué es noga? Es oscuridad. Pero es otro tipo de luz, puede ser. O sea, no es- Sí, badai, badai, badai, pero no es oscuridad."
+},
+{
+"startMs": 848560,
+"endMs": 857440,
+"text": "U melajím le nogaz arjej, y los melajím van a ir detrás de tu noga. Entonces, dice acá que ese oro es el dimdumea oro, shlesofa yom, shlesofa laila."
+},
+{
+"startMs": 857460,
+"endMs": 858080,
+"text": "¿Dónde estás?"
+},
+{
+"startMs": 859340,
+"endMs": 866420,
+"text": "Es el principio del final. Al principio. Cuando está revuelto, es que si es noga, es cuando está revuelto el día y la noche. Guimal dale, dale."
+},
+{
+"startMs": 867760,
+"endMs": 871640,
+"text": "Tipo una moda shajar y se está dejando. Mmm-hmm. Ahora,"
+},
+{
+"startMs": 873240,
+"endMs": 879840,
+"text": "alguien, tú lo abriste ahí, a ver, abre Rashi, ¿qué dice noga? ¿Dónde ahí? En Yeshayah."
+},
+{
+"startMs": 880320,
+"endMs": 886360,
+"text": "Itzjak Laureo. Tu brillo, aquí lo tradujeron como tu brillo. Brillo. No hay. Noga es brillo. ¿No Rashi?"
+},
+{
+"startMs": 886740,
+"endMs": 889300,
+"text": "No. Ya está. No sabrás el pase final."
+},
+{
+"startMs": 890720,
+"endMs": 897660,
+"text": "Mezudot. Algo. Serp orurejos. ¿Dónde hay más ahí noga? En, en Yeshayah hay mucho, pero..."
+},
+{
+"startMs": 899060,
+"endMs": 900800,
+"text": "Esta semana tenemos este Yeshayah."
+},
+{
+"startMs": 902740,
+"endMs": 904580,
+"text": "Ah, ¿todos son Yeshayah? Todos son Yeshayah."
+},
+{
+"startMs": 906380,
+"endMs": 912800,
+"text": "Ah. Toda la Nejama. Y está Yeshayah. ¡Pshá! Oy, oy, oy. Oh. Yo creo que se te puede ser."
+},
+{
+"startMs": 913260,
+"endMs": 920660,
+"text": "¿Sí? Se le cayó el coche. Se le cayó. ¡Guau! Inian heará como minoga negdo. Minoga negdo."
+},
+{
+"startMs": 920740,
+"endMs": 922880,
+"text": "Como minoga negdo. Inian heará."
+},
+{
+"startMs": 924520,
+"endMs": 930840,
+"text": "Las cosas buenas pasan a través de la gente buena. ¿Has caído eso? No sé si es cierto."
+},
+{
+"startMs": 931000,
+"endMs": 937800,
+"text": "¿Era con Jonathan? A ver. ¿Qué dice? Linjorij. Linjorij."
+},
+{
+"startMs": 938060,
+"endMs": 941900,
+"text": "Linjorij. Linjorij. Umeljai, le cabell. No, le cabell Zaharig."
+},
+{
+"startMs": 943140,
+"endMs": 946580,
+"text": "Zaharig. Es el Zohar. Zohar, Zohar, lo que vimos ahí. L."
+},
+{
+"startMs": 950880,
+"endMs": 952660,
+"text": "L. Zohan, le fizé,"
+},
+{
+"startMs": 955040,
+"endMs": 957200,
+"text": "yo entiendo así, que es--"
+},
+{
+"startMs": 958540,
+"endMs": 959920,
+"text": "estamos hablando acá..."
+},
+{
+"startMs": 993140,
+"endMs": 999540,
+"text": "A ver si hay noga. A ver, búscate la palabra noga, pero sin vav. Koemejajo. Noga, noga."
+},
+{
+"startMs": 999820,
+"endMs": 1006540,
+"text": "No sé, en el Jumar. Te lo doy para que lo busques. No."
+},
+{
+"startMs": 1006560,
+"endMs": 1007740,
+"text": "Es que no lo busca nadie."
+},
+{
+"startMs": 1009080,
+"endMs": 1014620,
+"text": "Aurensa, ven aquí. Sedereja hamim leajduar ajar lashón tzaj ven aquí, como dice nadie."
+},
+{
+"startMs": 1016200,
+"endMs": 1022240,
+"text": "No, es para no decir Joshej. Eso sí, pero yo quiero ver dónde en el Naj dice noga."
+},
+{
+"startMs": 1024119,
+"endMs": 1025680,
+"text": "Es que no... No sabe."
+},
+{
+"startMs": 1027839,
+"endMs": 1035800,
+"text": "Pregúntale a ChatGPT, yo creo que te... A ver, acá es-- ahora sí, este es el noga, el, el que tú decías, el de, el de las clipot."
+},
+{
+"startMs": 1036440,
+"endMs": 1045020,
+"text": "Entonces, acá el noga, vamos a ver qué explican acá. Vine, ruaj seará van mina tsafón, anán gadol, ve esh mitla cajat, ve noga losaviv."
+},
+{
+"startMs": 1048400,
+"endMs": 1050140,
+"text": "Sí, pero no, ahí le tenías que poner--"
+},
+{
+"startMs": 1051640,
+"endMs": 1053000,
+"text": "No, tenías que poner Tana."
+},
+{
+"startMs": 1054900,
+"endMs": 1060760,
+"text": "Eso te va a salir en la yemará también. A ver, la J a las cinco. De cinco a media."
+},
+{
+"startMs": 1062600,
+"endMs": 1063380,
+"text": "Y luego colel."
+},
+{
+"startMs": 1067680,
+"endMs": 1070220,
+"text": "Acá trae el Metzudot, dice así:"
+},
+{
+"startMs": 1071440,
+"endMs": 1081380,
+"text": "Ruaj seará van mina tsafón u me-- u remes le melej Babel, ve acasdim sheema mitzafón. Anán gadol, la segunda clipa, es otro galut."
+},
+{
+"startMs": 1081900,
+"endMs": 1095800,
+"text": "Esh mitla cajat, es otro galut, tzrefat Bet Hashem. Ve noga losavim, dice: Tzvivot hadvarim haele raa noga vehearaha, ve u remes, que ajal col hatsarot yum mesuvavim beor haYeshúa."
+},
+{
+"startMs": 1096520,
+"endMs": 1098780,
+"text": "Entonces, vemos que el noga claramente,"
+},
+{
+"startMs": 1101000,
+"endMs": 1104600,
+"text": "claramente es or. El noga claramente es or."
+},
+{
+"startMs": 1105920,
+"endMs": 1114640,
+"text": "Entonces, acá se nos hace mucho más rara la yemará. ¿Están de acuerdo? Porque no es Joshej ve Nashon Ekiah, es otra manera de decir Orej ahora."
+},
+{
+"startMs": 1114640,
+"endMs": 1115920,
+"text": "¿Sí?"
+},
+{
+"startMs": 1117640,
+"endMs": 1125360,
+"text": "Dice- No, no, no. Dijo noga para no decir Joshej. Pero si dices noga y le metes luz, entonces te vas a confundir, ya no dijiste Joshej por decir Nashon Ekiah."
+},
+{
+"startMs": 1125360,
+"endMs": 1131400,
+"text": "¿Mmm? ¿No sería así el Jeshuán? Sí, pero entonces, otra vez decir luz, ¿qué ganas?"
+},
+{
+"startMs": 1131480,
+"endMs": 1134080,
+"text": "Por eso no, entonces. Pero a lo mejor es otro tipo de luz."
+},
+{
+"startMs": 1135340,
+"endMs": 1145569,
+"text": "Si todo lo que- Ya te entendí, pero tú quieres decir noche. Si dices noche, tú no quieres decir- Vean, por ejemplo Gemara. Va tikzor Omer ata gazarta milemata En la lámina tiene un balay y hace el tiro de la cámara."
+},
+{
+"startMs": 1145729,
+"endMs": 1153229,
+"text": "En la lámina la cámara nos molesta. Por eso yo digo, en la lámina ¿cuál es? Tapar el Joshe para decir la Shonequia. Sí, pero no-- Pero no digas algo que es luz para tapar Joshe."
+},
+{
+"startMs": 1153529,
+"endMs": 1162449,
+"text": "Por ejemplo, acá dice así. En la lámina también-- no, no, no, no, no hay, no hay, no hay que decir Joshe en la lámina. Simplemente, es-- en la lámina quieres no decir Joshe."
+},
+{
+"startMs": 1162489,
+"endMs": 1169109,
+"text": "Si es decir otra cosa. Y no digas así. Dime luz y dime otro tipo de luz. A ver, si no me puedes decir que diga noga para tapar algo que no es eso."
+},
+{
+"startMs": 1169629,
+"endMs": 1178829,
+"text": "Sí, no entiendo. La Shonequia. Sí, no te-- no se entiende la pregunta. ¿Quieres no decir Joshe? y decirle una Shonequia. No dices algo que representa la luz para tapar."
+},
+{
+"startMs": 1178849,
+"endMs": 1185389,
+"text": "Pero por eso aquí explica que noga es, eh, Joshe en la Shonequia. No se entiende. En la lámina no quiere decir Joshe."
+},
+{
+"startMs": 1185849,
+"endMs": 1196749,
+"text": "Sí, pero nosotros decimos noga en, en la Shonequia es tipo, es la luz. Es luz. El Kirut de la Gemara, el Hamarove, el Hamarove ikhadésh, que de la esquina de Mattiom va a la isla."
+},
+{
+"startMs": 1197289,
+"endMs": 1205189,
+"text": "Quiere decir-- O sea, pero un segundo, cuando dijimos Ra de la Shonequia, no es que dijimos algo al revés de Ra. Dijimos: \"Oshé Shalom, ureta kol\"."
+},
+{
+"startMs": 1205209,
+"endMs": 1214869,
+"text": "¿Qué es eso? ¿Qué es hakol? Ah. Incluye. También Ra. Ah, okey. Entonces, pero acá cuando dijiste: \"Yo cheror bore noga\", dijiste: \"Hace la luz y haz el noga\"."
+},
+{
+"startMs": 1215569,
+"endMs": 1222609,
+"text": "Entonces, ya es el noga, entonces, ya no dijiste Joshe. Ahora el Joshe no lo estás diciendo. Por haber dicho la Shonequia."
+},
+{
+"startMs": 1222989,
+"endMs": 1229349,
+"text": "E-eh, tiene que ser así. Pero todo-- los pe-- ventaj-- los pesukim que estamos viendo es que noga, noga es luz."
+},
+{
+"startMs": 1230349,
+"endMs": 1236949,
+"text": "A ver, vean, eh, vamos a leer muchos pesukim sobre noga y ver qué es el concepto noga, entenderlo bien y ya lo debemos entender bien."
+},
+{
+"startMs": 1237569,
+"endMs": 1244409,
+"text": "A ver, aquí hay una Gemara, dice: \"Tanu Rabanan, mashal jupnei lishkata gazit lejonia meaguel\". Jonia meaguel no había lluvia en su tiempo."
+},
+{
+"startMs": 1245349,
+"endMs": 1257569,
+"text": "Hizo el círculo, se dijo ahí, dice: \"Acá hasta que llueva no me salgo\". Entonces, le dijeron: \"Va tikzor Omer, gazarta con tu palabra, vaya komlach, valdarkeja nagá or\"."
+},
+{
+"startMs": 1258149,
+"endMs": 1264509,
+"text": "Entonces, le dijeron ese pasuk. ¿Qué es eso? \"Va tikzor Omer, ata gazarta milemata\". Tú hiciste una gezerá de abajo que llueva."
+},
+{
+"startMs": 1264509,
+"endMs": 1272989,
+"text": "\"Ve akados brujo, me cayé maamareja milemala\", ¿sí? \"Va tikzor Omer, vaya komlach, y akados brujo, quien tus palabras\"."
+},
+{
+"startMs": 1273569,
+"endMs": 1283109,
+"text": "Dice: \"Valdarkeja nagá or, dor shayá afel, un dor que estaba oscuro, he arta bitfilateja\", los iluminaste."
+},
+{
+"startMs": 1283669,
+"endMs": 1292449,
+"text": "Entonces, quiere decir: \"Valdarkeja nagá or\", dice, y, y como que por medio de ti llegó luz, es llegó luz a la oscuridad."
+},
+{
+"startMs": 1293069,
+"endMs": 1299389,
+"text": "Entonces, sale que naga, noga, nagá or o noga, es iluminar en la oscuridad."
+},
+{
+"startMs": 1299509,
+"endMs": 1303549,
+"text": "Claro. ¿Sí? A ver, vamos a ver otros pesukim. Es la luz de la oscuridad."
+},
+{
+"startMs": 1305729,
+"endMs": 1313569,
+"text": "Dice... Es iluminar. \"Veor tzadikim que or noga olej, at nejon hayom\". ¿No hay ese pasuk mucho en Nicutam Oharán?"
+},
+{
+"startMs": 1313829,
+"endMs": 1316429,
+"text": "Sí. ¿Dónde es? Torá Alef, ¿dónde es?"
+},
+{
+"startMs": 1318229,
+"endMs": 1320389,
+"text": "Acá abajito. Sí."
+},
+{
+"startMs": 1324849,
+"endMs": 1325729,
+"text": "Si ya te lo puse."
+},
+{
+"startMs": 1328789,
+"endMs": 1336049,
+"text": "Es Mishlé Dalet Yud Het. Torá Alef, Torá Alef. Es Torá Alef, ¿no? Es Bejinat Shémesh, que hacejel u mehil o bejol ajai como Shémesh."
+},
+{
+"startMs": 1336069,
+"endMs": 1342549,
+"text": "Bejinat olej tzadikim con olej-- beor, beor. Nejon hayom. Que, que. Bejinat jet, que hacen quiut."
+},
+{
+"startMs": 1344109,
+"endMs": 1351929,
+"text": "Que la jójma y el cejel o-- O sea, Namar nos dijo que es Bejinat Shémesh el, el olaj tzadikim, que or noga olej, ve o-- va ora nejon hayom."
+},
+{
+"startMs": 1352669,
+"endMs": 1360049,
+"text": "O sea, los caminos de los tzadikim, que or noga olej, es como el, la luz de noga, ¿sí? Que está iluminando."
+},
+{
+"startMs": 1360489,
+"endMs": 1363829,
+"text": "Ve or, y es luz, at nejon hayom, hasta el latit lovó."
+},
+{
+"startMs": 1368069,
+"endMs": 1368969,
+"text": "A ver."
+},
+{
+"startMs": 1371469,
+"endMs": 1372749,
+"text": "Entonces, Mishlé Dalet."
+},
+{
+"startMs": 1375069,
+"endMs": 1376329,
+"text": "Ahora vamos a ver Mishlé ahí."
+},
+{
+"startMs": 1392309,
+"endMs": 1395829,
+"text": "¿Qué Mishlé? En vez de la colección. Mishlé pérek Dalet."
+},
+{
+"startMs": 1397449,
+"endMs": 1404489,
+"text": "¿Hay internet aquí? Yo bueno, no he hecho el infiltrado. Y no puedes cortar la que es corta y no puedes cortar la que es larga. Luego dice, si no me dejas tener que cortar."
+},
+{
+"startMs": 1404529,
+"endMs": 1407629,
+"text": "El infiltrado. No puedes no decir. Y si no me dejas, no lo puedes poner."
+},
+{
+"startMs": 1409309,
+"endMs": 1415489,
+"text": "Pero en la mano, ¿qué hacemos es barajo? ¿El infiltrado? La mano empieza y yo echo el borejoshi. Ya estoy infiltrado."
+},
+{
+"startMs": 1415529,
+"endMs": 1417109,
+"text": "Ahora, ¿con quién dices que echo el borejoshi?"
+},
+{
+"startMs": 1419109,
+"endMs": 1426409,
+"text": "Di eh, yo echo el bore noga. Aquí Rashi dice: \"Ve olaj tzadikim que or noga\", dice. ¿Qué, qué pasó?"
+},
+{
+"startMs": 1426549,
+"endMs": 1436569,
+"text": "No digas, no digas que yo... Es pasuk Yud Het. Dalet Yud Het. Ahí el pasuk dice. No, porque no quiero decir, te estamos haciendo entender que no, porque qué le va a decir a mí."
+},
+{
+"startMs": 1436569,
+"endMs": 1440249,
+"text": "¿Puedo compartir eso con él? Sí."
+},
+{
+"startMs": 1442509,
+"endMs": 1445049,
+"text": "Para no decir oscuridad, ¿qué decir, Noga? Noga."
+},
+{
+"startMs": 1446309,
+"endMs": 1452889,
+"text": "Entonces, dice este pasuk, Mishlé Dalet, pasuk Yud Het: \"Ve olaj tzadikim\". ¿Cuál es el camino de los tzadikim?"
+},
+{
+"startMs": 1452969,
+"endMs": 1464009,
+"text": "\"Que or noga olej, va or at nejon hayom\". Entonces, dice: \"El camino de los tzadikim es como la, el or del noga y cam-- y va hasta, hasta que se hace or at nejon hayom\"."
+},
+{
+"startMs": 1464189,
+"endMs": 1473529,
+"text": "Dice Rashi: \"Que or noga, she oleju meir me amuda shajar\". Dice: \"Así como en amuda shajar sale el sol y empiezas a ver un poco de luz, ese poco de luz, ¿cómo se llama?"
+},
+{
+"startMs": 1473669,
+"endMs": 1482049,
+"text": "Noga. Y luego, at nejon hayom, at jatzot hayom, she hu biruro shel yom\". Entonces,ומרet: \"Entonces, empieza en noga y se hace luz mamash\"."
+},
+{
+"startMs": 1482549,
+"endMs": 1483469,
+"text": "Entonces, es noga."
+},
+{
+"startMs": 1485649,
+"endMs": 1489669,
+"text": "Entonces... ¿Entonces es como un amanecer, tipo que se va iluminando, algo así? Sí."
+},
+{
+"startMs": 1490889,
+"endMs": 1499889,
+"text": "O sea, noga es algo que se desvanece. Se desvanece la oscuridad. Ah, por eso se entiende, eh, o sea, sí es algo pardo, porque empieza en Joshe y luego se..."
+},
+{
+"startMs": 1500909,
+"endMs": 1502489,
+"text": "No, si no es paro, es que está"
+},
+{
+"startMs": 1506017,
+"endMs": 1512597,
+"text": "A ver, a lo mejor hay un-- acá se ve un Q, pero no Ah, aquí este pasuk está mañana."
+},
+{
+"startMs": 1512597,
+"endMs": 1516557,
+"text": "¿Qué? ¿Dónde es? ¿También ahí? Yeshayah hei, hei."
+},
+{
+"startMs": 1518257,
+"endMs": 1519477,
+"text": "Yeshayah hei, pasuk hei."
+},
+{
+"startMs": 1520737,
+"endMs": 1527037,
+"text": "No sé por qué salen las bolitas, tengo que volver a abrir todo. Dice: \"Ubara Hashem\". ¿Dijiste Yeshayah hei? Yeshayah hei, hei."
+},
+{
+"startMs": 1527097,
+"endMs": 1534597,
+"text": "Se quitan, ¿no? ¿Te odian, no?"
+},
+{
+"startMs": 1534617,
+"endMs": 1540817,
+"text": "¿Aplicamos? Ubara Hashem, al mejor. Yeshayah- Está conectado para computar."
+},
+{
+"startMs": 1540877,
+"endMs": 1547817,
+"text": "No, perdón, Dal-- Yeshayah dalet, dalet, pasuk hei, perdón. ¿Qué dijiste, Mishlei? Yeshayah."
+},
+{
+"startMs": 1548077,
+"endMs": 1549177,
+"text": "Yeshayah dalet, hei."
+},
+{
+"startMs": 1552617,
+"endMs": 1553437,
+"text": "Sión, Sión."
+},
+{
+"startMs": 1555817,
+"endMs": 1562357,
+"text": "Al kol mejon artzyon. Mhm. ¿Bora, eh? Del Mikrae, ¿ah? Se está hablando de la, de la Geula, ¿eh?"
+},
+{
+"startMs": 1562477,
+"endMs": 1568617,
+"text": "El pasuk guímel dice: \"Ve hayá nishar betzión venotar beyerushaláyim kadosh ya'amar yo, kadosh ya'amar lo."
+},
+{
+"startMs": 1569456,
+"endMs": 1579717,
+"text": "Kol hakatuv lejaím beyerushaláyim, tolos kekeden yerushaláyim laGeula. Im rachatz Hashem et zoat bnot tzion vedmei yerushaláyim yadiyach mikirva veruaj mishpat uveruaj baer."
+},
+{
+"startMs": 1579737,
+"endMs": 1593637,
+"text": "Hashem bakitar tol hasaverot, vaperdón tol hasaverot, tod el ral uakitar. Ubara Hashem, Hashem bakrear al kol mejon artzyon vel, vel mikrae anan yomam, veashan venoga esh lehava laila."
+},
+{
+"startMs": 1594777,
+"endMs": 1596677,
+"text": "Ki al kol kavod jupa\"."
+},
+{
+"startMs": 1597977,
+"endMs": 1608297,
+"text": "Entonces, Hashem bakrear sobre Zion- Luz Esta, esta, es-- todas las cosas. Va a tener ahí nubes que lo protegen y va a tener un noga esh lehava."
+},
+{
+"startMs": 1608717,
+"endMs": 1617657,
+"text": "Earát levát esh. Entonces, acá-- sí, esa es la Gemara en, en, en Babá Batra. Es, es ya habíamos, es ya habíamos que dentro del esh hay josho."
+},
+{
+"startMs": 1619037,
+"endMs": 1625997,
+"text": "Entonces, acá es lo que está diciendo: \"Noga esh lehava laila, earát levát esh\", así dice el Metzudot, que está en el laila."
+},
+{
+"startMs": 1626517,
+"endMs": 1633337,
+"text": "Entonces, quiere decir que la noga es la luz que hay en la noche. La luz que hay en la noche. Earát bizrija, dice el Metzudot, sí."
+},
+{
+"startMs": 1633937,
+"endMs": 1640797,
+"text": "Otra vez. Pero yo entiendo de esh, esh, el fuego tiene también oscuridad dentro del fuego, ¿no? ¿Mmm?"
+},
+{
+"startMs": 1641097,
+"endMs": 1650077,
+"text": "O sea, aquí dijo que es una esh como- No, no, no está diciendo eso. Está diciendo que va a haber un noga esh en la noche, lehava laila."
+},
+{
+"startMs": 1650897,
+"endMs": 1661037,
+"text": "Noga, también vimos noga or. Significa noga, no es la luz en sí, es cuando-- yo creo que aquí la definición de noga es esta."
+},
+{
+"startMs": 1662597,
+"endMs": 1671937,
+"text": "Cuando tú logras ver, fíjense algo muy, muy, muy interesante. La luz, hay dos cosas. Está la luz y está el resplandor de la luz."
+},
+{
+"startMs": 1673277,
+"endMs": 1675956,
+"text": "La iluminación. Cuando tú ves nada más,"
+},
+{
+"startMs": 1677237,
+"endMs": 1684077,
+"text": "el-- cuando tú ves el mecor de la luz, entonces ahí se hace de día. Cuando tú ves el resplandor, sigue siendo de noche."
+},
+{
+"startMs": 1684577,
+"endMs": 1690637,
+"text": "Exactamente. Amuda shajar. Después de la shekía. Sí. Amuda shajar se va a llamar, que tú no puedes llamarle or."
+},
+{
+"startMs": 1690837,
+"endMs": 1698197,
+"text": "¿Por qué no lo puedes llamar or? Porque no estás viendo el maor, tú no estás viendo la, la fuente. Hay algo que domina la oscuridad."
+},
+{
+"startMs": 1698237,
+"endMs": 1705577,
+"text": "Luminaria. Entonces, entonces, os-- es un matzav de oscuridad. Entonces- Está ese foco normal y está el foco que alu-alumbra la, la madera."
+},
+{
+"startMs": 1705617,
+"endMs": 1712097,
+"text": "Indirecto. A la madera. Exactamente. Entonces, por ejemplo, ¿cómo se va a llamar la luz de la luna? Resplandor."
+},
+{
+"startMs": 1712137,
+"endMs": 1721577,
+"text": "Se va a llamar noga, es porque es puro, puro resplandor. Entonces, siempre para que sea no día, entonces tiene que no verse el mecor de la luz."
+},
+{
+"startMs": 1722057,
+"endMs": 1730476,
+"text": "Pero si tú llegas a ver luz y no ves el mecor de la luz, quiere decir que no se logró hacer de día. Entonces, quiere decir que es de noche, eso se llama noga."
+},
+{
+"startMs": 1730717,
+"endMs": 1738417,
+"text": "Noga es, por eso se llama noga or. Noga es resplandor, no es luz. Noga no significa luz, noga significa resplandor."
+},
+{
+"startMs": 1738476,
+"endMs": 1747057,
+"text": "Y para que exista en el día, no ves resplandor, ves luz. ¿Me explico? En el día, cuando sale el sol, ya no ves, no ves-- ah, veo resplandor."
+},
+{
+"startMs": 1747737,
+"endMs": 1754757,
+"text": "No, vea, es de día. Aquí no dices que ves resplandor, porque para ver resplandor quiere decir que puedes, que logras percibir la luz."
+},
+{
+"startMs": 1755697,
+"endMs": 1764037,
+"text": "En el día ya no percibes la luz, ya ves las cosas. ¿Me explico? En el día ya ves las cosas. En la noche, hay algo muy interesante, ¿sí?"
+},
+{
+"startMs": 1764037,
+"endMs": 1772097,
+"text": "¿Cuál es la palabra resplandor? Hay ahora de mañana, que ahora jamás. ¿Qué es resplandor? Como iluminar. Resplandor es, eh- El mejor ejemplo es la, el amanecer."
+},
+{
+"startMs": 1772177,
+"endMs": 1780077,
+"text": "Es el mejor ejemplo. O sea, está la luz, estás viendo el rayo. No ves el sol, ves rayos, no ves el sol. Sí. O sea, pa' que se vea-- está muy profundo."
+},
+{
+"startMs": 1780437,
+"endMs": 1784597,
+"text": "Pa' que se vea la luz y se-- es que acá realmente"
+},
+{
+"startMs": 1786257,
+"endMs": 1792797,
+"text": "tú no ves luz. Se recibe luz, pero tú no ves luz. Estás viendo ya las cosas. Tú ya ves las cosas directamente."
+},
+{
+"startMs": 1793137,
+"endMs": 1802597,
+"text": "Para que tú veas la luz y la reconozcas como luz- Es porque no- Tiene que a la vez haber oscuridad y tienes que decir: \"A ver, ¿dónde está la luz?\" ¿Me explico?"
+},
+{
+"startMs": 1803157,
+"endMs": 1809277,
+"text": "Entonces, si tú, si, si hay una linterna e ilumina parte de esto, a-- échame luz."
+},
+{
+"startMs": 1809877,
+"endMs": 1816557,
+"text": "Quiere decir que ahí hablas de la luz como luz. Cuando tú hablas en el día, ya nunca te refieres a la luz como luz."
+},
+{
+"startMs": 1817077,
+"endMs": 1831497,
+"text": "Simplemente, ya ves, ya está todo iluminado. Entonces, or es cuando todo se ilumina. Noga es cuando está oscuro y tienes algo que echa algún tipo de luz dentro de la oscuridad."
+},
+{
+"startMs": 1832437,
+"endMs": 1837117,
+"text": "Eso es noga. Eso es, le dice, eso es noga. Entonces"
+},
+{
+"startMs": 1840437,
+"endMs": 1847437,
+"text": "entonces dice cómo es la Gemara. Leemos otra vez la Gemara. Dice: \"Maime barej, ¿cuáles son las berajot? Amar rab-- Yaakov varushai, amar rabí Yoshai."
+},
+{
+"startMs": 1847937,
+"endMs": 1856757,
+"text": "Yotzer or uvorej joshe\". Pregunta a la Gemara: \"Leima yotzer or uvorej noga\". Dice: \"No, kedivtim ka'amrinan\"."
+},
+{
+"startMs": 1856917,
+"endMs": 1864937,
+"text": "Queremos decirlo como está escrito en el pasuk. \"El hameata oster shalom uvorej ra, mi ka'amrinan\"."
+},
+{
+"startMs": 1865557,
+"endMs": 1872277,
+"text": "Kedivtim, ¿qué acaso ahí lo decimos como está escrito? Ahí lo dice, eso, eh, dice: \"El activ ra vekarinan hakol\"."
+},
+{
+"startMs": 1873437,
+"endMs": 1877057,
+"text": "Está escrito ra, pero nosotros lo leemos hakol."
+},
+{
+"startMs": 1878937,
+"endMs": 1882677,
+"text": "Entonces dice: lishna me alia."
+},
+{
+"startMs": 1884417,
+"endMs": 1891476,
+"text": "Ojename leima noga lishna me alia. El ama me vas a decir por qué lo cambiaste de ra a kol, por qué es lishna me alia, ¿ah?"
+},
+{
+"startMs": 1892097,
+"endMs": 1901417,
+"text": "Entonces acá también dime lishna me alia y dime noga. ¿Por qué noga sería me alia keor? Está en una sheila de que ustedes-- O sea, según todos ustedes, no se entiende la Gemara."
+},
+{
+"startMs": 1902097,
+"endMs": 1908717,
+"text": "Porque si la Gemara te quiere decir noche, como está diciendo, si la Gemara te quiere decir noche, entonces noga es la pregunta de él. Entonces no, noga- Es que no se entiende la Gemara."
+},
+{
+"startMs": 1909837,
+"endMs": 1919657,
+"text": "Noga, noga, en cierto aspecto estás diciendo noche, porque la única manera que exista el noga- Tiene que haber oscuridad Es..."
+},
+{
+"startMs": 1920037,
+"endMs": 1931677,
+"text": "Sí, pero no, podrías agarrarte a decir que no, que mete el joshe, que el joshe no es Hashem, es kilo algo separado y nada más es el noga dentro del joshe que ya empieza a, a, a, Hashem, como que Hashem no está a filo en la, en el ra este tipo."
+},
+{
+"startMs": 1932317,
+"endMs": 1940317,
+"text": "Sí, no, eso no está escrito la Jar, hay que entender. Pero cuando dijiste, o sea, Shalom Uvreta Kol, ahí sí dijiste a filo el ra."
+},
+{
+"startMs": 1941577,
+"endMs": 1950497,
+"text": "Entonces, hay que entenderlo acá. Y esto acá, como nos recuerda el Litón, la pregunta, si el joshe es una briá o es nada más una falta."
+},
+{
+"startMs": 1951237,
+"endMs": 1957997,
+"text": "Tú siempre dices yotzer ora uvre joshe. Entonces hay yotzer y hay bore. Y hay bore. Y en joshe sí dices bore."
+},
+{
+"startMs": 1958377,
+"endMs": 1962697,
+"text": "Pero es la mahloket que vimos, ¿no? De, de Yetziat Mitzrayim, alelot. Puede ser."
+},
+{
+"startMs": 1965456,
+"endMs": 1978137,
+"text": "Está bien, vamos a seguir y vemos si sale algo, izzat Hashem. Entonces dice: Keden hakol lishna me alia, ojena leima noga lishna me alia, el amar raba kede lazkir midat yom ba laila u midat laila ba yom."
+},
+{
+"startMs": 1978937,
+"endMs": 1988337,
+"text": "Yo creo que sí se entiende, ¿eh? Yo creo que en el avamina hablar del joshe como, como ali edéquay luz y me lai joshe, entonces en el avamina estaba bien."
+},
+{
+"startMs": 1988837,
+"endMs": 1999497,
+"text": "En el tirutses no, queremos lazkir laila como masquin-- como el jefse de laila. En el avamina es, a lo mejor te puedo lazkir el joshe ali edéquey puede existir resplandor que es en la noche."
+},
+{
+"startMs": 1999837,
+"endMs": 2004657,
+"text": "Dice: «No», el amar raba dice: «No, te quiero yo decir noche kipsutó el jefse de noche»."
+},
+{
+"startMs": 2006097,
+"endMs": 2017277,
+"text": "Es, es el tirutse raba. Es el tirutse raba. ¿Y cuál era la avamina de lazkir noga? La avamina es- Si no me dices algo como hakol que vemet kolel laila, noga puedes decir: «No, el joshe viene desde otro lugar»."
+},
+{
+"startMs": 2017357,
+"endMs": 2025997,
+"text": "Hashem hace noga. Para noga segura es joshe. La avamina pensó que era noga era joshe. No, no, noga es noga, pero para que haya noga tiene que haber joshe."
+},
+{
+"startMs": 2026037,
+"endMs": 2032077,
+"text": "Como, como en, como en la tolada. Así que Hashem creó el joshe. El joshe como noga."
+},
+{
+"startMs": 2032476,
+"endMs": 2042697,
+"text": "Te puedo decir: «Ah, de lo que hay luz en un lugar donde hace falta, entonces quiere decir que hay joshe». Dice la mamra: «No, yo, yo en, en, en el día te quiero decir algo que existe noche kipsutó noche»."
+},
+{
+"startMs": 2043197,
+"endMs": 2049817,
+"text": "O sea, te lo quiere decir mamás kipsutó. Y no como una más un de este de... Es el tirutse, entiendo. Y la, la avamina de noga..."
+},
+{
+"startMs": 2049837,
+"endMs": 2058817,
+"text": "La avamina es de que te lo puedo decir en una shila kilo, en un... Pero no, no lo dices. Dice Gabriel: «No lo dices». Estás diciendo que la oscuridad de Ulai viene de otro lugar."
+},
+{
+"startMs": 2058877,
+"endMs": 2065837,
+"text": "Pero Hashem hace luz también en la oscuridad. Ah, buenísimo. O sea, te estoy diciendo, no estás diciendo que la penica clipó."
+},
+{
+"startMs": 2068037,
+"endMs": 2078397,
+"text": "Entonces, Ulaitel, úibese, si existe jefse de noche o no existe... ¿Qué? No, si existe un jefse de noche que acá lo creo o es nada más falta de luz o es nada más falta de..."
+},
+{
+"startMs": 2078476,
+"endMs": 2080617,
+"text": "Pero es el pasú que dicebefurash, bore joshe."
+},
+{
+"startMs": 2081877,
+"endMs": 2086077,
+"text": "Pasú que dicebefurash, bore joshe. Ora..."
+},
+{
+"startMs": 2087976,
+"endMs": 2095837,
+"text": "Y también está mainian de lazkir midat yom ba laila, midat laila ba yom, mainian, mainian lazkir. Pero antes que eso, ¿cómo recordaste la noche en el día?"
+},
+{
+"startMs": 2095877,
+"endMs": 2102677,
+"text": "Con ese yotzer ora uvre joshe. Uno está dentro del otro. Estás de día y estás... Ah, hoy es día. Dijiste joshe. En el día."
+},
+{
+"startMs": 2103377,
+"endMs": 2104857,
+"text": "Ya. Entonces dice:"
+},
+{
+"startMs": 2106337,
+"endMs": 2113517,
+"text": "Bishlam midat laila ve yom ke deka abrinan, yotzer ora uvre joshe. El midat yom ba laila, ejim ashkajatla."
+},
+{
+"startMs": 2114737,
+"endMs": 2122297,
+"text": "Amarabaie, golel or mi penejoshe ve joshe mneor. ¿No está chistosa la pregunta y la respuesta?"
+},
+{
+"startMs": 2123217,
+"endMs": 2124117,
+"text": "Dice: «A bishlama,"
+},
+{
+"startMs": 2125337,
+"endMs": 2131697,
+"text": "ani mevin en el día, ¿por qué dices yotzer ora uvre joshe? El a laila»."
+},
+{
+"startMs": 2132456,
+"endMs": 2139057,
+"text": "No hay que buscarlo en nerot. Ejim ashkajatla. Dice: «Que, mmm»... No, no está. No está."
+},
+{
+"startMs": 2140697,
+"endMs": 2147697,
+"text": "Abay, Abay contestó. Abay descubrió. Sí, ¿qué descubrió? ¿Cómo?"
+},
+{
+"startMs": 2147977,
+"endMs": 2155717,
+"text": "Dice: «Golel or mi penejoshe, ve joshe mneor». Sí, sí está escrito. Como no entendí. En estado de Abaye, en esta..."
+},
+{
+"startMs": 2156457,
+"endMs": 2165037,
+"text": "Fue pregunta Bejlal, fue-- Y, y fue con Bishlama, fue Bishlama. O sea, Bishlama pensó en Salabar, dice: «No, ahí seguro entiendo»."
+},
+{
+"startMs": 2165357,
+"endMs": 2172337,
+"text": "En el otro, mapitó. Y, y hasta que no vino Abaye- No tenía, tenía pregunta. No, no, no, no."
+},
+{
+"startMs": 2173077,
+"endMs": 2179537,
+"text": "Y cuando vino Abaye dijimos: «Ah, okey, sí». Entonces, ¿qué? ¿Qué pasó? ¿Qué quiere decir? No es las palabras, ¿me explico?"
+},
+{
+"startMs": 2180057,
+"endMs": 2189617,
+"text": "O sea, cuando-- si Abaye se hace irrelevante aquí, porque es nada más el que descubre que estas palabras están escritas, entonces la Hemra no tendría que decir nombre de Abaye, ¿me explico?"
+},
+{
+"startMs": 2190257,
+"endMs": 2196497,
+"text": "O sea, es un tirutse de Abaye. Y si es un tirutse de Abaye, entonces la shela fue shela. Eso también hay que entenderlo."
+},
+{
+"startMs": 2196596,
+"endMs": 2197497,
+"text": "No, no está muy claro."
+},
+{
+"startMs": 2199357,
+"endMs": 2205857,
+"text": "Aquí trae algo de Rabí Yoná y el Ritva de que tú has pensado de que alguien creó a la noche y alguien creó al día."
+},
+{
+"startMs": 2207136,
+"endMs": 2209037,
+"text": "Algo así trae aquí, lo, quien lo leo."
+},
+{
+"startMs": 2211297,
+"endMs": 2213417,
+"text": "Misum se aprueba que para"
+},
+{
+"startMs": 2214636,
+"endMs": 2228517,
+"text": "un min se llama el, el Rebe, min se vara or lo vara joshe, min se vara joshe lo vara or. Se nemario yotzer ora uvre joshe, que lo mar mimá she lo amar yotzer ora ve joshe, más más que colejad, dejad, haya lo bore levado."
+},
+{
+"startMs": 2229176,
+"endMs": 2236357,
+"text": "Amar lo shotet, teret de zofa pasú, que Hashem se va a dar su nombre, se un levado vara kol. Al ken ano ombrin, midat yom ba laila, midat laila ba yom."
+},
+{
+"startMs": 2236417,
+"endMs": 2242417,
+"text": "De odía se bore jad vara kol. Hayen tos vota rosh, se vio hayemana, no sé qué. Julin y el Marsha."
+},
+{
+"startMs": 2243717,
+"endMs": 2255596,
+"text": "Ajá, también. Sulaiba, la pena que realmente la neuaz de Yeshaya, Mem Hei, viene mamásh, mamásh, mamásh a este tema directamente."
+},
+{
+"startMs": 2256217,
+"endMs": 2265217,
+"text": "De eso se trata. Cuando el pasú dice: «Yotzer ora uvre joshe», viene a la apuque una tipo de abodazará del tiempo de Koresh."
+},
+{
+"startMs": 2266377,
+"endMs": 2275297,
+"text": "El tiempo de Koresh, creo que así dafka empieza el pere, cual amar Hashem limshijón de Koresh. Y, y ahora pasamos a Yeshaya, Mem Hei."
+},
+{
+"startMs": 2275297,
+"endMs": 2279717,
+"text": "¿Qué pere? Yeshaya, Mem Hei. Es que empieza así, cual sea"
+},
+{
+"startMs": 2282718,
+"endMs": 2284899,
+"text": "Sí, sí es el segundo, cien por ciento. Sí"
+},
+{
+"startMs": 2286919,
+"endMs": 2290178,
+"text": ". Sí. Ahora, entonces, había una, un tipo de"
+},
+{
+"startMs": 2291638,
+"endMs": 2295118,
+"text": ", eh, que se creía en el tiempo de antes."
+},
+{
+"startMs": 2298959,
+"endMs": 2302618,
+"text": "Los-- en, en Persia, la antigua Persia,"
+},
+{
+"startMs": 2304098,
+"endMs": 2311598,
+"text": "que-- sí, para. Que Koresh, sí, es el hijo de- Ahasveros."
+},
+{
+"startMs": 2312019,
+"endMs": 2313058,
+"text": "Sí, de Ahasveros."
+},
+{
+"startMs": 2317098,
+"endMs": 2319399,
+"text": "No, porque construyó el Bet Hamikdash, ¿no? Sí."
+},
+{
+"startMs": 2321118,
+"endMs": 2326379,
+"text": "Entonces, Koresh mandó a construir el Bet Hamikdash. Entonces, ellos pensaban que había dos kojot."
+},
+{
+"startMs": 2327598,
+"endMs": 2337819,
+"text": "Dos kojot. El koaj-- sí, eso es lo que trajiste ahí. El sol y la luna. El koaj del, el koaj del tov, que pelea contra el koaj del ra."
+},
+{
+"startMs": 2338899,
+"endMs": 2345477,
+"text": "Y el koaj del ra pelea contra el koaj del tov. Ellos son su-- esa es su, su, su . ¿El ra? ¿Eh?"
+},
+{
+"startMs": 2347178,
+"endMs": 2354118,
+"text": "No, ellos no creen en HaShem. Ellos creen en el koaj del tov. Hay dos kojot. Hay dos kojot y es una lucha entre los dos kojot."
+},
+{
+"startMs": 2354138,
+"endMs": 2360799,
+"text": "¿Qué quiere con el coche Mazda? ¿Qué? No, ¿no escuchaste eso?"
+},
+{
+"startMs": 2363198,
+"endMs": 2369218,
+"text": "Pensé que- No debe estar- Estaba estorbando un Mazda con placas, no sé qué. No se puede Mazda. ¿Quién habló?"
+},
+{
+"startMs": 2370279,
+"endMs": 2378638,
+"text": "Es una . Ah, por eso tienen el este así el... Es como un angelito. Es que lo del angelito del bien se llama, se llama Mazda."
+},
+{
+"startMs": 2379779,
+"endMs": 2387939,
+"text": "Ahura Mazda. Y el otro se llama- Tiene un coche Aura, ¿no? O algo así. A lo mejor. La camionetita no se llama-- no, es X cincuenta."
+},
+{
+"startMs": 2389819,
+"endMs": 2396198,
+"text": "Entonces- Ni idea. Está-está muy interesante. No nos puede dejar la mitad . Bueno, vamos a estudiar aquí, luego- Al final es el postre"
+},
+{
+"startMs": 2397899,
+"endMs": 2401439,
+"text": ". Entonces, dice-- a ver, vamos a ver esta y qué pasó aquí. Dice"
+},
+{
+"startMs": 2403558,
+"endMs": 2404218,
+"text": "HaShem"
+},
+{
+"startMs": 2406959,
+"endMs": 2409979,
+"text": ", dice, le Koresh, porque HaShem le dio"
+},
+{
+"startMs": 2411319,
+"endMs": 2414778,
+"text": "a Koresh, a Koresh, lo hizo melej, ¿sí?"
+},
+{
+"startMs": 2418879,
+"endMs": 2427638,
+"text": "Y la que de verdad HaShem HaShem al Mashíaj. Le dice, le dice HaShem al Mashíaj: «Tengo un problema con Koresh»."
+},
+{
+"startMs": 2427638,
+"endMs": 2433098,
+"text": "¿Sí? Eso es así explica Rash. Dice . HaShem"
+},
+{
+"startMs": 2435098,
+"endMs": 2438839,
+"text": ", le di fuerza a Koresh. O sea, no le está hablando de Koresh directo."
+},
+{
+"startMs": 2440718,
+"endMs": 2441939,
+"text": "Según un pirush"
+},
+{
+"startMs": 2443278,
+"endMs": 2450499,
+"text": ", sí. No, según un pirush, no es el Mashíaj, sino es el que es mashúaj, al rey Koresh, el ungido Koresh."
+},
+{
+"startMs": 2450919,
+"endMs": 2454359,
+"text": "Y según el otro , que no, que HaShem habla con el Mashíaj sobre Koresh."
+},
+{
+"startMs": 2455819,
+"endMs": 2457198,
+"text": "Entonces, dice"
+},
+{
+"startMs": 2459538,
+"endMs": 2459799,
+"text": "Koresh."
+},
+{
+"startMs": 2461459,
+"endMs": 2464038,
+"text": "O sea, como que está hablando de él entre esa persona. Sí."
+},
+{
+"startMs": 2467158,
+"endMs": 2467558,
+"text": "dice,"
+},
+{
+"startMs": 2470198,
+"endMs": 2475479,
+"text": "le di fuerza, le di fuerza a Koresh, ¿sí? Dice,"
+},
+{
+"startMs": 2478819,
+"endMs": 2485899,
+"text": ", le di que, que él sea rodé sobre goim, como urdú, que, que domine goim, pueblos."
+},
+{
+"startMs": 2488278,
+"endMs": 2490538,
+"text": "abrir delante de él dos puertas e incluso las puertas no se cerrarán». «Abrir delante de él»."
+},
+{
+"startMs": 2492198,
+"endMs": 2492198,
+"text": "."
+},
+{
+"startMs": 2508118,
+"endMs": 2508698,
+"text": "¿Y leíste así?"
+},
+{
+"startMs": 2513098,
+"endMs": 2514339,
+"text": "Dice, sí, leí Rash."
+},
+{
+"startMs": 2517859,
+"endMs": 2518859,
+"text": "Está bien. Dice,"
+},
+{
+"startMs": 2526939,
+"endMs": 2527799,
+"text": ". Hay otro así, ¿no?"
+},
+{
+"startMs": 2529238,
+"endMs": 2529278,
+"text": "Sí."
+},
+{
+"startMs": 2534419,
+"endMs": 2537477,
+"text": "En el de, de, de Pesach, de Pesach."
+},
+{
+"startMs": 2541959,
+"endMs": 2547538,
+"text": "No entiendo nada. ¿Qué está diciendo? No, está rarísimo. No entiendo nada."
+},
+{
+"startMs": 2549158,
+"endMs": 2552578,
+"text": "Ni duro en español. Dice: «Yo soy el que hago que agarren las guerras»."
+},
+{
+"startMs": 2562799,
+"endMs": 2568939,
+"text": ". Dice, todo tu koaj que tienes, todas tus guerras que ganaste, yo te las gané, yo te enderecé los caminos, yo te la puse fácil."
+},
+{
+"startMs": 2569778,
+"endMs": 2569919,
+"text": "Te di,"
+},
+{
+"startMs": 2576658,
+"endMs": 2580319,
+"text": "te di otsrot, tesoros de oscuridad."
+},
+{
+"startMs": 2581778,
+"endMs": 2587339,
+"text": "O sea, significa-- puede ser otsrot escondidos, ¿sí? Te di otsrot escondidos,"
+},
+{
+"startMs": 2589078,
+"endMs": 2593578,
+"text": "y te di muchos secretos, cosas que puedes esconder, dice,"
+},
+{
+"startMs": 2599759,
+"endMs": 2606419,
+"text": ". Dice: «Yo soy el que antes de que naciste, yo ya te puse de nombre Koresh». Sí."
+},
+{
+"startMs": 2609718,
+"endMs": 2609919,
+"text": "Dice,"
+},
+{
+"startMs": 2618178,
+"endMs": 2618198,
+"text": "."
+},
+{
+"startMs": 2623598,
+"endMs": 2624578,
+"text": "Eso no lo hiciste tú."
+},
+{
+"startMs": 2627339,
+"endMs": 2633359,
+"text": ". Dice, todo lo que tú tienes-- no, . Sí, dice: «Todo lo que tú tienes es »."
+},
+{
+"startMs": 2640259,
+"endMs": 2646711,
+"text": "Toda tu fuerza y toda tu riqueza y todo lo que tienes te lo dio Hakadosh Baruj Hu. Dice: ¿Y por qué te lo di yo?"
+},
+{
+"startMs": 2647370,
+"endMs": 2654430,
+"text": "Es como si Hashem se lo está diciendo a Trump. Trump viene y dice: «Ayudé a Israel y le ayudé a hacer las guerras con Irán y se cree mucho y esto lo otro»."
+},
+{
+"startMs": 2655691,
+"endMs": 2664071,
+"text": "Entonces, viene a hacer el bien, Quilo. ¿Me explico? De verdad. ¿Eh? O sea, realmente. Sí, está haciendo el bien. Viene Akasroju y le dice-- Que no se te suba."
+},
+{
+"startMs": 2664211,
+"endMs": 2670591,
+"text": "Que no se te suba, no pienses que eres tú. Todo lo que tú tienes, yo te lo di. Lemán afdí Yaacov Israel bejiri."
+},
+{
+"startMs": 2672591,
+"endMs": 2680571,
+"text": "Dice: Yo todo te lo di por Yaacov, por Am Israel, bejiri, ve'kra leja bishmeja, ajaneja ve lo yedaatán."
+},
+{
+"startMs": 2680571,
+"endMs": 2681870,
+"text": "¿Qué es eso?"
+},
+{
+"startMs": 2683151,
+"endMs": 2693071,
+"text": "Dice: Lemán afdí kol ze ese abú ba'abur Israel otziá mi Babel, para sacarlo del galud Babel. Ve'kra pam karati aleja bishmeja Koresh, u pam stam shmo."
+},
+{
+"startMs": 2693511,
+"endMs": 2699830,
+"text": "U pam stam. Stam shmo. Im ki daber alav, va'arehu kehilu mazkiro beshem hakinui."
+},
+{
+"startMs": 2699830,
+"endMs": 2704031,
+"text": "¿Qué es eso?"
+},
+{
+"startMs": 2706930,
+"endMs": 2713631,
+"text": "Ya no le llamó por su nombre. ¿Y qué viene a decir?"
+},
+{
+"startMs": 2713671,
+"endMs": 2716890,
+"text": "No lo sé. Ani, que todo lo que eres, Koresh, es por mí. Sí."
+},
+{
+"startMs": 2718350,
+"endMs": 2725270,
+"text": "Es como los malajím, que son-- un nombre, dice Quilo, tú lo hiciste tú. Okey. Es lo que le dijo a Te antes, ¿no?"
+},
+{
+"startMs": 2725551,
+"endMs": 2733470,
+"text": "Este yo creo que no es el Koresh, el hijo de Ajashverosh, es antes, es el primer Koresh. Esto matí más con todo lo que dicen acá de Babel."
+},
+{
+"startMs": 2734191,
+"endMs": 2740231,
+"text": "A ver, dice: Ani Hashem ve'en od zulati. Entonces, Hashem le dice a Koresh: Yo soy Hashem y no hay más que yo."
+},
+{
+"startMs": 2741430,
+"endMs": 2748410,
+"text": "En Elohim azeréja ve lo yedaatani. ¿Qué significa lo yedaatani? Ya dos veces le dijo lo yedaatani."
+},
+{
+"startMs": 2749250,
+"endMs": 2757970,
+"text": "Entonces, dice, dice Rashi arriba, sobre el pasuk de arriba: Lo hiciste retsoni, ki ani amarti hu ibne iri, ve hu kshe amar, amar: Mi vájem mi kol amo."
+},
+{
+"startMs": 2758691,
+"endMs": 2767631,
+"text": "Reshut natam laem leleج ve kol ha-toraj parak me al tavaro. El primer Koresh les dio permiso a subir a Jerusalén a construir el Bet Hamikdash."
+},
+{
+"startMs": 2768310,
+"endMs": 2775171,
+"text": "Y Hashem no quería que él nada más dé permiso, quiera-- quería que él esté activo en la construcción del Bet Hamikdash."
+},
+{
+"startMs": 2775591,
+"endMs": 2781930,
+"text": "Dice: Todo, te di toda esa fuerza para que nada más acabes diciendo: Doy permiso. Dice: No, no funciona nada más con dar permiso."
+},
+{
+"startMs": 2782731,
+"endMs": 2785031,
+"text": "Dice: Yo quería que hagas todo."
+},
+{
+"startMs": 2787451,
+"endMs": 2795390,
+"text": "Acá explica que natati le jagot el metodot. Mmm-hmm. Natati le jagot y que adai lo yedata uti, que adai lo nolad. O sea, como que le llegó de antes de que nazca, entonces."
+},
+{
+"startMs": 2795951,
+"endMs": 2796231,
+"text": "Ajá."
+},
+{
+"startMs": 2797591,
+"endMs": 2806350,
+"text": "Ese es lo yedatani, ¿no? Ve lo yedatani, rotanomar, lo bizjuteja, ki adai lo notzarta, lo notzarta sjut. Im ken, en ze ki im lemaan abdi Yaacov."
+},
+{
+"startMs": 2808430,
+"endMs": 2816370,
+"text": "Sí, Quilo, de hecho todo lo que yo te di, Hashem ya dijo, ya se lo-- wa la Koresh, ¿me entiendes? Quieres Koresh. No, este es el Shamaim, todo."
+},
+{
+"startMs": 2816890,
+"endMs": 2817051,
+"text": "Sí."
+},
+{
+"startMs": 2820930,
+"endMs": 2829171,
+"text": "Azeréja es Quilo que le dio fuerza. Lemán, dice: Ani Hashem ve'en od zulati, no hay más que yo. En Elohim azeréja ve lo yedatani."
+},
+{
+"startMs": 2830151,
+"endMs": 2837731,
+"text": "Dice: No hay otro Elohim. Dice: Azeréja, y toda tu fuerza yo te la doy. Y con todo y todo no me reconoces a mí."
+},
+{
+"startMs": 2838611,
+"endMs": 2845051,
+"text": "Dice: Lemán yedú u mi mizrach shemesh u mi ma'arava, desde que sale el sol hasta que se mete."
+},
+{
+"startMs": 2845810,
+"endMs": 2857131,
+"text": "Ki efes biladai, Ani Hashem ve'en od. No hay más que yo. Lemán yedú-- et ze odati mi rosh lemán yedú kulam asher en Eloha mi baladai limjot vejadi."
+},
+{
+"startMs": 2857510,
+"endMs": 2864231,
+"text": "Lo que melej basar adam shemastir atsmo mi paja damoja. Dice: Contra mí no hay quien se pueda poner en contra de mí."
+},
+{
+"startMs": 2864250,
+"endMs": 2871390,
+"text": "¿Yo quién soy? Dice: Yozer or uvorej osej, mi mismo oponente"
+},
+{
+"startMs": 2872671,
+"endMs": 2879890,
+"text": "es alguien creado por mí, ¿sí? Dice: Yozer or uvorej osej, ose Shalom uvorej ra."
+},
+{
+"startMs": 2880510,
+"endMs": 2889171,
+"text": "Ani Hashem ose kol ele. Justamente aquí apareció el kol, ¿sí? Ose Shalom uvorej et hakol es justamente la seifa del pasuk."
+},
+{
+"startMs": 2889231,
+"endMs": 2896270,
+"text": "Ahí puede salir. Ani Hashem ose kol ele. O sea, necesita el kol ahí. Es para-- por, porque ellos piensan que Ose Shalom"
+},
+{
+"startMs": 2897591,
+"endMs": 2904691,
+"text": "uvorej ra, y a eso Ani Hashem ose kol ele, yo también, ¿verdad?, dice Quilo. No, no, uvorej ra está bien. Ellos no piensan eso."
+},
+{
+"startMs": 2904890,
+"endMs": 2911830,
+"text": "No, entonces está muy interesante, porque entonces cuando dice kol acá la Gemara, sí se refiere a un kol que sí está escrito en el pasuk, no es de que Tam se lo inventó para hablar bonito."
+},
+{
+"startMs": 2911991,
+"endMs": 2920991,
+"text": "¿Mmm? O sea, la Gemara cuando dijo, eh... Sí, está, está diciendo la Mascaná del pasuk, está hablando de Shalom y de-- Está diciendo lo que está diciendo el pasuk al final, cuando dice kol, uvorej et hakol."
+},
+{
+"startMs": 2921470,
+"endMs": 2929651,
+"text": "Claro, está diciendo nomás, sí. Y no será en vez de ra dice, o sea, ose kol ele. Ose kol ele, claro. O sea, nada más se saltó una palabra del pasuk."
+},
+{
+"startMs": 2930211,
+"endMs": 2931991,
+"text": "El que me acuerdo que explicaba todo lo de,"
+},
+{
+"startMs": 2933211,
+"endMs": 2939911,
+"text": "lo de que hay dos, eh, o sea, que la shita de ellos y todo eso, era el Malbim, así explicaba todo este perej."
+},
+{
+"startMs": 2939970,
+"endMs": 2946211,
+"text": "El que, el que hace-- algo creado para esto y creado para esto. ¿La sois, hecho ahí? Sí."
+},
+{
+"startMs": 2946211,
+"endMs": 2949091,
+"text": "¿Tienen el Malbim? Sí, acá sí. Es Malbim,"
+},
+{
+"startMs": 2950491,
+"endMs": 2958131,
+"text": "perek mem hei, pasuk hei. Sí está el Malbim acá. Yo quiero lo de aquí. Así. Ani Hashem ve'en od."
+},
+{
+"startMs": 2958411,
+"endMs": 2965651,
+"text": "Tipo así. Sí. O así, tipo. ¿Tienes migraña? Te voy a preguntar eso, ¿tienes migraña?"
+},
+{
+"startMs": 2965651,
+"endMs": 2973211,
+"text": "¿Quieres paracetamol? Mi novia también. ¿Qué me dijiste? Un masajito. Hay que majito. ¿Hay Tums y paracetamol?"
+},
+{
+"startMs": 2976870,
+"endMs": 2978171,
+"text": "No. No sabes que estamos transmitiendo."
+},
+{
+"startMs": 2980370,
+"endMs": 2980411,
+"text": "A"
+},
+{
+"startMs": 2981870,
+"endMs": 2988870,
+"text": "ver, ¿tienen este Malbim? Es un Malbim largo. Esta me animo en verlo. ¿Tienen? Sí. Ani Hashem ve'en od."
+},
+{
+"startMs": 2989131,
+"endMs": 2993270,
+"text": "Lemán yunú haktubim habaím tzarik lejadim hagdama ktará. ¿De dónde está ese pasuk? Hei."
+},
+{
+"startMs": 2994491,
+"endMs": 3005031,
+"text": "Malbim, mem hei hei. Lemán yunú haktubim habaím tzarik lejadim hagdama ktará. Dice: Ben am paras itpashta baeta hi emunat, emunat hashniut."
+},
+{
+"startMs": 3005531,
+"endMs": 3011035,
+"text": "Ahí empezó a haber una emunat del shniut. Kilo que es Hashem es Se acerca a nosotros,"
+},
+{
+"startMs": 3013254,
+"endMs": 3020975,
+"text": "se acerca a nosotros Que había, dicen, que el mundo tiene dos orígenes."
+},
+{
+"startMs": 3021555,
+"endMs": 3029115,
+"text": "El uno es el que saca la luz y el ser y el bien. Y el otro es la fuente de la oscuridad y la falta y el mal. ¿De dónde llega este pensamiento?"
+},
+{
+"startMs": 3029335,
+"endMs": 3030555,
+"text": "Dice, si hay un mekor,"
+},
+{
+"startMs": 3032535,
+"endMs": 3040354,
+"text": "si el mekor es bueno, entonces todo tiene que estar bien. Si el mekor es malo, entonces todo tiene que estar mal. Pero si hay cosas buenas y hay cosas malas,"
+},
+{
+"startMs": 3041654,
+"endMs": 3042134,
+"text": "entonces hay"
+},
+{
+"startMs": 3043555,
+"endMs": 3046894,
+"text": "dos mekorot. ¿Por qué no hay una fuerza que tiene las dos?"
+},
+{
+"startMs": 3048194,
+"endMs": 3056115,
+"text": "Quiero entender bien la lógica. ¿Por qué no hay una fuerza que tiene las dos? ¿Para qué hace lo malo? Porque le quiere algo más."
+},
+{
+"startMs": 3057035,
+"endMs": 3057995,
+"text": "Bueno, hasta no llegar."
+},
+{
+"startMs": 3059354,
+"endMs": 3060615,
+"text": "Pero ellos lo ven como que..."
+},
+{
+"startMs": 3061975,
+"endMs": 3070115,
+"text": "Lo ven como que nada más hay un mundo y no hay un lama va. Todo lo que puede haber el mal que se haga bueno es porque luego hay algo más. Hay un lama va. Si no hay, entonces no hay un bétsemen, no puede existir nada."
+},
+{
+"startMs": 3071314,
+"endMs": 3073854,
+"text": "Filosófico. Filosófico."
+},
+{
+"startMs": 3075254,
+"endMs": 3083915,
+"text": "Ese es el libro. Todo dice. Tirar el cerebro. Y la segunda es de toda la oscuridad y la falta y el mal."
+},
+{
+"startMs": 3084814,
+"endMs": 3091975,
+"text": "Y ellos dicen que estos dos orígenes, que ¿cómo sabemos si nosotros no estamos de alguna manera afectados de esta idea?"
+},
+{
+"startMs": 3093115,
+"endMs": 3093835,
+"text": "No, por eso es que no."
+},
+{
+"startMs": 3095214,
+"endMs": 3107894,
+"text": "O sea, ¿dónde ves? O sea, ¿dónde en tu avodat Hashem está este aspecto de esta emuná que tienes que tener, que Hashem es el Boré Ra, el Boré Joshe?"
+},
+{
+"startMs": 3108794,
+"endMs": 3115015,
+"text": "Cuando aceptas las cosas malas que te están pasando. Cuando uno se queja. Cuando te enojas, cuando no quieres. Te bajas de los buses."
+},
+{
+"startMs": 3115035,
+"endMs": 3122674,
+"text": "Cuando no aceptas. Él dice que no hay otro place. Que es de rabai, es de rabai."
+},
+{
+"startMs": 3122734,
+"endMs": 3129875,
+"text": "Sí, ¿verdad? Está preguntando, pero ahí está, está bárbaro. Yo quiero más, más pasut, estamos."
+},
+{
+"startMs": 3129894,
+"endMs": 3136075,
+"text": "¿Dónde en la vida ves eso? ¿Qué les va a saber? ¿Que todo viene de Hashem? ¿Que todo lo que le hace?"
+},
+{
+"startMs": 3136354,
+"endMs": 3143475,
+"text": "No, ¿dónde está esta avodazará dentro de nosotros, que necesitamos la puque de esta avodazará?"
+},
+{
+"startMs": 3143475,
+"endMs": 3147975,
+"text": "¿Dónde nos equivocamos? Hay gente que dice, él lo que hacía, eso es malo."
+},
+{
+"startMs": 3154375,
+"endMs": 3155254,
+"text": "Tenía una hermana"
+},
+{
+"startMs": 3156595,
+"endMs": 3164714,
+"text": "mía que decía que no había castigo, que no había nada malo viene de Hashem. O sea, las broncas y todo eso no viene."
+},
+{
+"startMs": 3167814,
+"endMs": 3172174,
+"text": "Espérate, los pastaním que no creen en la cosa práctica, iban a hablar de ti que..."
+},
+{
+"startMs": 3175734,
+"endMs": 3181875,
+"text": "Que no viene todo de Regó, de Regó, porque no lo tengo cuidado ahí. Es porque existe un mekor de Ra separado."
+},
+{
+"startMs": 3182194,
+"endMs": 3187274,
+"text": "Sí, no viene todo, no va con el Ramdán, ellos van con la otra shitá, la que dice no, no, no."
+},
+{
+"startMs": 3189294,
+"endMs": 3192415,
+"text": "Y eso estamos entre nosotros, jaredines, creo que es Ramdán."
+},
+{
+"startMs": 3195535,
+"endMs": 3201975,
+"text": "Entonces... Seguimos. ¿Dónde está esto? A ver, vamos a pensar juntos."
+},
+{
+"startMs": 3202254,
+"endMs": 3211154,
+"text": "Te están diciendo, por ejemplo... Cuando nos pasa algo malo y nos quejamos, ¿cómo dicen? ¿Por qué cuando te quejas, kilo, hay algo de esta avodazará dentro de nosotros?"
+},
+{
+"startMs": 3211214,
+"endMs": 3217894,
+"text": "No, que Dios no fue Hashem el que me lo mandó. Al revés. Ya, fue Itam un mikré. ¿No te acordás? Y no me lo merezco. Fue el que creó el mal."
+},
+{
+"startMs": 3218154,
+"endMs": 3226394,
+"text": "Está bueno, cuando alguien te hace algo malo y no piensas en moral. Está mikré. O sea, que puede existir el mal como rab."
+},
+{
+"startMs": 3226754,
+"endMs": 3234115,
+"text": "Cierto, porque con eso también puede ser cuando te pasa algo bueno. La fuerza que es el resto. También fue el que me dio. Cuando minimizamos también los problemas."
+},
+{
+"startMs": 3234154,
+"endMs": 3243674,
+"text": "Cuando minimizamos algo que pasa. Porque entonces quiere decir que esa parte yo no la quiero ver, la omito. Esto no existe, no, existe, pero Hashem te lo mandó para un mensaje."
+},
+{
+"startMs": 3243794,
+"endMs": 3246095,
+"text": "Exactamente. Minimizar por completo."
+},
+{
+"startMs": 3249055,
+"endMs": 3256555,
+"text": "El no querer aceptar que hay mal, el no querer aceptar que hay mal, entonces, kilo, dices: No, eh."
+},
+{
+"startMs": 3256694,
+"endMs": 3263415,
+"text": "Está rendido. ¿Eh? ¿Josefa Tadic? ¿Qué cosa, checa? No, realmente no."
+},
+{
+"startMs": 3263455,
+"endMs": 3270734,
+"text": "¿Por qué no decimos mejor que cuando alguien te pega o te cierran el coche, hijo de la maña, te enojas con él?"
+},
+{
+"startMs": 3270975,
+"endMs": 3276075,
+"text": "También, también. Todo está bruela. Todo fue bruela, no lo vemos."
+},
+{
+"startMs": 3277375,
+"endMs": 3285794,
+"text": "Entonces... Además, te está todo el tiempo y no lo vemos. Entonces, quiere decir que también el Ra que Hashem te manda, te está mandando..."
+},
+{
+"startMs": 3286774,
+"endMs": 3288555,
+"text": "Entonces, acá hay varias cosas. Una,"
+},
+{
+"startMs": 3289915,
+"endMs": 3293915,
+"text": "yo entiendo que es que cualquier Ra, Jaiable itapej, hacer todo."
+},
+{
+"startMs": 3295254,
+"endMs": 3304375,
+"text": "Cualquier Ra, Jaiable itapej. Usted está diciendo que el Ra que Hashem te manda, tú lo ves y eso quiere decir que vemos que Hashem boreta Ra también."
+},
+{
+"startMs": 3304595,
+"endMs": 3312115,
+"text": "O sea, ¿dónde está? ¿Por qué es tan importante esta emuná? Que hay una Ra dentro del Ra. ¿Cuál es la avodazará?"
+},
+{
+"startMs": 3312115,
+"endMs": 3313115,
+"text": "¿Cómo nos...?"
+},
+{
+"startMs": 3316875,
+"endMs": 3324455,
+"text": "¿Por qué? ¿Por qué cola coes? ¿Por qué ahí está avodazará? Porque aquí mata coes, quiere decir que entiendes que existe algo que no debería de pasar, que es algo malo."
+},
+{
+"startMs": 3324495,
+"endMs": 3334615,
+"text": "Que el Ra es algo de atsumto. Y el Ra no es el todo, va a mitir que es Hashem. Porque si él es el mekor del todo y Mimer, el Rai lo creó, entonces Mimer a la fuerza del Ra tiene que ser todo."
+},
+{
+"startMs": 3334995,
+"endMs": 3344415,
+"text": "Y si lo ves tú como algo nifrad, es avodazará. Hay que todo el Ra, que todo el Ra itapej le todo y que Hagadoz Baruj Hu le da lugar al Ra."
+},
+{
+"startMs": 3344714,
+"endMs": 3351535,
+"text": "Entonces, el Ra be atsmo, Jaiable ot que itapej li oto."
+},
+{
+"startMs": 3352274,
+"endMs": 3358375,
+"text": "Y ya que es así, entonces, le fidé, no puede ser nada más que te escapes del Ra."
+},
+{
+"startMs": 3359035,
+"endMs": 3366995,
+"text": "No te puedes nada más escapar del Ra. No te puedes escapar del Ra, sino tienes que entender que el Ra be atsmo, Hashem te está..."
+},
+{
+"startMs": 3367035,
+"endMs": 3373575,
+"text": "Que cuando te estás escapando, entonces estás entendiendo que es algo malo y te escapas. Porque si fuera algo bueno, pues no te escapes. Exactamente."
+},
+{
+"startMs": 3373615,
+"endMs": 3379354,
+"text": "Hay algo que Hashem te quiere. Si es otro mejor, entonces escápate y apégate al lado bueno y ya. Son chupones. Sí."
+},
+{
+"startMs": 3381634,
+"endMs": 3385934,
+"text": "Pero aquí hay algo que atrajo a mí que viene a Hashem y el Jotsón no lo quiere."
+},
+{
+"startMs": 3387495,
+"endMs": 3390974,
+"text": "O sea, hay algo que puedes entender que viene a Hashem y dejó para ti el Rai."
+},
+{
+"startMs": 3393354,
+"endMs": 3397335,
+"text": "Puedes entender que viene a Hashem, pero igual no lo quieres."
+},
+{
+"startMs": 3398734,
+"endMs": 3409214,
+"text": "Y no te gusta que entiendas que es Hashem. La verdad es que no lo quieres. O sea, quieres que itapej le todo. Cuando había Johanna y todos los que estaban en la costada, que tenían insurin, que estaba..."
+},
+{
+"startMs": 3411894,
+"endMs": 3418694,
+"text": "Un papachito así, imbécil. Ya lo emberrizaste, porque a él te agarró. Bueno, no querían llegar a esta larga insurin, porque eran insurin che la aváez."
+},
+{
+"startMs": 3420043,
+"endMs": 3424183,
+"text": "Borrará todo Venga, venga para acá Ahora vamos a leer el Malvin, entonces dice."
+},
+{
+"startMs": 3428063,
+"endMs": 3431663,
+"text": "O sea que va-vamos a entender más así Ulay así abrirlo un poquito más."
+},
+{
+"startMs": 3433183,
+"endMs": 3438103,
+"text": "Cuando llegó Yavan. Tiftaj etse, tiftaj etse. Cuando llegó Yavan al mundo, cuando llegó Yavan al mundo"
+},
+{
+"startMs": 3441663,
+"endMs": 3451963,
+"text": "Entonces, ¿cómo funciona? O sea, ¿qué pasó? ¿Sí? Llegó Yavan al mundo, o sea, pasó de Alejandro Magno y luego este, ¿cómo se llama?"
+},
+{
+"startMs": 3452743,
+"endMs": 3460423,
+"text": "Lo mandó Hashem, es lo que estás diciendo. Exactamente. No es que ellos tienen koaj mitzad atsamam. Ellos no tienen koaj mitzad atsamam."
+},
+{
+"startMs": 3461583,
+"endMs": 3468723,
+"text": "No existe que de étem se le ocurra a un yevaní decir: ¿sabes qué? Vamos a-- o Babel. ¿Sí?"
+},
+{
+"startMs": 3469183,
+"endMs": 3476263,
+"text": "Si tú dices kilo que tienen koaj mitzad atsamam, quiere decir que beemet, tú estás en una guerra directa contra Babel."
+},
+{
+"startMs": 3477203,
+"endMs": 3492143,
+"text": "No estás en una guerra contra tus averot. ¿Sí me explico? Te lo mites. Si tú entiendes que Hashem es el mekor de ese joshe, entonces tienes que entender que no fue-- el joshe no tiene un koaj mitzad atsamam."
+},
+{
+"startMs": 3493023,
+"endMs": 3509123,
+"text": "O sea, en otras palabras, si alguien te hace algo, entonces si tú le echas la culpa a él, como estaban diciendo antes, si tú agarras y le echas la culpa a él, entonces quiere decir que a tamamin, que hay un mekor independiente de cómo puede llegarte algo."
+},
+{
+"startMs": 3509323,
+"endMs": 3517983,
+"text": "Claro. Ahora, si es de Hashem, entonces quiere decir que él ve que no tiene koaj de venir contigo. Entonces, me viene cómo, cómo llegó al final contigo."
+},
+{
+"startMs": 3518143,
+"endMs": 3525263,
+"text": "No porque él decidió. Es majroket, ¿no? Sí, porque Hashem lo trajo. Es majroket, sí, tipo tú tienes que ver como la ot-- si la otra persona tiene bejiráh o no."
+},
+{
+"startMs": 3526243,
+"endMs": 3533283,
+"text": "O si alguien te echó un café en la camisa, él tenía bejiráh y me lo echó o no. Entonces, eso es lo que venimos a la PUG."
+},
+{
+"startMs": 3533283,
+"endMs": 3540403,
+"text": "¿Así es el heredero o no? Es el Haraj, ¿no? Es el Haraj. Vinimos a la PUG esa... Vinimos a la PUG..."
+},
+{
+"startMs": 3542343,
+"endMs": 3550903,
+"text": "Vinimos a la PUG eso lo que estás hablando. Que, que no hay bejiráh. No. El otro. Y si te pasó a ti es porque acá es por who lo mandó a él, punto."
+},
+{
+"startMs": 3552243,
+"endMs": 3561863,
+"text": "En Dabar Ajero. Tenía que pasar. No, pero si existe la bejiráh, él podía decidir hacerlo o no hacerlo, igual si, si en Maguilejá-- A ti, a ti no te, no tenía cómo poder llegarte."
+},
+{
+"startMs": 3561923,
+"endMs": 3568343,
+"text": "Él nunca puede tener una bejiráh y ser mekor. Él nunca puede decidir: le voy a echar un café a él. No existe. Si no Maguilejá, no, a ti no te va a tocar."
+},
+{
+"startMs": 3568403,
+"endMs": 3574663,
+"text": "No te va a tocar, en Kasdabar, en Kasdabar. Y si te tocó, entonces échate primero la culpa a ti."
+},
+{
+"startMs": 3575003,
+"endMs": 3575803,
+"text": "Luego él va a hacer sus--"
+},
+{
+"startMs": 3577443,
+"endMs": 3586843,
+"text": "pero tú tienes que echarte la culpa a ti. Es el que vio la cabeza y dijo: \"Eh, eh, eh\". Y luego tú también haces... \"Eso es, Boreh HaJoshe\". El que te mató a ti, eh, pero tú también te debías de haber matado, eh."
+},
+{
+"startMs": 3587743,
+"endMs": 3590523,
+"text": "Y leer con la cabeza. Sí. Eso es Boreh HaJoshe."
+},
+{
+"startMs": 3592343,
+"endMs": 3592643,
+"text": "Sí."
+},
+{
+"startMs": 3596743,
+"endMs": 3598603,
+"text": "Esa es la historia de la vida."
+},
+{
+"startMs": 3603943,
+"endMs": 3605443,
+"text": "¿Tienen? ¿Cuándo lo escuché?"
+},
+{
+"startMs": 3606663,
+"endMs": 3607603,
+"text": "Pasó a ser el..."
+},
+{
+"startMs": 3617103,
+"endMs": 3626763,
+"text": "Cada uno se limita por la otro. Entonces, sale acá, es algo muy amok, que si tú vas con esta shiita, sale que el, el or,"
+},
+{
+"startMs": 3628323,
+"endMs": 3635343,
+"text": "el lado bueno, está limitado hasta donde llega lo mal. El lo malo limita lo bueno y lo bueno limita lo mal."
+},
+{
+"startMs": 3635963,
+"endMs": 3636263,
+"text": "Dice:"
+},
+{
+"startMs": 3662123,
+"endMs": 3669143,
+"text": "Eres es falta de. Es una falta. O sea, el joshe es algo... No es una falta. No es una falta, es un heft de joshe."
+},
+{
+"startMs": 3669203,
+"endMs": 3669843,
+"text": "Es un heft."
+},
+{
+"startMs": 3672763,
+"endMs": 3673823,
+"text": "son dos fuerzas,"
+},
+{
+"startMs": 3676363,
+"endMs": 3679943,
+"text": "Dice, ¿qué es lo frío? ¿Qué es eso? Dice:"
+},
+{
+"startMs": 3685163,
+"endMs": 3691903,
+"text": "Sí, porque hay tibia normal, hay al tiempo y hay frío y hay caliente. O sea, son dos hefts. Ajá. Que"
+},
+{
+"startMs": 3696643,
+"endMs": 3704383,
+"text": "salgan dos cosas completamente contradictorias- Por supuesto, es como una-- del mismo shores. Si el shores es caliente, pues van a salir cosas calientes."
+},
+{
+"startMs": 3704403,
+"endMs": 3706183,
+"text": "Si el shores es frío, van a ser cosas frías."
+},
+{
+"startMs": 3715903,
+"endMs": 3722263,
+"text": "Yo quiero pensar ahorita como un-- ahorita es, es, me interesaría entenderlo más. Yo no lo tengo claro, lo, lo quiero lefatea."
+},
+{
+"startMs": 3722343,
+"endMs": 3730743,
+"text": "¿Qué pasaría a un goi que va con esta shiita? El, el goi va con esta shiita y él dice: en el mundo existe el mal, existe el bien."
+},
+{
+"startMs": 3731063,
+"endMs": 3737963,
+"text": "O sea, al final va a ganar el bien. El bien le va a ganar al mal y nosotros tenemos que hacer una lucha constante pa' ganar al mal."
+},
+{
+"startMs": 3738183,
+"endMs": 3744803,
+"text": "Nosotros es nuestro trabajo- Mi sistema así piensa el Rey Baalam. Son las películas todas las shiitas. O sea, mi sistema to-todo el mundo así piensa, BePashut."
+},
+{
+"startMs": 3744903,
+"endMs": 3753183,
+"text": "Claro. Hay koaj del Ra. Hay mal y hay bien. Hay está el bien. Y el bien es el bueno. Y el bien, tú tienes que hacer el bien contra el mal. Nosotros también lo hacemos en Yetser Hará todo el tiempo."
+},
+{
+"startMs": 3753963,
+"endMs": 3760163,
+"text": "Y estás con Yetser Hará y lo, lo peparas. Barat Yetser Hará, barat y lo torat. Sí, pero cuando tú piensas en Yetser Hará y tengo que vencerlo, ¿y cómo me le hago?"
+},
+{
+"startMs": 3760203,
+"endMs": 3768703,
+"text": "Y no estás pensando en Baalam, estás pensando en el mal. Cuando nos encienden de chiquitos tiene razón, que chiquillos, ojalá. No de chiquitos, ahorita, ¿cómo vas a ganar el Yetser Hará?"
+},
+{
+"startMs": 3769463,
+"endMs": 3775783,
+"text": "No, piensas que el Yetser Hará tiene razón, es un koaj que se cree que es algo malo. Existe Yetser HaTov y Yetser Hará."
+},
+{
+"startMs": 3775943,
+"endMs": 3782503,
+"text": "Porque tú estás enfrentándote a él, no estás pensando en Hashem. Estás pensando con qué uno va a meter con este koaj. Es un demonio."
+},
+{
+"startMs": 3782783,
+"endMs": 3793751,
+"text": "Estás pensando en un demonio Yo tengo una bronca con este, me tengo que pelear con él, ¿cómo le hago? No, lo que quiero entender es cuál va a ser la nafcamina, si yo entiendo que el Ra lo hizo Hashem."
+},
+{
+"startMs": 3793751,
+"endMs": 3802791,
+"text": "¿Me explico? Yo tengo que hacer la nafcamina. Tienes a donde ir. ¿Cómo de este goi se va a ver malo, se va a ver bueno? ¿Qué, qué tipo de goi va a haber? Un goi que mamá suba con esta emuná, emuná amitit."
+},
+{
+"startMs": 3803031,
+"endMs": 3812631,
+"text": "En esta sitá. Y él dice: nosotros somos del bien y hay un coaj del mal. Imagíname, ahí está haciendo aguas de Araquil, que de dónde salió ese coaj del mal."
+},
+{
+"startMs": 3812731,
+"endMs": 3819611,
+"text": "Imagíname, pero quitando esa verá, parte de esa verá, ¿sí? Que el goi no tiene, ¿cómo se llama?"
+},
+{
+"startMs": 3820191,
+"endMs": 3826911,
+"text": "No, no me sube a los new, según algunos sitó. Entonces, ¿dónde, dónde este goi, Kiludo? ¿Qué le falta?"
+},
+{
+"startMs": 3827651,
+"endMs": 3835151,
+"text": "Yo te voy a enseñar la diferencia. Con el mal. Siempre tiene una pelea. Va a estar peleando con el mal. Uno va a estar feliz, el otro, el otro nunca va a estar feliz."
+},
+{
+"startMs": 3835191,
+"endMs": 3840491,
+"text": "No va a existir que esté feliz. Va a tener lo constante en toda la, en toda esa parte. Nunca va a estar feliz."
+},
+{
+"startMs": 3842031,
+"endMs": 3849550,
+"text": "Su mal no tiene sentido, es mal solo. Nuestra dificultad tiene mucho sentido. Su dificultad de ellos es dificultad."
+},
+{
+"startMs": 3850611,
+"endMs": 3858131,
+"text": "Morir, sufrir, perder. La nuestra al revés, nuestra dificultad es ganar, ver. Al revés, todo el tiempo va a ser Beirut."
+},
+{
+"startMs": 3858191,
+"endMs": 3867951,
+"text": "Esto está mal, esto está bien, esto está mal, esto está bien. No puede llegar, no puede agarrar el, por ejemplo, algo que le pasó mal para él. Si yo agarro y hago una verá, entonces me fui al otro equipo."
+},
+{
+"startMs": 3869411,
+"endMs": 3875891,
+"text": "Entonces, quiere decir que el otro equipo le estoy dando fuerza, me está conquistando. Entonces, entonces necesito salirme de ahí."
+},
+{
+"startMs": 3875911,
+"endMs": 3883051,
+"text": "¡Ah! Y ya estoy. Ya estoy de este lado. Ahora no, ya estoy de este lado, necesito darle trancazo. ¡Pa, pa, pa! ¿Dónde está mal?"
+},
+{
+"startMs": 3883071,
+"endMs": 3891451,
+"text": "¿Dónde está mal? De que no, no hay tipo-- cuando me fui para allá. De hoy en adelante me voy para acá, pero entonces, y eso ya se perdió, tipo como si hay una..."
+},
+{
+"startMs": 3891811,
+"endMs": 3893651,
+"text": "Eso, para nosotros no son, es un equipo."
+},
+{
+"startMs": 3895131,
+"endMs": 3901331,
+"text": "Te saliste del plan de Hashem. Pase lo que pase, ganaste. Te saliste del plan bueno al malo. Ganar o ganar. Luego regresa al bueno, no existe eso."
+},
+{
+"startMs": 3902431,
+"endMs": 3909731,
+"text": "Es lo que dijo Joseph, ¿no? ¿Cuál es la nafcamina? Quiero entender. ¿Cuál es la nafcamina? Que no puede elevar. No tiene techubá, no tiene letaqué, no tiene nada."
+},
+{
+"startMs": 3909891,
+"endMs": 3915951,
+"text": "Tu sentido. Para decirlo pa-- él no tiene una vida completa. Debe tener una vida en..."
+},
+{
+"startMs": 3915971,
+"endMs": 3921271,
+"text": "¿Tú no ves las caminas? ¿Cómo? Las partes buenas es la vida. La nafcamina es el sentido."
+},
+{
+"startMs": 3922971,
+"endMs": 3929751,
+"text": "Al revés, tiene mucho sentido, que ellos-- hay un coaj malo en el mundo y nosotros tenemos que lit gape, ganarle."
+},
+{
+"startMs": 3930951,
+"endMs": 3939131,
+"text": "Todo lo malo que pasa. Así somos nosotros todo el tiempo, hasta hoy. Siempre hablamos de clipot, de que cuando una persona se avera también de umagribo lamot."
+},
+{
+"startMs": 3939731,
+"endMs": 3941751,
+"text": "Sí, son cosas que tienen razón."
+},
+{
+"startMs": 3943311,
+"endMs": 3951011,
+"text": "Si hay un coaj malo que está escrito, o sea, ata, ata, atamagribo lamot cuando haces una, una vez. Sí, pero nunca se quita por completo."
+},
+{
+"startMs": 3951371,
+"endMs": 3953751,
+"text": "Siempre tienes el, el, ese... Pero"
+},
+{
+"startMs": 3955371,
+"endMs": 3961511,
+"text": "existe techubát, que es algo que yo creo. Pero en ese momento sí te saliste del carril. Pero hay cambio de equipo también."
+},
+{
+"startMs": 3961911,
+"endMs": 3966331,
+"text": "Yo creo que primero, la primer, la primer cosa aquí que hay que entender es"
+},
+{
+"startMs": 3967811,
+"endMs": 3974271,
+"text": "de dónde ellos sacan en su sitá que el top va a ganar. ¿Cómo puede estar tan seguro?"
+},
+{
+"startMs": 3974791,
+"endMs": 3981771,
+"text": "Si son dos cojotes. Si son dos cojotes, uno va a ganar, a lo mejor el Ra va a ganar. Dice, es má miním, que al final el top va a ganar."
+},
+{
+"startMs": 3982371,
+"endMs": 3989471,
+"text": "De dónde llegó. Que ojalá, ¿no? Y esperanza. Una esperanza. Sí, sí, no un vitacón, una batalla."
+},
+{
+"startMs": 3990131,
+"endMs": 3996651,
+"text": "Otra cosa, rabí, o sea, basado-- qué pelea entre ellos dos, están muy parecidos. O sea, tú hablas- Es lo que yo quiero entender."
+},
+{
+"startMs": 3997211,
+"endMs": 4002971,
+"text": "Yo le dati todo el hidud de Rav Nachman, me dice Aarvien a la puque esta sitá, mucho."
+},
+{
+"startMs": 4004671,
+"endMs": 4010771,
+"text": "La sitá de que es separada, de que nació separada. Es que es badai que el kul alma masquimim, que no nació separado."
+},
+{
+"startMs": 4011111,
+"endMs": 4018591,
+"text": "La nafcamina es que Rav Nachman da una abodá muy, muy mefuretet. De, de las, de todas las nafcaminot que hay,"
+},
+{
+"startMs": 4019831,
+"endMs": 4028651,
+"text": "por, por, por entender que el Ra no es un mecor látsim. Porque todas las sitós van a ser de que tienes que pelear contra el Ra, ¿sí?"
+},
+{
+"startMs": 4029351,
+"endMs": 4037051,
+"text": "Pero ahorita, ¿cuál va a ser la nafcamina amitit de saber que el Ra no tiene un coajatzmaim, que el Ra no es una, un, una...?"
+},
+{
+"startMs": 4037211,
+"endMs": 4045251,
+"text": "No, es que si entiendes que el Ra no tiene un coajatzmaim, no tienes que pelearte en contra del Ra. Solo pelearte en contra del Ra. Tienes que pelear."
+},
+{
+"startMs": 4045271,
+"endMs": 4051631,
+"text": "Tengo que no hacerlo, pero no tengo que pelear contra él. Es un mecor nada más, entonces no, no... No puedes contra Amalek, ¿no peleas?"
+},
+{
+"startMs": 4052631,
+"endMs": 4054311,
+"text": "También tienes que pelear, no puedes no pelear."
+},
+{
+"startMs": 4060271,
+"endMs": 4068031,
+"text": "Pero no está en una pelea. No, el otro estamos en standby ahorita, yo estoy tranquilo y no... Ve, ve, ve la diferencia, ve en, en una palabra, a ver, piénsenlo así."
+},
+{
+"startMs": 4068951,
+"endMs": 4075971,
+"text": "Miljamá la Hashem va Amalek midordor. A ver, ¿cómo entienden el pasuk según la sitá número uno y según la sitá número dos?"
+},
+{
+"startMs": 4076551,
+"endMs": 4080911,
+"text": "O sea, según la amitit y según la shikrit. La shikrit está muy fa-- muy fácil. Está"
+},
+{
+"startMs": 4082311,
+"endMs": 4088591,
+"text": "peleando en los cojotes. Está viniendo el, el coaj malo. No, no es eso, piensa, piensa. Dos cojotes están peleando uno contra el otro."
+},
+{
+"startMs": 4089171,
+"endMs": 4097531,
+"text": "Ya, abierto, barud. ¿Qué quiere decir? Que no la hizo Hashem. Que ahorita la pelea contra Amalek, ¿cuál es? Que un pueblo malvado, ¿sí?"
+},
+{
+"startMs": 4097991,
+"endMs": 4104511,
+"text": "Que los odiamos con toda la vida y con todo el coraje los queremos reventar. Esa, ¿qué sitá es? La mala, la shikrit."
+},
+{
+"startMs": 4104551,
+"endMs": 4113791,
+"text": "La shikrit. Sí. ¿Najón? Porque estás peleando contra Amalek. Porque esa sitá, ¿cómo se corrige, es, es, cómo, cómo se pensaría el Miljamá la Hashem va Amalek midordor?"
+},
+{
+"startMs": 4113851,
+"endMs": 4120191,
+"text": "¿Y por qué no sayaj, según la emuná de que enot milvadó, que Hashem ejad,"
+},
+{
+"startMs": 4121511,
+"endMs": 4128031,
+"text": "e-entender el pasuk de Miljamá la Hashem va Amalek midordor de esa manera? ¿Por qué? Porque Miljamá la Hashem midordor..."
+},
+{
+"startMs": 4128031,
+"endMs": 4134411,
+"text": "¿Cómo? ¿Cómo? ¿Cómo? Es algo en ti. No te tienes que pelear con, o sea, tienes- Es algo adentro de ti. Es hay algo en ti."
+},
+{
+"startMs": 4135331,
+"endMs": 4142951,
+"text": "Fuerzas. Porque Kilu, no, no, ni, a Amalek, tú le estás dando coa. ¿Cómo estás peleando contra el que tú le estás dando coa?"
+},
+{
+"startMs": 4143251,
+"endMs": 4150851,
+"text": "O sea, si yo peleo contra él, estoy peleando contra Hashem, porque también Hashem es el Ra. Eso es lo que me refería, no tienes que pelear contra el otro. O sea, no es en contra del Ra, de, de destruir al Ra."
+},
+{
+"startMs": 4151151,
+"endMs": 4158051,
+"text": "Es ver qué, o sea, qué está trayendo el Ra. Entonces, ¿qué es lo que Hashem odia de Amalek? ¿A qué viene el ra? ¿A qué viene el ra? Claro, la clipá."
+},
+{
+"startMs": 4158471,
+"endMs": 4165431,
+"text": "Lo que Hashem odia a Amalek es esa clipá. Que le demos fuerza a esa, que le demos fuerza a esa clipá."
+},
+{
+"startMs": 4166011,
+"endMs": 4173151,
+"text": "No puede ser que es un pueblo de gen-- que, que, desde cuándo Hashem tiene problemas con un pueblo de gente que los acaba, los destruye en un mázepur."
+},
+{
+"startMs": 4173171,
+"endMs": 4175971,
+"text": "Con la ideología, siempre fue la ideología. Sí, al final no los destruye."
+},
+{
+"startMs": 4177431,
+"endMs": 4185071,
+"text": "Les deja, les deja de dar, les deja dar kiun. Entonces, ¿cómo existe entender el pro-- quilu que Hashem tiene un problema con Amalek?"
+},
+{
+"startMs": 4185651,
+"endMs": 4191810,
+"text": "Entonces, ¿cuáles, aquí le fui a decir, es, cuáles son los problemas de Hashem, kive hajón? ¿Sí? ¿Cuál es el problema de Hashem?"
+},
+{
+"startMs": 4191891,
+"endMs": 4200211,
+"text": "¿Qué más, cuál es su, cuál es el tema? Al majón dambrím. ¿Sí? Entonces, si tienes, si según la shihtá de ellos,"
+},
+{
+"startMs": 4201471,
+"endMs": 4204171,
+"text": "sale que todo el mundo es como que algo un poco más técnico."
+},
+{
+"startMs": 4205531,
+"endMs": 4207091,
+"text": "Una guerra de fuerzas."
+},
+{
+"startMs": 4208551,
+"endMs": 4219571,
+"text": "Lo hicieron que el bien gane, pues, porque encontraron la bomba donde explota todos los, los lugares donde está ese lugar ra y la explote."
+},
+{
+"startMs": 4219731,
+"endMs": 4225511,
+"text": "La nuclear. O sea, ellos, quilu, según esta shihtá, ¿sí? Según esta shihtá,"
+},
+{
+"startMs": 4227051,
+"endMs": 4230531,
+"text": "cronita, el tov puede pelear contra el ra a, a balazos."
+},
+{
+"startMs": 4232131,
+"endMs": 4249551,
+"text": "A, a, a, a-- o sea, no con mitzvot, la data con mitzvot, la data con mitzvot. Entonces, entonces, sale aquí a filo más profundo, que si ya me voy, si ya me la creo mucho con esta shihtá, entonces el bien y el mal ya va a ser como que el bien físico y el mal físico."
+},
+{
+"startMs": 4249611,
+"endMs": 4258111,
+"text": "Los que van a traer problemas al mundo y los que van a hacer que el mundo sea un mundo bonito y cómodo. Y los que quieren le calcen el mundo, los que quieran."
+},
+{
+"startMs": 4258411,
+"endMs": 4270451,
+"text": "Entonces, ¿cómo peleas contra los que quieren le calcen el mundo? Exterminarlos. Pues usted, no sé, encuentra la, la, el virus que los mata, no sé, encuentra la bomba que los explota, en Igguarat Zipur."
+},
+{
+"startMs": 4271211,
+"endMs": 4279511,
+"text": "Eso me está explicando. O sea, ¿cómo tú atamojé el nombre de Amalek? ¿Cómo atamojé el nombre de Amalek?"
+},
+{
+"startMs": 4279891,
+"endMs": 4286171,
+"text": "No, no es checando todos los registros y sus abuelos para ver quiénes son los que son descendientes y yéndolos a matar físicamente. No existe."
+},
+{
+"startMs": 4286611,
+"endMs": 4294311,
+"text": "Si es esta shihtá, porque si es, si es, si es según- La mitzvá de la Torá también dice que tienes que matar a Amalek. Pero, pero Rabofil- Físicamente."
+},
+{
+"startMs": 4294451,
+"endMs": 4298291,
+"text": "Rabofil, ¿tú cómo dice aquí la shihtá de...? Él dice: \"A Joshe, ve a Maved, ve a Itlarón."
+},
+{
+"startMs": 4299891,
+"endMs": 4307411,
+"text": "Eno- Es un cuajatzmaí. O sea, o sea, Maved no puede pelear contra-- si el Maved viene de ellos, no puede pelear contra eso."
+},
+{
+"startMs": 4307571,
+"endMs": 4313831,
+"text": "O sea, hay algo en compañía. También tienes que matarlo porque tienes que matar a esa persona. Antes de que pienses si me la pele leja, si no me la pele leja."
+},
+{
+"startMs": 4313891,
+"endMs": 4322271,
+"text": "Sí, pero es bujaní. Y si su abuelo es Amalek, tienes que matarlo. De todos los problemas que me da un cuaj malo. Es entender qué cuaj es Amalek."
+},
+{
+"startMs": 4322871,
+"endMs": 4329531,
+"text": "Otra vez, regresando al tema de Amalek. ¿Qué pasa ahorita? Existe tú. Qué es, qué es y con es, con eso los tienes. Existe tú."
+},
+{
+"startMs": 4329851,
+"endMs": 4339011,
+"text": "En la de esta del ra, ellos te van a explicar por qué eso es ra. ¿Qué pasa, qué pasa si Am Israel...? ¿Qué pasa si Am Israel dice: \"¿Cuál es la clipá de Amalek?"
+},
+{
+"startMs": 4339571,
+"endMs": 4346671,
+"text": "Carejaba derej, tavata, todas las tavot, la peor tavá y fira y abodaza\"."
+},
+{
+"startMs": 4346931,
+"endMs": 4352991,
+"text": "Entonces, viene un judío y dice: \"Manicofer, pero Amalek trae muy mal al mundo."
+},
+{
+"startMs": 4353051,
+"endMs": 4362531,
+"text": "Entonces, voy a ir a hacer un equipo de, de, de... Soldados. De soldados, porque los Amalek están identificados con los nazis."
+},
+{
+"startMs": 4362591,
+"endMs": 4368531,
+"text": "Somos Kofrim, pero los nazis, vaya que no queremos los nazis y los vamos a ir a matar. ¿En mi Atlijó o lo Atlijó?"
+},
+{
+"startMs": 4369811,
+"endMs": 4376191,
+"text": "¿Existe el Atliaj o no existe el Atliaj? Si no vienes con el Atliaj. Sí, sí existe, los matas y ya. Es como, como..."
+},
+{
+"startMs": 4376331,
+"endMs": 4382511,
+"text": "Es que, es que existe, existe. Es como que un judío viene del desierto y va corriendo a ver si está ahí. Sí existe, los matas y se acabó."
+},
+{
+"startMs": 4382671,
+"endMs": 4384671,
+"text": "Por eso estoy hablando según la Torá. Ah."
+},
+{
+"startMs": 4386071,
+"endMs": 4392711,
+"text": "No sé ya. Según la Torá, no. ¿Por qué no sé ya? Porque no vienes con el cuaj de la Torá de Hashem. No, no estás peleando con un ra, con un cuerpo."
+},
+{
+"startMs": 4392751,
+"endMs": 4404671,
+"text": "Porque no hay-- si fuera el problema de que hay gente que se llama Amalek, que luego ese fuera el, el problema, que hay gente que se llama Amalek, son gente muy mala, entonces enajenable, sí, enajenable."
+},
+{
+"startMs": 4405031,
+"endMs": 4420871,
+"text": "Pero si vehechem el shores de lo que es Amalek, es vehechem que a cada roju le dio macoma esa clipá para darte lugar a equivocarte, para darte esta hará, para que tengas pirá en escoger a Hashem, para que tengas pirá en escoger el tov, para que vehechem quieras el imsor nefesh por acaso es roju y todo eso."
+},
+{
+"startMs": 4421151,
+"endMs": 4432871,
+"text": "Entonces, cada verá que tú haces, cada vez que eres más apikoros, hagas lo que hagas, le estás dando más fuerza a Amalek. No, aunque, aunque agarres a los nazis y los quieras matar con metralletas, de lo ya azor besh kumpanim ba ofen."
+},
+{
+"startMs": 4433111,
+"endMs": 4439231,
+"text": "Muy baja nuestro mundo cuando Hashem te manda un problema y tú nomás quieres solucionar el problema, tapar la gotera que te cayó, no estás--"
+},
+{
+"startMs": 4440531,
+"endMs": 4452511,
+"text": "no se trata de eso, se trata de- Claro, entonces si no volteas a ver el mejor del ra que viene a cada otro roju y tienes que entender cuál es el sejel seis rojol dabar y que no hay, entonces, según ellos no hay sejel seis rojol dabar."
+},
+{
+"startMs": 4452551,
+"endMs": 4461851,
+"text": "¿Me explico? No hay sejel seis rojol dabar. Según ellos, vehechem, si te pasó algo malo, pues tal pasó. Agarró fuerza."
+},
+{
+"startMs": 4461871,
+"endMs": 4468391,
+"text": "Es un error. Te agarró desprevenido la, el, el, el, la fuerza del mal. Esta no debería de estar, si hay un error."
+},
+{
+"startMs": 4468431,
+"endMs": 4476791,
+"text": "El demonio te agarró, la fuerza del mal te agarró. Mi mail está muchas cosas de zgulot, cosas, cosas así que es mucho nefilot en estas cosas."
+},
+{
+"startMs": 4477331,
+"endMs": 4483371,
+"text": "Sí, a veces. Si no traduces todas las cosas en Abodata Hashem, que entiendes que todo el Zipur, vehechem es Abodata Hashem."
+},
+{
+"startMs": 4484031,
+"endMs": 4493711,
+"text": "Entonces, entonces estás, estás, estás equivocado, estás en esta clipá. Esta es la clipá que dice: no, hay, hay, hay, hay ra y hay tov."
+},
+{
+"startMs": 4493751,
+"endMs": 4499991,
+"text": "Y nosotros tenemos que el tov le gana al ra. Y aquí decimos: no, no existe ra, vijla. Existe ra porque tú le das lugar al ra."
+},
+{
+"startMs": 4500651,
+"endMs": 4509131,
+"text": "Tú le diste lugar al ra. O sea, ¿por qué? Porque a Kadosh Baruj Hu, él le dio lugar a que exista el ra por algo."
+},
+{
+"startMs": 4510031,
+"endMs": 4516431,
+"text": "No, no, no tiene un cuajatzmaí, el ra que vehechem-- también Hashem se está peleando contra él. Hashem no se está peleando contra él."
+},
+{
+"startMs": 4517291,
+"endMs": 4527611,
+"text": "Si Hashem quisiera, ya lo hubiera quitado hace mucho. Entonces, ¿por qué Hashem se está peleando contra el ra? La ú-- entonces, la única manera que Hashem se puede pelear contra el ra, según esto, es por medio de nosotros, que nosotros nos peleemos contra él."
+},
+{
+"startMs": 4527611,
+"endMs": 4531551,
+"text": "¿Sí? O sea, en el primer de este, del, en el,"
+},
+{
+"startMs": 4533031,
+"endMs": 4542851,
+"text": "en la primera damina de que estás peleando con el ra, quilu nosotros venimos a ayudarle a Hashem, a quien. Quilu, nosotros somos el ejército de Hashem y vamos a pelear con el ra, ¿no?"
+},
+{
+"startMs": 4542951,
+"endMs": 4550771,
+"text": "Quilu, le estamos ayudando a él. Quilu, él necesita esa ayuda. Exactamente, exactamente. Según este, al revés, Hashem te lo puso a él para ti."
+},
+{
+"startMs": 4550811,
+"endMs": 4572273,
+"text": "Para tú. Para tú alzarte, para tú, que tú te encames. Exactamente. Al revés. Entonces, cuando decimos que jamás Hashem la, la Hashem Amalek ni dor dor, es que la mil La mano de Hashem con Amalek es, es con la clipa de Amalek, con todo el ra que tiene Amalek, que nosotros le estamos dando lugar y ¿Estás grabando, verdad, o...?"
+},
+{
+"startMs": 4572533,
+"endMs": 4572613,
+"text": "Sí."
+},
+{
+"startMs": 4578753,
+"endMs": 4717113,
+"text": "El Ramhal tiene"
+},
+{
+"startMs": 4717113,
+"endMs": 4725753,
+"text": "un libro, eh... No sé si tienen ahí para abrir Sha'arei Ramhal. O sea, no se llama así el libro del Ramhal, pero son unos igrot que las trae- ¿En sefaria?"
+},
+{
+"startMs": 4726313,
+"endMs": 4728873,
+"text": "No, Rafael Lander las trae en Sha'arei Ramhal."
+},
+{
+"startMs": 4744113,
+"endMs": 4745452,
+"text": "¿Tienen? No."
+},
+{
+"startMs": 4746653,
+"endMs": 4752693,
+"text": "Eeeh, ¿qué hago? ¿Se los mando por mail o...? Acá yo tengo. ¿Tienen para abrir mail?"
+},
+{
+"startMs": 4752693,
+"endMs": 4753793,
+"text": "¿Tú tienes? Sí."
+},
+{
+"startMs": 4778213,
+"endMs": 4779492,
+"text": "A ver, ¿a quién, a quién lo mando?"
+},
+{
+"startMs": 4780833,
+"endMs": 4786473,
+"text": "Díganme. Yo. ¿A quién Gabriel? Al grupo. ¿Por qué no lo mandas al grupo? Grupo Sha. Al WhatsApp. A ver, grupo Sha."
+},
+{
+"startMs": 4788293,
+"endMs": 4789193,
+"text": "Sácatelo de WhatsApp."
+},
+{
+"startMs": 4796373,
+"endMs": 4800452,
+"text": "No sé si vamos a tener minian nosotros, ¿eh? No creo. ¿A qué horas es abajo?"
+},
+{
+"startMs": 4803113,
+"endMs": 4806353,
+"text": "Cincuenta dólares. ¿Cómo dice? ¿A qué horas es el minian, Gloc, ve?"
+},
+{
+"startMs": 4811952,
+"endMs": 4816852,
+"text": "Ahí está el libro. Abran la página cuatrocientos cuatro del PDF."
+},
+{
+"startMs": 4818753,
+"endMs": 4821753,
+"text": "La escuché de sazón. La escuché de sazón. Guau."
+},
+{
+"startMs": 4822993,
+"endMs": 4830273,
+"text": "Está muy bueno. ¿Tienen? ¿Qué página? Cuatrocientos cuatro del PDF que les acabo de mandar. Ábranlo, ábranlo."
+},
+{
+"startMs": 4830273,
+"endMs": 4832393,
+"text": "¿En qué, en qué...? ¿Cuatro...?"
+},
+{
+"startMs": 4834813,
+"endMs": 4841473,
+"text": "Cuatrocientos cuatro. ¿Qué le pica en la Mac para buscar página? Tav Dalet. ¿Tav qué? No, no estoy en Mac."
+},
+{
+"startMs": 4841733,
+"endMs": 4847952,
+"text": "Pero no, normalmente me dijo la vez pasada algo. No, era para buscar palabras en Internet. ¿Tav qué dijiste?"
+},
+{
+"startMs": 4848273,
+"endMs": 4848813,
+"text": "Tav Dalet."
+},
+{
+"startMs": 4859353,
+"endMs": 4865532,
+"text": "Entonces, quiere decir, aquí hay filó algo más amok. Y mejor, aquí hay algo más shatzum y amok."
+},
+{
+"startMs": 4866532,
+"endMs": 4877013,
+"text": "Cuando vino Yaván al mundo, piensen que amok, vino Yaván al mundo. Entonces, si fuera que ellos decidieron y nosotros les ganamos, ¡ah!, acabó y-- Nigmaa Nasipur."
+},
+{
+"startMs": 4877093,
+"endMs": 4883793,
+"text": "¿Existe que el mundo se quede igual a como era antes, después de que vino el Rai y le ganamos? Según la shita de ellos, sí."
+},
+{
+"startMs": 4884753,
+"endMs": 4891633,
+"text": "Puede volver a tomar fuerza. Agarró, vino: «No, filo, que ya le ganaste». Vino, ya le ganaste, se fue, oh, ya les ganamos."
+},
+{
+"startMs": 4892093,
+"endMs": 4892853,
+"text": "Pero"
+},
+{
+"startMs": 4894113,
+"endMs": 4902873,
+"text": "si Hakados Baruj Hu mandó a Yaván, entonces fue para hacer Janucá, no fue para otra cosa. ¿Mejor? Quiere decir que había un tipo de luz que no teníamos acceso antes."
+},
+{
+"startMs": 4903173,
+"endMs": 4910393,
+"text": "Eso. Hasta que, que Ilu que-- hasta que no te trajo este tipo de oscuridad, tú no podías percibir en la luz de Hashem esta luz."
+},
+{
+"startMs": 4911133,
+"endMs": 4918313,
+"text": "No podías percibirla. Eso. Entonces, te trae este tipo de oscuridad y, y entonces dice: «Espérate». Está mal dado. ¿Qué hago con esta oscuridad?"
+},
+{
+"startMs": 4918952,
+"endMs": 4928233,
+"text": "Y entonces digo: «Necesito sacar algo en la luz que hasta ahorita yo no lo veía, que es, es esa parte de la luz que, que, que, que pelea contra esta oscuridad, que se llama Janucá»."
+},
+{
+"startMs": 4929197,
+"endMs": 4938997,
+"text": "Sí, o se llama Torá Shebaal Pe, o todo lo que empezó en Mikuaj, ¿sí? Y si viene, y si vieneee Parashat HaMadai, entonces porque Hakadosh Baruj Hu quiere traer Purim."
+},
+{
+"startMs": 4939517,
+"endMs": 4946557,
+"text": "Entonces, quiere decir que cada Joseph que está llegando al mundo, realmente está llegando un Or. Tiene sentido. Entonces, quiere decir-- Exactamente, tiene sentido como Joseph."
+},
+{
+"startMs": 4946777,
+"endMs": 4953517,
+"text": "Entonces, cada misayón que está llegando, entonces Hashem está haciendo un Janucá, Hashem está llegando un Purim. En tu vida, cada misayón que te está llegando..."
+},
+{
+"startMs": 4953557,
+"endMs": 4956717,
+"text": "Es la invitación a ver más Or. Exactamente, Hakadosh Baruj"
+},
+{
+"startMs": 4958117,
+"endMs": 4964177,
+"text": "Hu. No, no, no. Es, es, es un like, no. Para ver más Or. Sí, sí, sí. Puedes caer, se lo solamente, puedes ser equipa."
+},
+{
+"startMs": 4964637,
+"endMs": 4973697,
+"text": "Pero ¿qué te ayuda del error? Ver la luz del misayón. Cada misayón... Si fuera que tú estás peleando contra el Ra, no tiene por qué salir nada de eso."
+},
+{
+"startMs": 4973757,
+"endMs": 4983777,
+"text": "Simplemente le ganaste y ni más ni pur, vio, loco. Sí. Entonces, ¿qué decir? Un buen amo. Quiere decir que si realmente tiene un koaj atmaí, entonces la guerra es mucho, es, es nada más técnica."
+},
+{
+"startMs": 4984557,
+"endMs": 4993616,
+"text": "Nada más técnica. Entonces, a ver, lean: «Tienen shlosha miné Iidiot, solip nimizo, yes bojogmat taemet». Hay tres niveles para entender todo Jojmat Taemet."
+},
+{
+"startMs": 4993677,
+"endMs": 5000777,
+"text": "«Ven nimsajim midiat hakavana shel Brit HaOlám». Y vienen de saber y entender por qué Hakadosh Baruj Hu creó el mundo."
+},
+{
+"startMs": 5001437,
+"endMs": 5009437,
+"text": "Dice, si hay una, hay manera... Dice: «HaKavana shitjritu Shehamatzil itbaraj Shemá bará et haolamó latet makom la toarim»."
+},
+{
+"startMs": 5009957,
+"endMs": 5019237,
+"text": "Que Hakadosh Baruj Hu creó el mundo para revelar sus toarim. «Komo shekatú beresh otrot jaim shehu likaré jachum vejanun velejapaím vekayotzé."
+},
+{
+"startMs": 5019757,
+"endMs": 5028017,
+"text": "Veajá zen imshaj kol iediat hailán hakadós im kol anafav. Vezé nikrá iediat hattoarim ladat kamatoarim yesh, vainu kamamidót, kamatsvilot, uvezé serer mesuarim»."
+},
+{
+"startMs": 5028157,
+"endMs": 5036557,
+"text": "¿Paqueja por más? No, títulos. Jachum, janun. Dice: «Kainu kamamidót, kamatsvilot, uvezé serer mesuarim, vej nishalshelú, zé mizé."
+},
+{
+"startMs": 5037117,
+"endMs": 5048017,
+"text": "Veén haiedia hazót mitpashatet jutz migvól hazé». Es decir, que en esencia son estos todos los Sod que te dice: «Oye, hay este Shem, este Shem y el otro Shem, y esta midá y esta halajá»."
+},
+{
+"startMs": 5048397,
+"endMs": 5058237,
+"text": "Son nada más para que conozcas esas halajot y esas midot. Esa es la primer shitá. Segunda shitá: «Iedía shnia, veinén hakavana, u...»."
+},
+{
+"startMs": 5058317,
+"endMs": 5071217,
+"text": "Esta yo quiero ver la segunda y la tercera. «Ushehamatzil itbaraj Shemá bará et haolam leitiv la'ivraim atavá shlemá». Hakadosh Baruj Hu tiene un plan de leotiv, «sheikablú bisjut velo bitsdaka», que Hakadosh Baruj Hu quiere nada más de kisufu."
+},
+{
+"startMs": 5071937,
+"endMs": 5078337,
+"text": "Al ken, «sam kol haser eg hazé, haser eg gadól hazé. Sof, sof, ajá ha'rá, bá tov»."
+},
+{
+"startMs": 5078717,
+"endMs": 5084897,
+"text": "Después del rá, llega el tov. «Veha sitrá ajrá, neévedet, veha kdupá, nishlémet."
+},
+{
+"startMs": 5085237,
+"endMs": 5093197,
+"text": "Veaz ikablú kol ha'neshamot bisjutám. Vején utzraj shelfamín tishlot ha sitrá ajrá o haumót haolám ad sheitairú Israel."
+},
+{
+"startMs": 5093637,
+"endMs": 5104997,
+"text": "Veajá zé nimshaj halaját kol ha'midot. Umi shelo igiá laiedia hazót, nikrá shelo ivín klum». Entonces, según esta shitá, no es, vadai no es lo que dijimos a-a-aquí, según ellos, pero sí hay algo parecido."
+},
+{
+"startMs": 5105237,
+"endMs": 5120477,
+"text": "¿Que qué es lo parecido? Que ve-- que Hashem creó la Sitrá Ajrá para darnos ha'avodá. Y todo el borde es que al final, la Sitrá Ajrá le vamos a ganar y al final neévedet, la kdujá nishlémet y todo el mundo y todos fueron felices para siempre."
+},
+{
+"startMs": 5120897,
+"endMs": 5127197,
+"text": "Dice: «Iedía shlishit ba'akavana...» Pero estas dos, estas, estas dos estamos hablando que no están bien. O sea, se lo han..."
+},
+{
+"startMs": 5127357,
+"endMs": 5133557,
+"text": "No es la, no es la más amuká. No es la más amuká. La segunda se llama que sí entendiste. Pero no hadasuf. Pero no hadasuf."
+},
+{
+"startMs": 5133617,
+"endMs": 5142077,
+"text": "Y la primera se llama que no entendiste nada. O sea, pero no es, Has veshalom, una avodaj zará o algo. No, no, no, no, no, no. «Iedía shlishit ba'akavana, sheiedía niflá amot."
+},
+{
+"startMs": 5142297,
+"endMs": 5149117,
+"text": "Vehu, shehaMatzil itbaraj Shemá ratsá legalot ijudo. Leharot ki ani rishón veani ajarón."
+},
+{
+"startMs": 5149977,
+"endMs": 5163457,
+"text": "Veal kol panim, kol klalá tejafej librajá». No que el rá le van a ganar. Dale que la, la se-- el error de la segunda es que no ha-- zot omer, no ha sevar, mira la avodaj zará de aquí."
+},
+{
+"startMs": 5163997,
+"endMs": 5173077,
+"text": "No es la avodaj zará de aquí. No es la foja, el mal a bien. Pero sigue, a, a, algo, algo de aquí no tiene el Tikún Olam."
+},
+{
+"startMs": 5173117,
+"endMs": 5180097,
+"text": "Como una fuerza externa, como una cosa separada. No porque Hashem lo creó. O sea, cosa separada es la shitá de acá. Claro, un mamín que lo creó, pero..."
+},
+{
+"startMs": 5180217,
+"endMs": 5193817,
+"text": "Un mamín que lo creó, pero creó algo malo. Creó algo malo, que eso malo va a echer, va a ser tu ha'avodá para que le eches ganas y le ganes a eso malo y vez de nateshem, llegues a la kdujá."
+},
+{
+"startMs": 5194537,
+"endMs": 5201337,
+"text": "«Ora, per laiedía shlishit ba'akavana, sheiedía niflá amot. Vehu, shehaMatzil itbaraj Shemá ratsá legalot ijudo. Leharot ki ani rishón veani ajarón."
+},
+{
+"startMs": 5201837,
+"endMs": 5208877,
+"text": "Veal kol panim, kol klalá tejafej le, lebrajá vekol rá ijazor letov. Vedé Sod odejá Hashem ki anafta bí»."
+},
+{
+"startMs": 5209617,
+"endMs": 5218837,
+"text": "Entonces, tú me dices que le vas a agradecer a Hashem también para cuando istir et atsmo, vas a entender que también esa estadá de atsma era un gilúy de Or que no lo estabas viendo."
+},
+{
+"startMs": 5219437,
+"endMs": 5229416,
+"text": "Dice: «Veajá zen imshajá haiedía shel kol hasvirót, shejozrim kulam ela ijuda elión, shelaen zo Baruj Hu». Ese es el inian de Zobeb, que mitzád Zobeb, kolel también el, el Tzim Tzum BaTzim."
+},
+{
+"startMs": 5229897,
+"endMs": 5240497,
+"text": "Dice: «Vedé adavar lo usá kol kaj vedorenu». La de aquí es el que gilá la, los, el dibré Torá, el dibré Torá de todo esta, de este maaláj es, es, es, es, es, es, Ramjajo."
+},
+{
+"startMs": 5240916,
+"endMs": 5254517,
+"text": "Es el que gilá el dibré Torá de este maaláj. Dice, dice: «Vedé adavar lo usá kol kaj vedorenu, vehu beemet ikár emunató shel Israel, ladat ijuda maatsil itbaraj Shemá ulegaí aledót haiedía, tzerij yegíá arbé»."
+},
+{
+"startMs": 5255437,
+"endMs": 5263797,
+"text": "Necesitas mucho esfuerzo. «Umi sheigíá, hu amevín kol iniani hajojmá veomé gadól, ajmi, mi shelo igiá lefajot lashnia, vadai lo ivín»."
+},
+{
+"startMs": 5263857,
+"endMs": 5266237,
+"text": "Quiero, quiero nada más entender por qué es algo tan, tan..."
+},
+{
+"startMs": 5267477,
+"endMs": 5275057,
+"text": "Nada más no es algo que nada más lo entiendo, pero ya, kilo, eso es la vida, Hakadosh Baruj Hu se va a la foja con el... ¿Por qué es una yegía con caja de acá y con caja de estómago?"
+},
+{
+"startMs": 5275117,
+"endMs": 5286237,
+"text": "Tienes que... ¿Qué? Entenderlo a la tradición. Tienes que, esta es una yegía atsumá, que kilo no hay un matzav, sí, no hay un matzav en la vida que no esté diseñado, kipshutó más para encontrar a Hashem."
+},
+{
+"startMs": 5286777,
+"endMs": 5298141,
+"text": "Entonces, mira, no, no es que kilo hay Josej y le vas a ganar. Entonces, mi mail. O sea, según la shitá shnia Entonces, betem, si llegaste apagado a una tefilá, dices: bueno, mañana."
+},
+{
+"startMs": 5299261,
+"endMs": 5310761,
+"text": "Mañana rezás Hashem con más bren, esto, lo otro, o igual puedes litga ver, esto, lo otro. Si no, está bien, paso. No, tienes que entender que si no fuera así vidiyú como te lo pas-- pusieron, no hubieras encontrado a Hashem."
+},
+{
+"startMs": 5311761,
+"endMs": 5318861,
+"text": "Entonces, la única manera de encontrar a Hashem es así vidiyú como te lo pusieron. Entonces, quiere decir que betem, el, el joshe be'atzmo era Or."
+},
+{
+"startMs": 5320161,
+"endMs": 5327041,
+"text": "No sé si me estoy explicando. Porque, porque eso es lo que te va a provocar, que encuentres a Hashem, el joshe, es lo que te va a provocar encontrarlo."
+},
+{
+"startMs": 5327281,
+"endMs": 5336241,
+"text": "Si no, no hay manera de encontrarlo. Según este, según este, este maala Jamuk, no hay joshe, betem. Joshe pirushoso de la Var, que tú no ves el Or."
+},
+{
+"startMs": 5336961,
+"endMs": 5343521,
+"text": "Joshe pirushoso de la Var, que tú no ves el Or. De, de la nekuda. Ese es el omen de lo que dice aquí el Malbim."
+},
+{
+"startMs": 5343541,
+"endMs": 5357321,
+"text": "¿Y por qué yo creo en Bore joshe? Dice que lefi de-- Según, según nuestra shitá, betem, el joshe no es-- Di, según nuestra shitá, dice el Malbim, el joshe es un heder, es una falta."
+},
+{
+"startMs": 5357761,
+"endMs": 5368781,
+"text": "Y según su shitá de ellos, es un kinian. Entonces, quiere decir que según ellos, el joshe y el Ra es que Ilu está en Yetsirá."
+},
+{
+"startMs": 5369481,
+"endMs": 5372621,
+"text": "Yotzer. Sí, Marbina. O, o sé."
+},
+{
+"startMs": 5374021,
+"endMs": 5374981,
+"text": "Sí. O sé."
+},
+{
+"startMs": 5377101,
+"endMs": 5388221,
+"text": "Sí. Bore pirushoso de la Var es que le da lugar a existir. Significa que be'emet no existe algo que se llama joshe, sino le da lugar a existir, pero no es befoal."
+},
+{
+"startMs": 5389300,
+"endMs": 5396081,
+"text": "Cuando llega al befoal tiene que ser Or. Entonces, quiere decir que lefi de todo el Ra lo tienes que ver como una babamina."
+},
+{
+"startMs": 5396401,
+"endMs": 5403061,
+"text": "No es algo, no es niun, nunca es una mascaná el Ra. El Ra siempre es una babamina. Entonces, entonces--"
+},
+{
+"startMs": 5404300,
+"endMs": 5411541,
+"text": "Entonces, también cuando, es, es lo que dice la Babamin, también cuando caíste, en el momento que, que, que digas: «Mascaná, soy Rashán»."
+},
+{
+"startMs": 5412521,
+"endMs": 5418981,
+"text": "Entonces, ahí caíste, legambre, ahí es cuando, es, es la clipada de Malaj. La clipada de Malaj es que quiere decir, que quiere hacer el Ra una mascaná."
+},
+{
+"startMs": 5419261,
+"endMs": 5426441,
+"text": "Entonces, es decir, tienes que entender que siempre el Ra es una babamina pirushoso de la Var, es un Or que todavía no has visto, pero be'emet es un Or."
+},
+{
+"startMs": 5426841,
+"endMs": 5439221,
+"text": "Entonces, lefi de, lefi de es más emuná entender que el joshe es, es falta. Es falta, pero no es una falta stam, sino es realmente, es la falta de la posibilidad de ver la luz que be'emet está acá."
+},
+{
+"startMs": 5439861,
+"endMs": 5446001,
+"text": "Entonces, puedes a filo llamarle mucha luz. ¿Y por qué lo llamamos joshe? ¿Por qué decimos joshe? ¿Eh? ¿Por qué, tipo, etzera, bara...?"
+},
+{
+"startMs": 5446061,
+"endMs": 5452701,
+"text": "Es la manera como tú describes. Tú, barata, esta joshe. Es la manera como tú describes la situación que no ves la luz."
+},
+{
+"startMs": 5452741,
+"endMs": 5459901,
+"text": "O sea, tú lo hiciste joshe. ¿Mmm? Tú-- nosotros lo hacemos joshe, porque en verdad es, es luz. No, no, también Hashem, ve, realmente él creó el joshe."
+},
+{
+"startMs": 5460201,
+"endMs": 5468561,
+"text": "Si Hashem no hubiera creado el joshe, nosotros veríamos la luz. Entonces, crear el joshe pirushoso de la Var es, es crear la babamina, crear la sheilá."
+},
+{
+"startMs": 5468601,
+"endMs": 5477841,
+"text": "El jetimsi. Crear el, el, el, el, el, el hecho que estás en un talij hasta ver el Or. Entonces, kilu, el, el hecho que el Or mitgalé en un talij,"
+},
+{
+"startMs": 5479300,
+"endMs": 5488021,
+"text": "eso es de pirushó joshe. ¿Sí? Eso, eso es pirushó joshe. Entonces, quiere decir que be'emet, lefi de, no existe el joshe como joshe."
+},
+{
+"startMs": 5488701,
+"endMs": 5495981,
+"text": "Sale que siempre el joshe, be'emet, es noga, según esto. El joshe, be'emet, es noga."
+},
+{
+"startMs": 5495981,
+"endMs": 5504361,
+"text": "¿Entiendes? No tiene nada que ver. El joshe, be'emet, es noga, porque no existe un joshe que no tenga noga."
+},
+{
+"startMs": 5505800,
+"endMs": 5507701,
+"text": "Si no ves el noga que hay en el joshe,"
+},
+{
+"startMs": 5508961,
+"endMs": 5516401,
+"text": "¿cómo dice el pasuk? Dice: «Ve'oraj tzadikim que noga olej, ve'orad nejón hayom». Empieza siendo noga y se hace Or."
+},
+{
+"startMs": 5516781,
+"endMs": 5525461,
+"text": "Siempre el joshe, be'emet, es noga. Ah, pero no veo el noga. Sí, el problema es que todavía no lo ves. Pero be'emet es la luz que está llegando."
+},
+{
+"startMs": 5526101,
+"endMs": 5531001,
+"text": "El joshe es la luz que está llegando. Entonces, betem, algo de noga hay, nada más que no lo estás viendo."
+},
+{
+"startMs": 5532661,
+"endMs": 5536281,
+"text": "Algo de noga hay, nada más que no lo estás viendo. Ora,"
+},
+{
+"startMs": 5537881,
+"endMs": 5551981,
+"text": "ah, entonces, entonces lefi de, betem, cuando, entonces cuando mencionamos Yotzer Or u Bore joshe, entonces tú estás diciendo que Bore joshe, esa es la única manera de cómo existe que haya lo que se llama Yotzer Or."
+},
+{
+"startMs": 5553180,
+"endMs": 5559641,
+"text": "Porque si no habría Bore joshe, entonces habría Or, pero no sería Yotzer Or. ¿Por qué?"
+},
+{
+"startMs": 5559961,
+"endMs": 5567281,
+"text": "¿Eh? ¿Por? Porque sería Or en tzof. Or en tzof pirushoso de la Var es Or sin Yotzer. ¿Qué es Yotzer? Darle forma."
+},
+{
+"startMs": 5567281,
+"endMs": 5573341,
+"text": "¿Siempre dices tú que ya había luz? Darle tzurá. Ya había siempre luz. Que esa luz-- Yotzer, solamente darle forma."
+},
+{
+"startMs": 5573661,
+"endMs": 5581441,
+"text": "Es imposible que atata cigot. Esa luz es imposible que atata cigota. Y la única luz que tú puedes, be'emet, le asín- Grati, mucho."
+},
+{
+"startMs": 5581501,
+"endMs": 5591141,
+"text": "Es un, es un tipo de luz que llega con, con una tzurá, con un joshe, con un, un, una luz que está cacata para verla, y te llega, y te llega, y cada vez ves más y ves más."
+},
+{
+"startMs": 5591421,
+"endMs": 5598880,
+"text": "Entonces, betem, la única manera de ver Or es salir de joshe. Ora, sale que lefi de, aquí es minjavaj."
+},
+{
+"startMs": 5599541,
+"endMs": 5606281,
+"text": "Yo creo- Sí, sí, cincuenta. Cincuenta o cincuenta y cinco. Esra, ajam, esra. Sí. Acuerden, minjavaj."
+},
+{
+"startMs": 5607221,
+"endMs": 5611001,
+"text": "Cinco paras. Cinco paras. Sí, acá. Sí."
+},
+{
+"startMs": 5613921,
+"endMs": 5620800,
+"text": "Entonces, entonces sale algo muy amok. Si no hubiera joshe, entonces tampoco hubiera Or."
+},
+{
+"startMs": 5620800,
+"endMs": 5628121,
+"text": "No hay mundo, Bejalal. No, no hay joshe. No habría Yotzer Or. No habría tampoco Yotzer Or. Sería Or en tzof que no nos dejaría, Bejalal, existir."
+},
+{
+"startMs": 5628121,
+"endMs": 5636661,
+"text": "¿Sí? Todo lo que tú te ves existiendo, kivi hajol, o recibiendo de Hashem, es porque tienes esa falta, ve'ata mishokeka ese Or."
+},
+{
+"startMs": 5637541,
+"endMs": 5646481,
+"text": "Y si ese Or llega sin gul, entonces, mi mail se dirige a Bejalal, el Sharut a tener falta. Entonces, todo lo que betem llega al Or, e-entonces es porque hay joshe."
+},
+{
+"startMs": 5646561,
+"endMs": 5652041,
+"text": "Entonces, entonces, lefi de, be'emet, el joshe, como, como,"
+},
+{
+"startMs": 5654361,
+"endMs": 5669021,
+"text": "como, ¿cómo lo decir? Entonces, sale así, algo... Es que ya no quiero irme muy filosófico, pero en, en una palabra, en una palabra es kilu, que si be'emet, según la shitá de los parsim, los dos jojot, sale que el Or milejatgil está mukbal."
+},
+{
+"startMs": 5669981,
+"endMs": 5676841,
+"text": "No existe betem, según ellos, todo el efdel es que no existe en tzof para ellos. El Or lejatgil está mukbal."
+},
+{
+"startMs": 5677321,
+"endMs": 5685921,
+"text": "Lejatgil está mukbal. Es Boré también. Hay un lugar donde acaba el Tobi y se empieza el Ra. Mmm. Ahí también hay un Boré, según ellos, a lo mejor es Yotzer."
+},
+{
+"startMs": 5686261,
+"endMs": 5693561,
+"text": "Sería Boré Or. ¿Por qué? Porque ellos no entienden que hay Bo-- Or en tzof. Entonces, hubo alguien que bara Or y alguien que bara joshe."
+},
+{
+"startMs": 5693581,
+"endMs": 5695761,
+"text": "Sí. Entonces, y cada uno está limitado por el otro."
+},
+{
+"startMs": 5697101,
+"endMs": 5705042,
+"text": "Y limitado pirushoso de la Var, en tzof es Sí. Entonces- ¿Y cómo contestaste que ellos dicen de que ellos opinan que va a ganar el, el Or?"
+},
+{
+"startMs": 5705122,
+"endMs": 5712822,
+"text": "¿Por qué dijiste? No, no hay pirut. Ah, no hay pirut. Es fake. Sí, no existe, bebé. Es, es como, como dijo Isaac, que esta es una esperanza."
+},
+{
+"startMs": 5712842,
+"endMs": 5721302,
+"text": "Ojalá, ojalá, ojalá que gane el Or. Pero no es- Pero no, no se ha que tengan una emuná, porque BeEmet, no, no existe BeEmet esa, esa emuná."
+},
+{
+"startMs": 5721322,
+"endMs": 5729362,
+"text": "Y toda nuestra emuná es dafka, que no es así. Sale que BeEmet, cualquier Joseph que hay en el mundo es, de hecho, el, el efsharut--"
+},
+{
+"startMs": 5731302,
+"endMs": 5732242,
+"text": "Ah, legalot el Or."
+},
+{
+"startMs": 5733742,
+"endMs": 5737522,
+"text": "Es el efsharut legalot el Or. Entonces, según eso..."
+},
+{
+"startMs": 5740102,
+"endMs": 5743722,
+"text": "Eres, eres asidico de Shevuot. Ay. Pero ven acá."
+},
+{
+"startMs": 5745122,
+"endMs": 5747501,
+"text": "Yo ya dije mija. Ah."
+},
+{
+"startMs": 5751422,
+"endMs": 5754742,
+"text": "Aquí uno no contesta la Jazarah, espera que ya sean seis."
+},
+{
+"startMs": 5758322,
+"endMs": 5764862,
+"text": "¿Por qué? Porque son vacaciones. ¿Hasta qué hora-- hasta cuándo entran? Los grandes entran el 26. El colel, el colel creo que no."
+},
+{
+"startMs": 5765422,
+"endMs": 5768402,
+"text": "Y los chicos entran hasta el 31. Sabrosooo."
+},
+{
+"startMs": 5770482,
+"endMs": 5777082,
+"text": "O sea, las, las, las religiosas no sé, yo creo que ya entran, pero no sé si la gente también."
+},
+{
+"startMs": 5777782,
+"endMs": 5786222,
+"text": "La TV ya ha entrado, creo. Tres semanas más vacaciones. Es menos religioso que la Yeshiva. O sea, la Yeshiva es lo más religioso, es jueves. La emuná también empieza desde el lunes al sábado."
+},
+{
+"startMs": 5787882,
+"endMs": 5793122,
+"text": "Pues yo me pregunto- Vamos, vamos, vamos, mijah, mira. Vamos a acabar aquí. Entonces..."
+},
+{
+"startMs": 5799501,
+"endMs": 5802022,
+"text": "Entonces, a ver, vamos a tratar de regresar a la memora del finde."
+},
+{
+"startMs": 5804242,
+"endMs": 5810642,
+"text": "Entonces, cuando dices-- a ver, no, la maskaná. En la maskaná, él dice: \"Ama raba, yesh lanu inyan gadol\"."
+},
+{
+"startMs": 5810842,
+"endMs": 5823382,
+"text": "Que de la que- \"Lehaskir midat yom va-layla u'midat layla va-yom. Lama yesh ha inyan, bitte?\" Ijud. Porque tienes que entender el ijud, que no existe BeEmet luz sin oscuridad y oscuridad sin luz."
+},
+{
+"startMs": 5823662,
+"endMs": 5826402,
+"text": "En el momento que en la mañana solo digas luz,"
+},
+{
+"startMs": 5828082,
+"endMs": 5836102,
+"text": "entonces, mi madre, ya te hiciste parse. No es todo el ijud- Ya te hiciste parse. Porque tienes que entender, si ves luz es porque había oscuridad, si no, no la verías."
+},
+{
+"startMs": 5836762,
+"endMs": 5843202,
+"text": "Si no, no la verías. Si ves luz es porque viste oscuridad, si no, no verías luz. Entonces, un segundo, el avamina era de que digan noga."
+},
+{
+"startMs": 5843382,
+"endMs": 5850422,
+"text": "Vamos a avamina y maskaná. Avamina- No, un segundo, antes de que-- Noga, quiero llegar, quiero llegar ahorita al noga, pero nada más ahorita ya entendimos la maskaná."
+},
+{
+"startMs": 5850442,
+"endMs": 5856822,
+"text": "La maskaná. ¿Cuál es la maskaná? Que en casa va a haber oscuridad sin luz y luz sin oscuridad, eso es lo único que hay que decirlo."
+},
+{
+"startMs": 5856842,
+"endMs": 5862942,
+"text": "Y tipo ese es el abaye. Amara abaye, te viene a enseñar esta maskaná. No, no, no, esa no es abaye. No, abaye, abaye entró antes."
+},
+{
+"startMs": 5863562,
+"endMs": 5869642,
+"text": "O después. Ah, es este. No, abaye llegó a la Shevuot. Perdón, perdón, este es robe, me equivoqué, perdón. Robe, robe, robe, vigila, robe."
+},
+{
+"startMs": 5870062,
+"endMs": 5879722,
+"text": "Sí, ese fue robe al final. Sí. Entonces... Perdón, perdón. Entonces, según, eh..."
+},
+{
+"startMs": 5881642,
+"endMs": 5883342,
+"text": "Entonces, según, eh... ¿Cómo se llama?"
+},
+{
+"startMs": 5884622,
+"endMs": 5897442,
+"text": "Eh... Entonces, según lo que está diciendo la Gemara, entonces tiene que haber yotzer or v'orej josek, tienes que escribir midat layla va-yom, midat yom va-layla, porque tienes que entender que en casa de Abar, josek vi-or, ve or vi-josek."
+},
+{
+"startMs": 5898122,
+"endMs": 5908982,
+"text": "Ahora, entonces, vean qué increíble, algo muy loco, creo. Vamos al principio. Yotzer or u'rej josek, pregunta la Gemara, dice: \"¿Por qué dices v'orej josek?"
+},
+{
+"startMs": 5909342,
+"endMs": 5916142,
+"text": "¿Por qué no dices v'orej noga? ¿Por qué no dices v'orej noga?\" Entonces, contesta, dice la Gemara: \"¿Cómo? Ke dijtiv ka amrina\"."
+},
+{
+"startMs": 5916602,
+"endMs": 5923182,
+"text": "Queremos decir las cosas como dice el pasuk. Al fin de... ¿Cuál es el, el, el primut de esto?"
+},
+{
+"startMs": 5923462,
+"endMs": 5930182,
+"text": "Vean, vean algo muy loco. Are-- nosotros sabemos el, el Shem Hashem, es Yud Kei Vav, ¿ok?"
+},
+{
+"startMs": 5930822,
+"endMs": 5939182,
+"text": "¿Y cuál leemos nombre? Adnut. Adnut. ¿Cuál es k'neged, cuál es k'neged or y cuál es k'neged noga?"
+},
+{
+"startMs": 5939222,
+"endMs": 5948122,
+"text": "Shem Abba es or. Shem Abba es or. Noga. Y Adnut es noga. Quiere decir que en casa de Abar que tú entiendas Yud Kei Vav, ¿ok?"
+},
+{
+"startMs": 5948202,
+"endMs": 5955642,
+"text": "Sin que en-- sin que entiendas que Adnut. Entonces, ¿qué es el noga que hay en el, en el, en el, en el josek?"
+},
+{
+"startMs": 5955922,
+"endMs": 5964602,
+"text": "Es como la levana. Uno es el shemesh y otro es la, la levana. Uno es el noga. Uno es el kejatuv y este es-- otro es el kekorim."
+},
+{
+"startMs": 5965142,
+"endMs": 5972442,
+"text": "Entonces, vean la razón de la Gemara. Dice: \"Yotzer or u'rej josek, leima yotzer or u'rej noga\". Dice: \"No, ke dijtiv ka amrina\"."
+},
+{
+"startMs": 5972522,
+"endMs": 5983022,
+"text": "Nosotros queremos como katuv. \"Ela meata oseh shalom u'voreh ra, mi ka amrina en ke dijtiv\". Ahí dijiste ke dijtiv, ela, ktiv ra ve karin nakov."
+},
+{
+"startMs": 5983522,
+"endMs": 5990482,
+"text": "Entonces, en verdad hay ktiv y hay kri. O sea, hay ktiv y hay kri. No, está como la de Megilát. Ajá. Está agresivito."
+},
+{
+"startMs": 5991222,
+"endMs": 5998041,
+"text": "No, esta es la del, la del pozo, la de los tren-- del pie. ¿Lo puedes leer otra vez adentro? Lo quiero agarrar adentro. Otra vez adentro."
+},
+{
+"startMs": 5998082,
+"endMs": 6004142,
+"text": "Sí, sí, el pie era kri. El pie, el pie. ¿Puedes decir otra vez adentro? ¿Qué? Dice... Lo quiero, lo quiero agarrar adentro otra vez."
+},
+{
+"startMs": 6004162,
+"endMs": 6005802,
+"text": "\"Leima yotzer or u'rej noga\"."
+},
+{
+"startMs": 6007162,
+"endMs": 6013742,
+"text": "No, entonces dice: \"No, ke dijtiv ka amrina\". No queremos ke dijtiv. La pregunta es normal, y luego ke dijtiv ka amrina, ¿entonces qué? Ahorita vemos."
+},
+{
+"startMs": 6013802,
+"endMs": 6021962,
+"text": "Dice: \"Ela meata\"... No, dice: \"Lo queremos decir como dice el pasuk\". Ahora, muy bien, ome- Eso sería Adnut. Un segundo. Como dice el pasuk, aquí hay dos cosas."
+},
+{
+"startMs": 6022422,
+"endMs": 6029722,
+"text": "Una es, ¿qué dice el pasuk? El ijud. Sí. El pasuk, ¿cuál es el ktiv? Entonces, ¿qué es lo que está escrito en el pasuk?"
+},
+{
+"startMs": 6030182,
+"endMs": 6039122,
+"text": "El ijud HaShalem. Yotzer or u'rej josek. Que diga: \"No me da miedo el josek\", porque en el ktiv está escrito a la sof BeEmet el, el ktiv."
+},
+{
+"startMs": 6039142,
+"endMs": 6045402,
+"text": "Eso no lo podemos decir. Dice: \"Ela meata oseh shalom u'voreh ra, mi ka amrin en ke dijtiv\"."
+},
+{
+"startMs": 6045482,
+"endMs": 6052422,
+"text": "Ahí no lo dices ke dijtiv. Ela, ktiv ra ve karin nakov. En ra separaste entre el ktiv y el kri."
+},
+{
+"startMs": 6052702,
+"endMs": 6058962,
+"text": "Entonces, vean qué loco. Aquí hay dos fases y es algo muy loco. Claro. Ah, porque ya entendí."
+},
+{
+"startMs": 6059342,
+"endMs": 6068906,
+"text": "El ra nunca se deja escribir lo ra. Joshekh sí existe, porque el joshekh va a ser todo, pero ra no, no, no, no hay que sea todo, porque estás diciendo que es ra."
+},
+{
+"startMs": 6068925,
+"endMs": 6075686,
+"text": "Pero no, no, sí, que tiene ra. Ve, ve, espérate. El pasuk dice... Ahora, pero ¿qué? ¿Cómo es? Sí, te voy a decir lo que está diciendo."
+},
+{
+"startMs": 6075766,
+"endMs": 6085106,
+"text": "Escucha lo que está diciendo. Es algo muy loco, vea. Es joshekh es el efsharut a que hay ra. Ra es cuando agarras ese efsharut y lo conviertes en ra."
+},
+{
+"startMs": 6086766,
+"endMs": 6093606,
+"text": "Joshekh ki bejol. ¿Qué es joshekh? ¿Qué es or, el guilue eloki? ¿Qué es joshekh? La falta de guilue eloki."
+},
+{
+"startMs": 6093786,
+"endMs": 6100826,
+"text": "Falta de guilue eloki es todo el ra que hay. Eso es joshekh. Sí. Si yo agarro el joshekh, entonces me encuentro una persona y hago un niseión."
+},
+{
+"startMs": 6100826,
+"endMs": 6102506,
+"text": "¿El niseión es joshekh o es ra?"
+},
+{
+"startMs": 6103906,
+"endMs": 6110186,
+"text": "Joshekh. Joshekh. ¿Cuándo el joshekh se va a hacer ra? Cuando escogiste- Cuando escogiste..."
+},
+{
+"startMs": 6111126,
+"endMs": 6118326,
+"text": "No pasar el niseión. Entonces, agarraste el joshekh y lo hiciste ra. La invitación es una maravilla. Claro. Exactamente."
+},
+{
+"startMs": 6118566,
+"endMs": 6124806,
+"text": "Ahí, ah, el joshekh en su esencia- La diferencia entre dolor y sufrimiento. El joshekh en su esencia es tov. ¿Sí?"
+},
+{
+"startMs": 6124826,
+"endMs": 6133986,
+"text": "¿Por qué es tov? Porque realmente el joshekh es noga. Vehemet el joshekh es noga. Y para que haya joshekh al mundo. Entonces, en el joshekh sí shayah decirle- ¿Noga qué es, luz?"
+},
+{
+"startMs": 6134866,
+"endMs": 6141046,
+"text": "Luz en la oscuridad. En el, eh, en el ra, se lo shayah decir tov, porque pues dijiste ra, ¿no?"
+},
+{
+"startMs": 6141126,
+"endMs": 6148806,
+"text": "Es lo que quieres decir. No, entonces, ra, vehemet, ¿quién es el que hace del joshekh ra? Nada más nosotros. No hay un, no hay un ra betze."
+},
+{
+"startMs": 6149106,
+"endMs": 6155586,
+"text": "Cuando tú haces que el ra está, está, está escrito, entonces está escrito que hay ra betze. No hay ra betze. Cuando rechazas la invitación."
+},
+{
+"startMs": 6155606,
+"endMs": 6161846,
+"text": "Entonces, tienes que ser la fuerza kol. Okey, espérate un segundo, algo muy amo. Ahora, espérate. Aquí en el ra hay una diferencia."
+},
+{
+"startMs": 6161866,
+"endMs": 6169086,
+"text": "¿Cuál es? ¿Quién hace el ra? Nosotros. Nosotros. No hay un ra betze. Ahora, el pasuk dice bore ra. El pasuk dice bore ra."
+},
+{
+"startMs": 6171126,
+"endMs": 6183306,
+"text": "Pero tú, ki bejal, tú no puedes decir bore ra. Porque el bore ra quiere decir, la única manera de decir bore ra, eh, aquí hay un problema de decir bore ra."
+},
+{
+"startMs": 6183326,
+"endMs": 6195266,
+"text": "¿Por qué hay un problema de decir bore ra? Quiere decir que, que al final, lo único que-- Hashem dio el efsharut, no existe que Hashem cree el joshekh y que también que hagas el joshekh ra es algo completamente tuyo."
+},
+{
+"startMs": 6195646,
+"endMs": 6201885,
+"text": "También que el joshekh se haga ra es algo que también HaKadosh Baruj Hu dio el efsharut. Y si HaKadosh Baruj Hu dio el efsharut, ¿qué significa?"
+},
+{
+"startMs": 6201925,
+"endMs": 6202706,
+"text": "Que existe tshuve."
+},
+{
+"startMs": 6204226,
+"endMs": 6213266,
+"text": "¿Sí o no? Es decir, que no existe la idea. Que existe tshuve, que existe tshuve. Exactamente. Dijimos, si se leería bore ra en la tefilá, que también mitzideinu."
+},
+{
+"startMs": 6214106,
+"endMs": 6220146,
+"text": "Yo tengo que decir bore ra, entonces quiere decir que cuando uno hizo una averá: «Ah, eso también lo hizo HaKadosh Baruj Hu, ni mal ha sipur»."
+},
+{
+"startMs": 6220146,
+"endMs": 6223906,
+"text": "¿Sí me estoy explicando? También eso lo hizo HaKadosh Baruj Hu."
+},
+{
+"startMs": 6225266,
+"endMs": 6239206,
+"text": "Entonces, no hago tshuva. Entonces, acá dices: «No, no, no, aquí hay diferencia entre el kti y el kri». Tienes que decir el, el kri no puede decir bore ra, porque el ra es nada más el creo el efsharut, a que tú al final puedas hacer ra."
+},
+{
+"startMs": 6239406,
+"endMs": 6247406,
+"text": "Querés ir al revés. Ahora, si Dios no hubiera creado el efsharut a que tú hiciste ra, entonces en el momento que tú hiciste el joshekh ra no tiene tikun, porque ya lo hiciste tú."
+},
+{
+"startMs": 6247806,
+"endMs": 6254486,
+"text": "Quiere decir que HaKadosh Baruj Hu nada más ulai hizo el efsharut. Uvara et ha'ara. A, a, a, a, a, a, al itgaver al haniseión."
+},
+{
+"startMs": 6255386,
+"endMs": 6263406,
+"text": "HaKadosh Baruj Hu dice el efsharut al itgaver al haniseión, pero si no lo pasaste, ya es bronca tuya. Para eso el pasuk dice bore ra, pero tú ya no puedes decir bore ra."
+},
+{
+"startMs": 6264026,
+"endMs": 6270866,
+"text": "Aquí hay diferencia entre el kti y el kri. Tú tienes que decir: el ra... Es parte de la kol."
+},
+{
+"startMs": 6271386,
+"endMs": 6277826,
+"text": "Yo necesito, lo que HaKadosh Baruj Hu le dio efsharut al libro del ra, es también porque yo puedo hacer tshuve de eso. Ah, ahí está."
+},
+{
+"startMs": 6278086,
+"endMs": 6294326,
+"text": "¿Sí me estoy explicando? Entendí la última parte. Pero si yo digo bore ra, también lo adjudico ki bejal, el, el bore ra, ki bejal, HaKadosh Baruj Hu, quiere decir que también el ra que se hace en el mundo, dainu la'afoj el joshekh del mundo a ra, es también HaKadosh Baruj Hu lo hizo."
+},
+{
+"startMs": 6294366,
+"endMs": 6306246,
+"text": "Pero él sí dio el efsharut a que tú lo hagas. Pero entonces, él dio el efsharut a que tú lo hagas. Entonces, si dio el efsharut a que tú lo hagas, significa que sigue viniendo de él, y entonces quiere decir que viene a daine el efsharut a hacer tshuve."
+},
+{
+"startMs": 6306925,
+"endMs": 6316146,
+"text": "Pero si, si no, no habría efsharut a hacer tshuve. Si lo decimos en el kri, como lo dijimos, como lo dijimos nosotros, estamos diciendo que no existiría el efsharut de que se cambia todo, es lo que estás diciendo."
+},
+{
+"startMs": 6316186,
+"endMs": 6324746,
+"text": "Ya, sí, porque Hashem te dice: «Mira, yo hice el joshekh, si tú decidiste hacerlo ra, vaya a su ga». Dice: «No, no, no, no, no». El kti es bore ra, pero el kri es bore et hakol."
+},
+{
+"startMs": 6325586,
+"endMs": 6333425,
+"text": "Ahí ya no es el, el-- ese kol bé etze melatshuv, ese kol bé etze melatshuv. Hay que entenderlo ahí. Es que de ahora en mañana lo vemos más."
+},
+{
+"startMs": 6333466,
+"endMs": 6335566,
+"text": "Va a venir ra. Hay que ser ra."
+},
+{
+"startMs": 6337766,
+"endMs": 6343026,
+"text": "Ah, el domingo. Ah, el domingo. Como el joshekh sal yoel, ja mitzja, dijiste que no tenía zmara."
+}
+]
+}

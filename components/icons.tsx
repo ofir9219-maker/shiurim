@@ -1,0 +1,16 @@
+import type { SVGProps } from "react";
+const base = (p: SVGProps<SVGSVGElement>) => ({ viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: 1.7, strokeLinecap: "round" as const, strokeLinejoin: "round" as const, "aria-hidden": true, ...p });
+export const IconPlay = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)} fill="currentColor" stroke="none"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.4-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5Z" /></svg>;
+export const IconPause = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)} fill="currentColor" stroke="none"><rect x="6.5" y="5" width="3.8" height="14" rx="1.2" /><rect x="13.7" y="5" width="3.8" height="14" rx="1.2" /></svg>;
+export const IconBack15 = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><path d="M4 5v5h5" /><path d="M4.6 10A8 8 0 1 1 4 13" /></svg>;
+export const IconFwd15 = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><path d="M20 5v5h-5" /><path d="M19.4 10A8 8 0 1 0 20 13" /></svg>;
+export const IconSun = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><circle cx="12" cy="12" r="4" /><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4" /></svg>;
+export const IconMoon = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5Z" /></svg>;
+export const IconSearch = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><circle cx="11" cy="11" r="6.5" /><path d="m20 20-4.2-4.2" /></svg>;
+export const IconClock = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><circle cx="12" cy="12" r="8.5" /><path d="M12 7.5V12l3 2" /></svg>;
+export const IconShare = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><path d="M12 15V3.5M7.5 8 12 3.5 16.5 8" /><path d="M5 12.5V19a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 19 19v-6.5" /></svg>;
+export const IconDown = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><path d="m6 9 6 6 6-6" /></svg>;
+export const IconArrowDown = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><path d="M12 5v14M6 13l6 6 6-6" /></svg>;
+export const IconBack = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><path d="M15 5 8 12l7 7" /></svg>;
+export const IconSpark = (p: SVGProps<SVGSVGElement>) => <svg {...base(p)}><path d="M12 3.5l1.9 5.3 5.3 1.9-5.3 1.9L12 17.9l-1.9-5.3-5.3-1.9 5.3-1.9L12 3.5Z" /></svg>;
+export const Ornament = ({ className = "" }: { className?: string }) => <div className={`orn ${className}`} aria-hidden="true"><i /></div>;

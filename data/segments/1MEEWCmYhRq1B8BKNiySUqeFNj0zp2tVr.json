@@ -1,0 +1,966 @@
+{
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+"segments": [
+{
+"startMs": 980,
+"endMs": 1280,
+"text": "Bueno,"
+},
+{
+"startMs": 2660,
+"endMs": 6720,
+"text": "pues desde d'afdale. Guau. Amud bet."
+},
+{
+"startMs": 8320,
+"endMs": 10700,
+"text": "Digo que vamos para atrás. Amud alef, amud bet."
+},
+{
+"startMs": 11960,
+"endMs": 12560,
+"text": "Vimos"
+},
+{
+"startMs": 13780,
+"endMs": 17220,
+"text": "hay algo muy azul, muy amoco sobre"
+},
+{
+"startMs": 20360,
+"endMs": 27100,
+"text": "tu machloket, rabí Gamaliel, rabí Eliezer. ¿Sí? Chatzos, Kriyat Shema."
+},
+{
+"startMs": 27520,
+"endMs": 32460,
+"text": "No, ¿ese vi? Ajá. Según rabí Gamaliel es la chatzos, según rabí Eliezer es la mañana,"
+},
+{
+"startMs": 33860,
+"endMs": 36220,
+"text": "si tefilá de arbit rishut, tefilá de arbit kova."
+},
+{
+"startMs": 37780,
+"endMs": 46680,
+"text": "Y de ahí empezamos un malaj, me explica todo la Gemara según, según eso, que empezó la machloket con"
+},
+{
+"startMs": 47880,
+"endMs": 56500,
+"text": "rabí Yohanan y rabí Joshua ben Levi. Si se dice arbit Kriyat Shema y luego la amida o la amida y luego Kriyat Shema."
+},
+{
+"startMs": 57880,
+"endMs": 63440,
+"text": "Según rabí Yohanan, Kriyat Shema y luego la amida. Rabí Yohanan sostiene que es tefilá de arbit kova también."
+},
+{
+"startMs": 65120,
+"endMs": 68320,
+"text": "Y rabí Joshua ben Levi dice: «No, se dice primero la amida"
+},
+{
+"startMs": 70360,
+"endMs": 78360,
+"text": "y luego Kriyat Shema». La machloket es si contamos la geulá de la noche como geulá, como geulá o no."
+},
+{
+"startMs": 79220,
+"endMs": 86260,
+"text": "Entonces, rabí Joshua ben Levi dice: «No, hasta la geulá de la mañana no es geulá». Y rabí Yohanan dice: «No, también la noche es, es geulá»."
+},
+{
+"startMs": 87060,
+"endMs": 95420,
+"text": "Y entonces ya- Cuando llega la mañana, dice: «Itgalenu mafréa». Así, así me acuerdo, ¿no? Más o menos. Mmm. Itgalenu mafréa que es del jereg de geulá."
+},
+{
+"startMs": 96180,
+"endMs": 99340,
+"text": "Sí. Era esquivenu, ¿no? Esquivenu. ¿Por qué dices esquivenu? Eso es esquivenu."
+},
+{
+"startMs": 100940,
+"endMs": 103520,
+"text": "Sí. ¿En qué date estás, Ofrin? En amud bet. Ahí."
+},
+{
+"startMs": 108720,
+"endMs": 110420,
+"text": "A ver. Entonces... Dalet."
+},
+{
+"startMs": 113100,
+"endMs": 125980,
+"text": "Luego vimos de que rabí Joshua ben Levi dice que a filu, que Adam-- está todo el tema del asheré. Digo, ahorita no lo quiero meter para no, no, no revolver tanto, que verdad tiene que ver, pero no lo quiero meter ahorita."
+},
+{
+"startMs": 126740,
+"endMs": 134260,
+"text": "Luego vimos que nos dijo rabí Joshua ben Levi: «Al fin si Adam cae Kriyat Shema en la sinagoga mitzvá lekvotó al mitadó»."
+},
+{
+"startMs": 135480,
+"endMs": 138940,
+"text": "Entonces, ritzu ve-al tachtavom ve'omru bebejem ve'omrish bejem ve'om musela."
+},
+{
+"startMs": 148940,
+"endMs": 151680,
+"text": "Y luego la Gemara entró de eso"
+},
+{
+"startMs": 153160,
+"endMs": 159740,
+"text": "al yergis, Adam y este Tov, y este Hará, toda esa sugya y a los isurim."
+},
+{
+"startMs": 160320,
+"endMs": 169920,
+"text": "Si son isurim de Avá o no son isurim de Avá. ¿Se acuerdan? Claro. Entonces, hay isurim, son isurim de Teshuvá, no son de Avá."
+},
+{
+"startMs": 170300,
+"endMs": 174840,
+"text": "Y luego rabí Yohanan trajo la, el, todo el inian de que son isurim de Avá."
+},
+{
+"startMs": 176380,
+"endMs": 184220,
+"text": "Y te trae que rabí Yohanan es el que levantaba a todos, es el que alumbraba, es el que es del zera de Yosef HaTzadik."
+},
+{
+"startMs": 185020,
+"endMs": 190480,
+"text": "Ahí era todo el inian de Yosef y geulá. Pues todo-- entonces, en general, todo lo que vimos es el inian"
+},
+{
+"startMs": 192460,
+"endMs": 200360,
+"text": "de los dos maljin de Yosef y... Que rabí Yohanan es Yosef. Por eso en la noche también tiene un aspecto de geulá, porque él betem jala la luz."
+},
+{
+"startMs": 200360,
+"endMs": 207880,
+"text": "¿Sí? La luz de rabí Yohanan en la oscuridad es ana ishtade mishapire de shapire Yerushalayim."
+},
+{
+"startMs": 208280,
+"endMs": 219720,
+"text": "Él betem mamsich el or de Yerushalayim, filu al joshech. Entonces, él betem, filu está en el joshech veor. Rabí Joshua ben Levi, su avodá es al revés, es, es betem reconocer que hay raá y voltearlo."
+},
+{
+"startMs": 220380,
+"endMs": 229280,
+"text": "Dijimos que él mismo dice que el malaj hamávet es leshem Shamayim. Él, él no se aleja del malaj hamávet, sino, sino le hace que haga teshuvá."
+},
+{
+"startMs": 229600,
+"endMs": 240440,
+"text": "Me explicó: «Él no le da miedo el rá porque la-- lo voltea». Entonces, por eso en los isurim, rabí Yohanan es isurim de Avá, que filu en el joshech dice: «No, es de Avá»."
+},
+{
+"startMs": 240980,
+"endMs": 247680,
+"text": "Y el otro dice: «No, hay isurim que son isurim de, para hacer teshuvá». Cuando uno ve isurim, ¿qué tipo de isurim es?"
+},
+{
+"startMs": 248560,
+"endMs": 250980,
+"text": "Son isurim de hacer teshuvá, no son isurim de..."
+},
+{
+"startMs": 253960,
+"endMs": 260640,
+"text": "No, no, no de Avá. Entonces, son dos aspectos, hay masorim diferentes. Si uno no joté- Hay no tener hijos y hay, y hay tener hijos."
+},
+{
+"startMs": 260680,
+"endMs": 267120,
+"text": "Exactamente, exactamente. El no tener hijos es de teshuvá. Es, exactamente, son isurim para anhelar, para buscar."
+},
+{
+"startMs": 267560,
+"endMs": 274660,
+"text": "Que quieres, no son, no es para quedarse ahí. Pero José solo uno tuvo, se murió. Entonces, ahí necesita el koaj de rabí Yohanan, necesita el koaj de rabí Yohanan."
+},
+{
+"startMs": 275100,
+"endMs": 278340,
+"text": "Entonces, pajoto del segundo de la sugya fue que..."
+},
+{
+"startMs": 279640,
+"endMs": 285760,
+"text": "Y vimos que tiene que ver con rabí Gamaliel. Cuando tú ves el joshech, ¿ya ves or como Yosef o no?"
+},
+{
+"startMs": 286260,
+"endMs": 299020,
+"text": "O hay que, hay que saber aceptar que ahorita es joshech y- Sí. Y vimos toda la, toda la shitá rabí Gamaliel, que era esta, que era este inian, que rabí Gamaliel durante todo el perej, todos los dos perej, siempre fue como..."
+},
+{
+"startMs": 299780,
+"endMs": 307040,
+"text": "Las mishnayot, dijiste las mishnayot. Todas las mishnayot, que rabí Gamaliel- Tuvia, Tuvia, Tuvia. Tavi. Tavi. Tavi, que es tov, betem."
+},
+{
+"startMs": 307460,
+"endMs": 313840,
+"text": "Tavi Abdó, como él todo el tiempo iba con el malaj de... Pero es que no podían ser como él. O sea, digo- De Yosef HaTzadik."
+},
+{
+"startMs": 313900,
+"endMs": 319740,
+"text": "Sí, no, no cualquiera puede ser. No cualquiera puede. No cualquiera puede ser así. Digo,"
+},
+{
+"startMs": 321180,
+"endMs": 325460,
+"text": "es de-- ¿Y esos apuntes? ¿Eh? Sí, es muy en general, es muy en general."
+},
+{
+"startMs": 327180,
+"endMs": 338100,
+"text": "Entonces, betem aquí hay los kivunim, un kivúm que va de arriba hacia abajo, otro kivúm que va de abajo hacia arriba. Rabí Yohanan siempre va-- el or viene a la ir al joshech, el or está en el Shamayim y viene hasta la Terra."
+},
+{
+"startMs": 338760,
+"endMs": 346440,
+"text": "Y el otro malaj es, no, a fuj, el joshech es el mishtoquej a ser or, a, a, al-- a buscar el or, ¿sí?"
+},
+{
+"startMs": 347120,
+"endMs": 354740,
+"text": "Rabí Yohanan es el que curaba betem a todos, los levantaba a todos, él mamsich el or. ¿Sí? Rabí Yohanan es, es como Yosef HaTzadik, que no ve el lado malo,"
+},
+{
+"startMs": 356500,
+"endMs": 369696,
+"text": "que lo echan al bor y, y no, no se le acercan los nechasim ni a karavim y los perfumes y madu apenas en raim ayom y No, este es el, el Olam de Rabí Yohanan, es el Olam de, de arriba hacia abajo."
+},
+{
+"startMs": 370296,
+"endMs": 371876,
+"text": "Y luego tenemos el Olam de"
+},
+{
+"startMs": 373176,
+"endMs": 382036,
+"text": "Rabí Shimon Levi o de Yehudá, que es el Olam de abajo hacia arriba. Esa es toda la sugya hasta la Hei, en Amud Bet."
+},
+{
+"startMs": 384056,
+"endMs": 390856,
+"text": "Sí, ahí en Sham, todo es largo. Después empezó la sugya de Aba Binyamín,"
+},
+{
+"startMs": 392676,
+"endMs": 402716,
+"text": "Aba Binyamín. Entonces, Aba Binyamín, vimos ahí que hay mil paralelos con el Sulam de Yaakov, que Mutza Bar Tza, ve- Roshomo Migué HaShamaima."
+},
+{
+"startMs": 404856,
+"endMs": 423876,
+"text": "Mutza Bar Tza estaba en el Darom, Roshomo Migué HaShamaima estaba en el Tzafon. Y entonces, acá, muy meinén, es que, en vez del Darom, estaba en Beer Sheva, en Yehudá, y el Tzafon llegaba hasta el gul de Yosef y Binyamín, hasta arriba, y Binyamín es el que estaba en el centro."
+},
+{
+"startMs": 424436,
+"endMs": 431156,
+"text": "Binyamín es, es el que une, en verdad, el Tzafon y el Darom, une los dos mundos de Yosef y Yehudá. ¿Yosef a dónde está?"
+},
+{
+"startMs": 431216,
+"endMs": 437996,
+"text": "Migué HaShamaima. ¿Yosef a dónde está? Yosef está arriba. ¿Y el Sulam dónde está? Mutza Bar Tza está abajo, ¿en dónde?"
+},
+{
+"startMs": 438496,
+"endMs": 448116,
+"text": "En Yehudá, y malajim, malajé Elokim, olím ve iordím bo, ¿sí? Queee, y-y Binyamín, en verdad, es el emtza, es el Bet Hamikdash."
+},
+{
+"startMs": 448136,
+"endMs": 469216,
+"text": "El Bet Hamikdash tiene que tener los dos cojotes, el de Yosef y el de Yehudá. Entonces, se une el Bet Hamikdash entre Yehudá y Binyamín, que Binyamín agarra, en verdad, aterriza el Shamaim de Yosef y lo conecta con Yehudá, porque al final el Bet, Bet Hamikdash está en la tierra, entonces tiene que estar en el lugar de Yehudá, pero tiene que lišob su koaj de Yosef, Mishkan Shiló, que es el que estaba en el desierto."
+},
+{
+"startMs": 469816,
+"endMs": 477816,
+"text": "El desierto es como si estábamos en el Shamaim, no había infraestructura de tierra, era comidas, lejem min Hashamaim. Amuti, lejem min Hashamaim, es la baraja del man, ¿sí?"
+},
+{
+"startMs": 477896,
+"endMs": 485436,
+"text": "Era todo benisen isim, manané kabod. Vivíamos en el cielo, entonces, en verdad, ahí el Mishkan era mikuah Yosef, que se convirtió en Mishkan Shiló."
+},
+{
+"startMs": 485916,
+"endMs": 495675,
+"text": "Pero Yehudá es cuando necesita ese Mishkan bajar a la tierra, pero en cada vez que baja a la tierra y se desconecta el del cielo. Entonces, ese es, ese es Yosef y Yehudá, y es justamente Aba Binyamín."
+},
+{
+"startMs": 496056,
+"endMs": 503596,
+"text": "Dijimos que toda la sugya- ¿Pero ese Bet Hamikdash que es tierra necesita estar en la tierra de Binyamín? Sí, en Beitar de Yehudá y conectado con Binyamín."
+},
+{
+"startMs": 504416,
+"endMs": 513316,
+"text": "El Kodesh Hakohen. Toda la historia de Binyamín. Kodesh Hakohen. Sí, sí, sí, sí, pero justo la-- o sea, estamos en Mishkan es Shamaim, Bet Hamikdash es tierra."
+},
+{
+"startMs": 513376,
+"endMs": 525896,
+"text": "Es tierra, exactamente. Y por eso Bet Hamikdash tiene que estar en, en Yehudá, pero el Kodesh Hakohen, Binyamín, kilo el jelek shamaimi del, del Bet Hamikdash, ese es Binyamín, pero no puede ser Yosef, porque Yosef sigue en el Shamaim, ¿sí?"
+},
+{
+"startMs": 526176,
+"endMs": 532636,
+"text": "Y kilo son dos malajim que se contradicen, pero Aba Binyamín los, los une, los une."
+},
+{
+"startMs": 533076,
+"endMs": 536116,
+"text": "Y dijimos queee todas las membrót de Aba"
+},
+{
+"startMs": 537996,
+"endMs": 544916,
+"text": "Binyamín vienen be késher a eso. Dijimos: «Osnáim she-níjesú le-hitpalel, torfín lo tfilató befanav»."
+},
+{
+"startMs": 545416,
+"endMs": 553276,
+"text": "Si yatsá ejad de hem, uno que no espera al otro, entonces torfín, es torf de rab Yosef. Toréf nafshó beapo, górem la Shjiná she-tistalek mi-Israel."
+},
+{
+"startMs": 553716,
+"endMs": 567276,
+"text": "Es decir, cuando se separa, cuando hay toda, toda la Shjiná, llega mikuah la unión que hay en Am Israel. Si no hay unión, no hay así-- la unión es la unión beomek de, de todos los tzvat de Shamaim va'aretz, ¿sí?"
+},
+{
+"startMs": 567516,
+"endMs": 575576,
+"text": "Y luego vimos ahí, Aba Binyamín Omer, de, de que uno puede ver todos los mazikim, mi yemin, mi smol, lo kisharno ahí."
+},
+{
+"startMs": 576216,
+"endMs": 582196,
+"text": "Hay que acordarnos ahí cómo kisharno todos los peratim ahí de los tarnegolim, todo eso con el sipur de Megilat Yosef."
+},
+{
+"startMs": 584476,
+"endMs": 593356,
+"text": "Sí, la klipá de Yosef, la klipá de Yehudá, son los mazikim del lado derecho, del lado izquierdo. Dijimos que es paralelo a, al Tzafon y el Darom, ¿sí?"
+},
+{
+"startMs": 595456,
+"endMs": 596156,
+"text": "Ahí lo hablamos."
+},
+{
+"startMs": 597936,
+"endMs": 605276,
+"text": "Ven tfilató shel adam, ela nishmat elaba bet kneset es la última memrá de Aba Binyamín, que es Bet Hamikdash, en verdad, donde todos se unen."
+},
+{
+"startMs": 605736,
+"endMs": 617716,
+"text": "Es un kinús, el Bet kinús, donde todos se unen. Entonces, en verdad, acá toda la sugya, desde lafdálét está hablando de estos dos olamot, del Olam de Yehudá y el Olam de Yosef."
+},
+{
+"startMs": 618096,
+"endMs": 625836,
+"text": "Las afjanot, ¿sí?, qué Hashemás, si se dice antes, si jalas el Or, si no jalas el Or, a fuj, tienes que... ¿Me explico?"
+},
+{
+"startMs": 625956,
+"endMs": 633916,
+"text": "Claro. Entonces- Si en la noche de Juar dices Galit rakilu, es Gueulá. Es Gueulá, no es Gueulá, sí. Yehudá dice: «No, tiene que no ser Gueulá»."
+},
+{
+"startMs": 633996,
+"endMs": 640236,
+"text": "¿Cómo vas a decir que es Gueulá? A ver, todo, todo lo que queremos que-- todo lo bueno que es de noche es porque vamos a anhelar que sea de día."
+},
+{
+"startMs": 640616,
+"endMs": 651016,
+"text": "Vamos a no anhelar que es de noche. Y rab Yosef dice: «No, espérate, en la noche también hay Gueulá». Va a raya. Toda la Gueulá del día es la que empezó, en verdad, desde la noche, se jaló hasta, hasta el día."
+},
+{
+"startMs": 651176,
+"endMs": 666596,
+"text": "Entonces, toda la sugya, en verdad, va con este malaj de estos dos cojotes que, en verdad, sotrím, por un lado, pero se tienen que unir, hasta que llegamos a la sugya aquí de Rav Amín bar Ada, Amrav Itzjak, min hahin she-Hakadosh Baruj Hu matzui bet kneset."
+},
+{
+"startMs": 667796,
+"endMs": 674516,
+"text": "Entonces, vimos que también tiene que ver, ahí todos nosés, que donde está Am Israel está la Shjiná."
+},
+{
+"startMs": 675376,
+"endMs": 681416,
+"text": "La Shjiná y Am Israel son uno, son, son uno. Entonces, las dargot de cómo está la Shjiná es cuántos yehudim hay."
+},
+{
+"startMs": 682016,
+"endMs": 688316,
+"text": "Si hay diez yehudim, hay Shjiná ama-- tres, dos, uno. Sí, también uno es mikuah, que pueden ser dos."
+},
+{
+"startMs": 688716,
+"endMs": 695016,
+"text": "Entonces, en cada haber un yehudí solito, eso va paralelo con la membrá. Como dicen ustedes, kilo también el uno tiene su koaj."
+},
+{
+"startMs": 695596,
+"endMs": 702616,
+"text": "Sí, su uno tiene koaj, porque en verdad puede litstaref con dos. Pero uno solito, solito es como torfím lo tfilató beapo."
+},
+{
+"startMs": 702676,
+"endMs": 709516,
+"text": "Cuando alguien dice: «Solo mi malaj es el único que existe». Que es lo mismo que estudiamos ayer, que el que, que un es mejor el Bet Hamikdash. Justo."
+},
+{
+"startMs": 709856,
+"endMs": 717036,
+"text": "Bidjuk, bidjuk, sí. Entonces, de ahí viene la memrá, tefilím del, del Hakadosh Baruj Hu. Entonces, ¿qué es tefilím del Hakadosh Baruj Hu? Shema Israel, Adonai Eloquenu, Adonai ejad."
+},
+{
+"startMs": 717116,
+"endMs": 736196,
+"text": "Adonai ejad, pirushó que, que hay midot, hay midá de din, la midá de jésed, pero ese es Adonai ejad. En verdad, todas las midot en su source son una, no son midot jalukot Que siempre 10 en todo a Dios borju mitcaven son giluin de Dios borju y los giluin de Dios borju son la cabana de tovÁ, sí, la tovÁ miti, de, de, de litajet con él, de estar con él."
+},
+{
+"startMs": 736696,
+"endMs": 742995,
+"text": "Las mile todos los giluin de omet son uno, son maneras de cómo él mitgaleh para que nosotros podamos descubrir a él y eso es la tovÁ shlema."
+},
+{
+"startMs": 743416,
+"endMs": 751336,
+"text": "Entonces, en vez de maí giluin de jézed, giluin de din, giluin de din, como que te exige un así, giluin de jézed, en vez de mashpiim así, sí, y julé."
+},
+{
+"startMs": 752816,
+"endMs": 768056,
+"text": "Y pero Am Israel es paralelo a eso, porque también en el Sefilín de Dios borju está escrito: «Mi kamej Israel, go ejad baéret». Go ejad baéret, pishush odavar, que en vez de Am Israel, por más diferentes que seamos, y hay Judá y hay Yosef, y hay tantooo,"
+},
+{
+"startMs": 769316,
+"endMs": 771996,
+"text": "eh, eh, eh, ipuj, en vez de entre ellos,"
+},
+{
+"startMs": 773756,
+"endMs": 787536,
+"text": "bejol dot son mi kamej Israel, go ejad baéret, que a lo mejor que tienen unos Tsafón, unos Darón, unos Shamaím, unos Eretz, sofush odavar, todo es porque somos tan diferentes, porque todos somos giluin diferentes de los giluin de Dios borju."
+},
+{
+"startMs": 787956,
+"endMs": 794636,
+"text": "Las mile, todo el niñán del filín de Dios borju es de galot, que-que todo, que todo Am Israel es uno, exactamente."
+},
+{
+"startMs": 794696,
+"endMs": 809096,
+"text": "Y nosotros con él somos uno. Sí. Que todo incluye en el uno. Sí, cuando nosotros somos uno, entonces podemos ser con él uno, porque si nosotros las menos estamos separados , entonces también nos separamos de Hashem, porque cada quien es independiente, cada quien está viendo por sí mismo."
+},
+{
+"startMs": 809996,
+"endMs": 822996,
+"text": "Bejul, entonces, toda la subida aquí es esta nekudá de unir los dos kibuním. Entonces, sale algo muy amot, que bemet, el tzulám de arriba para abajo y el tzulám de abajo para arriba, de omet, va omet, va omet, que es un."
+},
+{
+"startMs": 823196,
+"endMs": 823496,
+"text": "¿Por qué?"
+},
+{
+"startMs": 825356,
+"endMs": 832996,
+"text": "Entonces, cuando vas-- cuando tú vas subiendo en el tzulám, también estás bajando, y cuando estás bajando en el tzulám, estás subiendo."
+},
+{
+"startMs": 833436,
+"endMs": 841096,
+"text": "Entonces, cuando estás-- Judá tiene que entender que da filu que lo vayas subiendo, eso no-- eso es lo mismo a que Yosef esté bajando."
+},
+{
+"startMs": 841136,
+"endMs": 844856,
+"text": "Yosef tiene que entender que Yosef bajando es en vez de Judá subiendo. ¿Por qué?"
+},
+{
+"startMs": 846716,
+"endMs": 854496,
+"text": "Porque en vez de lo que hablamos, de ponim ve ponim. Nosotros queremos pne Hashem. Sí, queremos pne Hashem."
+},
+{
+"startMs": 854815,
+"endMs": 863876,
+"text": "Los ponim de Hashem. Los ponim de Hashem se dirigen hacia abajo. La única manera de tú lastir los ponim que van hacia abajo es no recibirlos, sino tú subiendo."
+},
+{
+"startMs": 864776,
+"endMs": 871996,
+"text": "Entre tú más misir nefesh y más kabod a Hashem, entonces ahí es, es, eso es, eh, ahí betzmam está el pne Hashem."
+},
+{
+"startMs": 872316,
+"endMs": 879116,
+"text": "Entonces, pne Hashem no está en res-- no es entender cuando va bajando el, el oro, sino es entender, vehem-- Cuánto me resulta hoy yo."
+},
+{
+"startMs": 879156,
+"endMs": 891056,
+"text": "Que cuánto me-- cuánto yo estoy dispuesto a sacrificar nada más para entender el, el tov de Hashem. Entonces, quiere decir que entre más tú vayas subiendo, vehem, ahí es cuando, cuando re-recibes vehem el oro que está, que está bajando."
+},
+{
+"startMs": 891076,
+"endMs": 899996,
+"text": "Entonces, Yosef vehem su abodá es entender que el oro de Hashem es lo máximo y Judá es el que entiende, es que el que vale la pena entregar todo nada más para seguir el oro de Hashem."
+},
+{
+"startMs": 900436,
+"endMs": 906996,
+"text": "Entonces, vehem, Judá, si no tiene a Yosef, dice: «Ah, te, ni yo veo a Hashem, es lo máximo, ¿no? Lo demás, no es ajá, no, no, ma bá»."
+},
+{
+"startMs": 907016,
+"endMs": 907816,
+"text": "¿Sí?"
+},
+{
+"startMs": 909556,
+"endMs": 916536,
+"text": "Ese es el mundo que puede llegar Judá. Y Yosef dice: «No, es de arriba para abajo». ¿Sí? El oro de Hashem es lo máximo."
+},
+{
+"startMs": 917256,
+"endMs": 926116,
+"text": "Espérate, ¿y ya me seguimos todo? Entonces, dice: «No, recíbelo». No, entonces estás volteado hacia el otro lado. La única manera de recibirlos, vehem, estando dispuesto a sacrificar por él."
+},
+{
+"startMs": 926156,
+"endMs": 938716,
+"text": "Entonces, ahí es cuando estás, entonces, vehem, ese es Hashem, Hashem ejad, vehem, donde, donde que es vehem lo mismo, arriba para abajo y abajo para arriba me meto, me ome que es el mismo maraj, no, no hay ni una diferencia, sino afuj."
+},
+{
+"startMs": 939416,
+"endMs": 950776,
+"text": "El, el de abajo para arriba me galé el de arriba para abajo, y el de arriba para abajo solo mitgalé con el de abajo para arriba, y no-- y si tú agarras nada más el de arriba para abajo, entonces, vehem, ya no es de arriba para abajo, porque ya, ya estás vestura de ajor."
+},
+{
+"startMs": 951416,
+"endMs": 961816,
+"text": "Y si tú vas de abajo para arriba y no entiendes que es de arriba para abajo también, entonces, vehem, es, es shelo Hashem Shamaím, estás, eh, no estás buscando a Hashem, estás buscando alguna atavá tuya, entonces también es ajor."
+},
+{
+"startMs": 961816,
+"endMs": 968096,
+"text": "¿Sí me estoy explicando o no? ¿Sí o no? Sí. O sea,"
+},
+{
+"startMs": 969756,
+"endMs": 972776,
+"text": "quiere decir, ¿por qué, por qué, por qué este kasur,"
+},
+{
+"startMs": 974976,
+"endMs": 980016,
+"text": "esto con lo que estás diciendo de Judá y Yosef, Kiru? ¿Verdad? De, o sea, estás diciendo que Judá y Yosef,"
+},
+{
+"startMs": 981316,
+"endMs": 983576,
+"text": "uno es de abajo para arriba, el otro es de arriba para abajo. Dijiste que"
+},
+{
+"startMs": 986216,
+"endMs": 997356,
+"text": "Judá es de abajo para arriba y Yosef es de arriba para abajo. Entonces, ¿qué? Los dos trajín el trabajo- De abajo para arriba es misir nefesh, es darle kabod a Hashem, darle kabod a Hashem."
+},
+{
+"startMs": 997816,
+"endMs": 1009276,
+"text": "De arriba para abajo es que Hashem es ibla. Cuando entiendes que la una es-- la única atavá posible es darle kabod a Hashem, entonces, mileli quiere decir que, que no, no hay una atavá más que el hecho que le das kabod a Hashem."
+},
+{
+"startMs": 1009476,
+"endMs": 1024876,
+"text": "Es arriba para... No, es combinar, porque vehem, darle kabod a Hashem, esa es la atavá veatzmá. Entonces, si tú quieres una atavá que no es la atavá de darle kabod a Hashem, entonces, entonces ya la, la atavá de arriba para abajo ya es, ya la estás recibiendo ajor, no la estás recibiendo panim."
+},
+{
+"startMs": 1025455,
+"endMs": 1032576,
+"text": "Porque vehem, tú te interesas a otra cosa, te enteras a una atavá. La atavá, y eso no es la atavá, la atavá miti, te está kirvat Hashem."
+},
+{
+"startMs": 1032616,
+"endMs": 1043455,
+"text": "Entonces, y la única manera bemet de, de, de recibir kirvat Hashem es darle kabod a Hashem. Entonces, si le das bemet kabod a Hashem, entonces bemet, ahí estás, estás agarrando el oro que viene de arriba para abajo."
+},
+{
+"startMs": 1043796,
+"endMs": 1056556,
+"text": "Porque el, el oro de que viene de arriba para abajo, vehem es el oro que viene de abajo para arriba, ese es el oro de arriba para abajo. Entonces, vehem, ese es el, el Enzo fam ekif, que vehem el, el, ahí no hay edel entre, entre abajo, arriba, todo vehem es shavé."
+},
+{
+"startMs": 1056556,
+"endMs": 1063716,
+"text": "¿Sí? Todo vehem es shavé, pero, pero nosotros para poderle así, Hashem nos hizo a este ejerce de que las cosas tengan un orden."
+},
+{
+"startMs": 1064076,
+"endMs": 1071936,
+"text": "Entonces, hay de arriba, de abajo, de arriba para abajo, tú dices: «Yes, puedo hacer atavá». Dice: «Bueno, entonces necesito hacer de abajo para arriba». Entonces, anicheja la voz, que el capelo, tú estás atavá."
+},
+{
+"startMs": 1072756,
+"endMs": 1079816,
+"text": "Pero entonces, toda la nekudá es que vehem entiendas que la atavá es la abodá veatzmá, no es el... La atavá es la abodá veatzmá."
+},
+{
+"startMs": 1080236,
+"endMs": 1085356,
+"text": "Entonces, vehem acá es el maijud Hashem, Hashem ejad, donde vehem no hay hilu entre,"
+},
+{
+"startMs": 1087416,
+"endMs": 1095456,
+"text": "entre ejerce y din, din y ejerce, vehem el din es el que me galé ejerce. El ejerce sin din no mitgalé como ejerce, mitgalé como otra cosa, pero no es el ejerce que Hashem pensó."
+},
+{
+"startMs": 1096096,
+"endMs": 1104556,
+"text": "El din sin ejerce no es el din que Hashem pensó tampoco. ¿Sí? O sea, una abodá pesada que no te gusta, afuj, y a la abodá tú tienes que entender, es el tsajar veatzmó."
+},
+{
+"startMs": 1105256,
+"endMs": 1114436,
+"text": "Entonces, entonces, beofen, que vehem el ord de arriba para abajo mitgalé davka con el de abajo para arriba, y, y es del ord de arriba para abajo."
+},
+{
+"startMs": 1114436,
+"endMs": 1121316,
+"text": "¿Y de abajo para arriba cuál es? Darle kabod a Hashem. ¿Y el de arriba para abajo? Que Hashem quiere le tiblan."
+},
+{
+"startMs": 1122516,
+"endMs": 1129496,
+"text": "Está bueno, muy bueno. Es que Hashem, Hashem quiere le tiblan, no es de abajo para-- de arriba para abajo. De abajo para arriba es darle kabod a Hashem."
+},
+{
+"startMs": 1129556,
+"endMs": 1136576,
+"text": "Si yo lo separo, entonces son dos abodot, una es darle kabod a Hashem y otra abodá es tov, la bien shutov."
+},
+{
+"startMs": 1136596,
+"endMs": 1142989,
+"text": "¿Sí? Entonces, la nekudá es tov, voy a hacer gol de Zot omeret, que es el mismo punto, es el ijut."
+},
+{
+"startMs": 1143729,
+"endMs": 1150589,
+"text": "Sí, es el ijut, es el ijut de Jerusalem, que בעצם, que la única תועלת es realmente el punto de השם, no hay otra תועלת."
+},
+{
+"startMs": 1150669,
+"endMs": 1158989,
+"text": "Es la de Rabbi Akiva. La de Rabbi Akiva es עד כדי כך, que incluso que no se descubre realmente qué es bueno"
+},
+{
+"startMs": 1160469,
+"endMs": 1168189,
+"text": "la cosa. Es bueno, el honor en sí mismo, él es el bueno en sí mismo. Por eso Rabbi Akiva no era, él no hablaba סוד en público."
+},
+{
+"startMs": 1169049,
+"endMs": 1175449,
+"text": "Hasta el דור segundo, que entendió que necesitaba descubrirlo. Pero en el דור primero, sí, משמת Rabbi Akiva batel כבוד התורה."
+},
+{
+"startMs": 1175449,
+"endMs": 1181709,
+"text": "¿Por qué batel כבוד התורה? Porque Rabbi Akiva era דורש על תלי תלין של הלכות. ¿Qué eran las תלי תלין של הלכות?"
+},
+{
+"startMs": 1181889,
+"endMs": 1187929,
+"text": "El סוד, ¿no? Eh, הלכות. הלכות también, ¿no? הלכות, הלכות. Ah, הלכות. תלי תלין של הלכות."
+},
+{
+"startMs": 1188009,
+"endMs": 1200549,
+"text": "Entonces, él decía: \"La Torá es tan buena\", donde tenía el סוד tan claro, que lo único que buscaba hacer es buscar más הלכות de los, de los"
+},
+{
+"startMs": 1201769,
+"endMs": 1209249,
+"text": "קצות האותיות. Por eso no veas nada más de la תפיסה amuká de entender el טוב ד'השם, el טוב השם."
+},
+{
+"startMs": 1210649,
+"endMs": 1219329,
+"text": "Es tan טוב que ni rose la voz otra vez. Es tan טוב que ni sabéis quién sole la נפשי otra. Claro, es que- עד כדי כך."
+},
+{
+"startMs": 1220029,
+"endMs": 1226969,
+"text": "Sí. עד כדי כך que בעצם para Rabbi Akiva morir al קידוש השם, זה היה שכר שלו."
+},
+{
+"startMs": 1227229,
+"endMs": 1237069,
+"text": "Estaba tan claro, tan claro, que el טוב es בעצם מסירות נפש para la voz ד'השם, que también si, si duele, dice: \"זה חלק מהטוב\"."
+},
+{
+"startMs": 1237629,
+"endMs": 1238149,
+"text": "Pero ¿cómo?"
+},
+{
+"startMs": 1239769,
+"endMs": 1249809,
+"text": "También מתחילת המתים, entonces luego también es, eh, de verse. Ahí en Rabbi Akiva, cuando él se está muriendo, él está desde abajo para arriba, pero está entendiendo que esto es- Ese, ese es su שכר, זה השכר שלו."
+},
+{
+"startMs": 1249829,
+"endMs": 1256849,
+"text": "Hacer eso. Sí, no lo van a dar שכר por esto. זה השכר שלו. El טוב ד'השם. השם le preguntó: \"¿מה השכר?\" זה השכר."
+},
+{
+"startMs": 1256869,
+"endMs": 1267789,
+"text": "\"¿מה השכר של Rabbi Akiva?\" No hay que hablar mucho, de arriba para abajo. Sí, dice, o sea, dijo: \"Me enseñaste cómo דורש el כל קץ וקץ תלי תלין של הלכות, פילע פלוים נפלא, מה השכר שלו?\" זה."
+},
+{
+"startMs": 1268369,
+"endMs": 1278609,
+"text": "Es el mismo עניין ממש. Es el mismo עניין ממש. Sí, que lidrosh תלי תלין es, es simplemente darle כבוד a השם en la máxima expresión, a más no poder."
+},
+{
+"startMs": 1278649,
+"endMs": 1287489,
+"text": "Entonces, acá la נקודה, con el קשר de todo lo que hablamos, es que השם en Har Sinai era, era לנו את כבודו ואת גודלו."
+},
+{
+"startMs": 1288229,
+"endMs": 1297549,
+"text": "Sí. Sí, הן הראה לנו השם את כבודו ואת גודלו. Nos enseñó su כבוד y nos enseñó su טוב. Sí, ואת קולו שמענו מתוך האש."
+},
+{
+"startMs": 1298389,
+"endMs": 1307009,
+"text": "השם, שמענו su קול בתוך האש. Entonces, gila לנו tres נקודות: כבוד, טוב y la tercera la Rabbi Akiva."
+},
+{
+"startMs": 1309169,
+"endMs": 1316209,
+"text": "Que no zachi nu, no zachi nu מתנו על אש. את כבודו, sí, ואת קולו שמענו מתוך האש."
+},
+{
+"startMs": 1316649,
+"endMs": 1331789,
+"text": "Zot omeret, ah, אתה מבין בעצם el כבוד, אתה מבין el טוב, אז ממילי מתת על אש, בעצם es de אבין, כדאי לך, ese כבוד השם que te quieres acercar a él, lamrot que hay un אש, sí, es el כבוד más grande que tú puedes dar, pero es נשרף."
+},
+{
+"startMs": 1332369,
+"endMs": 1338689,
+"text": "טוב, va Rabbi Akiva y me lame עד כדי כך titen כבוד al הקדוש ברוך הוא. La דעה ביוב. Sí, la דעה ביוב."
+},
+{
+"startMs": 1339029,
+"endMs": 1347449,
+"text": "טוב. Sí, la נקודה era donde, aquí era la נקודה, entender esta נקודה. A dasov, que בעצם, בעצם, si se metían, no se iban a morir."
+},
+{
+"startMs": 1348049,
+"endMs": 1358269,
+"text": "Si se metían, no se iban a morir. Sí, el que no entiende la נקודה que el כבוד es el טוב, entonces se muere. Pero el que entiende que la נקודה es el כבוד es el טוב, entonces lo sobrevive."
+},
+{
+"startMs": 1359209,
+"endMs": 1365569,
+"text": "Rabbi Akiva, sí, el problema fue que el דור no dejaba estar en esa דעה, pero para Rabbi Akiva זה היה שכר שלו."
+},
+{
+"startMs": 1365949,
+"endMs": 1367029,
+"text": "Tal vez ese ha sido."
+},
+{
+"startMs": 1370229,
+"endMs": 1370869,
+"text": "Sabes, este,"
+},
+{
+"startMs": 1373029,
+"endMs": 1380449,
+"text": "la דעה ביוב tenía que pensar que no iban a morir. La דעה ביוב es Rabbi Akiva, la דעה Rabbi Akiva. Es גילוי בהומך la דעה Rabbi Akiva."
+},
+{
+"startMs": 1380509,
+"endMs": 1388169,
+"text": "Y sabían, o sea, sabían lo que estaba pasando, lo que estaban metiendo. Sí, sí. Ulai se tenía que haber esperado, ulai no, no sé."
+},
+{
+"startMs": 1388209,
+"endMs": 1395369,
+"text": "Pero la נקודה es que בעצם es גילוי, esta נקודה de que, am itel, no se qui-- no se qui-- no se qui-- no se quisieron meter al אש."
+},
+{
+"startMs": 1395929,
+"endMs": 1404909,
+"text": "Dice: \"Por eso estamos atorados\", dice: \"Nosotros nos metemos al אש. Estamos dispuestos a quemarnos por כבוד השם\". Entonces, ellos están dispuestos a meterse al אש."
+},
+{
+"startMs": 1404949,
+"endMs": 1406689,
+"text": "Porque moratam לפני השם וימותו."
+},
+{
+"startMs": 1408529,
+"endMs": 1419549,
+"text": "Su tikun fue Pinjás. Entonces, toda nuestra sugya, בעצם, está hablando de- Pinjás lo mismo. Pinjás, de Eliyahu. Entonces, acá, entrar לפני ולפנים es entrar פנים ופנים, entrar al קודש הקדשים es hacer."
+},
+{
+"startMs": 1420649,
+"endMs": 1423369,
+"text": "Sí. ¿Para Carmel se metió al אש?"
+},
+{
+"startMs": 1424689,
+"endMs": 1433089,
+"text": "No, Eliyahu. Nuestra sugya, nuestra sugya está hablando- Ah, que mató al Señor. Sí, tiene que ver Eliyahu también a la Carmel, hay que entender que tiene que ver con, con Pinjás."
+},
+{
+"startMs": 1433109,
+"endMs": 1439809,
+"text": "¿Y meterse contra todo el pueblo? Sí, puede ser, sí. כנוכי נתי. Entonces... Todo el pueblo completo."
+},
+{
+"startMs": 1439829,
+"endMs": 1447509,
+"text": "השם הוא האלוקים, השם הוא האלוקים es el גילוי. השם הוויה הוא האלוקים. אלוקים es el שם que מחייב, que le demos כבוד, y השם הוויה es el שם del טוב."
+},
+{
+"startMs": 1447969,
+"endMs": 1454109,
+"text": "Entonces, todo se grita con Eliyahu, השם הוא האלוקים, השם הוא האלוקים, y בעצם el trabajo es el גילוי. הוויה es טוב? Y אלוקים es כבוד."
+},
+{
+"startMs": 1455189,
+"endMs": 1462549,
+"text": "O es דין, pero también es, eh... Es דין, דין es primero. ¿Por qué hay דין? Porque hay un melej, no le faltes el respeto al melej."
+},
+{
+"startMs": 1463069,
+"endMs": 1470949,
+"text": "Pero השם- Adnut, ¿no? O sea, adnut es como ese mi patrón, pero- Son dos, son dos patrones. Los dos son שמות אלוקים."
+},
+{
+"startMs": 1470989,
+"endMs": 1479469,
+"text": "Entonces, toda nuestra sugya, בעצם, acá está hablando de, de, del פנים. ¿Pero por qué השם הוא האלוקים y no האלוקים הוא השם?"
+},
+{
+"startMs": 1479509,
+"endMs": 1487349,
+"text": "¿Es lo mismo? No, השם הוא האלוקים. El טוב es el que hay que darle כבוד?"
+},
+{
+"startMs": 1489109,
+"endMs": 1496589,
+"text": "Zot omeret, השם יוצא כבד, que es el- Que es con lo que- Zot tov o vá, zot tov. Sí. הוא האלוקים. Él es el אלוקים."
+},
+{
+"startMs": 1497829,
+"endMs": 1503869,
+"text": "Es como el néfer Jaim, ¿no? Dice que concentrado en השם y no al abir como..."
+},
+{
+"startMs": 1504609,
+"endMs": 1520059,
+"text": "Pues no, no me acuerdo. Tal vez en ese rumbo. Entonces, el que entra al cue-- al, al Kodesh HaKodashim, en verdad es, es, es regresar a este estado de ponim ve ponim, porque es en verdad lo que hicieron Nadav y Abihu."
+},
+{
+"startMs": 1520719,
+"endMs": 1530079,
+"text": "Entregaron sus ponim. Luego Hashem gila el Aarón, ajramot, Shem bene Aarón, bezot iavo Aarón en la Kodesh. Es decir, ¿cómo es la manera de entrar al Kodesh HaKodashim?"
+},
+{
+"startMs": 1530139,
+"endMs": 1536979,
+"text": "Para entrar al Kodesh HaKodashim, pirushó que regresamos a este, este estado ponim ve ponim. ¿Qué hay en el Kodesh HaKodashim que nos recuerda a ponim ve ponim?"
+},
+{
+"startMs": 1536979,
+"endMs": 1546119,
+"text": "¿Qué cosa hay en el Kodesh HaKodashim? Keruvim. Keruvim, son ponim ve ponim. Ahí es. Davka, davka el Kodesh HaKodashim es el que mayale ponim ve ponim, el que venga, Dios tiene que entrar con su néfeš."
+},
+{
+"startMs": 1546639,
+"endMs": 1554079,
+"text": "Sí, tiene que entrar. Entonces, entra lefanay ve lifnim, ponim ve ponim, lefanay ve lifnim. Y entonces- Es todo el cuerno de Aharón, es todo lo que pone."
+},
+{
+"startMs": 1554219,
+"endMs": 1560579,
+"text": "Rabi Ishmael ben Elisha. Rabi Ishmael. Ahí, ¿dónde fue? Ponim, ponim, ben Elisha, sus ponim. Sí."
+},
+{
+"startMs": 1562139,
+"endMs": 1568679,
+"text": "Zutre bar tubie, tubie, to, zutre, kabod. Ki jajol que Hashem ki be jol se hizo zutre, ma cabana."
+},
+{
+"startMs": 1569039,
+"endMs": 1577019,
+"text": "Se achicó ki be jol de manera que lo que nos necesita. Se decidió hacer mélej, se achicarse. Te necesito y si no, te castigo."
+},
+{
+"startMs": 1577199,
+"endMs": 1588239,
+"text": "Si es kol be jol. Ki be jol. El hecho que Hashem castiga es algo-- ki be jol que se, se achica mucho. Ki lo que nos necesita, ki lo que de verdad le faltamos al respeto, pero eso, eso es achicamiento de verdad."
+},
+{
+"startMs": 1588979,
+"endMs": 1598879,
+"text": "Es, es, es afúj, es mitdin que Urutzel, Atila, Natava, Shloman, nos hizo de verdad חשובים, ya te escuchó. Tus מעשים de verdad importan, tus מעשים de verdad me dan kabod, de verdad, de verdad me dan kabod."
+},
+{
+"startMs": 1599119,
+"endMs": 1611139,
+"text": "Entonces, por eso el Kadosh Baruj Hu mitpalel que, que, que, que Am Israel agarre esta nekudá, que todo el malaj del, del, del kabod, un jelek me ató, un jelek me ató, y luego, luego hablar, eh, mi frats, mi fratsmó."
+},
+{
+"startMs": 1611459,
+"endMs": 1620439,
+"text": "Entonces, Bilam por eso no pudo lekalel, porque ellemait, si él quiere lekalel, se tiene que agarrar del kabod. Im, no, no tiene lo que es kabod. Viene el Kadosh Baruj Hu y dice: \"No, todo lo que yo pido kabod no es por mí\"."
+},
+{
+"startMs": 1620459,
+"endMs": 1628659,
+"text": "¿Sí? Lo que pido mi kabod es por ellos, entonces no shayaaj que mi kabod los destruya. Por eso el Kadosh Baruj Hu no se, no se enojó en el tiempo de Bilam."
+},
+{
+"startMs": 1629839,
+"endMs": 1635979,
+"text": "Eh, le quiero contar toda la subida de alguna manera, desde Rav Dalet hasta Rav Zain. Está hablando de eso y ya tengo que volar."
+},
+{
+"startMs": 1636579,
+"endMs": 1637199,
+"text": "Escuche nada más un segundo"
+}
+]
+}

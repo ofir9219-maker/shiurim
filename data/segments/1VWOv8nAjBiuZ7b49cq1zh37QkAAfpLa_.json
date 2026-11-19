@@ -1,0 +1,1576 @@
+{
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+"segments": [
+{
+"startMs": 1880,
+"endMs": 7740,
+"text": "De David bepalga de leilae. Abakae meurta abakae. ¿Qué acaso David se despertaba"
+},
+{
+"startMs": 9340,
+"endMs": 10580,
+"text": "a la mitad de la noche"
+},
+{
+"startMs": 11860,
+"endMs": 18660,
+"text": "a decir Tehilim y estudiar Torá? Dice no, él se quedaba despierto desde el principio de la noche."
+},
+{
+"startMs": 20200,
+"endMs": 21860,
+"text": "Entonces- O sea, no se dormía"
+},
+{
+"startMs": 23080,
+"endMs": 32820,
+"text": "Literal, no se dormía. Ahorita vemos cómo era la dormida de David. Pero dice así. Entonces, antes la Gemara debía traer un pasuk que dice: \"jatzot laitla kum lodotlá\"."
+},
+{
+"startMs": 33520,
+"endMs": 45800,
+"text": "A mitad de la noche me voy a despertar a agradecerte. Ahora, la Gemara ahorita dice: no, en otro lugar vemos que David HaMelej no se despertaba a la mitad de la noche, se despertaba ya desde antes."
+},
+{
+"startMs": 46360,
+"endMs": 47020,
+"text": "Entonces, dice:"
+},
+{
+"startMs": 49620,
+"endMs": 53940,
+"text": "\"dijtim kadanti banesef baasavea\"."
+},
+{
+"startMs": 55180,
+"endMs": 62980,
+"text": "Me adelanté al nésef y ahí le pedía tefilá Hashem. Alababa Hashem."
+},
+{
+"startMs": 63680,
+"endMs": 73500,
+"text": "Entonces, David se le adelantó a algo que se llama nésef. Ahora, ¿qué es nésef? Según la pregunta de la Gemara, tiene que ser el principio de la noche."
+},
+{
+"startMs": 74000,
+"endMs": 81880,
+"text": "Eso es nésef. Y si es nésef al principio de la noche, tenemos contradicción entre los dos pesukim. Un pasuk nos dice jatzot laitla, otro te dice nésef."
+},
+{
+"startMs": 81880,
+"endMs": 88140,
+"text": "¿Qué quiere decir nésef? ¿Eh? ¿Qué dijiste que es nésef? Empezando la noche. ¿Sí?"
+},
+{
+"startMs": 88480,
+"endMs": 94640,
+"text": "Entonces, es como si fuera me adelanté al principio de la noche, al anochecer."
+},
+{
+"startMs": 95540,
+"endMs": 103440,
+"text": "Dice: \"umi mai\", pregunta la Gemara, \"umi de hai nésef? Urta hu\". ¿Quién te dijo que el nésef es el anochecer? Dijtim..."
+},
+{
+"startMs": 104280,
+"endMs": 110640,
+"text": "Como dice otro pasuk: \"ba nésef, ba éref, be éref yom, be ishón laitla, be afelá\"."
+},
+{
+"startMs": 111380,
+"endMs": 118780,
+"text": "Entonces, en ese pasuk claramente se ve que nésef es el anochecer. Entonces, según eso, David dice que se para en el anochecer. Por otro lado, dice que se para en jatzot."
+},
+{
+"startMs": 119700,
+"endMs": 120980,
+"text": "Dice: \"amar ravi Ioshia,"
+},
+{
+"startMs": 122300,
+"endMs": 128380,
+"text": "amar ravi Aja, ají que amar David\". David dice así: \"me olam lo abar alai jatzot laitla ve Shená\"."
+},
+{
+"startMs": 129340,
+"endMs": 137220,
+"text": "Dice: el nésef, que me paraba en el nésef y me mantenía despierto, eso intentaba."
+},
+{
+"startMs": 137900,
+"endMs": 144720,
+"text": "Pero lo que nunca me llegó a pasar es estarme do-- estar dormido en la hora de jatzot."
+},
+{
+"startMs": 147140,
+"endMs": 167420,
+"text": "Rav Ieseira amar: \"al jatzot laitla ya mitnomnem kesus\". Dice: hasta jatzot David estaba dormitando como un caballo, porque el caballo duerme solamente, eh, la Gemara dice, sesenta, eh, no sé si son minutos, no sé exactamente exactamente cuánto es."
+},
+{
+"startMs": 167460,
+"endMs": 169560,
+"text": "No pegan en sueños de quince minutos, pero a la vez"
+},
+{
+"startMs": 173200,
+"endMs": 180840,
+"text": "Puede ser. No sé exactamente es. Creo- Con que pausas de quince minutos. Dormitaba la de quince minutos."
+},
+{
+"startMs": 181220,
+"endMs": 184800,
+"text": "Tú eres el ejemplo de los metros. ¿Eh? Tú eres el ejemplo de todos los metros."
+},
+{
+"startMs": 186980,
+"endMs": 190200,
+"text": "Es el que lleva la , la rendición."
+},
+{
+"startMs": 193100,
+"endMs": 200480,
+"text": "Entonces, dice: \"haya mitnamnem kesus\", dormitaba como un caballo, \"mikam ehila hajaia mitgaber ka'ari\"."
+},
+{
+"startMs": 201280,
+"endMs": 208140,
+"text": "Pero de aquí en adelante, David HaMelej se paraba como león. Cuando llegaba jatzot, ya no había así de tipo la desvelada."
+},
+{
+"startMs": 208720,
+"endMs": 216020,
+"text": "Llegaba a medianoche, pff... Es la parte más dura. La más dura. Entonces, quiere decir que David, vean qué locura, solo dormía"
+},
+{
+"startMs": 217480,
+"endMs": 218020,
+"text": "mientras,"
+},
+{
+"startMs": 219400,
+"endMs": 227820,
+"text": "así esas caiditas, y eso era nada más desde el principio de la noche hasta jatzot. De jatzot en adelante, ya era como un león."
+},
+{
+"startMs": 229260,
+"endMs": 235760,
+"text": "Dice: \"Rav Asi amar: 'ad jatzot laitla haya osek be divrei Torá\". Hasta jatzot estudiaba Torá."
+},
+{
+"startMs": 236400,
+"endMs": 247200,
+"text": "\"Mikam va'ila, eshirot u tishbachot\". Desde jatzot en adelante, decía Tehilim y cantaba. De-de David compuso el Tehilim de, desde jatzot en adelante."
+},
+{
+"startMs": 247200,
+"endMs": 255920,
+"text": "¿Tehilim no es de Shlomo? No, Tehilim es de David. Pero no es el Tehilim, no. Shira shirim, eshirot, porque la Gemara dice eshirot ve tishbachot."
+},
+{
+"startMs": 256320,
+"endMs": 262700,
+"text": "Entonces, eshirot es canciones. Y yo dije que esas canciones, las de David, son el Tehilim. Eshirot, sí."
+},
+{
+"startMs": 263820,
+"endMs": 264200,
+"text": "Dice..."
+},
+{
+"startMs": 267000,
+"endMs": 277620,
+"text": "Pregunta la Gemara: \"ve nésef, urta hu\". ¿Qué acaso nésef? Entonces, la Gemara dice así. Entonces, dijimos nésef es el anochecer y jatzot es la medianoche."
+},
+{
+"startMs": 278400,
+"endMs": 285260,
+"text": "Ahora, la Gemara comprobó que nésef es el anochecer por un pasuk. ¿Y cómo se contestó la contradicción de David?"
+},
+{
+"startMs": 285560,
+"endMs": 294240,
+"text": "Es que hasta anochecer, hasta medianoche, dormitaba, luego se paraba como león. Hasta medianoche estudiaba Torá, desde medianoche cantaba."
+},
+{
+"startMs": 295400,
+"endMs": 301420,
+"text": "Ahora, pregunta la Gemara, dice: no, oye, nésef no es medianoche, no es-- no es anochecer."
+},
+{
+"startMs": 302100,
+"endMs": 308360,
+"text": "Dice: \"Ah, nésef tzafrah\", nésef es la mañana. ¿Cómo sabemos que nésef es la mañana?"
+},
+{
+"startMs": 309020,
+"endMs": 321580,
+"text": "Dijtim: \"Vaiaquem David me ha nésef vead ha'éref lemajaratam\". David, en la guerra de Ha'malek les-- los, los golpeó desde el nésef hasta la noche."
+},
+{
+"startMs": 322300,
+"endMs": 332160,
+"text": "Entonces, según eso, ¿qué es desde el nésef hasta la noche? Desde la mañana, del amanecer hasta la noche. ¿Que es desde anochecer hasta anochecer?"
+},
+{
+"startMs": 332700,
+"endMs": 342800,
+"text": "Pues di, dime, erev ad erev. La Gemara lo pregunta, dice: \"Mai la, mi tzafrah leilaia\", que acaso no me dice el pasuk que los golpeó desde la mañana, del amanecer al anochecer."
+},
+{
+"startMs": 343400,
+"endMs": 353080,
+"text": "Lo-- dice: \"me urta ve'ad urta\", de noche a noche. Entonces, puede decir: me nésef ve'ad ha'éref. Que empezó la noche a la otra- Desde el principio de una noche hasta la siguiente noche."
+},
+{
+"startMs": 354720,
+"endMs": 362180,
+"text": "Un día completo empezó al anochecer y terminó al siguiente anochecer. Dice la Gemara: No puede ser, \"iaji lichto ve ha nésef ad ha nésef\"."
+},
+{
+"startMs": 362920,
+"endMs": 370828,
+"text": "Dice: según eso, ponme desde el nésef hasta el nésef o me ha éref ve'ad ha'éref. Desde la noche hasta la noche."
+},
+{
+"startMs": 371188,
+"endMs": 379368,
+"text": "¿Por qué me cambias el idioma desde el néshef hasta el érev? Entonces, se ve que néshef no es érev. Entonces, según eso, néshef es mañana."
+},
+{
+"startMs": 380408,
+"endMs": 386868,
+"text": "Entonces, dice: \"El amarava trey nash ve abu, nashef leilaya ve'ate yemama, nashef yemama ve'ate leilaya\"."
+},
+{
+"startMs": 387328,
+"endMs": 399468,
+"text": "Dice néshef no significa ni anochecer ni a-- ni amanecer. Significa en la transición de que se va el día y entra la noche, se va la noche y entra el día."
+},
+{
+"startMs": 399788,
+"endMs": 403328,
+"text": "Entonces, por eso en un pasuk néshef se usa para hablarlo"
+},
+{
+"startMs": 404788,
+"endMs": 412588,
+"text": "exactamente, el, el cambio. Néshef significa que se salió. Eso-- literal néshef es algo que se sale."
+},
+{
+"startMs": 413108,
+"endMs": 424848,
+"text": "Entonces, se sale la noche y entra el día, se sale el día y entra la noche. Entonces, por eso el pasuk de néshef arriba era el anochecer. Y el pasuk de néshef abajo, de que David los golpeó desde el néshef hasta la noche, fue"
+},
+{
+"startMs": 426128,
+"endMs": 432708,
+"text": "en el, eh, amanecer. Dice: \"Ve-David"
+},
+{
+"startMs": 437508,
+"endMs": 447828,
+"text": "mi abayada palga de leilaya eimat\", que David sabía... O sea, David, como que dice muy claro: \"Oye, nunca pasé un hatsot dormido\"."
+},
+{
+"startMs": 447828,
+"endMs": 452068,
+"text": "¿Cómo David sabe a qué hora exactamente es hatsot?"
+},
+{
+"startMs": 453368,
+"endMs": 457288,
+"text": "Imagínate tú, estás a la-- tú estás a la mitad de la noche,"
+},
+{
+"startMs": 458568,
+"endMs": 459308,
+"text": "no hay reloj."
+},
+{
+"startMs": 460548,
+"endMs": 475008,
+"text": "En el día puedes saber hatsot porque te guías según el sol, pero en la noche no hay-- el tiempo no es-- es completamente artificial, significa que es como que tú lo mides de una manera, no de que el mundo-- En el día, es algo muy interesante."
+},
+{
+"startMs": 475048,
+"endMs": 482308,
+"text": "Se ve la transición. No se ve la transición. El día es tú-- ahorita son las dos de la tarde por cómo está ubicado el sol."
+},
+{
+"startMs": 482988,
+"endMs": 489008,
+"text": "En la noche, el tiempo pasa de una manera como que muy, eh, muy igual todo el tiempo."
+},
+{
+"startMs": 489628,
+"endMs": 499288,
+"text": "Entonces, realmente saber ubicar y distinguir entre tiempos en la noche es imposible. Ahora, saber exactamente cuándo es hatsot es todavía más difícil."
+},
+{
+"startMs": 499888,
+"endMs": 501148,
+"text": "Dice ¿por qué? Dice"
+},
+{
+"startMs": 504348,
+"endMs": 507728,
+"text": "entonces, David no solo es que le calculaba, sabía exacto el momento de hatsot."
+},
+{
+"startMs": 509528,
+"endMs": 515768,
+"text": "Porque lo hacen de, de que son las seis de la tarde. Y lo divides a la mitad."
+},
+{
+"startMs": 516128,
+"endMs": 524868,
+"text": "Las horas que deben ser. Pero quiere decir que David- Estamos hablando que hatsot tiene un mome-- o sea, no era- Un momento- No era la hora seis, era un momento muy específico."
+},
+{
+"startMs": 525888,
+"endMs": 535868,
+"text": "O sea, quiere decir que ha-- ahorita es hatsot- Y en un segundo ya no es hatsot. Y que a diario los sabía ubicar, dice: \"Nunca, nunca estuve en hatsot es-- dormido\"."
+},
+{
+"startMs": 539468,
+"endMs": 546568,
+"text": "Estamos pensando que- Fíjense, David dice: \"Que hatsot laila\". Eh, perdón, el pasuk en Mitzrayim dice: \"Que hatsot laila\"."
+},
+{
+"startMs": 547588,
+"endMs": 554928,
+"text": "Más o menos en hatsot. David no dice: \"Que hatsot laila kum lodot\". Dice: \"Hatsot lail\"."
+},
+{
+"startMs": 555208,
+"endMs": 561948,
+"text": "Dice: \"En hatsot\", dice: \"Llegó hatsot, hasta ahorita Torá y desde ahorita canciones."
+},
+{
+"startMs": 562608,
+"endMs": 571028,
+"text": "En hatsot, hasta ahorita medio me dormitaba y desde ahorita ya no es dormir\". Entonces, y David no dice más o menos en hatsot, como lo dice la Torá, dice: \"En hatsot\"."
+},
+{
+"startMs": 571488,
+"endMs": 578768,
+"text": "Entonces, pregunta la Gemara qué acaso David sabía a qué hora era hatsot. Dice: \"Ve-David mi abayada palga de leilaya eimat."
+},
+{
+"startMs": 579388,
+"endMs": 586228,
+"text": "Hasta Moshé Rabenu lo abayada. Diktiv que hatsot halaila ani otze betoj Mitzrayim\". Si Moshé Rabenu no sabía,"
+},
+{
+"startMs": 587588,
+"endMs": 596588,
+"text": "dice: \"Ma hi que hatsot\", ¿por qué dice el pasuk \"que hatsot\"? En, en, eh, en la Makat Bechorot es como en hatsot."
+},
+{
+"startMs": 596648,
+"endMs": 604488,
+"text": "Así le dijo Hashem a Moshé, ¿por qué Hashem le dijo así a Moshé? Dice: \"Hi lema deamar rekuta brihu que hatsot, mi kasvei ka-kam shmaia\"."
+},
+{
+"startMs": 605548,
+"endMs": 615488,
+"text": "Hashem, obviamente, él sabe exactamente cuándo es hatsot. Entonces, ¿qué dice? Hashem sabe exactamente cuándo es hatsot, Hashem no necesita por él decir como en hatsot."
+},
+{
+"startMs": 616228,
+"endMs": 624428,
+"text": "Dice: \"Ela deamar lebe hatsot\". Hashem le dijo: \"En hatsot\". \"Ve'atai hu veamar que hatsot\"."
+},
+{
+"startMs": 624528,
+"endMs": 628228,
+"text": "Pero vino Moshé, Moshé no quería decir \"en hatsot\""
+},
+{
+"startMs": 632328,
+"endMs": 634788,
+"text": "Muchísimas gracias."
+},
+{
+"startMs": 638608,
+"endMs": 645768,
+"text": "Moisés no quería decir \"en hatsot\", porque Moshé Rabenu no sabía el momento exacto de hatsot."
+},
+{
+"startMs": 646068,
+"endMs": 647748,
+"text": "Entonces, aunque Hashem le dijo \"ve'hatsot\","
+},
+{
+"startMs": 649108,
+"endMs": 656808,
+"text": "Moshé dijo: \"Qué hatsot\". Entonces, cómo David sí se atrevió a decir \"en hatsot\", si ni Moshé sabía."
+},
+{
+"startMs": 658408,
+"endMs": 663228,
+"text": "Dice: \"Alma misfeika le\". Vemos que ni Moshé sabía el momento exacto de hatsot."
+},
+{
+"startMs": 664528,
+"endMs": 667008,
+"text": "Ve David abayada y David contó y todos sí sabían."
+},
+{
+"startMs": 668248,
+"endMs": 669128,
+"text": "Entonces, dice..."
+},
+{
+"startMs": 671408,
+"endMs": 672788,
+"text": "David simana vale."
+},
+{
+"startMs": 674028,
+"endMs": 678328,
+"text": "David tenía una señal que le indicaba cuándo es hatsot. ¿Cuál era la señal?"
+},
+{
+"startMs": 680488,
+"endMs": 687568,
+"text": "Damar rabiah bar bidna, amar rav Simón Hasida, kinor ayata lui le mala mimitató sel David."
+},
+{
+"startMs": 688408,
+"endMs": 705848,
+"text": "David tenía una arpa arriba de su, de su cabecera. Dice: \"Ve kevan shegía hatsot laila\", en el momento que llega el momento de hatsot, \"barruaj tfonit ve nosévet bó u menaguén me eilav\"."
+},
+{
+"startMs": 706548,
+"endMs": 712628,
+"text": "Llegaba un viento del norte, porque la Gemara dice que el viento norte llega en hatsot."
+},
+{
+"startMs": 713628,
+"endMs": 717528,
+"text": "Entonces, David ponía el, el, el arpa"
+},
+{
+"startMs": 719268,
+"endMs": 725308,
+"text": "hacia el viento norte. Entonces, cuando llegaba, soplaba el viento norte en hatsot, entonces su arpa sonaba."
+},
+{
+"startMs": 725968,
+"endMs": 736280,
+"text": "Entonces, era su despertador. Dice Me negué, me la mía, dúo con seis cuatro horas, chalámuda Shajar."
+},
+{
+"startMs": 737160,
+"endMs": 745020,
+"text": "Hasta que llegaba la mañana. Estamos diciendo si David sabía cuándo es Jatzot o no sabía cuándo es Jatzot."
+},
+{
+"startMs": 745340,
+"endMs": 752140,
+"text": "Entonces, pregunta la gemara: Moshé no sabía cuándo es Jatzot, porque Hashem le dijo que él va a decir BeJatzot y Moshé dijo que Jatzot."
+},
+{
+"startMs": 752680,
+"endMs": 761500,
+"text": "Y David haMelej dice: Jatzot Laila Kum Lodot. Pero Moshé sí sabía. La gemara ahorita, luego nomás la gemara adelante va a traer otra explicación."
+},
+{
+"startMs": 761780,
+"endMs": 774040,
+"text": "Pero según esta explicación, Moshé no sabía y David sí sabía. Vamos a explicar algo muy loco acá, algo muy impresionante, que es este, que es este kinor que tenía David,"
+},
+{
+"startMs": 775440,
+"endMs": 780180,
+"text": "que soplaba. ¿Ven? Acá hay algo que se relaciona."
+},
+{
+"startMs": 782140,
+"endMs": 789660,
+"text": "Siempre nos gusta como que armar la gemara de una manera que la gemara transmite mensajes. Va, va, va, vamos a tratar de explicar acá."
+},
+{
+"startMs": 790500,
+"endMs": 797960,
+"text": "Quiere decir así, vamos a encontrar un paralelo muy interesante. Hay algo que Moshé no sabe. ¿Qué es algo que Moshé no sabe?"
+},
+{
+"startMs": 799420,
+"endMs": 819760,
+"text": "El horario exacto de Jatzot. Y es algo que David sí sabe. Otra cosa que hace David y no hace Moshé, o sea, que, que, que Da-- la manera en cómo David detectaba lo que no estaba en el alcance de Moshé, es por medio de su kinor."
+},
+{
+"startMs": 820560,
+"endMs": 826720,
+"text": "Ahora, algo que no está en alcance de Moshé no es, no puede ser una información técnica."
+},
+{
+"startMs": 827040,
+"endMs": 841200,
+"text": "¿Me explico? Si-- Moshé también se le podía ocurrir la idea de poner el, el arpa en el... Entonces, quiere decir que aquí hay algo esencial que David puede llegar, tocar un punto, que Moshé no tocaba ese punto."
+},
+{
+"startMs": 841860,
+"endMs": 852920,
+"text": "Y eso se representaba por medio del arpa que, eh, sonaba en, eh, en, en Jatzot, por medio del Ruaj Tzfonit."
+},
+{
+"startMs": 853320,
+"endMs": 860840,
+"text": "¿Qué es ese Ruaj Tzfonit? Viento norte. ¿Qué sentido tiene un viento norte? Fuera desvelada, ¿no? Fuera desvelada, sí."
+},
+{
+"startMs": 861759,
+"endMs": 863560,
+"text": "Una vez lo hablamos en, en una desvelada."
+},
+{
+"startMs": 864840,
+"endMs": 867960,
+"text": "Está, todo está, gemara. Entonces,"
+},
+{
+"startMs": 869360,
+"endMs": 877760,
+"text": "ruaj. Muy bien. Entonces, acá-- La forma de detectar ese viento. Ese viento, por medio David y por medio del arpa."
+},
+{
+"startMs": 878080,
+"endMs": 888400,
+"text": "O sea, no era, o sea, ¿quién es? A lo mejor... O sea, ¿por qué David? ¿Me explico? Debería ser un científico. O sea, se ve que no, David él puede detectar algo que no detecta Moshé."
+},
+{
+"startMs": 889420,
+"endMs": 897820,
+"text": "Entonces, ¿qué era lo que David detecta que no detecta Moshé? Entonces, David y Moshé son dos mundos, ya lo vimos en la gemara aquí atrás. Eh, la gemara se relaciona con la gemara de atrás."
+},
+{
+"startMs": 898280,
+"endMs": 899120,
+"text": "La gemara de atrás,"
+},
+{
+"startMs": 901120,
+"endMs": 911300,
+"text": "eh, salía algo muy especial que había en David. Moshé Rabenu llega al mundo y con él llega la luz al mundo."
+},
+{
+"startMs": 912020,
+"endMs": 920920,
+"text": "Es como si fuera Moshé, como si fuera él la linterna. ¿Me explico? Entonces, apenas llegó Moshé al mundo y Am Israel ya salieron de Egipto."
+},
+{
+"startMs": 922400,
+"endMs": 930240,
+"text": "En el desierto estaba Moshé en el mundo, Beza Hashem. Si Moshé se muere, entonces los milagros ya bajan de nivel."
+},
+{
+"startMs": 930940,
+"endMs": 932220,
+"text": "La, la Nebua,"
+},
+{
+"startMs": 933680,
+"endMs": 945260,
+"text": "cuando está Moshé, está en el nivel más elevado que puede haber. Significa que donde está Moshé es como si estamos realmente-- Es el proyector de la luz de Hashem en el mundo."
+},
+{
+"startMs": 946660,
+"endMs": 955500,
+"text": "Entonces, Moshé tiene todo, porque no existe, si donde está Moshé, realmente ves la luz de Hashem en cualquier lugar."
+},
+{
+"startMs": 955920,
+"endMs": 962920,
+"text": "Entonces, de una manera increíble, ves la luz de Hashem, entonces, hermoso, increíble. ¿Qué es algo que es imposible que vea Moshé?"
+},
+{
+"startMs": 964280,
+"endMs": 968080,
+"text": "¿Hay algo que es imposible que vea Moshé? La oscuridad. La oscuridad."
+},
+{
+"startMs": 970060,
+"endMs": 978560,
+"text": "Porque Moshé es la linterna. Usted es la fuente de la luz. Tanto así que dice la gemara, el Pasuk dice que cuando nació Moshé, va'ater oto quitó."
+},
+{
+"startMs": 979040,
+"endMs": 985860,
+"text": "Vio que era bueno. ¿Qué es quitó? Como la luz. Vayer elokim et ha'or, quitó. Dice: desde que nació, todo el cuarto se llenó de luz."
+},
+{
+"startMs": 986460,
+"endMs": 994119,
+"text": "Entonces, quiere decir que Moshé no puede conocer la oscuridad, porque él es el que trae la luz al mundo. Entonces, vean qué increíble."
+},
+{
+"startMs": 994700,
+"endMs": 995180,
+"text": "Siempre,"
+},
+{
+"startMs": 997220,
+"endMs": 1004460,
+"text": "el ruaj, el tzafon, siempre se relaciona con el lugar de menos luz."
+},
+{
+"startMs": 1004460,
+"endMs": 1010720,
+"text": "¿Por qué? El tzafon, ¿qué lado es? El norte. ¿De dónde sale el sol?"
+},
+{
+"startMs": 1011340,
+"endMs": 1021400,
+"text": "Del este. Del este. ¿Por dónde llega hacia el oeste? Por el sur. Por el sur. Por el sur. O sea, el-- no, el sol no va así, va así."
+},
+{
+"startMs": 1024480,
+"endMs": 1033579,
+"text": "Pasa por el sur y se me-- darom significa sur. Viene-- es, es el lugar donde vive el sol."
+},
+{
+"startMs": 1034260,
+"endMs": 1046680,
+"text": "Darom es don-- todos los, los puntos cardinales son según el sol, nada más, es el único punto de referencia de los pun-- entonces, entonces, se van a llamar según su relación con el sol."
+},
+{
+"startMs": 1046960,
+"endMs": 1053040,
+"text": "¿Me explico? No hay puntos cardinales que no es lo que está pasando con el sol. Entonces, por eso este, ¿cómo se llama en hebreo?"
+},
+{
+"startMs": 1053780,
+"endMs": 1055460,
+"text": "Mizraj. ¿Qué es Mizraj?"
+},
+{
+"startMs": 1056900,
+"endMs": 1063480,
+"text": "Donde-- pero, ¿qué, qué, qué palabra es Mizraj? Zorea. ¿Qué es Zorea? Donde sale el sol. ¿Sí?"
+},
+{
+"startMs": 1063760,
+"endMs": 1070520,
+"text": "Ma'arav es donde se mete el sol, y darom es donde vive el sol. No entiendo cómo dices que en el sur."
+},
+{
+"startMs": 1071360,
+"endMs": 1077460,
+"text": "No, no, el sur, el sur es el último lugar donde le pega la luz. El sur es- Es lo más lejos del sol."
+},
+{
+"startMs": 1078420,
+"endMs": 1085140,
+"text": "También el norte. No, no, no, el norte. El norte. Vean, está-- de acá sale el sol. No va así. El sol hace así."
+},
+{
+"startMs": 1088180,
+"endMs": 1095100,
+"text": "El sol va así. Chécalo. No, si se ve, si usas se hace así. O sea, si sale así, se mete así."
+},
+{
+"startMs": 1095780,
+"endMs": 1104380,
+"text": "No sale así y se mete acá. Pero se supone que depende la, de la, la estación invierno-verano. Si es más largo, no es más corto, ¿no?"
+},
+{
+"startMs": 1104540,
+"endMs": 1111140,
+"text": "No, sí, pero siempre el sol va a estar, principalmente, la mayoría del tiempo del día, más hacia el sur."
+},
+{
+"startMs": 1111920,
+"endMs": 1119240,
+"text": "Y nunca está ¿en dónde? En el norte. Por eso el sur se llama darom, porque ahí vive el sol. Dirá, ahí vive el sol."
+},
+{
+"startMs": 1119560,
+"endMs": 1120760,
+"text": "¿Y qué significa tzafon?"
+},
+{
+"startMs": 1122120,
+"endMs": 1135800,
+"text": "Tzafun. ¿Qué es tzafun? Escondido. Escondido, oculto. O sea, por eso cuan-cuando se destruye el Bet Hamikdash, dice el Pasuk, el, el Afikoman es tzafun."
+},
+{
+"startMs": 1136060,
+"endMs": 1143955,
+"text": "Es porque el Afikoman se esconde, es tzafun, donde no pasa el sol. Entonces, vean qué interesante. Moshé es la luz, ¿sí?"
+},
+{
+"startMs": 1144235,
+"endMs": 1154295,
+"text": "Tanto así que el pasuk, eh, la Gemara dice: \"Pnei Moshé ki pnei hajamá\". La cara de Moshé era como la del sol. Y David, ve, ¿ven el, el paralelo increíble acá?"
+},
+{
+"startMs": 1154855,
+"endMs": 1158395,
+"text": "Y David, realmente, el punto que él"
+},
+{
+"startMs": 1160195,
+"endMs": 1166715,
+"text": "logra entender que Moshé no llega a entender, se relaciona directamente con qué, con Jatzot."
+},
+{
+"startMs": 1167695,
+"endMs": 1172095,
+"text": "No nada más con Jatzot, más. ¿Qué momento del día es?"
+},
+{
+"startMs": 1173615,
+"endMs": 1178495,
+"text": "Jatzot laila, el momento más oscuro posible que puede haber en el día. Porque cuando"
+},
+{
+"startMs": 1179755,
+"endMs": 1191575,
+"text": "el sol baja, entonces, tipo a las siete todavía estoy cerca de las seis. Y entonces, a la una de la mañana ya estoy cerca a las seis de la mañana, a las once de la noche todavía estoy cerca."
+},
+{
+"startMs": 1191935,
+"endMs": 1210195,
+"text": "A las doce es lo más lejos de los soles que hay. Entonces, realmente, no solo que es el punto más oscuro, sino es también el momento que la Gemara menciona, el ruaj, el viento que viene del norte, el viento que viene del lugar más opuesto al sol."
+},
+{
+"startMs": 1211075,
+"endMs": 1219015,
+"text": "Entonces, vean qué belleza. ¿Qué es el punto que Moshé Rabenu es imposible que lo vea?"
+},
+{
+"startMs": 1221035,
+"endMs": 1227975,
+"text": "El punto de Jatzot. ¿Por qué es el punto de Jatzot imposible que lo vea Moshé Rabenu? Porque él no ve la oscuridad."
+},
+{
+"startMs": 1228635,
+"endMs": 1236355,
+"text": "Todo, hasta un minuto antes de Jatzot, es que, no es que físicamente queda algo de luz, pero se relaciona, es que es el último momento"
+},
+{
+"startMs": 1238155,
+"endMs": 1248555,
+"text": "del final del día. Y después de Jatzot es el primer momento del principio del siguiente día. Jatzot es noche pura, es noche pu- Lo más oscuro del día."
+},
+{
+"startMs": 1248635,
+"endMs": 1257815,
+"text": "Exactamente. Entonces, Moshé puede ver el minuto antes de Jatzot porque se relaciona todavía con el día, pero Jatzot mismo, que es la noche en sí, entonces, no lo puede ver Moshé."
+},
+{
+"startMs": 1258015,
+"endMs": 1265995,
+"text": "¿Y quién sí lo ve? David. Entonces, vean que es, qué belleza. David HaMelej, ¿él vivió una vida de luz o de oscuridad?"
+},
+{
+"startMs": 1266175,
+"endMs": 1274295,
+"text": "Completamente de oscuridad. De oscuridad. David HaMelej vivió una vida sin nada, nada, nada, nada, absolutamente nada."
+},
+{
+"startMs": 1274735,
+"endMs": 1283855,
+"text": "No tenía nada, ¿sí? No nada más que no tenía dinero, no tenía familia, no tenía hermanos, no tenía reputación. La gente pensaba que era el ratero de la ciudad, la gente lo odiaba."
+},
+{
+"startMs": 1284055,
+"endMs": 1292555,
+"text": "Lo dice en Tehilim, dice: \"Tengo más pelos en la cabeza que enemigos\". Di-- Pero tengo más enemigos sin razón que pelos en la cabeza, ¿sí?"
+},
+{
+"startMs": 1293515,
+"endMs": 1299795,
+"text": "David HaMelej, David HaMelej vivió una vida muy, muy, muy difícil. Se hizo rey."
+},
+{
+"startMs": 1301055,
+"endMs": 1315175,
+"text": "Sí, Hashem, Hashem, realmente, eso es, esa es la, la luz que logra ver nada más Hashem, vamos a llamarla así, que es alguien que el que lo veía, veía pura oscuridad, pero nada más Hashem ve la luz que hay en esa persona."
+},
+{
+"startMs": 1315515,
+"endMs": 1325075,
+"text": "Por eso cuando escogen a David como rey, primero pasan todos los hijos de Yishai. El primero era alto, sí, inteligente, así todo."
+},
+{
+"startMs": 1325535,
+"endMs": 1330375,
+"text": "Shmuel dice: \"Pues este es el rey, seguro, si Hashem me mandó acá, pues este es el rey\". ¿Hashem qué le dice? Dice: \"No\","
+},
+{
+"startMs": 1333215,
+"endMs": 1336495,
+"text": ". No lo que ve la persona, ve, ve, ve Hashem ve la persona."
+},
+{
+"startMs": 1338055,
+"endMs": 1338975,
+"text": "Tú ves a los ojos."
+},
+{
+"startMs": 1340755,
+"endMs": 1347635,
+"text": "Dice: \"Yo veo corazones\". David HaMelej nunca tuvo la oportunidad, antes de ser rey, de destacar en algo afuera."
+},
+{
+"startMs": 1348315,
+"endMs": 1355915,
+"text": "Entonces, entonces, si con todo y todo se mantuvo una buena persona, ¿dónde, dónde estaba esa persona, esa bondad?"
+},
+{
+"startMs": 1356515,
+"endMs": 1372315,
+"text": "Nada más en un mundo oculto. David HaMelej no era bueno por un título que tenía, no era bueno por el jesed que hacía, no era bueno por, por, por, por, por, eh, las clases que daba, no era bueno por nada, ningún aspecto."
+},
+{
+"startMs": 1373775,
+"endMs": 1389795,
+"text": "David HaMelej era bueno, era, e-era... Sin ninguna, sin que se refleje esa luz en ningún ámbito y aspecto de la vida, significa que es el que supo encontrar el punto de luz en el momento del Jatzot."
+},
+{
+"startMs": 1391295,
+"endMs": 1399195,
+"text": "Él es el que encontró el punto de luz en el momento del Jatzot, y ese es el que encuentra la esencia de la luz antes de que se revele."
+},
+{
+"startMs": 1400215,
+"endMs": 1408635,
+"text": "Esa es la esencia de la luz antes de que se revele, porque en el momento en que se revela ya no es la esencia, ya se reveló algo específico. David HaMelej es el que encuentra la esencia de la luz antes de que se revele."
+},
+{
+"startMs": 1409075,
+"endMs": 1424195,
+"text": "Entonces, David HaMelej es el que sabía encontrar también en cualquier situación difícil, en cualquier situación oscura, él sabía cómo encontrar, es otra manera de cómo relacionar con Hashem, es otra manera cómo yo, eh, desarrollar mi persona, es otra manera."
+},
+{
+"startMs": 1425235,
+"endMs": 1432835,
+"text": "La, la oscuridad no son sufrimientos, son desafíos, son pruebas, son cosas que hay que hacer."
+},
+{
+"startMs": 1433155,
+"endMs": 1441495,
+"text": "Y entonces, David HaMelej sabía convertir toda esa oscuridad en música. Él sabía tocar la música de, de, de, de la oscuridad."
+},
+{
+"startMs": 1441875,
+"endMs": 1451915,
+"text": "Nunca se trababa, ¿me explico? Sabía caminar en ese mundo, encontrar, sí, la, la luz externa no la sabía encontrar, pero encontró la luz interna y por eso es el Mashíaj."
+},
+{
+"startMs": 1452375,
+"endMs": 1463995,
+"text": "Porque, ¿qué es el Mashíaj? El Mashíaj es cuan-- el mundo, se destruye el Bet Hamikdash, el mundo se hace oscuro y necesitamos a alguien que sepa sacar luz de la oscuridad en sí."
+},
+{
+"startMs": 1465075,
+"endMs": 1471995,
+"text": "Esa es la única manera como llega el Mashíaj, que aun siendo que estamos en Galut, cómo con todo y todo podemos nosotros brillar y sacar luz."
+},
+{
+"startMs": 1472455,
+"endMs": 1481215,
+"text": "Entonces, cuando había Bet Hamikdash, era el mundo de Moshé Rabenu. Había milagros, había esto, había lo otro, había el Bet Hamikdash, había profecía, había todo."
+},
+{
+"startMs": 1481755,
+"endMs": 1488915,
+"text": "Ahora, cuando nos vamos a Galut, no está la luz de Hashem. Y entonces, ¿qué hacemos? ¿Ya? ¿Nos quedamos esperando hasta que llegue?"
+},
+{
+"startMs": 1489735,
+"endMs": 1497395,
+"text": "¿O empezamos a sacar luz? Hacemos jesed, estudiamos Torá, escribimos libros, hacemos jesed. No, pero, pero no se ve la luz de Hashem."
+},
+{
+"startMs": 1497455,
+"endMs": 1509139,
+"text": "No s-- no, no, no, no. Yo puedo en la misma oscuridad realmente encontrar oportunidades que nunca pude encontrar cuando había luz para encontrar La, la, la, la esencia de la luz."
+},
+{
+"startMs": 1509599,
+"endMs": 1515879,
+"text": "Entonces, el kinor que estaba, ¿qué le decía a David? ¿Qué le indicaba"
+},
+{
+"startMs": 1517119,
+"endMs": 1518319,
+"text": "el momento del hatsot?"
+},
+{
+"startMs": 1519959,
+"endMs": 1521599,
+"text": "Es, ponía su arpa."
+},
+{
+"startMs": 1523099,
+"endMs": 1530439,
+"text": "De, de, de brillar. Exactamente. ¿Qué, qué es su arpa? Con lo que hacía el tehilim, con le, con le cantaba a Hashem, con lo que se conectaba con Hashem."
+},
+{
+"startMs": 1530479,
+"endMs": 1541639,
+"text": "Ponía su arpa y hacía que ese ruaj fonit, que es el peor viento que hay, o sea, es el, el viento que viene del norte, el viento de, de las cosas duras, de las difíciles, las malas."
+},
+{
+"startMs": 1542019,
+"endMs": 1548279,
+"text": "Dice: \"Mira, lo único que tú tienes que saber es saber ubicar tu arpa para que suene bonito la música\"."
+},
+{
+"startMs": 1548279,
+"endMs": 1554479,
+"text": "¿Me explico? Ahorita llega este sufrimiento, entonces, ah, lo que-- ah, esto es por acá y esto es por acá y esto es por acá."
+},
+{
+"startMs": 1554719,
+"endMs": 1565459,
+"text": "No existe una situación que no está diseñada a que tú saques luz. Desde el momento que dices: \"No, vino eso a tirarme, vino eso a reventarme, vino eso a que, pa' hacerme sufrir\"."
+},
+{
+"startMs": 1565899,
+"endMs": 1577459,
+"text": "Dice: \"No, siempre\", David HaMelej dice: \"Tú nada más necesitas saber ubicar bien el arpa, ponerla en el lugar exacto, que cuando llegue eso, entonces no es sufrimiento, es una prueba."
+},
+{
+"startMs": 1577879,
+"endMs": 1591859,
+"text": "No es, no es desconexión, es conexión. No es, eh, eh, eh, eh...\". Así, todo lo que uno puede, toda la luz que uno puede encontrar en la oscuridad, ese es el arpa de David, que él ra-realmente la ponía."
+},
+{
+"startMs": 1592399,
+"endMs": 1605419,
+"text": "No sé si es literal o no, ahorita entendemos cuál es el tema más del arpa, ¿sí? Entonces, que David, lo que lo despertaba en hatsot y que, y que dice: \"Yo nunca pasé un hatsot dormido\"."
+},
+{
+"startMs": 1605499,
+"endMs": 1611899,
+"text": "¿Qué vino a David a decir que nunca pasó un hatsot dormido? Que nunca, alguna oscuridad- Exactamente. No la recorrió. Exactamente."
+},
+{
+"startMs": 1612199,
+"endMs": 1620499,
+"text": "Que nunca tuvo un momento, que era el momento que todos están dormidos. Nadie sabe cómo encontraron la luz, que yo no sabía encontrar la luz en ese momento."
+},
+{
+"startMs": 1620699,
+"endMs": 1635819,
+"text": "Entonces, por eso David HaMelej apenas llegaba a hatsot se paraba como un león, porque él era ese león de encontrar la, eh, esa era la valentía de David HaMelej, que no lo tiraba ninguna situación difícil, ninguna situación oscura, ese era David HaMelej."
+},
+{
+"startMs": 1636179,
+"endMs": 1640239,
+"text": "Entonces, ¿qué es este ni-- kinor? ¿Qué es este kinor? Te tienes que ir. Me quiero ir."
+},
+{
+"startMs": 1644119,
+"endMs": 1646739,
+"text": "¿Qué es el, qué es el kinor? ¿Qué es?"
+},
+{
+"startMs": 1648219,
+"endMs": 1669639,
+"text": "Me está conozando, me está diciendo que me quiero ir. Bueno, escucha más qué es el kinor. Si ya lo decimos de una, de un sentido no literal, que era el arpa literal, y era un despertador que llegaba, sino es el hecho que él sabía poner ese kinor, es, es hacerle música realmente a, a cualquier situación difícil."
+},
+{
+"startMs": 1670299,
+"endMs": 1684199,
+"text": "Entonces, ¿qué era el kinor? Si no es el kinor físico. Una filosofía de vida. Esa filosofía de vida se llama, David HaMelej dice, el Gaón de Vilna: \"Kinor son dos palabras: ner y javhev, javav\"."
+},
+{
+"startMs": 1685219,
+"endMs": 1691799,
+"text": "Kinor es ner, javav. Es junto, ¿sí? Entonces, están las dos."
+},
+{
+"startMs": 1691959,
+"endMs": 1698399,
+"text": "¿Qué es javav? Veintiséis, que es el nombre de Hashem. Entonces, ¿qué es ner Hashem? Un pasuk, la vela de Hashem."
+},
+{
+"startMs": 1698399,
+"endMs": 1706739,
+"text": "¿Qué es la vela de Hashem? Nishmat Adam. La neshama de la persona es la vela de Hashem. Entonces, David HaMelej, dijimos, ¿sabes?"
+},
+{
+"startMs": 1707539,
+"endMs": 1710299,
+"text": "La neshama siempre es luz."
+},
+{
+"startMs": 1712339,
+"endMs": 1719359,
+"text": "La neshama es tu esencia pura, es la fuente de la luz. Cuando se expresa, se llama ruaj, ¿sí?"
+},
+{
+"startMs": 1719499,
+"endMs": 1721499,
+"text": "Es cuando se expresa la neshama, cómo se,"
+},
+{
+"startMs": 1724539,
+"endMs": 1733679,
+"text": "se, se, se interactúa en el mundo, entonces es cómo esa neshama brilló. Por ejemplo, todas las personas tienen neshama, todas las personas tienen una luz."
+},
+{
+"startMs": 1734359,
+"endMs": 1742699,
+"text": "Él la destaca haciendo jesed, él sabiendo, eh, eh, eh, alegrando a la gente, el otro estudiando, el otro con tzedakah."
+},
+{
+"startMs": 1743159,
+"endMs": 1753579,
+"text": "Entonces, pero la fuente esencial de todo es la neshama. La manera en como tú le das forma a la neshama, eso es el ruaj."
+},
+{
+"startMs": 1754659,
+"endMs": 1763639,
+"text": "Es la que te despierta, según esto es la que te despierta, es la que te da el primer... Es que, es que... El kinor es el que despertaba a David HaMelej."
+},
+{
+"startMs": 1763879,
+"endMs": 1773659,
+"text": "¿Eh? El kinor es el que despertaba a David HaMelej. Sí. Si la, si, si comparamos con el ner Hashem, pues la neshama es la que despierta a la persona."
+},
+{
+"startMs": 1773739,
+"endMs": 1776499,
+"text": "Claro, claro. Cuando te despiertas, ¿qué dices?"
+},
+{
+"startMs": 1780479,
+"endMs": 1790819,
+"text": "Es el poeta de, de Halah, de Ela, es el primero. Sí. Primero te despiertas de arriba, es, te entiendes. O sea, David HaMelej como que nunca se desconectó de su, de su neshama y por eso no dormía."
+},
+{
+"startMs": 1791099,
+"endMs": 1799959,
+"text": "Esto es lo que la Gemara nos está diciendo acá. ¿Cómo le hacía David para no dormir? Porque él no conocía la noche, él siempre hacía de, de la noche día."
+},
+{
+"startMs": 1800519,
+"endMs": 1808279,
+"text": "Y para eso él necesitaba vivir constantemente en un estado que se llama neshama, que es algo increíble. ¿Cómo le haces, sí?"
+},
+{
+"startMs": 1808279,
+"endMs": 1814639,
+"text": "¿Cómo le haces para no perder tu valor cuando todo el mundo piensa que eres el ratero de la ciudad?"
+},
+{
+"startMs": 1817039,
+"endMs": 1820639,
+"text": "O sea, pero pregúntale a David HaMelej: \"Oye, David, ¿te vas a casar?\""
+},
+{
+"startMs": 1823159,
+"endMs": 1829919,
+"text": "Claro, sí, con una mamzer. ¿Eh? Pues él diría, pues a otra persona le dijo: \"Sí, con una mamzer\". Claro, si una persona normal, imposible."
+},
+{
+"startMs": 1830339,
+"endMs": 1838239,
+"text": "Oye- Le hubiera dicho: \"Claro\". ¿Va a hacer un negocio? ¿Va a hacer un negocio en tu vida? ¿Quién va a hacer un negocio con el, el ratero de la ciudad?"
+},
+{
+"startMs": 1838239,
+"endMs": 1847539,
+"text": "¿Quién va a hacer un negocio con el ratero, con, con el mamzer, con el ratero de la ciudad? Entonces, ¿cómo le hace David para no perder nunca su valor?"
+},
+{
+"startMs": 1848079,
+"endMs": 1862019,
+"text": "Es como que su único refugio es su neshama. Significa que mi valor real no es ni el título, ni la aprobación, ni nada externo de la gente, sino es algo que yo ya tengo."
+},
+{
+"startMs": 1862539,
+"endMs": 1870839,
+"text": "¿De dónde, David, de dónde va a sacar alegría? ¿Sí? Yo aprendí, David te va a decir, que la alegría no lo recibo de los aplausos de los demás."
+},
+{
+"startMs": 1871299,
+"endMs": 1877999,
+"text": "La alegría es algo que yo la tengo en mi, en mi, en mi esencia Y todos realmente tenemos eso."
+},
+{
+"startMs": 1877999,
+"endMs": 1888199,
+"text": "¿Quién dijo que vas a brillar? Brillo. No porque a él no lo vea significa que no brillo. No sign-- no porque el otro me eche basura significa que yo soy un bote de basura, ¿sí?"
+},
+{
+"startMs": 1889499,
+"endMs": 1897919,
+"text": "Ese es nuestro error, ¿sí? Piensas: \"El otro te echa basura\" y piensas que eres un bote de basura. No, un bote de basura es eso, tú no eres eso. Si el otro te ha hecho basura, no significa que eres un bote de basura."
+},
+{
+"startMs": 1898359,
+"endMs": 1898899,
+"text": "Y entonces,"
+},
+{
+"startMs": 1900399,
+"endMs": 1915559,
+"text": "aquí es cuando David toca el punto más profundo dentro de él, que es la neshamá, que es la luz que no necesita brillar para ser luz, la alegría que no necesita realmente venir de afuera para ser alegría."
+},
+{
+"startMs": 1915919,
+"endMs": 1921979,
+"text": "Y David ha-melej hacía de todas las cosas de su vida teilín, es algo loco, ¿me explico?"
+},
+{
+"startMs": 1922319,
+"endMs": 1931599,
+"text": "¿Cómo es teilín? ¿Cómo es teilín? Entonces, entonces, entonces, David tocó el punto de la neshamá y ya que tocó el punto de la neshamá,"
+},
+{
+"startMs": 1933159,
+"endMs": 1937999,
+"text": "real, o sea, literal, literal, literal, no dormía, porque en la mañana,"
+},
+{
+"startMs": 1939319,
+"endMs": 1948719,
+"text": "lo que cuando te despiertas dices: \"Hashem, gracias que me regresaste la neshamá\". Pero el que vivía, el que no se desprendía de eso, entonces, ahí vivía."
+},
+{
+"startMs": 1949359,
+"endMs": 1954659,
+"text": "Y por eso David, Hashem lo escoge como rey. Dice: \"Tú eres el...\""
+},
+{
+"startMs": 1956039,
+"endMs": 1962339,
+"text": "Es algo muy profundo. ¿Qué hace, qué hace que seas humilde?"
+},
+{
+"startMs": 1963599,
+"endMs": 1972599,
+"text": "Todos destacan en algo. ¿Qué hace que seas humilde? Entender que lo que tú tienes también lo tiene el otro, nada más que lo está expresando de diferente manera."
+},
+{
+"startMs": 1972759,
+"endMs": 1980079,
+"text": "¿Me explico? La luz que tú tienes también la tiene el otro. Nada más que en él, la neshamá y la ne..."
+},
+{
+"startMs": 1980459,
+"endMs": 1990339,
+"text": "A nivel neshamá, tú no vales más que yo, yo no valgo más que tú. Es lo que dijo Coré: \"Kulam tsoshvim b'yado Hashem\". Entonces, a nivel neshamá no hay ni una diferencia entre nadie."
+},
+{
+"startMs": 1990859,
+"endMs": 2000599,
+"text": "Todos realmente tienen ese punto. Nuestro trabajo es creérnoslas, ¿sí? Entonces, el que se la cree, nuestro trabajo es creérnoslas."
+},
+{
+"startMs": 2000659,
+"endMs": 2015179,
+"text": "Y entonces, el que se la cree la va a hacer brillar. Algo más actual, pero... O sea, la gente que vivía en la Shoá, por ejemplo, que se apegó a Hashem y que salía adelante y que creía y todo, tipo David ha-Melej, o sea, son, son historias que..."
+},
+{
+"startMs": 2016079,
+"endMs": 2027239,
+"text": "Tocó puntos muy profundos, sí. Gente que de verdad no, estaba viviendo cosas que, que no había, no había, no, no, no había manera de ver la luz, no existía, no había única luz, no se no veía la luz, no existía."
+},
+{
+"startMs": 2028599,
+"endMs": 2036159,
+"text": "Y aun así se apega a Hashem, es llegar tocar el, el, el kidur, el detalle de Hashem. Sí. Y apegarte a Hashem también es no perder tu valor."
+},
+{
+"startMs": 2037419,
+"endMs": 2045179,
+"text": "No perder tu valor. Aunque te están des-deshumanizando, te convierten en un número, te deshumanizan completamente."
+},
+{
+"startMs": 2045379,
+"endMs": 2053799,
+"text": "Te desvalorizan. Entonces, ahí es el que enseña David ha-Melej cómo no existe, no existe algo que realmente te haga perder tu valor."
+},
+{
+"startMs": 2054719,
+"endMs": 2061359,
+"text": "Y entonces, sale que David ha-Melej no trae una luz específica, trae al mundo la fuente de todas las luces."
+},
+{
+"startMs": 2062418,
+"endMs": 2068279,
+"text": "Entonces, David y Moisés es lo mismo. David y Moisés es todas las luces juntas. David es"
+},
+{
+"startMs": 2069799,
+"endMs": 2079759,
+"text": "Moisés antes de que... La luz que no es. La luz que-- la que va a salir. Y Moisés es la que refleja realmente, el que refleja, refleja la luz de Moisés."
+},
+{
+"startMs": 2079979,
+"endMs": 2080879,
+"text": "Y cada uno y uno"
+},
+{
+"startMs": 2082299,
+"endMs": 2089599,
+"text": "es un tipo de luz específica. Claro, es necesario. Sí. Entonces, por eso el Mashíaj tiene que ser David. Por eso el Mashíaj tiene que ser David."
+},
+{
+"startMs": 2090179,
+"endMs": 2096299,
+"text": "Porque- Porque venimos de la Geltopt, porque el mundo está en el que está completamente..."
+},
+{
+"startMs": 2096859,
+"endMs": 2105619,
+"text": "El Mashíaj se va a tratar de una cosa. El Mashíaj necesita pasar una cosa, una cosa y todo el mundo va a cambiar:"
+},
+{
+"startMs": 2107419,
+"endMs": 2121419,
+"text": "que de verdad te la creas, que de verdad te la creas, que tienes neshamá. En el momento que de verdad te la crees que tienes neshamá y todos de verdad se la creen que tienen neshamá, entonces todos entrarían en un estado de alegría."
+},
+{
+"startMs": 2122779,
+"endMs": 2132839,
+"text": "Todos verían no nada más que tienes algún propósito y algún sentido en la vida, sino realmente que tienes una luz inmensa dentro de ti."
+},
+{
+"startMs": 2133439,
+"endMs": 2134579,
+"text": "Y entonces, en ese momento,"
+},
+{
+"startMs": 2136199,
+"endMs": 2137139,
+"text": "les voy a poner un ejemplo."
+},
+{
+"startMs": 2139499,
+"endMs": 2140199,
+"text": "Si alguien roba"
+},
+{
+"startMs": 2141939,
+"endMs": 2149019,
+"text": "es porque nunca creyó que él iba a poder trabajar y tener éxito. ¿Estás de acuerdo?"
+},
+{
+"startMs": 2150379,
+"endMs": 2159039,
+"text": "Si él creería que de verdad- Tener eso de otra manera. Que realmente él, como puedes brillar, o sea, eres brillante."
+},
+{
+"startMs": 2159239,
+"endMs": 2165538,
+"text": "Imagínate a Benjen con esto como él. Como tú nada más te metes a los negocios, vas a brillar, ¿sí? No, yo voy a robar."
+},
+{
+"startMs": 2165559,
+"endMs": 2168739,
+"text": "¿Por qué? ¿Por qué? Brilla."
+},
+{
+"startMs": 2170659,
+"endMs": 2178299,
+"text": "El, todo lo que hace el Yetser hará es desvalorizarte para que encuentres luz en otros lugares."
+},
+{
+"startMs": 2179038,
+"endMs": 2200079,
+"text": "Es, es, pienses que realmente no tienes tu luz y pienses que la vas a encontrar en otros lugares. Entonces, cuando llega el Mashíaj es realmente cuando, otra vez, si realmente buscas todo tipo de alegrías externas que no valen de verdad, porque no te la crees que de verdad lo puedes tener en, en un nivel altísimo."
+},
+{
+"startMs": 2200679,
+"endMs": 2207979,
+"text": "Entonces, si todos de verdad se la creerían, que es lo que va a hacer el Mashíaj, es lo que hace David ha-Melej, o sea, si todos nos conectamos con la esencia de David ha-Melej,"
+},
+{
+"startMs": 2209439,
+"endMs": 2210879,
+"text": "entonces, entonces"
+},
+{
+"startMs": 2212959,
+"endMs": 2214479,
+"text": "no- Se acabó el juego."
+},
+{
+"startMs": 2215719,
+"endMs": 2221159,
+"text": "Se acabó el juego en el aspecto de que se acabó y empezó. Decía, no, era Hamnasan que decía"
+},
+{
+"startMs": 2222379,
+"endMs": 2230919,
+"text": "que el juego con Hashem de encontrar a Hashem es como el juego del escondite. Cuando ya lo encontraste, ya no, ya no juegas, se destapa, sale."
+},
+{
+"startMs": 2231359,
+"endMs": 2234959,
+"text": "Sí. Sin contar son lo mismo. Por eso necesita el Yetser Hará."
+},
+{
+"startMs": 2236339,
+"endMs": 2243219,
+"text": "Lo que estoy diciendo del Yetser Hará- Ya no hay juego. Todos encontramos a Hashem al cien por ciento. Pero el que más jugó el juego fue David."
+},
+{
+"startMs": 2243439,
+"endMs": 2249739,
+"text": "Por eso. El que más jugó el juego fue David. Pero lo jugó, pero lo encontró. Sí, pero en verdad, en verdad no es que-"
+},
+{
+"startMs": 2250999,
+"endMs": 2255779,
+"text": "Ganó el juego. Ganó el juego. En todas sus batallas. Ganó el juego. No, entonces el Mashíaj significa--"
+},
+{
+"startMs": 2257219,
+"endMs": 2265179,
+"text": "David significa que es el que le enseña a todos que puedes ganar el juego porque ya lo tienes. O sea, lo tienes adentro y puedes ganar el juego."
+},
+{
+"startMs": 2265499,
+"endMs": 2271679,
+"text": "Entonces, realmente cuando llega el Mashíaj es cuando va a empezar el juego. Con todos de verdad, ¿qué pasaría si todos de verdad se la creen?"
+},
+{
+"startMs": 2272699,
+"endMs": 2279659,
+"text": "Que, o sea, flojeas. ¿Y por qué flojeas? ¿Qué va a salir de mí? ¿Qué tanto voy a hacer? ¿Qué tanto?"
+},
+{
+"startMs": 2280325,
+"endMs": 2285125,
+"text": "¿Qué pasaría si todos se la creyeron? ¿Qué pasa si todos, todos, todos se la creyeron? ¿Cómo sería el mundo?"
+},
+{
+"startMs": 2286465,
+"endMs": 2292885,
+"text": "Sí, no habría envidia. ¿Por qué necesitas lo que tiene? ¡Tienes todo! Tienes bri-- tú tienes todo, no necesitas lo que tiene él."
+},
+{
+"startMs": 2293325,
+"endMs": 2299405,
+"text": "Todos serían felices, ¿sí? Todos sacarían su máxima. To-todos- No sería, pero no va."
+},
+{
+"startMs": 2299805,
+"endMs": 2307025,
+"text": "Todos sacarían toda la luz que tienen adentro, toda la sacarían. No serías flojo, darías todo lo tuyo, brillarías."
+},
+{
+"startMs": 2307285,
+"endMs": 2315965,
+"text": "Entonces, el mundo se llenaría de tu luz. ¿Y qué pasa si el mundo se llenara de la luz de todos? Entonces el mundo se llenará de la luz de Hashem, porque todos dentro de ti tienen la luz de Hashem."
+},
+{
+"startMs": 2316205,
+"endMs": 2323225,
+"text": "¿Hashem dónde va a llegar? De acá, de todos, de todos los acás que hay. Y es lo que-- es todo nuestro trabajo nada más es hacer eso."
+},
+{
+"startMs": 2323705,
+"endMs": 2331105,
+"text": "No sería Moshé. ¿Mmm? No sería Moshé. ¿Qué? Ya habría, ya habría una, ya habría luz."
+},
+{
+"startMs": 2331465,
+"endMs": 2338285,
+"text": "Claro, Mashíaj puede ser que- Pasaríamos, pasaríamos de David a Moshé. Exacto. Sí, exactamente. Ya, tú ahora tú ya eres reflector."
+},
+{
+"startMs": 2338585,
+"endMs": 2350585,
+"text": "Exactamente. Pero la única manera de ser Moshé es- Entendiéndote como David. Siendo David. Entonces, todo el galut, todo el galut es cuando nosotros necesitamos trabajar en ser David."
+},
+{
+"startMs": 2350905,
+"endMs": 2360245,
+"text": "Y entre más te la creas acá que eres David, entonces más allá vas a ser Moshé. Exactamente, esa es la fórmula del, del galut y la geulá."
+},
+{
+"startMs": 2360465,
+"endMs": 2366785,
+"text": "Que era cuando vimos el, cuando estudiamos el tema del efecto que les dije que- Im Libiatán. Sí, exactamente, sí, a eso me refiero."
+},
+{
+"startMs": 2366805,
+"endMs": 2374125,
+"text": "Él entendió exactamente eso, ¿te acuerdas? Sí. Es eso. Si entiendes que Hashem está probándote, él está haciendo eso contigo,"
+},
+{
+"startMs": 2375985,
+"endMs": 2377085,
+"text": "es mucho más fácil competir."
+},
+{
+"startMs": 2379925,
+"endMs": 2387665,
+"text": "Sí. Está a tu alcance. Eso es, como dijiste, no hay jugar si no está a tu alcance, si no es a tu nivel. ¿Estás listo para recibir lo que te, lo que te llegó?"
+},
+{
+"startMs": 2389065,
+"endMs": 2395565,
+"text": "O sea, piénsalo, de verdad. O sea, es algo increíble, pero a ver, a ver, piénsalo. ¿Hashem es lo máximo? Sí, lo máximo."
+},
+{
+"startMs": 2395905,
+"endMs": 2406205,
+"text": "Do-don-- si, si ahorita ven a Hashem brilla, sería el más inteligente, sería el más, eh, ¿sí? ¿Y qué, qué, qué pasa si de verdad te dicen que Hashem se revela en el mundo por medio de ti?"
+},
+{
+"startMs": 2406485,
+"endMs": 2406865,
+"text": "O sea, la"
+},
+{
+"startMs": 2409705,
+"endMs": 2417465,
+"text": "Y tú tienes eso. Tienes eso. Tienes-- deja de pensar que no vas a brillar en el mundo. Deja de pensar que vas a ser un fracaso. Deja de pensar todas las tonterías que estás pensando."
+},
+{
+"startMs": 2417505,
+"endMs": 2427205,
+"text": "Deja de pensar que no vales, porque Hashem vale. Entonces, si dejas de creer en ti, dejas de creer en Hashem, porque realmente Hashem se decidió revelar en el mundo por medio de ti, y por eso te dio la neshamah."
+},
+{
+"startMs": 2427745,
+"endMs": 2433865,
+"text": "Entonces, ¿qué pasa si todos nos las creeríamos de eso, pero de verdad? ¿Sí? Mashíaj."
+},
+{
+"startMs": 2434625,
+"endMs": 2435865,
+"text": "Eso es el Mashíaj. El mundo..."
+},
+{
+"startMs": 2437385,
+"endMs": 2443285,
+"text": "Está más, está más difícil la, está más difícil el temoshá que acabas de plantear que el que yo tenía en mis manos."
+},
+{
+"startMs": 2444645,
+"endMs": 2457885,
+"text": "Sí. La geulá está... Es, es que ese es, es algo impresionante. O sea, si yo tenía mi, mi, mi traje en mi clóset del, de-de-del Mashíaj para cuando llegara para Principito y la Yeshuá, ahorita siento que ya chance y agarro una corbata."
+},
+{
+"startMs": 2459725,
+"endMs": 2467565,
+"text": "Sí, o sea, que todo el mundo- No es que llega una luz de arriba y se arregla el mundo. Lo-- el que va a arreglar el mundo somos nosotros."
+},
+{
+"startMs": 2467605,
+"endMs": 2479705,
+"text": "Sí, pero- Y somos nosotros haciendo, creyéndonos lo que somos nosotros. Por eso va a existir alguien que se va a llamar Moshé también, que, que está escrito porque tiene que haber un despertar que haga despertar a todos."
+},
+{
+"startMs": 2479745,
+"endMs": 2486545,
+"text": "Porque no na' más, no na' más los que estamos medio conectados con Hashem está-- es, es difícil llegar al nivel de Abraham, ¿eh?"
+},
+{
+"startMs": 2486585,
+"endMs": 2491565,
+"text": "Ahora, ahora súmale todo el mundo, o sea, toda la gente, todos de Israel."
+},
+{
+"startMs": 2492885,
+"endMs": 2509065,
+"text": "Alguien tiene que hacer despertar a la... nos tiene que hacer despertar. Pero, o sea, en lo, en lo, en base a lo que, a lo que estás diciendo, también, también para que, para que exista este, este personaje que se llama Mashíaj, tiene que haber el que, el que cree que hay..."
+},
+{
+"startMs": 2510105,
+"endMs": 2517105,
+"text": "Sí, claro. No sé si me estoy explicando. Claro, claro. O sea, es igual- O sea, el personaje que se llama Mashíaj, por definición tiene que ser- Los que le van a creer."
+},
+{
+"startMs": 2517105,
+"endMs": 2525625,
+"text": "¡Claro! Si no crees que existe esto- No va a llegar, no viene esa persona. No va a llegar, porque no lo puedes ver. Está bien, pero a nivel, a nivel, eh, global..."
+},
+{
+"startMs": 2526185,
+"endMs": 2532225,
+"text": "Sí. Suena... Pero ¿quién va, quién va a ser el primero en venir? Misión imposible. Pero ¿quién va a ser el pri--? O sea, es lo, pero es que es lo mismo."
+},
+{
+"startMs": 2532625,
+"endMs": 2542545,
+"text": "O sea, vas a venir con David, vas a venir con David. Te va a decir, vas a, vas a venir con David. Vas a decir: \"Oye\", te va a decir David: \"Oye, Gi, ¿cuál era tu problema?"
+},
+{
+"startMs": 2542545,
+"endMs": 2552065,
+"text": "O sea, ¿por qué sufriste tanto? ¿Por qué?\" \"Ah, porque tuve un rollo acá\". \"Ya venía a partirse, y llegó el Mashíaj\"."
+},
+{
+"startMs": 2553465,
+"endMs": 2557505,
+"text": "Yo lo pasé, yo también lo pasé. Soy el Mashíaj. Significa:"
+},
+{
+"startMs": 2558965,
+"endMs": 2565105,
+"text": "puedes, lo tienes, sácalo, créetela y sácalo. ¿Sí? Entonces, el-- ¿quieres ser el Mashíaj?"
+},
+{
+"startMs": 2565405,
+"endMs": 2573085,
+"text": "Sí, claro que lo recibo. No, no, no. El Mashíaj es el que nos va a enseñar a todos quiénes somos. Es que es el mismo con-- para mí es el mismo concepto."
+},
+{
+"startMs": 2575385,
+"endMs": 2576345,
+"text": "Para mí es el mismo... O sea,"
+},
+{
+"startMs": 2577585,
+"endMs": 2578645,
+"text": "es igual de difícil"
+},
+{
+"startMs": 2579865,
+"endMs": 2588865,
+"text": "que todos, que todos encontremos esa luz, a que todos creamos que ha-- ya llegó alguien que representa esa luz."
+},
+{
+"startMs": 2590205,
+"endMs": 2596665,
+"text": "O sea, tienes que comprar la idea de que existe esa luz y de que... Claro, claro. No sé cómo, no sé, no sé cómo bajarlo."
+},
+{
+"startMs": 2596705,
+"endMs": 2606545,
+"text": "No, está perfecto. O sea, si no das tú, si no hay el primer paso de que, de que, de que tú creas que eso existe y que se puede llegar a ese punto, ese punto no va a llegar, esa, esa persona, o sea, esa guemara."
+},
+{
+"startMs": 2606545,
+"endMs": 2608865,
+"text": "¿Qué hemos dicho del burro?"
+},
+{
+"startMs": 2610125,
+"endMs": 2615685,
+"text": "El burro, aquí atrás apareció el burro. Mashíaj viene en burro. Viene en burro, sí. La humildad. La humildad."
+},
+{
+"startMs": 2618225,
+"endMs": 2624705,
+"text": "El homer. El homer es que, que está abierto a todo y que es gris. Es moldeable. Es moldeable y que... Otra vez."
+},
+{
+"startMs": 2625625,
+"endMs": 2629385,
+"text": "Es el homer. El homer es-- el Mashíaj tiene que tener como que..."
+},
+{
+"startMs": 2631005,
+"endMs": 2639185,
+"text": "No tienes ningún límite, ¿me explico? El homer es como la materia en sí que puede tomar cualquier forma posible. Hoy fui con alguien, estuve un rato con él."
+}
+]
+}

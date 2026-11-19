@@ -1,0 +1,2796 @@
+{
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+"segments": [
+{
+"startMs": 100,
+"endMs": 2860,
+"text": "¿Pueden ver? Meguila Javav. ¿Tienen cómo abrir? Sí."
+},
+{
+"startMs": 5960,
+"endMs": 7620,
+"text": "Meguila Javav."
+},
+{
+"startMs": 13540,
+"endMs": 17100,
+"text": "Por primera vez en la jerga de Berajot hace la . Vámonos."
+},
+{
+"startMs": 19300,
+"endMs": 20040,
+"text": "Casi abajo."
+},
+{
+"startMs": 25180,
+"endMs": 25920,
+"text": "Tanakama."
+},
+{
+"startMs": 27140,
+"endMs": 28220,
+"text": "Bamai kamiflege."
+},
+{
+"startMs": 30680,
+"endMs": 35240,
+"text": "Tienes Meguila, Jaf, Vav, amud Alef. Ahí abajo, Bamai,"
+},
+{
+"startMs": 37620,
+"endMs": 38760,
+"text": "Bamai kamiflege."
+},
+{
+"startMs": 40380,
+"endMs": 46400,
+"text": "Sí. ¿Hay o no hay? Sí."
+},
+{
+"startMs": 46420,
+"endMs": 55740,
+"text": "Bueno, dice así. ¿Tienen o no?"
+},
+{
+"startMs": 56840,
+"endMs": 60980,
+"text": "La verdad todavía no, pero tú empieza. No, no. Ya lo vimos. Tanakama Sabar."
+},
+{
+"startMs": 62900,
+"endMs": 63320,
+"text": "Dice..."
+},
+{
+"startMs": 66520,
+"endMs": 74580,
+"text": "Tanaka-- Bamai kamiflege. Tanakama Sabar lo nitalka Jerusalén leshvatim. Rabió de Sabar nitalka Jerusalén leshvatim."
+},
+{
+"startMs": 75240,
+"endMs": 82940,
+"text": "Entonces, ¿ahí Jerusalén es-- pertenece a alguien específico o es najalá de todos? Mmm, okey."
+},
+{
+"startMs": 83300,
+"endMs": 91360,
+"text": "Entonces, Tanaka dice: «No, es de todos». Rabí Yehuda dice: «No, es de alguien específico». Nitalka Jerusalén leshvatim. Uplugta de Anatanaya, de Tania."
+},
+{
+"startMs": 92240,
+"endMs": 99580,
+"text": "Mahaya vechelcoshel Yehuda. Que Tania-- fíjense, que está hablando ahora es rabí Yehuda, ¿no? Entonces, Mahaya vechelcoshel Yehuda."
+},
+{
+"startMs": 100960,
+"endMs": 111680,
+"text": "Harabaid, Halishkot veha'azarot. Entonces, Yehuda tenía Harabaid, las Ishkot y las Azarot, que es como que lo más externo ahí."
+},
+{
+"startMs": 112100,
+"endMs": 120040,
+"text": "Me explican un poquitito. Está hablando nada más de, de... De, y la tiga de Jerusalén. Jerusalén, el lugar del Bet Hamikdash."
+},
+{
+"startMs": 120720,
+"endMs": 133800,
+"text": "Umahaya vechelcoshel Benjamín, Ulam, Vehejal uveit kodsheha kodashim. Entonces, tenía estas tres cosas Benjamín, que es lo más, más mimi del, del Bet Hamikdash."
+},
+{
+"startMs": 134660,
+"endMs": 138100,
+"text": "Dice: Urutzua itayo tzadt mijelco"
+},
+{
+"startMs": 140020,
+"endMs": 140880,
+"text": "shel Yehuda."
+},
+{
+"startMs": 142300,
+"endMs": 148620,
+"text": "Y como que de Yehuda se jalaba como una retzuá. ¿Sí?"
+},
+{
+"startMs": 148660,
+"endMs": 162000,
+"text": "O-- de, de terreno, que era todavía de Yehuda, pero ya como que entraba ya al terreno de Benjamín. O sea, no es que era una frontera así una a otra, sino de Yehuda se jalaba una parte que todavía sigue-- una fra-- sí, exactamente."
+},
+{
+"startMs": 162420,
+"endMs": 168240,
+"text": "Una franja, tipo, que todavía era de Yehuda y entraba al jelek de Benjamín. Dice:"
+},
+{
+"startMs": 172720,
+"endMs": 174160,
+"text": "Uba mizbeaj banui."
+},
+{
+"startMs": 176160,
+"endMs": 182560,
+"text": "Iais tabal bizmeaj banui. Vaia Benjamín hazadik mitsaer alea vejol yom lebolaa."
+},
+{
+"startMs": 185120,
+"endMs": 185360,
+"text": "No."
+},
+{
+"startMs": 187880,
+"endMs": 193720,
+"text": "Pero Benjamín haya, haya mitsaer kol este. ¿Bolaa? ¿Lashon beila? De blia."
+},
+{
+"startMs": 195420,
+"endMs": 201980,
+"text": "No, pero mitsaer, mitsaer. Habíamos visto- Ah, Benjamín. Es, es un primer renglón grande, de hecho, mitsaer también creo que es otro."
+},
+{
+"startMs": 202020,
+"endMs": 204080,
+"text": "Mitsaer, jol yom, jol yom."
+},
+{
+"startMs": 206080,
+"endMs": 212560,
+"text": "Aquí dice... ¿Cómo dice nuestra cámara? También dice jol yom. Tanana, Benjamín, Benjamín no fue."
+},
+{
+"startMs": 212560,
+"endMs": 220100,
+"text": "Pon el dedo, pon el dedo. Al sneid barim. Digo, eso ya no podemos hacer tantos años. Al sneid barim."
+},
+{
+"startMs": 220140,
+"endMs": 225660,
+"text": "Es lo único que nos faltaba. Ha itimitsaer kol yamai. No."
+},
+{
+"startMs": 226860,
+"endMs": 237040,
+"text": "Jol yom, kol yamai, okey, sí. Okey, pero tienes a Benjamín, que mitsaer kol yamav. Y tienes a Benjamín, que mitsaer kol yamav, ve kol yom, ¿sí?"
+},
+{
+"startMs": 238160,
+"endMs": 238780,
+"text": "Libloa,"
+},
+{
+"startMs": 240320,
+"endMs": 249900,
+"text": "algo de Yehuda. Ya está que libloa, ¿cómo explicas libloa? Entonces, vimos que todo, no sé, aquí es como Benjamín se conecta con, con Yehuda, él quiere hacer esa conexión."
+},
+{
+"startMs": 250200,
+"endMs": 256860,
+"text": "Ahora- Acá, acá la cabeza al revés. No, pero es algo bueno, vas a ver. No, no quiere, porque quiere robárselo."
+},
+{
+"startMs": 256980,
+"endMs": 263200,
+"text": "No, no, no. Y esta retzuá sale del tapón de Aarón. ¿Mmm? Esta retzuá a lo mejor es del tapón de Aarón. Yooo..."
+},
+{
+"startMs": 264800,
+"endMs": 266060,
+"text": "No sé, no estoy seguro. Si"
+},
+{
+"startMs": 268440,
+"endMs": 275440,
+"text": "estaba así. Vamos a verlo, está-- dónde está el dibujo. Sheh naemar, bueno, a ver, vamos a seguir tantito. Jofef alav kol hayom."
+},
+{
+"startMs": 275480,
+"endMs": 277580,
+"text": "Dijiste esto de Jofef, ¿no? Jofef alav kol hayom."
+},
+{
+"startMs": 278920,
+"endMs": 286980,
+"text": "No, eso, mijufia didú. Dijimos que es mijufia didú, los mazdikim están jofefim. Y dijimos que cuando está la Shejiná..."
+},
+{
+"startMs": 287020,
+"endMs": 301180,
+"text": "Cuando leyó Noritrol arriba, hasta Netrat Hashim, le lla-- leímos los, las berajot de Risot Haberajá. Sí, entonces dijimos que el Jofef alav kol hayom es la Shejiná, que está jofefet sobre Benjamín y es el anti los mazdikim, que jofefim sobre la persona."
+},
+{
+"startMs": 301600,
+"endMs": 303480,
+"text": "Entonces, dice: «Sheh naemar Jofef alav kol hayom»."
+},
+{
+"startMs": 305200,
+"endMs": 316380,
+"text": "Ulefijaj, zaja Benjamín y menasa uspizjan la Shejiná. Y por eso Benjamín tiene el dejut de él ser el que invita a la Shejiná."
+},
+{
+"startMs": 316660,
+"endMs": 323560,
+"text": "Entonces, mamá, otra vez tenemos Benjamín, que él trae la Shejiná, por ser que quiere conectar con Yehuda."
+},
+{
+"startMs": 323800,
+"endMs": 328880,
+"text": "Entonces, este le vol-- ah, es algo bueno, es lo que le estoy diciendo. Dice..."
+},
+{
+"startMs": 330920,
+"endMs": 333080,
+"text": "Pitsad Mara. Rashi dice cómo estaba puesto, ¿eh?"
+},
+{
+"startMs": 334880,
+"endMs": 341240,
+"text": "A ver, a ver. Ven, Rashi: Jofef alab. Dijimos acá, ¿cuándo apareció Jofef en nuestra Gemara?"
+},
+{
+"startMs": 342160,
+"endMs": 347020,
+"text": "La Jafifá de los Kajamim, de los Mazdikim, de la Shejiná. En las ropas, ¿no? Sí. Ven, Rashi. Jofef."
+},
+{
+"startMs": 348680,
+"endMs": 354740,
+"text": "Dice: Jofef alav, Adam hamitsaer, Jofef. Era el apretado de la calá."
+},
+{
+"startMs": 355000,
+"endMs": 361520,
+"text": "Umitjaquej bibgadav. Fíjense como Jofef es en su-- así es cuando está nervioso."
+},
+{
+"startMs": 362180,
+"endMs": 368860,
+"text": "Es Jofef, significa es algo que te frota las, las ropas. Digo, es mamá raya a, a esto, ¿sí?"
+},
+{
+"startMs": 369680,
+"endMs": 375880,
+"text": "Lashón, shifshuf, como nazir, chofef y mufasfes. Dice: \"Ushpisjan shehaya arón bejelko\"."
+},
+{
+"startMs": 376920,
+"endMs": 379440,
+"text": "Por eso Benjamín tenía la Shejiná."
+},
+{
+"startMs": 381000,
+"endMs": 391780,
+"text": "Entonces, yo digo que creo que esto está un poquito más que claro, pero entonces, sí, Rashi aquí trae las direcciones. A ver, vamos a ver. Ahora vamos a ver si cuadra o no, pero aparece la palabra tzafon seguro, pero a ver, vamos a ver."
+},
+{
+"startMs": 391820,
+"endMs": 403860,
+"text": "Dice: \"Ma yayajol bejelko shel Benjamín, ulam vehejal. Mitsad ma'arav, achshav ioter bentain makom, eh, achshav ioter bentain makom mizbeaj lamed bet ama, uven ulam hamizbeaj ajav bet ama."
+},
+{
+"startMs": 405280,
+"endMs": 412040,
+"text": "U ma, eh, eh, ama, eh, shelo pirush shel mi hu. Jazar hu pirush retzuah iotsá."
+},
+{
+"startMs": 412200,
+"endMs": 419980,
+"text": "Limdeja kan, retzuah hazot lebadad le Yehuda. Aval tzfonó shel mizbeaj u dromó u ma'aravó shel Benjamín."
+},
+{
+"startMs": 422640,
+"endMs": 430400,
+"text": "U bemasjet Zevajim amrinan shelo Yehuda veotah retzuah, elá mizrahit, makom hayesod, vekaj lo hayah yesod lemizrajo shel mizbeaj\"."
+},
+{
+"startMs": 431020,
+"endMs": 433460,
+"text": "No, Yehuda estaba en el mizraj, dale."
+},
+{
+"startMs": 435260,
+"endMs": 442160,
+"text": "Y Benjamín tenía todos los otros tres lados. \"Ve Benjamín hatsadik tzofé beruj haKodesh shekan atid lihiot u mitstaer alei\"."
+},
+{
+"startMs": 443840,
+"endMs": 469160,
+"text": "Entonces, pero lo que vemos acá es que Benjamín mitstaer. ¿Sí? Benjamín hatsadik mitstaer y tiene que ver aquí con-- tienes otra vez el jibur entre Benjamín y Yehuda, y tienes acá el Me acuerdo una pijá de Benjamín de esto,"
+},
+{
+"startMs": 469160,
+"endMs": 476580,
+"text": "de Shavuot. ¿A poco? De la retzuah, que dijo como Benjamín, como esto. Ah, pues hay que preguntarle, le pregunto."
+},
+{
+"startMs": 481240,
+"endMs": 492380,
+"text": "Bueno, acá les quiero enseñar otra así buena. ¿Tienen, eh, para abrir Avot de Rabi Natán?"
+},
+{
+"startMs": 493720,
+"endMs": 495940,
+"text": "Acá mismo, ¿no? En el Bar Ilán, sí."
+},
+{
+"startMs": 499679,
+"endMs": 507700,
+"text": "Ponle Avot de Rabi Natán, pereg gimmel. Es un sipur famoso. ¿Mishná alef, pereg gimmel?"
+},
+{
+"startMs": 508080,
+"endMs": 509280,
+"text": "Sí, ahí, ábrelo."
+},
+{
+"startMs": 511640,
+"endMs": 514960,
+"text": "Y busca el maasé de Benjamín hatsadik."
+},
+{
+"startMs": 516880,
+"endMs": 523659,
+"text": "Busca la palabra Benjamín. Está hasta abajo. Maasé... La primera página. ¿Ya están?"
+},
+{
+"startMs": 523860,
+"endMs": 527060,
+"text": "Ya. Maasé Benjamín hats-- es una Gemara en, eh,"
+},
+{
+"startMs": 529180,
+"endMs": 534800,
+"text": "en Baba Batra, nada más que aquí tiene un poquito de lashonot diferentes. Dice así: \"Maasé Benjamín hatsadik,"
+},
+{
+"startMs": 536640,
+"endMs": 546180,
+"text": "shehaya memuné al kupá shel tzedaká\". Ve pastut, yo creo que es nuestro Aba Benjamín, ¿sí? Entonces, dice-- Ahorita vamos a ver por qué, ¿sí?"
+},
+{
+"startMs": 546240,
+"endMs": 548200,
+"text": "Nos quedamos que Aba Benjamín era nada más con..."
+},
+{
+"startMs": 550820,
+"endMs": 552640,
+"text": "Te regañé, te regañé."
+},
+{
+"startMs": 554420,
+"endMs": 563680,
+"text": "Me asusté, me asusté. Que no mezclan el cielo con la tierra. \"Maasé Benjamín hatsadik, shehaya memuné\"."
+},
+{
+"startMs": 564020,
+"endMs": 566220,
+"text": "También esto es un mashal,迷失方向"
+},
+{
+"startMs": 568380,
+"endMs": 574400,
+"text": ". Nada más no me digas como, como si estás pensando en otras personas, como Shalín y de caele."
+},
+{
+"startMs": 574600,
+"endMs": 576000,
+"text": "No entendí esa parte."
+},
+{
+"startMs": 577660,
+"endMs": 584220,
+"text": "\"Maasé Benjamín hatsadik, shehaya memuné al kupá shel tzedaká\". Entonces, Benjamín hatsadik tenía una kupá de tzedaká."
+},
+{
+"startMs": 584260,
+"endMs": 594300,
+"text": "\"U bata ishá ajat lefanav. Amrá lo: 'Rebi, parnaséni'\". Dame panasa. \"Amar lá: 'Ha avodá, shein ba kupá shel tzedaká klum, shua'\"."
+},
+{
+"startMs": 594940,
+"endMs": 603160,
+"text": "No hay un peso en la kupá shel tzedaká. \"Amrá lo: 'Rebi, ¿limen atá meparnaseni? Nimtzetá orég almaná ve shiváá banim'\"."
+},
+{
+"startMs": 604600,
+"endMs": 609360,
+"text": "Entonces, la almaná está en una gran problema. Se murió sus siete hijos. \"Amar hu: 'Parnasám sheló'\"."
+},
+{
+"startMs": 611720,
+"endMs": 618480,
+"text": "De su-- de su bolsa. \"Leyamim jalá Benjamín hatsadik\". Mitstaer. \"Ve haya mitstaer\"."
+},
+{
+"startMs": 619720,
+"endMs": 629460,
+"text": "Síguele. A la mitad. ¡Yooo! Además, ¿có-cómo lo hiciste? Pusiste-- fuiste a buscar mitstaer, mitad y te salieron las respuestas."
+},
+{
+"startMs": 629580,
+"endMs": 635360,
+"text": "No, no, yo sabía que hay más. Ahí aparece Benjamín hatsadik, lo busqué y salió."
+},
+{
+"startMs": 639380,
+"endMs": 654140,
+"text": "Mitstaer a la mitad. A ningún que corrimos hatsadik. ¿Eh? Aquí se llama hatsadik. Y fíjense-- No, pero aquí lo más pele, aquí está mamash, se nos conecta todo, porque la Gemara en Meguilá usó igual el mismo término, Benjamín hatsadik."
+},
+{
+"startMs": 654580,
+"endMs": 660600,
+"text": "Pero este Benjamín hatsadik de allá, ¿a quién se refiere? A Ben-Benjamín. Al, al, al..."
+},
+{
+"startMs": 660660,
+"endMs": 661940,
+"text": "Al shevet Benjamín, ¿sí?"
+},
+{
+"startMs": 663160,
+"endMs": 671220,
+"text": "Y acá, este Benjamín hatsadik directamente se relaciona con el, con el nuestro, porque allá mitstaer y acá ya mitstaer a la mitad, ¿sí?"
+},
+{
+"startMs": 671640,
+"endMs": 684160,
+"text": "Y aquí se llama Benjamín hatsadik, igual que Benjamín hatsadik allá. Y acá tienes a Aba Benjamín. Fíjense, o sea, si tienes las tres, haces un-- porque es impresionante, porque Benjamín hatsadik, el shevet, también mitstaer."
+},
+{
+"startMs": 684740,
+"endMs": 689360,
+"text": "Aba Benjamín mitstaer, igual que Benjamín hatsadik, que mitstaer a la mitad."
+},
+{
+"startMs": 691760,
+"endMs": 693280,
+"text": "Vente, Toño, si quieres."
+},
+{
+"startMs": 695180,
+"endMs": 696220,
+"text": "Entonces..."
+},
+{
+"startMs": 697500,
+"endMs": 699700,
+"text": "Pero ¿por qué allá está-- la mitzvá de la mitad?"
+},
+{
+"startMs": 701700,
+"endMs": 706060,
+"text": "Aquí hay, aquí hay. La blanca, la-- bueno, la cuchara. No, hay varias aquí, barujjo, yo vi."
+},
+{
+"startMs": 708360,
+"endMs": 709380,
+"text": "Acá hay, acá hay."
+},
+{
+"startMs": 714060,
+"endMs": 720100,
+"text": "Entonces, estaba-- \"Jalá Benjamín hatsadik ve haya mitstaer a la mitad\", ¿sí? ¿Nafshat?"
+},
+{
+"startMs": 720960,
+"endMs": 732836,
+"text": "Estaba enfermo. ¿Sí? No es caso porque mitstaer era... Sí, no es caso, pero no, o sea, está, está bien, o sea, como que la Gemara te está diciendo: \"Oye Y después de Kesher, ¿sí?"
+},
+{
+"startMs": 732956,
+"endMs": 742656,
+"text": "Benjamín mitstaer mitad ¿Será Benjamín porque le dio su parnasai? No, no, no, no, no, estaba enfermo, estaba enfermo y ya estaba por morir Amru malaja Amru malaja."
+},
+{
+"startMs": 742816,
+"endMs": 750636,
+"text": "Antes de que Dios lo condujera, ribono shel olam, ¿tú no dijiste que todo el que mantiene un alma de Israel es como si mantuviera el mundo entero?"
+},
+{
+"startMs": 750636,
+"endMs": 752996,
+"text": "El tzadik Benjamín, que sostenía a una viuda y"
+},
+{
+"startMs": 760316,
+"endMs": 766456,
+"text": "a siete hijos, cada uno con su propia carga, y ahora se encuentra postrado en la cama, inmediatamente intercedieron por él, redujeron su sentencia y le añadieron veintidós años a sus días."
+},
+{
+"startMs": 766496,
+"endMs": 782536,
+"text": "Veintidós años le aumentaron de vida a Benjamín HaTzadik. Si por eso, ¿no? Como el que vimos de Benjamín, el parnaseni, en Venezuela Eh, aquí atrás, en la Gemara Porque después pensé que si hay un Mechemiam no, ya no se ve también igual Ajá."
+},
+{
+"startMs": 783056,
+"endMs": 789676,
+"text": "No sé si hay aquel, puede ser. ¿Tan? Ahora quiero--"
+},
+{
+"startMs": 791836,
+"endMs": 800836,
+"text": "voy. Ahora quiero, quiero ver. Sí, Janal Sheba Benjamín es lo que te resalta, pero más que eso, Janal A ver, vamos a ver. Nada más yo quiero, yo quiero, yo quiero ver la versión"
+},
+{
+"startMs": 803416,
+"endMs": 813796,
+"text": "No, a ver, podemos ver la versión de la, de la Gemara. A ver, Babá Batra, Daf Yod Alef. Es el mismo tsibur, nada más que aquí no dice mitstaer a la mitad, ¿sí?"
+},
+{
+"startMs": 814036,
+"endMs": 825256,
+"text": "Entonces, yo quise usar el de allá, porque dice mitstaer a la mitad, el de Abodah Rabí Natán. Ahora, acá hay un, un shinuy lazón en una cosa, que es el que quiero agarrar."
+},
+{
+"startMs": 825356,
+"endMs": 833136,
+"text": "Tania amru alav al Benjamín HaTzadik, que había una kupa shel tzedaka. Una vez vino una mujer ante él con dos panecillos."
+},
+{
+"startMs": 833156,
+"endMs": 837496,
+"text": "Ahorita ya hay shne batzoret. Sí, eso es lo que no aparece allá en... ahí."
+},
+{
+"startMs": 839436,
+"endMs": 844316,
+"text": "Es lo mismo, es lo mismo. Dice: \"Rabí, háblame de sustento\". Le respondió: \"Trabaja, que no hay"
+},
+{
+"startMs": 845596,
+"endMs": 850236,
+"text": "nada en la caja de caridad\". Le dijo: \"Rabí, ¿con qué me sustentarás? He aquí una viuda y siete hijos muertos\". Se enferló y comenzó a morir."
+},
+{
+"startMs": 851816,
+"endMs": 855336,
+"text": "Aquí es donde Benjamín HaTzadik haya mitstaer al hamitá."
+},
+{
+"startMs": 857016,
+"endMs": 865656,
+"text": "Amru malaja, ribono shel olam, ¿tú no dijiste que todo el que mantiene un alma de Israel es como si mantuviera el mundo entero? Y Benjamín HaTzadik, que sostenía a una viuda y a sus siete hijos, ¿morirá en estos últimos años?"
+},
+{
+"startMs": 865676,
+"endMs": 869736,
+"text": "Inmediatamente redujeron su sentencia. Tana, le añadieron veintidós años a sus"
+},
+{
+"startMs": 871596,
+"endMs": 878216,
+"text": "días. Bueno, entonces tenemos esto Ben Munbaz Munbaz."
+},
+{
+"startMs": 878776,
+"endMs": 884136,
+"text": "Munbaz. Viene de bizbuz. Todos, todos los nombres tienen, ¿no? Entonces, ahí es."
+},
+{
+"startMs": 885856,
+"endMs": 888216,
+"text": "Bizbuz. Ata mebaz be zam."
+},
+{
+"startMs": 890816,
+"endMs": 891496,
+"text": "Ah, sí, ahí está"
+},
+{
+"startMs": 893976,
+"endMs": 895296,
+"text": "Bueno, entonces..."
+},
+{
+"startMs": 897736,
+"endMs": 905536,
+"text": "A ver, vamos a pensar así un poquito. Este Benjamín HaTzadik es del tiempo de la Gemara o algo así, o es un Taná o algo así, ¿no?"
+},
+{
+"startMs": 906236,
+"endMs": 914076,
+"text": "Es un Taná, es un Taná, porque Tania, ¿sí? Es un Taná, es uno del tiempo de los Tanaim. Y había alguien ahí, Benjamín HaTzadik."
+},
+{
+"startMs": 914716,
+"endMs": 920836,
+"text": "Y entonces, eso es, pues nuestro-- de alguna manera, será nuestro aba Benjamín, de nuestra sugya."
+},
+{
+"startMs": 921016,
+"endMs": 921436,
+"text": "¿De verdad en"
+},
+{
+"startMs": 922816,
+"endMs": 929216,
+"text": "Megilá le llama Benjamín, Benjamín HaTzadik? Benjamín HaTzadik. ¿Así le llama? Sí. A Benjamín el Shevet le llama Benjamín HaTzadik."
+},
+{
+"startMs": 929616,
+"endMs": 935736,
+"text": "Y este se llama Benjamín HaTzadik y es un Taná. Y los dos son-- haya mitstaer, ¿no, Shpele?"
+},
+{
+"startMs": 935756,
+"endMs": 950576,
+"text": "¿Sí? Haya mitstaer. Y, y después de todo lo que vimos en nuestra Gemara de aba Benjamín, los sharim con Benjamín y los sharim ya directo con Megilá, está-- los haya mamash mujráj, que aquí la Gemara está mamash-- sí, refiriéndose a Benjamín."
+},
+{
+"startMs": 951096,
+"endMs": 960476,
+"text": "Ahora, entonces, ahorita este Benjamín HaTzadik, entonces puede ser como que un eqesh, ¿no? Benjamín HaTzadik aquí, Benjamín HaTzadik en la Gemara en Megilá, que es el Shevet Benjamín."
+},
+{
+"startMs": 960516,
+"endMs": 970656,
+"text": "Entonces, tiene que ver, al-algo tiene que ver. Y más que el mitstaer y también haya mitstaer. Y este mitstaer a la mitad y nuestro Benjamín, nuestro aba Benjamín, también mitstaer a la mitad."
+},
+{
+"startMs": 971096,
+"endMs": 978916,
+"text": "Entonces, está-- es muy, muy, muy relacionado. Entonces, yo quiero ver acá algo muy interesante, queee,"
+},
+{
+"startMs": 981236,
+"endMs": 981716,
+"text": "eh,"
+},
+{
+"startMs": 983156,
+"endMs": 996116,
+"text": "donde esto nos recuerda no nomás el Kesher entre las Gemarot, sino a Benjamín, porque pues ya tiene que ser que, pues alguna vez, de alguna manera, tiene que ver con Benjamín, ¿no?"
+},
+{
+"startMs": 996136,
+"endMs": 1000596,
+"text": "¿Sí o no? Entonces, a ver, vamos a ver qué está pasando aquí."
+},
+{
+"startMs": 1002236,
+"endMs": 1002376,
+"text": "Eeeh"
+},
+{
+"startMs": 1013016,
+"endMs": 1023276,
+"text": "No sé hasta dónde nos llevamos, pero a ver, vamos poco a poco. A ver, shne batzoret. ¿Hubo, hubo alguna vez shne batzoret en el-- la época de,"
+},
+{
+"startMs": 1024796,
+"endMs": 1025316,
+"text": "de Benjamín?"
+},
+{
+"startMs": 1027336,
+"endMs": 1034695,
+"text": "Claro, o sea, bajaron de Mitzráim todos porque era batzoret Muy bien. Entonces, había batzoret Barur máshél Había una hambruna total."
+},
+{
+"startMs": 1036096,
+"endMs": 1036756,
+"text": "Ahora, acá,"
+},
+{
+"startMs": 1038616,
+"endMs": 1046056,
+"text": "si lo pensamos aquí más beomek, entonces había batzoret, había una ham-hambruna muy fuerte."
+},
+{
+"startMs": 1047576,
+"endMs": 1053956,
+"text": "Y todo esto, ¿quién al final los salva de la hambruna? Yosef. O sea, al final, ¿quién es el que les mejalquel otam?"
+},
+{
+"startMs": 1054636,
+"endMs": 1057816,
+"text": "Es Yosef. Significa que ahorita les está llegando una hambruna"
+},
+{
+"startMs": 1059076,
+"endMs": 1065896,
+"text": "por ser que no está Yosef. Entonces, tome kilu-- si su tikun es Yosef y si no se mueren de hambre,"
+},
+{
+"startMs": 1067216,
+"endMs": 1074296,
+"text": "entonces quiere decir que betem-- es kilu un sug de ones, vamos a llamarlo así, sobre mejerat Yosef, ¿no?"
+},
+{
+"startMs": 1074396,
+"endMs": 1079576,
+"text": "Aquí hay como que un, una tviá sobre mejerat Yosef. Y shma, ¿quieres parnasá? Entonces, deja a Yosef."
+},
+{
+"startMs": 1080856,
+"endMs": 1093216,
+"text": "Y ese es todo el meta, que si no re-- si no descubren al final a Yosef, entonces no va a haber parnasá. Y así fue real, porque fue Yehuda con, fue Yehuda con Yosef y,"
+},
+{
+"startMs": 1096196,
+"endMs": 1099776,
+"text": "y, y, y lo pone Yosef a Yehuda en un nisayón"
+},
+{
+"startMs": 1101716,
+"endMs": 1102896,
+"text": "de que Yehuda,"
+},
+{
+"startMs": 1104296,
+"endMs": 1112776,
+"text": "de que va a agarrar a Benjamín como esclavo, ¿sí o no? Porque le pone la copa Sí Y entonces va a agarrar a Benjamín como esclavo."
+},
+{
+"startMs": 1113176,
+"endMs": 1117676,
+"text": "¿Qué significa que va a agarrar a Benjamín como esclavo? Ven acá, ven acá. Ahí estás, Sari."
+},
+{
+"startMs": 1119996,
+"endMs": 1131116,
+"text": "En otras palabras, Yosef como que les está repitiendo la escena de mejerat Yosef, ¿sí? Y lo-- el tikún que tiene que hacer Yehuda, ¿cuál es el tikún que tiene que hacer Yehuda?"
+},
+{
+"startMs": 1134536,
+"endMs": 1138216,
+"text": "Es no aceptar, es regresar a Benjamín con su papá."
+},
+{
+"startMs": 1139496,
+"endMs": 1149589,
+"text": "Él que le hizo. Yo soy Fantes. Venderlo de esclavo y quitárselo a su papá. Entonces, Yehuda ahorita está en un sayón de que tiene como que hacer teshuvá de esa historia."
+},
+{
+"startMs": 1149929,
+"endMs": 1156849,
+"text": "Descompone- Entonces, entonces, Viñamín está en la situación donde Joseph dice: \"Mira, él es un ratero."
+},
+{
+"startMs": 1157449,
+"endMs": 1165389,
+"text": "Ya que es un ratero, entonces, él tiene que ser mi esclavo\". Joseph lo hizo para que haga el tikún. Sí, que, o sea, betse Joseph está checando si ellos, ellos beemet."
+},
+{
+"startMs": 1165869,
+"endMs": 1172488,
+"text": "Se fue el isbojalem, sí. Si ellos se arrepienten de Mejerat Joseph, si ellos pueden descubrir al Joseph que está aquí atrás, ¿sí?"
+},
+{
+"startMs": 1172929,
+"endMs": 1174949,
+"text": "Entonces, entonces, ¿qué hace Yehuda?"
+},
+{
+"startMs": 1176849,
+"endMs": 1186749,
+"text": "Le dice, le dice a Joseph, le dice: \"Mira, agárrame a mí de esclavo, pero Benjamin tiene que regresar a fuerza con su papá\". Dice: \"Ya su papá ya perdió a uno y de ninguna manera puede perder al otro\"."
+},
+{
+"startMs": 1187489,
+"endMs": 1194229,
+"text": "Dice, dice: \"Shnaim yalda li ishti\". Le llama así Yehuda, le llama a Rachel ishto, ishto shel Yaacov."
+},
+{
+"startMs": 1194749,
+"endMs": 1201689,
+"text": "Reconoce a Rachel que es beemet ishto shel Yaacov y reconoce que Benjamin es el hijo y reconoce que él tiene que hacer el tikún."
+},
+{
+"startMs": 1202029,
+"endMs": 1208929,
+"text": "Entonces, le dice: \"Benjamin se regresa y yo me vendo como esclavo\". Es una prueba que Joseph le hizo y... Y, y, sí. Joseph quiere saber eso."
+},
+{
+"startMs": 1208989,
+"endMs": 1217929,
+"text": "Y, y, y, y ese es el tikún que él está haciendo betse a Mejerat Joseph. Y entonces, en ese momento, Joseph se revela y mi mele ya puede lejalquelotam."
+},
+{
+"startMs": 1218349,
+"endMs": 1224449,
+"text": "Entonces, tatkama kenitkán, Mejerat Joseph, mi mele ya puede, eh, lejalquelotam. Ya puede lejalquelotam."
+},
+{
+"startMs": 1224509,
+"endMs": 1225569,
+"text": "¿Okey?"
+},
+{
+"startMs": 1228889,
+"endMs": 1229169,
+"text": "Ahora,"
+},
+{
+"startMs": 1230409,
+"endMs": 1232669,
+"text": "vamos aquí. ¿Cuántos años"
+},
+{
+"startMs": 1233909,
+"endMs": 1240229,
+"text": "estuvo perdido Joseph? Veintidós. ¿No suena o no?"
+},
+{
+"startMs": 1240749,
+"endMs": 1253669,
+"text": "Es el que, que le aumentaron veintidós años a Va-Benjamin. Son veintidós años. ¿Quién es el que- Lo, lo, o sea, sí, o sea, vas a decir que los veintidós años que perdió Kilu Naguid se los están recuperando acá."
+},
+{
+"startMs": 1254209,
+"endMs": 1261489,
+"text": "A ver, vamos a ver, no sé. Sí, puede ser, puede ser. Sí, está bueno, sí, puede ser. Ahora, sí, está muy interesante lo que estoy diciendo."
+},
+{
+"startMs": 1261969,
+"endMs": 1262269,
+"text": "Ahora,"
+},
+{
+"startMs": 1263689,
+"endMs": 1273629,
+"text": "si yo estoy en los champiñones, todavía no-- porque no tengo el Esber. No, tienes razón, yo no tengo el Esber, pero está muy bueno. Ahora, ¿aquí hay shne batoret en la Gemara aquí?"
+},
+{
+"startMs": 1273629,
+"endMs": 1283429,
+"text": "¿Hay shne batoret? Está el almanaque, ¿no? Ah, claro. Shne batoret. Eso es la Gemara, no entra en lo de, no entra en lo de, no en lo de Rabí Natán, ¿sí?"
+},
+{
+"startMs": 1283429,
+"endMs": 1290789,
+"text": "¿Eh? En la Gemara de Bobe Batres sí. Sí, sí, pero es el mismo Sibur. Sí, sí, sí. Es uno más encima del otro. Sí, sí, es uno más otro, sino hay razón que..."
+},
+{
+"startMs": 1291309,
+"endMs": 1301969,
+"text": "Entonces, tenemos shne batoret en la historia de Viñamín Tsadik, tenemos shne batoret en la historia de Viñamín. Dijimos, solo bizjut, ¿quién se pudo hacer esta, esta reconcilia--?"
+},
+{
+"startMs": 1302129,
+"endMs": 1308569,
+"text": "Vadai que Yehuda hizo un tikún, pero este tikún se permitió solamente- Lee, lee el último Mase, lee el último Mase."
+},
+{
+"startMs": 1308629,
+"endMs": 1318609,
+"text": "Sí. Este tikún se permitió solamente bizjut Viñamín, porque Viñamín fue el que decidió no agrandar el choque entre Joseph y sus hermanos."
+},
+{
+"startMs": 1318989,
+"endMs": 1324869,
+"text": "Viñamín es el que se dejó, de-decidió quedar cai-ca-quedar callado. Viñamín es el que sufrió veintidós años"
+},
+{
+"startMs": 1327389,
+"endMs": 1333829,
+"text": "sin su hermano Joseph. Él sufrió y todos sus, todos sus hijos de Viñamín se llaman Al Shem Joseph el perdido. ¿Sí?"
+},
+{
+"startMs": 1334069,
+"endMs": 1341029,
+"text": "Belash, el niblau. Sí, Belash. ¿Qué pasa si blua? Ah, mira, blua acá en el S."
+},
+{
+"startMs": 1341449,
+"endMs": 1346129,
+"text": "Okey, Belash, Bel, Becher, ojulo, todos los hijos de Viñamín. Entonces..."
+},
+{
+"startMs": 1349449,
+"endMs": 1356189,
+"text": "Eh... ¿Cuántos hijos de los Nelea, cuántos son? Nelea. Okey, son seis. Nelea. Tenía que ser siete."
+},
+{
+"startMs": 1356449,
+"endMs": 1364529,
+"text": "Espérate, Irina. Ah. Ahí está. Irina. Ahí, iba por ahí. Lea tiene siete hijos, beemet."
+},
+{
+"startMs": 1364929,
+"endMs": 1374289,
+"text": "Se sientevietoma-- se siente Almaná. Porque- Se siente, se siente Almaná. ¿Almaná se siente Rachel o se siente Lea? Sí, pero acá puede ser que sienta Almaná en el aspecto de que"
+},
+{
+"startMs": 1375969,
+"endMs": 1383469,
+"text": "tiene a su esposo perdido, porque en el momento que pierde a, a Joseph... Ah, ya no va. Entonces, betse, Yaacov se perdió totalmente."
+},
+{
+"startMs": 1383469,
+"endMs": 1389489,
+"text": "Ah, tú dices Yaacov. ¿Eh? Rachel ya había muerto. Ah. Rachel ya había muerto."
+},
+{
+"startMs": 1389549,
+"endMs": 1396549,
+"text": "Rachel se murió cuando nació Viñamín. Sí. Rachel ya había muerto. Para acá Almaná a mí me sabe que beemet ya fue la rechazada que..."
+},
+{
+"startMs": 1397189,
+"endMs": 1407969,
+"text": "Pero ahorita ya no, pero Dalemá dice cuando se vende a Joseph, si hacemos el Jeshbon correctamente, entonces Lea depende betse de Rachel y Rachel de-depende de Lea."
+},
+{
+"startMs": 1408329,
+"endMs": 1415509,
+"text": "Y si este choque otra vez pasa en los hijos, entonces mi mele, mi mele shuv aquí hay ese mismo"
+},
+{
+"startMs": 1416889,
+"endMs": 1417849,
+"text": "mituk, ¿sí?"
+},
+{
+"startMs": 1419089,
+"endMs": 1425869,
+"text": "Entonces, entonces, entonces tenemos veintidós años allá y tenemos veintidós años acá."
+},
+{
+"startMs": 1425869,
+"endMs": 1435109,
+"text": "¿Sí? Tenemos shne batoret acá, tenemos shne batoret allá. Tenemos Viñamín que hace el shiduj, ¿sí?"
+},
+{
+"startMs": 1435809,
+"endMs": 1436749,
+"text": "El shiduj allá"
+},
+{
+"startMs": 1438029,
+"endMs": 1441329,
+"text": "y mi mele es el, el que me farn-- sofo shel lavar me farnés,"
+},
+{
+"startMs": 1442649,
+"endMs": 1450249,
+"text": "¿sí? Viñamín es el que provoca el efarnés. Provoca el efarnés a todos. Me farnés a todos. Es el chat que me farnés de su bolsa."
+},
+{
+"startMs": 1450849,
+"endMs": 1459149,
+"text": "Kilo, él hace algo, él no ten mashu, ¿qué es lo que no ten? Que no haya más bronca, que esa shtika- Él se da a sí mismo, como que él se da a sí mis-- él se entrega a sí mismo."
+},
+{
+"startMs": 1459769,
+"endMs": 1470489,
+"text": "Él mitvatel totalmente, él mitvatel totalmente. Y a mi mele, todo esa, todo eso, sofo shel lavar le costó veintidós años de sufrimiento total y los aceptó."
+},
+{
+"startMs": 1471449,
+"endMs": 1485769,
+"text": "Entonces, esos veintidós años de sufrimiento son paralelos a los, a, a estos veintidós años que le reparan, kivi hajol, a Viñamín Tsadik, que en esta Gemara, eh, que betse muaya natal amut."
+},
+{
+"startMs": 1486749,
+"endMs": 1494409,
+"text": "Las mi mele le dan veintidós años más. ¿Los veintidós años que sufrió quién? ¿Lea también? Dijimos que Lea tiene siete hijos, seis hijos."
+},
+{
+"startMs": 1494429,
+"endMs": 1502389,
+"text": "Sí, ya tenemos eso. Y Hanán, ¿be shua vanima algo? No. Sí, que Hanán igual mismo. Los veintidós años, los veintidós años que sufrió"
+},
+{
+"startMs": 1503849,
+"endMs": 1521201,
+"text": "Joseph, los que, por si el que no es Joseph, son los que se están reponiendo aquí. Que luego él betse no son los que sufrió los veintidós años Entonces, aquí no sé por qué, ya no sé si brincarme hasta allá, pero, ven, Chen, en la historia Am Israel,"
+},
+{
+"startMs": 1523981,
+"endMs": 1526001,
+"text": "una historia donde Benjamín natal Amut."
+},
+{
+"startMs": 1528081,
+"endMs": 1539921,
+"text": "Mamash kimat natal Amut, Saúl. Pileges Raguiba. Pileges Raguiba es lo que no sé si hacerlo ahorita, si meternos de full así ahorita tantito."
+},
+{
+"startMs": 1540661,
+"endMs": 1550941,
+"text": "A Pileges, a Pileges Raguiba, el que lo está matando justamente es Yehuda. A ver si hay resonancias con nuestra historia de aquí, con la historia de Benjamín."
+},
+{
+"startMs": 1551441,
+"endMs": 1553501,
+"text": "Y Benjamín ahí se salva y de ahí sale Saúl."
+},
+{
+"startMs": 1554761,
+"endMs": 1561601,
+"text": "De, de ahí sale Saúl. ¿Y quién es el que, el, el Pileges Raguiba? Y entonces ahí Benjamín es imposible que, que, que Yehuda lo mate."
+},
+{
+"startMs": 1561621,
+"endMs": 1573201,
+"text": "¿Me explico? Porque- Que se mate a sí mismo. Y más que eso, porque él, ven, Chen, fue el que le dio vida a Yehuda. Ya viéndolo desde esta perspectiva, entonces Yehuda es el que va a eliminar completamente a Benjamín y Benjamín se salva."
+},
+{
+"startMs": 1574121,
+"endMs": 1582961,
+"text": "Entonces, podría ser que hasta hay muchos resonancias ahí entre la historia de Benjamín y Yehuda y la historia de Pileges Raguiba."
+},
+{
+"startMs": 1583181,
+"endMs": 1590441,
+"text": "Pues Pileges Raguiba, ¿quiénes fueron los que decidieron que no exterminaban a las mujeres? No sé, no estoy, no estoy ahorita..."
+},
+{
+"startMs": 1590941,
+"endMs": 1604381,
+"text": "Tipo como una junta y decidieron que no. No me acuerdo. ¿Eh? ¿Gitín? No, Gitín es, no es una gemara que cuenta que, que había doce moraim que tenían machloket sobre Pileges Raguiba."
+},
+{
+"startMs": 1604541,
+"endMs": 1613701,
+"text": "Ah, ya, ya. Shofitim perek yud chet. Ah, Shofitim, ah. O yud zain, yud chet, yud tet, no me acuerdo. Shofitim yud chet."
+},
+{
+"startMs": 1613741,
+"endMs": 1616021,
+"text": "Creo que es yud chet. Son dos tres peraquim."
+},
+{
+"startMs": 1617941,
+"endMs": 1618081,
+"text": "Es..."
+},
+{
+"startMs": 1623321,
+"endMs": 1624141,
+"text": "Es pek yud tet."
+},
+{
+"startMs": 1627081,
+"endMs": 1635621,
+"text": "Son tres peraquim, si los quieren leer así rápido. Seguro los que decidieron dejarlo vivo algo tienen que ver ahí. Hay que leerla, hay que leerla, a ver cómo fue la historia."
+},
+{
+"startMs": 1635621,
+"endMs": 1639001,
+"text": "¿Quieren leer? Sí."
+},
+{
+"startMs": 1640221,
+"endMs": 1654981,
+"text": "Según esto, según así la teoría, este es cuando Benjamín no tel Amut, es acá, que por eso no tel Amut, y no se allá que yamut por ser que él, ven, Chen, hizo ese mesirut nefesh por ellos todo ese tiempo."
+},
+{
+"startMs": 1655821,
+"endMs": 1666201,
+"text": "Y ahora la shalajias, ¿qué tanto nos va a sonar esta historia a la historia de Mejiriat Yosef y a la historia de, de Benjamín y la reconciliación entre...?"
+},
+{
+"startMs": 1666961,
+"endMs": 1677601,
+"text": "Entonces, dice: \"Vayibayamim hahem uven lejem BeYisrael, vayi ish levi gar veyarkitef Arefraim\". Entonces, hay un ish levi que vivía en Yarkitef Arefraim."
+},
+{
+"startMs": 1678001,
+"endMs": 1682961,
+"text": "¿Sí? Yarkitef Arefraim es como el yeret, que es lo de la parte baja"
+},
+{
+"startMs": 1685121,
+"endMs": 1691661,
+"text": "de la montaña. Arefraim es- Ish, ish levi. Esto, tenemos aquí a alguien que es ish levi. Los laderos."
+},
+{
+"startMs": 1691681,
+"endMs": 1697880,
+"text": "Que vivía en Yosef, porque los levim no eran jelek najalaj, entonces estaban esparcidos en todo Israel."
+},
+{
+"startMs": 1698380,
+"endMs": 1705901,
+"text": "Y entonces ellos vivían, este leví vivía en los, en los pies de la montaña, Yarkitef, en el yeret, ¿sí?, de Arefraim."
+},
+{
+"startMs": 1706541,
+"endMs": 1714301,
+"text": "\"Veyikjajo ishah pileges mivet lejem Yehudah\". Y tiene, tiene una esposa, pero no es una esposa, sino es una pileges"
+},
+{
+"startMs": 1715801,
+"endMs": 1716360,
+"text": "de Yehudah."
+},
+{
+"startMs": 1717681,
+"endMs": 1727321,
+"text": "Entonces, esta pileges, pileges se llama, viene de la, la palabra peleg. Peleg es media esposa. Si quieres vente, Toño, estamos viendo acá, como quieras, digo."
+},
+{
+"startMs": 1727341,
+"endMs": 1729981,
+"text": "¿Sí? Está bien."
+},
+{
+"startMs": 1732241,
+"endMs": 1739041,
+"text": "Aquí va. Es que ahí nos metimos con todas las de Benjamín Hatzadik, con to-- Ya llevas un hilo de dos, tres así."
+},
+{
+"startMs": 1739801,
+"endMs": 1747761,
+"text": "No, no, de, de seis, cinco membros, de medio amud, pero, pero sí las llevamos conectando."
+},
+{
+"startMs": 1748901,
+"endMs": 1756521,
+"text": "Pero si quieres está Pileges Raguiba, si quieres entrar aquí. Está bien. Entonces, agarró una media esposa."
+},
+{
+"startMs": 1756561,
+"endMs": 1765021,
+"text": "Pileges viene de peleg. Peleg es como plug. Sí. Es entre, medio. Es que hubo una esposa que no es esposa para,"
+},
+{
+"startMs": 1767021,
+"endMs": 1773440,
+"text": "para vivir, sino es una esposa para tener hijos. Sí. ¿Es para tener hijos? Sí, ¿no es pileges o no?"
+},
+{
+"startMs": 1773680,
+"endMs": 1780941,
+"text": "No, al revés. Al revés. No, no. Para estar con ella está. No, al revés. Para tener hijos tienes con la hija, con la esposa oficial, ¿no?"
+},
+{
+"startMs": 1781380,
+"endMs": 1787421,
+"text": "Tus hijos. No, no, la pileges la agarraban para tener hijos, pero no vivían con ella. Creo, así es lo normal, creo."
+},
+{
+"startMs": 1787481,
+"endMs": 1796781,
+"text": "Para estar con ella está. No, eso es otro, no. Dice, dice: \"Veyikajolo ishah pileges mivet lejem Yehudah, vatiznea lav pilach shom\"."
+},
+{
+"startMs": 1798001,
+"endMs": 1810321,
+"text": "Y ella como que mardabo. Entonces, la, esta es la mara en Gitín que te estabas diciendo, si- El pelo- Qué le encontró, si, si una- Ni más, ni más Un pelo en la sopa o una mosca en la sopa."
+},
+{
+"startMs": 1811021,
+"endMs": 1817781,
+"text": "Ah, ve'etoma kom. Ora, ve'etoma kom, ya no me acuerdo. \"Vatelaj meito elvet avia\", se, se escapó. ¿Sí?"
+},
+{
+"startMs": 1817801,
+"endMs": 1825380,
+"text": "Casi lo mata con ese pelo. \"Elvet lejem Yehudah\", se regresó ella a Yehudah. \"Vati sham yamim arbaa jodeshim\"."
+},
+{
+"startMs": 1825901,
+"endMs": 1840221,
+"text": "Cuatro meses está en la casa de sus papás. \"Vayakom ishah veelej ajarea\". ¿Sí? Va su esposo a buscarla, le-- \"Ledaber eli baal haeshivah, venaaró imó betzel jamurim, vatibieu bet avia, vayireu avia naara, vayismáj likrato\"."
+},
+{
+"startMs": 1840541,
+"endMs": 1851441,
+"text": "¿Sí? La ve, lo ve su suegro y se alegra de que lo está viendo. \"Veyajazek bo jotno\", había naara, \"veyashev ito shlosha yamim, veojló veishtó velinu sham\"."
+},
+{
+"startMs": 1851521,
+"endMs": 1859380,
+"text": "Durmió tres días, le dio de comer, esté contento. \"Vehi veyom hariví, neshkimó beko, veyakom lalé-lalej et, vayom, yam kehi, vayomer avia naara\"."
+},
+{
+"startMs": 1859860,
+"endMs": 1870360,
+"text": "El catano hace: \"Ad lidjá pat lejem, veajar teleju\". Unasudá más y luego vete. \"Veeshbo veojlu snei mejalá, veishtó veyomer avia naara el haish: Ohel ná velin veitav libeja\"."
+},
+{
+"startMs": 1870581,
+"endMs": 1876645,
+"text": "Que esta una noche más. \"Veyakom haish lalej et Ya se va a ir. \"Vayiftzar bo jotno vayashav hair enshan\"."
+},
+{
+"startMs": 1877284,
+"endMs": 1883645,
+"text": "Le insistió mucho su suegro: \"Ya, quédate, quédate\", se quedó ahí. \"Vehashkem ba-boker veyom hachamishi laljet\"."
+},
+{
+"startMs": 1884065,
+"endMs": 1891405,
+"text": "Y hoy en la mañana. \"Seadna levaveja veitmahahu ad netot hayom veichlu shnehem\". Dijo: \"Por favor, quédate\"."
+},
+{
+"startMs": 1891825,
+"endMs": 1899105,
+"text": "¿Otra vez? Y entonces se quedó hasta la noche, ¿sí? Hasta que se empezó a anochecer. El quinto día de noche llega. Ya se empezó a anochecer."
+},
+{
+"startMs": 1899105,
+"endMs": 1905385,
+"text": "\"Vayakom haish laljet hu pilagsho uneharo\", ya se está yendo con su pilagia, su sonar. \"Vayomer lo jotno\", había una hará."
+},
+{
+"startMs": 1905725,
+"endMs": 1911185,
+"text": "\"Inena rafa hayom la'arov\", ya se está haciendo de noche. \"Linuna."
+},
+{
+"startMs": 1912405,
+"endMs": 1921685,
+"text": "Chanot hayonim po vaitav levaveja veshkem tamajá veyelje\". Va a la tienda de lonas, y eso era lo mañana. Dice: \"Velo abá haish lalun\", dijo: ya, hasta acá."
+},
+{
+"startMs": 1922525,
+"endMs": 1931385,
+"text": "Dice: \"Vayakom haielej vayavo ad nojaj Yebús\". Entonces, fue hasta Yebús. Yebús es, es hasta -- Aquí Jerusalén, Yebús es Jerusalén."
+},
+{
+"startMs": 1931385,
+"endMs": 1939445,
+"text": "\"Ve imo tzemed jamorim jabushim vepilagsho imo\". Entonces, llegó hasta Jerusalén. Hasta Yebús. Todavía aquí Jerusalén no es Jerusalén, ¿sí?"
+},
+{
+"startMs": 1939485,
+"endMs": 1946705,
+"text": "Estamos entendiendo, los alumnos. Jerusalén empezó a ser Jerusalén hasta que David, Salomón construyen Jerusalén. Ahorita el Mishkan-"
+},
+{
+"startMs": 1948025,
+"endMs": 1957465,
+"text": "Ya estaban en el exilio, ya pasaron- Sí, sí, pero Yebús seguía siendo Yebús, ¿sí? Y aquí el pasuk te, te, te dice que es Yebús, pero es lo que va a ser más adelante Jerusalén."
+},
+{
+"startMs": 1957545,
+"endMs": 1965465,
+"text": "¿Qué es \"tzemed jamorim\"? Dos, dos jamorim jabushim vepilagsho imo. \"Hem min Yebús\", están en Yebús."
+},
+{
+"startMs": 1965505,
+"endMs": 1976685,
+"text": "\"Ve hayom rad meod\", ya se está haciendo ממש de noche. \"Ve yomer hana'el adonam\", necesitamos una casa. \"Lejaná venasura elir Yebusi hazot venalim ba\", vamos a ir a ir a Yebusi, vamos a dormir ahí."
+},
+{
+"startMs": 1977465,
+"endMs": 1986284,
+"text": "\"Ve yomer elav adonam lo nasur elir nochri\", son goim. \"Ashelo mimbei Israel hená. Va'avárnu ad Guibá\". Entonces, tenemos que ir a la Guibá, ¿sí?"
+},
+{
+"startMs": 1986865,
+"endMs": 1990985,
+"text": "La Guibá es la ciudad de Benjamín, porque de Yeru-- de, de,"
+},
+{
+"startMs": 1992505,
+"endMs": 1999784,
+"text": "de Yehudá se conecta hacia Benjamín. Entonces, él está en Yehudá, Jerusalén, y el mismo Jerusalén ya se empieza a convertir en Benjamín."
+},
+{
+"startMs": 2000145,
+"endMs": 2009725,
+"text": "Entonces, vámonos ahí, va Guibá. Todo esto es como que un bituy, a que si Jerusalén ya estuviera construida, entonces tuvieran para quedarse ahí en Jerusalén."
+},
+{
+"startMs": 2009825,
+"endMs": 2016825,
+"text": "El hecho que no tienen para quedarse en Jerusalén y Jerusalén no está conquistada todavía y siguen viviendo ahí goim, eso los hace irse a Benjamín."
+},
+{
+"startMs": 2017125,
+"endMs": 2024005,
+"text": "Quiere decir, si se fijan acá, está-- hay gente en Yehudá y para llegar a Benjamín hay un- Goim."
+},
+{
+"startMs": 2024225,
+"endMs": 2042045,
+"text": "Efsek, hay goim. Entonces, todavía no conectan Yehudá y Benjamín en el kibutz, ¿sí? Y esto, eh, o sea, como que si entendemos como que en remes, lo que está pasando acá es que si llega Benjamín y pasa problemas y él viene de Yehudá y de repente ahorita le pasan problemas en Benjamín, ahorita vamos a ver, ¿sí?"
+},
+{
+"startMs": 2042145,
+"endMs": 2051985,
+"text": "Entonces, quiere decir que es veome que es porque Jerusalén no se ha conquistado y el makom, lo único que va a unir a Yehudá y Benjamín es Jerusalén, en otras palabras, la Shejiná."
+},
+{
+"startMs": 2052345,
+"endMs": 2059264,
+"text": "Entonces, como ahorita no hay Shejiná, entonces ahorita Yehudá y Benjamín no están conectados y vamos a ver ahorita qué pasa al llegar a Benjamín, ¿sí?"
+},
+{
+"startMs": 2059324,
+"endMs": 2066205,
+"text": "Pero yo ahorita lo estoy tratando de traducir, no a nivel técnico, sino ma, ma alejo, ¿sí?"
+},
+{
+"startMs": 2066745,
+"endMs": 2073145,
+"text": "\"Ve amar lo\", eh, entonces dice: \"Con goim no podemos estar, claro que no podemos estar. Necesitamos estar con nuestros hermanos\"."
+},
+{
+"startMs": 2073404,
+"endMs": 2081525,
+"text": "Entonces, pues, ¿verdad que nos van a recibir Benjamín, no? Dice: \"Ve yomer le na'aró: Lejav ni krevav ejad hamakomot velanu be Guibá o ba Ramá."
+},
+{
+"startMs": 2082505,
+"endMs": 2089245,
+"text": "Vayabru veyeleju vatavo lahem hashemesh etzel haGuibá asher leBinyamín\". Entonces, llegaron a la Guibá asher leBinyamín."
+},
+{
+"startMs": 2089625,
+"endMs": 2095465,
+"text": "\"Ve yasuru sham lavó lalun be Guibá\". Entonces, querían dormir en la Guibá. \"Vayavo vayeshiv birjov hair\","
+},
+{
+"startMs": 2096705,
+"endMs": 2105385,
+"text": "se sientan en la ciudad. \"Ve en ish measef otam habaitá lalun\", ¿sí? Nadie-- Na-- En otras palabras, aquí, ¿a qué nos está recordando esto?"
+},
+{
+"startMs": 2105705,
+"endMs": 2113505,
+"text": "Lot. ¿Eh? Lot. Lot hay muchísimos, sí, Lot lleva apareciendo desde el principio de la historia, pero ya no lo quiero meter ahorita."
+},
+{
+"startMs": 2114045,
+"endMs": 2124165,
+"text": "Pero sí, Lot todo el tiempo. Con la escapada de- Y todo eso, sí. Entonces, pero ahorita, sí, muy bien, esto sí se parece mucho a Lot y se parece, si se fijan, a Anchez Dom."
+},
+{
+"startMs": 2124245,
+"endMs": 2136305,
+"text": "Anchez Dom no, no había unión. Y entonces, ahorita él está ahí, pero hablando en los términos que tenemos nosotros en nuestra Gemara, es que tienes a una persona que quiere..."
+},
+{
+"startMs": 2138545,
+"endMs": 2145505,
+"text": "Alguien que... Que lo reciba. Sí, que no lo deje solo en la noche. ¿Les suena nuestra Gemara? Yamm Ti."
+},
+{
+"startMs": 2146285,
+"endMs": 2158025,
+"text": "Dos. Sí, dos. Por favor, no me dejen solo en la noche. Dice: \"Ve en ish measef otam habaitá lalun. Vene'is zeken ba min ma'asehu min hasade ve'éreb."
+},
+{
+"startMs": 2158065,
+"endMs": 2169285,
+"text": "Vehaish me'arefrain\". Llega un, un viejito ahí, que llega ya de noche después del trabajo, y este ish es me'arefrain, es de Yosef, este hombre."
+},
+{
+"startMs": 2169585,
+"endMs": 2170585,
+"text": "\"Vahu gar baGuibá\"."
+},
+{
+"startMs": 2172265,
+"endMs": 2179705,
+"text": "Y él vivía en la Guibá. \"Veansham makom bnei yamini\". Y la gente de ahí son de Benjamín. \"Vaitsá enav bayar et haish haorej birjov hair."
+},
+{
+"startMs": 2179745,
+"endMs": 2185065,
+"text": "Vayomer haish hazequen: Anata leja umeyn atá bo?\" Hasta dónde vas y de dónde vienes. \"Vayomer:"
+},
+{
+"startMs": 2186465,
+"endMs": 2193425,
+"text": "Elam. Mira, anajnu ovrim anajnu beBet Lejem Yehudá\". Nosotros estamos yendo desde Bet Lejem Yehudá. ¿Hasta dónde vamos?"
+},
+{
+"startMs": 2193485,
+"endMs": 2195105,
+"text": "A Bet Efraim, ¿a qué les suena?"
+},
+{
+"startMs": 2196944,
+"endMs": 2203105,
+"text": "Alguien que viene, alguien que viene de Yehudá y quiere conectar con-- hasta Yosef."
+},
+{
+"startMs": 2203485,
+"endMs": 2218165,
+"text": "Pero para llegar de Yehudá hasta Yosef, tiene que pasar por Benjamín. Nada más que el problema es que entre Yehudá y Yosef, entre Yehudá y Benjamín, hay un nochri, justamente en donde-- en Jerusalén, y ahorita se llama Yebús, entonces ya no es Jerusalén."
+},
+{
+"startMs": 2218625,
+"endMs": 2226365,
+"text": "Entonces, ¿ellos ahí van a poder conectar desde Yehudá hasta Yosef? ¿Van a poder llegar hasta Yosef o no van a poder llegar hasta Yosef?"
+},
+{
+"startMs": 2226965,
+"endMs": 2233965,
+"text": "Entonces, dice: \"Misham anochi\", de ahí, de ahí vengo. \"Vaelej et Bet Lejem Yehudá\", yo fui hasta Bet Lejem Yehudá."
+},
+{
+"startMs": 2234205,
+"endMs": 2242705,
+"text": "\"Vet Bet Hashem ani olej\". Yo estoy yendo hasta Bet Hashem. Es decir, el Mishkan Shilo, donde está el Mishkan ahí en Yosef."
+},
+{
+"startMs": 2242944,
+"endMs": 2249645,
+"text": "\"Ve en ish measef oti habaitá\". Y nadie me invita a su casa. Me ven como un-- como si fuera un goy, ¿sí?"
+},
+{
+"startMs": 2251365,
+"endMs": 2262045,
+"text": "Dice: \"Ve gam teven, gam mispo yesh lejamorenu, ve gam lejem ve yayin\". Dice: \"No necesito que alguien me dé comida, no nada\". Dice: \"Yesh li ulamatejá velana'im avadejá, en jachsor kol davar\"."
+},
+{
+"startMs": 2262265,
+"endMs": 2270145,
+"text": "No necesito, no le cuesta a nadie, posut que nos den casa. \"Vayomer haish hazequen: Shalom lak, rak kol jachsurejá alai\","
+},
+{
+"startMs": 2271685,
+"endMs": 2279965,
+"text": "dice: \"Rak al-- rak barejov altalan\". Dice-- entonces, no lo está recibiendo alguien de Benjamín, lo está..."
+},
+{
+"startMs": 2280118,
+"endMs": 2283098,
+"text": "Recibiendo a alguien de Yosef. Dice: \"Somos hermanos, yo soy de Efraim\"."
+},
+{
+"startMs": 2284379,
+"endMs": 2289698,
+"text": "Sí, este-- el viejito este es de Efraim. Ahora, él le dice: \"."
+},
+{
+"startMs": 2292618,
+"endMs": 2296459,
+"text": "¿Qué es esto? A ver . Hoy"
+},
+{
+"startMs": 2300319,
+"endMs": 2309178,
+"text": ". Dice: \"Yo no te voy a dar comida, pero no, no duermas en la co-- en, en la calle\". Este es el mismo lashón de, de Lot, es Dóm."
+},
+{
+"startMs": 2309178,
+"endMs": 2309178,
+"text": "\""
+},
+{
+"startMs": 2310658,
+"endMs": 2310939,
+"text": "Allen\"."
+},
+{
+"startMs": 2312317,
+"endMs": 2312919,
+"text": "Entonces, dice: \""
+},
+{
+"startMs": 2315839,
+"endMs": 2315839,
+"text": "\"."
+},
+{
+"startMs": 2321919,
+"endMs": 2325038,
+"text": "Está comiendo, y entonces, qué pasa. Stop. \""
+},
+{
+"startMs": 2331118,
+"endMs": 2331999,
+"text": "\". Tocan la puerta. \""
+},
+{
+"startMs": 2336299,
+"endMs": 2340598,
+"text": "Allen\". Saca lo. Sí, ממש como Dóm. Sí, la misma palabra. \""
+},
+{
+"startMs": 2342919,
+"endMs": 2344638,
+"text": "Allen\". Dice: \"Hija, te la hago. Na. \""
+},
+{
+"startMs": 2348658,
+"endMs": 2352538,
+"text": "Allen\". Dice: \"Hi, nebitia betula\". Sí, ממש Lot. Sí. \""
+},
+{
+"startMs": 2354698,
+"endMs": 2355678,
+"text": "Yesa pileges"
+},
+{
+"startMs": 2363218,
+"endMs": 2370399,
+"text": ". Entonces, fíjense, aquí Benjamín está anti, anti, anti, kilo, un odio total a esta persona que viene de Juda."
+},
+{
+"startMs": 2371618,
+"endMs": 2379158,
+"text": "Pero otra vez el mismo error de ofrecer a su hija y a la esta como- Sí, sí, sí, se está repitiendo la historia de Lot. Sí, sí. \"Allen\"."
+},
+{
+"startMs": 2379258,
+"endMs": 2382258,
+"text": "Entonces, esto de alguna manera, todo Benjamín"
+},
+{
+"startMs": 2383658,
+"endMs": 2386198,
+"text": "tiene que ver con Lot. Sí, digo, eso hay que darle dos. \""
+},
+{
+"startMs": 2388359,
+"endMs": 2394738,
+"text": "Allen\". David viene de quién ? De Rut. Entonces, dice: \""
+},
+{
+"startMs": 2398499,
+"endMs": 2403519,
+"text": "Allen\". Y entonces, no querían lishmoalo, y este agarró a su pilegesh, la agarró fuerte para que-- \""
+},
+{
+"startMs": 2406459,
+"endMs": 2406718,
+"text": "Allen\", ¿sí?"
+},
+{
+"startMs": 2407959,
+"endMs": 2414859,
+"text": "La, la, la, las, la sacaron. No, la-- él agarró a su pilegesh y se las dio, ¿sí?"
+},
+{
+"startMs": 2415479,
+"endMs": 2418738,
+"text": "La violaron. \"Allen\"."
+},
+{
+"startMs": 2420158,
+"endMs": 2424839,
+"text": "Se parece a Rut y Orpa, si se fijan a Orpa, que estuvieron con ella toda la noche. Dice: \""
+},
+{
+"startMs": 2427138,
+"endMs": 2433859,
+"text": "Allen\". ¿Rut y quién? Orpa con- Orpa, cuando se va. Entonces, ahí, sí. Entonces, ya la mandan."
+},
+{
+"startMs": 2433859,
+"endMs": 2435118,
+"text": "\"Allen\"."
+},
+{
+"startMs": 2437439,
+"endMs": 2444819,
+"text": "Se cae ahí toda acabada completamente en la casa. \"Allen\", hasta la mañana."
+},
+{
+"startMs": 2444819,
+"endMs": 2444819,
+"text": "\""
+},
+{
+"startMs": 2451178,
+"endMs": 2452319,
+"text": "Allen\"."
+},
+{
+"startMs": 2454718,
+"endMs": 2459058,
+"text": "Sí, estaba agarrando ahí, ya, ya no aguantaba más, tu-tronada completamente. \""
+},
+{
+"startMs": 2461879,
+"endMs": 2462778,
+"text": "Allen\". Dice: \""
+},
+{
+"startMs": 2464038,
+"endMs": 2465979,
+"text": "Alo, despiértate, vámonos, ya nos vamos\". \""
+},
+{
+"startMs": 2469019,
+"endMs": 2475538,
+"text": "Allen\". No hay quien conteste. \"Allen\". La agarra sobre el burro y se va."
+},
+{
+"startMs": 2475578,
+"endMs": 2475578,
+"text": "\""
+},
+{
+"startMs": 2477859,
+"endMs": 2479959,
+"text": "Allen\". Esto aquí ya no, que no suena."
+},
+{
+"startMs": 2482778,
+"endMs": 2483538,
+"text": "Akedat Itzjak. Akedat Itzhak. \""
+},
+{
+"startMs": 2486019,
+"endMs": 2492819,
+"text": "Allen\"."
+},
+{
+"startMs": 2493399,
+"endMs": 2499618,
+"text": "La parte en doce, no, es la muerta. No dijo que se murió, eso es lo que... No, en \"Allen\"."
+},
+{
+"startMs": 2500379,
+"endMs": 2507738,
+"text": "Sí, ya, ya se, se murió. La parte en doce y la manda a todo Bul Israel. ¿Qué representa esto?"
+},
+{
+"startMs": 2507879,
+"endMs": 2518399,
+"text": "Que ahorita los doce Shevatím están completamente bepirut, porque todo lo que Shaya que hay ajdut es porque hay ajdut entre Juda y Yosef."
+},
+{
+"startMs": 2518819,
+"endMs": 2520379,
+"text": "Y entonces, ahorita Benjamín, que"
+},
+{
+"startMs": 2521759,
+"endMs": 2524459,
+"text": "no ha-- no hizo ajnat atrojim esta persona de Juda"
+},
+{
+"startMs": 2526019,
+"endMs": 2536638,
+"text": "y Yosef, ¿sí? A ver, él es Juda y Yosef. Entonces, él viene de Yosef, va hasta Juda, hasta ahora quiere regresar y no puede porque Benjamín no le deja, porque Jerusalén está así."
+},
+{
+"startMs": 2536977,
+"endMs": 2543658,
+"text": "Entonces, mi mele quiere decir que hay un pirud total entre los doce Shevatím, ¿sí? Entonces, mi mele la manda."
+},
+{
+"startMs": 2544339,
+"endMs": 2550098,
+"text": "Y entonces, todos-- llega a cada, este, un sobrecito con un, con un pedazo de pilegesh. \""
+},
+{
+"startMs": 2557718,
+"endMs": 2558178,
+"text": "Allen\"."
+},
+{
+"startMs": 2562519,
+"endMs": 2565399,
+"text": "Dice: \"Esto no, no pasut, hay que hacer algo\". \""
+},
+{
+"startMs": 2570819,
+"endMs": 2575319,
+"text": "Allen\". Se unieron todos. \"Allen\", que es el norte. \"Allen\", que es lo más sur. \""
+},
+{
+"startMs": 2576819,
+"endMs": 2582299,
+"text": "Allen\". Todos, todos, todos se unen, eh, eh,"
+},
+{
+"startMs": 2584078,
+"endMs": 2587218,
+"text": "eh, para, para ver qué hacer. \"Allen\"."
+},
+{
+"startMs": 2593839,
+"endMs": 2601859,
+"text": "Cuatrocientos mil soldados. \"Allen\"."
+},
+{
+"startMs": 2602538,
+"endMs": 2610259,
+"text": "Vienen todo Israel con Benjamín y dicen: \"Aló, ¿cómo puede ser que pasó algo así?\". Dice: \"Esto no es, no es un acto judío\"."
+},
+{
+"startMs": 2610259,
+"endMs": 2610259,
+"text": "\""
+},
+{
+"startMs": 2611939,
+"endMs": 2613899,
+"text": "Allen\". Entonces, este señor. \""
+},
+{
+"startMs": 2615658,
+"endMs": 2624178,
+"text": "Allen\"."
+},
+{
+"startMs": 2641158,
+"endMs": 2647959,
+"text": "No podemos, eh, cada uno ir a sus caminos. Está como en desorden, ¿no? O sea, primero fue un ejército y luego le preguntaron qué pasó."
+},
+{
+"startMs": 2648939,
+"endMs": 2653759,
+"text": "O sea, vamos a hacer algo. Y entonces, él, ahí a todo el ejército, les dice exactamente qué pasó. \""
+},
+{
+"startMs": 2656019,
+"endMs": 2665886,
+"text": "Allen\". En goral. وِלָקַחְנוּ עֲשָׂרָה אֲנָשִׁים לְמֵאָה לְכָל שִׁבְטֵי יִשְׂרָאֵל וּמֵאָה לְאֶלֶף וְאֶלֶף לִרְבָבָה לָקַחַת צְלָע לָעָם לַעֲשׂוֹת לְבֹעַם לְגֶבַע בִּנְיָמִין"
+},
+{
+"startMs": 2667227,
+"endMs": 2674707,
+"text": "כְּכָל הַנֶּבֶלָה אֲשֶׁר עָשָׂה בְּיִשְׂרָאֵל. A ver, estamos en la gibah de Binyamin. Gibah de Binyamin."
+},
+{
+"startMs": 2674707,
+"endMs": 2676906,
+"text": "¿No? Prendan el,"
+},
+{
+"startMs": 2678567,
+"endMs": 2681687,
+"text": "la señal, el switch. Gibah de Binyamin."
+},
+{
+"startMs": 2688807,
+"endMs": 2694147,
+"text": "No, no, las palabras. Gibah y Binyamin. Gibah, no. Gibah"
+},
+{
+"startMs": 2698067,
+"endMs": 2700006,
+"text": "y Binyamin. ¿A qué horas son?"
+},
+{
+"startMs": 2704026,
+"endMs": 2706446,
+"text": "Nuestra historia, nuestra historia famosa de..."
+},
+{
+"startMs": 2707986,
+"endMs": 2714767,
+"text": "No sabemos de cuál estamos hablando. Nuestra historia de Binyamin y Yehuda y Yosef y la venta y esto, lo otro."
+},
+{
+"startMs": 2715207,
+"endMs": 2722627,
+"text": "Ah, ¿la copa? ¿Cómo se llama la copa? Eso. Gavia. Gavia. ¿De quién? De Yosef."
+},
+{
+"startMs": 2723026,
+"endMs": 2729906,
+"text": "Estaba en el- Entonces, el Gavia de Yosef está en el este de Binyamin. Cuando lo encuentran, todos los Shvatim le empiezan a pegar."
+},
+{
+"startMs": 2731946,
+"endMs": 2739687,
+"text": "Todos los Shvatim le empiezan a pegar. Dice: \"¿Qué estás loco? O sea, ¿no viste que...? Entonces, le daban golpes, no lo matan."
+},
+{
+"startMs": 2740247,
+"endMs": 2752526,
+"text": "Ese es Ulai, ese es, ese es el remez de aquí, lo que Binyamin estuvo a punto de morir, ¿okey? Entonces, lo empiezan a agarrar a golpes a Binyamin hasta que viene, hasta que viene Yehuda, ¿sí?"
+},
+{
+"startMs": 2753046,
+"endMs": 2754627,
+"text": "Y dice: \"No, no, no, no, espérate\"."
+},
+{
+"startMs": 2755846,
+"endMs": 2765446,
+"text": "Aunque, aunque robó Binyamin, entonces, estaban seguros que robó, ¿sí? Entonces, estaban seguros que robó y ahí es cuando Yehuda se entrega y pasa el tikun."
+},
+{
+"startMs": 2766667,
+"endMs": 2771287,
+"text": "Entonces, entonces, en-- cuando Binyamin tiene la copa de Yosef,"
+},
+{
+"startMs": 2773386,
+"endMs": 2781167,
+"text": "tiene la gibah, parece que está robando, betchen. Entonces, ahí es donde Yehuda hace este, este, este mase."
+},
+{
+"startMs": 2781486,
+"endMs": 2789926,
+"text": "Entonces, ahorita, en la historia dos, estamos acá que Binyamin está en la gibah y vienen todos los hermanos a zumbarse."
+},
+{
+"startMs": 2790067,
+"endMs": 2795546,
+"text": "Guau. ¿Sí? Ajá. De hacer sotomeret, que lo que-- ahí los hermanos están"
+},
+{
+"startMs": 2796986,
+"endMs": 2798667,
+"text": "agarrándose a Binyamin muy fuerte,"
+},
+{
+"startMs": 2800527,
+"endMs": 2814506,
+"text": "pero en verdad ahí es un error. Allá, me metes un error. Aquí este error como que no parece tanto error, pero vamos a ver Hashem de qué lado está, porque parece, parecería que debería estar del lado de los Shvatim, porque Binyamin mamá, lo que hizo es no era de ayom."
+},
+{
+"startMs": 2814986,
+"endMs": 2835006,
+"text": "וְאָסֵף כָל אִישׁ יִשְׂרָאֵל אֶל הָעִיר כְּאִישׁ אֶחָד חֲבֵרִים. וְיִשְׁלְחוּ שִׁבְטֵי יִשְׂרָאֵל אֲנָשִׁים בְּכָל שִׁבְטֵי בִנְיָמִין לֵאמֹר מָה הָרָעָה הַזֹּאת אֲשֶׁר נִעֶבְדָה בָכֶם וַתַּתְּנוּ אֶת הָאֲנָשִׁים בְּנֵי בְלִיָּעַל אֲשֶׁר בַּגִּבְעָה וּנְמִתֶם וְנֶעֱבָרָה הָרָעָה מִיִּשְׂרָאֵל וְלֹא אָהֲבוּ בְנֵי בִנְיָמִין לִשְׁמֹעַ בְּקוֹל אֲחֵיהֶם בְּנֵי יִשְׂרָאֵל."
+},
+{
+"startMs": 2835027,
+"endMs": 2842866,
+"text": "¿Sí? No, dice: \"Denos a estas personas que hicieron esta, esta locura de, de, de con la pilegesh."
+},
+{
+"startMs": 2843446,
+"endMs": 2846227,
+"text": "Y Bnei Binyamin no quieren entregarle a estos bnei Belial\"."
+},
+{
+"startMs": 2847707,
+"endMs": 2848926,
+"text": "Es aquí, aquí, vamos, vamos."
+},
+{
+"startMs": 2850346,
+"endMs": 2859067,
+"text": "Entonces, dice: \"Veiasú\", nada más acabamos rápido, seguimos nada más a un punto, hasta lapei, tres pesukim. וְיָסְעוּ בְנֵי בִנְיָמִין מִן הָעָרִים מִגִּבְעָתָה לָצֵאת לַמִּלְחָמָה מִן יִשְׂרָאֵל."
+},
+{
+"startMs": 2859107,
+"endMs": 2870607,
+"text": "Dice, entonces, Binyamin dice: \"Vamos a hacer guerra con amo Israel\". וַיִּתְפַּקְּדוּ בְנֵי בִנְיָמִין בַּיּוֹם הַהוּא מֵהָעָרִים עֶשְׂרִים וְשִׁשָּׁה אֶלֶף אִישׁ הוֹלֵךְ חֶרֶב לְבַד מִיּוֹשְׁבֵי הַגִּבְעָה יִתְפַּקְּדוּ שְׁבַע מֵאוֹת אִישׁ בָּחוּר."
+},
+{
+"startMs": 2871126,
+"endMs": 2878267,
+"text": "Entonces, veintiséis mil más setecientos. מִכָּל הָעָם הַזֶּה שְׁבַע מֵאוֹת אִישׁ בָּחוּר יְתֵר יָד יְמִינוֹ. Están-- todos eran zurdos."
+},
+{
+"startMs": 2879107,
+"endMs": 2886586,
+"text": "No sé por qué Binyamin era zurdo, pero betchen sabemos que Binyamin es como que el, o sea, tiene como que el lado izquierdo, ¿no?"
+},
+{
+"startMs": 2886767,
+"endMs": 2892886,
+"text": "Un poco el... Justamente él es Binyamin, y ahorita todos son zurdos, ¿sí? Dice--"
+},
+{
+"startMs": 2894446,
+"endMs": 2901926,
+"text": "No, pero es Binyamin porque nació en Yehuda, pero él está a la izquierda de Yehuda. יְתֵר יָד יְמִינוֹ. כָּל זֶה כֹּלֶא בְאֶבֶן אַל שְׂאָרָה בְלֹא יַחְתִי."
+},
+{
+"startMs": 2902346,
+"endMs": 2908707,
+"text": "Todos tienen un tino impresionante, ¿sí? Eso se llama, o sea, saben- Colea, colea."
+},
+{
+"startMs": 2908727,
+"endMs": 2915747,
+"text": "Colea, le atinan impresionante. ¿A qué? A las flechas o a las... Tienen, sí, tienen mucho tino."
+},
+{
+"startMs": 2915845,
+"endMs": 2925406,
+"text": "Entonces, tienen, tienes, por un lado, gente con mucha fuerza y en Binyamin son gente con mucho cálculo, vamos a llamarle así, con mucha cabeza, vamos a llamarle así."
+},
+{
+"startMs": 2926446,
+"endMs": 2929626,
+"text": "A ver, vamos a empezar. Que Yehuda"
+},
+{
+"startMs": 2930866,
+"endMs": 2931966,
+"text": "no se está dando cuenta"
+},
+{
+"startMs": 2933807,
+"endMs": 2933807,
+"text": "."
+},
+{
+"startMs": 2935767,
+"endMs": 2940386,
+"text": "Lo estoy con algo. Lo que Yehuda no se está dando cuenta es que,"
+},
+{
+"startMs": 2942787,
+"endMs": 2944926,
+"text": "que en verdad, en cierto aspecto,"
+},
+{
+"startMs": 2946567,
+"endMs": 2952227,
+"text": "él va a atacar a Binyamin, porque Binyamin tiene gente bnei Belial, que es muy mal"
+},
+{
+"startMs": 2953506,
+"endMs": 2960586,
+"text": "y lo va a atacar. Pero el problema es que Yehuda no se está dando cuenta. ¿Estás distral o no estás? Sí, sí, perdón. Digo. Vamos."
+},
+{
+"startMs": 2961527,
+"endMs": 2964827,
+"text": "Parece estamos. Sí, sí, vamos. Para, por qué te lo he retirado."
+},
+{
+"startMs": 2968446,
+"endMs": 2975366,
+"text": "Yehuda va a atacar ahorita a Binyamin. ¿Por qué? Porque Binyamin- ¿Podemos poner cosas en orden un segundo? Sí, sí."
+},
+{
+"startMs": 2975426,
+"endMs": 2976866,
+"text": "Okey. Estamos acá hablando."
+},
+{
+"startMs": 2978406,
+"endMs": 2983446,
+"text": "Eh, este sí porque pasó que había el Zaken y estaba el joven. Había-- eran dos."
+},
+{
+"startMs": 2986667,
+"endMs": 2993027,
+"text": "El Zaken es de Yosef. Antes de eso, antes de eso. La pilegesh era de... Yehuda."
+},
+{
+"startMs": 2993527,
+"endMs": 2995906,
+"text": "De Yehuda. Y el, y, y,"
+},
+{
+"startMs": 2998486,
+"endMs": 3004727,
+"text": "y el novio, no el novio, el esposo, ¿de dónde es? Levi. Levi. Ish Binyamin Levi. Pero vivía en Yosef."
+},
+{
+"startMs": 3005287,
+"endMs": 3010787,
+"text": "Vivía en Yosef. Vivía en Yosef. Okey. Ella se le escapa. Se le escapa y él va por ella y el suegro lo..."
+},
+{
+"startMs": 3012067,
+"endMs": 3018227,
+"text": "Quiere que se quede con él. Se van en la noche, se van de noche, se atoran en Yerushalayim, llegando a Yerushalayim."
+},
+{
+"startMs": 3019126,
+"endMs": 3026738,
+"text": "Y ahí es donde un Zaken de la Rahmanut- No en Yerushalayim. Yerushalayim no pudieron Porque había goim."
+},
+{
+"startMs": 3027038,
+"endMs": 3034078,
+"text": "Exactamente. Entonces se fueron a la Guibaá, a la ciudad de Benjamín. Claro, ya. Y ahí en la ciudad de Benjamín- Está el viejito este con dos personas."
+},
+{
+"startMs": 3034118,
+"endMs": 3040299,
+"text": "El viejito lo, el viejito los recibe y los de Benjamín de ninguna manera aceptan que los reciban."
+},
+{
+"startMs": 3040698,
+"endMs": 3045979,
+"text": "Pero había otro con el viejito, ¿no? Eran dos. No, él, él estaba con su navajilla y el jamón. Okey."
+},
+{
+"startMs": 3047419,
+"endMs": 3057479,
+"text": "Entonces... Y ahí toda la ciudad los, este, amuralla, caelu, en la casa y, y él ya como que suelta a su pilegesh, la violan, etcétera."
+},
+{
+"startMs": 3057839,
+"endMs": 3066138,
+"text": "Se la acaban. Se muere. Él aparte hace en pedazos- Se muere la pil, pilegesh. El esposo la parte en doce pedazos. La parte en doce pedazos, la manda a todo Israel, se calientan durísimo contra..."
+},
+{
+"startMs": 3066519,
+"endMs": 3075818,
+"text": "Benjamín. Contra Benjamín. Dicen: \"No, nunca ha habido algo así en Israel\". Pero ¿cómo puede ser que Benjamín- Y quieren hacer guerra. Siendo el Shalom que hemos hablado tanto de él, cae en esta situación."
+},
+{
+"startMs": 3076259,
+"endMs": 3080499,
+"text": "Oh, este es el punto acá, donde Yehudá aquí va a hacer guerra contra Benjamín."
+},
+{
+"startMs": 3081759,
+"endMs": 3084519,
+"text": "Yehudá va a hacer guerra contra Benjamín, pero Yehudá"
+},
+{
+"startMs": 3085759,
+"endMs": 3096038,
+"text": "no entiende. Hay que-- no lo sé explicar al cien por ciento, pero digo, así se puede ver. Yehudá no entiende que el problema de que Benjamín está así es su problema."
+},
+{
+"startMs": 3097618,
+"endMs": 3100658,
+"text": "Porque si, fíjense, en la primera historia,"
+},
+{
+"startMs": 3101919,
+"endMs": 3108658,
+"text": "si Yehudá no decide venderse de esclavo y dejar de ser rey, Hilu, pero eso es ser rey, no sé si se acuerdan."
+},
+{
+"startMs": 3108879,
+"endMs": 3114939,
+"text": "Claro. Pero esa es la manera como ser rey. ¿Qué dijo acá de nosotros que- De Yehudá. Que ser rey es dar a los demás."
+},
+{
+"startMs": 3115598,
+"endMs": 3125738,
+"text": "Lo dijimos en la clase el jueves. Entonces... Alguien abrió el pétajo. Entonces, hasta que Yehudá no decide ser rey, pero la, la única manera de ser rey es como que"
+},
+{
+"startMs": 3127558,
+"endMs": 3135538,
+"text": "dar, entregarse. Entonces, los hermanos se, se están acabando a Benjamín a muerte, ¿sí?"
+},
+{
+"startMs": 3136698,
+"endMs": 3145818,
+"text": "Entonces, acá toda esta historia empieza porque en Melej ve-Israel. Ah, así pasa. Y entonces, sí, va a ir Benjamín Maem, un Melej en ve-Israel."
+},
+{
+"startMs": 3146499,
+"endMs": 3158419,
+"text": "No hay rey en Israel. Entonces, si no hay rey en Israel, estas las cosas que pasan. Y una de las cosas que pasan, porque ser que no hay rey en Israel, es que Benjamín toma ese comportamiento."
+},
+{
+"startMs": 3158678,
+"endMs": 3169259,
+"text": "Benjamín, en verdad, y eso se ve en la historia de los hermanos, se siente perdido entre los yehudím, se siente muy, muy perdido, se siente como que muy no aceptado, muy, muy perdido."
+},
+{
+"startMs": 3169479,
+"endMs": 3177959,
+"text": "Pero, ¿por qué? Si, si no está en esa unión con Yehudá. Y entonces, mientras no tenga esa unión con Yehudá- Yehudá como que lo protege a Benjamín cuando está ahí con él."
+},
+{
+"startMs": 3178058,
+"endMs": 3184618,
+"text": "Sí, exactamente. Entonces, ahorita Benjamín, él sí está-- cae en un lugar muy bajo, es como un niño que se ha hecho a perder, pero no tiene familia."
+},
+{
+"startMs": 3184618,
+"endMs": 3197678,
+"text": "¿Me explico? Es un niño que se ha hecho a perder, pero no tiene familia. Sí, se caga. Entonces, parece que el problema es de la familia, pero en verdad el problema, el problema-- parece el problema es el niño, porque él es el que está así, pero el problema es de la familia."
+},
+{
+"startMs": 3198198,
+"endMs": 3207019,
+"text": "Entonces, acá Yehudá va a atacar a Benjamín por ser que actúa de esa manera. Pero el problema es que Yehudá no sabe que el problema es él, porque en Melej ve-Israel."
+},
+{
+"startMs": 3207479,
+"endMs": 3215259,
+"text": "Y cuando no hay Melej en Israel, entonces Benjamín se comporta de esa manera. Okey. Entonces, lo van a comprobar si abren nada más aquí, Shoftim, mismo en Perej Kaleb."
+},
+{
+"startMs": 3217318,
+"endMs": 3223578,
+"text": "Perej Kaleb. No sé si es Perej Kaleb, Perej Bet, pero hace un segundo. Eh, sí, Perej Kaleb."
+},
+{
+"startMs": 3225578,
+"endMs": 3228598,
+"text": "O sea, Moshé y Yoshua eran como Melajim."
+},
+{
+"startMs": 3230178,
+"endMs": 3230839,
+"text": "No vidi uc."
+},
+{
+"startMs": 3232118,
+"endMs": 3238259,
+"text": "Dirigentos, no. No, no, no vidi uc. Tenían controlada al pueblo. Sí, en cierto aspecto, sí. Y luego en Shoftim se pierde eso."
+},
+{
+"startMs": 3238638,
+"endMs": 3245578,
+"text": "Ya no hay un líder. Ya no hay, ya no hay líder, ya no hay líder. Hasta que vienen a atacarlos. Sí. Vienen a atacarlos a un Shofet."
+},
+{
+"startMs": 3245799,
+"endMs": 3252618,
+"text": "Pero un Shofet muy específico, un Shevet. Pero no es que hay aquí una, un, un, un, un país, un..."
+},
+{
+"startMs": 3252939,
+"endMs": 3263919,
+"text": "¿Me explico? Entonces, fíjense, los primeros capítulos de Shoftim empiezan así: Vayej remot Yoshua. Entonces, murió Yoshua. Beishalubnei Israel baasem leamor: Mi yaale lanu laCnaani lehitgila lechahembo."
+},
+{
+"startMs": 3264299,
+"endMs": 3271999,
+"text": "¿Quién va a subir al Cnaani a hacer guerra? Entonces, en otras palabras, como que se está buscando un, un rey, alguien que- Una cabeza."
+},
+{
+"startMs": 3272138,
+"endMs": 3280839,
+"text": "Sí, una cabeza. Vayomer Hashem: Yehudá yaale, y nenatati et ha'aretz beyado. Entrego todo Israel en las manos de Yehudá."
+},
+{
+"startMs": 3280859,
+"endMs": 3288879,
+"text": "Vayomer Yehudá leShimon ajim: Aleiti bigorali menoja veCnaani, vehalajti gam ani itjá bigoraljá, veelej itó Shimon. ¿Qué está pasando aquí en este pasuk?"
+},
+{
+"startMs": 3288879,
+"endMs": 3297979,
+"text": "Hashem dijo: \"Yehudá\", y Yehudá no quiere dar el mensaje. Elohim se lo tomó muy personal, muy... Es: \"Yo y tú, Shimon, tú me apoyas a mí y yo te apoyo a ti\"."
+},
+{
+"startMs": 3298399,
+"endMs": 3304999,
+"text": "Vayar Yehudá veitan Hashem et Hacnaani bejrizi beyadam, vayakum bevezek leaser et Afim ish. Vemtsu et Adoni-Bezek velejamú itó."
+},
+{
+"startMs": 3305638,
+"endMs": 3306138,
+"text": "Dice..."
+},
+{
+"startMs": 3308299,
+"endMs": 3317919,
+"text": "Ora, vean pasuk Jed. ¿Sí? Este es nuestro Jerusalén que aparece más en, en nuestra historia. Velejamú bnei Yehudá beYerushaláyim vekidu otam, veyakku elaf ichareh, veet ha'ir shilju beesh."
+},
+{
+"startMs": 3318238,
+"endMs": 3335738,
+"text": "Veaján yadu bnei Yehudá lillejchem hacnaani yoshev arav veneged veashvela, veelej Yehudá lacnaani. Todos se unen a Yehudá. Hayoshev bechevrón veShem Hevrón lefanim kiriat Arba, veyakku et Jeshai jeman et almai, vayelej el, el, yoshev Divri, ve, y, y, veShem Divri lefanim Kiriat Sefer, Kalev, Otniel, ta bien."
+},
+{
+"startMs": 3336839,
+"endMs": 3348299,
+"text": "Ora, y luego que pasa en pasuk Yud Zaim: Vayelej Yehudá et Shimon ajim, vayaku et Hacnaani, yoshev Tzfad, veajánim otam vekiryat Shemaim Jorma, velku et Aza vetgvula vetAshqelon, todos estos parte de Yehudá."
+},
+{
+"startMs": 3348598,
+"endMs": 3355719,
+"text": "Vayi Hashem et Yehudá venoshataj kilori- ¿Esa es la Aza y el Ashqelon hoy en día? Ora, ora vean pasuk Caf Alef, este, este pasuk es este."
+},
+{
+"startMs": 3356118,
+"endMs": 3361379,
+"text": "Dice: Veet hayebusí yoshev Yerushaláyim, lori shubnei Binyamín."
+},
+{
+"startMs": 3362999,
+"endMs": 3370979,
+"text": "Yebús- Es una parte de Jerusalén. Es una parte de Benjamín. Y esto es, es, esta es la parte de Benjamín que se une con Yehudá."
+},
+{
+"startMs": 3371038,
+"endMs": 3378198,
+"text": "¿Sí o no? ¿Por qué este pasuk aparece justamente después de, de la Yerushá Yehudá?"
+},
+{
+"startMs": 3378839,
+"endMs": 3389538,
+"text": "Ni siquiera vamos a hablar de que Benjamín sale a la guerra. Nada tiene que ver Benjamín ahorita. Sí, de repente ahorita sale Benjamín y te dice: \"Yebusí yoshev Yerushaláyim, lori shubnei Binyamín\"."
+},
+{
+"startMs": 3389939,
+"endMs": 3397919,
+"text": "Vayeshev, hayebusí et bnei Binyamín beYerushaláyim ad hayom haze. O sea que, ad hayom haze es hasta que se escribió Sefer Shoftim."
+},
+{
+"startMs": 3398479,
+"endMs": 3398698,
+"text": "O sea,"
+},
+{
+"startMs": 3400098,
+"endMs": 3410999,
+"text": "mucho, mucho tiempo. Entonces, ¿por qué este pasuk aparece acá? Porque Yehudá no entendió el mensaje. Yehudá tenía que haber conde-- con, conquistado con todos."
+},
+{
+"startMs": 3411358,
+"endMs": 3419939,
+"text": "Y entonces, mi maile, aquí, el, el, el punto donde se marca que Yehudá no tomó un reinado general de todos, sino un reinado personal, es que no contesta aquí."
+},
+{
+"startMs": 3420083,
+"endMs": 3428783,
+"text": "No conquista Jerusalén. ¿Y qué sería la, el, la conquista de Jerusalén? ¿Qué representaría? La unión de todos los ratim, la u-- la unión de Yehudá y Binyamín."
+},
+{
+"startMs": 3429223,
+"endMs": 3608783,
+"text": "Y entonces, ahorita Binyamín, yo entiendo algo así, fíjense. Si queremos analizar un poquito más Y Joseph también"
+},
+{
+"startMs": 3608783,
+"endMs": 3612423,
+"text": "pelea solo. Joseph pelea solo, sí. También pelea su pelea."
+},
+{
+"startMs": 3615243,
+"endMs": 3621843,
+"text": "Perek Jaf estábamos ya, perdón. Perek Jaf, pasuk reish. Cualquier trabajo con dos animales diferentes no lo puedes hacer."
+},
+{
+"startMs": 3622883,
+"endMs": 3623883,
+"text": "Dice la quinta"
+},
+{
+"startMs": 3626303,
+"endMs": 3628403,
+"text": ". Dice: \"Veish Israel itpakdu levan"
+},
+{
+"startMs": 3629903,
+"endMs": 3630523,
+"text": "mi Binyamín\"."
+},
+{
+"startMs": 3632443,
+"endMs": 3633863,
+"text": "No, perdón, ¿ese ya lo vimos o no?"
+},
+{
+"startMs": 3635083,
+"endMs": 3643643,
+"text": "Ya, pasuk Jaf, ¿tienen? \"Vayetze ish Israel lamiljamá\". Entonces, salen todo am Israel lamiljamá en Binyamín. \"Vayarju itam ish Israel miljamá el hagibá\"."
+},
+{
+"startMs": 3643783,
+"endMs": 3651963,
+"text": "Todos están haciendo guerra. \"Veyetsuv né Binyamín min hagibá. Veshjitu veIsrael\", gana Binyamín. ¿Cómo HaShem le ayudó a Binyamín si ellos son los malos?"
+},
+{
+"startMs": 3652803,
+"endMs": 3661263,
+"text": "Entonces, aquí es el mensaje que Yehudá no está entendiendo: que sí, Binyamín hizo algo malo, pero es tu culpa, ¿sí? Dice: \"Veyetsuv né Israel min hagibá."
+},
+{
+"startMs": 3661323,
+"endMs": 3668103,
+"text": "Veshjitu veIsrael bayom hahu shnai, shnai veesrim elef ish artsa\". ¿A cuántos matan?"
+},
+{
+"startMs": 3668263,
+"endMs": 3668863,
+"text": "Veintidós."
+},
+{
+"startMs": 3670203,
+"endMs": 3676443,
+"text": "Yo, yo, yo. Veintidós años que hemos visto. Veintidós mil personas Binyamín mata de ellos."
+},
+{
+"startMs": 3676483,
+"endMs": 3683883,
+"text": "Es lo que me dijiste, los veintidós. Los veintidós años de Binyamín Azadi son los veintidós años que- Binyamín Azadi, ¿quién era?"
+},
+{
+"startMs": 3684063,
+"endMs": 3691143,
+"text": "El viejito que me dijiste. No, es de la historia de la Gemara. Sí. El que salvó a la- El que salvó a la Gemara y le dieron veintidós años."
+},
+{
+"startMs": 3691223,
+"endMs": 3697783,
+"text": "Entonces acá Binyamín se ve, fíjense qué pele. No lo esperaba. La vida es de mil."
+},
+{
+"startMs": 3697863,
+"endMs": 3702943,
+"text": "La vida es de mil, pero dije el veintidós que me sonaba cuando la vi. No, ¿entiendes? ¿Tú viste eso? No."
+},
+{
+"startMs": 3705783,
+"endMs": 3707043,
+"text": "No sé ni dónde estamos, bro."
+},
+{
+"startMs": 3709403,
+"endMs": 3709603,
+"text": "Bueno,"
+},
+{
+"startMs": 3712083,
+"endMs": 3717743,
+"text": "en el midrashito al lado. Antes, en las aulas de al lado. Aquí estamos. Órale."
+},
+{
+"startMs": 3720043,
+"endMs": 3729863,
+"text": "Pero, ¿qué, qué, qué significa que mató ahora Binyamín veintidós mil de Israel? O sea, es como que... Que él tiene- Los veintidós años que estuvo- Él tiene esa fuerza, sí."
+},
+{
+"startMs": 3730083,
+"endMs": 3738543,
+"text": "Son los ve-- los veintidós años que él cedió, ¿sí? Se quedó callado. Se quedó callado con toda su fuerza para no hacer bronca entre los hermanos."
+},
+{
+"startMs": 3738603,
+"endMs": 3750203,
+"text": "Se quedó callado veintidós años. Entonces, ahorita- ¿Por qué dice el número veintidós? ¿Eh? ¿Qué dice del número veintidós? Así en general, no sé, los veintidós desde la Pero esto que dice se quedó callado fue cuando se robó la..."
+},
+{
+"startMs": 3751443,
+"endMs": 3755563,
+"text": "Desde, desde que venden a Joseph. Desde que venden a Joseph."
+},
+{
+"startMs": 3757083,
+"endMs": 3767943,
+"text": "Tienen Beit Chaddé Kaam y según lo que dijimos, que acá es como que la situación que todos le están pegando a Binyamín por ser que Binyamín es como Binyamín cuando él es el ratero de la copa."
+},
+{
+"startMs": 3768303,
+"endMs": 3777063,
+"text": "Parece él el malo, pero en verdad, ¿quién es el malo? Ellos. ¿Sí? En verdad, Bi-- es lo que no están entendiendo ellos del mensaje."
+},
+{
+"startMs": 3777103,
+"endMs": 3792535,
+"text": "Se están-- se, se está repitiendo la historia de Rajel y Lea, que parece que Lea es la ratera. Pero Raguel, sí, o parece que Raguel es la, la ratera y es Lea, y entonces se está repitiendo ahorita en, en, en, en, en la historia de Binyamín y sus hermanos ahí, en esa historia."
+},
+{
+"startMs": 3792875,
+"endMs": 3800635,
+"text": "Parece que Binyamín robó la copa, todos los hermanos le empiezan a pegar y hasta que Yehuda dice: \"No, espérate, este broque es nuestro, no es de él\". Y entonces Yehuda se decide vender como esclavo."
+},
+{
+"startMs": 3800935,
+"endMs": 3809355,
+"text": "Y acá, justamente ahorita, Binyamín mata a veintidós mil de ellos. ¿Qué significa? Que ellos piensan: \"Binyamín, eres un rashá, eres de lo peor\"."
+},
+{
+"startMs": 3810055,
+"endMs": 3816495,
+"text": "Y entonces, lo que no están entendiendo es que la culpa es de ellos, como ya lo comprobamos de Yehuda, ¿sí?"
+},
+{
+"startMs": 3816535,
+"endMs": 3823315,
+"text": "Dice: \"Vithadé kaham ish Israel veyosif laroj mjamá bamakom aser juju sham beyoma rishón\". Entonces, mitjadkim, y otra vez guerra."
+},
+{
+"startMs": 3823535,
+"endMs": 3824655,
+"text": "\"Veelu bnei Israel"
+},
+{
+"startMs": 3826255,
+"endMs": 3834335,
+"text": "vayiku lifné Hashem ad haérev yeshalu Hashem lemor: ¿Aosif láguesh et hamiljamá im benei Binyamín ají?\" Fíjense acá la son."
+},
+{
+"startMs": 3835075,
+"endMs": 3845395,
+"text": "Le dice: \"Hashem, hago guerra con Binyamín, mi hermano\". Aquí ya re-- ya reconocen que sí es hermano, porque antes decían: \"Pa-- los vamos a retar, no, no son hermanos, no son\"."
+},
+{
+"startMs": 3845835,
+"endMs": 3853455,
+"text": "Dice: \"Nunca ha habido algo así con Bnei Israel\", así dijeron, ¿no?, filo con Bnei Israel. Entonces, entonces, quiere decir, no somos hermanos, ¿sí?"
+},
+{
+"startMs": 3853775,
+"endMs": 3859935,
+"text": "Es como, otra vez, se están separando, Yehuda y Yosef, se separan, no son hermanos, di-- Binyamín no es hermano. Y entonces ahorita ya es hermano."
+},
+{
+"startMs": 3860215,
+"endMs": 3867155,
+"text": "\"VeYom Hashem aluelá\". Entonces Hashem le dice: \"Sí, vayan\". ¿Qué pasa? Parece que van a agarrar, ¿no? Eso no dice que suban."
+},
+{
+"startMs": 3867655,
+"endMs": 3875715,
+"text": "Dice: \"Vayikru Bnei Israel Binyamín bayom hashení. Vayetsé Binyamín likratam min hagibá be yom hashení vayashjitu be Bnei Israel\"."
+},
+{
+"startMs": 3876615,
+"endMs": 3885395,
+"text": "Ellos matan ot shmoné alasar elef ish, arta kol so-- kol sof ejer. Binyamín de nuevo vuelve a ganar y mata dieciocho mil."
+},
+{
+"startMs": 3885875,
+"endMs": 3892155,
+"text": "Entonces, ya lleva cuarenta mil. Israel no mató nada. Si ellos les dijo que vayan. De Binyamín no murió nadie. Nada más Hashem les dijo que suban."
+},
+{
+"startMs": 3892375,
+"endMs": 3898455,
+"text": "Ahorita vamos a ver la tercera respuesta. ¿Y de Binyamín no murió nadie? No. \"Vayalu kol Bnei Israel kol haam, vayavoú bet el\"."
+},
+{
+"startMs": 3899015,
+"endMs": 3909335,
+"text": "Entonces, a donde van, a Bet El. \"Vayikru\". Al lugar de Yosef, la Altarha Shjiná. \"Vayikru veyeshvu sham lifné Hashem vayatzimu be yom hahu ad haérev vaialu olot uslamim lifné Hashem."
+},
+{
+"startMs": 3909655,
+"endMs": 3922335,
+"text": "Vayeshalu Bnei Israel vaHashem, ve sham harón brit HaElokim bayamim hahem\". Ahí estaba el arón. \"Un Pinjás ben Elazar ben Aharón omed lefanav bayamim hahem lemor: ¿Aosif ot látsét lamiljamá im benei Binyamín ají?"
+},
+{
+"startMs": 3922495,
+"endMs": 3923015,
+"text": "Im echdad\"."
+},
+{
+"startMs": 3924515,
+"endMs": 3931955,
+"text": "Dice: \"Vayomer Hashem- Aló, otra vez. Aló, ki majar et nenó yad. Ahora sí. Ahora sí. \"Vayaase Israel orvim al hagibá saviv\"."
+},
+{
+"startMs": 3933515,
+"endMs": 3937395,
+"text": "Dice: \"Velalu Bnei Israel el benei Binyamín veyom hashilshí veyarju al hagibá"
+},
+{
+"startMs": 3938755,
+"endMs": 3952655,
+"text": "ke pam be pam. Bayitzú benei Binyamín likrat haam, anteku min hair vayjelú lahakot me haam jalalim ke pam be pam bemsilot asher ajad olah bet el ve ajad givata beserer keshloshím ish ve Israel, vayomrú ben\"."
+},
+{
+"startMs": 3953755,
+"endMs": 3960435,
+"text": "Entonces, empieza a ganar otra vez Binyamín, ¿sí? Empiezan a matar treinta. \"Vayomrú benei Binyamín: Nigafím elu lefanénu kehareshoná."
+},
+{
+"startMs": 3960475,
+"endMs": 3971315,
+"text": "Bnei Israel amrú: Nanúsá ven-- venetaknéhu min hair el ha msilot. Be kol ish Israel kamu min kemó veyarju be baal damar, ve orev Israel megiá min kemó, min mareh geba\"."
+},
+{
+"startMs": 3971675,
+"endMs": 3980435,
+"text": "Digo, son todos los detalles técnicos de la guerra. \"Ve yomu min eguev hagibá aseret alasfin ish bajul min kol Israel memiljamá kvedá, vem lo yadú ki nogá taalehem aravá\"."
+},
+{
+"startMs": 3980815,
+"endMs": 3987355,
+"text": "O sea, Binyamín no sabía que ya se le viene ahora sí el trancazo. O sea, los sacaron de ahí, ¿no? Los-- se echaron a correr para que los persigan. Algo así."
+},
+{
+"startMs": 3987755,
+"endMs": 3998415,
+"text": "\"Ve yigó Hashem et Binyamín lifné Israel, vayashjitu Bnei Israel ve Binyamín bayom hahu esrim ve jamisha elef u méah ish, kol eleh oref jeref, vinte y cinco mil cien."
+},
+{
+"startMs": 3998815,
+"endMs": 4006375,
+"text": "Velú benei Binyamín ki nigáfu, ve yitnú ish Israel makom le Binyamín, ki batjól haorer asher samu al hagibá, vaorer yijishu vefsedu el hagibá\"."
+},
+{
+"startMs": 4006555,
+"endMs": 4007935,
+"text": "No estoy leyendo rápido, porque ya--"
+},
+{
+"startMs": 4009395,
+"endMs": 4018515,
+"text": ". Dice: \"Vayaq-- kol-- et kol hair lifi jar, vaamoed hayá le ish Israel im haorer, erev laalotam, masat haashan min hair, vayapoj\"."
+},
+{
+"startMs": 4019095,
+"endMs": 4032295,
+"text": "Fíjense, sale ashán, igual que Seló. \"Vayapoj ish Israel hamiljamá u Binyamín jél lahakot jalalim ve ish Israel keshloshím ish, que amrú: Aj, nigof nigaf hu lefanénu, kemiljamá rishoná\", otra vez."
+},
+{
+"startMs": 4032295,
+"endMs": 4033835,
+"text": "\"Vehamasét ejéla\"."
+},
+{
+"startMs": 4035035,
+"endMs": 4041955,
+"text": "Fíjense aquí la palabra masét, ¿a qué les suena? ¿Cuál? Masét. Diez minutos."
+},
+{
+"startMs": 4042114,
+"endMs": 4047415,
+"text": "¿A qué les suena masét? ¿En dónde estaba la copa de Binyamín?"
+},
+{
+"startMs": 4048655,
+"endMs": 4055955,
+"text": "En su masát. En su masát Binyamín, sí. \"Vehamasét ejéla lealot min hair, amú haashan ve-\" Pero es igual, igual, igual."
+},
+{
+"startMs": 4055995,
+"endMs": 4063315,
+"text": "Al mismo-- ejéla, vagadol y... Ah, \"ve lealot lejel vakaton kilá\". Ta fene. \"Vehamasét ejéla\"."
+},
+{
+"startMs": 4064075,
+"endMs": 4071775,
+"text": "Fíjense, ejel. Y luego tienes: \"Ve hife Binyamín ajará hine, alá calí vakaton kilá, air hashamaim\"."
+},
+{
+"startMs": 4071835,
+"endMs": 4078435,
+"text": "El catón kilá era Binyamín. Ve ish Israel, es mamash kilú, se está repitiendo esa escena, pero con mucho zoom."
+},
+{
+"startMs": 4079075,
+"endMs": 4089795,
+"text": "Entonces, cuando-- entonces esos golpes a Binyamín son golpes a benei Binyamín acá, ki psutó. ¿Sí me explico? O sea, esos golpes que le dieron a Binyamín, si le haces mucho zoom y ya son sus hijos, entonces sí, se muere gente."
+},
+{
+"startMs": 4089815,
+"endMs": 4096755,
+"text": "\"Ve-- ve ish Israel afaju, y va el ish Binyamín, que rá quinagá lábará\", ya se dieron cuenta que ahora sí ya no hay de otra."
+},
+{
+"startMs": 4097435,
+"endMs": 4103675,
+"text": "Y entonces, esto es paralelo a nuestra historia, ¿no? De donde Binyamín Hatzadik, que está por morir en la cama."
+},
+{
+"startMs": 4103694,
+"endMs": 4112235,
+"text": "¿Sí o no? O sea, que eso dijimos que es-- va a ser paralelo a cuando todos están pagando la Binyamín y Binyamín Hatzadik kilú."
+},
+{
+"startMs": 4112675,
+"endMs": 4120955,
+"text": "Pero Binyamín tiene un jut fuertísimo, que no se deja matar. Entonces, es lo que va a pasar. Ahorita, ahorita que-- nada más mataron una cantidad X, ¿no?"
+},
+{
+"startMs": 4121715,
+"endMs": 4129815,
+"text": "No, no, no, ahorita ya- Se enferma, que se enferma, que todo va, pero viene ya con el jut, se para. Sí, pero no, aquí ya viene de ki rá quinagá lábará."
+},
+{
+"startMs": 4129815,
+"endMs": 4138635,
+"text": "\"Vifnú lifnei ish Israel el derej hamidbar gamiljamait, vekatahu veaser meharim hashhitimu tó be tojó\". No, ahorita vas a ver cuántos quedaron de Binyamín al final de esta guerra."
+},
+{
+"startMs": 4138715,
+"endMs": 4158855,
+"text": "Al final sí, pero ahorita- ¿Cuántos quedaron? Bueno, pero Quedaron nada, ochocientos. Seiscientos. Entonces, dice: \"Kitrut Binyamín yidrifú menujá, yidrijú at noja hagibá mimizrach shemesh, vayiplú miminyamín shmoná asar elef\", dice, \"ish et kol eleh anshei jael, ve yifnú veyanusu hamidbar el tzel harimón, vaialu bemsilot jamet alabim ish\"."
+},
+{
+"startMs": 4160183,
+"endMs": 4168462,
+"text": "\"Vaiekum mimenu alfaiim ish, va'yihi kulam noflim miminyamin esrim vejamish elef ish olef jerev hayom hahu kol eleh anshei jail."
+},
+{
+"startMs": 4168743,
+"endMs": 4175903,
+"text": "Vehipnu minot som mitpal al selha'arimon shish meot ish veishvu beselha'arimon arbah hadashim\". Quedaron seiscientos en este Selha'arimon"
+},
+{
+"startMs": 4177123,
+"endMs": 4187343,
+"text": "cuatro meses. \"Veish Israel shavu el bevni Ya-Binyamin vaiekum lefijerev meir metom hame'amar kol hanimtsa kol ha'arim hanimtzot shilju vaesh\"."
+},
+{
+"startMs": 4187863,
+"endMs": 4199143,
+"text": "Ssh, otro, es-- mamen pasó como Sodom, totalmente se hizo ash, alá el ashán, mataron a todos, no sobra un-- sí, majané nishón lifleta, algo de nada."
+},
+{
+"startMs": 4201403,
+"endMs": 4209863,
+"text": "Y entonces hicieron una shvuá, el siguiente pérek, de no darle a Binyamín-- nadie se puede casar con Binyamín. O sea, lo, lo, lo-- mamás, lo--"
+},
+{
+"startMs": 4211343,
+"endMs": 4213363,
+"text": "mujer en total, lo mataron a todos."
+},
+{
+"startMs": 4214803,
+"endMs": 4221463,
+"text": "Lo, lo leemos rapidísimo, así un poquito los detalles. \"Vi Israel nishba vamitzvá lemor: Ish mimenu lo yiten bitó le Binyamin leishav\"."
+},
+{
+"startMs": 4221723,
+"endMs": 4229123,
+"text": "Ya no es hermano, es como un ojrí. \"Vayavo ha'am Bet-El, veyeshvu sham ada'er lifnei haElokim, vesu kolam vehipku veji giadol\"."
+},
+{
+"startMs": 4229743,
+"endMs": 4235823,
+"text": "Pero les dolió mucho. Dice: \"Veiamru lama ase lo ki Israel, haitas otnu Israel, yipequé da'iyom Israel shevet ejad\"."
+},
+{
+"startMs": 4236403,
+"endMs": 4244843,
+"text": "Perder un shevet completo, pero el, el-- lo que no están-- cuan-- si se pierde Binyamín, se acaba todo. Es-estos son los netajím de la esta."
+},
+{
+"startMs": 4244843,
+"endMs": 4256423,
+"text": "\"Vayehi mimejorat vehashkim ha'am, vaiblu sham mitzraha alot haflamim, ve'emru venei Israel: Mi asher lo ala bekal mikol shete Israel el Hashem, ki haShvuá hagdola hitá leHashem, lo ala El Hashem et sham mitzrat yomá\"."
+},
+{
+"startMs": 4256923,
+"endMs": 4263503,
+"text": "Esta es una historia de los que Yoshon-- Yabesh Gil'ad no pelaron a la Shvuá y nada más un- Y se casaban."
+},
+{
+"startMs": 4263503,
+"endMs": 4271063,
+"text": "¿Eh? Y ellos sí que se casaban. Y entonces, mimeile, ya podían darkán, reconectar con Binyamín."
+},
+{
+"startMs": 4272583,
+"endMs": 4279963,
+"text": "Be'kitzur. ¿Ese es el qué? Yabesh Gil'ad. Esta es una historia muy, muy profunda. No- ¿Ya lo hiciste alguna vez?"
+},
+{
+"startMs": 4280103,
+"endMs": 4284903,
+"text": "Sí, lo-- un poquito. Más adelante, en Shmuel, aparecen ellos."
+},
+{
+"startMs": 4286303,
+"endMs": 4294483,
+"text": "Y entonces ahí, eh, Binyamín se casa con las mujeres de Yabesh Gil'ad. Y aquí usa las palabras que torfim, torfim a las esposas."
+},
+{
+"startMs": 4295063,
+"endMs": 4312083,
+"text": "Be'kitzur, y así se salvó el shevet Binyamín. De, de casi morirse, se salvó. Entonces, entonces, de alguna manera, esto está muy interesante, cómo realmente de casi morirse, otra vez nuestro Binyamín HaTzadik, se murió porque él kikél al almaná."
+},
+{
+"startMs": 4312683,
+"endMs": 4321843,
+"text": "Yo no sé, no, no es que lo tengo claro del todo, pero hay algo acá muy fuerte. Se salvó porque le ayudó el almaná y este se murió."
+},
+{
+"startMs": 4322483,
+"endMs": 4335303,
+"text": "Se salvó, pero pues estaba por morirse. Entonces, eso me recordaba esta historia que Binyamín también aquí estaba por morirse, por acabarse completamente y, y otra vez revivió, justamente con la gente de Yabesh Gil'ad."
+},
+{
+"startMs": 4335943,
+"endMs": 4339823,
+"text": "También tiene que ver con Binyamín directamente eso, Gil'ad."
+},
+{
+"startMs": 4341243,
+"endMs": 4342923,
+"text": "O sea, si quieren además de la palabra-"
+},
+{
+"startMs": 4344163,
+"endMs": 4346983,
+"text": "Gil. Gal-Ed. Gal'ed."
+},
+{
+"startMs": 4349503,
+"endMs": 4356183,
+"text": "Gal'ed, ¿qué era Gal'ed? El lugar donde Labán, Labán y Yaakov. Pero ahí, ¿qué hizo Rajel?"
+},
+{
+"startMs": 4357603,
+"endMs": 4364423,
+"text": "Se robó los torfim. Y entonces, ¿qué hizo ahí Yaakov? ¿Qué, qué dijo? Una klalá. Que se muera el que- Que se muera el que los tiene."
+},
+{
+"startMs": 4364463,
+"endMs": 4371503,
+"text": "Entonces, mimeile, ¿qué pasó ahí? La klalá cayó. La klalá cayó. ¿Cuándo cayó? Ahorita. Cuando nació Binyamín."
+},
+{
+"startMs": 4372243,
+"endMs": 4376823,
+"text": "Se murió Rajel. Se murió Rajel, entonces mimeile, ahí Binyamín..."
+},
+{
+"startMs": 4378263,
+"endMs": 4385603,
+"text": "Entonces, entonces, y, y-- nas-- se murió Rajel cuando nació Binyamín. Entonces, Binyamín nunca tuvo mamá."
+},
+{
+"startMs": 4387103,
+"endMs": 4396063,
+"text": "Entonces, ese es quilo, el-- en cierto aspecto, el limud zjut que hay hacia Binyamín, es la udád que él, safó sham lábá, nunca tuvo mamá."
+},
+{
+"startMs": 4396683,
+"endMs": 4399383,
+"text": "Entonces, él nunca, ve, tuvo ese, esa--"
+},
+{
+"startMs": 4400863,
+"endMs": 4414763,
+"text": "hay que entenderlo acá, ¿sí? Pero es como el hijo malo que no tiene mamá. Entonces, de, de, de los Yoshon Gil'ad, de Yoshon Gil'ad, ellos, Yabesh Gal'ed, son, son los que al final le dan..."
+},
+{
+"startMs": 4415763,
+"endMs": 4422123,
+"text": "Y no son los más buenos, o sea, no, no se pintan acá como muy buenos. Be'kitzur, pero está muy profunda esta historia."
+},
+{
+"startMs": 4424523,
+"endMs": 4434383,
+"text": "Y así acaba este pérek: \"Vayaamim hahem melej juIsrael, ish oyesh har ve'navias\". Y su-- ahí es- Sí, al final, la causa de todo esto es que hay un melej juIsrael."
+},
+{
+"startMs": 4434883,
+"endMs": 4439483,
+"text": "Entonces, vemos acá otra vez cómo Judá y Binyamín se tienen que unir a fuerzas."
+},
+{
+"startMs": 4440763,
+"endMs": 4450503,
+"text": "Está pide, porque está- Y Judá tiene que entender que él tiene que hacer un misud ha'nefesh para unirse con Binyamín. Antes pensábamos que todas las guerras eran Judá y Iosef, y Binyamín es el que conecta, pero acá estamos viendo que también Binyamín pelea."
+},
+{
+"startMs": 4450663,
+"endMs": 4452583,
+"text": "Pero Judá se tiene que anular"
+},
+{
+"startMs": 4454083,
+"endMs": 4463443,
+"text": "para poder, eh-- o sea, tiene que ser rey. Pero rey es el, el que, exactamente, el que hace la conquista por todos, el que se hace ebred de todos, exactamente."
+},
+{
+"startMs": 4463943,
+"endMs": 4469963,
+"text": "Y Judá aquí fue rey, pero tiene que ser re, ebred. Judá, ya, ya, soy rey. ¿Qué quieres entender? Yo soy el rey, ¿qué tanto?"
+},
+{
+"startMs": 4470523,
+"endMs": 4479583,
+"text": "No, él tenía que entender que la manera como es rey era por medio de ser ebred de todos. Entonces, no lo hizo, entonces mimeile Binyamín: \"Si Judá no se hace el rey\"."
+},
+{
+"startMs": 4480483,
+"endMs": 4492523,
+"text": "Fíjate cómo-- ¿Se acuerdan la historia de Yaakov y Rajel y Lea? Estaban bien las cosas, luego estaban en los hijos, estaban más mal, pero se logró sanar."
+},
+{
+"startMs": 4492883,
+"endMs": 4508803,
+"text": "Pero hubo venta de Iosef y hubo balagánim, y acá es como que hacerle más zoom. Entonces, en verdad le estamos haciendo zoom a la historia de, de Yaakov y Esaú, y luego le hacemos más zoom a la historia de Judá y-- entonces, cuando le haces zoom, entonces ves muertes, ¿me explico?"
+},
+{
+"startMs": 4508863,
+"endMs": 4522023,
+"text": "Ves, ves dolor. Pero realmente zooma esa historia, que en esa historia, mientras no se sana al cien por ciento y se vuelve a repetir en la siguiente generación, y Am Israel todavía no está en el shlemut, entonces cuando haces zoom son estas tragedias."
+},
+{
+"startMs": 4522023,
+"endMs": 4530283,
+"text": "Eso se llama más, más-- Ma'aseavot shiman levanim, las que con mucho zoom. Entonces, golpes a Binyamín, son golpes tra-- mamás, serios a Binyamín."
+},
+{
+"startMs": 4530663,
+"endMs": 4531003,
+"text": "Está bueno."
+},
+{
+"startMs": 4532343,
+"endMs": 4532743,
+"text": "Baruj."
+}
+]
+}
