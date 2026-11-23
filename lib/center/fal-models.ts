@@ -1,4 +1,4 @@
-// Fal speech-to-text models: limits, prices, request builders and output normalization to one segment format.
+// Speech-to-text models (Fal endpoints + AssemblyAI): limits, prices, request builders and output normalization to one segment format.
 import type { RawDoc, ScribeResult, Seg } from "../ingest/segments";
 
 export const FAL_MODEL_IDS = [
@@ -6,6 +6,7 @@ export const FAL_MODEL_IDS = [
   "fal-ai/elevenlabs/speech-to-text",
   "fal-ai/wizper",
   "fal-ai/whisper",
+  "assemblyai/universal",
 ] as const;
 export type FalModelId = (typeof FAL_MODEL_IDS)[number];
 export const DEFAULT_FAL_MODEL: FalModelId = "fal-ai/elevenlabs/speech-to-text/scribe-v2";
@@ -25,8 +26,10 @@ export const FAL_MODELS = (): Record<FalModelId, FalModelInfo> => ({
   "fal-ai/elevenlabs/speech-to-text/scribe-v2": { id: "fal-ai/elevenlabs/speech-to-text/scribe-v2", label: "ElevenLabs Scribe v2 (recomendado)", kind: "words", splitSec: 1140, usdPerMin: env("FAL_USD_PER_MIN", 0.008), note: "Palabras con tiempos; partes de 19 min." },
   "fal-ai/elevenlabs/speech-to-text": { id: "fal-ai/elevenlabs/speech-to-text", label: "ElevenLabs Scribe v1", kind: "words", splitSec: 1140, usdPerMin: env("FAL_USD_PER_MIN_SCRIBE_V1", 0.03), note: "Palabras con tiempos; partes de 19 min." },
   "fal-ai/wizper": { id: "fal-ai/wizper", label: "Wizper (Whisper v3, rápido)", kind: "chunks", splitSec: 1500, usdPerComputeSec: env("FAL_USD_PER_COMPUTE_SEC_WIZPER", 0.00111), computeSecPerAudioMin: env("FAL_WIZPER_COMPUTE_SEC_PER_MIN", 4), note: "Segmentos ≤29 s; partes de 25 min. Precio por segundo de cómputo (estimado)." },
+  "assemblyai/universal": { id: "assemblyai/universal", label: "AssemblyAI Universal", kind: "words", splitSec: 4 * 3600, usdPerMin: env("ASSEMBLYAI_USD_PER_MIN", 0.0045), note: "AssemblyAI (clave ASSEMBLYAI_API_KEY). Palabras con tiempos; archivo entero hasta 4 h. Precio estimado, ajustable con ASSEMBLYAI_USD_PER_MIN." },
   "fal-ai/whisper": { id: "fal-ai/whisper", label: "Whisper large", kind: "chunks", splitSec: 1500, usdPerComputeSec: env("FAL_USD_PER_COMPUTE_SEC_WHISPER", 0.001111), computeSecPerAudioMin: env("FAL_WHISPER_COMPUTE_SEC_PER_MIN", 8), note: "Segmentos con tiempos; partes de 25 min. Precio por segundo de cómputo (estimado)." },
 });
+export const isAssemblyModel = (m: string | undefined) => !!m && m.startsWith("assemblyai/");
 export const isFalModel = (m: unknown): m is FalModelId => typeof m === "string" && (FAL_MODEL_IDS as readonly string[]).includes(m);
 export const modelInfo = (m: string): FalModelInfo => FAL_MODELS()[isFalModel(m) ? m : DEFAULT_FAL_MODEL];
 /** Model of a raw document (its `model` field is the Fal endpoint id; unknown -> Scribe v2). */

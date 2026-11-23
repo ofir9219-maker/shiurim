@@ -68,7 +68,7 @@ export default function AdminPage() {
       <h2 style={{ fontSize: 16, marginBottom: 8 }}>Conexión</h2>
       <p>Google Drive: <b>{st.drive.connected ? `conectado${st.drive.email ? ` (${st.drive.email})` : ""}` : "no conectado"}</b>{" "}
         {st.drive.oauthConfigured ? <a href="/api/admin/google/start" style={{ ...btn, textDecoration: "none", display: "inline-block", marginLeft: 8 }}>{st.drive.connected ? "Reconectar" : "Conectar Google Drive"}</a> : <em>(faltan GOOGLE_CLIENT_ID / GOOGLE_CLIENT_SECRET)</em>}</p>
-      <p>Claves: Fal {e.FAL_KEY ? "✔" : "✘"} · OpenAI {e.OPENAI_API_KEY ? "✔" : "✘"} · R2 {e.R2 ? "✔" : "✘"} · modelo {st.config.model} ({st.config.effort}) · volumen <code>{st.config.storageDir}</code></p>
+      <p>Claves: Fal {e.FAL_KEY ? "✔" : "✘"} · AssemblyAI {e.ASSEMBLYAI_API_KEY ? "✔" : "✘"} · OpenAI {e.OPENAI_API_KEY ? "✔" : "✘"} · R2 {e.R2 ? "✔" : "✘"} · modelo {st.config.model} ({st.config.effort}) · volumen <code>{st.config.storageDir}</code></p>
       <p>Carpeta: <code>{st.drive.folderId}</code> · revisión cada {st.config.pollMinutes} min · {st.config.enabled ? (st.scheduler.started ? "scheduler activo" : "scheduler no iniciado") : "desactivado (INGEST_ENABLED=0)"}</p>
       <p>Última revisión: {when(st.scheduler.lastPoll?.at)} {st.scheduler.lastPoll && (st.scheduler.lastPoll.ok ? `(${st.scheduler.lastPoll.files} audios, ${st.scheduler.lastPoll.newFiles} nuevos)` : `— error: ${st.scheduler.lastPoll.error}`)} · próxima: {when(st.scheduler.nextPollAt)}{st.scheduler.waitingStable ? ` · ${st.scheduler.waitingStable} archivo(s) esperando que termine la subida` : ""}</p>
       <p style={{ marginTop: 10 }}><button style={btn} disabled={busy || !st.drive.connected} onClick={() => post("/api/admin/check")}>{busy ? "Revisando…" : "Revisar ahora"}</button>
@@ -77,7 +77,7 @@ export default function AdminPage() {
     <ZonePanel compact />
     <section style={box}>
       <h2 style={{ fontSize: 16, marginBottom: 8 }}>Costos acumulados</h2>
-      <p>Fal Scribe: {st.totals.falMinutes.toFixed(1)} min · OpenAI: {st.totals.promptTokens.toLocaleString("es")} tokens in / {st.totals.completionTokens.toLocaleString("es")} out · estimado ≈ US$ {st.totals.usd.toFixed(2)} <small>(sin embeddings; precios por defecto, ajustables con FAL_USD_PER_MIN, POLISH_USD_PER_M_IN/OUT)</small></p>
+      <p>Transcripción: {st.totals.falMinutes.toFixed(1)} min · OpenAI: {st.totals.promptTokens.toLocaleString("es")} tokens in / {st.totals.completionTokens.toLocaleString("es")} out · estimado ≈ US$ {st.totals.usd.toFixed(2)} <small>(sin embeddings; precios por defecto, ajustables con FAL_USD_PER_MIN, POLISH_USD_PER_M_IN/OUT)</small></p>
     </section>
     <section style={box}>
       <h2 style={{ fontSize: 16, marginBottom: 8 }}>Clases ({st.items.length})</h2>
@@ -92,7 +92,7 @@ export default function AdminPage() {
           </div>
           {it.error && <p style={{ color: "#a02020", fontSize: 13 }}>{it.error}</p>}
           {it.dafNote && <p style={{ fontSize: 13 }}>Nota de daf: {it.dafNote}</p>}
-          <p style={{ fontSize: 12, color: "var(--muted)" }}>{it.id} · Fal {it.cost.falMinutes.toFixed(1)} min · OpenAI {it.cost.promptTokens.toLocaleString("es")}/{it.cost.completionTokens.toLocaleString("es")} tok · actualizada {when(it.updatedAt)}</p>
+          <p style={{ fontSize: 12, color: "var(--muted)" }}>{it.id} · Transcripción {it.cost.falMinutes.toFixed(1)} min · OpenAI {it.cost.promptTokens.toLocaleString("es")}/{it.cost.completionTokens.toLocaleString("es")} tok · actualizada {when(it.updatedAt)}</p>
           {open === it.id && <pre style={{ fontSize: 12, whiteSpace: "pre-wrap", background: "var(--bg)", padding: 10, borderRadius: 8, maxHeight: 320, overflow: "auto" }} dir="auto">{it.log.map((l) => `${new Date(l.at).toLocaleTimeString("es")}  ${l.msg}`).join("\n")}</pre>}
         </div>))}
     </section>

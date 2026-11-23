@@ -190,7 +190,7 @@ function Center() {
           <div className="dc-x"><h2>Estimado</h2><button className="btn-ghost btn-icon btn" onClick={() => setEst(null)} aria-label="Cerrar">✕</button></div>
           <p><b>{est.files}</b> audio(s) · <b>{(est.minutes / 60).toFixed(1)} h</b> ({Math.round(est.minutes)} min){est.approxFiles ? ` · ${est.approxFiles} sin duración conocida (estimada por tamaño)` : ""}</p>
           <table className="dc-table"><tbody>
-            {Object.entries(est.byModel).map(([m, v]) => <tr key={m}><td>Fal · {m.replace("fal-ai/", "")}</td><td>{Math.round(v.minutes)} min</td><td>{usd(v.usd)}</td></tr>)}
+            {Object.entries(est.byModel).map(([m, v]) => <tr key={m}><td>{m.startsWith("assemblyai/") ? "AssemblyAI" : "Fal"} · {m.replace(/^(fal-ai|assemblyai)\//, "")}</td><td>{Math.round(v.minutes)} min</td><td>{usd(v.usd)}</td></tr>)}
             {est.openaiUsd > 0 && <tr><td>OpenAI (pulido, aprox.)</td><td /><td>{usd(est.openaiUsd)}</td></tr>}
             <tr><th>Total estimado</th><td /><th>{usd(est.totalUsd)}</th></tr>
           </tbody></table>
@@ -216,7 +216,7 @@ function LogPanel({ id, onClose }: { id: string; onClose: () => void }) {
       <div className="dc-x"><h2>Log</h2><button className="btn-ghost btn-icon btn" onClick={onClose} aria-label="Cerrar">✕</button></div>
       {!it ? <p className="muted">Sin trabajo registrado para este archivo.</p> : <>
         <p dir="auto"><b>{it.name}</b><br />{it.state} · {it.status}{it.error ? ` · ${it.error}` : ""}</p>
-        <p className="muted">Fal {it.cost.falMinutes.toFixed(1)} min{it.cost.falUsd ? ` (${usd(it.cost.falUsd)})` : ""} · OpenAI {it.cost.promptTokens.toLocaleString("es")}/{it.cost.completionTokens.toLocaleString("es")} tok{it.cost.openaiUsd ? ` (${usd(it.cost.openaiUsd)})` : ""}</p>
+        <p className="muted">Transcripción {it.cost.falMinutes.toFixed(1)} min{it.cost.falUsd ? ` (${usd(it.cost.falUsd)})` : ""} · OpenAI {it.cost.promptTokens.toLocaleString("es")}/{it.cost.completionTokens.toLocaleString("es")} tok{it.cost.openaiUsd ? ` (${usd(it.cost.openaiUsd)})` : ""}</p>
         {!!it.renames?.length && <><h2>Renombrados</h2><table className="dc-table"><tbody>{it.renames.map((x, i) => <tr key={i}><td>{x.kind}</td><td dir="auto">{x.oldName || "(creado)"} → {x.newName}</td><td>{x.undoneAt ? "deshecho" : ""}</td></tr>)}</tbody></table></>}
         <pre className="dc-log" dir="auto">{it.log.map((l) => `${new Date(l.at).toLocaleTimeString("es")}  ${l.msg}`).join("\n")}</pre></>}
     </aside></>);

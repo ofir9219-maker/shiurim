@@ -60,7 +60,7 @@ export default function SettingsPanel({ folderId, folderName, state, onClose, on
           {published && <><label>Título de la sección<input className="input" value={o.publish?.title ?? ""} onChange={(e) => upd("publish", "title", e.target.value)} placeholder={name} dir="auto" /></label>
             <label>Descripción<textarea className="input" rows={3} value={o.publish?.description ?? ""} onChange={(e) => upd("publish", "description", e.target.value)} /></label></>}
         </fieldset>
-        <fieldset><legend>Transcripción (Fal)</legend>
+        <fieldset><legend>Transcripción (Fal o AssemblyAI)</legend>
           <label>Modelo{sel(o.transcription?.model, (v) => upd("transcription", "model", v), models.map((m) => [m.id, m.label]), `Automático (${models.find((m) => m.id === P.model)?.label ?? P.model})`)}{hint("model", o.transcription?.model, models.find((m) => m.id === P.model)?.label ?? P.model)}</label>
           <label>Idioma{sel(o.transcription?.language, (v) => upd("transcription", "language", v), state.languages.map((l) => [l.code, l.label]), `Automático (${state.languages.find((l) => l.code === P.language)?.label ?? P.language})`)}{hint("language", o.transcription?.language, P.language)}</label>
           <label>Sincronización automática{sel(bool(o.autoSync), (v) => upd("", "autoSync", v === "" ? undefined : v === "1"), [["1", "Sí: transcribir audios nuevos"], ["0", "No"]], `Automático (${P.autoSync ? "sí" : "no"})`)}{hint("autoSync", o.autoSync, P.autoSync ? "sí" : "no")}</label>

@@ -142,3 +142,24 @@ test("markdown format", () => {
   const md = polishedToMd({ title: "T", daf: [{ daf: "ג", amud: "א" }], summary: "S", tags: ["a", "b"], segments: [{ startMs: 3723000, endMs: 3725000, text: "hola" }] });
   assert.equal(md, "# T\n\n- **Daf:** ג א\n- **Resumen:** S\n- **Tags:** a, b\n\n---\n\n**[01:02:03]** hola\n");
 });
+
+test("assemblyai: words in ms -> Scribe words; submit/poll via falTranscribe dispatch", async () => {
+  const { aaiToScribe } = await import("../lib/ingest/assembly");
+  const { wordsToSegments } = await import("../lib/ingest/segments");
+  const sc = aaiToScribe({ words: [{ text: "Shalom", start: 1000, end: 1400 }, { text: "amigos.", start: 1500, end: 2100 }], text: "Shalom amigos." });
+  assert.equal(sc.words.length, 4);
+  assert.deepEqual(wordsToSegments(sc.words), [{ startMs: 1000, endMs: 2100, text: "Shalom amigos." }]);
+  const { falTranscribe } = await import("../lib/ingest/fal");
+  const calls: string[] = []; const orig = globalThis.fetch;
+  process.env.ASSEMBLYAI_API_KEY = "k"; process.env.ASSEMBLYAI_POLL_MS = "1";
+  globalThis.fetch = (async (url: string, init?: RequestInit) => {
+    calls.push(`${init?.method ?? "GET"} ${url}`);
+    if (init?.method === "POST") { const b = JSON.parse(String(init.body)); assert.equal(b.language_code, "es"); assert.equal(b.speech_model, "universal"); return new Response(JSON.stringify({ id: "t1", status: "queued" })); }
+    return new Response(JSON.stringify({ id: "t1", status: "completed", text: "hola", words: [{ text: "hola", start: 0, end: 500 }] }));
+  }) as typeof fetch;
+  try {
+    const r = await falTranscribe("https://x/a.mp3", "t", { model: "assemblyai/universal", language: "spa" });
+    assert.equal(r.words[0].text, "hola"); assert.equal(r.words[0].end, 0.5);
+    assert.deepEqual(calls, ["POST https://api.assemblyai.com/v2/transcript", "GET https://api.assemblyai.com/v2/transcript/t1"]);
+  } finally { globalThis.fetch = orig; delete process.env.ASSEMBLYAI_API_KEY; }
+});
