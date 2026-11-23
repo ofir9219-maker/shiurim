@@ -2,7 +2,7 @@
 // Stored in $STORAGE_DIR/collections.json and $STORAGE_DIR/center.json. Settings are inherited from the nearest configured ancestor.
 import path from "node:path";
 import { STORAGE_DIR, readJson, writeJson } from "../storage";
-import { DEFAULT_FAL_MODEL, DEFAULT_LANGUAGE, isFalModel, LANGUAGES, type FalModelId } from "./fal-models";
+import { DEFAULT_FAL_MODEL, DEFAULT_LANGUAGE, isFalModel, liveModel, LANGUAGES, type FalModelId } from "./fal-models";
 
 export const BERAJOT_FOLDER_ID = "1qjOmvVykyiYnODxTdUEnBqiNgQkqgUp5";
 export const BERAJOT_TEMPLATE = "{n}. {obra} {daf} ע׳׳{amud} - {temas}";
@@ -86,7 +86,8 @@ export function sanitizeSettings(x: unknown): Settings {
   const str = (v: unknown, max = 400) => (typeof v === "string" ? v.slice(0, max) : undefined);
   if (o.transcription && typeof o.transcription === "object") {
     const t: NonNullable<Settings["transcription"]> = {};
-    if (isFalModel(o.transcription.model)) t.model = o.transcription.model;
+    const lm = liveModel(o.transcription.model as string | undefined);
+    if (isFalModel(lm)) t.model = lm;
     if (LANGUAGES.some((l) => l.code === o.transcription.language)) t.language = o.transcription.language;
     if (Object.keys(t).length) s.transcription = t;
   }
@@ -118,7 +119,7 @@ export function sanitizeSettings(x: unknown): Settings {
 
 const flat = (s: Settings): Partial<Resolved> => {
   const r: Partial<Resolved> = {};
-  if (s.transcription?.model) r.model = s.transcription.model;
+  if (s.transcription?.model) r.model = liveModel(s.transcription.model) ?? r.model;
   if (s.transcription?.language) r.language = s.transcription.language;
   if (s.autoSync !== undefined) r.autoSync = s.autoSync;
   if (s.postprocess) r.postprocess = s.postprocess;

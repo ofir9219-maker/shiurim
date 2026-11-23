@@ -52,8 +52,8 @@ class Scheduler {
     for (const it of Object.values(this.state.items)) if (it.status === "running") { it.status = "queued"; addLog(it, "reanudado tras reinicio"); }
     // failures caused by a full disk are not the file's fault: retry them from scratch once space is back
     for (const it of Object.values(this.state.items)) {
-      if (it.state !== "indexed" && (it.status === "failed" || it.status === "queued") && /ENOSPC|no space left|disk is full|SQLITE_FULL/i.test(it.error ?? "")) {
-        retryItem(it); addLog(it, "reintento automático: el error fue falta de espacio en disco");
+      if (it.state !== "indexed" && (it.status === "failed" || it.status === "queued") && /ENOSPC|no space left|disk is full|SQLITE_FULL|HTTP 410|deprecated/i.test(it.error ?? "")) {
+        retryItem(it); addLog(it, /410|deprecated/i.test(it.error ?? "") ? "reintento automático: el modelo retirado por Fal se reemplazó por Wizper" : "reintento automático: el error fue falta de espacio en disco");
       }
     }
     this.persist();

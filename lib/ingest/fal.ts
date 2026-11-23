@@ -1,7 +1,7 @@
 // Fal speech-to-text via the queue REST API (any of the supported models).
 import { fetchRetry, okJson, sleep } from "./http";
 import type { ScribeResult } from "./segments";
-import { DEFAULT_FAL_MODEL, DEFAULT_LANGUAGE, falInput, hasUsableOutput, isAssemblyModel, type FalModelId } from "../center/fal-models";
+import { DEFAULT_FAL_MODEL, DEFAULT_LANGUAGE, falInput, hasUsableOutput, isAssemblyModel, liveModel, type FalModelId } from "../center/fal-models";
 import { assemblyTranscribe } from "./assembly";
 
 export const FAL_ENDPOINT = DEFAULT_FAL_MODEL;
@@ -12,7 +12,7 @@ export const falTranscribe: Transcriber = async (audioUrl, label, opts = {}) => 
   if (isAssemblyModel(opts.model)) return assemblyTranscribe(audioUrl, label, { model: opts.model!, language: opts.language });
   const key = process.env.FAL_KEY;
   if (!key) throw new Error("FAL_KEY no configurada");
-  const model = opts.model ?? DEFAULT_FAL_MODEL;
+  const model = liveModel(opts.model) ?? DEFAULT_FAL_MODEL; // retired endpoints (410) are mapped to their replacement
   const headers = { authorization: `Key ${key}`, "content-type": "application/json" };
   const sub = await okJson<{ request_id: string; status_url: string; response_url: string }>(
     await fetchRetry(`https://queue.fal.run/${model}`, { method: "POST", headers, body: JSON.stringify(falInput(model, audioUrl, opts.language ?? DEFAULT_LANGUAGE)) }), `fal submit ${label}`);

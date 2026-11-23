@@ -75,7 +75,8 @@ test("Fal request bodies and limits per model", () => {
   const sc = F.falInput("fal-ai/elevenlabs/speech-to-text/scribe-v2", "u", "spa"); assert.equal(sc.language_code, "spa"); assert.equal(sc.diarize, false);
   assert.equal("language_code" in F.falInput("fal-ai/elevenlabs/speech-to-text", "u", "auto"), false);
   const wz = F.falInput("fal-ai/wizper", "u", "spa"); assert.equal(wz.language, "es"); assert.equal(wz.chunk_level, "segment"); assert.equal(wz.max_segment_len, 29);
-  assert.equal(F.falInput("fal-ai/whisper", "u", "auto").language, null);
+  assert.equal(F.falInput("fal-ai/wizper", "u", "auto").language, null);
+  assert.equal(F.liveModel("fal-ai/whisper"), "fal-ai/wizper"); assert.equal(F.modelInfo("fal-ai/whisper").id, "fal-ai/wizper"); // retired by Fal (410)
   assert.equal(F.modelInfo("fal-ai/elevenlabs/speech-to-text/scribe-v2").splitSec, 1140);
   assert.ok(F.modelInfo("fal-ai/wizper").splitSec >= 1200);
   assert.equal(F.modelInfo("nonsense").id, F.DEFAULT_FAL_MODEL);
