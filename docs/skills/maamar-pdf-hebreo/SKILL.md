@@ -412,7 +412,7 @@ transcripción) y **sin inventar nada** que no esté en el maamar. Guárdala com
 
 ## 8. Subir a la Biblioteca de Maamarim (ofirsegal.app)
 
-Solo cuando el usuario lo pida. Requiere el conector **Biblioteca de Maamarim**
+Solo cuando el usuario lo pida. Requiere el conector **Maamarim** (Biblioteca de Maamarim)
 (herramientas `listar_categorias`, `subir_maamar`, `listar_maamarim`,
 `obtener_maamar`, `buscar_en_maamarim`, `guia_biblioteca`).
 
