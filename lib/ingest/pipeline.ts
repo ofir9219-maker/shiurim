@@ -3,7 +3,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { spawn } from "node:child_process";
 import { dataPath, readJson, writeJson, WORK_DIR, storageInventory, repoInventory, type InvItem } from "../storage";
-import { berajotCollection } from "../center/collections";
+import { berajotCollection, collectionById } from "../center/collections";
 import { getR2Client, r2Bucket } from "../audio";
 import { CT_BY_EXT, extOf, r2ObjectKey, existingKeys } from "../r2-sync";
 import * as drive from "./drive";
@@ -36,7 +36,12 @@ async function ensureSource(it: Item): Promise<string> {
   await drive.downloadToFile(it.id, p);
   return p;
 }
-export const cfgOf = (it: Item): JobCfg => it.cfg ?? legacyCfg();
+/** Settings captured when the item was queued; "published" is always read live (a series published later must show its classes). */
+export const cfgOf = (it: Item): JobCfg => {
+  const c = it.cfg ?? legacyCfg();
+  const live = collectionById(it.collectionId ?? BERAJOT_ID());
+  return live ? { ...c, published: live.published, slug: live.slug, collectionName: live.name } : c;
+};
 const addUsage = (c: Ctx, it: Item, p: number, o: number) => {
   const pr = openaiPrice(cfgOf(it).openaiModel), usd = (p * pr.inM + o * pr.outM) / 1e6;
   it.cost.promptTokens += p; it.cost.completionTokens += o; it.cost.openaiUsd = (it.cost.openaiUsd ?? 0) + usd;
@@ -231,6 +236,7 @@ async function stepIndex(c: Ctx, it: Item) {
   else if (!repoInventory().some((x) => x.id === it.id)) writeJson(dataPath("inventory.json"), inv.map((x) => (x.id === it.id ? { ...x, ...e } : x)));
   if (!cfg.published) c.log(`«${it.newName || it.name}» terminada, pero su serie no está publicada: no aparece en el sitio (activa «Publicar en la web» en /admin/drive)`);
   if (cfg.published) {
+    if (!it.r2Key) { const { mirrorCollectionAudio } = await import("../center/mirror"); await mirrorCollectionAudio(it.collectionId ?? BERAJOT_ID(), c.log).catch(() => 0); it.r2Key = r2ObjectKey(it); }
     await reindex(c.log);
     if (getR2Client() && r2Bucket()) await existingKeys(true).catch(() => {});
   }

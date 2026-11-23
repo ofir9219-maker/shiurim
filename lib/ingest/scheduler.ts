@@ -73,6 +73,11 @@ class Scheduler {
     this.persist();
     log(`scheduler iniciado (poll cada ${pollMinutes()} min, drive ${drive.driveConnected() ? "conectado" : "NO conectado"})`);
     try { this.diagnose(); } catch (e) { log(`diagnóstico: ${(e as Error).message}`); }
+    // published series: make sure every finished class has its audio in R2 (classes finished while the series was unpublished never got it)
+    void (async () => {
+      const { mirrorCollectionAudio } = await import("../center/mirror");
+      for (const c of listCollections().filter((x) => x.published)) { const n = await mirrorCollectionAudio(c.folderId, log).catch(() => 0); if (n) log(`audio copiado a R2: ${n} clase(s) de «${c.name}»`); }
+    })().catch((e) => log(`mirror: ${(e as Error).message}`));
   }
 
   /** One-line-per-series summary in the server log: items by state/status, AI-zone jobs, whether the series is published. */
