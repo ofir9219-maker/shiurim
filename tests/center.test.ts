@@ -19,7 +19,7 @@ test("Berajot is migrated as collection #1 with the legacy behaviour", () => {
   const b = all[0];
   assert.equal(b.folderId, C.BERAJOT_FOLDER_ID); assert.equal(b.slug, "berajot"); assert.equal(b.published, true); assert.equal(b.name, "ברכות שר לשמחה");
   const r = C.resolveSettings([b.folderId]);
-  assert.equal(r.settings.model, "fal-ai/elevenlabs/speech-to-text/scribe-v2"); assert.equal(r.settings.language, "spa");
+  assert.equal(r.settings.model, "assemblyai/universal"); assert.equal(r.settings.language, "spa");
   assert.equal(r.settings.postprocess, "openai"); assert.equal(r.settings.autoSync, true); assert.equal(r.settings.namingMode, "template");
   assert.equal(r.settings.template, C.BERAJOT_TEMPLATE); assert.equal(r.published, true);
 });
@@ -76,6 +76,10 @@ test("Fal request bodies and limits per model", () => {
   assert.equal("language_code" in F.falInput("fal-ai/elevenlabs/speech-to-text", "u", "auto"), false);
   const wz = F.falInput("fal-ai/wizper", "u", "spa"); assert.equal(wz.language, "es"); assert.equal(wz.chunk_level, "segment"); assert.equal(wz.max_segment_len, 29);
   assert.equal(F.falInput("fal-ai/wizper", "u", "auto").language, null);
+  assert.equal(F.DEFAULT_FAL_MODEL, "assemblyai/universal");
+  const prevC = C.listCollections(); C.saveCollections(prevC.map((x) => ({ ...x, settings: { ...x.settings, transcription: { model: "fal-ai/wizper", language: "spa" } } })));
+  assert.ok(C.migrateTranscriptionDefault() >= 1); assert.ok(C.listCollections().every((x) => !x.settings.transcription?.model || x.settings.transcription.model === "assemblyai/universal"));
+  assert.equal(C.migrateTranscriptionDefault(), -1, "runs once"); C.saveCollections(prevC);
   assert.equal(F.liveModel("fal-ai/whisper"), "fal-ai/wizper"); assert.equal(F.modelInfo("fal-ai/whisper").id, "fal-ai/wizper"); // retired by Fal (410)
   assert.equal(F.modelInfo("fal-ai/elevenlabs/speech-to-text/scribe-v2").splitSec, 1140);
   assert.ok(F.modelInfo("fal-ai/wizper").splitSec >= 1200);
@@ -99,8 +103,9 @@ test("status derivation", () => {
 
 test("estimate: Fal per model + OpenAI only when polishing", () => {
   const base = { ...C.systemDefaults(), published: false, collectionName: "x", slug: "x" };
-  const a = estimateRow({ id: "1", name: "a", minutes: 60, approx: false, redo: false }, base);
+  const a = estimateRow({ id: "1", name: "a", minutes: 60, approx: false, redo: false }, { ...base, model: "fal-ai/elevenlabs/speech-to-text/scribe-v2" });
   assert.ok(Math.abs(a.falUsd - 0.48) < 1e-9); assert.equal(a.openaiUsd, 0);
+  assert.ok(Math.abs(estimateRow({ id: "3", name: "c", minutes: 60, approx: false, redo: false }, base).falUsd - 0.27) < 1e-9, "default = AssemblyAI");
   const b = estimateRow({ id: "2", name: "b", minutes: 60, approx: true, redo: true }, { ...base, postprocess: "openai", model: "fal-ai/wizper" });
   assert.ok(b.openaiUsd > 0.05 && b.openaiUsd < 3); assert.ok(b.falUsd > 0 && b.falUsd < 0.48);
   const s = summarize([a, b]); assert.equal(s.files, 2); assert.equal(s.minutes, 120); assert.equal(s.approxFiles, 1); assert.equal(s.redo, 1);

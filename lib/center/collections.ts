@@ -44,10 +44,21 @@ const POSTS: Postprocess[] = ["none", "openai", "ai_package"];
 
 const COLL = () => path.join(STORAGE_DIR, "collections.json");
 const CENTER = () => path.join(STORAGE_DIR, "center.json");
-type CenterCfg = { rootFolderId?: string; rootName?: string };
+type CenterCfg = { rootFolderId?: string; rootName?: string; migrations?: string[] };
 export const getCenter = (): CenterCfg => readJson<CenterCfg>(CENTER(), {});
 export const setCenterRoot = (rootFolderId: string, rootName: string) => writeJson(CENTER(), { ...getCenter(), rootFolderId, rootName });
 export const clearCenterRoot = () => writeJson(CENTER(), { ...getCenter(), rootFolderId: undefined, rootName: undefined });
+
+/** One-time switch of every folder's transcription model to AssemblyAI (the new default). Returns how many folders changed, or -1 if it already ran. */
+export function migrateTranscriptionDefault(): number {
+  const c = getCenter();
+  if (c.migrations?.includes("assembly-default")) return -1;
+  const list = listCollections(); let n = 0;
+  for (const col of list) if (col.settings.transcription?.model && col.settings.transcription.model !== DEFAULT_FAL_MODEL) { col.settings.transcription.model = DEFAULT_FAL_MODEL; n++; }
+  if (n) saveCollections(list);
+  writeJson(CENTER(), { ...getCenter(), migrations: [...(c.migrations ?? []), "assembly-default"] });
+  return n;
+}
 
 export const berajotCollection = (): Collection => ({
   folderId: process.env.DRIVE_FOLDER_ID || BERAJOT_FOLDER_ID, name: "ברכות שר לשמחה", slug: "berajot", published: true, createdAt: "2025-01-01T00:00:00.000Z",

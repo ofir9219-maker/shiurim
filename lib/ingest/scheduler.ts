@@ -1,9 +1,10 @@
 // Background scheduler: polls the Drive folder, queues stable new audios, runs the pipeline one item at a time.
 import fs from "node:fs";
 import path from "node:path";
-import { INGEST_DIR, LEGACY_WORK_DIR, WORK_DIR, allInventory } from "../storage";
+import { INGEST_DIR, LEGACY_WORK_DIR, WORK_DIR, allInventory, dataPath } from "../storage";
 import * as drive from "./drive";
-import { berajotCollection, listCollections, resolveSettings } from "../center/collections";
+import { berajotCollection, listCollections, migrateTranscriptionDefault, resolveSettings } from "../center/collections";
+import { DEFAULT_FAL_MODEL } from "../center/fal-models";
 import { NO_COLLECTION, ancestorPath, jobCfg, walkAudio, type Candidate } from "../center/jobs";
 import { parseOrder, nextOrder, splitExt } from "./naming";
 import { clearArtifacts } from "./artifacts";
@@ -50,6 +51,14 @@ class Scheduler {
     this.started = true;
     // items interrupted mid-run (restart) go back to the queue
     for (const it of Object.values(this.state.items)) if (it.status === "running") { it.status = "queued"; addLog(it, "reanudado tras reinicio"); }
+    // AssemblyAI became the default transcription model: switch every folder once, and the queued items not transcribed yet
+    try {
+      const n = migrateTranscriptionDefault();
+      if (n >= 0) for (const it of Object.values(this.state.items)) {
+        if ((it.state === "detected" || it.state === "uploaded") && it.cfg && it.cfg.model !== DEFAULT_FAL_MODEL && !fs.existsSync(dataPath("raw", `${it.id}.json`))) { it.cfg = { ...it.cfg, model: DEFAULT_FAL_MODEL }; addLog(it, "modelo de transcripción: AssemblyAI (nuevo predeterminado)"); }
+      }
+      if (n >= 0) log(`transcripción: AssemblyAI es el modelo predeterminado (${n} carpeta(s) con otro modelo cambiadas)`);
+    } catch (e) { log(`migración AssemblyAI: ${(e as Error).message}`); }
     // failures caused by a full disk are not the file's fault: retry them from scratch once space is back
     for (const it of Object.values(this.state.items)) {
       if (it.state !== "indexed" && (it.status === "failed" || it.status === "queued") && /ENOSPC|no space left|disk is full|SQLITE_FULL|HTTP 410|deprecated/i.test(it.error ?? "")) {

@@ -11,7 +11,7 @@ export const FAL_MODEL_IDS = [
 export const RETIRED_MODELS: Record<string, FalModelId> = { "fal-ai/whisper": "fal-ai/wizper" };
 export const liveModel = (m: string | undefined): FalModelId | undefined => (m && RETIRED_MODELS[m]) || (m as FalModelId | undefined);
 export type FalModelId = (typeof FAL_MODEL_IDS)[number];
-export const DEFAULT_FAL_MODEL: FalModelId = "fal-ai/elevenlabs/speech-to-text/scribe-v2";
+export const DEFAULT_FAL_MODEL: FalModelId = "assemblyai/universal";
 
 export type FalModelInfo = {
   id: FalModelId; label: string; kind: "words" | "chunks";
@@ -25,10 +25,10 @@ export type FalModelInfo = {
 };
 const env = (k: string, d: number) => { const n = Number(process.env[k]); return Number.isFinite(n) && n > 0 ? n : d; };
 export const FAL_MODELS = (): Record<FalModelId, FalModelInfo> => ({
-  "fal-ai/elevenlabs/speech-to-text/scribe-v2": { id: "fal-ai/elevenlabs/speech-to-text/scribe-v2", label: "ElevenLabs Scribe v2 (recomendado)", kind: "words", splitSec: 1140, usdPerMin: env("FAL_USD_PER_MIN", 0.008), note: "Palabras con tiempos; partes de 19 min." },
+  "fal-ai/elevenlabs/speech-to-text/scribe-v2": { id: "fal-ai/elevenlabs/speech-to-text/scribe-v2", label: "ElevenLabs Scribe v2 (Fal)", kind: "words", splitSec: 1140, usdPerMin: env("FAL_USD_PER_MIN", 0.008), note: "Palabras con tiempos; partes de 19 min." },
   "fal-ai/elevenlabs/speech-to-text": { id: "fal-ai/elevenlabs/speech-to-text", label: "ElevenLabs Scribe v1", kind: "words", splitSec: 1140, usdPerMin: env("FAL_USD_PER_MIN_SCRIBE_V1", 0.03), note: "Palabras con tiempos; partes de 19 min." },
   "fal-ai/wizper": { id: "fal-ai/wizper", label: "Wizper (Whisper v3, rápido)", kind: "chunks", splitSec: 1500, usdPerComputeSec: env("FAL_USD_PER_COMPUTE_SEC_WIZPER", 0.00111), computeSecPerAudioMin: env("FAL_WIZPER_COMPUTE_SEC_PER_MIN", 4), note: "Segmentos ≤29 s; partes de 25 min. Precio por segundo de cómputo (estimado)." },
-  "assemblyai/universal": { id: "assemblyai/universal", label: "AssemblyAI Universal", kind: "words", splitSec: 4 * 3600, usdPerMin: env("ASSEMBLYAI_USD_PER_MIN", 0.0045), note: "AssemblyAI (clave ASSEMBLYAI_API_KEY). Palabras con tiempos; archivo entero hasta 4 h. Precio estimado, ajustable con ASSEMBLYAI_USD_PER_MIN." },
+  "assemblyai/universal": { id: "assemblyai/universal", label: "AssemblyAI Universal (predeterminado)", kind: "words", splitSec: 4 * 3600, usdPerMin: env("ASSEMBLYAI_USD_PER_MIN", 0.0045), note: "AssemblyAI (clave ASSEMBLYAI_API_KEY). Palabras con tiempos; archivo entero hasta 4 h. Precio estimado, ajustable con ASSEMBLYAI_USD_PER_MIN." },
 });
 export const isAssemblyModel = (m: string | undefined) => !!m && m.startsWith("assemblyai/");
 export const isFalModel = (m: unknown): m is FalModelId => typeof m === "string" && (FAL_MODEL_IDS as readonly string[]).includes(m);
