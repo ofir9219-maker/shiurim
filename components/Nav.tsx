@@ -9,6 +9,7 @@ const items = [
   { href: "/buscar", label: "Buscar" },
   { href: "/chat", label: "Preguntar" },
   { href: "/champinones", label: "Champiñones" },
+  { href: "/maamarim", label: "Maamarim" },
 ];
 
 function ThemeToggle() {

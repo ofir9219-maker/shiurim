@@ -140,7 +140,7 @@ function Center() {
         <span className="chip chip-sm">Drive: {st.drive.connected ? `conectado${st.drive.email ? ` (${st.drive.email})` : ""}` : "no conectado"}</span>
         <span className="chip chip-sm">Cola: {st.queue.running ? "trabajando" : "libre"} · {st.queue.pending} pendiente(s)</span>
         <span className="chip chip-sm">Series: {st.collections.length}</span>
-        <Link className="chip" href="/admin">Estado / costos</Link>
+        <Link className="chip" href="/admin">Estado / costos</Link><Link className="chip" href="/admin/maamarim">Maamarim</Link>
         {st.root && !picking && <button className="chip" onClick={() => setPicking(true)}>Carpeta general: {st.root.name || st.root.id} (cambiar)</button>}
       </div>
       {!st.drive.connected && <p className="card" style={{ padding: 12 }}>Google Drive no está conectado. <a href="/api/admin/google/start" className="btn btn-sm">Conectar Google Drive</a></p>}
