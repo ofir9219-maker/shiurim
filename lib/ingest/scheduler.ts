@@ -63,6 +63,22 @@ class Scheduler {
     try { fs.rmSync(LEGACY_WORK_DIR, { recursive: true, force: true }); } catch { /* ignore */ }
     this.persist();
     log(`scheduler iniciado (poll cada ${pollMinutes()} min, drive ${drive.driveConnected() ? "conectado" : "NO conectado"})`);
+    try { this.diagnose(); } catch (e) { log(`diagnóstico: ${(e as Error).message}`); }
+  }
+
+  /** One-line-per-series summary in the server log: items by state/status, AI-zone jobs, whether the series is published. */
+  diagnose() {
+    const cols = new Map(listCollections().map((c) => [c.folderId, c]));
+    const by = new Map<string, Record<string, number>>();
+    for (const it of Object.values(this.state.items)) {
+      const k = it.collectionId ?? "?"; const r = by.get(k) ?? {}; const key = `${it.state}/${it.status}`; r[key] = (r[key] ?? 0) + 1; by.set(k, r);
+    }
+    const jobs = new Map<string, Record<string, number>>();
+    for (const j of zone.loadJobs()) { const it = this.state.items[j.audioId]; const k = it?.collectionId ?? "?"; const r = jobs.get(k) ?? {}; const st = zone.statusOf(j) + (j.status === "received" && !j.appliedAt ? "(sin aplicar)" : ""); r[st] = (r[st] ?? 0) + 1; jobs.set(k, r); }
+    for (const k of new Set([...by.keys(), ...jobs.keys()])) {
+      const c = cols.get(k);
+      log(`diagnóstico serie «${c?.name ?? k}» publicada=${c ? (c.published ? "sí" : "NO") : "?"} items=${JSON.stringify(by.get(k) ?? {})} zonaIA=${JSON.stringify(jobs.get(k) ?? {})}`);
+    }
   }
 
   private async tick() {

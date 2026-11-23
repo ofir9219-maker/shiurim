@@ -229,6 +229,7 @@ async function stepIndex(c: Ctx, it: Item) {
   };
   if (!inv.some((x) => x.id === it.id)) writeJson(dataPath("inventory.json"), [...inv, e]);
   else if (!repoInventory().some((x) => x.id === it.id)) writeJson(dataPath("inventory.json"), inv.map((x) => (x.id === it.id ? { ...x, ...e } : x)));
+  if (!cfg.published) c.log(`«${it.newName || it.name}» terminada, pero su serie no está publicada: no aparece en el sitio (activa «Publicar en la web» en /admin/drive)`);
   if (cfg.published) {
     await reindex(c.log);
     if (getR2Client() && r2Bucket()) await existingKeys(true).catch(() => {});

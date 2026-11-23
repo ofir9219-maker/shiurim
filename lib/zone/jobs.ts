@@ -350,6 +350,7 @@ export async function applyIfComplete(audioId: string): Promise<{ applied: boole
   it.newName = meta.newName; it.title = meta.title; it.dafNote = meta.dafNote; it.needsReview = pctInaudible(segments.map((x) => x.text)) > 0.2;
   it.state = "polished"; it.status = "queued"; it.attempts = 0; it.error = undefined; it.nextAttemptAt = undefined; it.finishedAt = undefined;
   addLog(it, `resultado de la IA aplicado (${pk.length} parte(s), ${segments.length} segmentos): ${meta.newName}`);
+  console.log(`ingest: zona IA aplicada a ${audioId} (${pk.length} parte(s)): ${meta.newName}`);
   const now = new Date().toISOString(); mutate((l) => { for (const p of l) if (p.audioId === audioId && p.status === "received") p.appliedAt = now; });
   s.persist(); void s.work();
   return { applied: true, waiting: [] };
