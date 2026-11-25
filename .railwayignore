@@ -1,0 +1,15 @@
+node_modules
+.next
+data/raw
+data/fal-results
+data/fal-results-gaps
+data/fal-results-hollow
+data/shiurim.db*
+data/md
+data/md-out
+data/segments
+data/drive-pages
+data/compare
+data/gapfill-raw
+data/gapfill2-raw
+docs/screenshots

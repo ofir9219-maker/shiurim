@@ -1,0 +1,2636 @@
+{
+"source": "fal",
+"model": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+"segments": [
+{
+"startMs": 420,
+"endMs": 2940,
+"text": "Dice: \"Me matai colin Shema de Shacharit\"."
+},
+{
+"startMs": 4440,
+"endMs": 14240,
+"text": "Sí, desde cuándo se lee Sha-- Shema de Shacharit. Entonces, veme ten el pasuk está escrito ubkumeja. Quiere decir que no es cuando es de día, sino es cuando tú te despiertes."
+},
+{
+"startMs": 14800,
+"endMs": 24380,
+"text": "Entonces, ¿cuándo despiertas? Cuando la persona se despierta, cuando la-- empieza a salir la luz. Es cuando ya están invi-invi- invitando a la persona a despertarse."
+},
+{
+"startMs": 25860,
+"endMs": 39400,
+"text": "Entonces, ¿cuándo, cuándo es que hay luz? Cuando-- luz significa que ya hay algo que puede reconocer, mishekir ben tehelet le laván, que diferencies entre tehelet, color tehelet y color laván."
+},
+{
+"startMs": 39400,
+"endMs": 40800,
+"text": "¿Sí?"
+},
+{
+"startMs": 42480,
+"endMs": 53960,
+"text": "Rabí Eliezer Omer, ben tehelet le carti, entre color tehelet y color carti. Tehelet es azul y carti es un tipo de verde, creo, sí."
+},
+{
+"startMs": 54840,
+"endMs": 56860,
+"text": "Turquesa, ¿no? Ve'ombrah,"
+},
+{
+"startMs": 58160,
+"endMs": 64440,
+"text": "ad ha'netzaḥ ha'má, rabí Yoshua Omer, ad shalosh sa'ot. Según rabí Eliezer, tienes hasta el netzaḥ ha'má."
+},
+{
+"startMs": 65340,
+"endMs": 72980,
+"text": "O sea, que ya es cuando se, se asoma el sol, literal. Antes la luz llega antes, porque aunque no se asome, pues algo de luz echa."
+},
+{
+"startMs": 73540,
+"endMs": 79800,
+"text": "Y cuando ya se asoma, entonces ahí ya acaba el tiempo del Shemá. No, está hablando cuando llega."
+},
+{
+"startMs": 80280,
+"endMs": 86680,
+"text": "No, ve'ombrah, ad ha'netzaḥ ha'má. Y rabí Yoshua Omer, ad shalosh sa'ot, tienes tres horas, así hacemos nosotros."
+},
+{
+"startMs": 87620,
+"endMs": 95240,
+"text": "Dice: \"Shekén daraj melajím, lamot be'shalosh sa'ot\". Los reyes, los hijos de reyes, no se despiertan cuando el sol los despierta."
+},
+{
+"startMs": 95260,
+"endMs": 104500,
+"text": "Eso lo hacen otras con David HaMelej, ¿no? Que-- es-- se, se-- sí, se trajo el-- a este rabí Yoshua de shalosh sa'ot para que haya mis marot en la noche."
+},
+{
+"startMs": 105140,
+"endMs": 113120,
+"text": "Dice rabí Yoshua Omer, ad shalosh sa'ot, shekén daraj melajím, lamot be'shalosh sa'ot, ha'kore mi'kav eilag, lo ifsid ke'adam hakore be'Torá\"."
+},
+{
+"startMs": 113800,
+"endMs": 119840,
+"text": "Y de aquí en adelante no pierde, es como una persona que lee la Torá. O sea, según..."
+},
+{
+"startMs": 121160,
+"endMs": 126020,
+"text": "O sea, perdió el Shemá. Son siete-- porque rabí Eliezer son diez minutos. Más,"
+},
+{
+"startMs": 127500,
+"endMs": 133760,
+"text": "más. ¿Veinte? No, tipo de alot hashajar hasta el netz. Checa, checa, es un poquito después de alot hashajar, es un poco después."
+},
+{
+"startMs": 134220,
+"endMs": 137340,
+"text": "Hay, hay horario de talit y tefilín, hasta el netz."
+},
+{
+"startMs": 138780,
+"endMs": 145160,
+"text": "También ahí la machlóket, ¿no? Mhm. Entre tehelet le laván y tehelet le carti. Sí. Los musaguim."
+},
+{
+"startMs": 145160,
+"endMs": 147060,
+"text": "¿Qué opinan? ¿En realmente tefilín Shemá?"
+},
+{
+"startMs": 148280,
+"endMs": 150760,
+"text": "Es-- Cuarenta y ocho minutos. Ad sheva. Son-- bueno,"
+},
+{
+"startMs": 152000,
+"endMs": 158680,
+"text": "el mishe yakir. ¿Ustedes cómo entienden? Hay machlóket, ben tehelet le laván o ben tehelet le carti."
+},
+{
+"startMs": 158680,
+"endMs": 166100,
+"text": "¿De qué-- o sea, qué, qué pensó cada quien como para opinar esa opinión? ¿Me explico? Tipo, ¿qué dirías tú?"
+},
+{
+"startMs": 168180,
+"endMs": 181380,
+"text": "No sé. O sea, ya está, ¿no? Meternos en la cabeza de Jazal. O sea, yo digo que es cuando ya la luz te empieza, de alguna manera, empieza a haber luz."
+},
+{
+"startMs": 181480,
+"endMs": 186040,
+"text": "¿Me explico? Empieza a haber luz. ¿Cuándo-- cómo, cómo tú definirías?"
+},
+{
+"startMs": 187720,
+"endMs": 195360,
+"text": "Deja-- ¿me explico? Jazal ya dice en el ejemplo, pero ¿tú cómo definirías? ¿Qué, qué parámetros usarías tú para definir luz?"
+},
+{
+"startMs": 196100,
+"endMs": 207560,
+"text": "O sea, el, el chiste es como que también agarrarle que, que ellos dónde esta-- dónde están parados ellos. Nosotros agarramos como que la total de la machlóket, pero te dicen: \"Oye, ¿qué es ubkumeja?\" Pues cuando la luz te empieza a despertar."
+},
+{
+"startMs": 207980,
+"endMs": 215820,
+"text": "Entonces, ¿cómo defines ese estado? ¿Cuándo, cuándo empieza a haber luz? No, entonces no es cuando el sol se asoma, porque es cuando la luz me llega, no cuando el sol se asoma."
+},
+{
+"startMs": 216300,
+"endMs": 223960,
+"text": "Y entonces, ¿qué significa la lu-luz ya me llega? ¿Ustedes dirían tipo algo como que diferenciar entre colores? O sea, es el punto."
+},
+{
+"startMs": 224060,
+"endMs": 225180,
+"text": "¿Qué, qué dirían ustedes?"
+},
+{
+"startMs": 226780,
+"endMs": 233560,
+"text": "Es que igual a esa hora, si ahorita prendemos luz, pero si apagaríamos hoy en día las luces a esa hora, nosotros no las podríamos reconocer entre esos colores, yo creo."
+},
+{
+"startMs": 233600,
+"endMs": 241180,
+"text": "No, por eso, pero ¿tú qué harías? Dicen que cuando lo reconoces, no es porque vivían. O sea, pero ¿tú, tú cómo...? O sea, sí, ya, vamos, estás en un mundo oscuro."
+},
+{
+"startMs": 241200,
+"endMs": 248440,
+"text": "¿Qué dirías tú? Y necesitas tú ahorita empezar a definir luz. Yo creo que se referían al, al, al, al azul del cielo."
+},
+{
+"startMs": 250200,
+"endMs": 259240,
+"text": "No es-- no está hablando de cómo está vestido tu compañero. Los colores que no-- No, eso es la Gemara, antes de llegar a luz es- El azul del cielo y las nubes o el azul del cielo y los árboles, a lo mejor."
+},
+{
+"startMs": 259560,
+"endMs": 267240,
+"text": "Mhm. Pero ¿por qué colores? Es por el, por el cielo. Pero antes del cielo es como que el primer, el primer tema es como que los colores."
+},
+{
+"startMs": 267920,
+"endMs": 269560,
+"text": "O sea, diferenciar entre colores."
+},
+{
+"startMs": 271120,
+"endMs": 277580,
+"text": "Es, es diferenciar entre colores y luego a lo mejor agarraron el color del cielo o agarraron otros colores."
+},
+{
+"startMs": 277580,
+"endMs": 284300,
+"text": "¿Cuáles? Está rarísimo, está rarísimo en la machlóket. ¿Qué colores agarraron? Entre azul y turquesa. ¿Cuánta diferencia puede haber entre que puedas reconocer el azul y el turquesa?"
+},
+{
+"startMs": 284320,
+"endMs": 291360,
+"text": "Por eso, por eso, ahora eso es lo que yo- Se diría la definición de luz, el parámetro normal de luz, o sea, cuándo ya hay luz, es cuando puedes vivir tu día normal con lo que ya hay de luz."
+},
+{
+"startMs": 291480,
+"endMs": 304220,
+"text": "Por eso- No. Pero entre el laván y el tehelet. No, el chiste es cuándo, cuándo la luz-- ya hay luz como para que te despiertes, que ya no estés en el mismo estado de que es de noche, que ya hay algo que ya dices: \"Aquí hay luz\"."
+},
+{
+"startMs": 304820,
+"endMs": 312680,
+"text": "No, no, no creo que puede ser tu día, no. Sigue-- tiene que seguir estando muy oscuro. Cuando las gallinas chiflan, ¿ya?"
+},
+{
+"startMs": 312700,
+"endMs": 313300,
+"text": "¿Mmm?"
+},
+{
+"startMs": 314600,
+"endMs": 319320,
+"text": "Cuando las gallinas- O sea, porque la oscuridad es ausencia de- Curruquean. Sí, no, sí, sí, chiflan las gallinas."
+},
+{
+"startMs": 320780,
+"endMs": 330920,
+"text": "¿No? ¿Qué? La oscuridad es ausencia de-- pues estamos en- Sí. Porque qué me-- porque no... Entonces, en, en ese momento a lo mejor ya empieza a terminar la oscuridad, ya empiezan a notarse las luces."
+},
+{
+"startMs": 331360,
+"endMs": 337740,
+"text": "Mhm. Y el negro lo relacionan con la oscuridad y para que empiecen a usar los colores a lo mejor que se refiera... Eso."
+},
+{
+"startMs": 338120,
+"endMs": 345000,
+"text": "Entonces, ¿por qué, por qué los colores? ¿Por qué los colores? Fundamentalmente todo lo que vemos en colores es por la luz. Sa'ak l'netzaḥ. Lo único que te deja ver la luz son colores."
+},
+{
+"startMs": 345700,
+"endMs": 352420,
+"text": "No hay otra cosa que te de-- deja ver la luz. O sea, todo lo que estás viendo, tú no estás viendo mesa, estás viendo colores, ¿me explico?"
+},
+{
+"startMs": 353300,
+"endMs": 366920,
+"text": "O sea, veme, lo que estás viendo son colores. Es como que todos los píxeles del este, o sea- Sí, exactamente. Tú lo que estás viendo es colores y lo que la luz ilumina son colores O sea, eso es lo que la luz ilumina."
+},
+{
+"startMs": 367620,
+"endMs": 388820,
+"text": "Ahora, los colores son lo que le dan forma, forma a las cosas. Si todo sería el mismo color, pues, como que no, no habría forma, no habría diferencia entre las cosas, todo sería literal igual, que es lo que es en la, la noche, se, se llama erev, de como que es revuelto, todo se revuelve, ya no diferencias entre un árbol y un este."
+},
+{
+"startMs": 389420,
+"endMs": 398420,
+"text": "Entonces, lo que hace la lu-luz es boker. Boker es que puedes, ahorita, levaquer. Levaquer es poder diferenciar."
+},
+{
+"startMs": 400180,
+"endMs": 406480,
+"text": "Entonces, es lo primero. Ahora, ¿por qué los colores tehelet? Se ve como que el color base es tehelet."
+},
+{
+"startMs": 406880,
+"endMs": 413680,
+"text": "Puede ser que, como dices, es el cielo. Es lo que es el tehelet, es el tsitsit, que te acuerdas de, que se acabó y te acuerdas de eso."
+},
+{
+"startMs": 414040,
+"endMs": 426400,
+"text": "Sí. Tehelet puede ser porque es cielo, quiere decir que lo que jamim están viendo, que es lo, lo, lo, lo que realmente se está iluminando, es el cielo."
+},
+{
+"startMs": 426400,
+"endMs": 432720,
+"text": "¿Me explico? O sea... Mitzmá, porque lo tenían todos, ¿no? Y tipo, y ya. No, no, no."
+},
+{
+"startMs": 432800,
+"endMs": 439160,
+"text": "Eso ya es el tsitsit, eso... Bueno, ¿qué es lo más fácil que tiene? Perdón."
+},
+{
+"startMs": 440480,
+"endMs": 448160,
+"text": "Regreso rapidito con una pregunta. Va. Pregunta, pregunta. Pregúntale y te vas. Ese es el tema, pero salimos un poquito de... O sea, pues, Mitzmá, ¿por qué?"
+},
+{
+"startMs": 448260,
+"endMs": 451740,
+"text": "¿Por qué dijeron eso? ¿Por qué es lo más fácil de checar? Estás, estás en la cama."
+},
+{
+"startMs": 453320,
+"endMs": 462300,
+"text": "Mhm. Es así, ya puedes saber si puedes ver o no. Sí. Imagina que yo te digo entre guinda yyy al final no va a contar Mitzmá, porque- No, también porque puede ser que son los colores que más se parecen."
+},
+{
+"startMs": 462320,
+"endMs": 470480,
+"text": "Sí. ¿No? Ah, está bueno eso. No, tehelet y labán no se parecen tanto. Solo son los del tsitsit. Pero yo, eso, yo pensaría que son por, por los del tsitsit."
+},
+{
+"startMs": 470920,
+"endMs": 478200,
+"text": "Y entonces, jamim son como Rov Jaim Kanievsky. Rov Jaim Kanievsky... Es la única realidad. Su única realidad es Torá."
+},
+{
+"startMs": 479660,
+"endMs": 486280,
+"text": "La única realidad de Rov Jaim Kanievsky es Torá. Si le hablas de un tractor, s-se pregunta si Meravel Tumá, no Meravel Tumá, o sea."
+},
+{
+"startMs": 486280,
+"endMs": 500800,
+"text": "¿Me explico? Tipo, no- Una casa grande, ¿cómo hacer Vedicat Hamets? Tipo, no hay, no hay otra realidad. Entonces, si contaban a Rov Jaim Kanievsky, tipo, el tractor, tipo: Meravel Tumá, no Meravel Tumá, es clean, es clean."
+},
+{
+"startMs": 503740,
+"endMs": 511640,
+"text": "Entonces, en el lugar donde vemos en la Torá que hay este Inian de Abjaná, es en el Uritem Otó del Tsitsit."
+},
+{
+"startMs": 511640,
+"endMs": 557600,
+"text": "¿Sí? Que el Tsitsit dice Uritem Otó, Sí, el tehelet"
+},
+{
+"startMs": 557600,
+"endMs": 558580,
+"text": "es completamente azul."
+},
+{
+"startMs": 560500,
+"endMs": 567620,
+"text": "Toño, tu tehelet no está bueno, según Rashi. El tehelet de Rashi era verde. Nada, pero esto es que el tehelet es como el cielo."
+},
+{
+"startMs": 568900,
+"endMs": 575500,
+"text": "No sé por qué Rashi se refiere a Mementa Karti, pero dice Bucarob le Karti. Entonces, no sabemos que es Yarok de Rashi."
+},
+{
+"startMs": 576040,
+"endMs": 577600,
+"text": "No sé. Está raro."
+},
+{
+"startMs": 579020,
+"endMs": 586800,
+"text": "El azul es-- el verde es, es azul con, con otro. ¿Eh? El ve-- el color verde es, es una mistura de azul con otro."
+},
+{
+"startMs": 586880,
+"endMs": 595500,
+"text": "Sí, azul con amarillo, ¿no? Amarillo. Azul y amarillo es verde. Sí. Entonces, ¿de dónde llegó aquí el Karti? Pues piénsenlo, algo aquí más más ni fla."
+},
+{
+"startMs": 596620,
+"endMs": 598260,
+"text": "Si yo tengo, piensa,"
+},
+{
+"startMs": 601180,
+"endMs": 607900,
+"text": "a ver, ustedes digan. A ver, ¿por qué, por qué hay majlóket si-- entre tehelet y labán o tehelet y karti?"
+},
+{
+"startMs": 607900,
+"endMs": 614640,
+"text": "¿Por qué hay majlóket así, si tehelet y labán o tehelet y karti? Eh, eh, ¿cuál es el Gusá Pasut?"
+},
+{
+"startMs": 614700,
+"endMs": 624800,
+"text": "Está tehelet y karti están- Es más, más cerca, entonces necesita más luz. Y el otro se necesita menos luz, pero a lo mejor lo que te es más luz o menos luz,"
+},
+{
+"startMs": 626120,
+"endMs": 629720,
+"text": "que, que- Más conciencia, en poder distinguir los detalles, a filo."
+},
+{
+"startMs": 631020,
+"endMs": 633240,
+"text": "Ni más que eso. Sí, más que eso."
+},
+{
+"startMs": 634520,
+"endMs": 643080,
+"text": "O sea, ya no me confundes. Puede deducir así, pensar. Tipo, el Tov Berá es blanco y azul, está muy claro la separación. Y aquí es a filonos, en el que se parece puedo distinguir."
+},
+{
+"startMs": 643320,
+"endMs": 650000,
+"text": "¿Y qué? Sí, muy bien. ¿Qué, cuál es el punto en eso? ¿Cuál es el punto en distinguir en el que se parece? Cuanta más claridad tienes, es día."
+},
+{
+"startMs": 650080,
+"endMs": 657980,
+"text": "Si el día es la claridad, ¿no? ¿Mmm? Dijiste que día es la claridad, no la oscuridad. Ya, se diferencia entre tehelet y labán."
+},
+{
+"startMs": 658940,
+"endMs": 665440,
+"text": "O sea, qué ganas de que viene el otro y dice: «No, eso no es diferenciar». Diferencias entre tehelet y karti. Bueno, aquí ya empieza a diferenciar, ¿por qué no?"
+},
+{
+"startMs": 665640,
+"endMs": 670440,
+"text": "No, diferenciar no es lo claro, lo que es blanco y negro, diferenciar es poder diferenciar a futuro lo que parecen las mismas cosas."
+},
+{
+"startMs": 672320,
+"endMs": 680640,
+"text": "Muy bien. Entonces, se ve acá que es... Que cambra-- cambia completamente. Es, es una, es una del Mauti."
+},
+{
+"startMs": 681740,
+"endMs": 696040,
+"text": "Es una del muy Mauti. Cuando yo sé diferenciar entre tehelet y labán, no es porque estoy viendo al tehelet, es porque estoy sabiendo nada más descartar, de-- yo nada más estoy descartando- Que no es blanco."
+},
+{
+"startMs": 696080,
+"endMs": 702460,
+"text": "Que no es blanco. Pero no el tehelet. Entonces, acá, Bemed, aquí se ve que es Betse el tehelet."
+},
+{
+"startMs": 702960,
+"endMs": 715640,
+"text": "El hecho que la, la majlóket es, e-en los dos el tehelet se queda. Entonces, quiere decir que lo que están buscando es que sepas reconocer tehelet, o que con eso se reconoce el tehelet del tsitsit o que se reconoce el cielo."
+},
+{
+"startMs": 716280,
+"endMs": 725180,
+"text": "Pero el punto es que lo que están buscando jamim es que sepa reconocer tehelet. Ahora, si es entre tehelet y labán, realmente no reconociste el tehelet."
+},
+{
+"startMs": 726532,
+"endMs": 732672,
+"text": "¿Cuál raya? Que si te pongo karti lo sigo viendo igual. Entonces, tú nada más reconociste el tehelet porque descartaste el aván."
+},
+{
+"startMs": 733252,
+"endMs": 742072,
+"text": "El aván es el color más fácil- O sea, descartaste el karti. De, de, de, de darte cuenta cuando hay luz, porque"
+},
+{
+"startMs": 743432,
+"endMs": 747872,
+"text": "el, el-- cualquier otro color, el, el, el tehelet, ya es un color específico."
+},
+{
+"startMs": 749452,
+"endMs": 763832,
+"text": "El aván es, es completamente blanco, ¿me explico? Es como la luz. Entonces, si yo tengo tehelet y otro color, entonces ya necesito que la luz esté con más fuerza, que no nada más me enseña que hay una cosa, sino que me enseña realmente el color de una cosa."
+},
+{
+"startMs": 764232,
+"endMs": 769692,
+"text": "El aván no es raya, el aván no es raya. La, el aván viene a decirte nada más que hay luz."
+},
+{
+"startMs": 771012,
+"endMs": 773012,
+"text": "Si el avá-- si tú no logras diferenciar entre,"
+},
+{
+"startMs": 774632,
+"endMs": 775792,
+"text": "no sé, el aván y"
+},
+{
+"startMs": 777132,
+"endMs": 789772,
+"text": "dos tipos de aván, muy así... No, eso no, no raya. Hay luz. Pero entre el aván y tehelet vienes a decir, el-- la primera Yezida viene a decir: \"Lo que me importa es ver que hay luz\"."
+},
+{
+"startMs": 790352,
+"endMs": 800152,
+"text": "Si hay luz, con que yo alcance a diferenciar algo, aun siendo que es descartando, ya me alcanza con eso. El otro te dice: \"No, el borde es que sepa reconocer el tehelet\"."
+},
+{
+"startMs": 800192,
+"endMs": 806472,
+"text": "Que realmente sepa reconocer. Entonces, re-- para reconocer tehelet, necesitas entre tehelet y karti, y esa es la machloket."
+},
+{
+"startMs": 806492,
+"endMs": 810672,
+"text": "¿Y cu-- cuál es el-- o sea, por qué tehelet dijiste que es por el tzitzit, por ma, ma, ma'ayan?"
+},
+{
+"startMs": 812072,
+"endMs": 821832,
+"text": "Sí, puede ser que haya más ma'ayan, pero bentaim es porque son Rob Janganefski y la Torá solo existe-- en la Torá solo existe realmente el,"
+},
+{
+"startMs": 823352,
+"endMs": 833312,
+"text": "el, el, o sea, el uritem o to está sobre el tzitzit, que tú sepas ver el tzitzit. O más pasut, como de-- como fue, lo mismo, pero más pasut, porque ya es lo que tienes a la mano."
+},
+{
+"startMs": 833372,
+"endMs": 839732,
+"text": "Ya, que es un color, ¿qué color tenemos en el tzitzit? Tenemos dos colores, ya. Qué color tienes a la mano. No, no, no, no puede ser por eso. No puede ser así más pasut."
+},
+{
+"startMs": 839792,
+"endMs": 845972,
+"text": "No, no puede ser por eso, claro que no. Porque eso no diferencia entre día y noche. Eso no es como que algo práctico para ti."
+},
+{
+"startMs": 846432,
+"endMs": 847092,
+"text": "Sí, no, pues sí."
+},
+{
+"startMs": 848312,
+"endMs": 858972,
+"text": "El chiste es que ahorita diferenciar cuándo ya hay suficiente luz. ¿Cuándo hay suficiente luz? No me digas que va a haber luz según como a ti se te hace fácil es-- saber la hora, ¿me explico?"
+},
+{
+"startMs": 859092,
+"endMs": 868112,
+"text": "O sea, si no habría el celular, ¿me explico? No, pero, pero eso, podrían, podrían decirte entre negro y blanco, porque es lo, lo más fácil que tienes a la mano."
+},
+{
+"startMs": 869572,
+"endMs": 882812,
+"text": "No, eso no hace vehemet, reconocer si hay luz o no hay luz. Tehelet, tehelet es más que eso. Yo no creo, yo no creo que tenían un, una paleta de colores y dijeron: \"Yo creo que aquí este es el azul y el blanco, esto es lo mejor para diferenciar\", ¿no?"
+},
+{
+"startMs": 883872,
+"endMs": 890652,
+"text": "O sea, no, no es que había vehetem en el, en el azul y el blanco. No, claro que sí. No, claro que sí. No, ¿cómo cree? Sí, claro que sí."
+},
+{
+"startMs": 891472,
+"endMs": 898712,
+"text": "Sí, es, es, es dos cosas. Uno, como dijimos, el tzitzit. Dos, como dijo Rafa, el cielo. Sí, que vehetem día,"
+},
+{
+"startMs": 900292,
+"endMs": 908132,
+"text": "o sea, el día no es nada más luz. Fíjense, es algo muy profundo. El día no es la luz, el día es el cielo."
+},
+{
+"startMs": 908932,
+"endMs": 911332,
+"text": "Que se hizo de día es el cielo, no es la luz."
+},
+{
+"startMs": 912912,
+"endMs": 917552,
+"text": "Si te vas a la luna, al lado no oscuro de la luna, no sientes que es de día."
+},
+{
+"startMs": 919472,
+"endMs": 929112,
+"text": "Azul y blanco. ¿Están de acuerdo? Si tú te vas a la luna, entonces el, el piso está, está, es-- tiene luz, ¿me explico?"
+},
+{
+"startMs": 929312,
+"endMs": 941472,
+"text": "Pero es de noche. ¿Por qué es de noche? Porque no tiene cielo. Entonces, quiere decir que acá, vehetem, lo que hace realmente la luz no es tanto la luz en sí, sino el hecho que hay cielo."
+},
+{
+"startMs": 943112,
+"endMs": 951692,
+"text": "Entonces, entonces, tehelet significa que ya es reconocible el color del cielo. Entonces, yo creo que acá la machloket es esa."
+},
+{
+"startMs": 951932,
+"endMs": 965052,
+"text": "Según la primera she-- yita es reconocer, bicar el aván. Bicar el aván significa recono-- el, cuando tú ves el aván, en la primera yita no está buscando ver el tehelet."
+},
+{
+"startMs": 965412,
+"endMs": 971892,
+"text": "La primera yita está buscando ver el aván. Ver el aván, la nafkamina es que aunque no haya cielo, pero hay luz."
+},
+{
+"startMs": 971892,
+"endMs": 973532,
+"text": "¿Sí me explico?"
+},
+{
+"startMs": 974992,
+"endMs": 983652,
+"text": "La luna es levaná. Entonces, ¿sí agarraron ese punto? De tomeret. El primero es, es de noche arriba, pero por lo menos hay luz."
+},
+{
+"startMs": 984272,
+"endMs": 991312,
+"text": "Entonces, ¿cómo yo me doy cuenta que hay luz aun siendo que sigue siendo de noche? Descartando. Que, que por lo menos veo el aván."
+},
+{
+"startMs": 991612,
+"endMs": 999892,
+"text": "Ah, no veo el tehelet, significa no veo el cielo, pero veo que, ah, que, que la luz ya llegó. Y la segunda yita te dice: \"No, es tehelet\"."
+},
+{
+"startMs": 1000332,
+"endMs": 1007752,
+"text": "Significa que, que necesitas ya que la luz tuvo efecto sobre el cielo a que ya se ve un poco más del cielo."
+},
+{
+"startMs": 1007792,
+"endMs": 1014612,
+"text": "Rabiel y Ezer te dice: \"Tó, no\". En la, en la noche, si respetaba la noche, era en contra de aquí o a lo mejor que hoy. Ajá."
+},
+{
+"startMs": 1014652,
+"endMs": 1015392,
+"text": "Suena lo mismo, ¿no?"
+},
+{
+"startMs": 1017812,
+"endMs": 1024811,
+"text": "Eh, Rabiel y Ezer te dice: \"Tehelet le karti\". Que él dice que no quiere decir nada. Que, que necesita día, día mamás."
+},
+{
+"startMs": 1025531,
+"endMs": 1033771,
+"text": "Rabiel y Ezer necesita día mamás. ¿Y hay que opinar? En general, que el que decía que sea noche, noche y luego día a día, ¿no? Pero ese era Rabiel, nada que"
+},
+{
+"startMs": 1035092,
+"endMs": 1042672,
+"text": "ver. Pero también tenía que ver Rabiel es en la Mishna. Puede ser, puede ser que más amoksi, hay que ver la gemara. Entonces, dice Rashi: \"Tehelet, ya veo que lo veo\"."
+},
+{
+"startMs": 1043332,
+"endMs": 1057212,
+"text": "Entonces, la machloket. No, porque aquí no es día a día, no más. Ahí no sale ni de día. Es que- Pero ya hay una cara completa del cielo. Ya hay una cara del cielo, que hasta me-- eche- Pero si claro no es día, él cuando es, cuando es día para él, cuando ya salió el sol que es día, ya no puede decirlo."
+},
+{
+"startMs": 1057992,
+"endMs": 1071132,
+"text": "No, eso es netajamá, es más que eso. No es que es día, netajamá es que ya se asomó el sol. En fi-- que el cielo se pintó de azul, ya se pintó, porque se asomó el sol, ya es netajamá, que ya tiene un mashmú de que ya empezó el día."
+},
+{
+"startMs": 1071272,
+"endMs": 1076072,
+"text": "Por eso, y ahí ya no puede decirlo. O sea, está cuando, o sea, netajamá es cuando,"
+},
+{
+"startMs": 1077292,
+"endMs": 1085932,
+"text": "eh... Empieza el día. En una empresa- Es cuando empieza el día. Sí, antes de que lleguen todos, como que está cuando se prenden las luces, va el poli y prenden las luces."
+},
+{
+"startMs": 1085952,
+"endMs": 1093652,
+"text": "A la misma idea de la noche al revés. Y luego-- sí, lo hablamos. Y, eh, eh, está cuando el poli empieza a prender la, la, las luces."
+},
+{
+"startMs": 1094352,
+"endMs": 1101772,
+"text": "Y después, cuando llega la gente, ya es el netajamá. Netajamá ya tienes que estar trabajando, tipo ya tienes que-- tipo ya es la hora laboral, ¿me explico?"
+},
+{
+"startMs": 1101792,
+"endMs": 1109852,
+"text": "De nueve y diez. Eso es netajamá. ¿Qué te referiste? No, si tiene media hora en prender poli y luego llegan, es, es la diferencia."
+},
+{
+"startMs": 1110352,
+"endMs": 1112772,
+"text": "Sí, no me refería a tanta diferencia."
+},
+{
+"startMs": 1114292,
+"endMs": 1114812,
+"text": "Pero sí."
+},
+{
+"startMs": 1117112,
+"endMs": 1122432,
+"text": "Pero sí, sí, sí. Dice: \"Maiven tehelet de la aván."
+},
+{
+"startMs": 1125312,
+"endMs": 1133892,
+"text": "Ilema ven que vava de amra, givra, le gababa de amra teheltá\". Y la diferencia es entre"
+},
+{
+"startMs": 1135112,
+"endMs": 1145215,
+"text": "lana, ¿sí? Lana blanca y lana pintada. Color azul. Abel Arimat temer, ¿me equivoco?"
+},
+{
+"startMs": 1145275,
+"endMs": 1154235,
+"text": "Sí. Arimat temer, la bala,"
+},
+{
+"startMs": 1171295,
+"endMs": 1179415,
+"text": "Arimat temer es el tejeli A ver la hilaya mame ida ya. Termina la noche. ¿Por? Ya, porque se pone los dos, sí, se ve que hay una diferencia entre los dos."
+},
+{
+"startMs": 1179435,
+"endMs": 1183215,
+"text": "O sea, a fin de lo más oscuro. Sí. Respuesta:"
+},
+{
+"startMs": 1184735,
+"endMs": 1194635,
+"text": "ben télet shebá lelaván shebá. ¿Qué es eso? Que es bé. Gizeh temer shetsibá télet. Viesh ba mekomot shelo halá sham etzeva yafe."
+},
+{
+"startMs": 1195075,
+"endMs": 1206215,
+"text": "Ah, es en un, no entre dos telas, tienen la misma tela que es un teva etjelet, y hay lugares que está más despintado."
+},
+{
+"startMs": 1207895,
+"endMs": 1215255,
+"text": "Entre dos telas es muy, es demasiado, eh, fácil, porque todo el tema es, es, es..."
+},
+{
+"startMs": 1215275,
+"endMs": 1228815,
+"text": "los otros, la hermana nos está abriendo acá el punto de que- No es descartar. O sea, sí es descartar en cierto aspecto, pero la, lo que descartas en, en la noche n-no necesariamente es porque estás viendo, no necesariamente porque estás viendo el blanco."
+},
+{
+"startMs": 1229315,
+"endMs": 1237415,
+"text": "Es, ves, ves diferente, exactamente. Es como que ves- No sé decir qué, pero hay diferencia. Exactamente. Ve-veo diferencia, pero no sé, no sé cuál es la diferencia, pero alguna diferencia veo."
+},
+{
+"startMs": 1238115,
+"endMs": 1244095,
+"text": "Y acá te dice: «No, necesitas ver, no necesito que veas el tejélet, es la primera shita, pero necesito que veas el blanco»."
+},
+{
+"startMs": 1245855,
+"endMs": 1254475,
+"text": "Entonces, por eso necesito que sea un bélet tejélet, que tiene parte blanco, parte tejélet, y ahí es cuando ya se llama que está reconociendo."
+},
+{
+"startMs": 1254495,
+"endMs": 1261755,
+"text": "Pero, o sea, tipo, ¿quién va a tener una ropa que no se pintó bien de tejélet? O sea, digo. No, no importa. O sea, es el shul. Nada más que, entonces, pa qué lo..."
+},
+{
+"startMs": 1262195,
+"endMs": 1310775,
+"text": "o sea, tipo, ya que digan: «En este horario, la segunda ya se la pintó». No, lo que estamos diciendo, que, que es el, el shul, el D'stania."
+},
+{
+"startMs": 1311295,
+"endMs": 1311995,
+"text": "Rabimeiromé,"
+},
+{
+"startMs": 1314755,
+"endMs": 1316315,
+"text": "mishekir ben zev lekelev."
+},
+{
+"startMs": 1318275,
+"endMs": 1326815,
+"text": "Rabequivomer ben jamor Learod. Según rabimeir entre un perro y un zev, un lobo."
+},
+{
+"startMs": 1327435,
+"endMs": 1334315,
+"text": "Rabequivomer ben jamor Learod. Entre un burro y un-- hay burro de casa"
+},
+{
+"startMs": 1335655,
+"endMs": 1344255,
+"text": "y hay- Silvestre. Sí, exactamente. Un, un burro de, de, de... También que hay dos shitot en la Mishná y luego hay dos nuevas en Gemara."
+},
+{
+"startMs": 1344335,
+"endMs": 1351515,
+"text": "Eso. Sí. Son estas dos shitot. Y acá ya no es tanto colores, ya es animales. ¿Por qué es? ¿Por qué aquí es reconocer animales, mapitón?"
+},
+{
+"startMs": 1351995,
+"endMs": 1359135,
+"text": "A Jerim Ombrím. ¿A Jerim quién es? Me parece que sea mucho más fácil de reconocer si es de- ¿Un animal o si es un color?"
+},
+{
+"startMs": 1359155,
+"endMs": 1368455,
+"text": "¿Eh? Nada que ver reconocer un animal con un color. Sí, es... ma-- ¿qué pasó? No, porque son dos asnos iguales, nada más. Uno es del campo y otro es de la granja, o algo así."
+},
+{
+"startMs": 1369655,
+"endMs": 1370595,
+"text": "Es lo que trae aquí, ¿no?"
+},
+{
+"startMs": 1372255,
+"endMs": 1378775,
+"text": "Entre un asno- No, son, son diferentes. Y un asno silvestre. Sí, silvestre es tipo, otro tipo de burro. Hay burros caseros y hay burros de afuera."
+},
+{
+"startMs": 1379375,
+"endMs": 1386915,
+"text": "Es, es, vemete, esa es la diferencia entre un zev y un kelev. ¿Sí? Es, es la diferencia entre un zev y un kelev. O sea, el, el zev también es un tipo de kelev."
+},
+{
+"startMs": 1386955,
+"endMs": 1394835,
+"text": "Si tú ves al, al, al lobo, si tú ves al lobo, es, es un tipo de kelev, ¿no? Es que la diferencia es que el, es, el, el zev es un perro silvestre."
+},
+{
+"startMs": 1394875,
+"endMs": 1405515,
+"text": "¿Me explico? Es un perro no casero. Y el perro es casero. Y el jamor y el arod es que el jamor es casero y el arod es el mi-- es la misma especie en no casero."
+},
+{
+"startMs": 1406335,
+"endMs": 1414275,
+"text": "Entonces, acá lo que la Mishná está bu-- lo que estaban buscando estos tanáim es ya no es reconocer entre colores, sino reconocer entre cosas."
+},
+{
+"startMs": 1414575,
+"endMs": 1424335,
+"text": "Y para reconocer entre cosas, para que se llame que estás reconociendo, tiene que ser que sean dos cosas de la misma categoría, pero dos"
+},
+{
+"startMs": 1426035,
+"endMs": 1432335,
+"text": "en- Ya están como rabi Yesh, ya no les alcanza la primera yishita de Tane- Ya empieza por la sombra. Ahí viene, ahí viene. La Janá bien, ya no queda nada más."
+},
+{
+"startMs": 1432335,
+"endMs": 1443055,
+"text": "Eso, eso, que no sea nada más que hay luz. Necesitas acá no recono-- se ve que es más, más la jumra, ¿me explico? Claro. Que acá reconocer un color al final no se llama reconocer."
+},
+{
+"startMs": 1443435,
+"endMs": 1455315,
+"text": "Reconocer es que por medio del color, siempre que tú estás viendo un color, otra vez, antes dijimos que cuando la luz que te deja ver colores y tú vemete estás viendo colores, pero no hay colores que son nada más colores."
+},
+{
+"startMs": 1455755,
+"endMs": 1462795,
+"text": "No existe un color abstracto. ¿Sí? Existen colores que son colores de cosas. ¿Me explico?"
+},
+{
+"startMs": 1463055,
+"endMs": 1471155,
+"text": "No hay color, no hay un, no hay color. Tú no puedes ver color, aunque lo único que ves es color, pero no existe vemé ver el concepto color."
+},
+{
+"startMs": 1471595,
+"endMs": 1483015,
+"text": "Y entonces, ya que el color siempre es el color de una cosa, entonces dice, dice, dice rabequivrameir: si el color no te deja ver la cosa, entonces tampoco, no se llama que estás viendo el color."
+},
+{
+"startMs": 1484335,
+"endMs": 1494615,
+"text": "Si el color no te deja ver qué es, qué es lo que estás viendo, entonces eso no se llama que es color. Y entonces, para reconocer cómo yo reconozco que estoy reconociendo una cosa, cuando sabes diferenciar."
+},
+{
+"startMs": 1494895,
+"endMs": 1506847,
+"text": "Entonces me dices: cuando sepas diferenciar entre un elefante y una al-- hormiga. Entonces, yo, eso no significa que el color ya me está mostrando la cosa Sino que yo veo un color grande contra un color chico."
+},
+{
+"startMs": 1506907,
+"endMs": 1515007,
+"text": "¿Sí me explico? Entonces, a ver, si es entre un elefante y una hormi-- una hormiga, entonces la verdad es que viste un elefante contra una hormiga."
+},
+{
+"startMs": 1515307,
+"endMs": 1526187,
+"text": "Viste un color de tamaño grande y un color de tamaño chico. Y ellos dicen: \"No, no me sirve, no me sirve, Benmet, la diferencia entre colores."
+},
+{
+"startMs": 1526767,
+"endMs": 1537887,
+"text": "Diferencia entre colores no es diferente. Yo necesito que el color esté mostrando una cosa. Porque al final- Lo que hizo la Marah, la Marah lo que hizo es bajar los colores al mechón y que sea el mismo mechón y que..."
+},
+{
+"startMs": 1537887,
+"endMs": 1544827,
+"text": "¿Y qué? No, pero ahí no es tanto eso. Ahí, ahí al final queremos el color, reconocer el color."
+},
+{
+"startMs": 1545307,
+"endMs": 1557187,
+"text": "Acá yo quiero que el color, no quedarme en el color, mirin el color, sino que el color me lleve a reconocer la cosa que el color está coloreando."
+},
+{
+"startMs": 1557847,
+"endMs": 1564307,
+"text": "¿Me explico? Entonces, reconocer un color, la dafke, que es reconocer lo que la luz te está mostrando. ¿Me explico?"
+},
+{
+"startMs": 1564927,
+"endMs": 1573527,
+"text": "Porque la luz te está mostrando no un color, porque el color no existe. Entonces, ellos dicen: \"No te puedes quedar en el mundo de que reconoces colores, porque los colores no existen."
+},
+{
+"startMs": 1574287,
+"endMs": 1575327,
+"text": "Los colores son..."
+},
+{
+"startMs": 1576707,
+"endMs": 1585007,
+"text": "la, los colores de las cosas. Entonces, cuando viste un color, no viste nada. Entonces, necesita ser que viste una cosa. ¿Y cuándo yo sé que vi una cosa y no un color?"
+},
+{
+"startMs": 1585027,
+"endMs": 1594147,
+"text": "¿Cómo sabes? Por ejemplo, si yo agarro, ¿sí? Un, un perro blanco y un gato negro."
+},
+{
+"startMs": 1595007,
+"endMs": 1597467,
+"text": "Entonces, ahí, aunque esté muy oscuro,"
+},
+{
+"startMs": 1598787,
+"endMs": 1607587,
+"text": "imagínate, vamos a poner el ejemplo. Tipo, tú ves un perro blanco, un gato oscuro. Y tú me preguntas: ¿cuál es el perro y cuál es el gato?"
+},
+{
+"startMs": 1607807,
+"endMs": 1614887,
+"text": "No sé, pero sí sabes reconocer que uno es blanco y otro es oscuro, eso sí lo sabes ver."
+},
+{
+"startMs": 1615147,
+"endMs": 1622127,
+"text": "Pero me dices: ¿cuál es el perro y cuál es el gato? No tengo idea. Entonces, se llama aquí que ya se, ya se llama que tienes- O sea, es más fácil. Que ya sabes reconocer."
+},
+{
+"startMs": 1622507,
+"endMs": 1634667,
+"text": "No, pero reconozco colores, sí. Reconocer los colores. ¿Me explico? Ya reconozco colores, pero los colores, hasta que no reconozcas formas por medio de los colores, no se llama que estás reconociendo la luz."
+},
+{
+"startMs": 1634906,
+"endMs": 1642627,
+"text": "Entonces, vienen acá y te dicen: \"No, necesito reconocer formas\". ¿Y cuál es la forma que necesitas reconocer? Tienes que agarrar, hay que entender por qué."
+},
+{
+"startMs": 1643127,
+"endMs": 1653267,
+"text": "Ahorita, ahí lo vemos, pero son dos animales iguales, dos animales iguales, que son, lo que los diferencia es que cambió su especie por el lugar donde vive."
+},
+{
+"startMs": 1653627,
+"endMs": 1660747,
+"text": "Perro vive con las personas y el, el lobo es un tipo de perro, pero que vive en las, en los bosques."
+},
+{
+"startMs": 1661307,
+"endMs": 1669907,
+"text": "Entonces, entonces para el final es un tipo de perro. Entonces, acá es donde está la nafcamina, que lo que estás viendo no es el color, sino lo que estás viendo es el perro."
+},
+{
+"startMs": 1670167,
+"endMs": 1677047,
+"text": "Y ahí lo que estás viendo es el lobo. ¿Sí me explico? Ese es, es, es, es, ese es el, el nidón acá."
+},
+{
+"startMs": 1677047,
+"endMs": 1688527,
+"text": "¿Y con Tejel y Tikar es lo mismo? No, Tejel y Tikar es, es colores. Acá yo necesito no que reconozcas entre colores, sino que al final el color tiene que ser el color de algo."
+},
+{
+"startMs": 1689347,
+"endMs": 1691687,
+"text": "Es como digo el ejemplo. Después la mejor que te..."
+},
+{
+"startMs": 1695007,
+"endMs": 1703587,
+"text": "No, ahí es más, como dijimos, ahí es mirin los colores, porque véteme el, el, el, el, la luz, lo que te muestra principalmente es colores."
+},
+{
+"startMs": 1704147,
+"endMs": 1706587,
+"text": "Pero vienen Rabekiu y Rabmeir y te dicen: \"No,"
+},
+{
+"startMs": 1708107,
+"endMs": 1715347,
+"text": "si tú ves un color, entonces no se llama que estás viendo algo\". ¿Quién es más? A lo mejor es diferente de horario, igual como en la primera."
+},
+{
+"startMs": 1715527,
+"endMs": 1722047,
+"text": "¿Es más hombra Rabekiu o...? Tenías que conocer bien a los animales. Por eso, no sé. Porque, jolet."
+},
+{
+"startMs": 1722127,
+"endMs": 1729367,
+"text": "O que le mejora Rabekiu, ¿no? Usó el seblekelin. Porque Rabekiu es más, no, porque es el mismo animal."
+},
+{
+"startMs": 1729427,
+"endMs": 1736707,
+"text": "No podemos decir que es diferencia de horarios, tipo es un poquito más tarde, porque tipo de colores puedes... Sí, claro, la diferencia de batalla es de horarios."
+},
+{
+"startMs": 1737187,
+"endMs": 1758827,
+"text": "Pero la xela es, según ellos, es más tarde. Según Rabimei, Rabekiu es más tarde. Estamos explicando, creo, así entiendo yo, por qué es más, por qué ellos dicen, exigen más, que ellos no, no les alcanza con reconocer colores, sino ellos necesitan que por medio reco-- de los colores reconozcas también las cosas que los colores te están mostrando."
+},
+{
+"startMs": 1758947,
+"endMs": 1760207,
+"text": "Hay una cosa que yo no estoy entendiendo de lo mejor."
+},
+{
+"startMs": 1761427,
+"endMs": 1768827,
+"text": "Seguro que no estén discutiendo, porque ¿por qué no le preguntaron a la gente? No, no, o sea, es, es, es cuando la gente se para."
+},
+{
+"startMs": 1769167,
+"endMs": 1777467,
+"text": "¿A qué voy? No puede ser que estén discutiendo si la gente se para siete veintitrés o siete veintisiete, porque al final no hay, no hay manera de saber ni siquiera."
+},
+{
+"startMs": 1777687,
+"endMs": 1785167,
+"text": "Sí. Si es cuando la gente se para, ¿por qué están discutiendo sobre dos minutos? No, aquí es una nafcamina tsumá, que es la luz."
+},
+{
+"startMs": 1785967,
+"endMs": 1794127,
+"text": "Que es la luz. Es al-- es, es todo, todo lo que estamos tratando de explicar. Primero, ¿qué es la luz? Uno te dice: \"No, que se reconoce la luz en la Tierra\"."
+},
+{
+"startMs": 1794307,
+"endMs": 1805467,
+"text": "Otro te dice: \"No, que se reconoce el cielo\". El otro te dice: \"No\", dice: \"Cuando el cielo ya está suficientemente iluminado, que puedas reconocer las cosas que hay en la Tierra\"."
+},
+{
+"startMs": 1805947,
+"endMs": 1816367,
+"text": "Y entonces, reconocer las cosas de la Tierra, la dafke que tienes allá, porque luces ya reconocí. Entonces, desde, desde Tjeletle, Ben Labán, Tjelet, yo ya reconocí luces."
+},
+{
+"startMs": 1816747,
+"endMs": 1826087,
+"text": "Pero yo necesito que la luz sea suficiente como para ver las cosas que hay en la Tierra. Y para ver las cosas que hay en la Tierra necesitas saber diferenciar entre dos tipos de cosas que hay en la Tierra."
+},
+{
+"startMs": 1826487,
+"endMs": 1833727,
+"text": "Eso se llama que ya hay luz. Antes se llama que la luz está, es que te diste, es como que es una hojaja que hay luz."
+},
+{
+"startMs": 1834447,
+"endMs": 1842347,
+"text": "Eh, pero, pero, pero ¿luz? Me explico, ahí, Bet Tjelet de Labán, dice Rabme, Rabique, dice: \"No, tienes una hojaja que hay luz\"."
+},
+{
+"startMs": 1842887,
+"endMs": 1849747,
+"text": "Eso no es luz, me explico, esa no es la luz. Luz es cuando ya ves diferente el mechível. Luz, exactamente, es cuando ya te deja ver el mundo."
+},
+{
+"startMs": 1850187,
+"endMs": 1861587,
+"text": "Entonces, que te deje ver el mundo, otra vez, colores veías antes. Entonces, tú puedes reconocer entre el perro y el lobo, pero si son de diferente color, pero no porque ves, veo un perro y veo un lobo."
+},
+{
+"startMs": 1862027,
+"endMs": 1872847,
+"text": "Tipo, sale que, que todavía no tienes mucho lo que hablar ¿Me explico? Cada uno es-- la Shela es cuántas palabras ya tienes en el diccionario."
+},
+{
+"startMs": 1873967,
+"endMs": 1878447,
+"text": "En-- el primero te dice: \"Alcanza con que tenga la palabra blanco\", ¿sí?"
+},
+{
+"startMs": 1879687,
+"endMs": 1889067,
+"text": "Jeles no la tienes, porque preguntas: \"Oye, ¿qué color es esto?\" No, puedes decir verde, negro, decir, oh, azul, café."
+},
+{
+"startMs": 1889327,
+"endMs": 1895547,
+"text": "Ya hay dos colores. Entonces, sí, es, es blanco, yo sé que hay blanco y uno diferente, ¿sí?"
+},
+{
+"startMs": 1895747,
+"endMs": 1904127,
+"text": "El otro digo: \"No, yo ya veo colores\". Pero aunque veas colores, pero no ves cosas. Porque co-color es lo primero que la mu-- la luz te está enseñando."
+},
+{
+"startMs": 1904987,
+"endMs": 1911987,
+"text": "Pero después necesitas tener suficientemente luz como para que no na' más tu diccionario sea un diccionario de colores."
+},
+{
+"startMs": 1912587,
+"endMs": 1914967,
+"text": "Imagínate, aquilo, en, en la hora de Jeles de Carti,"
+},
+{
+"startMs": 1916487,
+"endMs": 1930547,
+"text": "en verdad sí, sí vas a reconocer que vas a decir: \"Esto es un elefante y esto es una hormiga\". Pero no porque estás viendo un elefante y estás viendo una hormiga, sino porque estás viendo un color gris muy, muy grande y un color gris muy, muy chico."
+},
+{
+"startMs": 1930747,
+"endMs": 1948047,
+"text": "Entonces, mi mente deduce que este es elefante y este es hormiga, pero estás viendo un color gris. Entonces, para ver que estás, que, que, que ya te está dando más palabras reales, entonces necesitas diferenciar entre dos cosas que aparentan ser muy, muy igual, pero tienen dos nombres completamente diferentes."
+},
+{
+"startMs": 1948667,
+"endMs": 1956747,
+"text": "Entonces, ahí no es el color el que te va a diferenciar. El color no puede cambiar nada ahí, no te puede- No es tanto el color, sino es, es más la tsura de la cosa."
+},
+{
+"startMs": 1957227,
+"endMs": 1965587,
+"text": "La luz es la que da tsura. Y entonces, la primera cosa que ves en la tsura es el color. La segunda cosa que ves en la tsura es mamash que está mabjin la tsura de la cosa."
+},
+{
+"startMs": 1965587,
+"endMs": 1966927,
+"text": "¿Sí estamos?"
+},
+{
+"startMs": 1968207,
+"endMs": 1973867,
+"text": "Dice: \"Mishaquir ben Zev lekele, Rebequív Omer, Ben Jamor le Harod\"."
+},
+{
+"startMs": 1976007,
+"endMs": 1985867,
+"text": "Ahorita, ahorita explicamos cuál, por qué, por qué agarraron estos machlok. \"Pajarín Omrín, Mishir Et Javerón, Rajok, dale Damot, ve Kirem\"."
+},
+{
+"startMs": 1987367,
+"endMs": 1997486,
+"text": "Dice- Encontrada todavía más abajo. Que, que tú veas a una persona, ¿sí?, distante a ti cuatro amot y lo reconoces."
+},
+{
+"startMs": 1998127,
+"endMs": 2004647,
+"text": "Pues nada, machlok es en cuarenta y ocho centímetros, según acá, Rajaim Lahe, o cincuenta y siete punto seis el jadonej."
+},
+{
+"startMs": 2005567,
+"endMs": 2011707,
+"text": "O sea, tipo, aquí, a Rodrigo, creo. Dos metros. Es lo más cal de todos. No, no. Es el más..."
+},
+{
+"startMs": 2012627,
+"endMs": 2018807,
+"text": "No. Agregó... No, acá, acá es algo más, muy, muy, muy, muy nifla, muy emup. Piensen, es algo tzu."
+},
+{
+"startMs": 2020007,
+"endMs": 2026047,
+"text": "Ahorita vemos por qué Kele, por qué Jamor y por qué, por qué Adam, ¿sí? Qué tiene cada uno especial. ¿Por qué en Kele"
+},
+{
+"startMs": 2027307,
+"endMs": 2031607,
+"text": "y Jamor y todas las demás que teníamos hasta ahorita se necesitan beemet"
+},
+{
+"startMs": 2033307,
+"endMs": 2041227,
+"text": "dos? Que hagas diferencia entre esto y esto. Y viene aquí esta shitá, Ben Jamor, claro, Ben Kelev, les de."
+},
+{
+"startMs": 2041807,
+"endMs": 2048647,
+"text": "Y ahorita es na' más una cosa. Porque acá tienes que diferenciar mismo el lechen de ese. Lo comparas con otro ser humano."
+},
+{
+"startMs": 2049527,
+"endMs": 2058947,
+"text": "Yo sé que tú eres, o sea, cuando estás viendo a uno, lo estás comparando con, con todos los demás, y entonces es que es él. No, porque en todos hasta cierto punto era descartar."
+},
+{
+"startMs": 2059607,
+"endMs": 2068507,
+"text": "No, porque... Con la persona es... Muy bien, muy bien, muy bien, muy bien. En la persona hay algo más que descartar. Sí, en la persona hay algo más que descartar."
+},
+{
+"startMs": 2068527,
+"endMs": 2072047,
+"text": "Entonces, piensen algo, algo nifla, muy, muy emup, ¿sí?"
+},
+{
+"startMs": 2075766,
+"endMs": 2082427,
+"text": "El-- la cara de una persona es, es, es el nes más grande que hay en el mundo. No hay algo igual."
+},
+{
+"startMs": 2083427,
+"endMs": 2092507,
+"text": "No existe, no existe en el, en el mundo, no existen caras. No hay, ni un perro tiene cara, nada tiene cara, nada es una persona, tiene cara."
+},
+{
+"startMs": 2092507,
+"endMs": 2106887,
+"text": "¿Sí? Piénsenlo, ¿qué es una cara? Una cara de una persona, eh, yo una vez estaba en Chuva, hace como año y medio, de repente así de lejos, de lejos, de lejos, veo a una persona así como que asomándose y no sé qué."
+},
+{
+"startMs": 2107787,
+"endMs": 2111627,
+"text": "Digo: \"Este tipo yo lo conozco\". Voy, me le acerco, digo: \"Hola\"."
+},
+{
+"startMs": 2113047,
+"endMs": 2123387,
+"text": "Me dice: \"Hola\". Le dije: \"¿Que no me conoces?\" Me dice: \"No\". Le digo: \"Tú eres, eh, Abdo, Abdo Rofe se llama\"."
+},
+{
+"startMs": 2124186,
+"endMs": 2130887,
+"text": "Me dice: \"Eres Abdo Rofe\". Dice: \"¿Cómo sabes?\" Me dice: \"No me digas que tú eres Sofi\". Dije: \"Sí\"."
+},
+{
+"startMs": 2131787,
+"endMs": 2136907,
+"text": "Y que yo llevaba veinte años sin verlo, veinte años sin verlo. Una persona,"
+},
+{
+"startMs": 2138687,
+"endMs": 2150567,
+"text": "la cara, que tu cara es algo único, que es único, único, único. No hay-- es algo-- tú no puedes ver una mano de una persona y, y dices que estás viendo a la persona."
+},
+{
+"startMs": 2151367,
+"endMs": 2158167,
+"text": "Tú, cuando ves su mano, deduces que es él, ¿sí? Si ves su chamarra... Ve allá, por las, las huellas."
+},
+{
+"startMs": 2158227,
+"endMs": 2170067,
+"text": "Sí, pero no, estoy hablando tu cu-- tu persona, que exactamente, hay algo que tú lo conoces por deducción y hay algo que tú lo conoces, lo conozco a él."
+},
+{
+"startMs": 2170587,
+"endMs": 2179287,
+"text": "Y solo hay en la, en la... Si tú diferencias entre dos perros de la misma raza, tienes que encontrar algún, algún cimán."
+},
+{
+"startMs": 2179927,
+"endMs": 2186867,
+"text": "Y entonces, entonces quiere decir, entonces quiere decir que el perro nunca estás viendo a este perro, ¿me explico?"
+},
+{
+"startMs": 2187767,
+"endMs": 2194607,
+"text": "Tú no estás viendo al perro. Sí, eso. Estás, estás, estás sabiendo... Sí, tipo la cadena o..."
+},
+{
+"startMs": 2195147,
+"endMs": 2203527,
+"text": "Tú deduces, sí, exactamente. Tú deduces que este es el perro, pero no lo estás, no lo estás viendo a él. Y en la persona es algo que directo, ¡pum!"
+},
+{
+"startMs": 2203647,
+"endMs": 2204807,
+"text": "¿Ves la imagen?"
+},
+{
+"startMs": 2206127,
+"endMs": 2209087,
+"text": "Sí, a Filo que fuiste de viaje y viste a alguien,"
+},
+{
+"startMs": 2210827,
+"endMs": 2218727,
+"text": "es algo pele, pero la, la imagen de una persona se te puede quedar grabada, ¿sí? Desde, a Filo desde..."
+},
+{
+"startMs": 2219747,
+"endMs": 2232827,
+"text": "Yo me acuerdo de alguien que lo vi cuando, aquí en México, cuando tenía como catorce años, y la vez pasada que lo había visto era en la sillita de bebés a los tres años en Israel."
+},
+{
+"startMs": 2233567,
+"endMs": 2245807,
+"text": "Me habían invitado sus papás y me acuerdo que lo columpié. Y vi al niño y dije: \"Es el niño, es pele, un niño de tres años, o sea, lo, lo, a los catorce, es, es, es este niño, lo conozco\", ¿sí?"
+},
+{
+"startMs": 2247027,
+"endMs": 2253846,
+"text": "Entonces, entonces algo que, que, que reconoces, beemet, lo reconoces, beeten. ¿Sí me estoy explicando?"
+},
+{
+"startMs": 2254567,
+"endMs": 2262547,
+"text": "Entonces, acá, el único que es opción a que no sea reconocible entre dos cosas es la cara de una persona."
+},
+{
+"startMs": 2263007,
+"endMs": 2267207,
+"text": "Porque la cara de una persona es lo único que realmente que tiene, eh,"
+},
+{
+"startMs": 2268507,
+"endMs": 2275027,
+"text": "tsura, su, su propia tsura única, su tsura específica, única. Tselem Elokim."
+},
+{
+"startMs": 2275387,
+"endMs": 2284085,
+"text": "Sí, es el Tselem Elokim, es la meshama, ¿sí? Por eso me mete En todo el gashmiut, todo el jomer, todo el gashmiut,"
+},
+{
+"startMs": 2285425,
+"endMs": 2286565,
+"text": "no hay algo que es único."
+},
+{
+"startMs": 2288145,
+"endMs": 2296104,
+"text": "En todo el jomer, todo el gashmiut, no hay algo único, no hay una madera única, ¿me explico? La madera es algo que se repite, ¿sí? Pero la neshamot, cada neshamá es única."
+},
+{
+"startMs": 2296625,
+"endMs": 2303045,
+"text": "Entre más Rujani, es más único. Porque no hay límite. ¿Eh? No tiene, sí, porque no tiene límite, ¿no? No tiene soft."
+},
+{
+"startMs": 2303285,
+"endMs": 2310065,
+"text": "Pues puede ser, puede ser que tenga que ver con eso, sí. No, no había pensado desde esa perspectiva, pero sí, está profundo. Sí, sí está Rabán"
+},
+{
+"startMs": 2371185,
+"endMs": 2377385,
+"text": "Jumán dijo: \"Ya llega la maraca, filo de espaldas\", ya los reconoces. Ahí dijo algo así. Si dijo algo así."
+},
+{
+"startMs": 2377385,
+"endMs": 2390745,
+"text": "No va a ser los panines, rafilu. No, no, no está diciendo eso, está, está diciendo algo muy amo. O sea, si dijo eso, no sé dónde lo dice, pero-- entonces, o sea, la necruda es que sabe reconocer el, los panim de HaJalajoraim."
+},
+{
+"startMs": 2391385,
+"endMs": 2404505,
+"text": "Es, es, es un jidush, ¿me explico? El-- reconoce los panim de los, de HaJalajoraim. Siempre HaJoraim, pishus del davar, es cuando logras a una sagá por medio de una deducción, ¿sí?"
+},
+{
+"startMs": 2405805,
+"endMs": 2410105,
+"text": "Es una sagá por medio de un, un, una deducción, pero no es una sagá directa."
+},
+{
+"startMs": 2411465,
+"endMs": 2413025,
+"text": "Ah, los de aquí, ¿no? ¿Sí me explico?"
+},
+{
+"startMs": 2414845,
+"endMs": 2421745,
+"text": "Entonces, cuando sobre Hashem decimos lo, lo tujal y lotet panai, ¿sí? Es, es kibejol."
+},
+{
+"startMs": 2423465,
+"endMs": 2433905,
+"text": "El que más tiene panim tiene que ser Hashem. Si una persona tiene panim por su primium, entonces- Si ves el panim de Hashem kibejol, entiendes, o sea- Lo Irani Adam Bajai."
+},
+{
+"startMs": 2434425,
+"endMs": 2444065,
+"text": "Entonces, ya lo, lo, lo reconoces. Lo reco-- sí, lo reconoces a él directamente. Nosotros reconocemos a Hashem por medio de cosas que pasan, ¿me explico?"
+},
+{
+"startMs": 2444165,
+"endMs": 2452545,
+"text": "Por medio del mundo, por medio... Entonces, el Lo Irani Adam Bajai es que los panim, el panim de Hashem, tú-- ves, ves a Hashem."
+},
+{
+"startMs": 2453065,
+"endMs": 2466405,
+"text": "Aquí ves, ¿me explico? Ves un cipó y dices: \"Guau, vea Hashem\". Pero no estás viendo directamente. Dire-- ver directamente a Hashem, lo Irani Adam Bajai, es ver, ver mamash los, los, los, los panim."
+},
+{
+"startMs": 2466405,
+"endMs": 2469505,
+"text": "¿Tiene que ver con el letra dalet o no? Sí, sí, sí tiene que ver."
+},
+{
+"startMs": 2470985,
+"endMs": 2479645,
+"text": "Sí. Entonces, quiere decir que la persona es lo que más tiene tsura, porque tiene una tsura, no nada más que es una tsura de--"
+},
+{
+"startMs": 2481005,
+"endMs": 2490025,
+"text": "que se define por diferenciarse entre-- por medio de otra cosa, sino tiene como que una tsura en sí. Tiene algo, un, es como un sello, ¿me explico?"
+},
+{
+"startMs": 2490085,
+"endMs": 2493145,
+"text": "Tiene un, tiene su propio sello. ¿Sí me estoy explicando? ¿No?"
+},
+{
+"startMs": 2494525,
+"endMs": 2501965,
+"text": "Sí. Ahora, entonces, ese es el, el nivel más alto de a cara que puede darte la luz. Es la cara de una persona, significa que ya estás reconociendo algo betze."
+},
+{
+"startMs": 2503005,
+"endMs": 2509725,
+"text": "En la otra, estás reconociendo líneas, ¿me explico? Entonces, de un sef y un kele, no estás reconociendo"
+},
+{
+"startMs": 2511185,
+"endMs": 2517805,
+"text": "a, a la cosa, sino diferente tipo de, sino diferente tipo de forma, ¿me explico?"
+},
+{
+"startMs": 2517865,
+"endMs": 2525325,
+"text": "Pero sigue siendo un tipo de descarte, que este tiene una forma así, el otro tiene una forma así, pero no estás viendo una cosa que la estás viendo en sí."
+},
+{
+"startMs": 2525825,
+"endMs": 2533385,
+"text": "Pero Alemajal, ¿tú qué crees que reconocerías más, a mí así en la, las siete de la mañana aquí a mí o a un perro con un lobo?"
+},
+{
+"startMs": 2533845,
+"endMs": 2541765,
+"text": "Puede ser, puede ser. No importa, no importa. Puede ser que más a una persona, puede ser que más a una persona, pero eso no es nafcamin."
+},
+{
+"startMs": 2542124,
+"endMs": 2550585,
+"text": "O sea, no, no es nafcamin aquí por el tiempo, no es tanto el tiempo, sino acá es más la nafcamin del majú de la luz. Si es un, un tipo de luz, ¿sí?"
+},
+{
+"startMs": 2551205,
+"endMs": 2560665,
+"text": "Que ya te da a reconocer una persona, significa que ya tienes luz, porque significa que ya tienes tsura. Todo el inian acá es cuando empiezas a reconocer el concepto que se llama tsura."
+},
+{
+"startMs": 2561485,
+"endMs": 2571445,
+"text": "Pero cuando no reconoce el concepto que se llama tsura, eso no se llama que hay luz. Es la diferencia entre día y noche. Noche nada más reconoces jomer, ¿me explico?"
+},
+{
+"startMs": 2572065,
+"endMs": 2579605,
+"text": "Tsura no la reconoces, reconoces-- en la noche hay materia, pero forma no hay. En el día ya hay formas. Entonces, la forma más básica es el color."
+},
+{
+"startMs": 2579945,
+"endMs": 2588365,
+"text": "Luego, tenemos una forma que son las cosas. Y luego tenemos una forma que ya no son las cosas, sino es más que nada la persona, ¿sí?"
+},
+{
+"startMs": 2588425,
+"endMs": 2595545,
+"text": "Que ya es, no es, no es una forma por, por, por descartar otro tipo de forma, sino es una forma en sí."
+},
+{
+"startMs": 2595945,
+"endMs": 2603545,
+"text": "Lo que se me hace muy manien es que el primero sea color y no forma. ¿Qué? Eso me hace mu-- o sea, está muy manien que color es primero y no forma."
+},
+{
+"startMs": 2604425,
+"endMs": 2611545,
+"text": "Es-esa es la majlóket. La majlóket es el primer tipo de forma ya reconocible es un color. Y luego ya es que el color te muestra una forma."
+},
+{
+"startMs": 2611925,
+"endMs": 2616825,
+"text": "Y luego es no que el color te muestra una forma, sino reconocer una forma en sí. El etze. Sí."
+},
+{
+"startMs": 2618285,
+"endMs": 2624945,
+"text": "Y lo único, sí, lo único que se puede reconocer a etze es una persona. Sí, exactamente. Entonces, acá ya no es mishiyaki."
+},
+{
+"startMs": 2625825,
+"endMs": 2632845,
+"text": "Entonces, manien me que se llama Ajerim. Ajerim ombrim ishired jabero rojoc dale damot be ekirenu."
+},
+{
+"startMs": 2633725,
+"endMs": 2637005,
+"text": "Ajerim siempre, siempre cuando tú hablas"
+},
+{
+"startMs": 2641801,
+"endMs": 2651701,
+"text": "Es, es ajor es cuando reconoce a una persona por medio de simán. Me explico, por medio de un- Que camina, que- Sí El pelo, claro Por el color de pelo, el este, el otro."
+},
+{
+"startMs": 2651761,
+"endMs": 2668301,
+"text": "Entonces, panim es cuando reconoce a la persona. Y justamente el que dice- Ajerim o morim El que dice „Mis yakir javeró rajok dale damot, ve, eh, shiret javeró rajok dale damot ve yakirenu, pishot es davar“, que él es el que dice: «No, necesitamos panim, no ajor»."
+},
+{
+"startMs": 2669001,
+"endMs": 2680201,
+"text": "Todos los demás son reconocimientos- De ajerim Dentro de ajor. Y él, ajerim, dice: «No, necesitamos reconocimiento, que no sea de estilo ajor, cada uno le baja el nivel de ajor."
+},
+{
+"startMs": 2680541,
+"endMs": 2688001,
+"text": "Se necesita reconocimiento a nivel panim. Ahora, ¿por qué? ¿Eh? ¿Quiénes son ajerim? Ajerim es algo muy"
+},
+{
+"startMs": 2693721,
+"endMs": 2720701,
+"text": "Entonces,"
+},
+{
+"startMs": 2720701,
+"endMs": 2728021,
+"text": "Rabínata, porque Rabimeir ya dijo- Sí, ya, ya habló, pero también puede ser Rabimeir antes de ajerim y Rabimeir después de ajerim, ¿sí?"
+},
+{
+"startMs": 2728581,
+"endMs": 2737701,
+"text": "Rabimeir después de ajerim, ellos mandaban sus-- les mandaban preguntas afuera con cartas y luego les regresaban las cartas contestadas."
+},
+{
+"startMs": 2738321,
+"endMs": 2743341,
+"text": "Algo, entonces, ahí, ahí un aspecto de- Sí, ki lu que-- tienes que ir con Rabimeir sin verlo."
+},
+{
+"startMs": 2745141,
+"endMs": 2745421,
+"text": "No sé,"
+},
+{
+"startMs": 2747101,
+"endMs": 2922821,
+"text": "no sé qué. Pero, entonces, ¿cuál es la machloket si es entre ¿Qué"
+},
+{
+"startMs": 2982941,
+"endMs": 2990381,
+"text": "tipo? Con menos personalidad. Sí, el burro no lo usas ni siquiera c-con caballo. Si tú vas en caballo- Que"
+},
+{
+"startMs": 2993021,
+"endMs": 3000261,
+"text": "Por eso, por eso, sí A dominar, ¿no?"
+},
+{
+"startMs": 3000281,
+"endMs": 3011689,
+"text": "A ver, viene tipo el Masías, que venga en caballo. Guevaja el jamón. Sí, ahorita lo vemos. Entonces Entonces, el, el, si tú vienes en caballo,"
+},
+{
+"startMs": 3013769,
+"endMs": 3021989,
+"text": "si viene alguien aquí en burro y viene alguien aquí en caballo, es otra, otra escena completamente. Quiere decir que no es nada más el animal."
+},
+{
+"startMs": 3022929,
+"endMs": 3032929,
+"text": "El animal tiene algún tipo de personalidad. El caballo tiene, tiene un tipo, te da, te da algo, su, su, su-- dice algo, dice algo."
+},
+{
+"startMs": 3033229,
+"endMs": 3034549,
+"text": "El animal que menos dice"
+},
+{
+"startMs": 3035789,
+"endMs": 3045629,
+"text": "es el burro. El animal que parece más cosa es el burro. El animal que parece más alguien, el animal que parece más algo es el burro."
+},
+{
+"startMs": 3046129,
+"endMs": 3053549,
+"text": "Jamor, por eso es la palabra home, ¿me explico? Materia. El jamor se usa jamor lemazá, es para cargar cosas."
+},
+{
+"startMs": 3054569,
+"endMs": 3066609,
+"text": "El-- todos los animales tienen como una, una especialidad. Alguien que se usa nada más para cargar, no necesitas realmente ser un, eh, un alguien, ¿me explico?"
+},
+{
+"startMs": 3066689,
+"endMs": 3073669,
+"text": "Es, es un tipo de algo. Parece una carreta. Ponen cosas sobre ti. Podría ser una carreta, podría ser cualquier otro tipo de cosa."
+},
+{
+"startMs": 3073689,
+"endMs": 3080229,
+"text": "Es una, nada más como que el motor de la carreta, pero no es realmente un... Aquí que estás viendo a un alguien, ¿sí?"
+},
+{
+"startMs": 3080789,
+"endMs": 3081929,
+"text": "Por eso el color del burro"
+},
+{
+"startMs": 3083229,
+"endMs": 3093229,
+"text": "es gris. ¿Por qué es gris? Porque es el color que no, no dice nada. Un caballo muy blanco, oh, un caballo muy, muy negro, ah."
+},
+{
+"startMs": 3093849,
+"endMs": 3101469,
+"text": "Sí. Un, un gris significa que no me dice nada. ¿Qué es? No es blanco, no es negro."
+},
+{
+"startMs": 3102509,
+"endMs": 3104249,
+"text": "Pasa desapercibido. Si una obra,"
+},
+{
+"startMs": 3105509,
+"endMs": 3108129,
+"text": "en obra negra, antes de que reciba forma, color,"
+},
+{
+"startMs": 3109549,
+"endMs": 3119629,
+"text": "está en obra gris, ¿me explico? Es algo que no tiene-- si tú quieres como que un coche así medio pasar desapercibido un poco, el gris es el color más, más, eh,"
+},
+{
+"startMs": 3120869,
+"endMs": 3122629,
+"text": "más tranquilo, ¿me explico? No,"
+},
+{
+"startMs": 3123929,
+"endMs": 3130609,
+"text": "no grita, no es algo que tiene mucho... Entonces, es, es, es el majut del burro y por eso el burro se llama jamor."
+},
+{
+"startMs": 3131109,
+"endMs": 3134889,
+"text": "Y, y el opuesto es un animal que se llama kelev, al shun kulolev."
+},
+{
+"startMs": 3136528,
+"endMs": 3142269,
+"text": "No, no hay algo más como que nafshi kelev. Y por eso,"
+},
+{
+"startMs": 3143829,
+"endMs": 3157829,
+"text": "a diferencia del burro, algo muy manen en el perro, la, el número de razas que hay en los perros, es tipo dos animales, dos, el mismo animal, o sea, la mis-- el mismo perro, que, que son completamente diferentes."
+},
+{
+"startMs": 3158309,
+"endMs": 3166309,
+"text": "Quiero decir, es el animal con más tzurot que puede haber. En los demás no hay, tipo el caballo, la vaca. Así que puedes reconocer."
+},
+{
+"startMs": 3166729,
+"endMs": 3168529,
+"text": "O sea, un, yo, si me dispones,"
+},
+{
+"startMs": 3171049,
+"endMs": 3171249,
+"text": "un... No,"
+},
+{
+"startMs": 3172549,
+"endMs": 3178709,
+"text": "un bulldog y un chihuahua no tienen absolutamente nada que ver. O sea, no parecen ni primos, ¿me explico?"
+},
+{
+"startMs": 3179449,
+"endMs": 3190609,
+"text": "No parecen ni primos, pero, pero son perros, ¿me explico? Los dos son perros, pero no parecen ni primos. Significa que soporta el perro, soporta en su, en su esta, mucha tsura."
+},
+{
+"startMs": 3191249,
+"endMs": 3199109,
+"text": "Quiero decir, él soporta mucha tsura. El perro es un animal que no, no sabe vivir en algún otro lugar más que,"
+},
+{
+"startMs": 3200429,
+"endMs": 3206489,
+"text": "más que con las personas. Sí, el perro solo sabe vivir con las personas. Sí. Existe..."
+},
+{
+"startMs": 3207069,
+"endMs": 3216029,
+"text": "¿Qué animal conoces que tenga el apodo, sí, el, el cómo se llama, el adjetivo callejero?"
+},
+{
+"startMs": 3217209,
+"endMs": 3226489,
+"text": "Nada más el perro. Gato no es callejero. Un gato en la calle es un gato. ¿Me explico? Así es el gato, es el que come los ratones, mistader, ¿me explico?"
+},
+{
+"startMs": 3227149,
+"endMs": 3235709,
+"text": "El perro si está en la calle. El perro si está en la calle es rabioso. No es, no es, no es nada, no sirve de nada. Te, te ruega por comida, no sabe cómo mistader."
+},
+{
+"startMs": 3236309,
+"endMs": 3245489,
+"text": "Tipo, es alguien, es como una persona. Deja a una persona en la calle, deja a un bebé, un niño, seis años, déjalo en la calle, un homeless, a fin un adulto en la calle, no mistader."
+},
+{
+"startMs": 3245489,
+"endMs": 3258209,
+"text": "¿Me explico? No, no, los animales mistader muy bien en la calle. Pero una, una persona que tienes, si tú tienes algún tipo de tipus, algún tipo de persona, entonces necesitas realmente como una casa."
+},
+{
+"startMs": 3258569,
+"endMs": 3264629,
+"text": "Entonces, el perro, si no tiene una persona, no es nada. No... Al revés, se convierte en malo. Sí, se hace malo, completamente."
+},
+{
+"startMs": 3264709,
+"endMs": 3267329,
+"text": "Está malek, malek es el perro callejero. Entonces,"
+},
+{
+"startMs": 3268609,
+"endMs": 3279089,
+"text": "entonces, entonces, el, el perro es el, el, el sí, el máximo tsura y el burro es el máximo home en su..."
+},
+{
+"startMs": 3280529,
+"endMs": 3286929,
+"text": "¿Sí? Siempre, siempre son pareja. Vean la Gemara aquí en el Gimmel. También lo de las mishmarot. Sí, las mishmarot."
+},
+{
+"startMs": 3287589,
+"endMs": 3294029,
+"text": "Entonces, la primer mishmara, jamor Noé, shnia, clavim tzoakim. ¿Me explico?"
+},
+{
+"startMs": 3295129,
+"endMs": 3302869,
+"text": "Entonces... Está muy criticado también, ¿no? Lo que kulolev, pero... No me acuerdo dónde vi. Sí, sí, no estoy hablando del cerdo, no estoy diciendo cuál es su esencia."
+},
+{
+"startMs": 3303709,
+"endMs": 3311009,
+"text": "Estoy diciendo no más que su esencia es, es, es, es, es el animal más, eh... Con yes."
+},
+{
+"startMs": 3311469,
+"endMs": 3312489,
+"text": "Sí, con más, eh,"
+},
+{
+"startMs": 3313969,
+"endMs": 3324569,
+"text": "es el más man de amar. Personalidad. Con más personalidad, con más tipus. Tanto así que realmente, bueno, yo no sé cómo sea hoy en día en el mundo, pero"
+},
+{
+"startMs": 3327029,
+"endMs": 3327589,
+"text": "yo creo que"
+},
+{
+"startMs": 3329549,
+"endMs": 3340009,
+"text": "comprar gatos diferentes, hay gente que tiene gatos en su casa, pero es muy diferente. El, el gato en la casa y el perro en la casa son dos, son dos, son dos mundos, ¿me explico?"
+},
+{
+"startMs": 3340429,
+"endMs": 3348069,
+"text": "Yo creo que el gato lo escoges más como un tipo de peluche, ¿me explico? No, no como que el... Compañero de la casa."
+},
+{
+"startMs": 3348129,
+"endMs": 3359269,
+"text": "No, sí. El perro, cada uno lo escoge según su tipus. Me gusta el juguetón, me gusta el inteligente, me gusta el fuerte, me gusta el..."
+},
+{
+"startMs": 3360849,
+"endMs": 3373909,
+"text": "Es más según su físico. Por eso digo, es como escoger un peluche diferente. No es tanto un, eh, no es tanto como que-- no, en el perro estás escogiendo su néfesh, más su, su, su, su, su persona."
+},
+{
+"startMs": 3373909,
+"endMs": 3380049,
+"text": "Pasar tiempo con eso. ¿Eh? Es más como pasar tiempo con esa personalidad. Exactamente, es algo que te identificas, es algo que te identificas."
+},
+{
+"startMs": 3380129,
+"endMs": 3383669,
+"text": "O sea, hay gente que lo cambia por hijos, ¿me explico? Gente que lo cambia por hijos."
+},
+{
+"startMs": 3385049,
+"endMs": 3386049,
+"text": "Yo tenía un vecino que,"
+},
+{
+"startMs": 3387329,
+"endMs": 3392329,
+"text": "que así, literal. O sea, literal, literal, literal. Su perro era su hijo, o sea, literal."
+},
+{
+"startMs": 3393869,
+"endMs": 3394409,
+"text": "Entonces,"
+},
+{
+"startMs": 3396669,
+"endMs": 3402949,
+"text": "entonces, de qué tú. Ese, ese, entonces, acá mamash miflaa, cómo entra esto en la subida de acá."
+},
+{
+"startMs": 3404288,
+"endMs": 3412469,
+"text": "Esto entra en la subida de acá, porque en los perros, este inyan del néfesh no se queda nada más en su nimiot, se queda también en, en su kulolev."
+},
+{
+"startMs": 3412869,
+"endMs": 3422174,
+"text": "También es algo que se expresa en su gestiones, como dijimos. Cada perro tiene otro tipo de, de estilo, también hacia afuera, no se ve fuerte Pues sí, es, es pele, mamá."
+},
+{
+"startMs": 3422355,
+"endMs": 3431455,
+"text": "Ves un perro, ves, eh, como sí ves una persona y dices: \"Este es así, este es así\". Ves un perro y dices: \"Este es más mancito, este es más esto, este es más fuerte, este es más inteligente, este es más decidido, este es más así\"."
+},
+{
+"startMs": 3432134,
+"endMs": 3433194,
+"text": "Entonces..."
+},
+{
+"startMs": 3435095,
+"endMs": 3442855,
+"text": "Entonces, no, y no es tanto, es algo, no es tanto un tema de inteligencia. Te puedo decir con un elefante es muy inteligente, pero no tiene esto, ¿no?"
+},
+{
+"startMs": 3443015,
+"endMs": 3461654,
+"text": "No, al final no es esto, no es tipo el punto que ves acá, el, el, el, el, la, la tsura. Se siente de acá que la mejor que Rab Ṣtir y Rab Hillel es cuando agarraron la tabla de todos los animales, Rab Hillel dijo: \"Yo necesito agarrar el animal que es el máximo home."
+},
+{
+"startMs": 3462274,
+"endMs": 3468335,
+"text": "Yo necesito que lo que reconozcas, el hidusho es reconocer home, ¿sí? Diferentes tipos de home\"."
+},
+{
+"startMs": 3468975,
+"endMs": 3472835,
+"text": "Y Rab Meiir te dice: \"No, yo necesito reconocer el máximo tsura,"
+},
+{
+"startMs": 3474095,
+"endMs": 3480174,
+"text": "el máximo tsura posible\". Y Rab Harin dice: \"Si el máximo tsura es Adam\". Entonces, él dice: \"Máximo tsura, eso ya es Adam\"."
+},
+{
+"startMs": 3480935,
+"endMs": 3490095,
+"text": "Pero Adam ya no es, ya, ya es tipo acá, que no es la tsura que diferencias entre una y otra tsura, sino es el reconocer la tsura en sí."
+},
+{
+"startMs": 3490895,
+"endMs": 3499694,
+"text": "Ellos, que Aner, no querían llegar a eso. No necesitamos llegar a reconocer una tsura en sí. Yo necesito llegar a reconocer tsura, pero que diferencias entre una cosa y otra."
+},
+{
+"startMs": 3499734,
+"endMs": 3505995,
+"text": "Ya con eso se llama que reconoces tsura. No, no necesitas reconocer algo que reconoces la tsura en sí, ¿sí?"
+},
+{
+"startMs": 3507955,
+"endMs": 3515995,
+"text": "Necesitas llegar al excel de lo que estás viendo. ¿Eh? Sí. Exactamente. To-- Ya."
+},
+{
+"startMs": 3519555,
+"endMs": 3524674,
+"text": "Ese es su light, el Esber aquí en esta Gemara. Seguimos."
+},
+{
+"startMs": 3528075,
+"endMs": 3535794,
+"text": "Esto es, esto es muy estilo, tipo aprender a hacer este tipo de, de havanot en Hazal, es, es Maran."
+},
+{
+"startMs": 3536415,
+"endMs": 3542634,
+"text": "Increíble. Maral es, todo Lomes, sí, todas las subidas de Lomes es así. Se llena de la misma manera."
+},
+{
+"startMs": 3542875,
+"endMs": 3548995,
+"text": "Sí. Pero él no te habla en la que subió. Sí, sí, sí. El Maran, el Maran, es-este es su idioma. Este es el idioma Maran."
+},
+{
+"startMs": 3549515,
+"endMs": 3550895,
+"text": "También las Agadot las estudia así."
+},
+{
+"startMs": 3552194,
+"endMs": 3559515,
+"text": "El Maran no es musar. El Maran es entender las esencias de las cosas, entender la esencia."
+},
+{
+"startMs": 3559575,
+"endMs": 3567734,
+"text": "Entonces, acá es, tienes que entender la esencia de la luz. ¿Qué es la esencia de la luz? La que te hace reconocer. ¿Reconocer entre qué? Colores, pero no hay colores. Entonces, quiere decir que reconocer entre colores es no ver nada."
+},
+{
+"startMs": 3568115,
+"endMs": 3575795,
+"text": "Entonces, no, hasta que no vea cosas. No, pero ver cosas sigue sin ser ver. Entonces, necesito ver a la persona. Pues ahí es cuando estás viendo la luz, porque si no, no estabas viendo nada."
+},
+{
+"startMs": 3575975,
+"endMs": 3586895,
+"text": "Entonces, sigue, sigue, sigue habiendo-- la oscuridad sigue haciendo efecto, ¿sí? Mientras no llegues a, a llegar al nivel que estás reconociendo ya a una forma en sí."
+},
+{
+"startMs": 3587295,
+"endMs": 3591995,
+"text": "Ese es Ajerim. ¿Sí me estoy explicando? Esa es la mahloket que hay aquí."
+},
+{
+"startMs": 3593435,
+"endMs": 3604714,
+"text": "Dice: \"Ama Rab Huna halajá que Ajerim\". Dice: \"Ama Rab Aye le tefilín que Ajerim, le criat Shemá que batiquín\"."
+},
+{
+"startMs": 3605795,
+"endMs": 3612694,
+"text": "Entonces, tefilín es como Ajerim. Horario de ponerte tefilín es como Ajerim. Que recuerdes a Adam."
+},
+{
+"startMs": 3612814,
+"endMs": 3621075,
+"text": "¿Qué baso? A la persona. Eso va a ser más tarde o más temprano. Más tarde, más tarde. Claro, porque es el más difícil de reconocer."
+},
+{
+"startMs": 3621075,
+"endMs": 3627415,
+"text": "Un toño más antes, sí era eso. Un toño en la práctica hoy en día-- Creo que es más mamutí, pero es más tarde, después es más temprano. ¿Qué cosa?"
+},
+{
+"startMs": 3627495,
+"endMs": 3631154,
+"text": "Es más temprano. Sí. Ah, por eso, pero acá se ve que es más, ¿verdad? Sí."
+},
+{
+"startMs": 3633055,
+"endMs": 3640575,
+"text": "Por la, por la, por la, por la, por la realidad, pero en la realidad dice que... Él dice: \"Baso sería, lógicamente, es mucho más temprano\"."
+},
+{
+"startMs": 3642075,
+"endMs": 3642795,
+"text": "Pero vemos que no."
+},
+{
+"startMs": 3646075,
+"endMs": 3654455,
+"text": "Pero no está hablando a lo mejor de Mase de ver una persona y reconocer. Eso, chances que reconoce... De criat Shemá que batiquín no hemos visto eso, Shitá."
+},
+{
+"startMs": 3654995,
+"endMs": 3663194,
+"text": "A ver, vamos a ver qué es eso. A ver, dice: \"Rashí le tefilín, le aniaj tefilín, she mitzváta najatán kodem criat Shemá\", ¿sí?"
+},
+{
+"startMs": 3663314,
+"endMs": 3666495,
+"text": "Be perek sheni. Porque el que dice criat Shemá sin tefilín es que"
+},
+{
+"startMs": 3705475,
+"endMs": 3712435,
+"text": "No sé, no sé. A ver, hay que ver. Tefilín es criat Shemá, ¿no? Hay que ver, hay que ver. Dice: \"Le criat Shemá que batiquín\"."
+},
+{
+"startMs": 3713355,
+"endMs": 3722214,
+"text": "Dice Rashí: \"Batiquín, anashím anavím u mechavevim mitzvá. Gente humilde que ama las mitzvot\"."
+},
+{
+"startMs": 3723455,
+"endMs": 3734154,
+"text": "Eso es, eso es batiquín. Esto va a decir el midrash. Dice, dice: \"Dam, Rab Yohanan, batiquín, hayú gomrim otá im ha netz hajamá."
+},
+{
+"startMs": 3734734,
+"endMs": 3742455,
+"text": "A cavan el criat Shemá con el netz hajamá. Ta nenan meji, batiquín, hayú gomrim otá im ha netz hajamá."
+},
+{
+"startMs": 3743055,
+"endMs": 3746055,
+"text": "Kedes she yismój geulá le tefilá."
+},
+{
+"startMs": 3747475,
+"endMs": 3750455,
+"text": "Venim tsá mitpalel bayóm."
+},
+{
+"startMs": 3755935,
+"endMs": 3776734,
+"text": "La tefilá no es cuando hay luz, la tefilá es cuando es de día. Y entonces, ya que la tefilá es cuando es de día, entonces"
+},
+{
+"startMs": 3786314,
+"endMs": 3793714,
+"text": "Eso no se llama al cien por ciento lismoj gulalit fila. El concepto de lismoj gulalit fila es en batijín."
+},
+{
+"startMs": 3794234,
+"endMs": 3803415,
+"text": "Sí se ve en la Gemara. Porque te dice: \"Me comrá que de lismoj gulalit-- igual aniso maj gulalit fila, aunque me pase media hora, una hora, aniso maj gulalit\"."
+},
+{
+"startMs": 3803515,
+"endMs": 3812754,
+"text": "Lo digo pegadito. Decimos no. No, no, no. Porque tienes que decirte fila en el primer segundo. Entonces, si yo tengo que decirte fila en el primer segundo - Entonces, criachema lo digo hasta el final."
+},
+{
+"startMs": 3813015,
+"endMs": 3819475,
+"text": "Un minuto antes. Ajá. Para poder lismoj, porque, porque si voy a lismoj. Entonces, tú dices que también si me paso y digo después - Claro."
+},
+{
+"startMs": 3819495,
+"endMs": 3830855,
+"text": "Hay lismoj gulalit fila. Claro. Sí, puede ser. Pero tiene que ver con lo que hemos dicho - Sí, Shome. La filá atrás de que, de que sí tenía que ver con el tiat mintaim, entonces mele, ese era el horario de tiat mintaim."
+},
+{
+"startMs": 3831814,
+"endMs": 3842095,
+"text": "Sí, sí, ahí es la subida de lismoj gulalit fila. Sí, todo junto ahí. Ahora vamos a ver qué pasa acá. Fíltrenme de que en realidad tú tendrías que decir el criachema cuando es más día, pero no puedo."
+},
+{
+"startMs": 3842734,
+"endMs": 3849855,
+"text": "O sea, hay como un darteee, desastre, no sé si es darte, pero yo tendría que decirte el mejor momento para decir el criachema sería después del mes."
+},
+{
+"startMs": 3850433,
+"endMs": 3856734,
+"text": "Ahora, no puedo. No, antes del-- después de iakil. Ishaiaki. No, ahí desde ese momento se puede. Puede ser."
+},
+{
+"startMs": 3856814,
+"endMs": 3862875,
+"text": "El momento más rawil sería cuando ya es de día, mamash, cuando ya hay más, cuando hay más acará. No estoy seguro. ¿Por qué?"
+},
+{
+"startMs": 3863835,
+"endMs": 3873814,
+"text": "Porque kriachema no es, no es din de día. Kriachema es din en el, en el misillaki, en ukumeja."
+},
+{
+"startMs": 3874035,
+"endMs": 3885555,
+"text": "Yo me acuerdo que yo he visto eso en el Bet Yosef, no me acuerdo bien. Puede ser, puede ser. Que decía: \"Tengo un problema técnico, porque pri-- por un lado tengo que decirte filá en el primer segundo y, por otro lado, tendría que decir el kriachema cuando es de día a día."
+},
+{
+"startMs": 3886015,
+"endMs": 3888115,
+"text": "¿Qué hago? Dicen: \"No es mejor rezar que batijín\"."
+},
+{
+"startMs": 3889555,
+"endMs": 3895814,
+"text": "Filá bien. Y tener que - No conozco. Tener que atrasar el... Puede ser, pero no conozco. No, ni idea."
+},
+{
+"startMs": 3896835,
+"endMs": 3907535,
+"text": "Sí, no sé. Está raro porque en la filá es el kriachema es un kumeja, no es, eh, net. A filo, a filo está la sitá de rabiliés, el que te dice que dice adanet."
+},
+{
+"startMs": 3908415,
+"endMs": 3929955,
+"text": "Nos vamos cardinal. A ver, dice: \"Batijín hayug ombrímota ima net ajamá, que de shismoj gulalit fila, venim tami palel vayo, amarab zeira maicrá\", de donde se ve eso de, de decir la filá en el día, \"yerauja im shames, velifne yareaj dor dorim\"."
+},
+{
+"startMs": 3931274,
+"endMs": 3937795,
+"text": "Entonces, que te vean con el sol. O sea, que tú te presentes cuando el sol sale. \"Yerauja im shames\"."
+},
+{
+"startMs": 3938674,
+"endMs": 3938955,
+"text": "Dice:"
+},
+{
+"startMs": 3940415,
+"endMs": 3946795,
+"text": "\"Velifne yareaj\", antes de la luna, \"dor dorim\". Generación, generaciones. No sé qué es eso."
+},
+{
+"startMs": 3950395,
+"endMs": 3957515,
+"text": "Afto pileta minjabi tzotayim dimdumejama. ¿Te dice? Okey, está bien."
+},
+{
+"startMs": 3957875,
+"endMs": 3965854,
+"text": "Ah, ¿ya dice Rashi? \"Im shames, klomar\". Ah, no, \"dijtif. Maikra de mitzvá leetpalel im ha netz ajamá, dijtif yeruja im shames."
+},
+{
+"startMs": 3966214,
+"endMs": 3974375,
+"text": "Mataim mitiarim mimjá, shemorajá, mekablim alem, de ahí nu maljut shamayim, shemekablim alem be criat shemá\"."
+},
+{
+"startMs": 3976134,
+"endMs": 3985035,
+"text": "Ah, \"yeruha\", yo pensé que era la persona. \"Yeruha\" es Hashem. Es decir, \"yeruha\", que cuando te van a temer a ti, \"im shames\"."
+},
+{
+"startMs": 3985035,
+"endMs": 3994335,
+"text": "¿Qué es \"im shames\"? O sea, \"yeruha\" es criat shemá. \"Mataim mitiarim mimjá, shemorajá, mekablim alem, de ahí nu maljut shamayim, shemekablim alem be criat shemá\"."
+},
+{
+"startMs": 3994435,
+"endMs": 4000674,
+"text": "Se supone que eso debería de decir. Ah, dice: \"Im shames, klomar kshe hashemesh iotsá, ahí nu im ha netz ajamá\"."
+},
+{
+"startMs": 4001234,
+"endMs": 4009875,
+"text": "O sea, no ajrei shames, sino im shames. Por eso es \"vegombdrá adanet ajamá\". Es como que el criat shemá se acabe a esa hora."
+},
+{
+"startMs": 4010654,
+"endMs": 4016995,
+"text": "Este es el momento del criat shemá. El shemá es la-- le caber maljú chamayim la ira. Esa es la hora de que sale el sol."
+},
+{
+"startMs": 4017415,
+"endMs": 4022354,
+"text": "Es lo que está diciendo el pasuc, a la hora de que Mitgalelor, que te pueden ver a ti, a esa hora es la ira, es la hora del shemá."
+},
+{
+"startMs": 4024194,
+"endMs": 4028455,
+"text": "Ya no después. El shemá lo tienes que estar acabando cuando va a empezar el momento de la ira."
+},
+{
+"startMs": 4030274,
+"endMs": 4041234,
+"text": "Pero ahí la mira, o sea, acá-- ¿Te digo? O sea, el shemá es, es ya que va a llegar el sol, entonces lo primero que-- ¿cómo se recibe el sol?"
+},
+{
+"startMs": 4041935,
+"endMs": 4049314,
+"text": "Por medio de ira. Eso, eso recuerda mucho, si ven acá en la Gemara, en Davzaim, acá atrás, dice..."
+},
+{
+"startMs": 4050814,
+"endMs": 4051734,
+"text": "Irá es la mira."
+},
+{
+"startMs": 4053714,
+"endMs": 4065174,
+"text": "No, irá es el net. Sí, y es, es an-- o sea, irá es lo que necesitas hacer antes de que llegue el sol."
+},
+{
+"startMs": 4066955,
+"endMs": 4074295,
+"text": "Es decir, no puedes llegar a, a ver el sol sin antes le caber el maljú chamayim. Vean, esto recuerda la Gemara aquí atrás."
+},
+{
+"startMs": 4075174,
+"endMs": 4076615,
+"text": "Davzaina Mudalef dice--"
+},
+{
+"startMs": 4080975,
+"endMs": 4090895,
+"text": "¿Vieron la Gemara en Davzaina Mudalef? ¿Por qué no?"
+},
+{
+"startMs": 4090895,
+"endMs": 4102535,
+"text": "¿No te gustó?"
+},
+{
+"startMs": 4102814,
+"endMs": 4109955,
+"text": "¿Por dónde? Estoy buscando \"Shejol maljé mizraju maarab, menijin kitreem\"."
+},
+{
+"startMs": 4110995,
+"endMs": 4119974,
+"text": "No, no, no. \"Shejol maljé mizraju\", ahí está, ya. Dice-- así en los renglones largos, por la mitad, poquito arriba de la mitad."
+},
+{
+"startMs": 4120035,
+"endMs": 4127875,
+"text": "¿Ahí? Sí. \"Tana mishmei de rabimeil. Beshá hashama zorjat\"."
+},
+{
+"startMs": 4128675,
+"endMs": 4135215,
+"text": "Cuando sale el sol. \"Ve kol maljei mizrach u maarab menijim kitreem beroshem\", se ponen sus coronas."
+},
+{
+"startMs": 4135575,
+"endMs": 4142854,
+"text": "\"U mish tajavim lajama, miyad ko ez hakadosh beruj Hu\". Es el momento del caos de hakadosh baruj Hu."
+},
+{
+"startMs": 4143415,
+"endMs": 4151594,
+"text": "Entonces, como que el, el sol da una, una tushá. De, de, de fuerza, that's mute."
+},
+{
+"startMs": 4152734,
+"endMs": 4162474,
+"text": "Antes tenías miedo, ¿sí? Sale el sol, ya puedes salir, ¿sí? Los animales salen en la noche, como dice el pasuk, queee"
+},
+{
+"startMs": 4163913,
+"endMs": 4170154,
+"text": "botir mos col hayato ya. Y en la mañana, dice, y este adamble paolo, lo hago todo dar."
+},
+{
+"startMs": 4170495,
+"endMs": 4182194,
+"text": "Entonces, ¿cuándo te da confianza que ya estás tranquilo, ya estás seguro? De día. De día. Entonces, dice: antes de que se haga de día, necesitas ir a-- porque si no, el día va a empezar chueco."
+},
+{
+"startMs": 4182535,
+"endMs": 4189555,
+"text": "Te va, te vas a poner la corona tú. Te vas a poner la corona tú, exactamente. Entonces, lo primero que tienes que hacer es darle la corona a Hashem."
+},
+{
+"startMs": 4190035,
+"endMs": 4199755,
+"text": "Y entonces, mi mail, cuando sale el sol- Ya no hay problema. Entonces, mi mail, ahí no hay problema. Yo así entiendo, que es el- No hablar con nadie, enfocarte el día."
+},
+{
+"startMs": 4200635,
+"endMs": 4201235,
+"text": "Con le kabel"
+},
+{
+"startMs": 4206995,
+"endMs": 4209355,
+"text": ". Sí, cien por ciento. Dice"
+},
+{
+"startMs": 4212514,
+"endMs": 4215175,
+"text": ". ¿Por qué, por qué me trae el, el, la seifa del pasuk?"
+},
+{
+"startMs": 4216455,
+"endMs": 4217295,
+"text": "Entonces, dice Rashi:"
+},
+{
+"startMs": 4223195,
+"endMs": 4227474,
+"text": "minja tiene que ser la última hora posible, es lo mejor."
+},
+{
+"startMs": 4228995,
+"endMs": 4231555,
+"text": "La mejor hora para minja es antes del ashkiá."
+},
+{
+"startMs": 4232915,
+"endMs": 4234575,
+"text": "Lifney yarea. Está claro, porque"
+},
+{
+"startMs": 4238955,
+"endMs": 4246255,
+"text": "hacer la minja . No, pero minja tiene su horario. Y su horario es, o sea, es minjajtaná."
+},
+{
+"startMs": 4246815,
+"endMs": 4250275,
+"text": "Por eso es mucho-- es mejor decir minjajtaná. No, minja, minjaca-- ¿No entendí qué es?"
+},
+{
+"startMs": 4251755,
+"endMs": 4260175,
+"text": "Sí. Es mejor decir minja. Decir minja. Es mejor decir minjajtaná. ¿Qué es indume? No, al revés, indume y jamá, cuando el sol ya se está metiendo."
+},
+{
+"startMs": 4260894,
+"endMs": 4265394,
+"text": "Ah, sí, perdón. Ya al final de- Lifney yarea, antes de que llegue la luna. Sí, no,"
+},
+{
+"startMs": 4268855,
+"endMs": 4275715,
+"text": ". Minjajtaná, sí. No sé si hay más de hacerlo más o con qué, con qué se hace."
+},
+{
+"startMs": 4277075,
+"endMs": 4277174,
+"text": "Sí,"
+},
+{
+"startMs": 4278415,
+"endMs": 4281855,
+"text": ". Pero el ideal de minja es, es, es antes de--"
+},
+{
+"startMs": 4284035,
+"endMs": 4288094,
+"text": "es antes del ashkiá. El de, el de filat minja,"
+},
+{
+"startMs": 4289535,
+"endMs": 4296615,
+"text": "el de filat minja es más reg-regresar, regresar. Minja es como que estás dando una minja, un regalo."
+},
+{
+"startMs": 4297375,
+"endMs": 4297855,
+"text": "Entonces,"
+},
+{
+"startMs": 4299094,
+"endMs": 4311115,
+"text": "shakrit es cuando estás saliendo al día, sales, vas con Hashem. Y minja es cuando está acabando el día, regresas, le dices a Hashem: \"Aquí estoy de regreso, gracias, aquí te doy una, una minja\"."
+},
+{
+"startMs": 4311495,
+"endMs": 4317934,
+"text": "Entonces, si tú dices minja a la una, entonces como que no está-- estás a la mitad del día."
+},
+{
+"startMs": 4318335,
+"endMs": 4326955,
+"text": "Pero, por otro lado, ya es cuando el sol ya se está metiendo. Entonces, en cierto aspecto, ya se puede ver, ya se puede decir minja, pero lo ideal es el"
+},
+{
+"startMs": 4328215,
+"endMs": 4330335,
+"text": "que es antes de, de, de que salga la luna."
+},
+{
+"startMs": 4335894,
+"endMs": 4344655,
+"text": "Hay que ver qué es lo de batiquín, todo eso no, no está muy claro, pero hay que ver. Que es , pero yo creo que- Todo lo que hemos visto todo el tiempo antes, que es ."
+},
+{
+"startMs": 4344715,
+"endMs": 4356875,
+"text": "Puede ser. Estos. Sí, sí, sí. No, y convertir el día, o sea, la noche ya hacia el día. Enten-entendiendo esto, lo último que dijiste, ¿también tenemos los horarios de la tefilá o el mejor horario para tefilá?"
+},
+{
+"startMs": 4357075,
+"endMs": 4364355,
+"text": "No que el tiempo , que el sol y el día- Claro. Marcan ciertas cosas para- Sí, cien por ciento."
+},
+{
+"startMs": 4365555,
+"endMs": 4373495,
+"text": "Sí, sí, sí, sí. Lo que también es, o sea, un poco lo que dijimos de que el sol es cuando ya te sientes tranquilo, seguro."
+},
+{
+"startMs": 4373894,
+"endMs": 4381135,
+"text": "Antes de que salga el sol, di . ¿Por qué? Porque hay que decirla antes de que salga el sol, ¿me entiendes?"
+},
+{
+"startMs": 4381434,
+"endMs": 4381555,
+"text": "El"
+},
+{
+"startMs": 4382775,
+"endMs": 4389315,
+"text": "y así cuando sale el sol, ya no lo ves de la manera incorrecta, ya lo pones en su lugar correcto. Minja es como para despedir eso ."
+},
+{
+"startMs": 4389934,
+"endMs": 4396075,
+"text": "Es ante-- no sé si es despedir el sol, pero es antes de que el sol es todo lo que Hashem te da."
+},
+{
+"startMs": 4397275,
+"endMs": 4404474,
+"text": "Es todo lo que Hashem te da. Antes de que se vaya. Entonces, cuando ya vas a empezar a recibir, es antes de recibir, entiende que Hashem te lo está, te lo está dando."
+},
+{
+"startMs": 4405094,
+"endMs": 4416235,
+"text": "Y después de que lo tienes, entonces la es darlo. Si tú das, si tú dices minja a la una, entonces todo lo que viene es como si sí lo tienes de una manera"
+},
+{
+"startMs": 4417815,
+"endMs": 4418875,
+"text": ", independiente."
+},
+{
+"startMs": 4421594,
+"endMs": 4429575,
+"text": "Si escuchan esto, estamos diciendo acá que es el mismo aspecto-- a ver, viene junto, ¿no? Filat minja antes de que se meta el sol, filat shakrit."
+},
+{
+"startMs": 4429915,
+"endMs": 4436055,
+"text": "Ahora son dos conceptos: uno es regresar y otro es el, el día antes del sol, para que no seas, ¿sí?"
+},
+{
+"startMs": 4436155,
+"endMs": 4442915,
+"text": "Como los malajim, melajim que . Sí. Entonces, ¿cuál es la diferencia? ¿Cuál es el punto? El punto es que es igual."
+},
+{
+"startMs": 4443735,
+"endMs": 4450495,
+"text": "Que el sol es cuando vas a empezar a recibir todo, empiezas a recibir tu existencia, te empiezas a sentir vivo, empiezas a sentir que puedes."
+},
+{
+"startMs": 4451055,
+"endMs": 4452875,
+"text": "Entonces, dices, antes de eso dices"
+},
+{
+"startMs": 4454255,
+"endMs": 4464615,
+"text": "y minja es cuando todo lo que recibiste, de alguna manera le dices a Hashem gracias, acá está de regreso. Entonces, si tú dices minja a la una y media, entonces, ¿qué está pasando?"
+},
+{
+"startMs": 4465335,
+"endMs": 4473235,
+"text": "Como si fuera, exactamente, falta, faltan otras cuatro horas. Ya se cree que es tu coa. Sí. Entonces, entonces el shlemut es hacerlo."
+},
+{
+"startMs": 4474455,
+"endMs": 4481635,
+"text": "Es-- ¿Cómo sabes si es lo más justo? ¿Mmm? Shakrit lo más antes y minja lo más después. Claro, es hablar con Hashem."
+},
+{
+"startMs": 4482455,
+"endMs": 4489255,
+"text": "Es la continuación. La . Sí, dices, ya está en la noche. No como pregunta, no como respuesta."
+},
+{
+"startMs": 4489335,
+"endMs": 4489655,
+"text": "Mmm-hmm."
+},
+{
+"startMs": 4491934,
+"endMs": 4492415,
+"text": "Está bien."
+},
+{
+"startMs": 4493855,
+"endMs": 4495715,
+"text": "Ah, la Gemara va a hablar de- Y rabiosi."
+},
+{
+"startMs": 4498155,
+"endMs": 4500975,
+"text": "Rabiosua, me late o rabiosi. ¿Qué dice? Rabiosi."
+},
+{
+"startMs": 4502335,
+"endMs": 4512155,
+"text": "Espera."
+},
+{
+"startMs": 4512275,
+"endMs": 4512514,
+"text": "¿Qué es"
+},
+{
+"startMs": 4513855,
+"endMs": 4515434,
+"text": "? Aquí te doy ."
+},
+{
+"startMs": 4516674,
+"endMs": 4516755,
+"text": "Sí."
+},
+{
+"startMs": 4518315,
+"endMs": 4518755,
+"text": "La sagrada"
+},
+{
+"startMs": 4520475,
+"endMs": 4520735,
+"text": "."
+},
+{
+"startMs": 4525295,
+"endMs": 4525514,
+"text": "Dice:"
+},
+{
+"startMs": 4533575,
+"endMs": 4534075,
+"text": "¿Qué es nizok?"
+},
+{
+"startMs": 4539934,
+"endMs": 4549394,
+"text": "Ah, pero está bueno ahorita lo que está diciendo. Esto se entiende según lo que estamos explicando. Porque, porque el se ve de la Gemara que de alguna manera es el que ."
+},
+{
+"startMs": 4550394,
+"endMs": 4554094,
+"text": "O sea, Entonces, sí, es el que"
+},
+{
+"startMs": 4555674,
+"endMs": 4560014,
+"text": "Se ve, se ve en la Gemara atrás eso claramente, que, que de"
+},
+{
+"startMs": 4565211,
+"endMs": 4566211,
+"text": "Hay que entender qué es eso del"
+},
+{
+"startMs": 4567431,
+"endMs": 4574491,
+"text": ". Al que hace esto nunca le ha pasado nada. Lo que, lo que , que se mama-- se ve que es eso. Todo lo que existe en"
+},
+{
+"startMs": 4576111,
+"endMs": 4583191,
+"text": "es los-- todo lo, todo los mazikim es porque ¿cuándo nibrearon los mazikim? Anoche."
+},
+{
+"startMs": 4584351,
+"endMs": 4587011,
+"text": "Segundo día de la . Ah, no fue antes de Sapat, en"
+},
+{
+"startMs": 4589111,
+"endMs": 4593691,
+"text": ". Sí, los, los . Sí, maloj. Se queda una media cocción."
+},
+{
+"startMs": 4596351,
+"endMs": 4611851,
+"text": "Eh, eh, tiene que ver, , pero también hay Jadal que dicen que el segundo día la abrió. Y entonces todo el punto acá, todo el punto acá es que , o sea, por eso todo en la, la dice que no hay que agarrar pares."
+},
+{
+"startMs": 4612871,
+"endMs": 4619411,
+"text": "Si donde hay pares hay , hay mazikim. ¿Por qué? Porque se quedan el segundo día. ¿Por qué? Porque ¿cuál es el punto?"
+},
+{
+"startMs": 4619611,
+"endMs": 4626031,
+"text": "El segundo día es cuando se separó el cielo de la tierra. Y lo de Hashem, del mundo, mai mai."
+},
+{
+"startMs": 4626851,
+"endMs": 4633671,
+"text": "Entonces, los mazikim son los que dicen- No hacen de la separación. Ellos dicen-- sí, o sea, pero ¿por qué no hacen la separación?"
+},
+{
+"startMs": 4633811,
+"endMs": 4644831,
+"text": "Dice: \"Ellos son los que tienen kiná contra la separación. ¡Eh! No puede estar separado\". Entonces, ellos cuando atacan, cuando hay algo separado, dice: \"Oye, Hashem, esto está separado de ti\"."
+},
+{
+"startMs": 4646931,
+"endMs": 4651591,
+"text": "Entonces, ahí ataca. Entonces, acá el que dice"
+},
+{
+"startMs": 4654031,
+"endMs": 4660071,
+"text": ". Está diciendo: \"Yo no estoy separado\". Exactamente. Yo, el sol es el que me va a separar."
+},
+{
+"startMs": 4660751,
+"endMs": 4670331,
+"text": "Ahorita va a ser de día, el sol es el que separa. Yo no pongo la corona a mí, yo te la pongo a Hashem. Es el Kaz, el Kaz de Hashem, como dijimos. ¿Cuándo llega el Kaz de Hashem? Que todos los mazikim se prenden ahí con él, cuando se pone la corona."
+},
+{
+"startMs": 4670691,
+"endMs": 4678191,
+"text": "Entonces, dice: \"No, yo te pongo la corona a ti, Hashem\". Pero las Zugot, ¿por qué? ¿Por qué dañan cuando hay Zugot? Zugot es kilu-- algo, algo..."
+},
+{
+"startMs": 4678191,
+"endMs": 4686651,
+"text": "A ver, está, tiene, tiene-- está junto con algo. No, eso ya es el tres. Ese es el número tres. El tres es unir, unir a los dos."
+},
+{
+"startMs": 4687751,
+"endMs": 4693911,
+"text": "Es unir dos. ¿Cuándo habías dado un de eso?"
+},
+{
+"startMs": 4693971,
+"endMs": 4701031,
+"text": "Algún día. Lo viste, lo viste acá. Sí, cuando hablamos atrás de los mazikim. Aquí en Daf Guimel, Daf Dalet."
+},
+{
+"startMs": 4701771,
+"endMs": 4710531,
+"text": "Daf Eh-- sí. Según aquí es Daf Dalet, Amud Bet. No, en Daf Dalet, Amud Bet está la subida del y de los horarios, muy parecida."
+},
+{
+"startMs": 4711471,
+"endMs": 4716391,
+"text": "Y en Daf, eh, Heih, Amud Alef hablamos ahí de los mazikim. Hablamos ahí"
+},
+{
+"startMs": 4720411,
+"endMs": 4722971,
+"text": ". Daf Bet, Amud Alef hablamos de los mazikim."
+},
+{
+"startMs": 4725871,
+"endMs": 4726251,
+"text": "Está bueno."
+}
+]
+}

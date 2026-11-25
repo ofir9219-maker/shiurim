@@ -1,0 +1,581 @@
+# 68. ברכות יא - אהבה רבה ואהבת עולם
+
+- **Grabación en Plaud:** 68. ברכות יא - אהבה רבה ואהבת עולם
+- **Fecha:** 2026-08-20
+- **Duración:** 01:19:01
+
+---
+
+**[00:00:00] Speaker 1:** Vida, dice.
+
+**[00:00:03] Speaker 1:** Espera que estamos en Rabbah y esto ya está. Vimos el Maral, vale la pena ver el Tania.
+
+**[00:00:09] Speaker 2:** Está Precioso ese Maral.
+
+**[00:00:12] Speaker 1:** Ulai, Repetimos y lo relacionamos con la de antes y Ulai también vemos cómo camina con lo después y luego vamos al Bala Tania dice: Vidaj Mai, ¿cuál es la segunda baraja? Maihi, am rabi da meshmuela barra va, bechen oire le rabiela da rabi piedad brei a barra va. Dale name aquí en Umbrima Abatolam, ella ahava raba dice, no digas ahavatolam, sino ahava raba rabanan hambre ahavatolam, mejenu ome, ve ahavatolam haftij alken meshaktij hese.
+
+**[00:00:44] Speaker 1:** Entonces vimos la hermana de antes que tenemos que la primera baraja todo lineal es yotzer or ubrekhoshej y tenemos que. Lavin, que no son dos Metziuyotxonim diferentes, dos fuerzas que se contradicen, sino es el que el Joshej está nada más alistando y preparando para que nosotros. Para que podamos recibir la luz. Roberto, ¿cómo estás?
+
+**[00:01:12] Speaker 1:** Está preparando para que podamos recibir la luz. Ese es el Linean.
+
+**[00:01:21] Speaker 1:** Entonces el todo el lineando el josha que es preparado para recibir la luz y por eso en la noche, por eso en la noche, en el día y en la noche, maskri mitad yom balila humidat laila Bayom. Es todo lo que vimos, que Vehmet no son 2 cojotes diferentes, la luz y la oscuridad Vehmet son uno, eso es lo que dijimos que es helek de las por qué es, por qué hay este error, por qué le barej sobre la luz es helek de las brajot del criat chamah.
+
+**[00:01:51] Speaker 3:** Por qué estoy lineando?
+
+**[00:01:52] Speaker 1:** Porque está lineando a Xemejat, a Xemejat, pero sus el doan que también si hay, si ves oscuridad, no es un cuaj ni fran, y entonces mi maile no te no estaciones el tren a la mitad, me explico, no abras la ishiba de los misnakdim de Toswat, no abras el sí, porque porque pasuto te lo roba, entonces quiere decir es tzacheni en tzacheni, sí, en todo lo que vivimos, no hay, no hay tzacheni. Cuando tú haces el koshek maskana, entonces automáticamente entonces está cheni.
+
+**[00:02:24] Speaker 1:** Pero si tú dices que el koshek es el mismo koach, nada más que el koshek es el que te está preparando y alistando para poder, para que logres ver el or, para que lo valores, para que lo aprecies, o porque el or es tan grande que no lo ves y por eso aparece koshek, entonces mi mail eso se llama, que beste mashem ha. Entonces ahorita, la segunda braja es Ahava, la braja de Ava.
+
+**[00:02:47] Speaker 2:** Estamos hablando. Hurta, es la son jom.
+
+**[00:02:54] Speaker 2:** Cómo puede ser que hurta noche es jom? Le dije a este borde acá. Dije Dadka en la noche viene con el día juntos y todo eso. Pero ahí.
+
+**[00:03:05] Speaker 3:** No es porque, ahí no es porque el 14 de Nissan está escrito que la noche fue día, o sea, no es dar caso de noche.
+
+**[00:03:11] Speaker 1:** No, o sea, por eso Ulay, por eso Ulay se escogió en Psajim, la subió a ponerla ahí. Pero esta es la llamada Dana, si se llama, si hurta, siempre siempre, no, si se llama, si la luz se llama anoche.
+
+**[00:03:45] Speaker 1:** Está bonito. Muy bien. Dice. Entonces dijimos que acá, Ahavah es en gimatria ahad.
+
+**[00:03:56] Speaker 1:** Porque el lineal de ahabah es unir, es una unión de dos. Entonces ahavah es en gimatria ahad. Entonces acá hay dos tipos de ahabah, uno que se llama ahabat olam y otro que se llama ahabat rabbah. Entonces acá, ve omek, ¿cuál es el piel entre ahaba rabbah y ahabat olam? Entonces dijimos que Rabbah, Sumain Gimatriah, 207 Keminian, Or Entonces Ahavah Rabbah es Ahavah de Or Cuando tú sientes la Avata Shem, cuando ves tu Or, cuando ves el Kilu Y Ahabat Olam es, viene Olam de la Shon, Ailem, que está escondido Exactamente Entonces por eso Ahavat Olam O sea,
+
+**[00:04:46] Speaker 2:** Rabbah es cuando si ves el Or, Y Olam es cuando no ves el ore.
+
+**[00:04:50] Speaker 1:** Exactamente. Entonces mi mail de Abatolam viene de la palabra elem y Olam. Y qué tiene que ver elem con Abatolam Pashut? Porque ¿qué es Abatolam? Siempre nos quieres. Cuando yo necesito decir siempre nos quieres, quiere decir que también cuando no veo que me quieres, entonces quiere que me quieres. Exactamente es Aba. Exactamente es Aba tanto en. Rabbah que es or tanto, entonces ves el mismo Inian de midad yo y midad laila que es así.
+
+**[00:05:22] Speaker 1:** Por eso los Shkenazim dicen ahava rabbah en la mañana y ahabatolam lo dicen en la noche porque Matim decir, Ahabatolam En la noche porque es miración ellen y ahva rabbah lo dices en la mañana.
+
+**[00:05:38] Speaker 4:** Pero ellos dicen ahavatolam en la noche ¿Shkenazim?
+
+**[00:05:41] Speaker 1:** Dónde?
+
+**[00:05:44] Speaker 1:** Ellos solo dicen Navarra en la mañana, dice, dice todos, dice rabanan hambre abbatolam, primer todos. El khak takino lomar de shakrita a barraba, ube arbita abbatolam. Y ya que hay mahlo que dashimashma aquí. Entonces ya hicieron Pshara, pero no es una Pshara Stam.
+
+**[00:06:02] Speaker 2:** Pero Sí se entiende mucho con lo que estás diciendo. Claro, porque Shakrita es el momento del or, que es donde sí vemos, es raba y arbit que no vemos, es solam que es el.
+
+**[00:06:09] Speaker 1:** Exactamente. Entonces ahora vean que pele. Dice “Enumbrimabá tolam elabbarabá rabanan hambre abbatolam” ¿Por qué? “Begenu omer baabatolam a haftij alken meshaktij Jesed” Entonces vean que pelea hoy vimos el Tikuné de Zohar de los que estudian Torah en la noche. Los que estudian Torah en la noche que dice el Zohar? “Holomede oausek va Torah balaila” No, les falta una palabra “Moshhim” “Alab Juchel Jesed Bayom”.
+
+**[00:06:42] Speaker 1:** Vean las palabras? "Genu omera abatolam abdij, al ken, meshaktij hesed". Sí. "Moshima alamhushih hesed vayom, doctor Meretz que está hablando, el que estudia en la noche es de noche. Entonces mi maile el día le revelan hesed. Entonces, ¿cuáles? No se puede entender algo más,
+
+**[00:07:02] Speaker 2:** El que estudia en la noche, quiere decir de Mattzajshe noche, de Mattzaj que uló, que el oro, o está de Mattzajshelaila, de Matzajshei de Holzot. Laylo me es Kilu. Entonces ahí está el que se puede decir, está en el Zoar que estudiamos, porque dijimos que es más de Isma, porque nadie lo ve. Pero algo más. Bematzar que no tiene ganas.
+
+**[00:07:24] Speaker 1:** Es a grande, Bematzarse, Layla, él, sí, o como dijiste, Kilu, en la media noche quieres ir a dormir. Cuando me caía,
+
+**[00:07:32] Speaker 4:** Se parece a la cola, me caía, es Colombia.
+
+**[00:07:36] Speaker 1:** Bioni, Es Layla. Entonces, entonces, ¿cuál es el omek de la makhloket? Entre Rabonnon, entre Rabonnon y Rabidu de Vichem Sumoi. Maa makhloket, entre Rabonnon y Rabidu de Vichem Sumoi. Entre Rabonnon, dice "Ai Abatolam", pero passut cuando se hace de Abatolam a Havarabá, cuando ya moshima labjut el Hesed, cuando en la noche dijiste "Met bem una" y en la mañana.
+
+**[00:08:08] Speaker 1:** Ya lo tienes que cambiar a Emet Byatzib, doctor Mert, que ya es ahorita ya veo el Emet que estaba en Matsab de Emuná, ahorita ya veo el Emet en Matsab de Yatzib, que es lo más sólido, ya lo veo, ya lo reconozco. Entonces, Le Haorah, pues tendríamos que hacer Passud como los Kenazim, o como dice la vida de San Ismael. No, viene el Hakamim y dice, "No, nosotros queremos decirlo que dijtiv", dice, "Lo queremos decir como está escrito". Dice, pero pone un hambre, abbatola, ve genu omer, babatola mavtij, al kermeshaktij es, entonces, yo lo quiero decir como está escrito.
+
+**[00:08:46] Speaker 2:** Sí?
+
+**[00:08:47] Speaker 1:** Muy bien. Entonces la llamara arriba, la llamara arriba dijo que hay kri y hay ktiv.
+
+**[00:08:56] Speaker 1:** Velajas a una cosa, dijimos kri, velajas a otra cosa, dijimos ktiv.
+
+**[00:09:02] Speaker 2:** En Joshek,
+
+**[00:09:02] Speaker 1:** Sí lo decimos, dice, ah, no, vaina que diktiv. Dice, nosotros ahí lo decimos como está escrito por Furachon el Passú, preguntamos estam que lo porque la hermana dice que dijtiv si sabe que al final en ran ya no dijiste que dijtiv, entonces quiere decir que para decir Joshek sólo lo puedes decir porque Kajkatu, me explico, para decir Joshek de Kikajkatu, no puedes decir estam, que Hashem también hace Joshek, no, cuando que atu quiere decir que mitzido de Hashem no hay del entregor y Josh.
+
+**[00:09:34] Speaker 1:** Mitzidei no hay ebden entre ori josek. Entonces en el josek de mitzideinu, tú no podrías decir bore josek, porque que Hashem crea el josek. No, Hashem no creo el josek. Mitzido no hay ebden entre ori josek. Laila que va en vei, que hace jaque ahora. Sí, el espacio que le dicen furas que clape de Hashem veetzen, no hay josek. Y esa es la dealgada de la tit lavo, sí, que cuando lo y el a Haceem es sol de ori Oman. Y va a hacer Hashem.
+
+**[00:10:05] Speaker 1:** Qué dice? “Viel a Hashem, leoro Olam” Leoro Olam. Qué es leoro Olam? Que es el or, que meir, que no hay José. Olam de Delem. Entonces el oro Olam es laftara de la siguiente semana. Es laftara, no, o sea, no es la que vamos a leer este shabbat, la que vamos a leer, adelante shem, el siguiente shabbat. Entonces,
+
+**[00:10:35] Speaker 1:** Entonces, ahora viajas a Ra, ahí sí lo decimos. “Michi Deim”, no decimos por el Ra, porque me med, Ra, que la ha quedado es morjudo, tampoco. El Ra, solo existe hasta que nosotros lo hacemos. Claro. Apilo que él también y viajo. Bara el Sharut, que del Josh que se haga Ra. Porque sólo así el ra no me cabel metziut y sigue siendo helek de joshek. Entonces sale que Michido Betsem el ra es joshek, entonces no es ra, es joshek.
+
+**[00:11:08] Speaker 1:** Nada más que lo que Michidaino es ra, entonces quiere decir que es el ra son lo que llaman el Michidainu Bemet, el ra como ra. En el Michido ya no el ra no es ra, es helek del joshek. Entonces por eso decimos, o sea, Shalom después de Shalom, entonces ya dices por es ra, porque ya ahí ya dijiste que Betsem ya no existe, Betsem el Metziut. De, de, de ra, mi chadach.
+
+**[00:11:30] Speaker 4:** Y Para qué lo dices? Si él es asusa, lo merculo.
+
+**[00:11:33] Speaker 1:** Eso no decimos ra, decimos. Entonces.
+
+**[00:11:44] Speaker 1:** O sea, ahora. Mamá es increíble. Llegas a la siguiente subida y hay majlokets y se dice Abat Olam o Ava Rapa. Entonces Abat Olam es. Josu, es keneguet josu.
+
+**[00:12:05] Speaker 1:** Y ese es el kektiv, ese es el kektiv. Ahora, que negguet de ra. Sí. Que neggues la dargat de ra, aquí viajó el que estamos hablando acá. Que no le decimos kektiv. Ahí, que neguet sea un mes la dargat que se llama rabá. Por qué? Para ver el rabá es solamente porque ese. En qué aterriza? Kiwiahol, ¿en qué aterriza? En el.
+
+**[00:12:33] Speaker 2:** Mismo Sharut que ves Ra,
+
+**[00:12:35] Speaker 1:** También ves Rabah. Rabah es cuando baja, y Ra es cuando baja. Nada más que uno baja, que bajó de el Abatolam, de Munajabalelot, bajó el Hutchel Hesse. Entonces, Mimelio se llama Rabah, que es la vergada de Or, pero Or, Kiwiahol, que nadie dice Rabah, es mucho. Sí, pero Adai no es Olam. Olam es el que te dice que behemet tonto si lo bajas a Ra.
+
+**[00:13:07] Speaker 1:** Porque no emet siud behemet que negue del tzachini. Ahora, entonces, ¿por qué behemet sí decimos rapa? Entonces que lo aprendieron de Linean, que no lo decimos, que no decimos ra.
+
+**[00:13:25] Speaker 1:** Sí.
+
+**[00:13:29] Speaker 1:** Ra no dices, Pero el rapá, que viajó el que es el or que sí ves, es así. “Tomes lo que es sí, mit galaen” Entonces “Adra, pa’i, adra, pa’ ve, adra, pa’ ve. Viene la hermanada, viene un rabón, ¿no? Y te dice “No, no digas rabón, porque si vas a ver rapá también vas a ver rapá”. O sea,
+
+**[00:13:48] Speaker 2:** Estás en esa.
+
+**[00:13:50] Speaker 1:** Estás en ese nivel. Sí, mira, sí. Nunca se te puede olvidar que siempre se vuelva a hablar. Entonces me email, en el momento que dijiste “Rapá”, Hay el charut también a Ra. Entonces, Kibyajon. Wow, ve! Esto está impresionante el Ness que me hizo hacer. Y cuando no. Sí, cuando no, entonces no, Kibyajon. Entonces, pero por otro lado, sí hay que la giren el Ness, pero nunca puedes la giren el Ness y que se te olvide Olam. Por eso en la noche también los Kanazim dicen Olam. También tienen que decir Olam, porque si tú quitas el Olam, entonces Kibyajol, cuando dijiste Rapah, entonces dijiste Kibyajol, Ulai que existe en Metsuud de Ra.
+
+**[00:14:29] Speaker 1:** Entonces, dicen Rapón, nos vamos a leguir desde que dijtive. "Mosicatu, no lo voy a cambiar a Machucatu. En Ra cambie a Machucatu. Pero acá no voy a cambiar, vete, Machucatu, lo voy a dejar en Olam como que tú, vete". Entonces.
+
+**[00:14:48] Speaker 1:** Wow, mamás tocó para irlo con lo de arriba. Sí, entonces yo quería ver la cámara de empezar.
+
+**[00:14:56] Speaker 4:** Yo vengo escuchando la verdad que hiciste del Pi. Te pasa Tzojin? La diré aquí. Cri-Ktiv.
+
+**[00:15:02] Speaker 1:** Cri-Ktiv, claro, sí. Que el ktiv es Shemabaye. Por acá hay otra enecuda, que es lo que estabas diciendo ayer Itzak, que Betsem es lo mismo. Que la paso Tzundo. Sí.
+
+**[00:15:16] Speaker 1:** Que hay un gizaron en decir, Rapá, porque ki viajó, limitas. Pero es lo mismo enecuda que hoy. Uno porque le da lugar aquí y cuando es rap, entonces es rap. Pero la segunda nocuidada es que.
+
+**[00:15:30] Speaker 1:** O sea, imagínate, alguien te dice, ven, ven. La verdad, quiero, imagínate, vas a hacer una cita con una persona para dar una donación, esto y lo otro. Te dice, vente, yo la verdad, quiero mucho a tu papá. Vente, quiero mucho a tu papá. Entonces digo, ya, seguro me va a dar, porque ya me invitó y me dijo, quiero mucho a mi papá. De repente llego un millón de pesos. Entonces, ¿qué digo? Antes era Abatolam. Lo tomé, “Seguro me va a dar, me quiere”.
+
+**[00:16:01] Speaker 1:** Pero cuando lo vi, digo...
+
+**[00:16:03] Speaker 2:** A fino que va muchísimo.
+
+**[00:16:04] Speaker 1:** Ah, no, antes te estoy diciendo el lado bueno. El lado bueno, yo digo...
+
+**[00:16:10] Speaker 1:** Ahí era... Era mucho más de lo que yo pensé.
+
+**[00:16:15] Speaker 1:** Me explico? “Eso es rapá”.
+
+**[00:16:19] Speaker 1:** Cuando ya vi la Aba, Digo, nunca me imaginaba en el Olam, en Abat Olam, que iba a llegar a Abarrabá. Entonces reconoces Bhemetz. Wow! Es mucho más de lo que pensábamos, ¿sí? Pero todo eso es Najom, Klape, Bazar Badam. Pero Klapeakus Borjo, Abarrabá. Un niño no es nada. Dice, lo que viste es lo que lo que tenían tus ojos para poder ver, pero era mucho más, era Abat Olam. Entonces quiere decir que Abat Olam siempre Betsem va a ser más que Abarrabá.
+
+**[00:16:50] Speaker 1:** En cierto aspecto, hay dos aspectos. Sí, hay dos aspectos. Abarra Ba es Kilu ya fue con Arat Panim. Yubo Kilui dashem? Sí, ya es, ya, ya hubo Yabu Kilui, pero Bemette la Abarra Ba. Entonces el SAD de no decir Abarra Ba, es Kivahol, que si dices Abarra Ba, lo estás limitando. Estás Kivahol diciendo. Wow, era mucho. Estoy viendo que era mucho más de lo que pensé. Es verdad. Es verdad que no tenías la zaga para la asig.
+
+**[00:17:22] Speaker 1:** Ayer. Afiló el rabba? Sí? Pero es verdad que tampoco tienes la arga de la asig el rabba de mañana. Sí? Estamos increíble. Los lichonot, los gematriot, ahabah, jad, rabbah, or, o lame, elem.
+
+**[00:17:38] Speaker 2:** Cuáles serán? Eh. Ahabbah. Vente, león.
+
+**[00:17:54] Speaker 2:** Entonces, ¿qué estabas diciendo? Qué Ava es este? Así dijiste?
+
+**[00:17:58] Speaker 1:** Eh? Ah, las Pensajim, sí, Pensajim la trajimos ahorita para verla.
+
+**[00:18:14] Speaker 2:** Ava Es es que. Or?
+
+**[00:18:16] Speaker 1:** Es Or y Olam S.L. Entonces yo quiero ver la llamada, Me gustaría que todos tengamos. Venderla conmigo. Acá esta, hermana. Que si se dice “avarrabá” o se dice “avatolam”. Entonces, te lo digo en una palabra. Cuál es el tema? Si dice “avarrabá” ¿mucho amor o un amor eterno? Qué cambia? Entonces se ve como que siempre se decía “abatolam” y estos cambios dijeron “no hay que decir “avarrabá”.
+
+**[00:18:50] Speaker 1:** Ahora, Qué hacemos nosotros? Nosotros decimos tanto en la mañana, tarde a la noche en Abatolam. Pues Ashkenazi dicen en la noche Abatolam y en la mañana Abarapa. Entonces estamos explicando el porqué de eso. Entonces el porqué es así. Abatolam, no amor eterno. Cuando yo digo Hashem siempre nos quiere. Hashem siempre te quiere. Entonces, ¿estás hablando de una persona que está en oscuridad o está en luz? No, luz.
+
+**[00:19:19] Speaker 3:** Siempre te quiere, Si?
+
+**[00:19:21] Speaker 1:** Si tiene la necesidad de decir que siempre te quiere.
+
+**[00:19:25] Speaker 3:** Ajá, no, oscuridad.
+
+**[00:19:26] Speaker 1:** Quieres decir. Te lo está como recordando. Exactamente. O sea, ¿qué quiere decir? Que es, aún siendo que yo no lo veo, el hecho que es a Abatolam, no es que no me quiere, yo no lo veo. Cuando, ¿qué significa rabba? Mucho. Cuando yo digo mucho, entonces, ahí, ¿qué estás diciendo? Que ya se manifestó. Y digo, es mucho más de lo que yo pensaba. Entonces los que nadie me dicen, en la noche dicen Abatola. Cuando hay oscuridad, dicen.
+
+**[00:19:57] Speaker 1:** Aunque yo no lo veo, estoy seguro que Ashe me quiere. Y cuando llega la mañana, yo digo, avarrapa, ¿qué significa Avarrapa?
+
+**[00:20:02] Speaker 3:** Yo Ya sabía que me querían amar. Estoy haciendo alabanza.
+
+**[00:20:05] Speaker 1:** Es más que eso. Es mucho más de lo que pensaba en la noche. Y sabía que me quiere, estaba seguro de que me quiere, de repente cuando vine. Exactamente. O sea, cuando llega el Mashiaj. Sí? Cuando llega el Mashiaj, va a ser el momento de decir. Abba? Cuál?
+
+**[00:20:25] Speaker 1:** Cuando llega el Mashiaj, vamos a decir Abarrapa. Porque, piénsenlo. Qué es Abarrapa? Todos estamos seguros que va a llegar al Mashiaj va a ser lo mejor? Sí? Pero sabes qué vas a decir? No. Nunca nos imaginamos qué tanto. Me explico? Nunca nos imaginamos que, o sea, todo lo que te puedas imaginar en el Ola Mazen. Pero también ahí es limitado, o cuando ya el Yula ya no es limitado. Eh? No, no, un segundo, ¡su! Sí, badain. Pero también cuando era el Mashiah, ahora, ¿por qué nosotros decimos Ahbatulam?
+
+**[00:20:58] Speaker 1:** Está increíble. O sea, ¿qué quiere decir? Lo que veo es mucho más de lo que yo pensaba cuando pensaba Ahbatulam. Me explico? Ahora. Ahora acá hay un problema en eso. Cuál es el problema en eso? Lo que veo es mucho más de lo que yo pensaba cuando cuando pensé en Albato Olam. Cuál es el problema en eso? Cuál es el problema? Que lo limitaste. Que estás, que estás, que estás pensando y tú piensas que realmente eso.
+
+**[00:21:28] Speaker 3:** Es todo.
+
+**[00:21:29] Speaker 1:** Hay mucho más. Sigue siendo un Abato Olam que va a traer otro Abarrapa que no tiene límite. Entonces el Abato Olam no tiene límite. Entonces por eso nosotros también en el día, durante el día, decimos. Abatolan! Entonces. Es más humilde, aparte.
+
+**[00:21:45] Speaker 3:** Mucho Más humilde el reconocer de cero a Mil Olam, que yo ya sabía, y ya,
+
+**[00:21:54] Speaker 1:** Mucho más. Es mucho más de lo que yo pensaba. Entonces como que dices, ayer yo tenía ya una expectativa. Y yo entiendo en esto, y digo, es más. Es mucho mas humilde el otro. Obata Olam tiene esa humildad de que siempre estas en una en un whatsapp de Vitul. Yo. Es mucho mas. Es mucho mas de lo que yo entiendo. Si eso es lo que habla Romaj donde hace Teshuá sobre la Teshuá.
+
+**[00:22:22] Speaker 1:** Que como uno hace Teshuá, ves la grandeza, ves la grandeza de Hashem, ves lo increíble que es la Torá, ves lo increíble que son amistosos, ves lo grande que es Hashem, lo bueno que es Hashem, y dices, Cómo lo cambié por tonterías? Cómo? Sí. Entonces, ¿cómo dejé? Cómo lo dejé? Cómo lo aproveché? Sí. Ya, ya hiciste Teshuá. Tienes que llegar a un nivel que hagas Teshuá sobre la Teshuá que hiciste. Y ese es el grande del punto. Qué haces en Teshuá? En ese momento, que dije a Barrapá.
+
+**[00:22:53] Speaker 1:** Sí, a Barrapá. O sea, que yo decía, cómo, sabiendo que Ashe es tan grande, me interesaban esas cosas. Cómo lo cambié? Qué tonto! Entonces, ya entendiste, ¿no? Y de repente llegas a un nivel donde entiendes de que lo que entendiste ayer, era entenderías, era entenderías. Y el nivel que llegaste ya te da pena. Ya te da pena el nivel que llegaste. Ahora, la única manera de llegar a cada nivel es haciendo ese error, ¿me explico? Si no, no puedes brincar del 1 al 1000.
+
+**[00:23:24] Speaker 1:** Entonces, entonces, y quedarte nada más en Ensoft. Entonces, pues quiere decir que no, Nunca percibes nada. Entonces siempre como que vas avanzando, pero mientras vas avanzando en una línea eterna, entonces aunque vas avanzando, nunca avanzaste. Si la línea es eterna, imagínate, si el espacio es eterno, a donde estés estás en el centro, no importa donde estés. Pero en relación a donde estaba ayer, estoy más para adelante. En relación a donde estaba ayer, también más adelante.
+
+**[00:23:55] Speaker 1:** Percibo estabas ayer,
+
+**[00:23:56] Speaker 3:** Ya no es eterno, ya no hay un tema de tiempo que lo limite.
+
+**[00:24:00] Speaker 1:** Entonces acá hay algo loco. Abatolam es eterno. Entonces cuando es eterno no puedes decir Rapá. Si es eterno, ¿cómo así, Rapá? Sí, pero digo Rapá porque es más de lo que de lo que vi ayer, es más de lo que vi ayer. Pero tienes que otra vez decir Olam. Entonces los que nací por eso no dicen Rapá en la noche también. Tienes que en la noche decir Olam. O sea, ¿qué quiere decir en la noche? Sí, que otra vez. Porque en la mañana dice rabá, pero está di claro. Y la noche Olam. Y la subes.
+
+**[00:24:31] Speaker 1:** Dijimos que Rabá, esto importa mucho para lo que vamos a ver ahorita en Pezajim.
+
+**[00:24:38] Speaker 1:** Claro, entonces siempre va subiendo de rabá. Siempre el Rabá caminando. Rabá, Rabá,
+
+**[00:24:43] Speaker 2:** Cuando hace solam en la noche.
+
+**[00:24:44] Speaker 1:** Rabá suma en Gimatria. Rabá suma en Gimatria, 207 es or, es luz. Entonces la Rabá es la Ava que se ve con luz. Y Abat Olam es la Aba. Lo puedo decir en otras palabras, es Olam viene de Gelem, es escondido, pero acá es. Sabes por qué en la noche no veías? Porque era tanto que te deslumbraba. O sea, eso era en la noche. Entonces el amor es tan grande que no lo no lo logras percibir todavía.
+
+**[00:25:14] Speaker 1:** Sí, y luego lo que alcanzas a percibir. Bueno, eso es lo que yo alcanzo a percibir. Entonces yo quiero agarrar todas estas palabras, más quiero dos conceptos más. Que son importantes. Uno es, ¿qué está escrito?
+
+**[00:25:28] Speaker 1:** En el Pasuk, ¿Abat Olam o Abarrabá? Pero en Pasuk de la Torá? Sí. Un Pasuk del Nabi. No, el mismo,
+
+**[00:25:36] Speaker 3:** Pero que habla de. Pero de ahí tomaron para hacer la tefila o?
+
+**[00:25:40] Speaker 1:** Sí. Y entonces,
+
+**[00:25:41] Speaker 3:** Qué está escrito? Cómo sabes tú eso?
+
+**[00:25:44] Speaker 1:** La Mora dice acá. Babat Olamtij, Vehenu Omeria, así es el Pasuk, ¿Qué está escrito? Olam.
+
+**[00:25:53] Speaker 1:** Ahora, ¿de dónde es Rapá? Porque nosotros no podemos vivir nada más en el mundo de Olam. Me explico? No puedes vivir nada más en el mundo de Olam. Rapá es. Bueno, pero al final algo yo sí percibo. Yo que sí estoy limitado, sí le llamo que hay más que ayer. Entonces, yo que vivo en el mundo de los límites, sí veo más que ayer. Sí veo más de lo que veía ayer. Yo sé que sí lo vería desde la visión de Akadosh Barujú, Que es en soft, que no tiene límites.
+
+**[00:26:24] Speaker 1:** Entonces, entonces realmente a lo mejor lo correcto siempre debe decir Olam, que es un es una abba sin límites. Sí, sin límites. Pero yo desde mi, desde mi lugar, yo digo rapa. Sí me explico? Ahora, por otro lado, cuando dices rapa, estás limitando. Entonces ahí es, ahí es la majloket, pero por otro lado, tú sí necesitas decir que te gustó el vaivén.
+
+**[00:26:50] Speaker 3:** Por eso estamos los que nací,
+
+**[00:26:51] Speaker 2:** Es lo que digo. Así rapa y volando, o sea, no solamente que es noche y días tan caja, sino que para ir caminando en el Masur, que estamos diciendo a la fuerza tienes que tener rapa o la rapa, y es la forma de cómo se camina. Si no caminas así, no se camina. Lo que sigue. Tú nunca vas a llegar, porque no sabes ser la caída, entonces nunca se llega.
+
+**[00:27:17] Speaker 1:** Sí, eso es todo. Entonces, fue el video que te mandé ayer. La pregunta no es para los Ashkenazim, la pregunta es para nosotros, ¿por qué decir un olam todo el tiempo? La pregunta no es para los Ashkenazim, porque dicen. Olam y rapa, para nosotros, ¿por qué todo el tiempo decir un olam? Oh, hay que entender.
+
+**[00:27:41] Speaker 1:** No, no. Vamos a verlo.
+
+**[00:27:45] Speaker 1:** Entonces debería de ser. A ver, ¿qué otra cosa? Qué otra cosa está escrita de una manera y se dice de otra manera? Los dos nombres de Hashem. Yud-ke-Vav-kei es el que está escrito. Adnut Adnut es el que se dice. Es el que. Entonces cuando yo digo el nombre Adnut es el que yo veo. El que yo lo percibí. Cuando digo Yud-ke-Vav-kei es. Que no tengo asaga. Rebasa completamente mi asaga.
+
+**[00:28:15] Speaker 1:** Quién, al parecer, vamos a llamarle así, Quién, al parecer, dice, está diciendo lo que no se dice? No, al Revés. No, sí, no. “Abato Olam” es el que está escrito. “Olam es Nitzhi” Sí, “Olam es Nitzhi” es “Yavaya o Bbiye” Y “Abarraba esquiviahol” es cuando la luz de Shemabaya meirin Adnut. Iluminan el mundo. Sí, iluminan el mundo. Yo digo, “Wow, es mucho más”.
+
+**[00:28:47] Speaker 1:** Es mucho más de lo que yo ayer me podía imaginar. Sí, esto es cuando ya se logra a percibir, se logra percibir en el mundo. Sí, estamos también dijo que estamos claros con eso. Muy bien, oh, entonces acá sí, te entendí.
+
+**[00:29:04] Speaker 1:** Por qué nosotros decimos Abatola? Por qué nosotros sí decimos Abatola? Así como le está haciendo a Xela. Sí, Abatola. Qué? Así como decimos Abaya. Entonces tampoco podemos decir Olam. Exactamente. Pues cuando yo digo Olam, dice Gabriel, estoy diciendo, es una Aba que entiendo, que no la entiendo. Que entiendo que es mucho más. Qué más qué? Es entender. Ya no,
+
+**[00:29:28] Speaker 2:** Ahí no puedes decir,
+
+**[00:29:30] Speaker 1:** Entiendo que. Entonces acá la bajo, ¿quién está? Quién se está equivocando en decir "Yud-ke-Vav-kei"? Me explico? El que dice "rapa" dice, no está bien decir "olam" porque si dices "olam" estás diciendo "yo entiendo que es un amor eterno". Sí? Yo entiendo que es un amor eterno. Entonces yo al revés, estoy diciendo "rapa" digo, estoy viendo mucho, yo sé que no, el mucho, yo sé, estoy reconociendo mis límites diciendo la palabra "mucho" y no diciendo la palabra "eterno".
+
+**[00:30:01] Speaker 1:** Pero si dices "olam" por, Por otro lado, entonces la otra ciudad te dice: "Al revés, si me dices que sí ves, es como estás diciendo, estoy viendo la luz". Entonces es como si estás diciendo Yud-ke-Vav-kei. Entonces, entonces, ¿qué hay que decir? Olam! ¿Pero cómo Olam? No, al revés, cuando digo eterno, estoy diciendo que no entiendo, estoy diciendo Emuná, estoy diciendo algo que rebasa mis límites. Por eso dije, dije Olam, y entonces ahí, según eso, es Lamakhlocket, si se dice Abarraba o Abato Olam, si es.
+
+**[00:30:33] Speaker 1:** Como dijiste, "Olam es aznut" y "Rapa es zafaya", o al revés, "Rapa es aznut" y "Olam es abaya". Estamos claros? Entonces, vamos a darle hermano Psajin, dice así.
+
+**[00:30:48] Speaker 1:** Dice "Sajin dafnun".
+
+**[00:30:52] Speaker 1:** "Al buenísma es, es. Nuna Mudales? Nuna Mudales. Ya te la acuerdas? A poco tan?
+
+**[00:31:01] Speaker 4:** Están parados que su broma no hay su broma ¿Qué dijiste que mandaste? Dónde mandaste? De color? Sí. Hoy no. Hoy? Hoy hay. Ah entonces aquí no se descargó yo Creo.
+
+**[00:31:23] Speaker 2:** Estoy buscando pero no la vi.
+
+**[00:31:31] Speaker 1:** Vean, quiero ver un poquito más arriba. Ahí hay el primer pasuk en el tercer renglón. Vaya. Sí. Vaya, Bayou Mau. Cuando llegue el Mashiaj.
+
+**[00:31:45] Speaker 1:** Estoy hasta arriba ahorita. Ahorita nos brincamos a la que ustedes están.
+
+**[00:31:50] Speaker 3:** Eh?
+
+**[00:31:51] Speaker 1:** No, un amud Aleph hasta arriba. Vaya Bayou Mau.
+
+**[00:31:55] Speaker 1:** Cuando llega el Mashiaj dice: Lo ie or iekharot veki paon, la luz ya no va a ser la luz algo muy yakar, ¿Qué es yakar? Difícil de conseguir, muy valioso veki paon, dice, dice,
+
+**[00:32:20] Speaker 1:** Dice Maiekharot veki paon, ama rabiel azar, zeor es la luz, sheyakar bao lama ze, ve. Mekafu y luego Lama Ba. Es la luz que en este mundo parece oscuridad, porque es, o sea, es muy difícil de conseguirlo, y en el Olamaba va a ser kipa-on. Kipa-on significa algo que flota. Ah, ese es kipa-on. Sí, como congelado. No, es de que flota. Entonces, si yo pongo en el agua algo muy pesado, se hunde, se pone una pelota.
+
+**[00:32:54] Speaker 1:** Entonces todas las cosas que eran muy pesadas en el Olamaze, En el Olamaba esas cosas van a ser van a flotar significa que el Olamaze y el Olamaba son al revés lo que parece oscuridad en el Olamaze, quiere decir una situación difícil, entonces no ves la luz aquí en el Olamaze, en el Olamaba esa es la luz, esa es la luz, Vatsmah. Es un paso más que siempre,
+
+**[00:33:19] Speaker 2:** Es como que encontrar a luz de ahí. Claro, si pones en la veginidad de Olamaba esa es la luz,
+
+**[00:33:26] Speaker 1:** Esa es la luz, Esa misma es la luz. Entonces, qué o sea, que.
+
+**[00:33:35] Speaker 3:** En el lamaba una dificultad, sea la o sea,
+
+**[00:33:37] Speaker 1:** Entiendo que en esta es como que el esfuerzo que hiciste en es lo que dijimos acá, que la en la oscuridad no es una fuerza por sí sola. Cuando tú ves la oscuridad por fuerza por sí sola, entonces te rindes. Le rindes a la oscuridad. Pero si dices la oscuridad no es nada, sino la oscuridad realmente es luz que no he logrado ver. Esa es la esencia de la oscuridad. Entonces, nunca cuando todavía no ves la luz, dices "Ya, la oscuridad ganó, la oscuridad ganó".
+
+**[00:34:13] Speaker 1:** Dices "No, realmente es luz, realmente es luz". Y entonces te esperas, te aguantas, no sacas ninguna conclusión. "Ah, no me quiere, no está". No sacas ninguna conclusión, sino esperas con Emuná, lo aguantas, Porque los curanos no tienen ninguna fuerza por sí mismos.
+
+**[00:34:27] Speaker 4:** No, pues es jaimín Isurim. Sí. O sea, como. Sí, sí, sí. Aquí los odias, pero allá los vas a adorar. Sí. No, pero como es lo que diciendo va a ir Isurim.
+
+**[00:34:39] Speaker 1:** No, No. No, los Isurim que son Isurim en la Olamaba es Sahar. Es que se voltea.
+
+**[00:34:46] Speaker 4:** Hace mucho grabadas y nos dijo una historia, así que un señor sufría, sufría y voy allá arriba y todo el pago del sufrimiento. Y me hubieras dado más, estás llorando. Eso es lo que fue lo tan. O sea,
+
+**[00:34:58] Speaker 1:** Tú allá eso va a decir. Wow! Dice el un negaim baolot. Las subiot más difíciles. Cuáles son? Negaim baolot. De qué tratan? Tuma. Sí, de tuma fuerte, o de los muertos, que no hay más oscuridad que un muerto, o del metzora, que es como un muerto. Entonces, Esa Torá es la más difícil porque está hablando, es la Torá de la oscuridad.
+
+**[00:35:28] Speaker 1:** Entonces esas masajadas que son las más difíciles, "Sheiyekarinen Baoola Maze" uqfuiinen laulama Bah en el Olamaba va a haber mucha claridad hacia eso. Dice: "El Upne Adam Sheiyekarinen Baoola Maze, uqfuiinen laulama Bah" dice son la gente que en este mundo tú no logras ver su luz y en este mundo parecen gente, Que los desprecian, gente no muy especial, vamos a llamarle así, pero en el Olamaba son, puede ser en general, en general, muy en general, Tlape los goyim es amizra’il, que los goyim nos desprecian y no ven nuestra luz y cuando sea el Olamaba se va a revelar la luz y puede ser Tzadikim que la gente no nunca los valoró, nunca los apreció, puede ser un.
+
+**[00:36:22] Speaker 1:** O gente pasut que a lo mejor no da clases y no hace así, pero pasut en su casa y esto se esfuerza. Gente, ahí vas a vas a 1000, ves un viejito, vas a 1000 o a ponivich con los jazonis, ves a un viejito de 82 años, o sea, tipo sigue cambiando Jabrutot. Desde los 22 años, tipo que lleva ahí llegando, y sigue pasando de maseje, y llega el primer día a ver con quién vas, ¿me explico?
+
+**[00:37:04] Speaker 1:** Entonces son gente que va a Olamaze, no ve su luz, y en el Olamaze va, van a tener muchísima luz. Dice: Kyada Rabioyzef, Breider Rabioyzuavenleivy, como Rabioyzef, el nombre de Rabioyzuavenleivy, Jalas, se enfermó muchísimo, Bitnagi. Se murió. "Ki Adan" y regresó. Sí? "Jalas Vitnaki" se murió y regresó. Dice "Ki Adan" regresó aquí al mundo. A Marley, a Bua, le dijo su papá, "Mayhazit".
+
+**[00:37:37] Speaker 4:** Ay, ay, ay.
+
+**[00:37:38] Speaker 1:** A Marley, Olam. A Fukraiti. Sí, Olam. Acuérdense de la palabra, Olam. A Fukraiti, veo un mundo al revés. Qué quiere decir? Que lo que ve es oscuridad acá es luz allá. Lo que es luz acá es oscuridad allá. Olamafukraiti. Elyonim le mata taktonim le mala. Dice, “Todos los que aquí arriba estaban arriba, están abajo allá. Los que están aquí abajo están arriba allá”. Dice “Amarlou, vni, olam barur raita”. Ahí viste el emet. Dice, “Veanan eihiatam”, dice, “¿Y nosotros cómo estamos allá?
+
+**[00:38:12] Speaker 1:** Porque Rabishwam Leifi era un Talmid Hajam que sí reconocido.
+
+**[00:38:18] Speaker 1:** Sí, reconocido, dice "Kieihi deitu anan haha", dice "Igual que acá". Tú existe vivir en el Olamaze, en el emet. Por qué? Porque Rabiushuaben Levi, sí, sí, como Rabiushuaben Levi, porque Rabiushuaben Levi, sí, Kanire, Lo que veía la gente a lo que realmente era, era años luz, no lo que veía la gente de él, verdad, y lo que de verdad era, era años luz, rapa.
+
+**[00:38:57] Speaker 1:** Entonces. Sí, sí, sí. Entonces quiere decir que él, lo que lo que sí se ve en el Olamaze. Sí, es Kalek. Entonces el Olamaba nosotros. No es en vez del Olamaba. Es tanto. Es tanto, que ves un poquito.
+
+**[00:39:11] Speaker 3:** Es una locura. Sí. No puede ser de Briá? Estás viendo de la Briá, tipo como debe ser su esencia?
+
+**[00:39:18] Speaker 4:** Sí, puede ser.
+
+**[00:39:25] Speaker 1:** Beshamati Shayom Brim. Y escuché ahí en el chamán que decían: "Ashrei mi se bale kambe talmudo beyado". Sí, bienaventurado es el que viene aquí y se trae lo que estudió en su mano. Y escuché ahí que decían: "Aruguéi maljúten adam viajó la amodbe mehitzatam". Sí, los que mató el los goyim, no hay quien pueda estar en su en su dargán, en el olamaba. Otra vez, acá en el Olamaze es una muerte muy trágica, es una muerte muy fea.
+
+**[00:40:00] Speaker 1:** Y en el Olamaba es, no hay alguien que este en su nivel de ellos. Se refiere a que usas eh? Si, no, los que murieron porque los mato el Maljut. Puede ser a filo de los del 7 de octubre. Si yo también. Pregunta la emarada, la emarada pensó lo mismo que ustedes. Umaninu, ¿quienes son? Si me vas a decir que es. Están conmigo o no? Sí. Dice, si me vas a decir que es Rabbi Akiva. Dice, ¿qué? Rabbi Akiva. Lo que dice es que nadie puede la voz me mijitzató es porque lo mataron.
+
+**[00:40:34] Speaker 1:** No, Rabbi Akiva. Nadie puede la voz me mijitzató, porque nadie puede la voz me mijitzató. Sí. Mish. Ilema Rabbi Kiva Jabra, mi sumarugain, Maljut, vetuló. Nada más porque los mataron y no por otra cosa. Ella, Arugai Lud. Aquí no estamos hablando de los que mataron el Lud, que eran gente Psutim, Zahu, que los maten por Kidus Hashem. Y entonces otra vez aquí vemos como el tema de la oscuridad y la luz realmente que ellos, o sea eso es algo muy oscuro pero en el Shamai era mucha luz.
+
+**[00:41:08] Speaker 1:** Ahora sí me voy a brincar hasta abajo.
+
+**[00:41:09] Speaker 2:** Quién Eran ellos dos?
+
+**[00:41:11] Speaker 1:** Quiénes eran? Papuz de Shneh Himayu, Shemasu Tzman al Israel, Shodu al Atzman, Arigat bat meleg, shayu metilimu ta, alcohol Israel. Eran, el rey quería, mando a matar porque iba a matar a los yudim porque estaban. Sí, sí, sí. No trae el nombre. Ahí dijo, ¿quién dijo popos?
+
+**[00:41:37] Speaker 2:** Papus De la azul. Papus belulyanus.
+
+**[00:41:44] Speaker 1:** Compraste la de la pantalla? No, en Sefaria. Ah, el viur de. Entonces el rey iba a matar a los de Uddim porque estaban acusando a los de Uddim que mataron a la hija del rey. Entonces iba a matar a todos. Entonces agarraron este Papus y Lulianus dijeron fuimos nosotros, los mataron a ellos y se salvó.
+
+**[00:42:04] Speaker 4:** El Papus de Barimettelin. La Mara está diciendo que es un nivel altísimo. Hay que entender cómo se va de la mano. Lo que hace te explicar es que Papus, Piensa eso. Ni él piensa, ni él. Tú dices que no ves al Zariqi Makki, ni el Zariq mismo. Ni él mismo, Dios! Eso es lo que acaba de decir. Lo que acabo de decir ahorita de los Metin que tuvimos estas dos semanas. Así dije. Tú no puedes ver el SAR completo de un Zariq nunca, porque tiene mil cosas que nadie sabe.
+
+**[00:42:38] Speaker 4:** Y él mismo tampoco sabe. Él mismo tampoco sabe. Me puedes explicar así? Qué me vas a decir?
+
+**[00:42:45] Speaker 1:** Sí, sí, sí. Entonces ya contestaste las tiras. Hoy lo le papus, es él, lo hizo.
+
+**[00:42:52] Speaker 1:** Tiene la llamada hasta abajo? El no se mide tampoco. Tiene la llamada abajo? Eso se le dice nada que quiere tirarnos, que no lo mira mucho. No, no. Fíjense acá, algo muy interesante, nuestra llamada cómo empezó, Baia, Baio Mau. Entonces quiere decir que es de alguna manera hay un paralelo entre las 2 son lo que vale Itgalot, Bayomau.
+
+**[00:43:25] Speaker 1:** Entonces dice, dice ese día va a ser Hashem uno y su nombre va a ser uno.
+
+**[00:43:36] Speaker 1:** Dice Atua itna, la abejadu, que acaso hoy en día no es uno, dice Amarrabiyaha barjanina. Lo que olamaze a olamabam a olamaze al besoro tobotomer baruja toba metí. Sobre las cosas buenas decimos atoba metí. P alvesoro traotomer baruja Dayana Emet. Le olamaba culó a toba metí. Tanto sobre lo malo del olamaze. Tanto sobre lo bueno, vamos a decir a toba metí. Esto obviamente es paralelo a lo que vimos en la llamada arriba, que las cosas que parecían oscuridad en el olamaze van a ser mucha luz en el olamaba.
+
+**[00:44:16] Speaker 1:** Entonces, por eso en el Olamaze no decimos Hashemejad no se nota en el Olamaze, sino va hablaba, vamos a ver que Hashemejad, porque qué es Hashemejad, según lo que vimos en la llamada aquí arriba, que la noche se dice el día, el día se dice la noche que dijimos que esa es la explicación de que Hashemejad es que realmente también la oscuridad, todo es una expresión de luz de Hashem nada es que no la ves y Hashem quiere que no te rindas en el camino. Entonces, entonces eso es realmente Hashemeja.
+
+**[00:44:48] Speaker 1:** Fíjense, es impresionante que es Mamash. El mismo concepto Hashemeja. Y acá también es sobre las raot, como dijimos la subida arriba, sobre Bore Ra, que no se dice Bore Ra. Entonces dice.
+
+**[00:45:03] Speaker 1:** Ahora, fíjense algo increíble. Sile Olamaba, piénsenlo, en el Olamaba, vamos a decir retroactivamente también sobre lo malo del Olamaze. Atov Vehametib. Entonces quiere decir que el Atov Vehametib de los olamaze tampoco es tan real. Porque tú estás diciendo, ¿por qué dices Atov Vehametib? Porque este es el opuesto de lo malo. Claro, es yo digo, oh, me pasó algo increíble, porque es increíble, porque es al revés de lo malo.
+
+**[00:45:34] Speaker 1:** Pero si en el olamaba no va a tener distinción entre lo bueno y lo malo, entonces quiere decir que apilo lo bueno de los olamaze. No estás logrando ver lo tan bueno que es realmente. Entonces por qué hiciste a tu a mi tío? Eh? Tendría que ser que me lo diga. No, porque a irle jampanim. Qué ves? Un poco es para ti. Sí, pero es para ti. Tú vives en el tiempo,
+
+**[00:45:57] Speaker 3:** Tú vives.
+
+**[00:45:58] Speaker 2:** Claro, Vives en el tiempo. Pero a lo mejor debería ser otra, otra vez. Sí, todo el tiempo, no en rabá. Sí, pero así como, así como ya, como decimos. Y una verajada que cambia, entre la toda perfectamente. No, es la misma la que va a hacer después. Qué? Baruja todo Valentín se dice cuando va a ir al Olamaze. Por qué cuando hay algo bueno de Olamaze también le dices la misma? Que es lo mismo. Más no lo entiendes tú, pero es lo mismo. No, pero otra vez. Según salpica muy guau. Es un buen vino, un buen vino, ahí la otra vez nomás lo guau.
+
+**[00:46:29] Speaker 1:** No, no. Sí, no, es que no sabes qué tanto.
+
+**[00:46:33] Speaker 1:** O sea, la emarala al final sí se va a a. Dice. Al besoro Tobot.
+
+**[00:46:42] Speaker 2:** Buenas noches. A ver, Dadi.
+
+**[00:46:50] Speaker 1:** Usumo ejad y el nombre de Hashem va a ser uno en el Olamaba. Pregunta la emara. Mayejad. Qué significa que el nombre de Hashem va a ser uno? Qué hagas hoy en día no es no tiene un nombre? Dice en el olamaze escribe Abaya. Venicra y se lee y se lee Adnut. En el olamaba.
+
+**[00:47:21] Speaker 1:** Sí. Se va a también decir Yudke Vavke. Nikrabi Yudkei. Dice, escuchan estas palabras, dice: Raba quería decir una Derasha de esto en fuerte. Quería dar una Derasha a todo el público sobre este tema, que Luke Olamasdei, que el nombre Yudke Vavke y el nombre Adnut, dice: Amarleau Saba, le dijo un Saba, le dijo: Lealamktiv, dice, el Pasuk dice cuando habla sobre Shema Baya, dice: Deshmile Olam.
+
+**[00:48:00] Speaker 1:** Pero dice Leolam Sinvav. Entonces Leolam Sinvav, ¿qué es Leolam? Elem! Quiere decir que el nombra, vaya, en el Olamaze, lo tienes que esconder. Ese “Elem” dice. Dónde está ese Pasuk? En Zemot, cuando Assem, Mosé le dijo a Assem, ¿cuál es tu nombre? Entonces le dijo, mi nombre es Yud Kebab, ¿ok? Deshmi Leolam, este es mi nombre eternamente. Cuándo, cómo dice Leolam Sinvav? Qué significa Olam Sinvav? Olam Konvav es eterno.
+
+**[00:48:30] Speaker 1:** Alá Olam Simbab está escondido. Entonces le dijo, lo regañó el Sabba, lo regañó a Raba diciéndole Alam, que es que hay que esconderlo, dice, dice Rabina Rame, preguntó Rabina, Ktim está escrito. Este es mi nombre para siempre y este es mi recuerdo generación tras generación. Dice “amara kawsbaruhu, lokesha ni niktabani nikra” Dice “niktabe yutkei be nikra ni balev daled” ¿Qué es?
+
+**[00:49:01] Speaker 1:** Zihrii ¿Qué es? De acuerdo. Y qué es? Qué nombre es? Alev daled. Adnut, porque es de Zihri ledor vador. Y deshmi leolam Es, Yutke vavkei. Zihri ledor vador es el nombre Adnut. Entonces, primero que nada aquí vemos Mefuraj, Yud-Ke-Vav-Kei es “Alam”. Estamos hablando en nuestra llamarada que decimos “Abat Olam” y el problema con Abat Olam es que es muy grande para nosotros y todo lo que sí te permite decir “Olam” es porque, es que dijimos, “Porque no estás diciendo Yud-Ke-Vav-Kei, porque estás diciendo “Olam”, pero “Olam es “Elem”.
+
+**[00:49:46] Speaker 1:** Estoy escondiendo, o sea que es mejor decir que hay tanto amor que, Porque prefiero no decirlo porque es tanto, y reconozco que está escondido, o decirlo.
+
+**[00:49:58] Speaker 2:** Exactamente.
+
+**[00:50:00] Speaker 1:** Entonces, acá la diferencia entre Atov Vehametib y Abat Olam es que Atov Vehametib es cuando yo percibí algo bueno que me pasó. Este batalla es bueno, y tienes que agradecer a Kabadou Hu, porque a Kabadou Hu, cuando te tocó algo bueno, claro que quieren que le agradezcas. No, pero como hay más, no te voy a agradecer. No, al revés, es la manera en cómo lo vamos construyendo. Por acá no estás hablando de algo específico, sino que estás hablando del amor en sí. "Abba Tolam Betty será la maja afta" No estés hablando de algo que te pasó.
+
+**[00:50:31] Speaker 1:** Estás agradeciendo, ¿sabes de qué? Es como un concepto de amor. Del hecho que nos dio la Torá. El hecho que nos dio la Torá, esa es la expresión de amor más grande que pueda haber. Entonces, es como si diría la llamara. No, de la Torá no digas a todo, ve a meti. Es mejor decir de la Torá de Alam, quiere decir, ¿me explico? Porque si dices Rabbah. De la Torá, de la Torá, diabbatolam.
+
+**[00:51:03] Speaker 1:** El otro dice no, diabba, porque en Rabbah mismo estás también diciendo que no, que, que también cuando dices Rabbah dices es mucho, quiere decir que ese mucho es parte de un. Es calculable, eso es limitado, pero también estás diciendo, es lo que yo puedo en mi mundo, en mi percepción lo veo como mucho, aunque en su esencia es mucho más que eso. O sea, por eso en la noche se dice Abat Olam.
+
+**[00:51:33] Speaker 1:** Entonces esa es la idea un poquito acá con.
+
+**[00:51:37] Speaker 1:** Con las dos Gemarot, la relación.
+
+**[00:51:40] Speaker 4:** Con la Torá con la Torá. Hasta ahorita tuviste que la Torá es gigante. Lo que dicen los matismo con la Torá. Pero es en Sofí. Si dices es mucho,
+
+**[00:51:54] Speaker 1:** No dices que no es todo. Bueno, sí, bueno, por eso. Sí, ya explicamos que los dos, los dos tradimatimim, sí. Los tradimatimim, que dices que es mucho más de lo que yo pensé.
+
+**[00:52:06] Speaker 4:** Incluso otra vez has dejado de tolar en la noche,
+
+**[00:52:08] Speaker 1:** Porque yo sé que siempre voy a seguir diciendo que es mucho más de lo que yo pensé.
+
+**[00:52:13] Speaker 4:** Pero En la mañana aprecias, ¿no? O sea, como que raspada aprecia.
+
+**[00:52:17] Speaker 1:** Entonces sí, eso es que aprecies. La Shela es apreciar sobre cosas de lo "olamaze". A eso sí podemos apreciar. Pero cuando ya estás hablando de la "ava" en sí y de la Torá en sí, esa es la "majlocket". Si vale la pena decir que aprecias, o siempre dejarlo en nivel o "olamaba". Sí me explico? Siempre lo dejamos en nivel o "olamaba". O también lo bajamos también a nivel o "olamaze". Esa es la "majlocket". Entre las dos. Que sí baja,
+
+**[00:52:47] Speaker 2:** Tenemos nishta de Shelenta, lo que nosotros entendemos la Torá.
+
+**[00:52:50] Speaker 1:** Seguro, pero cuando ya vas ahorita a decir una berajá sobre la Maala y la Bata Shem de eso, Ulay cuando llegas un tzat, ya te voy a metir, cuando entiendas, ¿me explico? Cuando entiendas algo en Torá, ya te voy a metir, pero cuando vas a hablar de la esencia de la Torá, de la esencia del amor de Hashem hacia nosotros, ahí dice no lo bajes, di lo que dije, dilo como está escrito. Creo como está escrito.
+
+**[00:53:16] Speaker 1:** Dice, eso es lo que va a hacer que entiendas la Torá. Entiendes que es tan grande, tanto tiene límites. Entonces sí, va a haber mucho. Ahorita vas a entender esto, ahorita vas a entender esto. Pero acá estás diciendo la berajá, no sobre una más eje, sobre todo, sobre, sobre todo el amor de Hashem, al darnos la Torá. Entonces ahí dice, dice Rapaná, dice, no, di, ¿Pero cómo vas a decir?
+
+**[00:53:43] Speaker 1:** No? Gelem! Entiendo que aquí hay algo mucho más de lo que yo puedo percibir y entender. Y muy pele. Digo, ya no me quiero así. Tania, el Tania. Ah, hay que ver el Tania. A ver si va de la mano con lo que estamos diciendo. A ver, ¿alguien tiene para buscar dónde el Tania habla de los dos Abot? Tenemos Tania aquí? Según yo, es Perek, Me Male, por ahí, o Perek, Perek.
+
+**[00:54:09] Speaker 4:** Pero el Maraj ya no lo veo. Ya lo vimos.
+
+**[00:54:12] Speaker 1:** Ah, Nada más muy pele. Vean algo increíble, el Maral de ayer, fíjense, el que vimos ayer habla de la llamada de arriba, de Borerra, Emetro Yazil, Emuna Emetro Yazil, más adelante. Habla de Midat Yo, Midat Laila, habla de Abarrabá y Abatolam. Y cuál es la siguiente llamada que explica el Maral? La de Psajin. Ah, sí. No lo vimos. La siguiente la siguiente que explicó el mara los justo la saqué.
+
+**[00:54:43] Speaker 1:** Para ver ahorita quiero ver el Tania. Pero ¿Qué le ponemos el Tania? En el me male. Me male sí era? Checa. No, no, no. Ah. Que sea cheque.
+
+**[00:54:51] Speaker 4:** Ya lo tienes?
+
+**[00:54:51] Speaker 1:** No, esto es otra cosa. Me malefera.
+
+**[00:54:54] Speaker 4:** Pero ¿Qué quieres buscar? Le pongo aquí ¿Qué.
+
+**[00:54:59] Speaker 2:** Quieres buscar?
+
+**[00:55:02] Speaker 2:** Porque maduras.
+
+**[00:55:13] Speaker 1:** Es Que acá.
+
+**[00:55:16] Speaker 4:** Está hablando de 2 largo de Ira.
+
+**[00:55:20] Speaker 1:** Me gusta, ya me convenció nada como las señales. No, no, no, el Tania es un independiente. Los dos conceptos de Abarrapa y Abatolan. Gabriel, pues, preguntarle al GPT donde el Tania habla de Abatolam y Abarrapa. Yo acá lo busco. Es la Sona.
+
+**[00:55:40] Speaker 2:** S Abarra y Abatolam?
+
+**[00:55:42] Speaker 1:** Ah, sí, él lo usa mucho.
+
+**[00:55:44] Speaker 2:** A ver, yo.
+
+**[00:55:46] Speaker 4:** Cómo En sefaria cómo? Cómo puedo buscar?
+
+**[00:55:54] Speaker 1:** No, estás estás en Suhana.
+
+**[00:55:57] Speaker 3:** Directo, Pero se equivocan,
+
+**[00:56:01] Speaker 1:** Pero sí.
+
+**[00:56:03] Speaker 2:** Ahí está. Ya lo tienen? Tania Liquita Marín, siete diez. Ah. Esa? Acá lo tengo. Dónde está?
+
+**[00:56:19] Speaker 1:** A ver, o Tania Pereg Mendale o.
+
+**[00:56:23] Speaker 1:** O dónde?
+
+**[00:56:25] Speaker 2:** Si Empieza el pereg.
+
+**[00:56:27] Speaker 1:** Ah entonces vamos a dar.
+
+**[00:56:30] Speaker 2:** El pereg.
+
+**[00:56:30] Speaker 4:** Amarim dijiste?
+
+**[00:56:33] Speaker 1:** Tania, Likutta Amarim es Tania.
+
+**[00:56:36] Speaker 4:** No, Yo lo busqué en el. 43 libros. No, tú dijiste, no? A ver, ya sé.
+
+**[00:56:45] Speaker 1:** Y acá no lo buscan. Vine a ir a. Qué perek dijeron Memzain o Mem Dalet?
+
+**[00:56:51] Speaker 1:** Mem Gimmel.
+
+**[00:56:52] Speaker 2:** Seguro ya lo va a ver más rápido.
+
+**[00:56:55] Speaker 1:** Ya, ya, ya, aquí en Mem Dalet, Mamage habla mi vet Madregotelu ahora quiero ver si en Mem Gimmel mismo lo habla o o lo ha. Lo básico. Lo básico,
+
+**[00:57:08] Speaker 2:** Lo que le dicen es lo básico. Es el.
+
+**[00:57:11] Speaker 1:** Meme del Gimmel habla de dos niveles de ir a. Por ejemplo Maduro. Y luego dice que son paralelas.
+
+**[00:57:19] Speaker 1:** Sí, entonces vamos a ver Mem Gimmel. Vamos Mem Gimmel que habla de dos niveles de Ira y se pasa a dos niveles de Abba, pero necesitamos fluir en lo que estamos leyendo para llegar a Abba. Va a empezar en Irak.
+
+**[00:57:30] Speaker 4:** Dale, dale, dale a la carreta.
+
+**[00:57:32] Speaker 1:** Vine, Al ir atatazo. Entonces hay un nivel de Irak que se llama Iratatá. Iratatá es pashut temor a Ashem a cumplir las mitzvot. Las mitzot de la Torá como son, porque Pashut dijo no sin ningún dice, vine, si no tienes esta ira, no tienes jojma, es que hay, dice, si no hay ira, no hay jojma, y si no hay jojma, no hay ira.
+
+**[00:58:03] Speaker 1:** Entonces, ¿cómo puedo tener una de las 2:00? Entonces está diciendo que hay 2 niveles de ira y entonces para. Para llegar al nivel básico de Hogman, necesitas el nivel básico de ira y cuando llegas a Hogman, sí, entonces llegas al nivel alto de ira, sí, entonces llegas al nivel alto de ira, dice, dice.
+
+**[00:58:41] Speaker 1:** Vehén es el salud, como la mot de mala maladrum, mamalot, falpiquen y crairas, do ira hit so nit betata. Me hashin im sahet ma olamut, chem le bushim se la mela, chem le bushim se la mela, que dos berojus, ashem hitatarium mi talem, tlapes, bahem la hayotam le caimam, liot diez maim, rakshei, ashar va a petak leu ik leu mataram. Dice el nivel bajo de Ira es ver, tú ves, cuando tú ves, ves un mundo, nada más que ves, wow, ves que un mundo increíble tan hizo Hashem. Ve como Hashem le está dando vida a todo el mundo, ve todas las cosas impresionantes que hay en el mundo.
+
+**[00:59:13] Speaker 1:** Entonces este nivel, porque es un nivel bajo de Ira. Cómo le voy a faltar respeto al rey, al rey del mundo? Porque es el nivel bajo de Ira, si es algo increíble. Porque tú que estás viendo, estás viendo el mundo. No es que estás viendo que Hashem es la historia que ves, se trata del mundo. No es que estás viendo que Hashem está detrás de todo. Entonces ese es el nivel de Ira bajo. Si quieres llegar a Jojoma, Es no tener esa ira, es como que no creen en Ashem. Entonces quieres llegar a Jojma? Empieza a entender el mundo desde esa perspectiva.
+
+**[00:59:45] Speaker 1:** Entonces vas a llegar a Jojma. Entonces dice a Jaira, esa ira, la ira más el leona, dice yere voshet veira pnimit, es algo interno. Shinimshehet mi primit, ae lokut se ve toja o la mota alea, ambru i men jojma en ira. Ahora, para llegar a la segunda ira, necesitas, si no hay jojma, no hay ira, que necesita llegar a un nivel de jojma para llegar a esa ira, de jojma y koajma. Jojma es la fuerza de entender la esencia.
+
+**[01:00:18] Speaker 1:** "Ber jojma, me haintimmatze". "Beez de un jájama, robe tan allat, piru, se robe koldavar, ek no lad, benita have, ye mi ain leyesh, bitwarajem, werruk pibit baraj, música ketu, rog pit kolzebam". Entonces yo no veo un mundo que al se le está dando vida, Sino estoy viendo a Hashem creando el mundo, es diferente, ¿me explico? Uno estás viendo un mundo, y Hashem es la energía que está detrás, en el otro no ves el mundo, estás viendo al creador, expresándose por medio del mundo, o creando un mundo.
+
+**[01:00:52] Speaker 1:** Entonces yo no veo, entonces yo no tomo la existencia por hecho. No ves el.
+
+**[01:00:56] Speaker 3:** Mundo como la finalidad, sino en el segundo nivel a través del mundo, ves a Hashem que es la finalidad. Exactamente.
+
+**[01:01:03] Speaker 2:** La pija dice, cuando ves las prendas del rebe, ves al rebe, no al rebe. No las prende.
+
+**[01:01:08] Speaker 1:** Exactamente. Sí, exactamente. Si tú ves a una persona, vas a decir "Oye, yo veo ropa. No sé si veo ropa, ropa, ropa. No estás viendo a la persona. No está la persona, ves a la persona. Entonces también cuando ves a la persona, no estás viendo su cuerpo. No estás viendo su cuerpo. Estás viendo a la persona que está usando un cuerpo. Me explico? Pero él es mucho más que el cuerpo que estás viendo. Cuál es la prueba? Qué pasa cuando ves a una persona completamente desconocido?
+
+**[01:01:39] Speaker 1:** Así agarras lo visto. Es lo mismo ver a esa persona que ver a una persona que sí conoces. No es lo mismo. Por qué? Porque en uno estás viendo un cuerpo. O sea, me vas a decir que ya lo conociste, tipo porque le tomaste una foto y ya lo conociste porque viste un cuerpo. O sea, es él, obviamente no es él. Él es un mundo entero que hay atrás. Entonces hasta que no conoce a una persona no puedes decir que veo a la persona y entonces ahorita ya lo estoy viendo porque lo vi.
+
+**[01:02:12] Speaker 1:** Entonces el cuerpo realmente no es nada. Y cuando tú hablas con una persona, fíjense, estás viendo la neshama. No estás hablando con el cuerpo de la persona. Estás viendo la neshama. Fíjate, por qué contigo hablo de una manera, contigo hablo de otra manera y contigo hablo de otra manera. Pero si ahorita, Da igual si tú vas al aeropuerto, hay seis señoritas que te van a recibir ahí con las maletas. A cada una le vas a hablar diferente? Pero no lo conoces. Me explico?
+
+**[01:02:42] Speaker 1:** Pero con cada uno, tú tienes otro tipo de relación, otro tipo, porque realmente estás conociendo a la persona que está atrás. Entonces, entonces acá es lo que dice, irá primit. Sí, irá primit, no es que conozco, yo conozco a Shem, El mundo es el que me ayuda nada más a conocer más a Hashem. Entonces dice, “Pirushe roi koldabare knolat bene taba me hain leiezh with dar ashem roj pip, musikatu roj pip kolzabam”.
+
+**[01:03:10] Speaker 1:** Entonces, en uno es que uso Hashem para entender el mundo y el otro es que uso el mundo para entender y relacionarme más con Hashem. Dice: “Bei les do tarea shamai bare de jolzabam, betelim, bemitzut mamas with bar ashem be roj pip, "Be kola mama shi ve ain beefes mama shi que bitu lord de diva shemesh, beku fa shemesh at ma". Dice "Be alio tia dama tzmo meklal". Dice, dice primero que nada, dice en este nivel, otra vez el Tania lo estaba hablando a nivel vivencia.
+
+**[01:03:46] Speaker 1:** Nosotros ahorita lo estamos diciendo a nivel intelecto para saber a qué nivel les podemos anhelar. Pero él dice que el que ya vive en ese mundo, el que ve un mundo así, entonces no ves un una existencia por sí mismo. Ves? Pues realmente como si fuera el sol y los rayos del sol, que los rayos del sol nunca ves. Dices, aquí hay un rayo, a ver, vamos a llevarnos al rayo. No es el rayo del sol, es como el sol está así exactamente, está llegando hasta el mundo. Entonces cada cosa que hay en el mundo instantánea es realmente Ashems está.
+
+**[01:04:21] Speaker 1:** Revelando por medio de esa cosa y no hay algo, se está proyectando la luz. Entonces nos dice el Tania, un yesod impresionante, impresionante, dice ve aliotzi adamatzmo meaklal. La única manera de convertir esto de intelecto a vivencia, ¿sabes cuál es? Que no veas que el punto aquí no estás hablando ni de una silla, ni de una mesa, ni de un animal, ni la persona que tienes enfrente. Para empezar a convertirlo en vivencia, empieza a verlo de ti.
+
+**[01:04:54] Speaker 1:** Yo quién soy?
+
+**[01:04:59] Speaker 1:** Es Ashem que se está expresando en el mundo. Ese soy yo. O no, yo aquí estoy. Ashem me manda todo tipo de cosas. Me explico? Dice, dice, no, no lo hagas este ejercicio con las cosas que están a tu alrededor. Dice, hazlo contigo. Dice, esa es nuestra boda en las filas. Cuando quieres sentir a Ashem, lo tienes que sentir. No, no en el mundo, ¿no? En ti, cuando lo veas en ti, lo vas a empezar a ver en el mundo. Dice, dice, "Ah, vale tia dama tzmo meh aklal".
+
+**[01:05:30] Speaker 1:** Si como tu joven ha sobre un joven, is mató, bete lim bem tzut mi parashem, medibureit barak mi jot me maksaftoken, verijud, berek masal, mi nefe shaddam, si dibure hat, mi diburu maksaftoke, lo mamas. Desde un chamara que tuve, niratashem, hijojma. Sí? Entonces dice, "Ah, ief shal acik le ira, No, la única manera de llegar a esto es el Abekiu Matoraba Mitzvot, dice que primero yo necesito. Por qué necesitas Toraba Mitzvot? Porque si tú te quieres ver como una revelación de Hashem y eres una persona egocéntrica, mala, gaftán.
+
+**[01:06:08] Speaker 1:** Entonces, por más que cuando medites, a lo mejor vas a sentir, pero no eres. Me explico? No eres. Para hacer una expresión, quiere decir, Quiere decir que vivo sincronizado con eso. Entonces quiere decir que Hashem se expresa en el mundo por medio de mí. O sea, ¿qué quiere decir? Por medio de mi inteligencia, por mis palabras, por medio. Cuando ves un yudi, dices ves la luz a Hashem. Entonces dice, ¿cuál es el camino? Necesitas ir a tata. Cómo?
+
+**[01:06:38] Speaker 1:** Si no hago lo que Hashem me dice, él es el que me da vida, entonces es ir a tata. Entonces voy a hacer lo que Hashem me dice. Entonces con eso aquí llegas a Hohma. Qué es Hohma? Torai mi tot. Empiezas a cuando ya entiendes, entonces llegas a Irá y la puedes subir a Irá y entonces con eso vas a llegar también a la jojma, la que es la jojma de Leoná, esos son los otros, dice Behine, Behaba Ieshgam, Kenstein, Madregot. En Abá hay 2 niveles, Abar Rabba, Behaba Tolam, dice, Ajava Rabba y Ajava Beta Anuguim.
+
+**[01:07:19] Speaker 1:** Dice, se llama Ahavave ta'anuguim en Shira Shirim. Dice, es una Ava con ta'anug. Complacer. Vishal hevetau la mele'a, ubali mile mala, bibhinat matana lemi shalem beira. El que tiene ira, Hashem le llega un regalo que siente ta'anug, que disfruta su vida, el kesher con Hashem, todo, dice. El que tiene ira, le llega eso.
+
+**[01:07:50] Speaker 1:** Que no da el mamá, rapotenes, el con el librajá. Darkoselis le jasdera jaraisha. Ya va, ni cret, ish, vesdajar, mosekatub, zajar jasdob, ishairatashem. No da, que no da. Ublik, dimata ira, y ebcharle aquí a la baba. Abarrapa es la que te llega de arriba. Vamos a ver, es la que te llega de arriba. Tú te haces clic a esa abba y esa abba te llega de arriba.
+
+**[01:08:33] Speaker 1:** Es aliede, yo. Yo la busco, van de abajo para arriba.
+
+**[01:08:38] Speaker 2:** En La otra yo me la manda como matando.
+
+**[01:08:39] Speaker 1:** Entonces, quiere decir. La guisba boker has deja, esa va Rapá. No, en Olam, igual que tú.
+
+**[01:08:47] Speaker 2:** Al revés. Al revés, ¿no? Por qué? Por qué Rapá así? O sea, Olam, Olam es de arriba. Y Rapá es lo que yo veo. A ver, ahí lo entendió como yo. Cuando es,
+
+**[01:08:57] Speaker 1:** Cuando estás en la oscuridad, la Abah no te está llegando de arriba. Sino es como que tú la buscas. Sabes que está y la buscas. Y la otra, la que ves, es la que te llegó de arriba. La que ves es la que te llegó de arriba. Llegó de arriba hacia abajo, hasta que la sentiste. Te dejaron sentirla. Pero la que no, dice, si quieres la e-en-so-fit, es la que tú tienes que buscar. Y entonces, fíjate, algo impresionante. Si algo va a dejar de arriba para que llegue a ti, entonces cada vez se va limitando, limitando hasta que te llegue a ti.
+
+**[01:09:33] Speaker 1:** Sí? Se convirtió en una manzana o en un millón de dólares. Me explico? Pero al final hasta que te llegó a ti. Pero si tú vas subiendo, no hay fin hasta donde puedes subir. Me explico? Si tú vas subiendo, subiendo. Entonces no es que baja hasta que seas delimitado, sino subes hasta que seas delimitado. Cuando tú vas subiendo. No hay límites para donde puedes subir. Pero algo, cualquier cosa que al final lo sentiste, algo que al final lo sentiste. No, claro.
+
+**[01:10:04] Speaker 1:** Es infinito. Nunca vas a llegar. No llegas, pero sí llegas. O sea, ¿qué quiere decir? Cada noche que quieres, entonces en la mañana llegas. Y entonces cada día va a llegar otra cosa.
+
+**[01:10:16] Speaker 3:** Con tu entendimiento Rabae. Sí, nada más. Pero realmente, alimento Lolabn, nunca llegas.
+
+**[01:10:23] Speaker 4:** Sí, porque al final no hay al fin.
+
+**[01:10:26] Speaker 3:** Pero lo importante es la abad. Yo también entiendo que la abad de acá, porque baja y sube. También puede llegar a ser infinita.
+
+**[01:10:36] Speaker 1:** O sea, para que sea infinito, o sea, piénsenlo. Piensen que es profundo. La abad de Rabbi Akiva cuando se estaba muriendo en Kitus Hashem, que dijo Hashem Had y era una abad tremenda. Es una abad infinita. Cuando, Alguien siente a Abba porque Ashem ve cuánto me ama, ve el milagro que me hizo. Entonces esa se llama Ahava Rava, que es sí sentí el amor de Ashem. Está increíble el sentir ese amor de Ashem y porque siento el regalo, pero al final se puede malinterpretar en que lo estás limitando, que solo sientes el amor porque te dio esta cosa.
+
+**[01:11:13] Speaker 1:** Sí, ahora, pero si está Luis Bedabar. Pero si uno siente el amor de Hashem, de la misma manera que uno siente el amor de Hashem, cuando ve la luz y uno siente el amor de Hashem en la oscuridad, quiere decir que estás conectado del amor de Hashem, que no tiene límites. Y ese es un amor que a lo mejor no se representa en algo específico, pero estás consciente de que ahí estás. Me explico?
+
+**[01:11:34] Speaker 4:** Yo creo que Mara lo explica Nabato, lo más interesante. Así que tú no tienes que buscar. O sea, si no. O sea, es también si no te metes lo que es el ruedo,
+
+**[01:11:43] Speaker 1:** Entonces no te va a llevar, te va a llegar limitado. Y si lo buscas, lo que está escrito acá es que lo encuentras, pero no se representa en un objeto, no se representa en una idea, pero dices, esto es amor, que es, no sé, pero es amor, y esto es amor sin límites.
+
+**[01:11:59] Speaker 3:** Entonces, Amor a Shem directo, en vez de amor.
+
+**[01:12:01] Speaker 2:** A Shem por medio de amor.
+
+**[01:12:03] Speaker 1:** Exactamente, no es por medio, y esta es la de Levdel entre las dos Sirot. Yo veo un mundo y veo a Shem atrás, el otro, eh, no, yo veo a Shem. Entonces, el que llega a Aba, Tollam, Entonces, amor hace en directo para que esté en amor hace en directo, aún siendo que es en la oscuridad y en Navarra pa es, no es que está mal que está, pero los varim que yo veo, los varim que yo veo son la manera como Ashem está dando la oportunidad de reconocer y sentirlo y reconocerlo a través del mundo.
+
+**[01:12:36] Speaker 1:** Es un malimba todo eso, empiezas por acá y llegas allá. Sí, son las dos.
+
+**[01:12:43] Speaker 4:** Habla de dos tipos de Aba. Hay Aba porque te digo.
+
+**[01:12:50] Speaker 1:** Son los dos. Dice: "Amemale Kolalmin, besoi bim kolalmin, pekula mamey kello mamashu ke bitul dibure hat benefe shamaskelet beodove mahsafto, oe hemdata lefkanizkar, asher aliedeit bonenutzo, mi meiletit bashet mirata abashe banefes mi lebuxea, La aba es sin ningún lebush, dice, de ain no se loti tlabesh. No es que porque se vistió en algo que, en algo que, dice: Bezun da bara navetanu que es mío, rujani, le abauto.
+
+**[01:13:22] Speaker 1:** Pero lagpotz klal sun da bara baolan, bildi ashem levado, mekora jaim sel kolatanuguim, se kulam bete lim bem mitziut vek, keloi mamajka me hija, si bien bien naroj, dime un klal beneem, jaz bezalom, pues en naroj le hain, "Befe, samukhlat, gabei jaim, mitzjim, musikatu, mili bashamai, mi jalo ja fasti, dice kala sharei le baby zu le baby, como se id baile kaman. Acá estamos entendiendo algo impresionante. Lo que dijimos que es Abat Olam, quiere decir, dice el bala Tanya, que Abat Olam no es un amor que no se siente, es nada más la oscuridad y yo sé que Ashe me quiere.
+
+**[01:13:58] Speaker 1:** No, es que si quieres, aquí vas a poder encontrar un nivel de amor, no vestido en nada que lo limite. Dice. "Began misen mi data a base benafsome lubezet klal besuntan nukas muu rujani y a hole alive nafsoke rispedes, le salebeta dal, velaba, hola, samaima, al ideait bonenutan nit quieres leer". Como se dice, "Beineb, hinata bazo, para mí se codemos la ira". "Kfib, hinata data molida, kano da". Dice "Saddat kollehazin kurotxem a babeira".
+
+**[01:14:30] Speaker 1:** Para mí se hace que con mi leire de Igalot, la gente ebsharla rasau, va la berotxe y hace chugame, Cuando la dave libó, dice, dice, hay veces la abá llega primero, dice, al parecer no necesitabas primero Irá y luego mi toot, y luego llegaba la ira grande y luego con eso llegas a abá, dice, no, a veces a uno le llega un itorerut de chuá que pasó, te sientes el amor de Asham dentro de ti y te hasta mi torear y luego tienes que obviamente pasar eso a Irá a cuando lo pasas a Irá.
+
+**[01:15:01] Speaker 1:** Ya lo conviertes no en un sentimiento momentáneo que sentí en ese momento, sino ya lo ya le estoy, exactamente, ya le estoy dando. Sí, porque muchas veces hay tu erut, ¿qué sientes? Pero luego se va a pasar. Exactamente, si no lo aprovechaste ese momento. Como dice Rabbi Zoe, si no lo convertiste en una. Un buen erut, si no lo convertiste en algo, a lo mejor uno puede estar en el ul todo el año, pero conviértelo en algo que te lleves, que sí te lleves de todo el año.
+
+**[01:15:31] Speaker 3:** Pero, ¿qué pasa, qué pasa?
+
+**[01:15:34] Speaker 3:** Estuviste en el uno, impresionante acá. No cuenta. No cuenta, ¿cómo no? No, yo creo que algo siempre te queda, algo siempre. El Rosem. Un Rosem. Pero, ¿qué triste que sea un Rosem?
+
+**[01:15:48] Speaker 1:** No, No, Porque está mal, porque algo crees. El Catnut, el Catnut. No, no, no tiene que ver algo loco, nos faltó una mi madre muy loca. Vean el último párrafo. Dice "Abalseder a boda" Ya me salté ese párrafo, dice, dice: "Abalseir abua, utluia bib hirata adam, serik lagdim philaki uma torava mitzot, aliedeira tata, bibhinat katnut al kolpanin, besur me rabe astetov, lair nafshoa elokit". Y con eso despiertas tu nofeshalokit, bora torau mitzot, bakharkaji aira alea oraaba, ki weaavta.
+
+**[01:16:27] Speaker 1:** Bekimatria betpa amim or kayadua leiu dejen. Entonces algo increíble acá. Dijimos, hay ahava raba y hay ahvatolam. Entonces, ahava raba raba esengimatria or. Pero aquí dice ve'aafta.
+
+**[01:16:45] Speaker 1:** Es dos veces or. Es kilo, behole babeja, beietzer todo beietzara. Por las buenas y por las malas, es quiere decir que lo que yo quiero vetzem es a ti, no lo que tú me das. Yo quiero es a ti, no lo que tú me das. Entonces, no sé qué prefieren ser ashkenazi, José Faradi.
+
+**[01:17:04] Speaker 4:** Eh? A donde.
+
+**[01:17:06] Speaker 1:** Ashem te puso esto a boda? Donde Ashem te puso.
+
+**[01:17:10] Speaker 4:** Es el primo de boda? No te puedes advertir? Eh? Me está hablando a muchos. Tú vas a una y si vas a Ashkenazi? Me está hablando. O sea, serías con una barba y con la batola, eso es lo que pone barbata sería. Mejor de abeja sería bato, la mi abbato de Rabá. Yo creo que es indispensable llegar a Rabá.
+
+**[01:17:35] Speaker 1:** Claro, porque si no, no, no lo, no lo bajas en un mamasuit. O sea,
+
+**[01:17:41] Speaker 4:** Tienes que apreciar, ¿no? Sube al siguiente nivel, ok. Sí.
+
+**[01:17:45] Speaker 1:** Pero Siempre tienes que buscar que la abba no dejarla en Rabá, porque Rabá ya es en algo. Entonces, o sea, lo mismo es que nacido tiene los dos. Tiene los dos, tiene los dos.
+
+**[01:17:58] Speaker 4:** La Verdad es que sí. Es como explicaste antes lo del Ninguna Torá, que siempre encuentras el Tirus, pues sabes que te falta entender mucho más.
+
+**[01:18:08] Speaker 1:** Claro, Claro, sí, sí, seguro.
+
+**[01:18:10] Speaker 4:** No vas a encontrar nunca todo el omex de la Torá.
+
+**[01:18:13] Speaker 1:** Pero lo que dijimos es acá, que acá estás diciendo, muy bien, acá estás diciendo la beraja de Birkota Torá. Estás hablando de la ascendencia de la Torá. Entonces es obvio que vas a decir “Abarrabá” cuando estudies “Bavakama” ¿Me explico? Sobre el “Bavakama” sobre el Seder de hoy, dices “Abarrabá”. Pero cuando estás hablando de toda la Torá, entonces ahí dice, no digas “Bapá”, siempre cuando estás hablando de toda la Torá, tienes que decir “Abatolam”.
+
+**[01:18:40] Speaker 1:** Y eso es lo que te va a dejar sentir el “Abarrabá” cada vez que estudies.
+
+**[01:18:48] Speaker 4:** Queda matín muy bien la barrabá de los accionadín para el explicación que dijiste tú. O sea, hoy entendiste algo increíble, pues sabes que hay mucho más que te falta preguntarte, o sea, no es el fin.

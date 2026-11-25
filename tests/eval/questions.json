@@ -1,0 +1,517 @@
+{
+ "_doc": "expect: accepted places (class ordLabel, optional [fromMs,toMs] window; a retrieved passage matches if its time range overlaps). covered=false -> the answer should be 'no encontré'. kind: tags what the question stresses.",
+ "questions": [
+  {
+   "id": "q01",
+   "q": "¿Qué le pasó a Rabí Tarfón en el camino y por qué dijo que merecía morir?",
+   "kind": "rabbi",
+   "expect": [
+    {
+     "ord": "60"
+    }
+   ]
+  },
+  {
+   "id": "q02",
+   "q": "¿Quién fue Gehazi y por qué lo castigó Eliseo?",
+   "kind": "translit",
+   "expect": [
+    {
+     "ord": "58"
+    },
+    {
+     "ord": "54"
+    },
+    {
+     "ord": "56"
+    }
+   ]
+  },
+  {
+   "id": "q03",
+   "q": "¿Qué es el cherum zulut? Algo de un pájaro y de rezar detrás de la sinagoga",
+   "kind": "translit",
+   "expect": [
+    {
+     "ord": "16"
+    },
+    {
+     "ord": "18"
+    }
+   ]
+  },
+  {
+   "id": "q04",
+   "q": "Explícame lo del Sha'ar HaNun",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "55",
+     "from": 2000000,
+     "to": 2800000
+    },
+    {
+     "ord": "73"
+    },
+    {
+     "ord": "77"
+    }
+   ]
+  },
+  {
+   "id": "q05",
+   "q": "¿Qué enseñó Ben Zoma sobre la salida de Egipto?",
+   "kind": "rabbi",
+   "expect": [
+    {
+     "ord": "78"
+    },
+    {
+     "ord": "79"
+    },
+    {
+     "ord": "81"
+    }
+   ]
+  },
+  {
+   "id": "q06",
+   "q": "¿Qué dice Rabenu Tam sobre el momento en que empieza la noche?",
+   "kind": "rabbi",
+   "expect": [
+    {
+     "ord": "1"
+    },
+    {
+     "ord": "50"
+    }
+   ]
+  },
+  {
+   "id": "q07",
+   "q": "¿Qué se explicó sobre jesed y din? (chesed / hesed)",
+   "kind": "translit",
+   "expect": [
+    {
+     "ord": "38"
+    },
+    {
+     "ord": "14"
+    },
+    {
+     "ord": "30.2"
+    },
+    {
+     "ord": "26"
+    },
+    {
+     "ord": "17"
+    },
+    {
+     "ord": "18"
+    },
+    {
+     "ord": "29"
+    }
+   ]
+  },
+  {
+   "id": "q08",
+   "q": "¿Se puede recitar el Sh'ma en cualquier idioma?",
+   "kind": "translit",
+   "expect": [
+    {
+     "ord": "87"
+    },
+    {
+     "ord": "86"
+    }
+   ]
+  },
+  {
+   "id": "q09",
+   "q": "¿Hace falta kavana al leer el Shemá?",
+   "kind": "translit",
+   "expect": [
+    {
+     "ord": "86"
+    },
+    {
+     "ord": "84"
+    }
+   ]
+  },
+  {
+   "id": "q10",
+   "q": "¿Quién es Bruria y qué se cuenta de ella?",
+   "kind": "rabbi",
+   "expect": [
+    {
+     "ord": "47",
+     "from": 600000,
+     "to": 1800000
+    }
+   ]
+  },
+  {
+   "id": "q11",
+   "q": "¿Qué es el rega de ira de Hashem y qué tiene que ver con Bilam?",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "26"
+    },
+    {
+     "ord": "28"
+    }
+   ]
+  },
+  {
+   "id": "q12",
+   "q": "¿Qué pasó con el rey Ezequías, Jizkiyahu, y con Senaquerib?",
+   "kind": "translit",
+   "expect": [
+    {
+     "ord": "53"
+    },
+    {
+     "ord": "52"
+    },
+    {
+     "ord": "51"
+    }
+   ]
+  },
+  {
+   "id": "q13",
+   "q": "¿Por qué destituyeron a Rabán Gamliel?",
+   "kind": "rabbi",
+   "expect": [
+    {
+     "ord": "64"
+    },
+    {
+     "ord": "65"
+    }
+   ]
+  },
+  {
+   "id": "q14",
+   "q": "¿Qué dice sobre la techelet y distinguir entre azul y blanco al amanecer?",
+   "kind": "translit",
+   "expect": [
+    {
+     "ord": "46"
+    }
+   ]
+  },
+  {
+   "id": "q15",
+   "q": "¿Qué explica Likutei Moharán 51 sobre la verdad y la mentira?",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "48"
+    }
+   ]
+  },
+  {
+   "id": "q16",
+   "q": "¿Qué es la yirá tataá y la yirá ilaá?",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "68",
+     "from": 3300000,
+     "to": 3700000
+    },
+    {
+     "ord": "85"
+    },
+    {
+     "ord": "44"
+    }
+   ]
+  },
+  {
+   "id": "q17",
+   "q": "¿Qué se dijo sobre el rey Saúl y el profeta Samuel?",
+   "kind": "rabbi",
+   "expect": [
+    {
+     "ord": "73"
+    },
+    {
+     "ord": "74"
+    },
+    {
+     "ord": "75"
+    }
+   ]
+  },
+  {
+   "id": "q18",
+   "q": "¿Qué profetizó Oseas / Hoshea y cómo se relaciona con el exilio?",
+   "kind": "pasuk",
+   "expect": [
+    {
+     "ord": "29",
+     "from": 0,
+     "to": 1200000
+    }
+   ]
+  },
+  {
+   "id": "q19",
+   "q": "¿Qué significa shnayim mikra veejad targum?",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "39"
+    },
+    {
+     "ord": "40"
+    },
+    {
+     "ord": "41"
+    }
+   ]
+  },
+  {
+   "id": "q20",
+   "q": "¿Quién es Aba Binyamín y qué dice de los mazikín?",
+   "kind": "rabbi",
+   "expect": [
+    {
+     "ord": "10"
+    },
+    {
+     "ord": "11"
+    },
+    {
+     "ord": "12"
+    }
+   ]
+  },
+  {
+   "id": "q21",
+   "q": "¿Qué se enseña sobre los sufrimientos que vienen por amor (yesurim shel ahavá)?",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "7"
+    },
+    {
+     "ord": "5"
+    },
+    {
+     "ord": "17"
+    }
+   ]
+  },
+  {
+   "id": "q22",
+   "q": "¿En qué clase se habló de rezar de espaldas a la sinagoga?",
+   "kind": "where",
+   "expect": [
+    {
+     "ord": "16"
+    },
+    {
+     "ord": "18"
+    },
+    {
+     "ord": "42"
+    }
+   ]
+  },
+  {
+   "id": "q23",
+   "q": "¿En qué clase se habló de Purim y la teshuvá por amor?",
+   "kind": "where",
+   "expect": [
+    {
+     "ord": "27"
+    }
+   ]
+  },
+  {
+   "id": "q24",
+   "q": "¿Qué dijo sobre Amotz y Amatzia, jazak ve'ematz?",
+   "kind": "pasuk",
+   "expect": [
+    {
+     "ord": "51"
+    }
+   ]
+  },
+  {
+   "id": "q25",
+   "q": "¿Cómo se relaciona la Shunamit con la akedá de Itzjak?",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "56"
+    },
+    {
+     "ord": "54"
+    },
+    {
+     "ord": "55"
+    }
+   ]
+  },
+  {
+   "id": "q26",
+   "q": "¿Qué se dijo sobre la bendición Sim Shalom?",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "58",
+     "from": 200000,
+     "to": 700000
+    },
+    {
+     "ord": "38"
+    },
+    {
+     "ord": "24"
+    },
+    {
+     "ord": "59"
+    }
+   ]
+  },
+  {
+   "id": "q27",
+   "q": "¿Algo sobre el ángel de la muerte y Rabí Yehoshúa ben Leví?",
+   "kind": "vague",
+   "expect": [
+    {
+     "ord": "8"
+    }
+   ]
+  },
+  {
+   "id": "q28",
+   "q": "¿Dónde se habló de la resurrección de los muertos y la Shunamit?",
+   "kind": "vague",
+   "expect": [
+    {
+     "ord": "58"
+    },
+    {
+     "ord": "53"
+    },
+    {
+     "ord": "54"
+    },
+    {
+     "ord": "57"
+    }
+   ]
+  },
+  {
+   "id": "q29",
+   "q": "¿Qué se cuenta de David y Bat Sheva?",
+   "kind": "rabbi",
+   "expect": [
+    {
+     "ord": "4.2"
+    },
+    {
+     "ord": "36"
+    },
+    {
+     "ord": "4"
+    }
+   ]
+  },
+  {
+   "id": "q30",
+   "q": "¿Qué dijo sobre la mesirut nefesh al leer Shemá?",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "59"
+    },
+    {
+     "ord": "87"
+    }
+   ]
+  },
+  {
+   "id": "q31",
+   "q": "¿Qué se enseñó sobre el olam hafuj, el mundo al revés?",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "68"
+    }
+   ]
+  },
+  {
+   "id": "q32",
+   "q": "¿Cómo se relaciona Balak y Bil'am con el tzitzit?",
+   "kind": "pasuk",
+   "expect": [
+    {
+     "ord": "77"
+    },
+    {
+     "ord": "76"
+    }
+   ]
+  },
+  {
+   "id": "q33",
+   "q": "¿Qué se dijo sobre la humildad (anavá)?",
+   "kind": "vague",
+   "expect": [
+    {
+     "ord": "14"
+    },
+    {
+     "ord": "74"
+    },
+    {
+     "ord": "30.2"
+    }
+   ]
+  },
+  {
+   "id": "q34",
+   "q": "¿Qué dice sobre el yétzer hará y su relación con la Torá?",
+   "kind": "concept",
+   "expect": [
+    {
+     "ord": "8"
+    },
+    {
+     "ord": "15"
+    }
+   ]
+  },
+  {
+   "id": "nc1",
+   "q": "¿Qué dice el Rav sobre invertir en bitcoin y criptomonedas?",
+   "kind": "uncovered",
+   "covered": false,
+   "expect": []
+  },
+  {
+   "id": "nc2",
+   "q": "¿Cuánto tiempo hay que esperar entre comer carne y leche?",
+   "kind": "uncovered",
+   "covered": false,
+   "expect": []
+  },
+  {
+   "id": "nc3",
+   "q": "¿Cómo se escribe un prozbul para cancelar deudas en shemitá?",
+   "kind": "uncovered",
+   "covered": false,
+   "expect": []
+  }
+ ]
+}
