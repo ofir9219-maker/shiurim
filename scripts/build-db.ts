@@ -7,7 +7,8 @@ import { openDb } from "../lib/db";
 import { embedTexts, hasEmbeddingKey, vecToBlob, EMBEDDING_MODEL, EMBEDDING_DIMS } from "../lib/embeddings";
 import { setupProxy } from "../lib/proxy";
 import { STORAGE_DATA } from "../lib/storage";
-import { berajotCollection, listCollections } from "../lib/center/collections";
+import { berajotCollection, listCollections, resolveCollection } from "../lib/center/collections";
+import { folderChain, folderOrder, readTrees } from "../lib/center/folders";
 import { normText } from "../lib/translit";
 
 const root = process.cwd();
@@ -16,7 +17,7 @@ const useFixtures = process.argv.includes("--fixtures");
 const r2Map: Record<string, string> = fs.existsSync(path.join(root, "data", "r2-keys.json"))
   ? JSON.parse(fs.readFileSync(path.join(root, "data", "r2-keys.json"), "utf8")) : {};
 
-type Inv = { id: string; name: string; order: string; ext: string; durationMs: number; collectionId?: string };
+type Inv = { id: string; name: string; order: string; ext: string; durationMs: number; collectionId?: string; parentId?: string };
 type Seg = { startMs: number; endMs: number; text: string };
 type Pol = { id: string; segments: Seg[]; summary?: string; tags?: string[]; daf?: { daf: string; amud: string }[]; title?: string; newName?: string };
 
@@ -44,10 +45,21 @@ const amud = (a: string) => (a === "ב" ? "ע״ב" : "ע״א");
 const dafLabel = (d: { daf: string; amud: string }[]) => d.map((x) => `${x.daf} ${amud(x.amud)}`).join(", ");
 const stripExt = (n: string) => n.replace(/\.[a-z0-9]{2,4}$/i, "").replace(/^\s*[\d.]+\s*[.\-–]\s*/, "").trim();
 
-const classDoc = (c: { title: string; summary: string; tags: string }) => {
-  let tags: string[] = [];
+const classDoc = (c: { title: string; summary: string; tags: string; folder_path?: string | null }) => {
+  let tags: string[] = [], folders: { name: string }[] = [];
   try { tags = JSON.parse(c.tags || "[]"); } catch { /* ignore */ }
-  return `${c.title}. ${tags.join(", ")}. ${c.summary || ""}`;
+  try { folders = JSON.parse(c.folder_path || "[]"); } catch { /* ignore */ }
+  return `${folders.length ? folders.map((f) => f.name).join(" › ") + ". " : ""}${c.title}. ${tags.join(", ")}. ${c.summary || ""}`;
+};
+// Subfolders as categories (series setting "subfolders", on by default): chain of Drive folder names + catalog sort key.
+const trees = useFixtures ? {} : readTrees();
+const folderInfo = new Map<string, { useSub: boolean; order: Map<string, string> }>();
+const foldersOf = (inv: Inv): { path: string; sort: string } => {
+  const cid = inv.collectionId ?? berajotId;
+  let fi = folderInfo.get(cid);
+  if (!fi) { const c = collByFolder.get(cid); fi = { useSub: !!c && resolveCollection(c).settings.subfolders !== false, order: folderOrder(cid, trees) }; folderInfo.set(cid, fi); }
+  const chain = fi.useSub ? folderChain(cid, inv.parentId, trees) : [];
+  return { path: JSON.stringify(chain), sort: chain.length ? fi.order.get(chain[chain.length - 1].id) ?? "" : "" };
 };
 const db = openDb({ create: true });
 const tx = db.transaction(() => {
@@ -59,10 +71,10 @@ const tx = db.transaction(() => {
       db.prepare("DELETE FROM classes WHERE id=?").run(id);
     }
   }
-  const upC = db.prepare(`INSERT INTO classes(id,ord,ord_label,title,file_name,daf,daf_label,duration_ms,summary,tags,audio_url,r2_key,has_transcript,collection_id)
-    VALUES(@id,@ord,@ord_label,@title,@file_name,@daf,@daf_label,@duration_ms,@summary,@tags,@audio_url,@r2_key,@has,@collection_id)
+  const upC = db.prepare(`INSERT INTO classes(id,ord,ord_label,title,file_name,daf,daf_label,duration_ms,summary,tags,audio_url,r2_key,has_transcript,collection_id,folder_path,folder_sort)
+    VALUES(@id,@ord,@ord_label,@title,@file_name,@daf,@daf_label,@duration_ms,@summary,@tags,@audio_url,@r2_key,@has,@collection_id,@folder_path,@folder_sort)
     ON CONFLICT(id) DO UPDATE SET ord=@ord,ord_label=@ord_label,title=@title,file_name=@file_name,daf=@daf,daf_label=@daf_label,
-      duration_ms=@duration_ms,summary=@summary,tags=@tags,audio_url=@audio_url,r2_key=@r2_key,has_transcript=@has,collection_id=@collection_id`);
+      duration_ms=@duration_ms,summary=@summary,tags=@tags,audio_url=@audio_url,r2_key=@r2_key,has_transcript=@has,collection_id=@collection_id,folder_path=@folder_path,folder_sort=@folder_sort`);
   db.exec("INSERT INTO segments_fts(segments_fts) VALUES('delete-all')");
   db.exec("DELETE FROM segments");
   const insS = db.prepare("INSERT INTO segments(class_id,idx,start_ms,end_ms,text) VALUES(?,?,?,?,?)");
@@ -90,7 +102,7 @@ const tx = db.transaction(() => {
       id: inv.id, ord: Number.isFinite(ord) ? ord : 9999, ord_label: inv.order, title: pol?.title || stripExt(inv.name),
       file_name: pol?.newName || inv.name, daf: JSON.stringify(daf), daf_label: dafLabel(daf), duration_ms: inv.durationMs || 0,
       summary: pol?.summary || "", tags: JSON.stringify(pol?.tags ?? []), audio_url: null, r2_key: r2Map[inv.id] ?? null,
-      has: segs.length ? 1 : 0, collection_id: slugOf(inv),
+      has: segs.length ? 1 : 0, collection_id: slugOf(inv), folder_path: foldersOf(inv).path, folder_sort: foldersOf(inv).sort,
     });
     segs.forEach((s, i) => insS.run(inv.id, i, Math.round(s.startMs), Math.round(s.endMs), s.text));
   }
@@ -125,7 +137,7 @@ db.transaction(() => {
   const insN = db.prepare("INSERT INTO chunks_nfts(rowid,text) VALUES(?,?)");
   for (const c of db.prepare("SELECT id,text FROM chunks").all() as { id: number; text: string }[]) { insF.run(c.id, c.text); insN.run(c.id, normText(c.text)); }
   const insC = db.prepare("INSERT INTO classes_nfts(class_id,text) VALUES(?,?)");
-  for (const c of db.prepare("SELECT id,title,summary,tags FROM classes").all() as { id: string; title: string; summary: string; tags: string }[]) insC.run(c.id, normText(classDoc(c)));
+  for (const c of db.prepare("SELECT id,title,summary,tags,folder_path FROM classes").all() as { id: string; title: string; summary: string; tags: string; folder_path: string }[]) insC.run(c.id, normText(classDoc(c)));
 })();
 console.log(`classes: ${inventory.length}, with transcript: ${classIds.length}, segments: ${(db.prepare("SELECT count(*) n FROM segments").get() as { n: number }).n}, chunks: ${(db.prepare("SELECT count(*) n FROM chunks").get() as { n: number }).n}`);
 
@@ -134,7 +146,7 @@ if (embed) {
   else {
     setupProxy();
     // Class-level embeddings (title + tags + summary), re-embedded only when the text changes.
-    const cls = db.prepare("SELECT id,title,summary,tags FROM classes").all() as { id: string; title: string; summary: string; tags: string }[];
+    const cls = db.prepare("SELECT id,title,summary,tags,folder_path FROM classes").all() as { id: string; title: string; summary: string; tags: string; folder_path: string }[];
     const oldV = new Map((db.prepare("SELECT class_id,hash FROM class_vecs").all() as { class_id: string; hash: string }[]).map((r) => [r.class_id, r.hash]));
     const needC = cls.map((c) => ({ id: c.id, text: classDoc(c), hash: crypto.createHash("sha1").update(`${EMBEDDING_MODEL}:${EMBEDDING_DIMS}:${classDoc(c)}`).digest("hex") })).filter((c) => oldV.get(c.id) !== c.hash);
     for (let i = 0; i < needC.length; i += 32) {

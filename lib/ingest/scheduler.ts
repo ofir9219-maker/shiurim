@@ -73,11 +73,41 @@ class Scheduler {
     this.persist();
     log(`scheduler iniciado (poll cada ${pollMinutes()} min, drive ${drive.driveConnected() ? "conectado" : "NO conectado"})`);
     try { this.diagnose(); } catch (e) { log(`diagnóstico: ${(e as Error).message}`); }
+    // subfolders as site categories: folder trees of the published series + each ingested class's folder; rebuild the site DB if anything changed
+    void this.syncFolders().catch((e) => log(`subcarpetas: ${(e as Error).message}`));
     // published series: make sure every finished class has its audio in R2 (classes finished while the series was unpublished never got it)
     void (async () => {
       const { mirrorCollectionAudio } = await import("../center/mirror");
       for (const c of listCollections().filter((x) => x.published)) { const n = await mirrorCollectionAudio(c.folderId, log).catch(() => 0); if (n) log(`audio copiado a R2: ${n} clase(s) de «${c.name}»`); }
     })().catch((e) => log(`mirror: ${(e as Error).message}`));
+  }
+
+  private foldersAt = 0;
+  /** Folder trees (exact Drive names) of the published series that respect subfolders, and the parent folder of every ingested class. */
+  async syncFolders(): Promise<boolean> {
+    if (!drive.driveConnected()) return false;
+    this.foldersAt = Date.now();
+    const { syncFolderTree } = await import("../center/folders");
+    const { resolveCollection } = await import("../center/collections");
+    const { storageInventory, writeJson: wj, dataPath: dp } = await import("../storage");
+    const cols = listCollections();
+    let changed = false;
+    // parent folder of each ingested class (older inventory entries did not store it)
+    const inv = storageInventory(); let filled = 0;
+    for (const e of inv) {
+      if (e.parentId) continue;
+      const it = this.state.items[e.id];
+      let pid = it?.parentId;
+      if (!pid) { try { pid = (await drive.getMeta(e.id)).parents?.[0]; } catch { /* ignore */ } }
+      if (pid) { e.parentId = pid; filled++; }
+    }
+    if (filled) { wj(dp("inventory.json"), inv); changed = true; log(`subcarpetas: carpeta de ${filled} clase(s) registrada`); }
+    const skip = new Set(cols.map((c) => c.folderId));
+    for (const c of cols.filter((x) => x.published && resolveCollection(x).settings.subfolders !== false)) {
+      if (await syncFolderTree(c.folderId, drive.listChildren, new Set([...skip].filter((id) => id !== c.folderId)))) { changed = true; log(`subcarpetas: árbol de «${c.name}» actualizado`); }
+    }
+    if (changed) { const { reindex } = await import("./pipeline"); await reindex(log); }
+    return changed;
   }
 
   /** One-line-per-series summary in the server log: items by state/status, AI-zone jobs, whether the series is published. */
@@ -98,6 +128,7 @@ class Scheduler {
   private async tick() {
     try { fs.writeFileSync(LOCK(), JSON.stringify({ pid: process.pid, at: Date.now() })); } catch { /* ignore */ }
     if (Date.now() >= this.nextPollAt && !this.checking) await this.poll().catch(() => {});
+    if (Date.now() - this.foldersAt > 30 * 60_000) await this.syncFolders().catch((e) => log(`subcarpetas: ${(e as Error).message}`));
     zone.sweepLeases(); await zone.applyPending().catch(() => {});
     if (Date.now() >= this.nextPkgScanAt && zone.hasDriveJobs()) {
       this.nextPkgScanAt = Date.now() + 2 * 60_000; await zone.scanDrive().catch((e) => log(`scan de la Zona IA falló: ${(e as Error).message}`));

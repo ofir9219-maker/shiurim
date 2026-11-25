@@ -16,7 +16,7 @@ export const LEGACY_WORK_DIR = path.join(STORAGE_DIR, "work");
 
 export type InvItem = {
   id: string; name: string; order: string; ext: string; mimeType: string; sizeBytes: number; durationMs: number;
-  mdId: string | null; mdName: string | null; transcript: string; inShiurim: boolean; r2Key?: string; ingested?: boolean; collectionId?: string;
+  mdId: string | null; mdName: string | null; transcript: string; inShiurim: boolean; r2Key?: string; ingested?: boolean; collectionId?: string; parentId?: string;
 };
 
 export function readJson<T>(p: string, d: T): T {

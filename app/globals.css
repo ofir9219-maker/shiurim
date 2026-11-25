@@ -506,3 +506,28 @@ body:has(.player-bar) .chat-box { height: calc(100dvh - 8rem - var(--bar-h) - en
 .dc-log { font: 12px/1.5 ui-monospace, monospace; white-space: pre-wrap; background: var(--bg-deep); padding: var(--sp-3); border-radius: var(--r-md); max-height: 55vh; overflow: auto; }
 .dc-prev { font-family: var(--font-he); font-size: 1.15rem; direction: rtl; text-align: right; padding: 10px; border: 1px dashed var(--gold-line); border-radius: var(--r-md); background: var(--surface-2); overflow-wrap: anywhere; }
 .drawer .dc-x { position: sticky; top: 0; display: flex; justify-content: space-between; align-items: center; background: var(--surface); padding-bottom: 8px; z-index: 1; }
+
+/* Series subfolders as categories (ClassList) */
+.cat-panel { margin: 0 0 var(--sp-5); border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); }
+.cat-toggle { display: flex; justify-content: space-between; align-items: center; width: 100%; min-height: 48px; padding: 0 var(--sp-4); border: 0; background: transparent; color: var(--ink); font: 600 var(--fs-sm)/1 var(--font-ui); cursor: pointer; }
+.cat-body { display: none; padding: 0 var(--sp-3) var(--sp-3); max-height: 60vh; overflow: auto; }
+.cat-panel.open .cat-body { display: block; }
+@media (min-width: 861px) { .cat-body { display: block; max-height: 340px; } .cat-toggle { cursor: default; pointer-events: none; } .cat-toggle span[aria-hidden] { display: none; } }
+.cat-tree { list-style: none; margin: 0; padding: 0; }
+.cat-tree .cat-tree { padding-inline-start: 16px; margin-inline-start: 10px; border-inline-start: 1px solid var(--gold-line); }
+.cat-item { display: flex; justify-content: space-between; align-items: center; gap: 10px; width: 100%; min-height: 40px; padding: 4px 10px; border: 0; border-radius: var(--r-sm); background: transparent; color: var(--text); cursor: pointer; text-align: start; font: 500 var(--fs-sm)/1.3 var(--font-ui); }
+.cat-item:hover { background: var(--gold-soft); }
+.cat-item.on { background: var(--ink); color: var(--on-ink); }
+.cat-item.on .cat-count { color: var(--on-ink); }
+.cat-name { font-family: var(--font-he), var(--font-ui); font-size: 1.05rem; }
+.cat-count { font-size: var(--fs-xs); color: var(--muted); font-variant-numeric: tabular-nums; }
+.folder-head { display: flex; align-items: baseline; gap: 14px; margin: var(--sp-5) 0 var(--sp-4); }
+.folder-head h2, .folder-head h3 { margin: 0; font-family: var(--font-he), var(--font-display); color: var(--ink); line-height: 1.25; }
+.folder-head h2 { font-size: 1.7rem; font-weight: 700; }
+.folder-head h3 { font-size: 1.3rem; font-weight: 600; }
+.folder-head.depth-1 { padding-inline-start: 14px; } .folder-head.depth-2 { padding-inline-start: 28px; } .folder-head.depth-3 { padding-inline-start: 42px; }
+.folder-link { border: 0; background: none; padding: 0; font: inherit; color: inherit; cursor: pointer; text-align: start; }
+.folder-link:hover { color: var(--gold-strong); }
+.folder-head .count { font-size: var(--fs-xs); color: var(--muted); white-space: nowrap; }
+.crumbs-folders { display: inline-flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-inline-start: 10px; font-size: var(--fs-sm); color: var(--muted); }
+.crumbs-folders a { color: var(--gold-strong); text-decoration: none; font-family: var(--font-he), var(--font-ui); }

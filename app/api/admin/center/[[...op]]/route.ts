@@ -189,6 +189,7 @@ export async function PUT(req: Request, ctx: Ctx) {
   const name = String(b.name || prev?.name || (await folderInfo(b.folderId)).name);
   const c = upsertCollection({ folderId: b.folderId, name, settings: b.settings, published: typeof b.published === "boolean" ? b.published : undefined, slug: b.slug, parentFolderId: parent });
   if ((prev && prev.published !== c.published) || (!prev && c.published)) void (async () => { if (c.published) await mirrorCollectionAudio(c.folderId, console.log).catch(() => {}); await reindex(() => {}); })().catch(() => {}); // publication changed: mirror audio to R2, rebuild the site DB
+  else if (c.published && prev?.settings.subfolders !== c.settings.subfolders) void (async () => { const { scheduler } = await import("@/lib/ingest/scheduler"); if (!(await scheduler().syncFolders())) await reindex(() => {}); })().catch(() => {}); // subfolder categories toggled: rebuild the site DB
   return NextResponse.json({ ok: true, collection: c });
 }
 export async function DELETE(req: Request, ctx: Ctx) {

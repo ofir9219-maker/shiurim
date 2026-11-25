@@ -230,7 +230,7 @@ async function stepIndex(c: Ctx, it: Item) {
   const e: InvItem = {
     id: it.id, name: it.newName || it.name, order: it.order, ext: it.ext, mimeType: it.mimeType, sizeBytes: it.sizeBytes, durationMs: it.durationMs ?? 0,
     mdId: it.mdId ?? null, mdName: it.title ? `${it.title}.md` : null, transcript: "drive_md", inShiurim: false, r2Key: it.r2Key, ingested: true,
-    collectionId: it.collectionId ?? BERAJOT_ID(),
+    collectionId: it.collectionId ?? BERAJOT_ID(), parentId: it.parentId,
   };
   if (!inv.some((x) => x.id === it.id)) writeJson(dataPath("inventory.json"), [...inv, e]);
   else if (!repoInventory().some((x) => x.id === it.id)) writeJson(dataPath("inventory.json"), inv.map((x) => (x.id === it.id ? { ...x, ...e } : x)));

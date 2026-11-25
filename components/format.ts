@@ -22,6 +22,7 @@ export type ClassSummary = {
   id: string; ord: number; ordLabel: string; title: string; fileName: string;
   daf: { daf: string; amud: string }[]; dafLabel: string; durationMs: number;
   summary: string; tags: string[]; audioUrl: string; hasTranscript: boolean; collection?: string;
+  folders?: { id: string; name: string }[]; folderSort?: string;
 };
 export type Segment = { idx: number; startMs: number; endMs: number; text: string };
 export type ClassFull = ClassSummary & { segments: Segment[] };

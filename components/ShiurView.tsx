@@ -141,6 +141,11 @@ export default function ShiurView({ id }: { id: string }) {
   return (
     <article style={{ "--tx-size": `${SIZES[sizeIdx]}rem` } as React.CSSProperties}>
       <Link href={`/c/${cls.collection || "berajot"}`} className="back"><IconBack />Todas las clases</Link>
+      {cls.folders && cls.folders.length > 0 && (
+        <nav className="crumbs-folders" aria-label="Categoría">
+          {cls.folders.map((f, i) => <span key={f.id}>{i > 0 && "› "}<Link href={`/c/${cls.collection || "berajot"}?cat=${f.id}`} dir="auto">{f.name}</Link></span>)}
+        </nav>
+      )}
       <header className="shiur-head">
         <div className="meta-row">
           <span className="badge solid" aria-label={`Clase ${cls.ordLabel}`}>{cls.ordLabel}</span>

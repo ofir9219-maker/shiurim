@@ -33,6 +33,7 @@ export type ClassRow = {
   id: string; ord: number; ord_label: string; title: string; file_name: string;
   daf: string; daf_label: string; duration_ms: number; summary: string; tags: string;
   audio_url: string | null; r2_key: string | null; has_transcript: number; collection_id?: string | null;
+  folder_path?: string | null; folder_sort?: string | null;
 };
 
 export function openDb(opts: { readonly?: boolean; create?: boolean } = {}): Database.Database {
@@ -44,6 +45,8 @@ export function openDb(opts: { readonly?: boolean; create?: boolean } = {}): Dat
     // Databases created before collections existed: add the column (all old rows are the Berajot series).
     const cols = db.prepare("PRAGMA table_info(classes)").all() as { name: string }[];
     if (!cols.some((c) => c.name === "collection_id")) db.exec("ALTER TABLE classes ADD COLUMN collection_id TEXT DEFAULT 'berajot'");
+    if (!cols.some((c) => c.name === "folder_path")) db.exec("ALTER TABLE classes ADD COLUMN folder_path TEXT DEFAULT '[]'");
+    if (!cols.some((c) => c.name === "folder_sort")) db.exec("ALTER TABLE classes ADD COLUMN folder_sort TEXT DEFAULT ''");
   }
   return db;
 }
@@ -65,6 +68,8 @@ export type Daf = { daf: string; amud: string };
 export type ClassSummary = {
   id: string; ord: number; ordLabel: string; title: string; fileName: string; daf: Daf[]; dafLabel: string;
   durationMs: number; summary: string; tags: string[]; audioUrl: string; hasTranscript: boolean; collection: string;
+  /** Subfolder chain inside the series (Drive names), top -> leaf; and its catalog sort key. */
+  folders: { id: string; name: string }[]; folderSort: string;
 };
 export type Segment = { idx: number; startMs: number; endMs: number; text: string };
 
@@ -73,6 +78,7 @@ export function rowToClass(r: ClassRow, audioUrl: string): ClassSummary {
     id: r.id, ord: r.ord, ordLabel: r.ord_label, title: r.title, fileName: r.file_name,
     daf: parseJson<Daf[]>(r.daf, []), dafLabel: r.daf_label || "", durationMs: r.duration_ms || 0,
     summary: r.summary || "", tags: parseJson<string[]>(r.tags, []), audioUrl, hasTranscript: !!r.has_transcript, collection: r.collection_id || "berajot",
+    folders: parseJson<{ id: string; name: string }[]>(r.folder_path, []), folderSort: r.folder_sort || "",
   };
 }
 
@@ -85,7 +91,8 @@ export function listClasses(opts: { daf?: string; collection?: string | string[]
   const where: string[] = []; const args: unknown[] = [];
   if (opts.daf) { where.push("EXISTS (SELECT 1 FROM json_each(c.daf) j WHERE json_extract(j.value,'$.daf') = ?)"); args.push(opts.daf); }
   if (cols.length && hasCol) { where.push(`COALESCE(c.collection_id,'berajot') IN (${cols.map(() => "?").join(",")})`); args.push(...cols); }
-  return db.prepare(`SELECT * FROM classes c ${where.length ? "WHERE " + where.join(" AND ") : ""} ORDER BY ord, id`).all(...args) as ClassRow[];
+  const hasFolders = (db.prepare("PRAGMA table_info(classes)").all() as { name: string }[]).some((c) => c.name === "folder_sort");
+  return db.prepare(`SELECT * FROM classes c ${where.length ? "WHERE " + where.join(" AND ") : ""} ORDER BY ${hasFolders ? "COALESCE(c.folder_sort,''), " : ""}ord, id`).all(...args) as ClassRow[];
 }
 
 export function getClass(id: string): ClassRow | undefined {

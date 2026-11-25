@@ -198,3 +198,14 @@ test("prompts generalized by series; Berajot prompt unchanged; no Sefaria hints 
   assert.match(P.contextSystem("lm", "X"), /Likutei_Moharan\.19/);
   assert.match(P.polishSystem("ctx", "", "general", "Charlas"), /Charlas/);
 });
+
+test("subfolders: Hebrew-aware order, chains, sort keys", async () => {
+  const FO = await import("../lib/center/folders");
+  assert.deepEqual(["תורה טו", "תורה יד", "תניינא ע''ט", "תורה א - אבי עזרי"].sort(FO.compareNames), ["תורה א - אבי עזרי", "תורה יד", "תורה טו", "תניינא ע''ט"]);
+  assert.equal(FO.gematria("קכ״ג"), 123); assert.equal(FO.gematria("שלום"), null);
+  const trees = { R: { at: "", folders: [{ id: "A", name: "תורה טו", parentId: "R" }, { id: "B", name: "תורה יד", parentId: "R" }, { id: "A1", name: "שיעורים", parentId: "A" }] } };
+  assert.deepEqual(FO.folderChain("R", "A1", trees).map((f) => f.name), ["תורה טו", "שיעורים"]);
+  assert.deepEqual(FO.folderChain("R", "R", trees), []); assert.deepEqual(FO.folderChain("R", "zzz", trees), []);
+  const o = FO.folderOrder("R", trees); assert.equal(o.get("B"), "0001"); assert.equal(o.get("A"), "0002"); assert.equal(o.get("A1"), "0002.0001");
+  assert.equal(C.systemDefaults().subfolders, true);
+});

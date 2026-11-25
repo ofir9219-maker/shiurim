@@ -5,9 +5,9 @@ import TemplateEditor from "./TemplateEditor";
 
 type Own = {
   transcription?: { model?: string; language?: string }; autoSync?: boolean; postprocess?: string; openai?: { model?: string; effort?: string };
-  naming?: { mode?: string; template?: string; obra?: string }; allowHebrew?: boolean; aiCopyToDrive?: boolean; publish?: { title?: string; description?: string };
+  naming?: { mode?: string; template?: string; obra?: string }; allowHebrew?: boolean; aiCopyToDrive?: boolean; subfolders?: boolean; publish?: { title?: string; description?: string };
 };
-type Resolved = { model: string; language: string; autoSync: boolean; postprocess: string; openaiModel: string; openaiEffort: string; namingMode: string; template: string; obra: string; allowHebrew: boolean; aiCopyToDrive: boolean };
+type Resolved = { model: string; language: string; autoSync: boolean; postprocess: string; openaiModel: string; openaiEffort: string; namingMode: string; template: string; obra: string; allowHebrew: boolean; aiCopyToDrive: boolean; subfolders: boolean };
 type Info = { path: string[]; own: { name: string; slug: string; published: boolean; settings: Own } | null; parentResolved: Resolved; parentFrom: Record<string, string>; names: Record<string, string>; name: string };
 
 const POST_LABEL: Record<string, string> = { none: "Sin pulido (transcripción cruda)", openai: "Pulido con OpenAI", ai_package: "Zona IA (JSON)" };
@@ -59,6 +59,7 @@ export default function SettingsPanel({ folderId, folderName, state, onClose, on
           <label style={{ display: "flex", gap: 10, alignItems: "center", color: "var(--text)" }}><input type="checkbox" style={{ width: 22, height: 22, accentColor: "var(--ink)" }} checked={published} onChange={(e) => setPublished(e.target.checked)} /> Publicar en la web</label>
           {published && <><label>Título de la sección<input className="input" value={o.publish?.title ?? ""} onChange={(e) => upd("publish", "title", e.target.value)} placeholder={name} dir="auto" /></label>
             <label>Descripción<textarea className="input" rows={3} value={o.publish?.description ?? ""} onChange={(e) => upd("publish", "description", e.target.value)} /></label></>}
+          <label>Subcarpetas en la web{sel(bool(o.subfolders), (v) => upd("", "subfolders", v === "" ? undefined : v === "1"), [["1", "Respetar subcarpetas: categorías padre/hijo, en el orden de Drive"], ["0", "No: todas las clases juntas"]], `Automático (${P.subfolders !== false ? "respetar subcarpetas" : "todas juntas"})`)}{hint("subfolders", o.subfolders, P.subfolders !== false ? "respetar subcarpetas" : "todas juntas")}</label>
         </fieldset>
         <fieldset><legend>Transcripción (Fal o AssemblyAI)</legend>
           <label>Modelo{sel(o.transcription?.model, (v) => upd("transcription", "model", v), models.map((m) => [m.id, m.label]), `Automático (${models.find((m) => m.id === P.model)?.label ?? P.model})`)}{hint("model", o.transcription?.model, models.find((m) => m.id === P.model)?.label ?? P.model)}</label>
