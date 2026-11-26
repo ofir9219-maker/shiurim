@@ -144,8 +144,8 @@ export default function ClassList({ classes, series }: { classes: ClassSummary[]
           <li><b>{classes.length || "—"}</b><span>clases</span></li>
           <li><b>~{hours || "—"}</b><span>horas</span></li>
         </ul></>)}
-        <form className="hero-search" role="search" onSubmit={(e) => { e.preventDefault(); const t = q.trim(); router.push(t ? `/buscar?q=${encodeURIComponent(t)}${series ? `&c=${series.slug}` : ""}` : "/buscar"); }}>
-          <input className="input" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Buscar un tema en las clases…" aria-label="Buscar en las clases" enterKeyHint="search" />
+        <form className="hero-search" role="search" onSubmit={(e) => { e.preventDefault(); const t = q.trim(); router.push(t ? `/?q=${encodeURIComponent(t)}` : "/"); }}>
+          <input className="input" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Pregunta sobre un tema de las clases…" aria-label="Buscar en las clases" enterKeyHint="search" />
           <button type="submit" aria-label="Buscar"><IconSearch /></button>
         </form>
       </section>

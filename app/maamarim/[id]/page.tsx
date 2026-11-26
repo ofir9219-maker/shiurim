@@ -16,15 +16,15 @@ export async function generateMetadata({ params }: P) {
 const linkNotes = (html: string) => html.replace(/<sup class="fn" data-n="(\d+)">\d+<\/sup>/g, (_m, n) => `<sup class="fn" id="fnref-${n}"><a href="#fn-${n}" aria-label="Nota ${n}">${n}</a></sup>`);
 const sefariaUrl = (ref: string) => `https://www.sefaria.org/${encodeURIComponent(ref.replace(/ /g, "_"))}?lang=he`;
 
-function BlockView({ b }: { b: Block }) {
-  if (b.t === "h") return <h3>{b.text}</h3>;
+function BlockView({ b, id }: { b: Block; id: string }) {
+  if (b.t === "h") return <h3 id={id}>{b.text}</h3>;
   if (b.t === "quote") return (
-    <blockquote className={`mm-quote${b.unresolved ? " pending" : ""}`}>
+    <blockquote id={id} className={`mm-quote${b.unresolved ? " pending" : ""}`}>
       {b.text}
       {(b.label || b.ref) && <span className="mm-mekor">{b.ref ? <a href={sefariaUrl(b.ref)} target="_blank" rel="noopener noreferrer">{b.label || b.ref}</a> : b.label}</span>}
     </blockquote>
   );
-  return <p dangerouslySetInnerHTML={{ __html: linkNotes(b.html) }} />;
+  return <p id={id} dangerouslySetInnerHTML={{ __html: linkNotes(b.html) }} />;
 }
 
 export default async function MaamarPage({ params }: P) {
@@ -60,7 +60,7 @@ export default async function MaamarPage({ params }: P) {
             {m.sections.map((s) => (
               <section key={s.id} id={s.id} className="mm-section">
                 {s.title && <h2>{s.title}</h2>}
-                {s.blocks.map((b, i) => <BlockView key={i} b={b} />)}
+                {s.blocks.map((b, i) => <BlockView key={i} b={b} id={`${s.id}-b${i}`} />)}
               </section>
             ))}
             {m.notes.length > 0 && (

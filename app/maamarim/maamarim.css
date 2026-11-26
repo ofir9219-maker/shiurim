@@ -152,3 +152,4 @@ sup.fn a { color: inherit; text-decoration: none; }
   .mm-section h2 { break-after: avoid; }
   .mm-quote { break-inside: avoid; background: #f3f3f3; }
 }
+.mm-hit { background: var(--mark); border-radius: 4px; box-shadow: 0 0 0 6px var(--mark); transition: background .6s; }

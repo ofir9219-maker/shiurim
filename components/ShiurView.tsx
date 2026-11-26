@@ -1,7 +1,7 @@
 "use client";
 import { memo, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useSearchParams } from "next/navigation";
-import ChatPanel from "./ChatPanel";
+import AgentChat from "./agent/AgentChat";
 import { usePlayer } from "./player/PlayerProvider";
 import Link from "next/link";
 import { cleanTitle, fmtTime, parseT, type ClassFull, type Segment } from "./format";
@@ -164,7 +164,7 @@ export default function ShiurView({ id }: { id: string }) {
             <span style={{ display: "inline-flex", alignItems: "center", gap: 10 }}><IconSpark style={{ color: "var(--gold)" }} />Preguntar sobre esta clase</span>
             <IconDown />
           </button>
-          {askOpen && <div className="ask-panel" id="ask-panel"><ChatPanel classId={id} /></div>}
+          {askOpen && <div className="ask-panel" id="ask-panel"><AgentChat compact scope={{ type: "shiur", id, title: cls?.title }} /></div>}
         </section>
       </div>
 

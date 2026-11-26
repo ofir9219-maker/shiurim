@@ -9,6 +9,18 @@ export default function ReaderTools() {
     document.querySelector<HTMLElement>(".mm-doc")?.style.setProperty("--mm-size", `${size}rem`);
     try { localStorage.setItem(KEY, String(size)); } catch { /* ignore */ }
   }, [size]);
+  // Citation links (#s2-b3 / #fn-4): center and highlight the cited paragraph (client navigation does not apply :target)
+  useEffect(() => {
+    const go = () => {
+      const id = decodeURIComponent(location.hash.slice(1)); if (!id) return;
+      const el = document.getElementById(id); if (!el) return;
+      document.querySelectorAll(".mm-hit").forEach((x) => x.classList.remove("mm-hit"));
+      el.classList.add("mm-hit");
+      setTimeout(() => el.scrollIntoView({ block: "center", behavior: "smooth" }), 60);
+    };
+    go(); window.addEventListener("hashchange", go);
+    return () => window.removeEventListener("hashchange", go);
+  }, []);
   return (
     <>
       <div className="mm-size" role="group" aria-label="Tamaño de letra">

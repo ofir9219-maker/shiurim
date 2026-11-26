@@ -5,9 +5,8 @@ import { useEffect, useState } from "react";
 import { IconMoon, IconSun } from "./icons";
 
 const items = [
-  { href: "/", label: "Shiurim" },
-  { href: "/buscar", label: "Buscar" },
-  { href: "/chat", label: "Preguntar" },
+  { href: "/", label: "Preguntar" },
+  { href: "/series", label: "Shiurim" },
   { href: "/champinones", label: "Champiñones" },
   { href: "/maamarim", label: "Maamarim" },
 ];
@@ -49,7 +48,7 @@ export default function Nav() {
         </Link>
         <nav className="nav" aria-label="Principal">
           {items.map((i) => {
-            const on = i.href === "/" ? path === "/" || path.startsWith("/shiur") : path.startsWith(i.href);
+            const on = i.href === "/" ? path === "/" : i.href === "/series" ? path.startsWith("/series") || path.startsWith("/c/") || path.startsWith("/shiur") : path.startsWith(i.href);
             return <Link key={i.href} href={i.href} className={on ? "navlink on" : "navlink"} aria-current={on ? "page" : undefined}>{i.label}</Link>;
           })}
         </nav>
